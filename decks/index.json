@@ -1,0 +1,9 @@
+{
+  "decks": [
+    "biochem/01-amino-acids.json",
+    "pharmacognosy/01-major-constituents.json",
+    "orgchem/01-functional-groups.json",
+    "analchem/01-basics.json",
+    "physpharm/01-dissolution-interface.json"
+  ]
+}

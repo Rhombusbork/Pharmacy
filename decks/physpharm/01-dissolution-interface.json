@@ -1,0 +1,44 @@
+{
+  "deckId": "physpharm-01",
+  "subject": "물리약학",
+  "title": "1차시: 용해·계면·분산계",
+  "questions": [
+    {
+      "id": 1,
+      "question": "노예스-휘트니(Noyes-Whitney) 식에 따르면 용해 속도를 높이는 방법은?",
+      "choices": ["입자 크기 감소", "확산층 두께 증가", "용매 점도 증가", "포화 용해도 감소"],
+      "answer": "입자 크기 감소",
+      "explanation": "dC/dt = DA(Cs - C)/h 에서 입자가 작아지면 표면적 A가 커져 용해 속도가 빨라진다."
+    },
+    {
+      "id": 2,
+      "question": "계면활성제가 용액 속에서 미셀을 만들기 시작하는 농도를 영문 약어로 쓰면?",
+      "answer": ["CMC", "임계 미셀 농도", "critical micelle concentration"]
+    },
+    {
+      "id": 3,
+      "question": "스토크스 법칙에 따르면 현탁액 입자의 침강 속도는 입자 반지름의 몇 제곱에 비례하는가?",
+      "choices": ["1제곱", "2제곱", "3제곱", "제곱근"],
+      "answer": "2제곱",
+      "explanation": "v = 2r²(ρ - ρ₀)g / 9η 이므로 반지름 r의 제곱에 비례한다."
+    },
+    {
+      "id": 4,
+      "question": "계면활성제의 친수성과 친유성의 균형을 나타내는 수치의 영문 약어는?",
+      "answer": ["HLB", "hydrophile-lipophile balance"],
+      "explanation": "HLB 값이 클수록 친수성이 크며, O/W형 유화제는 대체로 HLB 8~18이다."
+    },
+    {
+      "id": 5,
+      "question": "전단 속도와 관계없이 점도가 일정한 흐름은?",
+      "choices": ["뉴턴 흐름", "의가소성 흐름", "팽창성 흐름", "소성 흐름"],
+      "answer": "뉴턴 흐름"
+    },
+    {
+      "id": 6,
+      "question": "1차 반응의 반감기는 0.693을 무엇으로 나눈 값인가?",
+      "answer": ["k", "속도상수", "반응 속도 상수", "rate constant"],
+      "explanation": "1차 반응에서 t½ = 0.693 / k 이며, 반감기는 초기 농도와 관계없다."
+    }
+  ]
+}
