@@ -1,0 +1,127 @@
+{
+  "deckId": "orgchem-ch19",
+  "subject": "유기화학",
+  "title": "Ch19: 카보닐 화학 입문",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 메커니즘(굽은 화살표)의 첫 단계가 끝난 뒤 생성되는 중간체는? [[img:orgchem/images/carbonyl-nucleophilic-addition.svg|카보닐 친핵성 첨가 첫 단계]]",
+      "choices": [
+        "사면체 알콕사이드 중간체 (카보닐 탄소가 sp³로 바뀜)",
+        "아실륨 이온",
+        "에놀",
+        "탄소 양이온"
+      ],
+      "answer": "사면체 알콕사이드 중간체 (카보닐 탄소가 sp³로 바뀜)",
+      "explanation": "C=O는 O의 전기음성도 때문에 C가 δ+이다. 친핵체가 δ+ 탄소를 공격하면 π전자가 산소로 이동해 사면체 알콕사이드가 된다(sp² → sp³). 이후 양성자화되면 알코올이 된다."
+    },
+    {
+      "id": 2,
+      "question": "알데하이드·케톤은 주로 친핵성 첨가를, 카복실산 유도체는 주로 친핵성 아실 치환을 하는 이유는?",
+      "choices": [
+        "카복실산 유도체의 카보닐 탄소에는 좋은 이탈기(Cl, OCOR, OR 등)가 붙어 있기 때문",
+        "알데하이드·케톤의 카보닐 탄소가 sp³ 혼성이기 때문",
+        "카복실산 유도체에는 π결합이 없기 때문",
+        "H⁻와 R⁻가 좋은 이탈기이기 때문"
+      ],
+      "answer": "카복실산 유도체의 카보닐 탄소에는 좋은 이탈기(Cl, OCOR, OR 등)가 붙어 있기 때문",
+      "explanation": "사면체 중간체에서 알데하이드·케톤은 H⁻나 R⁻(매우 나쁜 이탈기)를 내보낼 수 없어 양성자화(첨가)로 끝난다. 유도체는 이탈기가 떨어지며 C=O가 다시 생긴다(치환)."
+    },
+    {
+      "id": 3,
+      "question": "다음 반응의 ? 에 들어갈 가장 적절한 시약은? [[rxn:O=C1CCCCC1>>OC1CCCCC1|?|CH₃OH]]",
+      "choices": [
+        "NaBH₄",
+        "PCC",
+        "CH₃MgBr",
+        "KMnO₄"
+      ],
+      "answer": "NaBH₄",
+      "explanation": "NaBH₄는 H⁻를 카보닐 탄소에 주어 알데하이드 → 1차 알코올, 케톤 → 2차 알코올로 환원한다. PCC·KMnO₄는 산화제, CH₃MgBr는 탄소를 더한다."
+    },
+    {
+      "id": 4,
+      "question": "다음 화합물을 NaBH₄ (CH₃OH)로 처리할 때 주생성물은? [[smi:CC(=O)CCC(=O)OC]]",
+      "choices": [
+        "[[smi:CC(O)CCC(=O)OC]]",
+        "[[smi:CC(O)CCCO]]",
+        "[[smi:CC(=O)CCCO]]",
+        "[[smi:CC(=O)CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CC(O)CCC(=O)OC]]",
+      "explanation": "NaBH₄는 반응성이 약해 알데하이드·케톤만 환원하고 에스터는 거의 환원하지 못한다(화학선택성). LiAlH₄를 쓰면 케톤과 에스터가 모두 환원되어 다이올 [[smi:CC(O)CCCO]] 이 된다."
+    },
+    {
+      "id": 5,
+      "question": "[[smi:CC(C)=O]] 를 [1] C₆H₅MgBr, [2] H₃O⁺ 로 처리한 생성물은?",
+      "choices": [
+        "[[smi:CC(C)(O)c1ccccc1]]",
+        "[[smi:CC(C)Oc1ccccc1]]",
+        "[[smi:OC(c1ccccc1)c1ccccc1]]",
+        "[[smi:CC(C)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(C)(O)c1ccccc1]]",
+      "explanation": "Grignard 시약의 탄소(C⁻ 성격)가 카보닐 탄소를 공격해 새 C–C 결합을 만들고, 산 처리로 3차 알코올(2-페닐-2-프로판올)이 된다. 폼알데하이드 → 1차, 다른 알데하이드 → 2차, 케톤 → 3차 알코올."
+    },
+    {
+      "id": 6,
+      "question": "다음 반응에서 중간에 생성되었다가 곧바로 두 번째 CH₃MgBr와 반응하는 화합물은? [[rxn:COC(=O)c1ccccc1>>CC(C)(O)c1ccccc1|[1] CH₃MgBr (2 equiv 이상)|[2] H₃O⁺]]",
+      "choices": [
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:OCc1ccccc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)c1ccccc1]]",
+      "explanation": "첫 번째 R⁻가 친핵성 아실 치환을 일으켜 CH₃O⁻가 떨어지고 케톤(아세토페논)이 생긴다. 케톤은 에스터보다 반응성이 커서 곧바로 두 번째 R⁻가 첨가되어 3차 알코올이 된다. 그래서 에스터 + Grignard는 케톤 단계에서 멈추지 않는다."
+    },
+    {
+      "id": 7,
+      "question": "다음 반응에서 [2] 단계의 ? 에 들어갈 시약은? [[rxn:Brc1ccccc1>>OC(=O)c1ccccc1|[1] Mg, ether  [2] ?|[3] H₃O⁺]]",
+      "choices": [
+        "CO₂",
+        "HCHO",
+        "CH₃CHO",
+        "H₂O"
+      ],
+      "answer": "CO₂",
+      "explanation": "Grignard 시약이 CO₂의 탄소를 공격하면 카복실레이트가 되고, 산 처리로 카복실산이 된다(탄소 1개 증가). HCHO는 1차 알코올, H₂O는 벤젠(양성자화)을 준다."
+    },
+    {
+      "id": 8,
+      "question": "[[smi:O=C(Cl)c1ccccc1]] 을 (CH₃)₂CuLi 로 처리한 주생성물은?",
+      "choices": [
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:CC(C)(O)c1ccccc1]]",
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)c1ccccc1]]",
+      "explanation": "유기구리 시약(Gilman 시약)은 Grignard보다 반응성이 약해 산 염화물과는 치환하지만 생성된 케톤에는 첨가하지 않는다. 따라서 케톤에서 멈춘다. 같은 기질에 CH₃MgBr(과량)를 쓰면 3차 알코올이 된다."
+    },
+    {
+      "id": 9,
+      "question": "[[smi:CCCCO]] 를 PCC (CH₂Cl₂)로 산화한 생성물은?",
+      "choices": [
+        "[[smi:CCCC=O]]",
+        "[[smi:CCCC(=O)O]]",
+        "[[smi:CCC(C)=O]]",
+        "[[smi:CCCCOC]]"
+      ],
+      "answer": "[[smi:CCCC=O]]",
+      "explanation": "PCC는 물이 없는 조건에서 1차 알코올을 알데하이드에서 멈추게 한다. CrO₃/H₂SO₄/H₂O(Jones 시약)나 KMnO₄는 카복실산까지 산화한다. 2차 알코올은 케톤, 3차 알코올은 산화되지 않는다."
+    },
+    {
+      "id": 10,
+      "question": "[[smi:OCCBr]] (2-브로모에탄올)로부터 Grignard 시약을 직접 만들 수 없는 이유는?",
+      "choices": [
+        "Grignard 시약은 강한 염기라서 같은 분자의 O–H 양성자와 즉시 산-염기 반응하기 때문",
+        "Br이 이탈기가 아니기 때문",
+        "Mg는 1차 할로젠화 알킬과 반응하지 않기 때문",
+        "에터 용매에 녹지 않기 때문"
+      ],
+      "answer": "Grignard 시약은 강한 염기라서 같은 분자의 O–H 양성자와 즉시 산-염기 반응하기 때문",
+      "explanation": "R–MgX는 매우 강한 염기(짝산 pKa ≈ 50)라 O–H, N–H, COOH 등 산성 양성자가 있으면 양성자화되어 R–H가 된다. 이럴 때는 OH를 실릴 에터(TBDMS) 등으로 보호한 뒤 Grignard 시약을 만든다."
+    }
+  ]
+}

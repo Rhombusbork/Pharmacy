@@ -1,0 +1,868 @@
+{
+  "deckId": "orgchem-exam-2024-2-mid",
+  "subject": "유기화학",
+  "title": "2024-2 유기약화학2 중간고사 기출 + 변형(각 2문항)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 1번] 다음 카복실산 유도체 중 가장 적은 유형의 생성물을 만드는 것은?",
+      "choices": [
+        "RCONR₂",
+        "RCOCl",
+        "(RCO)₂O",
+        "RCOOH",
+        "RCOOR'"
+      ],
+      "answer": "RCONR₂",
+      "explanation": "반응성: RCOCl > (RCO)₂O > RCOOH ≈ RCOOR' > RCONR₂. 친핵성 아실 치환은 반응성이 큰 유도체 → 작은 유도체 방향(내리막)으로만 일어나므로, 가장 반응성이 작은 아마이드는 카복실산(카복실레이트)으로만 바뀔 수 있다. (복원본의 'ROCOCl'은 RCOCl의 오기로 보고 수정)"
+    },
+    {
+      "id": 2,
+      "question": "[1번 변형 1] 다음 중 친핵성 아실 치환 반응성이 가장 큰 것은?",
+      "choices": [
+        "[[smi:CC(=O)N]]",
+        "[[smi:CC(=O)OC]]",
+        "[[smi:CC(=O)OC(C)=O]]",
+        "[[smi:CC(=O)Cl]]"
+      ],
+      "answer": "[[smi:CC(=O)Cl]]",
+      "explanation": "이탈기가 약한 염기일수록 잘 떨어진다. Cl⁻(HCl pKa −7)가 가장 좋은 이탈기이고, NH₂⁻(NH₃ pKa 38)가 가장 나쁘다. 또 아마이드는 N의 비공유 전자쌍 공명이 커서 카보닐 탄소의 δ+가 작다."
+    },
+    {
+      "id": 3,
+      "question": "[1번 변형 2] 다음 변환 중 친핵성 아실 치환 한 단계로 일어나기 어려운 것은?",
+      "choices": [
+        "[[rxn:CC(=O)Cl>>CC(=O)OC|CH₃OH|피리딘]]",
+        "[[rxn:CC(=O)OC(C)=O>>CC(=O)N|NH₃]]",
+        "[[rxn:CC(=O)OC>>CC(=O)O|H₃O⁺|Δ]]",
+        "[[rxn:CC(=O)N>>CC(=O)Cl|NaCl]]"
+      ],
+      "answer": "[[rxn:CC(=O)N>>CC(=O)Cl|NaCl]]",
+      "explanation": "아마이드 → 산 염화물은 반응성이 작은 유도체에서 큰 유도체로 가는 '오르막' 변환이라 Cl⁻로는 일어나지 않는다. 나머지는 모두 반응성이 큰 쪽에서 작은 쪽으로 가는 변환이다."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2번] 다음 화합물들 중에서 방향족의 개수는?\nCyclooctatetraene [[smi:C1=CC=CC=CC=C1]]\nCyclohexa-1,3-diene [[smi:C1=CC=CCC1]]\nCyclobutadiene [[smi:C1=CC=C1]]\n[10]-annulene [[smi:C1=CC=CC=CC=CC=C1]]\n[14]-annulene [[smi:C1=CC=CC=CC=CC=CC=CC=C1]]\nBuckminsterfullerene (C₆₀)",
+      "choices": [
+        "0개",
+        "1개",
+        "2개",
+        "4개",
+        "6개"
+      ],
+      "answer": "2개",
+      "explanation": "사이클로옥타테트라엔: 8π, 욕조형(비평면) → 비방향족. 사이클로헥사-1,3-다이엔: sp³ 탄소가 있어 완전 공액 아님 → 비방향족. 사이클로뷰타다이엔: 4π 평면 → 반방향족. [10]아눌렌: 10π이지만 고리 안쪽 H끼리의 반발로 평면이 못 됨 → 비방향족. [14]아눌렌: 14π(4n+2) → 방향족. 버크민스터풀러렌: 모든 탄소가 sp²인 구형 공액계로 교재에서 방향족으로 분류. 따라서 2개."
+    },
+    {
+      "id": 5,
+      "question": "[2번 변형 1] 다음 화학종 중 방향족인 것의 개수는?\n(가) [[smi:[CH+]1C=C1]]  (나) [[smi:[CH-]1C=CC=C1]]  (다) [[smi:[CH+]1C=CC=C1]]\n(라) [[smi:[CH+]1C=CC=CC=C1]]  (마) [[smi:[CH-]1C=CC=CC=C1]]  (바) [[smi:[CH-]1C=CC=CC=C[CH-]1]]",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "answer": "4개",
+      "explanation": "(가) 사이클로프로펜일 양이온 2π(n=0) 방향족, (나) 사이클로펜타다이엔일 음이온 6π 방향족, (다) 사이클로펜타다이엔일 양이온 4π 반방향족, (라) 트로필륨 이온 6π 방향족, (마) 사이클로헵타트라이엔일 음이온 8π 반방향족, (바) 사이클로옥타테트라엔 이음이온 10π로 평면이 되어 방향족. 따라서 4개."
+    },
+    {
+      "id": 6,
+      "question": "[2번 변형 2] 다음 헤테로고리 화합물 중 방향족인 것의 개수는?\n(가) [[smi:c1ccoc1]] 퓨란  (나) [[smi:c1ccsc1]] 싸이오펜  (다) [[smi:c1ccncc1]] 피리딘\n(라) [[smi:C1=CCOC=C1]] 4H-피란  (마) [[smi:C1=CNC=CC1]] 1,4-다이하이드로피리딘",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "answer": "3개",
+      "explanation": "퓨란·싸이오펜은 헤테로원자의 비공유 전자쌍 하나가 π계에 참여해 6π, 피리딘은 N의 비공유 전자쌍이 π계와 무관한 채 6π → 모두 방향족. 4H-피란과 1,4-다이하이드로피리딘은 고리에 sp³ CH₂가 있어 완전 공액이 아니므로 비방향족. 따라서 3개."
+    },
+    {
+      "id": 7,
+      "question": "[기출 3번] 다음은 Diels–Alder(딜스–알더) 반응에 대한 설명이다. 사실과 거리가 가장 먼 것을 고르시오.",
+      "choices": [
+        "독일의 화학자 Otto Diels와 Kurt Alder의 이름을 딴 인명반응이다.",
+        "1,3-다이엔과 친다이엔체(dienophile)가 첨가반응을 일으켜 새로운 육원자 고리를 형성한다.",
+        "다이엔에 있는 2개의 이중결합이 s-trans로 고정되어 있다면 이 반응은 일어나지 않는다.",
+        "친다이엔체(dienophile)에 전자 주는 치환기가 존재하면 반응 속도가 증가한다.",
+        "고리형 다이엔에 카보닐 치환기가 있는 알켄의 첨가가 일어나면 큰 고리 쪽에 알켄의 치환기가 위치한 내향(endo) 생성물이 주로 생성된다."
+      ],
+      "answer": "친다이엔체(dienophile)에 전자 주는 치환기가 존재하면 반응 속도가 증가한다.",
+      "explanation": "친다이엔체에는 전자 끄는 기(–CHO, –COR, –COOR, –CN)가 있어야 반응이 빨라진다. endo 규칙: 치환기가 긴 다리(새 C=C 쪽) 아래를 향한 생성물이 주생성물이다: [[rxn:C1=CCC=C1.C=CC(C)=O>>CC(=O)C1CC2C=CC1C2|Δ]] (복원본 ④는 '전자 끄는'으로 적혀 있어 모든 선지가 옳은 문장이 되므로, 흔히 출제되는 함정인 '전자 주는'으로 보정)"
+    },
+    {
+      "id": 8,
+      "question": "[3번 변형 1] 다음 Diels–Alder 반응의 생성물은? [[smi:C=CC=C]] + [[smi:O=C1OC(=O)C=C1]] (말레산 무수물, 가열)",
+      "choices": [
+        "[[smi:O=C1OC(=O)C2CC=CCC12]]",
+        "[[smi:O=C1OC(=O)C2C=CCCC12]]",
+        "[[smi:O=C1OC(=O)c2ccccc12]]",
+        "[[smi:O=C1C=CC(=O)O1]]"
+      ],
+      "answer": "[[smi:O=C1OC(=O)C2CC=CCC12]]",
+      "explanation": "다이엔 C1·C4와 다이엔친화체의 두 탄소 사이에 σ결합 2개가 생기고, 다이엔의 C2=C3 자리에 새 C=C가 생긴다. 말레산 무수물은 전자 끄는 C=O 두 개를 가진 매우 좋은 다이엔친화체이며, cis 입체화학이 생성물에 그대로 유지된다: [[rxn:C=CC=C.O=C1OC(=O)C=C1>>O=C1OC(=O)C2CC=CCC12|Δ]]"
+    },
+    {
+      "id": 9,
+      "question": "[3번 변형 2] 다음 다이엔 중 Diels–Alder 반응이 일어나지 않는 것은?",
+      "choices": [
+        "[[smi:C1=CCC=C1]]",
+        "[[smi:C=CC=C]]",
+        "[[smi:C=C1CCCCC1=C]]",
+        "[[smi:C1=C2C(=CCCC2)CCC1]]"
+      ],
+      "answer": "[[smi:C1=C2C(=CCCC2)CCC1]]",
+      "explanation": "마지막 화합물은 두 C=C가 융합 고리의 서로 다른 고리에 있어 s-trans로 고정되어 있으므로 반응하지 않는다. 사이클로펜타다이엔과 1,2-다이메틸렌사이클로헥세인은 s-cis로 고정되어 반응성이 매우 크고, 1,3-뷰타다이엔은 s-cis로 회전할 수 있어 반응한다."
+    },
+    {
+      "id": 10,
+      "question": "[기출 4번] 다음 에너지 도표와 화합물을 보고 옳은 것을 모두 고르시오. [[img:orgchem/images/butadiene-hbr-energy.svg|1,3-뷰타다이엔 + HBr 반응 에너지 도표]]\n[[smi:CC(=O)O]]\nㄱ. 아세트산 음이온(아세테이트)에서 두 C–O의 결합 길이는 같다.\nㄴ. 다음 다이엔 중 수소화열이 가장 작은 것은 (가)다. (가) [[smi:C/C=C/C=C]] (나) [[smi:C=CCC=C]] (다) [[smi:C=C=CCC]]\nㄷ. 도표의 반응에서 반응속도론적 생성물은 a(1,2-첨가 생성물)이다.",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "ㄱ: 아세테이트는 두 공명 구조의 혼성체라 두 C–O 결합이 같은 길이(단일·이중 사이)이다. ㄴ: 공액 다이엔(가)이 가장 안정해 수소화열이 가장 작다. ㄷ: a는 활성화 에너지가 작아 빨리 생기는 반응속도론적 생성물, b는 더 안정한 열역학적 생성물이다. 모두 옳다. (복원본의 그림·보기를 도표와 구조식으로 재구성)"
+    },
+    {
+      "id": 11,
+      "question": "[4번 변형 1] 위 도표의 반응(1,3-뷰타다이엔 + HBr)을 40 °C에서 충분한 시간 동안 진행할 때의 주생성물은? [[img:orgchem/images/butadiene-hbr-energy.svg|1,3-뷰타다이엔 + HBr 반응 에너지 도표]]",
+      "choices": [
+        "[[smi:C/C=C/CBr]]",
+        "[[smi:C=CC(C)Br]]",
+        "[[smi:C=CCCBr]]",
+        "[[smi:CC=C(C)Br]]"
+      ],
+      "answer": "[[smi:C/C=C/CBr]]",
+      "explanation": "고온에서는 두 경로가 모두 가역적이 되어 평형에 도달하므로 더 안정한 b(1,4-첨가 생성물, 1-브로모-2-뷰텐)가 주생성물이다. 1,4-생성물은 이중결합이 더 치환된 내부 알켄이라 안정하다: [[rxn:C=CC=C>>C/C=C/CBr|HBr|40 °C]]"
+    },
+    {
+      "id": 12,
+      "question": "[4번 변형 2] 1,3-뷰타다이엔과 HBr의 반응에 대해 옳은 것을 모두 고르시오.\nㄱ. 반응 중간체는 공명 안정화된 알릴 양이온이다. [[smi:C[CH+]C=C]]\nㄴ. 저온에서 1,2-생성물이 주생성물인 이유는 그 경로의 활성화 에너지가 더 작기 때문이다.\nㄷ. 고온에서 1,4-생성물이 주생성물인 이유는 그 경로의 활성화 에너지가 더 작기 때문이다.",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "ㄱ, ㄴ은 옳다. ㄷ: 1,4-생성물 경로는 오히려 활성화 에너지가 크다. 고온에서 1,4-생성물이 우세한 것은 생성물 자체가 더 안정(에너지가 낮음)하고 반응이 가역적이기 때문이다(열역학적 조절)."
+    },
+    {
+      "id": 13,
+      "question": "[기출 5번] 구조와 관용명이 올바르게 짝지어진 것은?",
+      "choices": [
+        "[[smi:O=C1CCCO1]] – δ-valerolactone",
+        "[[smi:CCC=O]] – acetaldehyde",
+        "[[smi:Cc1ccccc1C]] – o-xylene",
+        "[[smi:CCCC#N]] – propionitrile",
+        "[[smi:C1CCNC1]] – piperidine"
+      ],
+      "answer": "[[smi:Cc1ccccc1C]] – o-xylene",
+      "explanation": "o-자일렌(1,2-다이메틸벤젠)이 맞다. 나머지 올바른 이름: γ-뷰티로락톤(오원자 락톤), 프로피온알데하이드(propanal), 뷰티로나이트릴(CN 탄소 포함 C4), 피롤리딘(오원자 고리 아민; 피페리딘은 육원자)."
+    },
+    {
+      "id": 14,
+      "question": "[5번 변형 1] 구조와 관용명이 잘못 짝지어진 것은?",
+      "choices": [
+        "[[smi:CC(=O)c1ccccc1]] – acetophenone",
+        "[[smi:O=C(c1ccccc1)c1ccccc1]] – benzophenone",
+        "[[smi:COc1ccccc1]] – anisole",
+        "[[smi:Nc1ccccc1]] – aniline",
+        "[[smi:Oc1ccccc1]] – toluene"
+      ],
+      "answer": "[[smi:Oc1ccccc1]] – toluene",
+      "explanation": "[[smi:Oc1ccccc1]] 은 페놀(phenol)이다. 톨루엔은 [[smi:Cc1ccccc1]] (메틸벤젠)이다."
+    },
+    {
+      "id": 15,
+      "question": "[5번 변형 2] 구조와 관용명이 올바르게 짝지어진 것은?",
+      "choices": [
+        "[[smi:C=O]] – acetaldehyde",
+        "[[smi:CC(C)=O]] – acetone",
+        "[[smi:CC(=O)OC(C)=O]] – acetyl chloride",
+        "[[smi:O=Cc1ccccc1]] – benzoic acid",
+        "[[smi:CCC(=O)O]] – butyric acid"
+      ],
+      "answer": "[[smi:CC(C)=O]] – acetone",
+      "explanation": "아세톤(propan-2-one)이 맞다. 올바른 이름: 폼알데하이드, 아세트산 무수물, 벤즈알데하이드, 프로피온산(propanoic acid; 뷰티르산은 C4)."
+    },
+    {
+      "id": 16,
+      "question": "[기출 6번] 다음은 1,3-뷰타다이엔의 π 분자 오비탈 4개(A–D)를 순서 없이 나타낸 것이다. 옳은 것을 모두 고르시오. (색칠한 로브와 흰 로브는 위상이 반대)\n[[img:orgchem/images/butadiene-pi-mo.svg|1,3-뷰타다이엔의 π 분자 오비탈 A–D]]\nㄱ. 에너지는 C < A < D < B 순으로 높아진다.\nㄴ. 바닥 상태의 HOMO는 A이다.\nㄷ. 바닥 상태의 LUMO는 B이다.",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "인접한 로브의 위상이 바뀌는 곳이 마디(node)이고, 마디가 많을수록 에너지가 높다. C(마디 0) = ψ1, A(마디 1) = ψ2, D(마디 2) = ψ3, B(마디 3) = ψ4. π전자 4개가 ψ1, ψ2를 채우므로 HOMO는 A(ψ2), LUMO는 D(ψ3)이다. ㄷ은 틀림."
+    },
+    {
+      "id": 17,
+      "question": "[6번 변형 1] 위 그림에서 1,3-뷰타다이엔이 빛(hν)을 흡수해 전자 1개가 들뜬 상태의 HOMO는? [[img:orgchem/images/butadiene-pi-mo.svg|1,3-뷰타다이엔의 π 분자 오비탈 A–D]]",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "D",
+      "explanation": "빛을 흡수하면 ψ2(A)의 전자 1개가 ψ3(D)로 올라간다. 들뜬 상태에서는 전자가 들어 있는 가장 높은 오비탈인 ψ3(D)가 HOMO가 된다. 이 차이 때문에 열 반응과 광화학 반응의 입체화학이 달라진다."
+    },
+    {
+      "id": 18,
+      "question": "[6번 변형 2] 1,3-뷰타다이엔의 π 분자 오비탈에 대해 옳은 것을 모두 고르시오.\nㄱ. 4개의 p 오비탈이 결합하여 4개의 π 분자 오비탈이 생긴다.\nㄴ. 마디(node)가 많은 분자 오비탈일수록 에너지가 높다.\nㄷ. 바닥 상태에서 π전자 4개는 모두 결합성 분자 오비탈(ψ1, ψ2)에 들어 있다.",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "n개의 원자 오비탈 → n개의 분자 오비탈. ψ1(마디 0)·ψ2(마디 1)는 결합성, ψ3·ψ4는 반결합성이며, 바닥 상태의 4개 π전자는 ψ1과 ψ2를 채운다. 모두 옳다."
+    },
+    {
+      "id": 19,
+      "question": "[기출 7번] 벤젠의 성질이 아닌 것은?",
+      "choices": [
+        "모든 수소가 화학적으로 동일하다",
+        "모든 탄소가 sp² 혼성이다",
+        "여섯 개의 π전자들은 벤젠을 전자가 풍부하게 만든다",
+        "단일결합과 이중결합이 빠르게 위치를 바꾸면서 두 구조가 평형을 이루고 있다",
+        "벤젠의 수소화 반응은 격렬한 조건에서만 가능하고 반응이 상당히 느리다"
+      ],
+      "answer": "단일결합과 이중결합이 빠르게 위치를 바꾸면서 두 구조가 평형을 이루고 있다",
+      "explanation": "벤젠의 두 Kekulé 구조는 공명 구조일 뿐 실제로 서로 바뀌는 평형 상태가 아니다. 실제 벤젠은 하나의 혼성체이며 6개 C–C 결합이 모두 같다."
+    },
+    {
+      "id": 20,
+      "question": "[7번 변형 1] 벤젠 [[smi:c1ccccc1]] 의 C–C 결합 길이에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "6개가 모두 같으며(약 139 pm), C–C 단일결합(153 pm)과 C=C 이중결합(134 pm) 사이의 값이다",
+        "짧은 결합 3개와 긴 결합 3개가 번갈아 있다",
+        "6개 모두 C–C 단일결합 길이와 같다",
+        "6개 모두 C=C 이중결합 길이와 같다"
+      ],
+      "answer": "6개가 모두 같으며(약 139 pm), C–C 단일결합(153 pm)과 C=C 이중결합(134 pm) 사이의 값이다",
+      "explanation": "π전자가 고리 전체에 비편재화되어 모든 C–C 결합이 1.5중 결합 성질을 가지므로 길이가 같다."
+    },
+    {
+      "id": 21,
+      "question": "[7번 변형 2] 실온에서 벤젠과 반응하지 않는 조건은?",
+      "choices": [
+        "Br₂ (CH₂Cl₂, 루이스산 없음)",
+        "Br₂, FeBr₃",
+        "HNO₃, H₂SO₄",
+        "SO₃, H₂SO₄"
+      ],
+      "answer": "Br₂ (CH₂Cl₂, 루이스산 없음)",
+      "explanation": "알켄은 Br₂와 바로 첨가 반응하지만, 벤젠은 방향족 안정화 때문에 Br₂만으로는 반응하지 않는다. FeBr₃ 같은 루이스산이 있어야 치환(첨가 아님)이 일어난다."
+    },
+    {
+      "id": 22,
+      "question": "[기출 8번] 다음 중 만들어질 생성물로 기대되는 것을 모두 고르면?\nㄱ. [[rxn:O=C(Cl)CCc1ccccc1>>O=C1CCc2ccccc21|AlCl₃]]\nㄴ. [[rxn:CCc1ccc(cc1)C(C)(C)C>>OC(=O)c1ccc(cc1)C(C)(C)C|KMnO₄]]\nㄷ. [[rxn:OC(=O)c1ccccc1>>NC(=O)c1ccccc1.O|[1] NH₃|[2] Δ]]",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "ㄱ: 분자 내 Friedel–Crafts 아실화로 오원자 고리 케톤(1-인단온)이 생긴다. ㄴ: KMnO₄는 벤질 위치 H가 있는 알킬기만 COOH로 산화하므로 에틸기는 산화되고 벤질 H가 없는 tert-뷰틸기는 남는다. ㄷ: 카복실산 + NH₃ → 암모늄 카복실레이트, 이를 가열(>100 °C)하면 물이 빠지며 아마이드가 된다. 세 반응 모두 기대되는 생성물이다. (복원본은 '기대되지 않는 것'이었으나 선지에 '없음'이 없어 발문을 보정)"
+    },
+    {
+      "id": 23,
+      "question": "[8번 변형 1] KMnO₄로 가열 산화할 때 벤조산 유도체가 생성되지 않는 것은?",
+      "choices": [
+        "[[smi:Cc1ccccc1]]",
+        "[[smi:CCc1ccccc1]]",
+        "[[smi:CC(C)c1ccccc1]]",
+        "[[smi:CC(C)(C)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(C)(C)c1ccccc1]]",
+      "explanation": "벤질 위치 탄소에 H가 적어도 1개 있어야 산화가 시작된다. 사슬 길이와 무관하게 벤질 H가 있으면 모두 –COOH가 되지만, tert-뷰틸벤젠은 벤질 H가 없어 산화되지 않는다."
+    },
+    {
+      "id": 24,
+      "question": "[8번 변형 2] [[smi:O=C(Cl)CCCc1ccccc1]] 을 AlCl₃로 처리할 때의 생성물은?",
+      "choices": [
+        "[[smi:O=C1CCCc2ccccc21]]",
+        "[[smi:O=C1CCc2ccccc21]]",
+        "[[smi:O=C1CCCCc2ccccc21]]",
+        "[[smi:CC(=O)CCc1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C1CCCc2ccccc21]]",
+      "explanation": "아실륨 이온이 같은 분자의 벤젠 고리 ortho 위치를 공격하는 분자 내 FC 아실화로, 안정한 육원자 고리 케톤(1-테트랄론)이 생긴다: [[rxn:O=C(Cl)CCCc1ccccc1>>O=C1CCCc2ccccc21|AlCl₃]]"
+    },
+    {
+      "id": 25,
+      "question": "[기출 9번] 다음 중 주생성물로 틀린 것은?",
+      "choices": [
+        "[[rxn:N#Cc1ccccc1>>N#Cc1cccc([N+](=O)[O-])c1|HNO₃|H₂SO₄]]",
+        "[[rxn:O=[N+]([O-])c1ccccc1>>O=[N+]([O-])c1cccc([N+](=O)[O-])c1|HNO₃|H₂SO₄]]",
+        "[[rxn:c1ccccc1.CC(C)C(C)Cl>>CCC(C)(C)c1ccccc1|AlCl₃]]",
+        "[[rxn:O=[N+]([O-])c1ccc(C)cc1>>O=[N+]([O-])c1ccc(C)c(Br)c1|Br₂|FeBr₃]]",
+        "[[rxn:c1ccc(cc1)Oc1ccccc1.CCC(=O)Cl>>CCC(=O)c1cccc(c1)Oc1ccccc1|AlCl₃]]"
+      ],
+      "answer": "[[rxn:c1ccc(cc1)Oc1ccccc1.CCC(=O)Cl>>CCC(=O)c1cccc(c1)Oc1ccccc1|AlCl₃]]",
+      "explanation": "⑤: –OAr(에터 산소)는 o,p-지향 활성화기이므로 아실기는 para 위치에 들어가야 한다: [[rxn:c1ccc(cc1)Oc1ccccc1.CCC(=O)Cl>>CCC(=O)c1ccc(cc1)Oc1ccccc1|AlCl₃]] ①② –CN, –NO₂는 meta 지향. ③ 2차 탄소 양이온이 1,2-수소 이동으로 3차 탄소 양이온이 되어 tert-펜틸벤젠이 생긴다. ④ CH₃(o,p)와 NO₂(m)의 지향 위치가 일치하는 CH₃의 ortho 자리에 Br이 들어간다."
+    },
+    {
+      "id": 26,
+      "question": "[9번 변형 1] 다음 중 주생성물이 옳게 표시된 것은?",
+      "choices": [
+        "[[rxn:COc1ccccc1>>O=[N+]([O-])c1ccc(OC)cc1|HNO₃|H₂SO₄]]",
+        "[[rxn:OC(=O)c1ccccc1>>OC(=O)c1ccc(Br)cc1|Br₂|FeBr₃]]",
+        "[[rxn:CC(=O)c1ccccc1>>O=[N+]([O-])c1ccccc1C(C)=O|HNO₃|H₂SO₄]]",
+        "[[rxn:Cc1ccccc1>>Cc1cccc(c1)S(=O)(=O)O|SO₃|H₂SO₄]]"
+      ],
+      "answer": "[[rxn:COc1ccccc1>>O=[N+]([O-])c1ccc(OC)cc1|HNO₃|H₂SO₄]]",
+      "explanation": "–OCH₃는 강한 o,p-지향 활성화기로 para 생성물이 주생성물이다. –COOH, –COCH₃는 meta 지향기라 각각 meta 생성물이 나와야 하고, –CH₃는 o,p-지향기라 para-톨루엔설폰산이 주생성물이어야 한다."
+    },
+    {
+      "id": 27,
+      "question": "[9번 변형 2] [[smi:c1ccccc1]] + [[smi:CCCCCl]] (AlCl₃) 반응의 주생성물은?",
+      "choices": [
+        "[[smi:CCC(C)c1ccccc1]]",
+        "[[smi:CCCCc1ccccc1]]",
+        "[[smi:CC(C)(C)c1ccccc1]]",
+        "[[smi:CC(C)Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:CCC(C)c1ccccc1]]",
+      "explanation": "1차 할로젠화물–AlCl₃ 착물에서 1,2-수소 이동이 일어나 더 안정한 2차 탄소 양이온이 되므로 sec-뷰틸벤젠이 주생성물이다. 이런 자리옮김을 피해 n-뷰틸벤젠을 얻으려면 FC 아실화 후 Clemmensen/Wolff–Kishner 환원을 쓴다."
+    },
+    {
+      "id": 28,
+      "question": "[기출 11번] 다음 카보닐 화합물 중 친핵체와 가장 빠르게 반응하는 것을 고르시오.",
+      "choices": [
+        "benzaldehyde [[smi:O=Cc1ccccc1]]",
+        "acetophenone [[smi:CC(=O)c1ccccc1]]",
+        "benzophenone [[smi:O=C(c1ccccc1)c1ccccc1]]",
+        "3,3-dimethylbutanal [[smi:CC(C)(C)CC=O]]",
+        "2,2-dimethylcyclohexanone [[smi:CC1(C)CCCCC1=O]]"
+      ],
+      "answer": "3,3-dimethylbutanal [[smi:CC(C)(C)CC=O]]",
+      "explanation": "알데하이드 > 케톤(입체 장애 작고 전자 주는 알킬기가 적음). 또 방향족 알데하이드는 벤젠 고리가 공명으로 카보닐 탄소에 전자를 주어 δ+가 줄기 때문에 지방족 알데하이드보다 반응성이 작다. 따라서 3,3-다이메틸뷰탄알이 가장 빠르다. (복원본의 'butanol', 'cyclohexane'은 카보닐이 아니므로 butanal, cyclohexanone으로 보정했다. 원문 그대로라면 카보닐 중 답은 benzaldehyde.)"
+    },
+    {
+      "id": 29,
+      "question": "[11번 변형 1] 다음 중 친핵성 첨가 반응성이 가장 큰 것은?",
+      "choices": [
+        "[[smi:C=O]]",
+        "[[smi:CC=O]]",
+        "[[smi:CC(C)=O]]",
+        "[[smi:O=C(c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:C=O]]",
+      "explanation": "폼알데하이드는 카보닐 탄소에 H만 2개 붙어 입체 장애가 가장 작고 전자 주는 알킬기가 없다. 반응성: HCHO > CH₃CHO > CH₃COCH₃ > PhCOPh."
+    },
+    {
+      "id": 30,
+      "question": "[11번 변형 2] 다음 중 친핵성 첨가 반응이 가장 빠른 것은?",
+      "choices": [
+        "[[smi:O=Cc1ccc([N+](=O)[O-])cc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:COc1ccc(C=O)cc1]]",
+        "[[smi:Cc1ccc(C=O)cc1]]"
+      ],
+      "answer": "[[smi:O=Cc1ccc([N+](=O)[O-])cc1]]",
+      "explanation": "전자 끄는 –NO₂가 카보닐 탄소의 δ+를 키워 친핵체 공격이 빨라진다. 전자 주는 –OCH₃(공명), –CH₃(유발·초공액)는 δ+를 줄여 반응을 느리게 한다. p-NO₂ > H > p-CH₃ > p-OCH₃."
+    },
+    {
+      "id": 31,
+      "question": "[기출 12번] 다음 중 산도(acidity)가 가장 큰 수소 원자를 포함하는 화합물은? (선지는 복원 과정에서 재구성)",
+      "choices": [
+        "[[smi:CCO]]",
+        "[[smi:Oc1ccccc1]]",
+        "[[smi:CC(=O)O]]",
+        "[[smi:OC(=O)C(F)(F)F]]",
+        "[[smi:CC(C)=O]]"
+      ],
+      "answer": "[[smi:OC(=O)C(F)(F)F]]",
+      "explanation": "대략적인 pKa: 에탄올 16, 페놀 10, 아세트산 4.8, 트라이플루오로아세트산 0.2, 아세톤(α-H) 19. CF₃의 강한 전자 끌기(유발 효과)가 카복실레이트 음이온을 안정화해 TFA가 가장 강한 산이다."
+    },
+    {
+      "id": 32,
+      "question": "[12번 변형 1] 다음 중 가장 강한 산은?",
+      "choices": [
+        "[[smi:CCO]]",
+        "[[smi:Oc1ccccc1]]",
+        "[[smi:Oc1ccc([N+](=O)[O-])cc1]]",
+        "[[smi:CC(=O)O]]"
+      ],
+      "answer": "[[smi:CC(=O)O]]",
+      "explanation": "p-나이트로페놀(pKa 7.2)은 –NO₂가 페녹사이드를 공명으로 안정화해 페놀(10)보다 강하지만, 음전하가 두 개의 전기음성 O에 동등하게 나뉘는 카복실산(아세트산 4.8)보다는 약하다."
+    },
+    {
+      "id": 33,
+      "question": "[12번 변형 2] 다음 중 가장 약한 산은?",
+      "choices": [
+        "[[smi:OC(=O)CCl]]",
+        "[[smi:OC(=O)C(Cl)Cl]]",
+        "[[smi:OC(=O)C(Cl)(Cl)Cl]]",
+        "[[smi:CC(=O)O]]"
+      ],
+      "answer": "[[smi:CC(=O)O]]",
+      "explanation": "Cl의 전자 끌기(유발 효과)가 카복실레이트를 안정화하므로 Cl이 많을수록 강산이다. pKa: CCl₃COOH 0.6 < CHCl₂COOH 1.3 < ClCH₂COOH 2.9 < CH₃COOH 4.8."
+    },
+    {
+      "id": 34,
+      "question": "[기출 14번] Acetaldehyde와 (S)-1-phenylethane-1,2-diol을 산 촉매 조건에서 반응시키면 2종류의 이성질체 화합물이 생성된다. 이 두 화합물 간의 관계로 적절한 것은?\n[[rxn:CC=O.O[C@H](CO)c1ccccc1>>CC1OCC(O1)c1ccccc1|H⁺ (cat.)|−H₂O]]",
+      "choices": [
+        "부분 입체 이성질체",
+        "구조 이성질체",
+        "거울상 이성질체",
+        "핵 이성질체"
+      ],
+      "answer": "부분 입체 이성질체",
+      "explanation": "고리형 아세탈(1,3-다이옥솔레인)이 생기면서 C2(CH₃가 붙은 아세탈 탄소)에 새 입체중심이 생긴다. 다이올에서 온 C4는 (S)로 그대로이므로 두 생성물은 입체중심 하나만 다른 cis/trans 관계, 즉 부분 입체 이성질체(diastereomer)이다. (복원본의 '1,2-benzenediol'은 키랄이 아니므로 키랄 1,2-다이올로 보정)"
+    },
+    {
+      "id": 35,
+      "question": "[14번 변형 1] 아세톤과 (S)-1-phenylethane-1,2-diol을 산 촉매로 반응시켜 고리형 아세탈을 만들 때 생성되는 입체이성질체는 몇 종인가? [[rxn:CC(C)=O.O[C@H](CO)c1ccccc1>>CC1(C)OC[C@@H](O1)c1ccccc1|H⁺ (cat.)]]",
+      "choices": [
+        "1종",
+        "2종",
+        "3종",
+        "4종"
+      ],
+      "answer": "1종",
+      "explanation": "아세톤에서 온 C2에는 CH₃가 두 개 붙어 있어 입체중심이 아니다. 새 입체중심이 생기지 않고 C4는 (S) 그대로이므로 한 종류만 생긴다."
+    },
+    {
+      "id": 36,
+      "question": "[14번 변형 2] 다음 반응에 대해 옳은 것을 모두 고르시오. [[rxn:O=Cc1ccccc1.OCCO>>c1ccc(cc1)C1OCCO1|TsOH (cat.)|톨루엔, 물 제거]]\nㄱ. 생성물은 고리형 아세탈(1,3-다이옥솔레인)이다.\nㄴ. 생성되는 물을 제거하면 평형이 생성물 쪽으로 이동한다.\nㄷ. 이 아세탈은 NaOH 수용액에서 쉽게 가수분해된다.",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "ㄱ, ㄴ은 옳다. ㄷ: 아세탈은 염기에 안정하고 산성 수용액에서만 가수분해된다. 이 성질 덕분에 아세탈은 염기성·친핵성 조건(Grignard, LiAlH₄)에서 카보닐 보호기로 쓰인다."
+    },
+    {
+      "id": 37,
+      "question": "[기출 15번] 다음 반응이나 시약의 이름이 실제 사람 이름에서 유래한 것이 아닌 것을 고르시오.",
+      "choices": [
+        "CBS reagent",
+        "Fischer esterification",
+        "Wittig reaction",
+        "Grignard reagent",
+        "답 없음"
+      ],
+      "answer": "답 없음",
+      "explanation": "CBS = Corey–Bakshi–Shibata(세 화학자), Emil Fischer, Georg Wittig, Victor Grignard 모두 실제 인물이다. 따라서 답 없음."
+    },
+    {
+      "id": 38,
+      "question": "[15번 변형 1] 다음 중 사람 이름에서 유래하지 않은 반응은?",
+      "choices": [
+        "Clemmensen reduction",
+        "Wolff–Kishner reduction",
+        "Friedel–Crafts reaction",
+        "Hydroboration–oxidation",
+        "Diels–Alder reaction"
+      ],
+      "answer": "Hydroboration–oxidation",
+      "explanation": "수소화붕소화–산화는 반응 내용(붕소 첨가 후 산화)을 뜻하는 이름이다. Clemmensen, Wolff·Kishner, Friedel·Crafts, Diels·Alder는 모두 화학자 이름이다."
+    },
+    {
+      "id": 39,
+      "question": "[15번 변형 2] 인명반응과 변환이 올바르게 짝지어진 것은?",
+      "choices": [
+        "Wittig 반응: [[rxn:O=C1CCCCC1>>C=C1CCCCC1|Ph₃P=CH₂]]",
+        "Clemmensen 환원: [[rxn:CC(=O)c1ccccc1>>CC(O)c1ccccc1|Zn(Hg), HCl]]",
+        "Fischer 에스터화: [[rxn:CC(=O)O.CCO>>CCOC(C)=O|NaOH]]",
+        "Friedel–Crafts 아실화: [[rxn:c1ccccc1.CC(=O)Cl>>CCc1ccccc1|AlCl₃]]"
+      ],
+      "answer": "Wittig 반응: [[rxn:O=C1CCCCC1>>C=C1CCCCC1|Ph₃P=CH₂]]",
+      "explanation": "Clemmensen 환원은 C=O를 CH₂로(에틸벤젠), Fischer 에스터화는 산 촉매(H₂SO₄) 조건, FC 아실화의 생성물은 케톤(아세토페논)이다."
+    },
+    {
+      "id": 40,
+      "question": "[기출 16번] 다음 화합물을 H₃O⁺(과량의 물)로 처리할 때 주생성물로 옳은 것은? [[smi:CC1(C)COC(OC1)c1ccccc1]]",
+      "choices": [
+        "반응이 일어나지 않음",
+        "Toluene + 2,2-dimethyl-1,3-propanediol",
+        "Benzaldehyde + 2,2-dimethyl-1,3-propanediol",
+        "Benzoic acid + 2,2-dimethyl-1,3-propanediol",
+        "Acetone + 2-phenyl-1,3-propanediol"
+      ],
+      "answer": "Benzaldehyde + 2,2-dimethyl-1,3-propanediol",
+      "explanation": "5,5-다이메틸-2-페닐-1,3-다이옥세인은 벤즈알데하이드와 2,2-다이메틸-1,3-프로페인다이올로 만든 고리형 아세탈이다. 산성 수용액에서 아세탈 형성의 역반응(가수분해)이 일어나 원래의 알데하이드와 다이올로 돌아간다: [[rxn:CC1(C)COC(OC1)c1ccccc1>>O=Cc1ccccc1.CC(C)(CO)CO|H₃O⁺]]"
+    },
+    {
+      "id": 41,
+      "question": "[16번 변형 1] 같은 화합물 [[smi:CC1(C)COC(OC1)c1ccccc1]] 을 NaOH 수용액으로 가열할 때 주생성물로 옳은 것은?",
+      "choices": [
+        "반응이 일어나지 않음",
+        "Toluene + 2,2-dimethyl-1,3-propanediol",
+        "Benzaldehyde + 2,2-dimethyl-1,3-propanediol",
+        "Benzoic acid + 2,2-dimethyl-1,3-propanediol",
+        "Acetone + 2-phenyl-1,3-propanediol"
+      ],
+      "answer": "반응이 일어나지 않음",
+      "explanation": "아세탈은 염기성 조건에서 이탈할 수 있는 기가 없어(RO⁻는 나쁜 이탈기) 안정하다. 가수분해에는 산 촉매가 반드시 필요하다."
+    },
+    {
+      "id": 42,
+      "question": "[16번 변형 2] 다음 아세탈을 만들기 위해 필요한 카보닐 화합물과 다이올은? [[smi:CC1(C)OCCO1]]",
+      "choices": [
+        "아세톤 + 에틸렌 글라이콜",
+        "폼알데하이드 + 에틸렌 글라이콜",
+        "아세톤 + 1,3-프로페인다이올",
+        "아세트알데하이드 + 메탄올"
+      ],
+      "answer": "아세톤 + 에틸렌 글라이콜",
+      "explanation": "두 O가 붙은 아세탈 탄소(C2)가 원래의 카보닐 탄소다. C2에 CH₃ 두 개 → 아세톤, O–CH₂–CH₂–O 오원자 고리 → 에틸렌 글라이콜: [[rxn:CC(C)=O.OCCO>>CC1(C)OCCO1|TsOH (cat.)]]"
+    },
+    {
+      "id": 43,
+      "question": "[기출 17번] 다음 중 옳지 않은 것은?",
+      "choices": [
+        "아세탈의 가수분해는 산성 조건에서 촉진된다",
+        "아세탈의 가수분해는 염기성 조건에서 촉진된다",
+        "옥심은 알데하이드, 케톤과 같은 카보닐 화합물과 하이드록실아민 간의 축합을 통해 형성된다",
+        "에나민은 알데하이드, 케톤과 같은 카보닐 화합물과 2차 아민 간의 축합을 통해 형성된다",
+        "글루코오스는 C-5 하이드록시기(–OH)와 C-1 알데하이드기 사이의 분자 내 친핵성 첨가 반응을 통해 고리형 헤미아세탈을 형성한다"
+      ],
+      "answer": "아세탈의 가수분해는 염기성 조건에서 촉진된다",
+      "explanation": "아세탈은 염기에 안정하며 산 촉매가 있어야 가수분해된다. (복원본은 '옳은 것'을 묻는데 옳은 선지가 여럿이라 '옳지 않은 것'으로 보정. ⑤는 물이 빠지지 않는 첨가 반응이므로 '축합'을 '분자 내 친핵성 첨가'로 고침)"
+    },
+    {
+      "id": 44,
+      "question": "[17번 변형 1] [[smi:O=C1CCCCC1]] + NH₂OH (약산 촉매) 반응의 생성물은?",
+      "choices": [
+        "[[smi:ON=C1CCCCC1]]",
+        "[[smi:NN=C1CCCCC1]]",
+        "[[smi:CN=C1CCCCC1]]",
+        "[[smi:NC1(O)CCCCC1]]"
+      ],
+      "answer": "[[smi:ON=C1CCCCC1]]",
+      "explanation": "하이드록실아민(NH₂OH)의 N이 카보닐을 공격한 뒤 탈수되어 C=N–OH(옥심)이 된다. NH₂NH₂ → 하이드라존, CH₃NH₂ → 이민, [[smi:NC1(O)CCCCC1]] 은 탈수 전 카비놀아민 중간체이다."
+    },
+    {
+      "id": 45,
+      "question": "[17번 변형 2] [[smi:O=C1CCCCC1]] + [[smi:C1CCNC1]] (H⁺ 촉매, −H₂O) 반응의 생성물은?",
+      "choices": [
+        "[[smi:C1CCN(C1)C1=CCCCC1]]",
+        "[[smi:OC1(CCCCC1)N1CCCC1]]",
+        "[[smi:C1CCC(CC1)N1CCCC1]]",
+        "[[smi:O=C1CCCCC1N1CCCC1]]"
+      ],
+      "answer": "[[smi:C1CCN(C1)C1=CCCCC1]]",
+      "explanation": "2차 아민(피롤리딘) → 카비놀아민 → 이미늄 이온 → N에 떼어낼 H가 없으므로 α-탄소의 H가 떨어져 에나민(C=C–N)이 된다. 두 번째 선지는 카비놀아민 중간체, 세 번째는 환원성 아민화(NaBH₃CN) 생성물이다."
+    },
+    {
+      "id": 46,
+      "question": "[기출 18번] 다음 중 올바르지 않은 문장은?",
+      "choices": [
+        "아세트산은 메틸 아세테이트보다 분자량은 작지만 끓는점은 높다",
+        "에스터는 아마이드보다 친핵체 공격을 받기 더 수월하다",
+        "아마이드는 산·염기 가수분해를 할 수 있다",
+        "Fischer 반응은 염기 촉매가 있을 때에만 반응한다",
+        "에스터 염기화 반응(염기성 가수분해)을 비누화 반응이라 한다"
+      ],
+      "answer": "Fischer 반응은 염기 촉매가 있을 때에만 반응한다",
+      "explanation": "Fischer 에스터화는 산 촉매(H₂SO₄, TsOH) 반응이다. 염기는 카복실산을 카복실레이트로 만들어 친전자성을 없앤다. ①: 아세트산(M 60, bp 118 °C)은 수소결합 이합체를 만들어 메틸 아세테이트(M 74, bp 57 °C)보다 끓는점이 높다. (복원본 ①의 '아세틸', ③의 '아민'은 각각 아세트산, 아마이드로 보정)"
+    },
+    {
+      "id": 47,
+      "question": "[18번 변형 1] 다음 반응의 ? 에 들어갈 조건은? [[rxn:CC(=O)O.CCO>>CCOC(C)=O.O|?]]",
+      "choices": [
+        "H₂SO₄ (촉매), 가열",
+        "NaOH",
+        "NaBH₄",
+        "LiAlH₄"
+      ],
+      "answer": "H₂SO₄ (촉매), 가열",
+      "explanation": "Fischer 에스터화: 산이 카보닐 O를 양성자화해 친전자성을 높이고, 알코올이 공격한 뒤 물이 떨어진다. 가역 반응이므로 알코올을 과량 쓰거나 물을 제거한다."
+    },
+    {
+      "id": 48,
+      "question": "[18번 변형 2] [[smi:CCOC(=O)c1ccccc1]] 을 NaOH 수용액으로 가열(비누화)한 뒤, 산 처리 전의 생성물은?",
+      "choices": [
+        "[[smi:[O-]C(=O)c1ccccc1]] + [[smi:CCO]]",
+        "[[smi:OC(=O)c1ccccc1]] + [[smi:CCO]]",
+        "[[smi:OCc1ccccc1]] + [[smi:CC(=O)O]]",
+        "[[smi:CCOC(=O)c1ccccc1]] (반응 없음)"
+      ],
+      "answer": "[[smi:[O-]C(=O)c1ccccc1]] + [[smi:CCO]]",
+      "explanation": "OH⁻가 카보닐을 공격 → EtO⁻가 떨어져 카복실산이 생기지만, 곧바로 EtO⁻/OH⁻가 산을 탈양성자화해 카복실레이트가 된다. 이 산-염기 단계 때문에 비누화는 비가역적이다. 카복실산을 얻으려면 H₃O⁺ 처리가 필요하다."
+    },
+    {
+      "id": 49,
+      "question": "[기출 20번] 다음 중 사실과 거리가 가장 먼 것을 고르시오.",
+      "choices": [
+        "염기는 물을 –OH로 변화시킨다",
+        "산은 카보닐기에 양성자를 첨가하여 친전자적으로 만든다",
+        "친핵체의 공격에 대한 반응속도는 알데하이드가 케톤보다 더 빠르다",
+        "알데하이드는 분자간 수소결합이 가능하여 케톤보다 끓는점이 높다"
+      ],
+      "answer": "알데하이드는 분자간 수소결합이 가능하여 케톤보다 끓는점이 높다",
+      "explanation": "알데하이드는 O–H가 없어 분자간 수소결합을 할 수 없다(물과는 수소결합 수용체로 작용). 같은 분자량의 알데하이드와 케톤은 끓는점이 비슷하며, 알코올보다 낮다."
+    },
+    {
+      "id": 50,
+      "question": "[20번 변형 1] 분자량이 비슷한 다음 화합물 중 끓는점이 가장 높은 것은?",
+      "choices": [
+        "[[smi:CCCC=O]]",
+        "[[smi:CCCCO]]",
+        "[[smi:CCCCC]]",
+        "[[smi:CCOCC]]"
+      ],
+      "answer": "[[smi:CCCCO]]",
+      "explanation": "1-뷰탄올(117 °C)은 분자간 수소결합을 한다. 뷰탄알(75 °C)은 쌍극자-쌍극자 인력, 다이에틸 에터(35 °C)는 약한 쌍극자, 펜테인(36 °C)은 분산력만 있다."
+    },
+    {
+      "id": 51,
+      "question": "[20번 변형 2] 산 촉매 조건에서 카보닐 화합물에 약한 친핵체가 첨가될 때 첫 단계는?",
+      "choices": [
+        "카보닐 산소의 양성자화",
+        "친핵체의 카보닐 탄소 공격",
+        "카보닐 α-탄소의 탈양성자화",
+        "C=O 결합의 균일 분해"
+      ],
+      "answer": "카보닐 산소의 양성자화",
+      "explanation": "산 촉매 조건: ① O 양성자화 [[smi:[OH+]=C(C)C]] → 카보닐 탄소의 친전자성 증가 → ② 약한 친핵체(H₂O, ROH) 공격 → ③ 탈양성자화. 염기(강한 친핵체) 조건은 친핵체 공격 → 양성자화 순서다."
+    },
+    {
+      "id": 52,
+      "question": "[기출 21번] 다음 중 산 촉매 조건에서 (친핵성 첨가 반응을) 가장 잘 하는 물질은?",
+      "choices": [
+        "[[smi:CCC=O]]",
+        "[[smi:CCC(=O)C(C)C]]",
+        "[[smi:CCC(=O)CC]]",
+        "[[smi:CCC(=O)C(C)(C)C]]",
+        "[[smi:CCC(=O)C(C)(C)O]]"
+      ],
+      "answer": "[[smi:CCC=O]]",
+      "explanation": "알데하이드(프로판알)는 카보닐 탄소에 H가 붙어 입체 장애가 작고 전자 주는 알킬기가 하나뿐이라 가장 친전자적이다. 케톤들은 알킬기가 커질수록(에틸 < 아이소프로필 < tert-뷰틸) 반응이 느려진다."
+    },
+    {
+      "id": 53,
+      "question": "[21번 변형 1] 다음 중 산 촉매 수화 반응이 가장 느린 것은?",
+      "choices": [
+        "[[smi:CCC=O]]",
+        "[[smi:CCC(=O)C(C)C]]",
+        "[[smi:CCC(=O)CC]]",
+        "[[smi:CCC(=O)C(C)(C)C]]"
+      ],
+      "answer": "[[smi:CCC(=O)C(C)(C)C]]",
+      "explanation": "tert-뷰틸기는 부피가 커서 친핵체의 접근과 sp³ 사면체 생성물 형성을 가장 크게 방해한다(입체 효과). 또 알킬기의 전자 주기가 카보닐 탄소의 δ+를 줄인다."
+    },
+    {
+      "id": 54,
+      "question": "[21번 변형 2] 프로판알 [[smi:CCC=O]] 에 산 촉매로 물이 첨가된 생성물은?",
+      "choices": [
+        "[[smi:CCC(O)O]]",
+        "[[smi:CCCO]]",
+        "[[smi:CC(O)C=O]]",
+        "[[smi:CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCC(O)O]]",
+      "explanation": "물이 카보닐 탄소에 첨가되어 gem-다이올(1,1-프로페인다이올)이 된다: [[rxn:CCC=O>>CCC(O)O|H₂O|H⁺ (cat.)]] 가역 반응이며, 알코올이나 카복실산은 생기지 않는다."
+    },
+    {
+      "id": 55,
+      "question": "[기출 23번] 에스터를 알데하이드로 환원시키기에 가장 적합한 조건은?",
+      "choices": [
+        "LiAlH₄, ether",
+        "LiAlH₄, EtOH",
+        "NaBH₄, EtOH",
+        "DIBAL-H (diisobutylaluminium hydride), toluene, −78 °C",
+        "답 없음"
+      ],
+      "answer": "DIBAL-H (diisobutylaluminium hydride), toluene, −78 °C",
+      "explanation": "DIBAL-H는 부피가 큰 약한 환원제로, −78 °C에서 사면체 중간체가 안정하게 유지되다가 물 처리 시 알데하이드가 된다: [[rxn:CCOC(=O)c1ccccc1>>O=Cc1ccccc1|[1] DIBAL-H, −78 °C|[2] H₂O]] LiAlH₄는 1차 알코올까지 환원하고, NaBH₄는 에스터를 거의 환원하지 못한다(LiAlH₄는 EtOH와 격렬히 반응하므로 함께 쓰지 않는다)."
+    },
+    {
+      "id": 56,
+      "question": "[23번 변형 1] 다음 반응의 ? 에 들어갈 시약은? [[rxn:CCOC(=O)c1ccccc1>>OCc1ccccc1|?|이후 H₃O⁺]]",
+      "choices": [
+        "LiAlH₄, ether",
+        "NaBH₄, EtOH",
+        "DIBAL-H, −78 °C",
+        "PCC"
+      ],
+      "answer": "LiAlH₄, ether",
+      "explanation": "LiAlH₄는 H⁻ 2당량을 주어 에스터를 1차 알코올(벤질 알코올)과 에탄올로 환원한다. 중간의 알데하이드는 에스터보다 반응성이 커서 멈추지 않는다."
+    },
+    {
+      "id": 57,
+      "question": "[23번 변형 2] 다음 반응의 ? 에 들어갈 가장 적절한 시약은? [[rxn:O=C(Cl)c1ccccc1>>O=Cc1ccccc1|?]]",
+      "choices": [
+        "LiAlH[OC(CH₃)₃]₃, −78 °C",
+        "LiAlH₄ (과량)",
+        "NaBH₄, CH₃OH",
+        "CH₃MgBr"
+      ],
+      "answer": "LiAlH[OC(CH₃)₃]₃, −78 °C",
+      "explanation": "리튬 트라이-tert-뷰톡시알루미늄 하이드라이드는 부피가 커서 반응성이 약한 H⁻ 공여체다. 반응성이 큰 산 염화물만 환원하고 생성된 알데하이드는 더 환원하지 않는다. LiAlH₄·NaBH₄는 1차 알코올까지 환원한다."
+    },
+    {
+      "id": 58,
+      "question": "[기출 24번] 다음은 카복실산에 대한 설명이다. 사실이 아닌 것을 고르시오.",
+      "choices": [
+        "카복실산은 브뢴스테드–로우리 염기와 반응하여 카복실산 음이온을 생성한다",
+        "아세트산은 페놀보다 더 센 산이다",
+        "치환된 벤조산에서 전자를 주는 기는 산을 덜 산성이게 만든다",
+        "치환된 벤조산에서 전자를 당기는 기는 짝염기를 안정화시킨다",
+        "카복실산은 염기가 아니므로 센 산과 반응하여 양성자 첨가가 일어나지 않는다"
+      ],
+      "answer": "카복실산은 염기가 아니므로 센 산과 반응하여 양성자 첨가가 일어나지 않는다",
+      "explanation": "카복실산의 카보닐 산소는 비공유 전자쌍을 가진 약한 염기로, 센 산에 의해 양성자화된다. 이것이 Fischer 에스터화의 첫 단계다."
+    },
+    {
+      "id": 59,
+      "question": "[24번 변형 1] 다음 중 NaHCO₃ 수용액과 반응하여 CO₂를 발생시키며 녹는 것은?",
+      "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:Oc1ccccc1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:CC(C)=O]]"
+      ],
+      "answer": "[[smi:OC(=O)c1ccccc1]]",
+      "explanation": "H₂CO₃(pKa 6.4)보다 강한 산만 HCO₃⁻와 반응한다. 벤조산(pKa 4.2)은 반응하지만 페놀(10), 사이클로헥산올(18), 아세톤(19)은 반응하지 않는다. 카복실산과 페놀을 분리하는 추출법에 쓰인다."
+    },
+    {
+      "id": 60,
+      "question": "[24번 변형 2] 다음 치환 벤조산의 산도가 큰 순서로 옳은 것은?",
+      "choices": [
+        "p-NO₂ > H > p-CH₃ > p-OCH₃",
+        "p-OCH₃ > p-CH₃ > H > p-NO₂",
+        "H > p-NO₂ > p-CH₃ > p-OCH₃",
+        "p-CH₃ > p-OCH₃ > H > p-NO₂"
+      ],
+      "answer": "p-NO₂ > H > p-CH₃ > p-OCH₃",
+      "explanation": "pKa: p-나이트로벤조산 3.4 < 벤조산 4.2 < p-톨루산 4.4 < p-메톡시벤조산 4.5. 전자 끄는 기는 카복실레이트를 안정화해 산도를 높이고, 전자 주는 기는 낮춘다. [[smi:OC(=O)c1ccc([N+](=O)[O-])cc1]]"
+    },
+    {
+      "id": 61,
+      "question": "[기출 26번] 다음 중 산의 촉매성이 가장 큰 것은?",
+      "choices": [
+        "CH₃COOH",
+        "H₂SO₄",
+        "HCOOH",
+        "C₆H₅COOH"
+      ],
+      "answer": "H₂SO₄",
+      "explanation": "황산(pKa ≈ −3)은 카복실산(pKa 3.7–4.8)보다 훨씬 강한 산이라 카보닐 산소를 효과적으로 양성자화한다. 그래서 Fischer 에스터화·아세탈 형성의 촉매로 쓰인다."
+    },
+    {
+      "id": 62,
+      "question": "[26번 변형 1] 다음 카복실산의 산도 순서로 옳은 것은?",
+      "choices": [
+        "HCOOH > C₆H₅COOH > CH₃COOH",
+        "CH₃COOH > C₆H₅COOH > HCOOH",
+        "C₆H₅COOH > CH₃COOH > HCOOH",
+        "CH₃COOH > HCOOH > C₆H₅COOH"
+      ],
+      "answer": "HCOOH > C₆H₅COOH > CH₃COOH",
+      "explanation": "pKa: 폼산 3.75 < 벤조산 4.20 < 아세트산 4.76. 전자 주는 CH₃는 카복실레이트를 불안정하게 해 아세트산이 가장 약하다. sp² 탄소인 페닐기는 약한 전자 끌기 효과를 준다."
+    },
+    {
+      "id": 63,
+      "question": "[26번 변형 2] 다음 중 Fischer 에스터화의 촉매로 적절하지 않은 것은?",
+      "choices": [
+        "H₂SO₄",
+        "TsOH (p-톨루엔설폰산)",
+        "HCl (g)",
+        "NaOH"
+      ],
+      "answer": "NaOH",
+      "explanation": "NaOH는 카복실산을 카복실레이트로 바꿔 친전자성을 없애고, 에스터가 생겨도 비누화시킨다. Fischer 에스터화에는 산 촉매가 필요하다."
+    },
+    {
+      "id": 64,
+      "question": "[기출 27번] (서술형 → 선택형) Benzene으로부터 p-nitrobenzoic acid [[smi:OC(=O)c1ccc([N+](=O)[O-])cc1]] 를 합성하는 전략으로 옳은 것은?",
+      "choices": [
+        "CH₃Cl, AlCl₃ → HNO₃, H₂SO₄ → KMnO₄",
+        "HNO₃, H₂SO₄ → CH₃Cl, AlCl₃ → KMnO₄",
+        "CH₃Cl, AlCl₃ → KMnO₄ → HNO₃, H₂SO₄",
+        "HNO₃, H₂SO₄ → KMnO₄ → CH₃Cl, AlCl₃"
+      ],
+      "answer": "CH₃Cl, AlCl₃ → HNO₃, H₂SO₄ → KMnO₄",
+      "explanation": "–COOH는 meta 지향기이므로 para 관계를 만들려면 o,p-지향기인 CH₃ 상태에서 나이트로화한 뒤 산화한다: [[rxn:c1ccccc1>>Cc1ccccc1|CH₃Cl|AlCl₃]] [[rxn:Cc1ccccc1>>Cc1ccc([N+](=O)[O-])cc1|HNO₃|H₂SO₄]] [[rxn:Cc1ccc([N+](=O)[O-])cc1>>OC(=O)c1ccc([N+](=O)[O-])cc1|KMnO₄]] 나이트로벤젠에는 FC 알킬화가 일어나지 않는다."
+    },
+    {
+      "id": 65,
+      "question": "[27번 변형 1] Benzene으로부터 m-nitrobenzoic acid [[smi:OC(=O)c1cccc([N+](=O)[O-])c1]] 를 합성하는 전략으로 옳은 것은?",
+      "choices": [
+        "CH₃Cl, AlCl₃ → HNO₃, H₂SO₄ → KMnO₄",
+        "HNO₃, H₂SO₄ → CH₃Cl, AlCl₃ → KMnO₄",
+        "CH₃Cl, AlCl₃ → KMnO₄ → HNO₃, H₂SO₄",
+        "HNO₃, H₂SO₄ → KMnO₄ → CH₃Cl, AlCl₃"
+      ],
+      "answer": "CH₃Cl, AlCl₃ → KMnO₄ → HNO₃, H₂SO₄",
+      "explanation": "먼저 CH₃를 도입하고 KMnO₄로 COOH(meta 지향기)로 바꾼 뒤 나이트로화하면 meta 생성물이 된다: [[rxn:Cc1ccccc1>>OC(=O)c1ccccc1|KMnO₄]] [[rxn:OC(=O)c1ccccc1>>OC(=O)c1cccc([N+](=O)[O-])c1|HNO₃|H₂SO₄]] 지향 효과를 고려해 반응 순서를 정하는 것이 핵심이다."
+    },
+    {
+      "id": 66,
+      "question": "[27번 변형 2] Benzene으로부터 m-chloronitrobenzene [[smi:Clc1cccc([N+](=O)[O-])c1]] 을 합성하는 전략으로 옳은 것은?",
+      "choices": [
+        "HNO₃, H₂SO₄ → Cl₂, FeCl₃",
+        "Cl₂, FeCl₃ → HNO₃, H₂SO₄",
+        "Cl₂, hν → HNO₃, H₂SO₄",
+        "HNO₃, H₂SO₄ → Cl₂, hν"
+      ],
+      "answer": "HNO₃, H₂SO₄ → Cl₂, FeCl₃",
+      "explanation": "–NO₂는 meta 지향기이므로 먼저 나이트로화한 뒤 염소화하면 meta 생성물이 된다: [[rxn:O=[N+]([O-])c1ccccc1>>Clc1cccc([N+](=O)[O-])c1|Cl₂|FeCl₃]] 순서를 바꾸면 Cl(o,p-지향기) 때문에 o-/p-클로로나이트로벤젠이 생긴다."
+    },
+    {
+      "id": 67,
+      "question": "[기출 28번] 이 기구의 이름과 용도는? [[img:orgchem/images/dean-stark-trap.svg|실험 기구]]",
+      "choices": [
+        "Dean–Stark 장치 – 물과 공비 혼합물을 이루는 용매(톨루엔 등)로 환류하면서 생성된 물을 분리·제거하여 평형을 생성물 쪽으로 이동시킨다",
+        "Soxhlet 추출기 – 고체 시료에서 성분을 연속적으로 추출한다",
+        "분별 깔때기 – 서로 섞이지 않는 두 액체층을 분리한다",
+        "Claisen 어댑터 – 증류할 때 끓어 넘침을 막는다"
+      ],
+      "answer": "Dean–Stark 장치 – 물과 공비 혼합물을 이루는 용매(톨루엔 등)로 환류하면서 생성된 물을 분리·제거하여 평형을 생성물 쪽으로 이동시킨다",
+      "explanation": "Dean–Stark 트랩: 증기가 냉각기에서 응축되어 눈금 트랩에 떨어지면, 물보다 가벼운 톨루엔은 위층이 되어 플라스크로 넘쳐 돌아가고 무거운 물은 아래층에 모인다(콕으로 배출). 아세탈 형성·Fischer 에스터화·이민 형성처럼 물이 생기는 가역 반응을 완결시킬 때 쓴다(르 샤틀리에 원리)."
+    },
+    {
+      "id": 68,
+      "question": "[28번 변형 1] 그림의 실험 기구 이름을 쓰시오. [[img:orgchem/images/dean-stark-trap.svg|실험 기구]]",
+      "answer": [
+        "Dean-Stark",
+        "Dean–Stark",
+        "Dean Stark",
+        "Dean-Stark trap",
+        "Dean-Stark 장치",
+        "Dean-Stark 트랩",
+        "딘-스타크",
+        "딘스타크",
+        "딘-스타크 트랩",
+        "딘-스타크 장치",
+        "딘 스타크"
+      ],
+      "explanation": "Dean–Stark 트랩(장치)이다. 공비 증류로 반응 중 생성되는 물을 계속 제거한다."
+    },
+    {
+      "id": 69,
+      "question": "[28번 변형 2] 그림의 장치를 사용하기에 가장 적절한 반응은? [[img:orgchem/images/dean-stark-trap.svg|실험 기구]]",
+      "choices": [
+        "[[rxn:O=C1CCCCC1.OCCO>>C1CCC2(CC1)OCCO2|TsOH (cat.)|톨루엔, 환류]]",
+        "[[rxn:C=CC=C.C=CC(=O)OC>>COC(=O)C1CC=CCC1|Δ]]",
+        "[[rxn:c1ccccc1>>Brc1ccccc1|Br₂|FeBr₃]]",
+        "[[rxn:O=C1CCCCC1>>OC1CCCCC1|NaBH₄|CH₃OH]]"
+      ],
+      "answer": "[[rxn:O=C1CCCCC1.OCCO>>C1CCC2(CC1)OCCO2|TsOH (cat.)|톨루엔, 환류]]",
+      "explanation": "케톤 + 다이올 → 고리형 아세탈 + H₂O는 가역 반응이므로 Dean–Stark 장치로 물을 제거해 평형을 오른쪽으로 민다. 나머지 반응은 물이 생성되지 않거나 비가역적이다."
+    }
+  ]
+}

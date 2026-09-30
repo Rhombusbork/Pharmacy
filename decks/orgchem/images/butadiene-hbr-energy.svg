@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380">
+<rect width="600" height="380" fill="#ffffff"/>
+<defs><marker id="ax" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,4 L0,8 z" fill="#222"/></marker></defs>
+<g font-family="Arial, 'Noto Sans KR', 'Malgun Gothic', sans-serif" fill="#222">
+<line x1="60" y1="345" x2="60" y2="25" stroke="#222" stroke-width="2" marker-end="url(#ax)"/>
+<line x1="60" y1="345" x2="575" y2="345" stroke="#222" stroke-width="2" marker-end="url(#ax)"/>
+<text x="30" y="190" font-size="16" transform="rotate(-90 30 190)" text-anchor="middle">에너지</text>
+<text x="320" y="370" font-size="16" text-anchor="middle">반응 진행</text>
+<path d="M70,230 L100,230 C130,230 140,90 165,90 C190,90 200,180 225,180" fill="none" stroke="#222" stroke-width="3"/>
+<path d="M225,180 C255,180 270,128 292,128 C315,128 330,250 362,250 L430,250" fill="none" stroke="#1f5fa8" stroke-width="3"/>
+<path d="M225,180 C262,180 295,98 325,98 C360,98 385,292 425,292 L540,292" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="9 6"/>
+<line x1="225" y1="180" x2="345" y2="180" stroke="#888" stroke-width="1.2" stroke-dasharray="4 4"/>
+<line x1="292" y1="178" x2="292" y2="132" stroke="#1f5fa8" stroke-width="1.6" marker-start="url(#ax)" marker-end="url(#ax)"/>
+<line x1="338" y1="178" x2="338" y2="102" stroke="#c0392b" stroke-width="1.6" marker-start="url(#ax)" marker-end="url(#ax)"/>
+<text x="280" y="160" font-size="13" fill="#1f5fa8" text-anchor="end">Eₐ(a)</text>
+<text x="344" y="145" font-size="13" fill="#c0392b">Eₐ(b)</text>
+<text x="72" y="252" font-size="13">CH₂=CH–CH=CH₂</text>
+<text x="72" y="268" font-size="13">+ HBr</text>
+<text x="196" y="205" font-size="13">알릴 양이온</text>
+<text x="370" y="240" font-size="14" fill="#1f5fa8" font-weight="bold">a: 1,2-첨가 생성물</text>
+<text x="430" y="315" font-size="14" fill="#c0392b" font-weight="bold">b: 1,4-첨가 생성물</text>
+<text x="370" y="60" font-size="12" fill="#1f5fa8">— 실선: a 경로</text>
+<text x="370" y="78" font-size="12" fill="#c0392b">- - 점선: b 경로</text>
+</g></svg>

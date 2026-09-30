@@ -1,0 +1,127 @@
+{
+  "deckId": "orgchem-ch20",
+  "subject": "유기화학",
+  "title": "Ch20: 알데하이드·케톤 – 친핵성 첨가",
+  "questions": [
+    {
+      "id": 1,
+      "question": "아세톤에 물이 첨가되어 생기는 수화물(hydrate)은? [[smi:CC(C)=O]] + H₂O ⇌ ?",
+      "choices": [
+        "[[smi:CC(C)(O)O]]",
+        "[[smi:CC(O)C]]",
+        "[[smi:CC(=O)CO]]",
+        "[[smi:C=C(C)O]]"
+      ],
+      "answer": "[[smi:CC(C)(O)O]]",
+      "explanation": "물이 카보닐 탄소에 첨가되면 한 탄소에 OH가 2개 붙은 gem-다이올(수화물)이 된다. 케톤은 평형이 반응물 쪽에 치우치고, 폼알데하이드나 전자 끄는 기가 붙은 카보닐(클로랄)은 수화물 쪽으로 치우친다."
+    },
+    {
+      "id": 2,
+      "question": "다음 반응 생성물의 작용기 이름은? [[rxn:CC=O>>CC(O)C#N|NaCN|HCl]]",
+      "answer": [
+        "사이아노하이드린",
+        "시아노하이드린",
+        "시아노히드린",
+        "cyanohydrin",
+        "Cyanohydrin"
+      ],
+      "explanation": "⁻CN이 카보닐 탄소를 공격한 뒤 알콕사이드가 양성자화되어, 한 탄소에 OH와 CN이 함께 붙은 사이아노하이드린이 된다. CN은 가수분해하면 COOH, 환원하면 CH₂NH₂로 바꿀 수 있다."
+    },
+    {
+      "id": 3,
+      "question": "[[smi:O=C1CCCCC1]] 을 Wittig 시약 [[smi:C=P(c1ccccc1)(c1ccccc1)c1ccccc1]] 와 반응시킨 주생성물은?",
+      "choices": [
+        "[[smi:C=C1CCCCC1]]",
+        "[[smi:CC1=CCCCC1]]",
+        "[[smi:CC1(O)CCCCC1]]",
+        "[[smi:OC1CCCCC1]]"
+      ],
+      "answer": "[[smi:C=C1CCCCC1]]",
+      "explanation": "일라이드의 C⁻가 카보닐 탄소를 공격 → 옥사포스페테인 고리 → Ph₃P=O가 떨어지며 C=O 자리에 정확히 C=C가 생긴다. 그래서 더 치환된 내부 알켄으로 이동하지 않은 메틸렌사이클로헥세인이 생성된다: [[rxn:O=C1CCCCC1>>C=C1CCCCC1|Ph₃P=CH₂]]"
+    },
+    {
+      "id": 4,
+      "question": "[[smi:O=C1CCCCC1]] + CH₃NH₂ (약산 촉매, −H₂O) 의 생성물은?",
+      "choices": [
+        "[[smi:CN=C1CCCCC1]]",
+        "[[smi:CN(C)C1=CCCCC1]]",
+        "[[smi:CNC1CCCCC1]]",
+        "[[smi:CC1(O)CCCCC1]]"
+      ],
+      "answer": "[[smi:CN=C1CCCCC1]]",
+      "explanation": "1차 아민(RNH₂)은 카보닐과 첨가 → 카비놀아민 → 탈수를 거쳐 C=N을 가진 이민(Schiff base)을 만든다: [[rxn:O=C1CCCCC1.CN>>CN=C1CCCCC1|H⁺ (cat.)|−H₂O]]"
+    },
+    {
+      "id": 5,
+      "question": "다음 중 사이클로헥산온과 반응하여 에나민(enamine)을 형성하는 아민은?",
+      "choices": [
+        "[[smi:CN]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:CN(C)C]]",
+        "[[smi:NN]]"
+      ],
+      "answer": "[[smi:C1CCNC1]]",
+      "explanation": "2차 아민(R₂NH)은 이미늄 이온까지 간 뒤 N에서 H를 뗄 수 없으므로 α-탄소의 H가 떨어져 C=C–N 구조의 에나민이 된다: [[rxn:O=C1CCCCC1.C1CCNC1>>C1CCN(C1)C1=CCCCC1|H⁺ (cat.)]] 메틸아민(1차)은 이민, 하이드라진은 하이드라존을 만들고, 3차 아민은 반응하지 않는다."
+    },
+    {
+      "id": 6,
+      "question": "다음 반응 생성물의 작용기는? [[rxn:O=Cc1ccccc1>>COC(OC)c1ccccc1|CH₃OH (2 equiv)|H⁺ (cat.)]]",
+      "choices": [
+        "아세탈",
+        "헤미아세탈",
+        "에스터",
+        "수화물(gem-다이올)"
+      ],
+      "answer": "아세탈",
+      "explanation": "알코올 1분자 첨가 → 헤미아세탈(OH + OR), 산 촉매로 OH가 물로 떨어진 뒤 알코올 1분자가 더 첨가 → 아세탈(OR 2개). 모든 단계가 가역이므로 물을 제거하면 아세탈 쪽으로 평형이 이동한다."
+    },
+    {
+      "id": 7,
+      "question": "다음 변환에서 에스터만 LiAlH₄로 환원하고 케톤은 그대로 두고 싶다. 첫 단계에서 케톤을 보호하기 위해 쓰는 시약은? [[smi:CC(=O)CCC(=O)OC]] → [[smi:CC(=O)CCCO]]",
+      "choices": [
+        "HOCH₂CH₂OH, TsOH (에틸렌 아세탈 형성)",
+        "NaBH₄",
+        "H₃O⁺",
+        "PCC"
+      ],
+      "answer": "HOCH₂CH₂OH, TsOH (에틸렌 아세탈 형성)",
+      "explanation": "① 에틸렌 글라이콜/TsOH로 케톤을 고리형 아세탈로 보호 → ② LiAlH₄로 에스터 환원(아세탈은 염기·친핵체·H⁻에 안정) → ③ H₃O⁺로 탈보호. [[rxn:CC(=O)CCC(=O)OC>>CC1(CCC(=O)OC)OCCO1|HOCH₂CH₂OH|TsOH]]"
+    },
+    {
+      "id": 8,
+      "question": "이민 형성 반응 속도가 pH 4–5 부근에서 가장 빠른 이유는?",
+      "choices": [
+        "산이 카비놀아민의 OH를 양성자화해 좋은 이탈기(H₂O)로 만들지만, 너무 산성이면 아민이 모두 양성자화되어 친핵성을 잃기 때문",
+        "pH 4–5에서 카보닐 화합물이 모두 에놀로 바뀌기 때문",
+        "탈수 단계는 강염기 조건에서만 일어나기 때문",
+        "반응 속도는 pH와 무관하기 때문"
+      ],
+      "answer": "산이 카비놀아민의 OH를 양성자화해 좋은 이탈기(H₂O)로 만들지만, 너무 산성이면 아민이 모두 양성자화되어 친핵성을 잃기 때문",
+      "explanation": "산이 너무 적으면 탈수(OH 이탈)가 느리고, 너무 많으면 친핵체인 아민이 R–NH₃⁺가 되어 공격하지 못한다. 그 절충점이 약산성(pH 4–5)이다."
+    },
+    {
+      "id": 9,
+      "question": "[[smi:OCCCCC=O]] (5-하이드록시펜탄알)이 분자 내에서 고리화하여 생성하는 주된 고리형 헤미아세탈은?",
+      "choices": [
+        "[[smi:OC1CCCCO1]]",
+        "[[smi:OC1CCCO1]]",
+        "[[smi:O=C1CCCCO1]]",
+        "[[smi:C1CCOCC1]]"
+      ],
+      "answer": "[[smi:OC1CCCCO1]]",
+      "explanation": "C5의 OH가 C1 알데하이드를 분자 내에서 공격하면 안정한 육원자 고리 헤미아세탈(2-하이드록시테트라하이드로피란)이 된다. 포도당이 피라노스 고리를 만드는 것과 같은 원리다. [[smi:O=C1CCCCO1]] 은 락톤(고리형 에스터)이다."
+    },
+    {
+      "id": 10,
+      "question": "뷰탄온 [[smi:CCC(C)=O]] 을 NaBH₄로 환원하여 얻은 2-뷰탄올의 입체화학은?",
+      "choices": [
+        "라세미 혼합물 (R : S = 1 : 1)",
+        "(R)-2-뷰탄올만 생성",
+        "(S)-2-뷰탄올만 생성",
+        "메소 화합물"
+      ],
+      "answer": "라세미 혼합물 (R : S = 1 : 1)",
+      "explanation": "카보닐 탄소는 평면(sp²)이므로 H⁻가 위·아래 면에서 같은 확률로 공격한다. 새 입체중심이 생기지만 두 거울상이성질체가 같은 양 생긴다. 한쪽만 얻으려면 CBS 시약 같은 키랄 환원제가 필요하다."
+    }
+  ]
+}

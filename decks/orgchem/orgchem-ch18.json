@@ -1,0 +1,128 @@
+{
+  "deckId": "orgchem-ch18",
+  "subject": "유기화학",
+  "title": "Ch18: 방향족 화합물의 반응",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 굽은 화살표가 나타내는 단계(친전자성 방향족 치환의 첫 단계)에서 생성되는 중간체는? [[img:orgchem/images/eas-first-step.svg|벤젠 π전자의 친전자체 공격]]",
+      "choices": [
+        "아레늄 이온(σ 착물, 공명 안정화된 탄소 양이온)",
+        "벤자인",
+        "Meisenheimer 착물(탄소 음이온)",
+        "라디칼"
+      ],
+      "answer": "아레늄 이온(σ 착물, 공명 안정화된 탄소 양이온)",
+      "explanation": "벤젠의 π전자가 E⁺를 공격하면 방향족성이 깨진 아레늄 이온이 생긴다(느린 단계, 속도 결정 단계). 이어 염기가 E가 붙은 탄소의 H⁺를 떼어 내면 방향족성이 회복된다: [[rxn:c1ccccc1>>Brc1ccccc1|Br₂|FeBr₃]]"
+    },
+    {
+      "id": 2,
+      "question": "다음 반응에서 벤젠을 공격하는 실제 친전자체는? [[rxn:c1ccccc1>>O=[N+]([O-])c1ccccc1|HNO₃|H₂SO₄]]",
+      "choices": [
+        "NO₂⁺ (나이트로늄 이온)",
+        "NO₂⁻ (아질산 이온)",
+        "NO⁺ (나이트로소늄 이온)",
+        "HSO₄⁻"
+      ],
+      "answer": "NO₂⁺ (나이트로늄 이온)",
+      "explanation": "H₂SO₄가 HNO₃를 양성자화하고 H₂O가 떨어지면서 강한 친전자체 NO₂⁺ [[smi:O=[N+]=O]] 가 생긴다."
+    },
+    {
+      "id": 3,
+      "question": "다음 반응의 ? 에 들어갈 시약은? [[rxn:c1ccccc1>>Brc1ccccc1|?]]",
+      "choices": [
+        "Br₂, FeBr₃",
+        "Br₂, hν",
+        "NBS, hν",
+        "HBr"
+      ],
+      "answer": "Br₂, FeBr₃",
+      "explanation": "벤젠은 알켄과 달리 Br₂만으로는 반응하지 않는다. 루이스산 FeBr₃가 Br₂를 분극시켜 Br⁺ 성격의 친전자체를 만들어야 치환이 일어난다."
+    },
+    {
+      "id": 4,
+      "question": "다음 치환기 중 메타(meta) 지향기는?",
+      "choices": [
+        "–OCH₃",
+        "–CH₃",
+        "–Cl",
+        "–NO₂",
+        "–NH₂"
+      ],
+      "answer": "–NO₂",
+      "explanation": "–NO₂, –CN, –CHO, –COR, –COOH, –SO₃H 등 고리에서 전자를 끄는 기(비활성화기)는 메타 지향기다. –OCH₃, –NH₂, –CH₃는 활성화 o,p-지향기, 할로젠(–Cl)은 비활성화 o,p-지향기다."
+    },
+    {
+      "id": 5,
+      "question": "클로로벤젠 [[smi:Clc1ccccc1]] 을 HNO₃/H₂SO₄로 나이트로화할 때 주생성물은?",
+      "choices": [
+        "[[smi:O=[N+]([O-])c1ccc(Cl)cc1]]",
+        "[[smi:O=[N+]([O-])c1cccc(Cl)c1]]",
+        "[[smi:Clc1ccccc1Cl]]",
+        "[[smi:O=[N+]([O-])c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=[N+]([O-])c1ccc(Cl)cc1]]",
+      "explanation": "할로젠은 유발 효과로 고리를 비활성화하지만, 비공유 전자쌍의 공명으로 o,p 공격 시 생기는 아레늄 이온을 안정화하므로 o,p-지향기다. 입체 장애가 적은 para 생성물이 주생성물이다."
+    },
+    {
+      "id": 6,
+      "question": "다음 중 Friedel–Crafts 알킬화(CH₃Cl, AlCl₃)가 거의 일어나지 않는 기질은?",
+      "choices": [
+        "[[smi:c1ccccc1]]",
+        "[[smi:Cc1ccccc1]]",
+        "[[smi:Clc1ccccc1]]",
+        "[[smi:O=[N+]([O-])c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=[N+]([O-])c1ccccc1]]",
+      "explanation": "Friedel–Crafts 반응은 강한 비활성화기(–NO₂, –SO₃H, –COR 등)가 있는 고리나 –NH₂(루이스산과 착물 형성)가 있는 고리에서는 일어나지 않는다. 약한 비활성화기인 할로젠이 붙은 고리는 반응한다."
+    },
+    {
+      "id": 7,
+      "question": "[[smi:c1ccccc1]] + [[smi:CC(=O)Cl]] (AlCl₃) 반응의 생성물은?",
+      "choices": [
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:CCc1ccccc1]]",
+        "[[smi:CC(=O)Oc1ccccc1]]",
+        "[[smi:Clc1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)c1ccccc1]]",
+      "explanation": "AlCl₃가 아실 클로라이드에서 Cl⁻를 떼어 공명 안정화된 아실륨 이온(CH₃C≡O⁺)을 만든다. 아실륨 이온은 자리옮김이 없고, 생성물(케톤)은 비활성화되어 다중 아실화도 일어나지 않는다: [[rxn:c1ccccc1.CC(=O)Cl>>CC(=O)c1ccccc1|AlCl₃]]"
+    },
+    {
+      "id": 8,
+      "question": "다음 반응의 ? 에 들어갈 시약은? [[rxn:CC(=O)c1ccccc1>>CCc1ccccc1|?]]",
+      "choices": [
+        "Zn(Hg), HCl",
+        "NaBH₄, CH₃OH",
+        "KMnO₄",
+        "Br₂, FeBr₃"
+      ],
+      "answer": "Zn(Hg), HCl",
+      "explanation": "Clemmensen 환원(Zn(Hg), HCl) 또는 Wolff–Kishner 환원(NH₂NH₂, KOH)은 C=O를 CH₂로 바꾼다. FC 아실화 + 환원은 자리옮김 없이 1차 알킬기를 도입하는 방법이다. NaBH₄는 알코올까지만 환원한다."
+    },
+    {
+      "id": 9,
+      "question": "다음 반응의 ? 에 들어갈 시약은? [[rxn:O=[N+]([O-])c1ccccc1>>Nc1ccccc1|?]]",
+      "choices": [
+        "H₂, Pd-C (또는 Fe, HCl)",
+        "KMnO₄",
+        "NaBH₄",
+        "HNO₃, H₂SO₄"
+      ],
+      "answer": "H₂, Pd-C (또는 Fe, HCl)",
+      "explanation": "나이트로기는 H₂/Pd-C 또는 Fe(Sn, Zn)/HCl로 아미노기로 환원된다. 강한 메타 지향·비활성화기(–NO₂)가 강한 o,p 지향·활성화기(–NH₂)로 바뀌는 중요한 변환이다."
+    },
+    {
+      "id": 10,
+      "question": "톨루엔 [[smi:Cc1ccccc1]] 을 NBS, hν(또는 과산화물)로 처리할 때 주생성물은?",
+      "choices": [
+        "[[smi:BrCc1ccccc1]]",
+        "[[smi:Cc1ccc(Br)cc1]]",
+        "[[smi:Cc1ccccc1Br]]",
+        "[[smi:Brc1ccccc1]]"
+      ],
+      "answer": "[[smi:BrCc1ccccc1]]",
+      "explanation": "라디칼 조건에서는 고리가 아니라 벤질 위치 C–H가 브로민화된다. 벤질 라디칼이 고리와 공명하여 안정하기 때문이다: [[rxn:Cc1ccccc1>>BrCc1ccccc1|NBS|hν]]"
+    }
+  ]
+}

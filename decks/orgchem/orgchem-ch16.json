@@ -1,0 +1,128 @@
+{
+  "deckId": "orgchem-ch16",
+  "subject": "유기화학",
+  "title": "Ch16: 공액·공명·다이엔 (conjugation, resonance, dienes)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 중 공액 다이엔(conjugated diene)은?",
+      "choices": [
+        "[[smi:C=CCC=C]]",
+        "[[smi:C=C=CCC]]",
+        "[[smi:C=CC=CC]]",
+        "[[smi:C=CCCC=C]]"
+      ],
+      "answer": "[[smi:C=CC=CC]]",
+      "explanation": "두 C=C가 단일결합 하나를 사이에 두고 있어야 네 개의 p 오비탈이 연속으로 겹쳐 공액된다. 1,3-펜타다이엔 [[smi:C=CC=CC]] 이 공액 다이엔이다. 1,4-펜타다이엔·1,5-헥사다이엔은 sp³ 탄소가 끼어 있는 고립 다이엔, 1,2-펜타다이엔은 누적 다이엔(알렌)이다."
+    },
+    {
+      "id": 2,
+      "question": "다음 굽은 화살표로 연결된 두 구조에 대한 설명으로 옳은 것은? [[img:orgchem/images/allyl-cation-resonance.svg|알릴 양이온의 공명 구조]]",
+      "choices": [
+        "두 구조는 전자의 위치만 다른 공명 구조이며, 실제 구조는 두 구조의 혼성체이다",
+        "두 구조는 빠르게 상호 전환되는 평형 상태의 이성질체이다",
+        "굽은 화살표는 원자(핵)의 이동을 나타낸다",
+        "양전하는 가운데 탄소(C2)에 가장 많이 분포한다"
+      ],
+      "answer": "두 구조는 전자의 위치만 다른 공명 구조이며, 실제 구조는 두 구조의 혼성체이다",
+      "explanation": "공명 구조는 원자 배치는 같고 π전자·비공유 전자쌍의 위치만 다르다. 실제 알릴 양이온은 두 구조의 혼성체로, 양전하가 양 끝 탄소(C1, C3)에 나뉘어 분포하고 가운데 탄소에는 없다. 공명은 평형이 아니다."
+    },
+    {
+      "id": 3,
+      "question": "다음 중 공명 구조를 그릴 수 없는(공명 안정화되지 않는) 화학종은?",
+      "choices": [
+        "[[smi:[CH2+]C=C]]",
+        "[[smi:[CH2-]C=C]]",
+        "[[smi:[CH2+]c1ccccc1]]",
+        "[[smi:[CH2+]CC=C]]",
+        "[[smi:[O-]C(C)=O]]"
+      ],
+      "answer": "[[smi:[CH2+]CC=C]]",
+      "explanation": "3-뷰텐일 양이온 [[smi:[CH2+]CC=C]] 은 양전하 탄소와 C=C 사이에 sp³ CH₂가 있어 빈 p 오비탈과 π결합이 겹치지 못한다. 알릴 양이온·음이온, 벤질 양이온, 아세테이트 이온은 모두 공명 안정화된다."
+    },
+    {
+      "id": 4,
+      "question": "cis-다이엔친화체인 다이메틸 말레에이트를 1,3-뷰타다이엔과 반응시켰다. 생성물에서 두 에스터기의 상대 입체화학은? [[rxn:C=CC=C.COC(=O)/C=C\\C(=O)OC>>COC(=O)C1CC=CCC1C(=O)OC|Δ]]",
+      "choices": [
+        "cis (고리의 같은 쪽)",
+        "trans (고리의 반대쪽)",
+        "cis와 trans가 1:1로 생성",
+        "반응이 일어나지 않는다"
+      ],
+      "answer": "cis (고리의 같은 쪽)",
+      "explanation": "Diels–Alder 반응은 한 단계 협동(concerted) syn 첨가이므로 입체특이적이다. 다이엔친화체에서 cis였던 치환기는 생성물에서도 cis로 유지되고, trans였던 치환기는 trans로 유지된다."
+    },
+    {
+      "id": 5,
+      "question": "Diels–Alder 반응이 일어나려면 다이엔은 어떤 형태(conformation)를 취해야 하는가? (s-cis / s-trans 중 하나)",
+      "answer": [
+        "s-cis",
+        "s-시스",
+        "s시스",
+        "scis",
+        "S-cis"
+      ],
+      "explanation": "두 C=C의 끝 탄소(C1, C4)가 같은 쪽에 있어야 다이엔친화체와 동시에 결합할 수 있으므로 s-cis 형태가 필요하다. 사이클로펜타다이엔처럼 s-cis로 고정된 다이엔은 반응성이 매우 크고, s-trans로 고정된 다이엔은 반응하지 않는다."
+    },
+    {
+      "id": 6,
+      "question": "다음 C₅H₈ 다이엔 중 가장 안정한(수소화열이 가장 작은) 것은?",
+      "choices": [
+        "[[smi:C=C=CCC]]",
+        "[[smi:C=CCC=C]]",
+        "[[smi:C/C=C/C=C]]",
+        "[[smi:C/C=C\\C=C]]"
+      ],
+      "answer": "[[smi:C/C=C/C=C]]",
+      "explanation": "안정성: 공액 다이엔 > 고립 다이엔 > 누적 다이엔(알렌). 공액 다이엔 중에서는 (E)-1,3-펜타다이엔이 (Z)-이성질체보다 입체 장애가 적어 더 안정하다. 더 안정할수록 수소화할 때 방출하는 열(수소화열)이 작다."
+    },
+    {
+      "id": 7,
+      "question": "1,3-뷰타다이엔 [[smi:C=CC=C]] 의 C2–C3 단일결합(약 148 pm)이 에테인의 C–C 결합(153 pm)보다 짧은 이유로 옳은 것은?",
+      "choices": [
+        "sp²–sp² 혼성 오비탈로 이루어진 σ결합(s 성질 증가)이고, π전자 비편재화로 부분적인 이중결합 성질을 띠기 때문",
+        "C2–C3 결합이 실제로는 이중결합이기 때문",
+        "C2–C3 결합이 sp³–sp³ 오비탈로 이루어졌기 때문",
+        "분자 내 수소결합이 형성되기 때문"
+      ],
+      "answer": "sp²–sp² 혼성 오비탈로 이루어진 σ결합(s 성질 증가)이고, π전자 비편재화로 부분적인 이중결합 성질을 띠기 때문",
+      "explanation": "s 성질이 큰 혼성 오비탈일수록 핵에 가까워 결합이 짧아진다(sp²–sp²). 또한 네 p 오비탈이 겹쳐 C2–C3 사이에도 약간의 π 결합 성질이 생긴다."
+    },
+    {
+      "id": 8,
+      "question": "1,3-뷰타다이엔에 HBr을 −80 °C에서 첨가할 때의 주생성물(반응속도론적 생성물)은?",
+      "choices": [
+        "[[smi:C=CC(C)Br]]",
+        "[[smi:CC=CCBr]]",
+        "[[smi:C=CCCBr]]",
+        "[[smi:CC(Br)C(C)Br]]"
+      ],
+      "answer": "[[smi:C=CC(C)Br]]",
+      "explanation": "H⁺가 C1에 첨가되어 공명 안정화된 알릴 양이온이 생긴다. 저온에서는 Br⁻가 가까운 C2를 공격하는 1,2-첨가(활성화 에너지가 작음)가 빠르다: [[rxn:C=CC=C>>C=CC(C)Br|HBr|−80 °C]] 40 °C에서는 가역 반응이 되어 더 안정한(치환기가 많은 내부 알켄) 1,4-생성물이 주생성물이 된다: [[rxn:C=CC=C>>CC=CCBr|HBr|40 °C]]"
+    },
+    {
+      "id": 9,
+      "question": "다음 Diels–Alder 반응의 생성물은? [[smi:C=CC=C]] + [[smi:C=CC(=O)OC]] (가열)",
+      "choices": [
+        "[[smi:COC(=O)C1CC=CCC1]]",
+        "[[smi:COC(=O)C1C=CCCC1]]",
+        "[[smi:COC(=O)C1CCC1C=C]]",
+        "[[smi:COC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:COC(=O)C1CC=CCC1]]",
+      "explanation": "다이엔의 C1과 C4가 다이엔친화체의 두 탄소와 새 σ결합 2개를 만들고, 다이엔의 C2=C3 위치에 새 π결합이 생긴다. 따라서 치환기에서 두 칸 떨어진 곳에 C=C가 있는 사이클로헥센이 생성된다: [[rxn:C=CC=C.C=CC(=O)OC>>COC(=O)C1CC=CCC1|Δ]]"
+    },
+    {
+      "id": 10,
+      "question": "다음 중 UV–Vis 흡수 파장(λmax)이 가장 긴 것은?",
+      "choices": [
+        "[[smi:C=C]]",
+        "[[smi:C=CC=C]]",
+        "[[smi:C=CC=CC=C]]",
+        "[[smi:C=CCC=C]]"
+      ],
+      "answer": "[[smi:C=CC=CC=C]]",
+      "explanation": "공액이 길어질수록 HOMO–LUMO 에너지 간격이 작아져 더 긴 파장의 빛을 흡수한다. 에틸렌(약 171 nm) < 1,3-뷰타다이엔(217 nm) < 1,3,5-헥사트라이엔(258 nm). 1,4-펜타다이엔은 고립 다이엔이라 에틸렌과 비슷하다."
+    }
+  ]
+}
