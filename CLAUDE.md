@@ -347,4 +347,4 @@ export function render(question, container, onAnswer) {
 - [x] 9. 구조식 검사와 AI 프롬프트
 - [x] 10. 반응식
 - [x] 11. 그림 파일
-- [ ] 12. 오류 지점 점검
+- [x] 12. 오류 지점 점검

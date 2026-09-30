@@ -35,6 +35,10 @@ function checkImagePath(path) {
   return null;
 }
 
+// 그리기 옵션. compactDrawing을 끄지 않으면 작은 분자(예: 아세트산)를 구조식 대신
+// "COOHCH3" 같은 글자로 줄여 버리므로 끈다(12단계 스크린샷 점검에서 발견).
+const DRAW_OPTIONS = { bondThickness: 1.2, compactDrawing: false };
+
 // 표시가 올바른지 확인한다(구조식·반응식은 라이브러리로 해석해 봄). 해석 실패 이유(문자열) 또는 null을 돌려준다.
 // 라이브러리를 못 읽은 경우에는 검사하지 않는다(null).
 export function checkStructure(kind, value) {
@@ -91,7 +95,7 @@ function createStructure(kind, value) {
 
   try {
     if (kind === "smi") {
-      const drawer = new lib.SvgDrawer({ width: 240, height: 180, bondThickness: 1.2 });
+      const drawer = new lib.SvgDrawer({ width: 240, height: 180, ...DRAW_OPTIONS });
       drawer.draw(lib.Parser.parse(value), svg, "light");
       // 라이브러리는 viewBox만 정하고 크기는 정하지 않는다. 크기가 없으면
       // 그림이 0으로 찌그러져 안 보일 수 있으므로 기본 크기를 직접 준다(CSS가 좁은 화면에서 줄임).
@@ -99,7 +103,7 @@ function createStructure(kind, value) {
       svg.setAttribute("height", "180");
     } else {
       const { smiles, above, below } = splitReaction(value);
-      const drawer = new lib.ReactionDrawer({}, { bondThickness: 1.2 });
+      const drawer = new lib.ReactionDrawer({}, DRAW_OPTIONS);
       drawer.draw(lib.ReactionParser.parse(smiles), svg, "light", null, above, below);
       // 반응식 그리기는 크기를 style로 정하므로, 폭은 옮겨 적고 높이는 viewBox 비율로 맞춘다
       // (화살표 위·아래 글자까지 들어가게). CSS가 좁은 화면에서 비율대로 줄인다.
