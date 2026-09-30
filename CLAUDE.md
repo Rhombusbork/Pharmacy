@@ -60,6 +60,7 @@ quiz-app/
 └── docs/
     ├── PROMPT.md         # AI에게 퀴즈 생성을 요청할 때 쓰는 프롬프트 템플릿
     ├── HOW_TO_RUN.md     # 앱 켜는 방법 메모
+    ├── FORMAT.md         # 구조식·반응식·메커니즘 쓰는 법(요약)
     ├── CHECKLIST-12.md   # 12단계 망가뜨려 보기 점검표
     └── DEVLOG.md         # 단계별 제작 과정 기록
 ```
