@@ -5,6 +5,12 @@
     "orgchem/01-functional-groups.json",
     "orgchem/02-structures.json",
     "analchem/01-basics.json",
-    "physpharm/01-dissolution-interface.json"
+    "physpharm/01-dissolution-interface.json",
+    "orgchem/orgchem-ch16.json",
+    "orgchem/orgchem-ch17.json",
+    "orgchem/orgchem-ch18.json",
+    "orgchem/orgchem-ch19.json",
+    "orgchem/orgchem-ch20.json",
+    "orgchem/orgchem-exam-2024-2-mid.json"
   ]
 }
