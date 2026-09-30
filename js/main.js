@@ -1,6 +1,7 @@
 // 앱 시작점. 홈 ↔ 풀이 ↔ 결과 화면 전환을 담당한다.
 
-import { loadAllDecks } from "./loader.js";
+import { loadAllDecks, findMissingFiles } from "./loader.js";
+import { findStructures } from "./ui/richtext.js";
 import { validateDeckHeader, validateQuestions, findDuplicateDeckIds } from "./validator.js";
 import { renderHome } from "./ui/home.js";
 import { renderQuiz } from "./ui/quiz.js";
@@ -72,9 +73,36 @@ function showResult(data) {
   renderResult(app, data, { onHome: showHome });
 }
 
+// 정상 문제들이 쓰는 그림 파일([[img:...]])이 실제로 있는지 확인하고,
+// 없는 그림을 쓰는 문제는 다른 형식 오류와 똑같이 제외하고 홈에 경고로 표시한다.
+async function excludeMissingImages(entries) {
+  const imagesOf = (q) =>
+    [q.question, q.explanation, ...(q.choices ?? []), ...[q.answer].flat()]
+      .filter((t) => typeof t === "string")
+      .flatMap(findStructures)
+      .filter((s) => s.kind === "img")
+      .map((s) => s.value.split("|")[0].trim());
+
+  const usable = entries.filter((e) => !e.fatal);
+  const missing = await findMissingFiles(usable.flatMap((e) => e.validQuestions.flatMap(imagesOf)));
+  if (missing.size === 0) return;
+
+  for (const e of usable) {
+    e.validQuestions = e.validQuestions.filter((q) => {
+      const lost = imagesOf(q).filter((path) => missing.has(path));
+      if (lost.length === 0) return true;
+      e.questionErrors.push({ id: q.id, reasons: lost.map((path) => `그림 파일 없음: ${path}`) });
+      return false;
+    });
+  }
+}
+
 async function start() {
-  const loadResults = await loadAllDecks();
-  deckEntries = buildDeckEntries(loadResults);
+  const { indexError, results } = await loadAllDecks();
+  deckEntries = buildDeckEntries(results);
+  await excludeMissingImages(deckEntries);
+  // index.json 자체의 문제는 덱 오류와 같은 자리(홈 경고 상자)에 보여준다.
+  if (indexError) deckEntries.unshift({ path: "decks/index.json", fatal: indexError });
   showHome();
 }
 

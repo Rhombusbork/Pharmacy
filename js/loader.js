@@ -3,18 +3,27 @@
 
 const DECKS_BASE = "decks/";
 
-// decks/index.json 을 읽어 등록된 덱 파일 경로 배열을 돌려준다.
-// 파일이 없거나 형식이 깨졌으면 빈 배열을 돌려주고 콘솔에 에러를 남긴다(앱이 멈추면 안 됨).
+// decks/index.json 을 읽어 { paths, error } 를 돌려준다.
+// 파일이 없거나 형식이 깨졌으면 paths는 빈 배열, error에 이유를 담는다(홈 화면에 표시, 앱은 멈추지 않음).
 async function loadDeckPaths() {
   try {
     const res = await fetch(`${DECKS_BASE}index.json`);
-    if (!res.ok) throw new Error(`index.json 응답 오류: ${res.status}`);
-    const data = await res.json();
-    if (!Array.isArray(data.decks)) throw new Error("index.json에 decks 배열이 없음");
-    return data.decks;
+    if (!res.ok) throw new Error(`파일을 찾지 못함 (응답 ${res.status})`);
+    let data;
+    try {
+      data = await res.json();
+    } catch {
+      throw new Error("JSON 문법 오류 (쉼표·따옴표·괄호 확인)");
+    }
+    if (!Array.isArray(data?.decks)) throw new Error('"decks" 배열이 없음');
+    const paths = data.decks.filter((p) => typeof p === "string" && p.trim() !== "");
+    const skipped = data.decks.length - paths.length;
+    return { paths, error: skipped > 0 ? `문자열이 아니거나 빈 경로 ${skipped}개를 건너뜀` : null };
   } catch (err) {
     console.error("[loader] 덱 목록을 읽지 못했습니다:", err);
-    return [];
+    // fetch 자체가 실패하는 대표적인 경우: index.html을 더블클릭해서 file:// 로 연 경우
+    const hint = location.protocol === "file:" ? " — 파일을 더블클릭하지 말고 Live Server로 여세요" : "";
+    return { paths: [], error: `${err.message}${hint}` };
   }
 }
 
@@ -22,8 +31,13 @@ async function loadDeckPaths() {
 async function loadDeck(path) {
   try {
     const res = await fetch(`${DECKS_BASE}${path}`);
-    if (!res.ok) throw new Error(`응답 오류: ${res.status}`);
-    const deck = await res.json();
+    if (!res.ok) throw new Error(`파일을 찾지 못함 (응답 ${res.status})`);
+    let deck;
+    try {
+      deck = await res.json();
+    } catch {
+      throw new Error("JSON 문법 오류 (쉼표·따옴표·괄호 확인)");
+    }
     return { ok: true, path, deck };
   } catch (err) {
     console.error(`[loader] 덱을 읽지 못했습니다 (${path}):`, err);
@@ -31,10 +45,27 @@ async function loadDeck(path) {
   }
 }
 
-// index.json에 등록된 모든 덱을 읽어서 결과 배열로 돌려준다.
+// index.json에 등록된 모든 덱을 읽어서 { indexError, results } 로 돌려준다.
 // 하나가 실패해도 나머지는 계속 읽는다.
 export async function loadAllDecks() {
-  const paths = await loadDeckPaths();
+  const { paths, error } = await loadDeckPaths();
   const results = await Promise.all(paths.map(loadDeck));
-  return results;
+  return { indexError: error, results };
+}
+
+// 그림 경로(decks/ 기준) 목록 중 실제로 읽을 수 없는 것들을 Set으로 돌려준다.
+// 파일 내용은 받지 않고 있는지만 확인한다(HEAD 요청).
+export async function findMissingFiles(paths) {
+  const missing = new Set();
+  await Promise.all(
+    [...new Set(paths)].map(async (path) => {
+      try {
+        const res = await fetch(`${DECKS_BASE}${path}`, { method: "HEAD" });
+        if (!res.ok) missing.add(path);
+      } catch {
+        missing.add(path);
+      }
+    })
+  );
+  return missing;
 }

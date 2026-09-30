@@ -58,7 +58,10 @@ function renderBackupControls(container, callbacks) {
       const data = JSON.parse(await file.text());
       const ok = window.confirm("지금 가지고 있는 기록을 불러온 파일 내용으로 덮어씁니다. 계속할까요?");
       if (!ok) return;
-      importAll(data);
+      if (!importAll(data)) {
+        window.alert("이 파일은 퀴즈 기록 백업 파일이 아닙니다. 기존 기록은 그대로 두었습니다.");
+        return;
+      }
       window.alert("기록을 불러왔습니다.");
       callbacks.onImported();
     } catch (err) {
@@ -168,7 +171,8 @@ function renderScoreLine(deckId) {
     return line;
   }
 
-  const fmt = (s) => `${s.correct}/${s.total} (${Math.round((s.correct / s.total) * 100)}%)`;
+  const pct = (s) => (s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0);
+  const fmt = (s) => `${s.correct}/${s.total} (${pct(s)}%)`;
   line.textContent = `최근 ${fmt(recent)} · 최고 ${fmt(best)}`;
   return line;
 }

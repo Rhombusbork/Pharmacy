@@ -22,20 +22,40 @@ function load() {
     if (!raw) return defaultData();
 
     const data = JSON.parse(raw);
-    const looksValid =
-      typeof data === "object" &&
-      data !== null &&
-      typeof data.questionStats === "object" &&
-      data.questionStats !== null &&
-      Array.isArray(data.sessions) &&
-      Array.isArray(data.answerLog) &&
-      Array.isArray(data.bookmarks);
-
-    return looksValid ? data : defaultData();
+    return isValidData(data) ? cleanData(data) : defaultData();
   } catch (err) {
     console.error("[storage] 저장된 기록을 읽지 못해 기본값으로 시작합니다:", err);
     return defaultData();
   }
+}
+
+// 기록 데이터의 큰 틀(필수 항목과 종류)이 맞는지 확인한다.
+function isValidData(data) {
+  return (
+    typeof data === "object" &&
+    data !== null &&
+    !Array.isArray(data) &&
+    typeof data.questionStats === "object" &&
+    data.questionStats !== null &&
+    Array.isArray(data.sessions) &&
+    Array.isArray(data.answerLog) &&
+    Array.isArray(data.bookmarks)
+  );
+}
+
+// 큰 틀은 맞지만 안쪽 항목 일부가 깨진 경우, 깨진 항목만 버리고 나머지 기록은 살린다.
+function cleanData(data) {
+  const isObj = (v) => typeof v === "object" && v !== null;
+  data.sessions = data.sessions.filter(
+    (s) => isObj(s) && typeof s.source === "string" && Number.isFinite(s.total) && Number.isFinite(s.correct)
+  );
+  data.answerLog = data.answerLog.filter((a) => isObj(a) && typeof a.qid === "string");
+  for (const [qid, st] of Object.entries(data.questionStats)) {
+    if (!isObj(st) || !Number.isFinite(st.attempts) || !Number.isFinite(st.correct)) {
+      delete data.questionStats[qid];
+    }
+  }
+  return data;
 }
 
 function save(data) {
@@ -105,6 +125,10 @@ export function exportAll() {
   return load();
 }
 
+// 백업 파일 내용이 기록 형식이 아니면(예: 덱 파일을 잘못 고름) 저장하지 않고 false를 돌려준다.
+// 이 검사가 없으면 엉뚱한 파일을 불러왔을 때 기존 기록이 통째로 사라진다.
 export function importAll(data) {
-  save(data);
+  if (!isValidData(data)) return false;
+  save(cleanData(data));
+  return true;
 }

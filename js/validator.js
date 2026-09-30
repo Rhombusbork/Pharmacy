@@ -67,6 +67,8 @@ function validateQuestion(q, seenIds) {
     const choices = q.choices;
     if (!Array.isArray(choices) || choices.length < 2 || !choices.every(isNonEmptyString)) {
       reasons.push("choices는 2개 이상의 빈 값 없는 배열이어야 함");
+    } else if (new Set(choices).size !== choices.length) {
+      reasons.push("choices에 똑같은 선지가 있음");
     } else if (!isNonEmptyString(q.answer) || !choices.includes(q.answer)) {
       reasons.push("answer가 choices 중 하나와 정확히 일치하지 않음");
     }

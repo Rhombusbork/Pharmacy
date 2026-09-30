@@ -59,6 +59,8 @@ quiz-app/
 │   └── <과목>/images/    # 덱에서 쓰는 그림 파일(메커니즘 등)
 └── docs/
     ├── PROMPT.md         # AI에게 퀴즈 생성을 요청할 때 쓰는 프롬프트 템플릿
+    ├── HOW_TO_RUN.md     # 앱 켜는 방법 메모
+    ├── CHECKLIST-12.md   # 12단계 망가뜨려 보기 점검표
     └── DEVLOG.md         # 단계별 제작 과정 기록
 ```
 
@@ -237,10 +239,11 @@ export function render(question, container, onAnswer) {
 - 다른 덱과 `deckId` 중복
 - 문제 `id` 누락 또는 덱 내 중복
 - `question`, `answer` 누락 또는 빈 값
-- 객관식: `choices`가 2개 이상, `answer`가 `choices` 중 하나와 정확히 일치
+- 객관식: `choices`가 2개 이상, 서로 겹치지 않음, `answer`가 `choices` 중 하나와 정확히 일치
 - 주관식: `answer`가 빈 문자열/빈 배열이 아님
 - `[[smi:...]]` 안의 SMILES, `[[rxn:...]]` 안의 반응식을 해석할 수 없음
-- `[[img:...]]` 경로가 규칙에 맞지 않음(파일이 실제로 있는지는 그릴 때 확인)
+- `[[img:...]]` 경로가 규칙에 맞지 않음, 또는 그림 파일이 없음(시작할 때 main.js가 확인)
+- `decks/index.json`을 못 읽거나 문법 오류 → 홈 경고에 `decks/index.json` 으로 표시
 
 ## 기록 저장 (`storage.js`)
 
@@ -277,7 +280,8 @@ export function render(question, container, onAnswer) {
 ```
 
 - `answerLog`는 최근 3000개, `sessions`는 최근 500개까지만 유지한다.
-- 저장 데이터가 없거나 깨져 있으면 빈 기본 구조로 시작한다(앱이 멈추면 안 됨).
+- 저장 데이터가 없거나 깨져 있으면 빈 기본 구조로 시작한다(앱이 멈추면 안 됨). 안쪽 항목 일부만 깨졌으면 그 항목만 버린다.
+- `importAll`은 기록 형식이 아닌 파일이면 저장하지 않고 `false`를 돌려준다(기존 기록 보호).
 - "맞은 걸로 처리"로 정정하면 해당 답의 기록도 정답으로 반영한다.
 - 제공할 함수 예: `recordAnswer(qid, correct)`, `saveSession(session)`, `getQuestionStats(qid)`, `getDeckSummary(deckId)`, `exportAll()`, `importAll(data)`
 
