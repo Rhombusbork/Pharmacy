@@ -1,6 +1,7 @@
 // 주관식 렌더러. mcq.js와 같은 모양(render(question, container, onAnswer))을 따른다.
 
 import { registerRenderer } from "./registry.js";
+import { renderRichText } from "../ui/richtext.js";
 
 // 비교 전 정규화: 앞뒤 공백 제거 → 중간 공백 제거 → 영문 소문자화 → 유니코드 NFC 정규화
 function normalize(s) {
@@ -21,7 +22,7 @@ export function render(question, container, onAnswer) {
 
   const qText = document.createElement("p");
   qText.className = "question-text";
-  qText.textContent = question.question;
+  renderRichText(qText, question.question);
   container.appendChild(qText);
 
   const form = document.createElement("form");
@@ -63,7 +64,7 @@ export function render(question, container, onAnswer) {
       const answers = Array.isArray(question.answer) ? question.answer : [question.answer];
       const ansLine = document.createElement("p");
       ansLine.className = "short-answer";
-      ansLine.textContent = `정답: ${answers.join(" / ")}`;
+      renderRichText(ansLine, `정답: ${answers.join(" / ")}`);
       container.appendChild(ansLine);
 
       const fixBtn = document.createElement("button");
@@ -82,7 +83,7 @@ export function render(question, container, onAnswer) {
     if (question.explanation) {
       const exp = document.createElement("p");
       exp.className = "explanation";
-      exp.textContent = question.explanation;
+      renderRichText(exp, question.explanation);
       container.appendChild(exp);
     }
 

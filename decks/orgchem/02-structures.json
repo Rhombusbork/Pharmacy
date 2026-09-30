@@ -1,0 +1,86 @@
+{
+  "deckId": "orgchem-02",
+  "subject": "유기화학",
+  "title": "2차시: 구조식 보고 풀기",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 화합물의 이름은? [[smi:c1ccc(cc1)O]]",
+      "choices": [
+        "페놀",
+        "톨루엔",
+        "아닐린",
+        "벤즈알데하이드"
+      ],
+      "answer": "페놀",
+      "explanation": "벤젠 고리에 -OH가 직접 붙은 화합물이 페놀이다."
+    },
+    {
+      "id": 2,
+      "question": "다음 중 카복실산은?",
+      "choices": [
+        "[[smi:CC(=O)O]]",
+        "[[smi:CC(=O)C]]",
+        "[[smi:CCO]]",
+        "[[smi:CC=O]]"
+      ],
+      "answer": "[[smi:CC(=O)O]]",
+      "explanation": "카복실기(-COOH)를 가진 아세트산 [[smi:CC(=O)O]] 이 카복실산이다. 나머지는 케톤(아세톤), 알코올(에탄올), 알데하이드(아세트알데하이드)."
+    },
+    {
+      "id": 3,
+      "question": "다음 화합물에 들어 있는 작용기는? [[smi:CCOC(=O)C]]",
+      "choices": [
+        "에스터",
+        "에터",
+        "케톤",
+        "아마이드"
+      ],
+      "answer": "에스터",
+      "explanation": "아세트산 에틸(ethyl acetate)로, -COO- 구조를 가진 에스터이다."
+    },
+    {
+      "id": 4,
+      "question": "다음 화합물의 이름을 쓰시오. [[smi:Cc1ccccc1]]",
+      "answer": [
+        "톨루엔",
+        "toluene",
+        "메틸벤젠"
+      ],
+      "explanation": "벤젠 고리에 메틸기(-CH3)가 하나 붙은 톨루엔이다."
+    },
+    {
+      "id": 5,
+      "question": "다음 아미노산의 한 글자 약어는? [[smi:N[C@@H](C)C(=O)O]]",
+      "answer": [
+        "A",
+        "Ala"
+      ],
+      "explanation": "곁사슬이 메틸기인 L-알라닌이다."
+    },
+    {
+      "id": 6,
+      "question": "다음 반응(? 자리)에 필요한 시약은? [[rxn:CC(=C)C>>CC(C)(C)O|?]]",
+      "choices": [
+        "H₂O, H₂SO₄",
+        "HBr",
+        "Br₂",
+        "KMnO₄, 가열"
+      ],
+      "answer": "H₂O, H₂SO₄",
+      "explanation": "산 촉매 수화 반응이다. 마르코브니코프 규칙에 따라 OH가 치환기가 더 많은 탄소에 붙는다. [[rxn:CC(=C)C>>CC(C)(C)O|H₂O, H₂SO₄]]"
+    },
+    {
+      "id": 7,
+      "question": "프로펜에 HBr을 첨가할 때 주생성물은?",
+      "choices": [
+        "[[smi:CC(Br)C]]",
+        "[[smi:BrCCC]]",
+        "[[smi:CC(Br)CBr]]",
+        "[[smi:C=CCBr]]"
+      ],
+      "answer": "[[smi:CC(Br)C]]",
+      "explanation": "H는 수소가 더 많은 탄소에, Br은 더 안정한 2차 탄소 양이온 쪽에 붙는다(마르코브니코프 규칙). [[rxn:C=CC>>CC(Br)C|HBr|CH₂Cl₂, 0 °C]]"
+    }
+  ]
+}

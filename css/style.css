@@ -270,3 +270,32 @@ h2 {
 .result-rate {
   color: #666;
 }
+
+/* 분자 구조식(SmilesDrawer가 그린 SVG). 화면이 좁으면 비율을 유지하며 줄어든다. */
+.structure {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  margin: 0.25rem 0;
+  background: #fff;
+  border-radius: 0.3rem;
+}
+
+.structure svg {
+  display: block;
+  max-width: 100%;
+  height: auto !important;
+}
+
+/* 반응식은 한 줄을 통째로 쓴다 */
+.structure.reaction {
+  display: block;
+  width: fit-content;
+}
+
+.structure-error {
+  padding: 0.1rem 0.3rem;
+  background: #fff4e0;
+  color: #a35b00;
+  font-size: 0.85rem;
+}

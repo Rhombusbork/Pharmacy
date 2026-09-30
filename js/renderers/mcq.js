@@ -1,6 +1,7 @@
 // 객관식 렌더러. 다른 렌더러(short.js 등)도 이 파일과 같은 모양의 render() 함수를 내보내야 한다.
 
 import { registerRenderer } from "./registry.js";
+import { renderRichText } from "../ui/richtext.js";
 
 function shuffleArray(arr) {
   const copy = [...arr];
@@ -18,7 +19,7 @@ export function render(question, container, onAnswer) {
 
   const qText = document.createElement("p");
   qText.className = "question-text";
-  qText.textContent = question.question;
+  renderRichText(qText, question.question);
   container.appendChild(qText);
 
   const choices = shuffleArray(question.choices);
@@ -53,7 +54,7 @@ export function render(question, container, onAnswer) {
     if (question.explanation) {
       const exp = document.createElement("p");
       exp.className = "explanation";
-      exp.textContent = question.explanation;
+      renderRichText(exp, question.explanation);
       container.appendChild(exp);
     }
 
@@ -63,7 +64,9 @@ export function render(question, container, onAnswer) {
   choices.forEach((choice, idx) => {
     const btn = document.createElement("button");
     btn.className = "choice-btn";
-    btn.textContent = `${idx + 1}. ${choice}`;
+    // 번호는 글자로, 선지 내용은 구조식이 섞여 있을 수 있으므로 renderRichText로 그린다.
+    btn.textContent = `${idx + 1}. `;
+    renderRichText(btn, choice);
     btn.dataset.choice = choice;
     btn.addEventListener("click", () => pick(choice, btn));
     list.appendChild(btn);

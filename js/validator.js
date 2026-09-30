@@ -1,5 +1,7 @@
 // 덱 형식을 검사한다. 이 파일은 화면을 모르고 순수하게 데이터만 검사한다(검증 결과 표시는 home.js가 담당).
 
+import { findStructures, checkStructure } from "./ui/richtext.js";
+
 function isNonEmptyString(v) {
   return typeof v === "string" && v.trim() !== "";
 }
@@ -27,6 +29,20 @@ export function findDuplicateDeckIds(entries) {
     if (count > 1) duplicated.add(deckId);
   }
   return duplicated;
+}
+
+// 문제 안의 모든 글자(문제·선지·정답·해설)에서 [[smi:...]] / [[rxn:...]]를 찾아,
+// 해석할 수 없는 것마다 "이유: 표기" 문자열을 돌려준다(해석 자체는 richtext.js가 담당).
+function findBadStructures(q) {
+  const texts = [q.question, q.explanation, ...(Array.isArray(q.choices) ? q.choices : []),
+    ...(Array.isArray(q.answer) ? q.answer : [q.answer])].filter((t) => typeof t === "string");
+  const bad = [];
+  for (const { kind, value } of texts.flatMap(findStructures)) {
+    const reason = checkStructure(kind, value);
+    const msg = reason && `${reason}: ${value}`;
+    if (msg && !bad.includes(msg)) bad.push(msg);
+  }
+  return bad;
 }
 
 // 문제 하나를 검사해서, 문제가 있으면 이유 배열을, 없으면 빈 배열을 돌려준다.
@@ -64,6 +80,8 @@ function validateQuestion(q, seenIds) {
       reasons.push("answer가 비어 있음");
     }
   }
+
+  reasons.push(...findBadStructures(q ?? {}));
 
   return reasons;
 }
