@@ -1,12 +1,13 @@
 // 문제 문장·선지·해설 안의 구조식 표시를 그림으로 바꿔 그린다.
 //   [[smi:SMILES]]                         → 분자 구조식
 //   [[rxn:반응물>>생성물|화살표 위|화살표 아래]] → 반응식 (위·아래 글자는 생략 가능)
+//   [[img:경로|설명]]                        → 그림 파일 (경로는 decks/ 기준, 설명은 생략 가능)
 // 그림은 외부 라이브러리 SmilesDrawer(js/vendor/smiles-drawer.min.js, MIT)가 그리며,
 // index.html에서 일반 <script>로 먼저 읽어 window.SmilesDrawer로 쓸 수 있다.
 
 // [[smi:...]] / [[rxn:...]] 를 찾는 규칙. SMILES 안에도 ]가 들어갈 수 있으므로(예: [C@@H], [NH4+])
 // "]]" 뒤에 ]가 더 이어지지 않는 첫 지점을 끝으로 본다.
-const TOKEN = /\[\[(smi|rxn):(.+?)\]\](?!\])/g;
+const TOKEN = /\[\[(smi|rxn|img):(.+?)\]\](?!\])/g;
 
 // 글자 속 표시들을 [{ kind: "smi" | "rxn", value }] 로 뽑아 돌려준다(validator.js가 검사에 사용).
 export function findStructures(text) {
@@ -20,9 +21,24 @@ function splitReaction(value) {
   return { smiles: smiles.trim(), above: above ?? "{reagents}", below: below ?? "" };
 }
 
-// 라이브러리가 해석할 수 있는 표시인지 확인한다. 해석 실패 이유(문자열) 또는 null을 돌려준다.
+// 그림 표시 "경로|설명"을 나눈다.
+function splitImage(value) {
+  const [path, alt] = value.split("|");
+  return { path: path.trim(), alt: (alt ?? "").trim() };
+}
+
+// 그림 경로 규칙: decks/ 안의 상대 경로, 그림 확장자만 허용. 문제 있으면 이유, 없으면 null.
+// (파일이 실제로 있는지는 여기서 알 수 없고, 그릴 때 못 읽으면 [그림 없음]으로 표시된다.)
+function checkImagePath(path) {
+  if (/^[a-z]+:|^\/|\.\./i.test(path)) return "그림 경로는 decks/ 기준 상대 경로여야 함";
+  if (!/\.(svg|png|jpe?g|gif|webp)$/i.test(path)) return "그림 확장자가 아님(svg, png, jpg, gif, webp)";
+  return null;
+}
+
+// 표시가 올바른지 확인한다(구조식·반응식은 라이브러리로 해석해 봄). 해석 실패 이유(문자열) 또는 null을 돌려준다.
 // 라이브러리를 못 읽은 경우에는 검사하지 않는다(null).
 export function checkStructure(kind, value) {
+  if (kind === "img") return checkImagePath(splitImage(value).path);
   const lib = window.SmilesDrawer;
   if (!lib) return null;
   try {
@@ -59,6 +75,7 @@ export function renderRichText(el, text) {
 // 구조식/반응식 하나를 그림으로 만든다. 라이브러리가 없거나 표기가 잘못되어도
 // 앱이 멈추지 않도록, 실패하면 원래 글자를 대신 보여준다.
 function createStructure(kind, value) {
+  if (kind === "img") return createImage(value);
   const wrap = document.createElement("span");
   wrap.className = kind === "rxn" ? "structure reaction" : "structure";
   wrap.title = value;
@@ -97,6 +114,30 @@ function createStructure(kind, value) {
     console.warn("구조식 그리기 실패:", value, err);
     showFallback(wrap, value);
   }
+  return wrap;
+}
+
+// 그림 파일 하나를 만든다. 경로가 잘못됐거나 파일을 못 읽으면 [그림 없음: 경로]를 보여준다.
+function createImage(value) {
+  const { path, alt } = splitImage(value);
+  const wrap = document.createElement("span");
+  wrap.className = "structure figure";
+
+  if (checkImagePath(path)) {
+    wrap.className = "structure structure-error";
+    wrap.textContent = `[그림 경로 오류: ${path}]`;
+    return wrap;
+  }
+
+  const img = document.createElement("img");
+  img.src = `decks/${path}`;
+  img.alt = alt;
+  if (alt) img.title = alt;
+  img.addEventListener("error", () => {
+    wrap.className = "structure structure-error";
+    wrap.textContent = `[그림 없음: ${path}]`;
+  });
+  wrap.appendChild(img);
   return wrap;
 }
 

@@ -81,6 +81,18 @@
       ],
       "answer": "[[smi:CC(Br)C]]",
       "explanation": "H는 수소가 더 많은 탄소에, Br은 더 안정한 2차 탄소 양이온 쪽에 붙는다(마르코브니코프 규칙). [[rxn:C=CC>>CC(Br)C|HBr|CH₂Cl₂, 0 °C]]"
+    },
+    {
+      "id": 8,
+      "question": "다음 메커니즘에서 굽은 화살표가 나타내는 반응의 종류는? [[img:orgchem/images/sn2-mechanism.svg|SN2 반응 메커니즘]]",
+      "choices": [
+        "SN2",
+        "SN1",
+        "E1",
+        "E2"
+      ],
+      "answer": "SN2",
+      "explanation": "친핵체(HO⁻)가 이탈기(Br)의 반대쪽에서 공격하고, 동시에 C–Br 결합이 끊어지는 한 단계 반응이다."
     }
   ]
 }

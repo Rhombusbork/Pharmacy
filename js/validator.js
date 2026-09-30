@@ -31,7 +31,7 @@ export function findDuplicateDeckIds(entries) {
   return duplicated;
 }
 
-// 문제 안의 모든 글자(문제·선지·정답·해설)에서 [[smi:...]] / [[rxn:...]]를 찾아,
+// 문제 안의 모든 글자(문제·선지·정답·해설)에서 [[smi:...]] / [[rxn:...]] / [[img:...]]를 찾아,
 // 해석할 수 없는 것마다 "이유: 표기" 문자열을 돌려준다(해석 자체는 richtext.js가 담당).
 function findBadStructures(q) {
   const texts = [q.question, q.explanation, ...(Array.isArray(q.choices) ? q.choices : []),

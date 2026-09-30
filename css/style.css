@@ -293,6 +293,18 @@ h2 {
   width: fit-content;
 }
 
+/* 그림 파일도 한 줄을 차지하고, 화면보다 크면 줄어든다 */
+.structure.figure {
+  display: block;
+  width: fit-content;
+}
+
+.structure.figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .structure-error {
   padding: 0.1rem 0.3rem;
   background: #fff4e0;

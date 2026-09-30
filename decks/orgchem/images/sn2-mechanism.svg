@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 170" width="540" height="170" font-family="Arial, Helvetica, sans-serif" font-size="22">
+  <!-- 예시 그림: SN2 반응 메커니즘 (HO⁻ + CH3Br → CH3OH + Br⁻), 굽은 화살표 = 전자쌍 이동 -->
+  <defs>
+    <marker id="head" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c62828"/>
+    </marker>
+  </defs>
+  <rect width="540" height="170" fill="#fff"/>
+
+  <!-- 친핵체 HO⁻ (비공유 전자쌍 점 2개) -->
+  <text x="20" y="98">HO</text>
+  <text x="50" y="84" font-size="16">−</text>
+  <circle cx="66" cy="86" r="2.2"/>
+  <circle cx="66" cy="96" r="2.2"/>
+
+  <!-- 기질 CH3Br: 가운데 탄소 + H 3개 + Br -->
+  <text x="190" y="98">C</text>
+  <line x1="197" y1="76" x2="197" y2="48" stroke="#000" stroke-width="2"/>
+  <text x="190" y="42">H</text>
+  <line x1="190" y1="102" x2="172" y2="128" stroke="#000" stroke-width="2"/>
+  <text x="160" y="148">H</text>
+  <line x1="204" y1="102" x2="222" y2="128" stroke="#000" stroke-width="2"/>
+  <text x="220" y="148">H</text>
+  <line x1="212" y1="90" x2="292" y2="90" stroke="#000" stroke-width="2"/>
+  <text x="296" y="98">Br</text>
+
+  <!-- 굽은 화살표 1: HO⁻의 전자쌍 → 탄소 (뒷면 공격) -->
+  <path d="M70,80 Q120,20 186,74" fill="none" stroke="#c62828" stroke-width="2" marker-end="url(#head)"/>
+  <!-- 굽은 화살표 2: C–Br 결합 전자쌍 → Br (이탈기) -->
+  <path d="M252,86 Q282,40 312,70" fill="none" stroke="#c62828" stroke-width="2" marker-end="url(#head)"/>
+
+  <!-- 반응 화살표와 생성물 -->
+  <line x1="350" y1="90" x2="395" y2="90" stroke="#000" stroke-width="2" marker-end="url(#head)"/>
+  <text x="405" y="98">CH₃OH + Br</text>
+  <text x="520" y="84" font-size="16">−</text>
+</svg>
