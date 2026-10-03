@@ -15,6 +15,16 @@
     "biochem/exam-2025-2-mid.json",
     "biochem/exam-2024-2-mid.json",
     "biochem/blank-2025-2-mid.json",
-    "biochem/blank-2024-2-mid.json"
+    "biochem/blank-2024-2-mid.json",
+    "biochem/ppt-1-1-foundations.json",
+    "biochem/ppt-1-2-foundations.json",
+    "biochem/ppt-2-1-water.json",
+    "biochem/ppt-2-2-water.json",
+    "biochem/ppt-3-1-amino-acids.json",
+    "biochem/ppt-3-2-peptides-proteins.json",
+    "biochem/ppt-4-1-protein-structure.json",
+    "biochem/ppt-4-2-protein-structure.json",
+    "biochem/ppt-5-1-protein-function.json",
+    "biochem/ppt-5-2-protein-function.json"
   ]
 }
