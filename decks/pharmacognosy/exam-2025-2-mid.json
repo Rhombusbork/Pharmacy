@@ -79,7 +79,7 @@
         "5. Brassicaceae"
       ],
       "answer": "3. Apiaceae",
-      "explanation": "정답: 3. Apiaceae\n⚠ PPT 대조: PPT 표: 미나리과(산형과) 보존명 Umbelliferae(족보 'Umbellifere'는 오기), 합법명 Apiaceae."
+      "explanation": "정답: 3. Apiaceae\n⚠ PPT 대조: PPT 표: 미나리과(산형과) 보존명 Umbelliferae(족보 'Umbellifere'는 오기), 합법명 Apiaceae.\n✎ 수정사항: 족보 표기 'Umbellifere'를 PPT 철자 'Umbelliferae'로 고쳐 실음."
     },
     {
       "id": 7,
@@ -259,7 +259,7 @@
     },
     {
       "id": 21,
-      "question": "[2025-2 중간 21번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리과에 있으며 대표적으로 우슬, isokosterone 등이 이에 해당한다.",
+      "question": "[2025-2 중간 21번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리아재비과에 있으며 대표적으로 우슬, inokosterone 등이 이에 해당한다.",
       "choices": [
         "1. Limonoid",
         "2. ecdysteroid",
@@ -268,7 +268,7 @@
         "5. cardiac glycoside"
       ],
       "answer": "2. ecdysteroid",
-      "explanation": "정답: 2. ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone')."
+      "explanation": "정답: 2. ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone').\n✎ 수정사항: 족보의 '미나리과' → PPT의 '미나리아재비과', 'isokosterone' → PPT의 'inokosterone'으로 고침."
     },
     {
       "id": 22,
@@ -320,7 +320,7 @@
         "5. Oleanane"
       ],
       "answer": "3. Lanostane",
-      "explanation": "정답: 3. Lanostane\n⚠ PPT 대조: PPT: Lanostane계 — lanosterol, eburicoic acid(복령). 족보의 'evuricoic'은 오기."
+      "explanation": "정답: 3. Lanostane\n⚠ PPT 대조: PPT: Lanostane계 — lanosterol, eburicoic acid(복령). 족보의 'evuricoic'은 오기.\n✎ 수정사항: 족보 표기 'evuricoic acid'를 PPT 철자 'eburicoic acid'로 고쳐 실음."
     },
     {
       "id": 26,
@@ -333,7 +333,7 @@
         "5. Oleanane"
       ],
       "answer": "1. Lupane",
-      "explanation": "정답: 1. Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin."
+      "explanation": "정답: 1. Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin.\n✎ 수정사항: 족보 표기 'koreanosdie'를 PPT 철자 'koreanoside'로 고쳐 실음."
     },
     {
       "id": 27,

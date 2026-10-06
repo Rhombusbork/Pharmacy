@@ -116,10 +116,12 @@
       "question": "[2023-2 중간 3-C5] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C5의 전구체는?",
       "answer": [
         "acetyl-CoA",
-        "아세틸코에이",
-        "acetylcoa"
+        "mevalonate",
+        "메발론산",
+        "acetylcoa",
+        "아세틸코에이"
       ],
-      "explanation": "정답: acetyl-CoA\n⚠ PPT 대조: PPT 표는 'C5: mevalonate'. 보기에 mevalonate가 없어 그 원료인 acetyl-CoA로 답함(애매)."
+      "explanation": "정답: acetyl-CoA\n⚠ PPT 대조: PPT 표는 'C5: mevalonate'. 보기에 mevalonate가 없어 그 원료인 acetyl-CoA로 답함(애매).\n✎ 수정사항: PPT 표 기준 'mevalonate'도 정답으로 인정하도록 추가."
     },
     {
       "id": 13,
@@ -235,7 +237,7 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
@@ -249,7 +251,7 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
@@ -263,7 +265,7 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
@@ -277,12 +279,12 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
-      "answer": "④ farnesylfarnesyl(족보 표기)",
-      "explanation": "정답: ④ farnesylfarnesyl(족보 표기)\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임."
+      "answer": "④ geranylfarnesyl",
+      "explanation": "정답: ④ geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
     },
     {
       "id": 26,
@@ -291,7 +293,7 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
@@ -305,7 +307,7 @@
         "① monoterpenes",
         "② sesquiterpenes",
         "③ geranylgeranyl",
-        "④ farnesylfarnesyl(족보 표기)",
+        "④ geranylfarnesyl",
         "⑤ triterpenoids",
         "⑥ tetraterpenes"
       ],
@@ -476,16 +478,16 @@
     },
     {
       "id": 41,
-      "question": "[2023-2 중간 23] tropane alkaloid를 생성하는 생약의 과명은?",
+      "question": "[2023-2 중간 23] tropane alkaloid를 생성하는 생약의 과명을 모두 고르면?",
       "choices": [
-        "① 장미과",
-        "② 매자나무과",
-        "③ 가지과",
-        "④ 코카나무과",
-        "⑤ 박과"
+        "③, ④ (가지과, 코카나무과)",
+        "③ 가지과만",
+        "④ 코카나무과만",
+        "①, ③ (장미과, 가지과)",
+        "②, ⑤ (매자나무과, 박과)"
       ],
-      "answer": "③ 가지과",
-      "explanation": "정답: ③ 가지과\n⚠ PPT 대조: PPT: 'Solanaceae, Erythroxylaceae에만 분포' → 가지과와 코카나무과 둘 다 정답. 족보에 단일 답 표기가 없어 앱에서는 ③만 정답 처리."
+      "answer": "③, ④ (가지과, 코카나무과)",
+      "explanation": "정답: ③, ④ (가지과, 코카나무과)\n⚠ PPT 대조: PPT: 'Solanaceae, Erythroxylaceae에만 분포' → 가지과와 코카나무과 둘 다 정답. 족보에 단일 답 표기가 없어 앱에서는 ③만 정답 처리.\n✎ 수정사항: PPT상 정답이 둘(가지과·코카나무과)이므로 '모두 고르기' 형식으로 바꿈."
     },
     {
       "id": 42,
@@ -650,7 +652,7 @@
     },
     {
       "id": 53,
-      "question": "[2023-2 중간 26-①] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-schisandrin.png|schisandrin]]\n(schisandrin) 합성경로 ① / Building block C6C3×2 / 계열 'sesquiterpenoid'(족보 표기) / 간세포 보호, SOD 활성 증가",
+      "question": "[2023-2 중간 26-①] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-schisandrin.png|schisandrin]]\n(schisandrin) 합성경로 ① / Building block C6C3×2 / 계열 lignan / 간세포 보호, SOD 활성 증가",
       "choices": [
         "shikimate pathway",
         "mevalonate (isoprenoid) pathway",
@@ -659,7 +661,7 @@
         "complex pathway"
       ],
       "answer": "shikimate pathway",
-      "explanation": "정답: shikimate pathway\n⚠ PPT 대조: 족보 표의 계열 'sesquiterpenoid'는 PPT와 상충 — PPT: schisandrin은 오미자의 lignan(C6C3×2). 표의 계열 칸은 잘못된 것으로 보임."
+      "explanation": "정답: shikimate pathway\n⚠ PPT 대조: 족보 표의 계열 'sesquiterpenoid'는 PPT와 상충 — PPT: schisandrin은 오미자의 lignan(C6C3×2). 표의 계열 칸은 잘못된 것으로 보임.\n✎ 수정사항: 족보 표의 계열 'sesquiterpenoid'를 PPT에 맞춰 'lignan'으로 고침."
     },
     {
       "id": 54,
@@ -748,7 +750,7 @@
     },
     {
       "id": 61,
-      "question": "[2023-2 중간 26-⑮] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-loganin.png|loganin]]\n(loganin) 합성경로 ⑮ / 계열 'elemane'(족보 표기)",
+      "question": "[2023-2 중간 26-⑮] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-loganin.png|loganin]]\n(loganin) 합성경로 ⑮ / 계열 iridoid",
       "choices": [
         "shikimate pathway",
         "mevalonate (isoprenoid) pathway",
@@ -757,7 +759,7 @@
         "complex pathway"
       ],
       "answer": "mevalonate (isoprenoid) pathway",
-      "explanation": "정답: mevalonate (isoprenoid) pathway\n⚠ PPT 대조: 족보 표의 계열 'elemane'은 PPT와 상충 — PPT: loganin은 iridoid(산수유 지표성분). elemane은 sesquiterpene 골격."
+      "explanation": "정답: mevalonate (isoprenoid) pathway\n⚠ PPT 대조: 족보 표의 계열 'elemane'은 PPT와 상충 — PPT: loganin은 iridoid(산수유 지표성분). elemane은 sesquiterpene 골격.\n✎ 수정사항: 족보 표의 계열 'elemane'을 PPT에 맞춰 'iridoid'로 고침."
     },
     {
       "id": 62,
@@ -796,12 +798,12 @@
     },
     {
       "id": 65,
-      "question": "[2023-2 중간 26-㉑] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-menthol.png|menthol]]\n(menthol) 합성경로 'Malonate pathway'(족보 표기) / C5×2 / 계열 ㉑ / 피부 냉감, 약한 마취, 진통",
+      "question": "[2023-2 중간 26-㉑] 26. 아래 표의 빈칸을 채우세요. (족보 보기 일부만 복원됨)\n[[img:pharmacognosy/images/2023-mid-q26-menthol.png|menthol]]\n(menthol) 합성경로 mevalonate (isoprenoid) pathway / C5×2 / 계열 ㉑ / 피부 냉감, 약한 마취, 진통",
       "answer": [
         "monoterpene",
         "모노테르펜"
       ],
-      "explanation": "정답: monoterpene\n⚠ PPT 대조: 족보 표의 합성경로 'Malonate pathway'는 PPT와 상충 — menthol은 monoterpene으로 mevalonate(isoprenoid) pathway."
+      "explanation": "정답: monoterpene\n⚠ PPT 대조: 족보 표의 합성경로 'Malonate pathway'는 PPT와 상충 — menthol은 monoterpene으로 mevalonate(isoprenoid) pathway.\n✎ 수정사항: 족보 표의 합성경로 'Malonate pathway'를 PPT에 맞춰 'mevalonate (isoprenoid) pathway'로 고침."
     },
     {
       "id": 66,
@@ -949,7 +951,7 @@
       "id": 78,
       "question": "[2023-2 중간 29-①] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ① )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -957,14 +959,14 @@
         "⑥ imidazole",
         "⑦ anthraquinone"
       ],
-      "answer": "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
-      "explanation": "정답: ① aporphine(족보 보기: benzyltetrahydroisoquinoline)\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음."
+      "answer": "① aporphine",
+      "explanation": "정답: ① aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침."
     },
     {
       "id": 79,
       "question": "[2023-2 중간 29-②] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ② )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -979,7 +981,7 @@
       "id": 80,
       "question": "[2023-2 중간 29-③] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ③ )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -994,7 +996,7 @@
       "id": 81,
       "question": "[2023-2 중간 29-④] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ④ )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -1009,7 +1011,7 @@
       "id": 82,
       "question": "[2023-2 중간 29-⑤] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑤ )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -1024,7 +1026,7 @@
       "id": 83,
       "question": "[2023-2 중간 29-⑥] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑥ )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
@@ -1039,7 +1041,7 @@
       "id": 84,
       "question": "[2023-2 중간 29-⑦] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑦ )에 들어갈 것은?",
       "choices": [
-        "① aporphine(족보 보기: benzyltetrahydroisoquinoline)",
+        "① aporphine",
         "② morphine",
         "③ quinoline",
         "④ tetrahydroisoquinoline",
