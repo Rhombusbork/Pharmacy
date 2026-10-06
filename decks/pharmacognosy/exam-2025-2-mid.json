@@ -14,7 +14,7 @@
         "5. Tryptophan"
       ],
       "answer": "2. Phenylalanine",
-      "explanation": "정답: 2. Phenylalanine (표 내용 복원 실패, 나머지 보기로 추정: Phenylethylamine·Isoquinoline 계)"
+      "explanation": "정답: 2. Phenylalanine (표 내용 복원 실패, 나머지 보기로 추정: Phenylethylamine·Isoquinoline 계)\n⚠ PPT 대조: 족보 표 1행 복원 실패. PPT 전구체 표상 남는 보기는 Phenylalanine(Phenylethylamine, Isoquinoline 계)이라 추정."
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "5. Tryptophan"
       ],
       "answer": "1. Lysine",
-      "explanation": "정답: 1. Lysine"
+      "explanation": "정답: 1. Lysine\n⚠ PPT 대조: PPT: Lysine(C5N) → piperidine, quinolizidine, indolizidine alkaloids."
     },
     {
       "id": 3,
@@ -53,7 +53,7 @@
         "5. Tryptophan"
       ],
       "answer": "3. Ornithine",
-      "explanation": "정답: 3. Ornithine"
+      "explanation": "정답: 3. Ornithine\n⚠ PPT 대조: PPT: Ornithine(C4N) → pyrrolidine, tropane, pyrrolizidine alkaloids."
     },
     {
       "id": 5,
@@ -79,7 +79,7 @@
         "5. Brassicaceae"
       ],
       "answer": "3. Apiaceae",
-      "explanation": "정답: 3. Apiaceae"
+      "explanation": "정답: 3. Apiaceae\n⚠ PPT 대조: PPT 표: 미나리과(산형과) 보존명 Umbelliferae(족보 'Umbellifere'는 오기), 합법명 Apiaceae."
     },
     {
       "id": 7,
@@ -157,7 +157,7 @@
         "5. in utero"
       ],
       "answer": "5. in utero",
-      "explanation": "정답: 5. in utero"
+      "explanation": "정답: 5. in utero\n⚠ PPT 대조: in utero는 이번 학기 PPT 텍스트에서 찾지 못함 — 남은 보기로 판단."
     },
     {
       "id": 13,
@@ -207,7 +207,7 @@
         "3. pseudoalkaloid"
       ],
       "answer": "3. pseudoalkaloid",
-      "explanation": "정답: 3. pseudoalkaloid"
+      "explanation": "정답: 3. pseudoalkaloid\n⚠ PPT 대조: PPT 정의: pseudoalkaloid = 질소는 이성환에 있으나 골격이 아미노산에서 유래하지 않음(예: terpene alkaloid, purine alkaloid)."
     },
     {
       "id": 17,
@@ -242,7 +242,7 @@
         "5. cardiac glycoside"
       ],
       "answer": "4. secoiridoid",
-      "explanation": "정답: 4. secoiridoid"
+      "explanation": "정답: 4. secoiridoid\n⚠ PPT 대조: PPT: secologanin = 모든 secoiridoid의 중간체, monoterpene indole alkaloid의 중요한 전구체. 용담·겐티아나·당약 — gentiopicroside 등."
     },
     {
       "id": 20,
@@ -268,7 +268,7 @@
         "5. cardiac glycoside"
       ],
       "answer": "2. ecdysteroid",
-      "explanation": "정답: 2. ecdysteroid"
+      "explanation": "정답: 2. ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone')."
     },
     {
       "id": 22,
@@ -281,7 +281,7 @@
         "5. isocoumarin"
       ],
       "answer": "5. isocoumarin",
-      "explanation": "정답: 5. isocoumarin"
+      "explanation": "정답: 5. isocoumarin\n⚠ PPT 대조: PPT: isocoumarin = 1H-2-benzopyran-1-one 골격, polyketide pathway 유래."
     },
     {
       "id": 23,
@@ -307,7 +307,7 @@
         "5. isocoumarin"
       ],
       "answer": "3. chromone",
-      "explanation": "정답: 3. chromone"
+      "explanation": "정답: 3. chromone\n⚠ PPT 대조: 그림은 khellin(chromone). PPT: chromone류(visnagin, khellin)는 polyketide 단원."
     },
     {
       "id": 25,
@@ -320,7 +320,7 @@
         "5. Oleanane"
       ],
       "answer": "3. Lanostane",
-      "explanation": "정답: 3. Lanostane"
+      "explanation": "정답: 3. Lanostane\n⚠ PPT 대조: PPT: Lanostane계 — lanosterol, eburicoic acid(복령). 족보의 'evuricoic'은 오기."
     },
     {
       "id": 26,
@@ -333,7 +333,7 @@
         "5. Oleanane"
       ],
       "answer": "1. Lupane",
-      "explanation": "정답: 1. Lupane"
+      "explanation": "정답: 1. Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin."
     },
     {
       "id": 27,
@@ -372,7 +372,7 @@
         "5. Oleanane"
       ],
       "answer": "4. Ursane",
-      "explanation": "정답: 4. Ursane"
+      "explanation": "정답: 4. Ursane\n⚠ PPT 대조: 족보 그림 안에 'ursane'이라는 이름이 그대로 적혀 있음."
     },
     {
       "id": 30,
@@ -383,7 +383,7 @@
         "3. Pyrroloindole"
       ],
       "answer": "1. Morphinane",
-      "explanation": "정답: 1. Morphinane"
+      "explanation": "정답: 1. Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격."
     },
     {
       "id": 31,
@@ -405,7 +405,7 @@
         "3. Pyrroloindole"
       ],
       "answer": "3. Pyrroloindole",
-      "explanation": "정답: 3. Pyrroloindole"
+      "explanation": "정답: 3. Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine)."
     },
     {
       "id": 35,
@@ -415,7 +415,7 @@
         "5. 거짓(False)"
       ],
       "answer": "3. 참(True)",
-      "explanation": "정답: 3. 참(True)"
+      "explanation": "정답: 3. 참(True)\n⚠ PPT 대조: PPT: 'Spirostane-type aglycone에 따른 분류 — Tigogenin형, Sarsapogenin형, Diosgenin형'과 일치. 다만 PPT상 세 형은 5α/5β(A/B 고리)와 Δ5 이중결합, C-25 배열 차이로 나뉘어 'configuration에 따라'라는 표현은 다소 애매."
     },
     {
       "id": 36,
@@ -425,7 +425,7 @@
         "5. 거짓(False)"
       ],
       "answer": "5. 거짓(False)",
-      "explanation": "정답: 5. 거짓(False)"
+      "explanation": "정답: 5. 거짓(False)\n⚠ PPT 대조: PPT: bufadienolide는 Bufo속(두꺼비) 분비물뿐 아니라 해총(식물)에도 있음 → '동물성 bufadienolide'로 나누는 것은 틀림."
     },
     {
       "id": 37,
@@ -435,7 +435,7 @@
         "5. 거짓(False)"
       ],
       "answer": "5. 거짓(False)",
-      "explanation": "정답: 5. 거짓(False)"
+      "explanation": "정답: 5. 거짓(False)\n⚠ PPT 대조: PPT: 활성 강도는 dianthrone 유도체 > anthrone 배당체 > 유리형. 족보 문장은 순서가 반대. 1년 묵히는 이유는 신선품의 anthranol이 구토·출혈 등 작용이 너무 강하기 때문."
     },
     {
       "id": 38,
@@ -445,7 +445,7 @@
         "5. 거짓(False)"
       ],
       "answer": "3. 참(True)",
-      "explanation": "정답: 3. 참(True)"
+      "explanation": "정답: 3. 참(True)\n⚠ PPT 대조: PPT 문구('pyrrolidine환과 piperidine환으로 구성된 화합물로 Solanaceae, Erythroxylaceae에만 분포')와 일치 → 참. (PPT complex pathway에서는 tropane을 amino acid + polyketide로도 분류)"
     },
     {
       "id": 39,
@@ -458,7 +458,7 @@
         "⑤ sesquilignan"
       ],
       "answer": "② neolignan",
-      "explanation": "정답: ② neolignan"
+      "explanation": "정답: ② neolignan\n⚠ PPT 대조: PPT: magnolol, honokiol(후박) = neolignan."
     },
     {
       "id": 40,
@@ -471,7 +471,7 @@
         "5. complex pathway"
       ],
       "answer": "4. isoprenoid pathway",
-      "explanation": "정답: 4. isoprenoid pathway"
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 gossypol(목화, cadinane계 sesquiterpene 이량체) — PPT isoprenoid 단원."
     },
     {
       "id": 41,
@@ -484,7 +484,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 capillarin(인진호) — PPT polyketide 단원의 polyacetylene/isocoumarin."
     },
     {
       "id": 42,
@@ -497,7 +497,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 asarone류 phenylpropanoid — PPT shikimate 단원."
     },
     {
       "id": 43,
@@ -510,7 +510,7 @@
         "5. complex pathway"
       ],
       "answer": "5. complex pathway",
-      "explanation": "정답: 5. complex pathway"
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 vinblastine. PPT complex pathway: 'amino acid + mevalonate: indole alkaloids(vinblastine, vincristine)'. 알칼로이드 단원에도 나와 amino acid pathway로 볼 여지가 있음."
     },
     {
       "id": 44,
@@ -536,7 +536,7 @@
         "5. complex pathway"
       ],
       "answer": "4. isoprenoid pathway",
-      "explanation": "정답: 4. isoprenoid pathway"
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 pyrethric acid(chrysanthemic acid 유도체, monoterpene)."
     },
     {
       "id": 46,
@@ -549,7 +549,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 alizarin. PPT는 'Shikimate pathway (alizarin type)'로 표기(실제로는 shikimate + mevalonate 혼합 경로)."
     },
     {
       "id": 47,
@@ -562,7 +562,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 dicoumarol — PPT shikimate(coumarin) 단원."
     },
     {
       "id": 48,
@@ -575,7 +575,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 emodin — PPT: 'Acetate-malonate pathway (emodin type)'."
     },
     {
       "id": 49,
@@ -588,7 +588,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 biphenyl형 neolignan(magnolol/honokiol 계열) — shikimate."
     },
     {
       "id": 50,
@@ -601,7 +601,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 acetylphloroglucinol — PPT polyketide의 phloroglucinols."
     },
     {
       "id": 51,
@@ -614,7 +614,7 @@
         "5. complex pathway"
       ],
       "answer": "2. amino acid pathway",
-      "explanation": "정답: 2. amino acid pathway"
+      "explanation": "정답: 2. amino acid pathway\n⚠ PPT 대조: 그림은 papaverine(benzylisoquinoline) — 아미노산(Tyr) 유래."
     },
     {
       "id": 52,
@@ -627,7 +627,7 @@
         "5. complex pathway"
       ],
       "answer": "4. isoprenoid pathway",
-      "explanation": "정답: 4. isoprenoid pathway"
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 sweroside(secoiridoid) — PPT isoprenoid 단원."
     },
     {
       "id": 53,
@@ -640,7 +640,7 @@
         "5. complex pathway"
       ],
       "answer": "5. complex pathway",
-      "explanation": "정답: 5. complex pathway"
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 stilbene 배당체 — PPT complex: 'polyketide + shikimate: xanthones, flavonoids, stilbenes'."
     },
     {
       "id": 54,
@@ -653,7 +653,7 @@
         "5. complex pathway"
       ],
       "answer": "5. complex pathway",
-      "explanation": "정답: 5. complex pathway"
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 curcumin(diarylheptanoid) — PPT complex pathway 단원에 수록."
     },
     {
       "id": 55,
@@ -666,7 +666,7 @@
         "5. complex pathway"
       ],
       "answer": "5. complex pathway",
-      "explanation": "정답: 5. complex pathway"
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 camptothecin(pyrroloquinoline). 43번과 같은 논리로 complex(Trp + secologanin)로 판단했으나 PPT 알칼로이드 단원에도 있어 amino acid pathway로 볼 여지가 있음."
     },
     {
       "id": 56,
@@ -679,7 +679,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 silybin(flavonolignan). PPT는 shikimate 단원의 lignoid(flavonoid + lignan)로 다룸. flavonoid 부분은 complex라 애매."
     },
     {
       "id": 57,
@@ -692,7 +692,7 @@
         "5. complex pathway"
       ],
       "answer": "4. isoprenoid pathway",
-      "explanation": "정답: 4. isoprenoid pathway"
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 zeaxanthin(tetraterpene, carotenoid)."
     },
     {
       "id": 58,
@@ -705,7 +705,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 ligustilide류 phthalide — PPT polyketide 단원(천궁, 당귀)."
     },
     {
       "id": 59,
@@ -718,7 +718,7 @@
         "5. complex pathway"
       ],
       "answer": "1. shikimate pathway",
-      "explanation": "정답: 1. shikimate pathway"
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 hinokiresinol(norlignan) — PPT shikimate 단원."
     },
     {
       "id": 60,
@@ -731,7 +731,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 urushiol — PPT polyketide 단원(resorcinol/catechol 유도체)."
     },
     {
       "id": 61,
@@ -744,7 +744,7 @@
         "5. complex pathway"
       ],
       "answer": "4. isoprenoid pathway",
-      "explanation": "정답: 4. isoprenoid pathway"
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림의 정확한 화합물명은 확인 불가. 이소프렌 단위 탄소 골격으로 보아 isoprenoid로 판단(추정)."
     },
     {
       "id": 62,
@@ -757,7 +757,7 @@
         "5. complex pathway"
       ],
       "answer": "2. amino acid pathway",
-      "explanation": "정답: 2. amino acid pathway"
+      "explanation": "정답: 2. amino acid pathway\n⚠ PPT 대조: 그림은 morphinan 골격 — 아미노산(Tyr) 유래."
     },
     {
       "id": 63,
@@ -770,7 +770,7 @@
         "5. complex pathway"
       ],
       "answer": "3. polyketide pathway",
-      "explanation": "정답: 3. polyketide pathway"
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 falcarinol(panaxynol, 일당귀) — PPT polyketide의 polyacetylene."
     }
   ]
 }
