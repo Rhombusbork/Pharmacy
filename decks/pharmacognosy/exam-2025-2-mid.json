@@ -1,0 +1,776 @@
+{
+  "deckId": "pharmacognosy-exam-2025-2-mid",
+  "subject": "생약학",
+  "title": "2025-2 생약학1 중간고사 기출",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2025-2 중간 1번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: (족보 복원 실패 — 표 1행)",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "2. Phenylalanine",
+      "explanation": "정답: 2. Phenylalanine (표 내용 복원 실패, 나머지 보기로 추정: Phenylethylamine·Isoquinoline 계)"
+    },
+    {
+      "id": 2,
+      "question": "[2025-2 중간 2번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Piperidine, Quinolizidine, Indolizidine Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "1. Lysine",
+      "explanation": "정답: 1. Lysine"
+    },
+    {
+      "id": 3,
+      "question": "[2025-2 중간 3번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Imidazole Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "4. Histidine",
+      "explanation": "정답: 4. Histidine"
+    },
+    {
+      "id": 4,
+      "question": "[2025-2 중간 4번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Pyrrolidine, Pyrrolizidine Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "3. Ornithine",
+      "explanation": "정답: 3. Ornithine"
+    },
+    {
+      "id": 5,
+      "question": "[2025-2 중간 5번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Tryptamine, Indole, Quinoline, Pyrroloquinoline, Ergot Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "5. Tryptophan",
+      "explanation": "정답: 5. Tryptophan"
+    },
+    {
+      "id": 6,
+      "question": "[2025-2 중간 6번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n미나리과 / 보존명 Umbelliferae / 합법명 (   )",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "3. Apiaceae",
+      "explanation": "정답: 3. Apiaceae"
+    },
+    {
+      "id": 7,
+      "question": "[2025-2 중간 7번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n국화과 / 보존명 (   ) / 합법명 Asteraceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "2. Compositae",
+      "explanation": "정답: 2. Compositae"
+    },
+    {
+      "id": 8,
+      "question": "[2025-2 중간 8번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n십자화과 / 보존명 Cruciferae / 합법명 (   )",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "5. Brassicaceae",
+      "explanation": "정답: 5. Brassicaceae"
+    },
+    {
+      "id": 9,
+      "question": "[2025-2 중간 9번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n야자과 / 보존명 (   ) / 합법명 Arecaceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "4. Palmae",
+      "explanation": "정답: 4. Palmae"
+    },
+    {
+      "id": 10,
+      "question": "[2025-2 중간 10번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n콩과 / 보존명 (   ) / 합법명 Fabaceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "1. Leguminosae",
+      "explanation": "정답: 1. Leguminosae"
+    },
+    {
+      "id": 11,
+      "question": "[2025-2 중간 11번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nto examine the phenomenon exactly in place when it occurs",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "1. in situ",
+      "explanation": "정답: 1. in situ"
+    },
+    {
+      "id": 12,
+      "question": "[2025-2 중간 12번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nthe state of embryo or fetus",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "5. in utero",
+      "explanation": "정답: 5. in utero"
+    },
+    {
+      "id": 13,
+      "question": "[2025-2 중간 13번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nperformed on computer or via computer simulation",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "3. in silico",
+      "explanation": "정답: 3. in silico"
+    },
+    {
+      "id": 14,
+      "question": "[2025-2 중간 14번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nWithin the glass, i.e., in a test tube or petri dish",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "2. in vitro",
+      "explanation": "정답: 2. in vitro"
+    },
+    {
+      "id": 15,
+      "question": "[2025-2 중간 15번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nAnimal testing and clinical trials",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "4. in vivo",
+      "explanation": "정답: 4. in vivo"
+    },
+    {
+      "id": 16,
+      "question": "[2025-2 중간 16번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\n질소원자는 이성환에 존재하지만 골격구조가 아미노산으로부터 유래하지 않는 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "3. pseudoalkaloid",
+      "explanation": "정답: 3. pseudoalkaloid"
+    },
+    {
+      "id": 17,
+      "question": "[2025-2 중간 17번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\nAmino acid에서 유래하지만 염기성이 아니거나, 질소원자가 이성환에 존재하지 않는 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "2. protoalkaloid",
+      "explanation": "정답: 2. protoalkaloid"
+    },
+    {
+      "id": 18,
+      "question": "[2025-2 중간 18번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\namino acid 유래의 염기성의 강한 생리활성을 나타내고 함질소 이성환 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "1. true alkaloid",
+      "explanation": "정답: 1. true alkaloid"
+    },
+    {
+      "id": 19,
+      "question": "[2025-2 중간 19번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n용담, 겐티아나, 당약에 존재하며 monoterpene indole alkaloid의 생합성의 중요한 전구체이다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "4. secoiridoid",
+      "explanation": "정답: 4. secoiridoid"
+    },
+    {
+      "id": 20,
+      "question": "[2025-2 중간 20번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n변형 triterpene으로 rutaceae의 대표적인 고미성분이다. Citrus속에 많으며, furan ring이 있고, A ring이 개환이 되어있다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "1. Limonoid",
+      "explanation": "정답: 1. Limonoid"
+    },
+    {
+      "id": 21,
+      "question": "[2025-2 중간 21번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리과에 있으며 대표적으로 우슬, isokosterone 등이 이에 해당한다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "2. ecdysteroid",
+      "explanation": "정답: 2. ecdysteroid"
+    },
+    {
+      "id": 22,
+      "question": "[2025-2 중간 22번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q22.png|22번 구조]]\n기본골격: 1H-2-benzopyran-1-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "5. isocoumarin",
+      "explanation": "정답: 5. isocoumarin"
+    },
+    {
+      "id": 23,
+      "question": "[2025-2 중간 23번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q23.png|23번 구조]]\n기본골격: 2H-1-benzopyran-2-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "1. coumarin",
+      "explanation": "정답: 1. coumarin"
+    },
+    {
+      "id": 24,
+      "question": "[2025-2 중간 24번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q24.png|24번 구조]]\n기본골격: 4H-1-benzopyran-4-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "3. chromone",
+      "explanation": "정답: 3. chromone"
+    },
+    {
+      "id": 25,
+      "question": "[2025-2 중간 25번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q25.png|25번 구조]]\n생약 성분 예시: 복령의 eburicoic acid, tumulosic acid",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "3. Lanostane",
+      "explanation": "정답: 3. Lanostane"
+    },
+    {
+      "id": 26,
+      "question": "[2025-2 중간 26번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q26.png|26번 구조]]\n섬오갈피의 koreanoside, betulin",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "1. Lupane",
+      "explanation": "정답: 1. Lupane"
+    },
+    {
+      "id": 27,
+      "question": "[2025-2 중간 27번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q27.png|27번 구조]]\n인삼, 산조인의 saponin",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "2. Dammarane",
+      "explanation": "정답: 2. Dammarane"
+    },
+    {
+      "id": 28,
+      "question": "[2025-2 중간 28번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q28.png|28번 구조]]\n세네가, 길경, 원지, 시호, 감초의 성분",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "5. Oleanane",
+      "explanation": "정답: 5. Oleanane"
+    },
+    {
+      "id": 29,
+      "question": "[2025-2 중간 29번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q29.png|29번 구조]]",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "4. Ursane",
+      "explanation": "정답: 4. Ursane"
+    },
+    {
+      "id": 30,
+      "question": "[2025-2 중간 30번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q30.png|30번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "1. Morphinane",
+      "explanation": "정답: 1. Morphinane"
+    },
+    {
+      "id": 31,
+      "question": "[2025-2 중간 31번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q31.png|31번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "2. Aporphine",
+      "explanation": "정답: 2. Aporphine"
+    },
+    {
+      "id": 33,
+      "question": "[2025-2 중간 33번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q33.png|33번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "3. Pyrroloindole",
+      "explanation": "정답: 3. Pyrroloindole"
+    },
+    {
+      "id": 35,
+      "question": "[2025-2 중간 35번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nSpirostane의 aglycone은 configuration에 따라 세 가지 유형으로 분류되며 각각 Tigogenin, Sarsapogenin, Diosgenin형이다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "3. 참(True)",
+      "explanation": "정답: 3. 참(True)"
+    },
+    {
+      "id": 36,
+      "question": "[2025-2 중간 36번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nDeoxysugar를 검출하는 반응인 Keller-Killiani 반응으로 검출 가능한 강심배당체는 성분에 따라 식물성 cardenolide와 동물성 bufadienolide로 구분된다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "5. 거짓(False)",
+      "explanation": "정답: 5. 거짓(False)"
+    },
+    {
+      "id": 37,
+      "question": "[2025-2 중간 37번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nBontrager 반응으로 검출 가능한 anthrone은 유리형 > anthrone 배당체 > dianthrone 순으로 활성이 강하기 때문에 채취 후 1년 묵혀서 사용한다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "5. 거짓(False)",
+      "explanation": "정답: 5. 거짓(False)"
+    },
+    {
+      "id": 38,
+      "question": "[2025-2 중간 38번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\ntropane alkaloid는 가지과와 코카나무과에만 존재하며 piperidine 환과 pyrrolidine 환으로 구성되어 있다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "3. 참(True)",
+      "explanation": "정답: 3. 참(True)"
+    },
+    {
+      "id": 39,
+      "question": "[2025-2 중간 39번] 다음 중 후박의 주성분인 magnolol, honokiol의 화학적 분류로 옳은 것은?",
+      "choices": [
+        "① norlignan",
+        "② neolignan",
+        "③ dilignan",
+        "④ lignin",
+        "⑤ sesquilignan"
+      ],
+      "answer": "② neolignan",
+      "explanation": "정답: ② neolignan"
+    },
+    {
+      "id": 40,
+      "question": "[2025-2 중간 40번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q40.png|40번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway"
+    },
+    {
+      "id": 41,
+      "question": "[2025-2 중간 41번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q41.png|41번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    },
+    {
+      "id": 42,
+      "question": "[2025-2 중간 42번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q42.png|42번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 43,
+      "question": "[2025-2 중간 43번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q43.png|43번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway"
+    },
+    {
+      "id": 44,
+      "question": "[2025-2 중간 44번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q44.png|44번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 45,
+      "question": "[2025-2 중간 45번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q45.png|45번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway"
+    },
+    {
+      "id": 46,
+      "question": "[2025-2 중간 46번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q46.png|46번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 47,
+      "question": "[2025-2 중간 47번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q47.png|47번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 48,
+      "question": "[2025-2 중간 48번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q48.png|48번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    },
+    {
+      "id": 49,
+      "question": "[2025-2 중간 49번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q49.png|49번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 50,
+      "question": "[2025-2 중간 50번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q50.png|50번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    },
+    {
+      "id": 51,
+      "question": "[2025-2 중간 51번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q51.png|51번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "2. amino acid pathway",
+      "explanation": "정답: 2. amino acid pathway"
+    },
+    {
+      "id": 52,
+      "question": "[2025-2 중간 52번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q52.png|52번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway"
+    },
+    {
+      "id": 53,
+      "question": "[2025-2 중간 53번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q53.png|53번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway"
+    },
+    {
+      "id": 54,
+      "question": "[2025-2 중간 54번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q54.png|54번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway"
+    },
+    {
+      "id": 55,
+      "question": "[2025-2 중간 55번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q55.png|55번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway"
+    },
+    {
+      "id": 56,
+      "question": "[2025-2 중간 56번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q56.png|56번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 57,
+      "question": "[2025-2 중간 57번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q57.png|57번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway"
+    },
+    {
+      "id": 58,
+      "question": "[2025-2 중간 58번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q58.png|58번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    },
+    {
+      "id": 59,
+      "question": "[2025-2 중간 59번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q59.png|59번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 60,
+      "question": "[2025-2 중간 60번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q60.png|60번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    },
+    {
+      "id": 61,
+      "question": "[2025-2 중간 61번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q61.png|61번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway"
+    },
+    {
+      "id": 62,
+      "question": "[2025-2 중간 62번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q62.png|62번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "2. amino acid pathway",
+      "explanation": "정답: 2. amino acid pathway"
+    },
+    {
+      "id": 63,
+      "question": "[2025-2 중간 63번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q63.png|63번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway"
+    }
+  ]
+}
