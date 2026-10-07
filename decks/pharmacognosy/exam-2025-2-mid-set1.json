@@ -1,0 +1,261 @@
+{
+  "deckId": "pharmacognosy-exam-2025-2-mid-set1",
+  "subject": "생약학",
+  "title": "2025-2 생약학1 중간고사 기출 · 세트 1/3 (1~20번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2025-2 중간 1번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: (족보 복원 실패 — 표 1행)",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "2. Phenylalanine",
+      "explanation": "정답: 2. Phenylalanine (표 내용 복원 실패, 나머지 보기로 추정: Phenylethylamine·Isoquinoline 계)\n⚠ PPT 대조: 족보 표 1행 복원 실패. PPT 전구체 표상 남는 보기는 Phenylalanine(Phenylethylamine, Isoquinoline 계)이라 추정."
+    },
+    {
+      "id": 2,
+      "question": "[2025-2 중간 2번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Piperidine, Quinolizidine, Indolizidine Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "1. Lysine",
+      "explanation": "정답: 1. Lysine\n⚠ PPT 대조: PPT: Lysine(C5N) → piperidine, quinolizidine, indolizidine alkaloids."
+    },
+    {
+      "id": 3,
+      "question": "[2025-2 중간 3번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Imidazole Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "4. Histidine",
+      "explanation": "정답: 4. Histidine"
+    },
+    {
+      "id": 4,
+      "question": "[2025-2 중간 4번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Pyrrolidine, Pyrrolizidine Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "3. Ornithine",
+      "explanation": "정답: 3. Ornithine\n⚠ PPT 대조: PPT: Ornithine(C4N) → pyrrolidine, tropane, pyrrolizidine alkaloids."
+    },
+    {
+      "id": 5,
+      "question": "[2025-2 중간 5번] [1~5] 다음 주어진 화합물의 종류를 보고, 보기 중에서 각 화합물의 생합성 전구체로 옳은 것을 고르시오.\n화합물 종류: Tryptamine, Indole, Quinoline, Pyrroloquinoline, Ergot Alk.",
+      "choices": [
+        "1. Lysine",
+        "2. Phenylalanine",
+        "3. Ornithine",
+        "4. Histidine",
+        "5. Tryptophan"
+      ],
+      "answer": "5. Tryptophan",
+      "explanation": "정답: 5. Tryptophan"
+    },
+    {
+      "id": 6,
+      "question": "[2025-2 중간 6번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n미나리과 / 보존명 Umbelliferae / 합법명 (   )",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "3. Apiaceae",
+      "explanation": "정답: 3. Apiaceae\n⚠ PPT 대조: PPT 표: 미나리과(산형과) 보존명 Umbelliferae(족보 'Umbellifere'는 오기), 합법명 Apiaceae.\n✎ 수정사항: 족보 표기 'Umbellifere'를 PPT 철자 'Umbelliferae'로 고쳐 실음."
+    },
+    {
+      "id": 7,
+      "question": "[2025-2 중간 7번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n국화과 / 보존명 (   ) / 합법명 Asteraceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "2. Compositae",
+      "explanation": "정답: 2. Compositae"
+    },
+    {
+      "id": 8,
+      "question": "[2025-2 중간 8번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n십자화과 / 보존명 Cruciferae / 합법명 (   )",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "5. Brassicaceae",
+      "explanation": "정답: 5. Brassicaceae"
+    },
+    {
+      "id": 9,
+      "question": "[2025-2 중간 9번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n야자과 / 보존명 (   ) / 합법명 Arecaceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "4. Palmae",
+      "explanation": "정답: 4. Palmae"
+    },
+    {
+      "id": 10,
+      "question": "[2025-2 중간 10번] [6~10] 다음 보기에서 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n콩과 / 보존명 (   ) / 합법명 Fabaceae",
+      "choices": [
+        "1. Leguminosae",
+        "2. Compositae",
+        "3. Apiaceae",
+        "4. Palmae",
+        "5. Brassicaceae"
+      ],
+      "answer": "1. Leguminosae",
+      "explanation": "정답: 1. Leguminosae"
+    },
+    {
+      "id": 11,
+      "question": "[2025-2 중간 11번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nto examine the phenomenon exactly in place when it occurs",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "1. in situ",
+      "explanation": "정답: 1. in situ"
+    },
+    {
+      "id": 12,
+      "question": "[2025-2 중간 12번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nthe state of embryo or fetus",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "5. in utero",
+      "explanation": "정답: 5. in utero\n⚠ PPT 대조: in utero는 이번 학기 PPT 텍스트에서 찾지 못함 — 남은 보기로 판단."
+    },
+    {
+      "id": 13,
+      "question": "[2025-2 중간 13번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nperformed on computer or via computer simulation",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "3. in silico",
+      "explanation": "정답: 3. in silico"
+    },
+    {
+      "id": 14,
+      "question": "[2025-2 중간 14번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nWithin the glass, i.e., in a test tube or petri dish",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "2. in vitro",
+      "explanation": "정답: 2. in vitro"
+    },
+    {
+      "id": 15,
+      "question": "[2025-2 중간 15번] [11~15] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nAnimal testing and clinical trials",
+      "choices": [
+        "1. in situ",
+        "2. in vitro",
+        "3. in silico",
+        "4. in vivo",
+        "5. in utero"
+      ],
+      "answer": "4. in vivo",
+      "explanation": "정답: 4. in vivo"
+    },
+    {
+      "id": 16,
+      "question": "[2025-2 중간 16번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\n질소원자는 이성환에 존재하지만 골격구조가 아미노산으로부터 유래하지 않는 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "3. pseudoalkaloid",
+      "explanation": "정답: 3. pseudoalkaloid\n⚠ PPT 대조: PPT 정의: pseudoalkaloid = 질소는 이성환에 있으나 골격이 아미노산에서 유래하지 않음(예: terpene alkaloid, purine alkaloid)."
+    },
+    {
+      "id": 17,
+      "question": "[2025-2 중간 17번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\nAmino acid에서 유래하지만 염기성이 아니거나, 질소원자가 이성환에 존재하지 않는 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "2. protoalkaloid",
+      "explanation": "정답: 2. protoalkaloid"
+    },
+    {
+      "id": 18,
+      "question": "[2025-2 중간 18번] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\namino acid 유래의 염기성의 강한 생리활성을 나타내고 함질소 이성환 화합물",
+      "choices": [
+        "1. true alkaloid",
+        "2. protoalkaloid",
+        "3. pseudoalkaloid"
+      ],
+      "answer": "1. true alkaloid",
+      "explanation": "정답: 1. true alkaloid"
+    },
+    {
+      "id": 19,
+      "question": "[2025-2 중간 19번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n용담, 겐티아나, 당약에 존재하며 monoterpene indole alkaloid의 생합성의 중요한 전구체이다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "4. secoiridoid",
+      "explanation": "정답: 4. secoiridoid\n⚠ PPT 대조: PPT: secologanin = 모든 secoiridoid의 중간체, monoterpene indole alkaloid의 중요한 전구체. 용담·겐티아나·당약 — gentiopicroside 등."
+    },
+    {
+      "id": 20,
+      "question": "[2025-2 중간 20번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n변형 triterpene으로 rutaceae의 대표적인 고미성분이다. Citrus속에 많으며, furan ring이 있고, A ring이 개환이 되어있다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "1. Limonoid",
+      "explanation": "정답: 1. Limonoid"
+    }
+  ]
+}

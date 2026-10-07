@@ -1,0 +1,318 @@
+{
+  "deckId": "pharmacognosy-exam-2023-2-mid-set1",
+  "subject": "생약학",
+  "title": "2023-2 생약학1 중간고사 기출 · 세트 1/4 (1-1~9-⑥번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-2 중간 1-1)] 1. 다음의 빈칸을 채우세요.\n주목나무의 항암제 성분 ( P: )",
+      "answer": [
+        "paclitaxel",
+        "파클리탁셀",
+        "taxol"
+      ],
+      "explanation": "정답: paclitaxel"
+    },
+    {
+      "id": 2,
+      "question": "[2023-2 중간 1-2)] 1. 다음의 빈칸을 채우세요.\n3대 거담 생약: 세네가, 원지, (  )",
+      "answer": [
+        "길경",
+        "도라지"
+      ],
+      "explanation": "정답: 길경\n⚠ PPT 대조: PPT: 'Oleanane계 거담작용 - 세네가, 원지, 길경'과 일치."
+    },
+    {
+      "id": 3,
+      "question": "[2023-2 중간 1-3)] 1. 다음의 빈칸을 채우세요.\n변형 triterpene, furan ring, A환 개환 계열 물질명 ( L )",
+      "answer": [
+        "limonoid",
+        "리모노이드"
+      ],
+      "explanation": "정답: limonoid"
+    },
+    {
+      "id": 4,
+      "question": "[2023-2 중간 1-4)] 1. 다음의 빈칸을 채우세요.\nasiaticoside의 계열 ( U: )",
+      "answer": [
+        "ursane",
+        "우르산",
+        "ursane계"
+      ],
+      "explanation": "정답: ursane\n⚠ PPT 대조: PPT: Ursane계 triterpene — asiaticoside(적설초, 병풀)."
+    },
+    {
+      "id": 5,
+      "question": "[2023-2 중간 1-5)] 1. 다음의 빈칸을 채우세요.\ncycloartane 계열 중 갱년기 치료 생약은? (  )",
+      "answer": [
+        "승마",
+        "cimicifuga"
+      ],
+      "explanation": "정답: 승마\n⚠ PPT 대조: PPT: cycloartane계 — cimigenol 등, 승마: 여성 갱년기 장애 치료 보조제."
+    },
+    {
+      "id": 6,
+      "question": "[2023-2 중간 2-1)] 2. True or False\nbioassay적으로 in silico는 시험관법이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\n⚠ PPT 대조: in silico = 컴퓨터 시뮬레이션, 시험관법은 in vitro."
+    },
+    {
+      "id": 7,
+      "question": "[2023-2 중간 2-2)] 2. True or False\n꿀풀과의 보존명은 Lamiaceae이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\n⚠ PPT 대조: PPT 표: 꿀풀과 보존명 Labiatae, 합법명 Lamiaceae."
+    },
+    {
+      "id": 8,
+      "question": "[2023-2 중간 2-3)] 2. True or False\n대한약전 외 한약(생약) 규격집을 KP라 한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\n⚠ PPT 대조: PPT: KP = 대한민국약전(Korean Pharmacopoeia), KHP = 대한민국약전외한약(생약)규격집."
+    },
+    {
+      "id": 9,
+      "question": "[2023-2 중간 2-4)] 2. True or False\nginsenoside 20(S)-protopanaxatriol은 중추신경을 억제한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\n⚠ PPT 대조: PPT: protopanaxadiol — 중추억제·정신안정, protopanaxatriol — 중추흥분."
+    },
+    {
+      "id": 10,
+      "question": "[2023-2 중간 2-5)] 2. True or False\nnorlignan은 결합위치가 β-β′(또는 8-8′) 위치가 아닌 화합물이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\n⚠ PPT 대조: PPT: 결합위치가 β-β′가 아닌 것은 neolignan, norlignan은 탄소 수가 하나 적은 C17 화합물."
+    },
+    {
+      "id": 11,
+      "question": "[2023-2 중간 3-C1] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C1의 전구체는?",
+      "answer": [
+        "L-Met",
+        "methionine",
+        "메싸이오닌",
+        "l-met"
+      ],
+      "explanation": "정답: L-Met\n⚠ PPT 대조: PPT: C1 = L-methionine. 보기에 'methionine'과 'L-Met'이 중복되어 있어 어느 쪽을 써도 같은 답."
+    },
+    {
+      "id": 12,
+      "question": "[2023-2 중간 3-C5] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C5의 전구체는?",
+      "answer": [
+        "acetyl-CoA",
+        "mevalonate",
+        "메발론산",
+        "acetylcoa",
+        "아세틸코에이"
+      ],
+      "explanation": "정답: acetyl-CoA\n⚠ PPT 대조: PPT 표는 'C5: mevalonate'. 보기에 mevalonate가 없어 그 원료인 acetyl-CoA로 답함(애매).\n✎ 수정사항: PPT 표 기준 'mevalonate'도 정답으로 인정하도록 추가."
+    },
+    {
+      "id": 13,
+      "question": "[2023-2 중간 3-C5N] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C5N의 전구체는?",
+      "answer": [
+        "L-Lys",
+        "lysine",
+        "라이신",
+        "l-lys"
+      ],
+      "explanation": "정답: L-Lys\n⚠ PPT 대조: PPT: C5N = L-lysine, C4N = L-ornithine. L-Orn은 함정 보기."
+    },
+    {
+      "id": 14,
+      "question": "[2023-2 중간 3-C6C3] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C6C3의 전구체는?",
+      "answer": [
+        "L-Phe",
+        "L-Tyr",
+        "L-Phe, L-Tyr",
+        "phenylalanine"
+      ],
+      "explanation": "정답: L-Phe\n⚠ PPT 대조: PPT: C6C3 = L-phenylalanine, L-tyrosine (둘 다 정답)."
+    },
+    {
+      "id": 15,
+      "question": "[2023-2 중간 3-C2] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C2의 전구체는?",
+      "answer": [
+        "acetyl-CoA",
+        "acetylcoa",
+        "아세틸코에이"
+      ],
+      "explanation": "정답: acetyl-CoA\n⚠ PPT 대조: PPT: C2 = acetyl-CoA → malonyl-CoA."
+    },
+    {
+      "id": 16,
+      "question": "[2023-2 중간 3-C6C2N] 3. 다음의 보기를 가지고 표에 원료물질을 채워 넣으세요.\n(보기: L-Phe, L-Tyr, methionine, acetyl-CoA, L-Lys, L-Met, L-Orn, L-Trp)\n빌딩 블록 C6C2N의 전구체는?",
+      "answer": [
+        "L-Phe",
+        "L-Tyr",
+        "L-Phe, L-Tyr",
+        "tyrosine"
+      ],
+      "explanation": "정답: L-Phe\n⚠ PPT 대조: PPT: C6C2N = L-phenylalanine, L-tyrosine (둘 다 정답). 표에서 L-Trp는 indole C2N."
+    },
+    {
+      "id": 17,
+      "question": "[2023-2 중간 4] 마리아 엉겅퀴의 주성분으로서 간질환 개선제로 쓰이는 flavolignan은? (※ 틀린 보기는 실제와 다를 수 있음)",
+      "choices": [
+        "① Stilbene",
+        "② silybin",
+        "③ secologanin",
+        "④ stigmastane"
+      ],
+      "answer": "② silybin",
+      "explanation": "정답: ② silybin"
+    },
+    {
+      "id": 18,
+      "question": "[2023-2 중간 5] Bufadienolide계 강심배당체를 함유하는 생약은?",
+      "choices": [
+        "① 디기탈리스엽",
+        "② 털디기탈리스엽",
+        "③ 해총",
+        "④ 스트로판투스자",
+        "⑤ 영란"
+      ],
+      "answer": "③ 해총",
+      "explanation": "정답: ③ 해총\n⚠ PPT 대조: PPT: bufadienolide는 두꺼비(섬수)와 해총에 존재. 디기탈리스·스트로판투스·영란은 cardenolide. (족보 표기 '스트로판치자·영량'은 오기)"
+    },
+    {
+      "id": 19,
+      "question": "[2023-2 중간 6] 다음 중 2,6-dideoxysugar에 속하는 것은?",
+      "choices": [
+        "① rutinose",
+        "② cymarose",
+        "③ apiose",
+        "④ gentiobiose",
+        "⑤ glucuronic acid"
+      ],
+      "answer": "② cymarose",
+      "explanation": "정답: ② cymarose\n⚠ PPT 대조: PPT는 2,6-dideoxy sugar의 예로 digitoxose를 들고, cymarose는 cymarin(스트로판투스) 구조에만 등장. cymarose = 2,6-dideoxy-3-O-methyl 당이라는 정의는 교재 지식."
+    },
+    {
+      "id": 20,
+      "question": "[2023-2 중간 7] 작약의 지표성분인 paeoniflorin의 계열은?",
+      "choices": [
+        "① monoterpene",
+        "② flavonoid",
+        "③ phenol glycoside",
+        "④ anthraquinone",
+        "⑤ tannin"
+      ],
+      "answer": "① monoterpene",
+      "explanation": "정답: ① monoterpene\n⚠ PPT 대조: PPT: 'monoterpene glycoside의 benzoate'. 보기의 monoterpene이 가장 가까운 답."
+    },
+    {
+      "id": 21,
+      "question": "[2023-2 중간 8] secondary metabolism pathway의 terpenoid 생합성 과정은?",
+      "choices": [
+        "① shikimate pathway + mevalonate pathway",
+        "② acetate malonate pathway",
+        "③ acetate malonate pathway + shikimate pathway",
+        "④ shikimate pathway",
+        "⑤ mevalonate pathway"
+      ],
+      "answer": "⑤ mevalonate pathway",
+      "explanation": "정답: ⑤ mevalonate pathway\n⚠ PPT 대조: PPT는 terpenoid를 mevalonate(isoprenoid) pathway로 설명. 실제로는 MEP(비메발론산) 경로도 있지만 PPT에서 다루지 않음."
+    },
+    {
+      "id": 22,
+      "question": "[2023-2 중간 9-①] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ① ) — GPP(C10)에서 생기는 화합물군",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "① monoterpenes",
+      "explanation": "정답: ① monoterpenes"
+    },
+    {
+      "id": 23,
+      "question": "[2023-2 중간 9-②] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ② ) — FPP(C15)에서 생기는 화합물군",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "② sesquiterpenes",
+      "explanation": "정답: ② sesquiterpenes"
+    },
+    {
+      "id": 24,
+      "question": "[2023-2 중간 9-③] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ③ ) — Diterpenes(C20)의 전구체 PP",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "③ geranylgeranyl",
+      "explanation": "정답: ③ geranylgeranyl"
+    },
+    {
+      "id": 25,
+      "question": "[2023-2 중간 9-④] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ④ ) — Sesterterpenes(C25)의 전구체 PP",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "④ geranylfarnesyl",
+      "explanation": "정답: ④ geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
+    },
+    {
+      "id": 26,
+      "question": "[2023-2 중간 9-⑤] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑤ ) — 2×FPP → squalene에서 생기는 화합물군",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "⑤ triterpenoids",
+      "explanation": "정답: ⑤ triterpenoids"
+    },
+    {
+      "id": 27,
+      "question": "[2023-2 중간 9-⑥] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑥ ) — 2×GGPP → phytoene(C40)에서 생기는 화합물군",
+      "choices": [
+        "① monoterpenes",
+        "② sesquiterpenes",
+        "③ geranylgeranyl",
+        "④ geranylfarnesyl",
+        "⑤ triterpenoids",
+        "⑥ tetraterpenes"
+      ],
+      "answer": "⑥ tetraterpenes",
+      "explanation": "정답: ⑥ tetraterpenes"
+    }
+  ]
+}

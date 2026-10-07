@@ -1,0 +1,262 @@
+{
+  "deckId": "pharmacognosy-exam-2025-2-mid-set2",
+  "subject": "생약학",
+  "title": "2025-2 생약학1 중간고사 기출 · 세트 2/3 (21~43번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2025-2 중간 21번] [19~21] 다음 설명에서 알맞은 번호를 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리아재비과에 있으며 대표적으로 우슬, inokosterone 등이 이에 해당한다.",
+      "choices": [
+        "1. Limonoid",
+        "2. ecdysteroid",
+        "3. quassinoid",
+        "4. secoiridoid",
+        "5. cardiac glycoside"
+      ],
+      "answer": "2. ecdysteroid",
+      "explanation": "정답: 2. ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone').\n✎ 수정사항: 족보의 '미나리과' → PPT의 '미나리아재비과', 'isokosterone' → PPT의 'inokosterone'으로 고침."
+    },
+    {
+      "id": 2,
+      "question": "[2025-2 중간 22번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q22.png|22번 구조]]\n기본골격: 1H-2-benzopyran-1-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "5. isocoumarin",
+      "explanation": "정답: 5. isocoumarin\n⚠ PPT 대조: PPT: isocoumarin = 1H-2-benzopyran-1-one 골격, polyketide pathway 유래."
+    },
+    {
+      "id": 3,
+      "question": "[2025-2 중간 23번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q23.png|23번 구조]]\n기본골격: 2H-1-benzopyran-2-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "1. coumarin",
+      "explanation": "정답: 1. coumarin"
+    },
+    {
+      "id": 4,
+      "question": "[2025-2 중간 24번] [22~24] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q24.png|24번 구조]]\n기본골격: 4H-1-benzopyran-4-one",
+      "choices": [
+        "1. coumarin",
+        "2. naphtoquinone",
+        "3. chromone",
+        "4. cannabinoid",
+        "5. isocoumarin"
+      ],
+      "answer": "3. chromone",
+      "explanation": "정답: 3. chromone\n⚠ PPT 대조: 그림은 khellin(chromone). PPT: chromone류(visnagin, khellin)는 polyketide 단원."
+    },
+    {
+      "id": 5,
+      "question": "[2025-2 중간 25번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q25.png|25번 구조]]\n생약 성분 예시: 복령의 eburicoic acid, tumulosic acid",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "3. Lanostane",
+      "explanation": "정답: 3. Lanostane\n⚠ PPT 대조: PPT: Lanostane계 — lanosterol, eburicoic acid(복령). 족보의 'evuricoic'은 오기.\n✎ 수정사항: 족보 표기 'evuricoic acid'를 PPT 철자 'eburicoic acid'로 고쳐 실음."
+    },
+    {
+      "id": 6,
+      "question": "[2025-2 중간 26번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q26.png|26번 구조]]\n섬오갈피의 koreanoside, betulin",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "1. Lupane",
+      "explanation": "정답: 1. Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin.\n✎ 수정사항: 족보 표기 'koreanosdie'를 PPT 철자 'koreanoside'로 고쳐 실음."
+    },
+    {
+      "id": 7,
+      "question": "[2025-2 중간 27번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q27.png|27번 구조]]\n인삼, 산조인의 saponin",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "2. Dammarane",
+      "explanation": "정답: 2. Dammarane"
+    },
+    {
+      "id": 8,
+      "question": "[2025-2 중간 28번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q28.png|28번 구조]]\n세네가, 길경, 원지, 시호, 감초의 성분",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "5. Oleanane",
+      "explanation": "정답: 5. Oleanane"
+    },
+    {
+      "id": 9,
+      "question": "[2025-2 중간 29번] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q29.png|29번 구조]]",
+      "choices": [
+        "1. Lupane",
+        "2. Dammarane",
+        "3. Lanostane",
+        "4. Ursane",
+        "5. Oleanane"
+      ],
+      "answer": "4. Ursane",
+      "explanation": "정답: 4. Ursane\n⚠ PPT 대조: 족보 그림 안에 'ursane'이라는 이름이 그대로 적혀 있음."
+    },
+    {
+      "id": 10,
+      "question": "[2025-2 중간 30번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q30.png|30번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "1. Morphinane",
+      "explanation": "정답: 1. Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격."
+    },
+    {
+      "id": 11,
+      "question": "[2025-2 중간 31번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q31.png|31번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "2. Aporphine",
+      "explanation": "정답: 2. Aporphine"
+    },
+    {
+      "id": 12,
+      "question": "[2025-2 중간 33번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q33.png|33번 구조]]",
+      "choices": [
+        "1. Morphinane",
+        "2. Aporphine",
+        "3. Pyrroloindole"
+      ],
+      "answer": "3. Pyrroloindole",
+      "explanation": "정답: 3. Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine)."
+    },
+    {
+      "id": 13,
+      "question": "[2025-2 중간 35번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nSpirostane의 aglycone은 configuration에 따라 세 가지 유형으로 분류되며 각각 Tigogenin, Sarsapogenin, Diosgenin형이다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "3. 참(True)",
+      "explanation": "정답: 3. 참(True)\n⚠ PPT 대조: PPT: 'Spirostane-type aglycone에 따른 분류 — Tigogenin형, Sarsapogenin형, Diosgenin형'과 일치. 다만 PPT상 세 형은 5α/5β(A/B 고리)와 Δ5 이중결합, C-25 배열 차이로 나뉘어 'configuration에 따라'라는 표현은 다소 애매."
+    },
+    {
+      "id": 14,
+      "question": "[2025-2 중간 36번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nDeoxysugar를 검출하는 반응인 Keller-Killiani 반응으로 검출 가능한 강심배당체는 성분에 따라 식물성 cardenolide와 동물성 bufadienolide로 구분된다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "5. 거짓(False)",
+      "explanation": "정답: 5. 거짓(False)\n⚠ PPT 대조: PPT: bufadienolide는 Bufo속(두꺼비) 분비물뿐 아니라 해총(식물)에도 있음 → '동물성 bufadienolide'로 나누는 것은 틀림."
+    },
+    {
+      "id": 15,
+      "question": "[2025-2 중간 37번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\nBontrager 반응으로 검출 가능한 anthrone은 유리형 > anthrone 배당체 > dianthrone 순으로 활성이 강하기 때문에 채취 후 1년 묵혀서 사용한다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "5. 거짓(False)",
+      "explanation": "정답: 5. 거짓(False)\n⚠ PPT 대조: PPT: 활성 강도는 dianthrone 유도체 > anthrone 배당체 > 유리형. 족보 문장은 순서가 반대. 1년 묵히는 이유는 신선품의 anthranol이 구토·출혈 등 작용이 너무 강하기 때문."
+    },
+    {
+      "id": 16,
+      "question": "[2025-2 중간 38번] [34~38] 다음 설명을 보고 맞으면 참(3번), 틀리면 거짓(5번)을 고르시오. (34번은 족보 복원 실패)\ntropane alkaloid는 가지과와 코카나무과에만 존재하며 piperidine 환과 pyrrolidine 환으로 구성되어 있다.",
+      "choices": [
+        "3. 참(True)",
+        "5. 거짓(False)"
+      ],
+      "answer": "3. 참(True)",
+      "explanation": "정답: 3. 참(True)\n⚠ PPT 대조: PPT 문구('pyrrolidine환과 piperidine환으로 구성된 화합물로 Solanaceae, Erythroxylaceae에만 분포')와 일치 → 참. (PPT complex pathway에서는 tropane을 amino acid + polyketide로도 분류)"
+    },
+    {
+      "id": 17,
+      "question": "[2025-2 중간 39번] 다음 중 후박의 주성분인 magnolol, honokiol의 화학적 분류로 옳은 것은?",
+      "choices": [
+        "① norlignan",
+        "② neolignan",
+        "③ dilignan",
+        "④ lignin",
+        "⑤ sesquilignan"
+      ],
+      "answer": "② neolignan",
+      "explanation": "정답: ② neolignan\n⚠ PPT 대조: PPT: magnolol, honokiol(후박) = neolignan."
+    },
+    {
+      "id": 18,
+      "question": "[2025-2 중간 40번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q40.png|40번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 gossypol(목화, cadinane계 sesquiterpene 이량체) — PPT isoprenoid 단원."
+    },
+    {
+      "id": 19,
+      "question": "[2025-2 중간 41번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q41.png|41번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 capillarin(인진호) — PPT polyketide 단원의 polyacetylene/isocoumarin."
+    },
+    {
+      "id": 20,
+      "question": "[2025-2 중간 42번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q42.png|42번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 asarone류 phenylpropanoid — PPT shikimate 단원."
+    },
+    {
+      "id": 21,
+      "question": "[2025-2 중간 43번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q43.png|43번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 vinblastine. PPT complex pathway: 'amino acid + mevalonate: indole alkaloids(vinblastine, vincristine)'. 알칼로이드 단원에도 나와 amino acid pathway로 볼 여지가 있음."
+    }
+  ]
+}

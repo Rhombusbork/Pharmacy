@@ -1,0 +1,215 @@
+{
+  "deckId": "pharmacognosy-exam-2023-2-mid-set2",
+  "subject": "생약학",
+  "title": "2023-2 생약학1 중간고사 기출 · 세트 2/4 (10~24-③번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-2 중간 10] 강심배당체 검출에 이용되는 정색반응을 고르시오.",
+      "choices": [
+        "① Liebermann-Burchard",
+        "② Carr-Price",
+        "③ Keller-Killiani",
+        "④ Bornträger",
+        "⑤ Murexide"
+      ],
+      "answer": "③ Keller-Killiani",
+      "explanation": "정답: ③ Keller-Killiani\n⚠ PPT 대조: PPT: Keller-Killiani = deoxysugar 검출, Kedde = cardenolide 불포화 lactone. L-B는 steroid/triterpene, Bornträger는 anthraquinone."
+    },
+    {
+      "id": 2,
+      "question": "[2023-2 중간 11] 다음의 생약성분으로 옳은 것은?\n[[img:pharmacognosy/images/2023-mid-q11.png|q11]]",
+      "choices": [
+        "① amygdalin",
+        "② daidzein",
+        "③ caffeine",
+        "④ paeoniflorin",
+        "⑤ hypericin"
+      ],
+      "answer": "④ paeoniflorin",
+      "explanation": "정답: ④ paeoniflorin"
+    },
+    {
+      "id": 3,
+      "question": "[2023-2 중간 12] 항응고제이며 살서제로 사용되며 dicoumarol계인 성분을 고르시오. (족보의 구조 보기 복원 실패 — 이름으로 답)",
+      "answer": [
+        "warfarin",
+        "와파린"
+      ],
+      "explanation": "정답: warfarin\n⚠ PPT 대조: PPT: 'Anti-coagulant toxin dicoumarol and warfarin', warfarin = 살서제(rat poison). 단 warfarin은 엄밀히는 dicoumarol이 아닌 4-hydroxycoumarin 유도체라 '계' 표현이 애매."
+    },
+    {
+      "id": 4,
+      "question": "[2023-2 중간 13] 다음 구조의 성분 계열은?\n[[img:pharmacognosy/images/2023-mid-q13.png|q13]]",
+      "choices": [
+        "① quinone",
+        "② Triterpenoid glycoside",
+        "③ Coumarin",
+        "④ Isoflavone",
+        "⑤ Lignan"
+      ],
+      "answer": "② Triterpenoid glycoside",
+      "explanation": "정답: ② Triterpenoid glycoside\n⚠ PPT 대조: 그림은 ursane형(asiatic acid류) 골격의 배당체."
+    },
+    {
+      "id": 5,
+      "question": "[2023-2 중간 14] 다음 구조의 계열을 고르시오.\n[[img:pharmacognosy/images/2023-mid-q14.png|q14]]",
+      "choices": [
+        "① Saponin",
+        "② Steroid",
+        "③ furanoalkaloid",
+        "④ Coumarin",
+        "⑤ Sesquiterpene"
+      ],
+      "answer": "⑤ Sesquiterpene",
+      "explanation": "정답: ⑤ Sesquiterpene\n⚠ PPT 대조: 그림은 eudesmane형 sesquiterpene lactone(alantolactone류)."
+    },
+    {
+      "id": 6,
+      "question": "[2023-2 중간 15] 다음 중 purine alkaloid에 속하는 것은?",
+      "choices": [
+        "① cocaine",
+        "② theobromine",
+        "③ vincamine",
+        "④ emetine",
+        "⑤ reserpine"
+      ],
+      "answer": "② theobromine",
+      "explanation": "정답: ② theobromine"
+    },
+    {
+      "id": 7,
+      "question": "[2023-2 중간 16] Alkaloid의 정의로 알맞은 것은?\nㄱ. 모두 염기성이다. ㄴ. 미량에서 강한 생리활성을 나타낸다. ㄷ. 모두 식물체에서 발견된다. ㄹ. 이성환 질소 화합물이다.",
+      "choices": [
+        "① ㄱ, ㄴ, ㄷ",
+        "② ㄱ, ㄷ",
+        "③ ㄴ, ㄹ",
+        "④ ㄹ",
+        "⑤ ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "③ ㄴ, ㄹ",
+      "explanation": "정답: ③ ㄴ, ㄹ\n⚠ PPT 대조: ㄱ: protoalkaloid는 염기성이 아닐 수 있음. ㄷ: PPT 정의 문장이 '식물체 중에서 발견되는 함질소 이성환상 화합물'로 시작해 애매하지만, '모두'라는 표현 때문에 제외하는 것이 일반적."
+    },
+    {
+      "id": 8,
+      "question": "[2023-2 중간 17] cinnamaldehyde의 성분계열로 알맞은 것은?\n[[img:pharmacognosy/images/2023-mid-q17.png|q17]]",
+      "choices": [
+        "① biscoumarin",
+        "② phenylpropanoid",
+        "③ furanocoumarin",
+        "④ chromone",
+        "⑤ cannabinoid"
+      ],
+      "answer": "② phenylpropanoid",
+      "explanation": "정답: ② phenylpropanoid"
+    },
+    {
+      "id": 9,
+      "question": "[2023-2 중간 18] Shikonin-Alkannin의 성분계열은?",
+      "choices": [
+        "① C Indole Alkaloid",
+        "② Triterpene saponin",
+        "③ Flavolignan",
+        "④ Isothiocyclic glycoside",
+        "⑤ Naphthoquinone"
+      ],
+      "answer": "⑤ Naphthoquinone",
+      "explanation": "정답: ⑤ Naphthoquinone\n⚠ PPT 대조: PPT: shikonin·alkannin은 naphthoquinone이며 생합성은 complex(shikimate + mevalonate)."
+    },
+    {
+      "id": 10,
+      "question": "[2023-2 중간 19] Mevalonate pathway인 것을 모두 고르세요.\n① Saponin ② anthraquinone ③ coumarin ④ terpenoid",
+      "choices": [
+        "①, ④",
+        "①, ②, ④",
+        "②, ③",
+        "①, ③, ④"
+      ],
+      "answer": "①, ④",
+      "explanation": "정답: ①, ④\n⚠ PPT 대조: anthraquinone은 emodin형 = polyketide, alizarin형 = shikimate(PPT 표기). coumarin = shikimate."
+    },
+    {
+      "id": 11,
+      "question": "[2023-2 중간 20] 다음 화합물의 계열은?\n[[img:pharmacognosy/images/2023-mid-q20.png|q20]]",
+      "answer": [
+        "coumarin",
+        "쿠마린",
+        "pyranocoumarin",
+        "피라노쿠마린"
+      ],
+      "explanation": "정답: coumarin\n⚠ PPT 대조: decursin류 pyranocoumarin. PPT complex pathway에서 prenylated coumarin은 shikimate + mevalonate로 분류."
+    },
+    {
+      "id": 12,
+      "question": "[2023-2 중간 21] coumarin이 주로 분포하는 식물의 과명이 아닌 것은?",
+      "choices": [
+        "① 미나리과",
+        "② 국화과",
+        "③ 꿀풀과",
+        "④ 운향과",
+        "⑤ 콩과"
+      ],
+      "answer": "③ 꿀풀과",
+      "explanation": "정답: ③ 꿀풀과\n⚠ PPT 대조: PPT: Umbelliferae, Rutaceae, Leguminosae, Compositae에 널리 분포."
+    },
+    {
+      "id": 13,
+      "question": "[2023-2 중간 22] 구조식의 성분계열로 알맞은 것은?\n[[img:pharmacognosy/images/2023-mid-q22.png|q22]]",
+      "choices": [
+        "① Diarylheptanoid",
+        "② saponin",
+        "③ steroid",
+        "④ Iridoid",
+        "⑤ Xanthone"
+      ],
+      "answer": "① Diarylheptanoid",
+      "explanation": "정답: ① Diarylheptanoid"
+    },
+    {
+      "id": 14,
+      "question": "[2023-2 중간 23] tropane alkaloid를 생성하는 생약의 과명을 모두 고르면?",
+      "choices": [
+        "③, ④ (가지과, 코카나무과)",
+        "③ 가지과만",
+        "④ 코카나무과만",
+        "①, ③ (장미과, 가지과)",
+        "②, ⑤ (매자나무과, 박과)"
+      ],
+      "answer": "③, ④ (가지과, 코카나무과)",
+      "explanation": "정답: ③, ④ (가지과, 코카나무과)\n⚠ PPT 대조: PPT: 'Solanaceae, Erythroxylaceae에만 분포' → 가지과와 코카나무과 둘 다 정답. 족보에 단일 답 표기가 없어 앱에서는 ③만 정답 처리.\n✎ 수정사항: PPT상 정답이 둘(가지과·코카나무과)이므로 '모두 고르기' 형식으로 바꿈."
+    },
+    {
+      "id": 15,
+      "question": "[2023-2 중간 24-①] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tropane, pyrrolidine, pyrrolizidine alk.",
+      "choices": [
+        "① Ornithine",
+        "② Lysine",
+        "③ Tryptophan"
+      ],
+      "answer": "① Ornithine",
+      "explanation": "정답: ① Ornithine"
+    },
+    {
+      "id": 16,
+      "question": "[2023-2 중간 24-②] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Piperidine, Quinolizidine, Indolizidine Alk.",
+      "choices": [
+        "① Ornithine",
+        "② Lysine",
+        "③ Tryptophan"
+      ],
+      "answer": "② Lysine",
+      "explanation": "정답: ② Lysine"
+    },
+    {
+      "id": 17,
+      "question": "[2023-2 중간 24-③] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tryptamine, Indole, Quinoline, Pyrroloquinoline, Pyrroloindole, Ergot Alk.",
+      "choices": [
+        "① Ornithine",
+        "② Lysine",
+        "③ Tryptophan"
+      ],
+      "answer": "③ Tryptophan",
+      "explanation": "정답: ③ Tryptophan"
+    }
+  ]
+}

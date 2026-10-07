@@ -1,0 +1,232 @@
+{
+  "deckId": "pharmacognosy-exam-2023-2-mid-set4",
+  "subject": "생약학",
+  "title": "2023-2 생약학1 중간고사 기출 · 세트 4/4 (27-①~32번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-2 중간 27-①] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ① )에 들어갈 것은?",
+      "choices": [
+        "① Chalcone",
+        "② Stilbene",
+        "③ Flavanone",
+        "④ flavonol",
+        "⑤ isoflavone"
+      ],
+      "answer": "① Chalcone",
+      "explanation": "정답: ① Chalcone"
+    },
+    {
+      "id": 2,
+      "question": "[2023-2 중간 27-②] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ② )에 들어갈 것은?",
+      "choices": [
+        "① Chalcone",
+        "② Stilbene",
+        "③ Flavanone",
+        "④ flavonol",
+        "⑤ isoflavone"
+      ],
+      "answer": "② Stilbene",
+      "explanation": "정답: ② Stilbene"
+    },
+    {
+      "id": 3,
+      "question": "[2023-2 중간 27-③] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ③ )에 들어갈 것은?",
+      "choices": [
+        "① Chalcone",
+        "② Stilbene",
+        "③ Flavanone",
+        "④ flavonol",
+        "⑤ isoflavone"
+      ],
+      "answer": "③ Flavanone",
+      "explanation": "정답: ③ Flavanone"
+    },
+    {
+      "id": 4,
+      "question": "[2023-2 중간 27-④] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ④ )에 들어갈 것은?",
+      "choices": [
+        "① Chalcone",
+        "② Stilbene",
+        "③ Flavanone",
+        "④ flavonol",
+        "⑤ isoflavone"
+      ],
+      "answer": "④ flavonol",
+      "explanation": "정답: ④ flavonol"
+    },
+    {
+      "id": 5,
+      "question": "[2023-2 중간 27-⑤] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ⑤ )에 들어갈 것은?",
+      "choices": [
+        "① Chalcone",
+        "② Stilbene",
+        "③ Flavanone",
+        "④ flavonol",
+        "⑤ isoflavone"
+      ],
+      "answer": "⑤ isoflavone",
+      "explanation": "정답: ⑤ isoflavone"
+    },
+    {
+      "id": 6,
+      "question": "[2023-2 중간 28] 다음 생합성의 빈칸 ⓐ를 채우세요. (ⓐ는 monoterpenoid indole alkaloid의 전구물질)\n[[img:pharmacognosy/images/2023-mid-q28.png|q28]]",
+      "answer": [
+        "strictosidine",
+        "스트릭토시딘"
+      ],
+      "explanation": "정답: strictosidine"
+    },
+    {
+      "id": 7,
+      "question": "[2023-2 중간 29-①] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ① )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "① aporphine",
+      "explanation": "정답: ① aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침."
+    },
+    {
+      "id": 8,
+      "question": "[2023-2 중간 29-②] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ② )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "② morphine",
+      "explanation": "정답: ② morphine"
+    },
+    {
+      "id": 9,
+      "question": "[2023-2 중간 29-③] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ③ )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "③ quinoline",
+      "explanation": "정답: ③ quinoline"
+    },
+    {
+      "id": 10,
+      "question": "[2023-2 중간 29-④] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ④ )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "④ tetrahydroisoquinoline",
+      "explanation": "정답: ④ tetrahydroisoquinoline"
+    },
+    {
+      "id": 11,
+      "question": "[2023-2 중간 29-⑤] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑤ )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "⑤ indole",
+      "explanation": "정답: ⑤ indole"
+    },
+    {
+      "id": 12,
+      "question": "[2023-2 중간 29-⑥] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑥ )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "⑥ imidazole",
+      "explanation": "정답: ⑥ imidazole"
+    },
+    {
+      "id": 13,
+      "question": "[2023-2 중간 29-⑦] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑦ )에 들어갈 것은?",
+      "choices": [
+        "① aporphine",
+        "② morphine",
+        "③ quinoline",
+        "④ tetrahydroisoquinoline",
+        "⑤ indole",
+        "⑥ imidazole",
+        "⑦ anthraquinone"
+      ],
+      "answer": "⑦ anthraquinone",
+      "explanation": "정답: ⑦ anthraquinone"
+    },
+    {
+      "id": 14,
+      "question": "[2023-2 중간 30-ⓐ] 30. Alkaloid는 ( ⓐ )성의 강한 생리활성을 나타내고 ( ⓑ ) 이성환상 화합물이다. Alkaloid는 amino기를 가지고 있기에 보통 ( ⓒ ) 시약, Dragendorff 시약을 사용하여 확인한다.\nⓐ는?",
+      "answer": [
+        "염기",
+        "염기성"
+      ],
+      "explanation": "정답: 염기"
+    },
+    {
+      "id": 15,
+      "question": "[2023-2 중간 30-ⓑ] 30. Alkaloid는 ( ⓐ )성의 강한 생리활성을 나타내고 ( ⓑ ) 이성환상 화합물이다. Alkaloid는 amino기를 가지고 있기에 보통 ( ⓒ ) 시약, Dragendorff 시약을 사용하여 확인한다.\nⓑ는?",
+      "answer": [
+        "함질소",
+        "질소"
+      ],
+      "explanation": "정답: 함질소"
+    },
+    {
+      "id": 16,
+      "question": "[2023-2 중간 30-ⓒ] 30. Alkaloid는 ( ⓐ )성의 강한 생리활성을 나타내고 ( ⓑ ) 이성환상 화합물이다. Alkaloid는 amino기를 가지고 있기에 보통 ( ⓒ ) 시약, Dragendorff 시약을 사용하여 확인한다.\nⓒ는?",
+      "answer": [
+        "Mayer",
+        "메이어",
+        "mayer시약"
+      ],
+      "explanation": "정답: Mayer\n⚠ PPT 대조: Mayer·Dragendorff 시약은 이번 학기 PPT 텍스트에서 찾지 못함 — 교재 지식 기준."
+    },
+    {
+      "id": 17,
+      "question": "[2023-2 중간 31] humulone, aspidin, albaspidin, lupulone 이 구조를 대표하는 성분 계열은?",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n⚠ PPT 대조: PPT polyketide 단원에 phloroglucinols로 분류. 단 humulone·lupulone은 PPT complex pathway에서 'polyketide + mevalonate'로도 나옴 — 생합성 경로를 물으면 complex."
+    },
+    {
+      "id": 18,
+      "question": "[2023-2 중간 32] n-heptane의 C-1, C-7 위치에 페닐기가 치환된 형으로 2분자의 cinnamate와 malonate의 결합에 의해 얻어진 화합물이다. 생약 성분으로 중요한 것이 많으며 대개 매운 맛을 나타내는 다음 구조의 화합물 계열은?\n[[img:pharmacognosy/images/2023-mid-q22.png|q22]]",
+      "answer": [
+        "diarylheptanoid",
+        "다이아릴헵타노이드"
+      ],
+      "explanation": "정답: diarylheptanoid\n⚠ PPT 대조: PPT: curcumin류 diarylheptanoid는 complex pathway(shikimate + polyketide) 단원에 수록."
+    }
+  ]
+}

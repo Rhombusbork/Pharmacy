@@ -1,0 +1,267 @@
+{
+  "deckId": "pharmacognosy-exam-2025-2-mid-set3",
+  "subject": "생약학",
+  "title": "2025-2 생약학1 중간고사 기출 · 세트 3/3 (44~63번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2025-2 중간 44번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q44.png|44번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway"
+    },
+    {
+      "id": 2,
+      "question": "[2025-2 중간 45번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q45.png|45번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 pyrethric acid(chrysanthemic acid 유도체, monoterpene)."
+    },
+    {
+      "id": 3,
+      "question": "[2025-2 중간 46번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q46.png|46번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 alizarin. PPT는 'Shikimate pathway (alizarin type)'로 표기(실제로는 shikimate + mevalonate 혼합 경로)."
+    },
+    {
+      "id": 4,
+      "question": "[2025-2 중간 47번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q47.png|47번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 dicoumarol — PPT shikimate(coumarin) 단원."
+    },
+    {
+      "id": 5,
+      "question": "[2025-2 중간 48번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q48.png|48번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 emodin — PPT: 'Acetate-malonate pathway (emodin type)'."
+    },
+    {
+      "id": 6,
+      "question": "[2025-2 중간 49번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q49.png|49번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 biphenyl형 neolignan(magnolol/honokiol 계열) — shikimate."
+    },
+    {
+      "id": 7,
+      "question": "[2025-2 중간 50번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q50.png|50번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 acetylphloroglucinol — PPT polyketide의 phloroglucinols."
+    },
+    {
+      "id": 8,
+      "question": "[2025-2 중간 51번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q51.png|51번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "2. amino acid pathway",
+      "explanation": "정답: 2. amino acid pathway\n⚠ PPT 대조: 그림은 papaverine(benzylisoquinoline) — 아미노산(Tyr) 유래."
+    },
+    {
+      "id": 9,
+      "question": "[2025-2 중간 52번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q52.png|52번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 sweroside(secoiridoid) — PPT isoprenoid 단원."
+    },
+    {
+      "id": 10,
+      "question": "[2025-2 중간 53번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q53.png|53번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 stilbene 배당체 — PPT complex: 'polyketide + shikimate: xanthones, flavonoids, stilbenes'."
+    },
+    {
+      "id": 11,
+      "question": "[2025-2 중간 54번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q54.png|54번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 curcumin(diarylheptanoid) — PPT complex pathway 단원에 수록."
+    },
+    {
+      "id": 12,
+      "question": "[2025-2 중간 55번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q55.png|55번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "5. complex pathway",
+      "explanation": "정답: 5. complex pathway\n⚠ PPT 대조: 그림은 camptothecin(pyrroloquinoline). 43번과 같은 논리로 complex(Trp + secologanin)로 판단했으나 PPT 알칼로이드 단원에도 있어 amino acid pathway로 볼 여지가 있음."
+    },
+    {
+      "id": 13,
+      "question": "[2025-2 중간 56번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q56.png|56번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 silybin(flavonolignan). PPT는 shikimate 단원의 lignoid(flavonoid + lignan)로 다룸. flavonoid 부분은 complex라 애매."
+    },
+    {
+      "id": 14,
+      "question": "[2025-2 중간 57번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q57.png|57번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림은 zeaxanthin(tetraterpene, carotenoid)."
+    },
+    {
+      "id": 15,
+      "question": "[2025-2 중간 58번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q58.png|58번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 ligustilide류 phthalide — PPT polyketide 단원(천궁, 당귀)."
+    },
+    {
+      "id": 16,
+      "question": "[2025-2 중간 59번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q59.png|59번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "1. shikimate pathway",
+      "explanation": "정답: 1. shikimate pathway\n⚠ PPT 대조: 그림은 hinokiresinol(norlignan) — PPT shikimate 단원."
+    },
+    {
+      "id": 17,
+      "question": "[2025-2 중간 60번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q60.png|60번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 urushiol — PPT polyketide 단원(resorcinol/catechol 유도체)."
+    },
+    {
+      "id": 18,
+      "question": "[2025-2 중간 61번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q61.png|61번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "4. isoprenoid pathway",
+      "explanation": "정답: 4. isoprenoid pathway\n⚠ PPT 대조: 그림의 정확한 화합물명은 확인 불가. 이소프렌 단위 탄소 골격으로 보아 isoprenoid로 판단(추정)."
+    },
+    {
+      "id": 19,
+      "question": "[2025-2 중간 62번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q62.png|62번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "2. amino acid pathway",
+      "explanation": "정답: 2. amino acid pathway\n⚠ PPT 대조: 그림은 morphinan 골격 — 아미노산(Tyr) 유래."
+    },
+    {
+      "id": 20,
+      "question": "[2025-2 중간 63번] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q63.png|63번 구조]]",
+      "choices": [
+        "1. shikimate pathway",
+        "2. amino acid pathway",
+        "3. polyketide pathway",
+        "4. isoprenoid pathway",
+        "5. complex pathway"
+      ],
+      "answer": "3. polyketide pathway",
+      "explanation": "정답: 3. polyketide pathway\n⚠ PPT 대조: 그림은 falcarinol(panaxynol, 일당귀) — PPT polyketide의 polyacetylene."
+    }
+  ]
+}
