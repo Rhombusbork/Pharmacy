@@ -1,0 +1,125 @@
+{
+  "deckId": "orgchem-ch14",
+  "subject": "유기화학",
+  "title": "Ch14: 핵자기 공명 분광법 (NMR)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[[smi:CCOCC]] (다이에틸 에터)의 ¹H NMR 신호는 몇 종류인가?",
+      "choices": [
+        "2개",
+        "1개",
+        "3개",
+        "4개"
+      ],
+      "answer": "2개",
+      "explanation": "대칭이므로 CH₃ 6H(한 종류)와 OCH₂ 4H(한 종류) → 2개 신호."
+    },
+    {
+      "id": 2,
+      "question": "¹H NMR에서 화학적 이동(δ)이 큰 쪽(왼쪽, downfield)으로 가는 원인은?",
+      "choices": [
+        "근처 전기음성 원자에 의한 가림 벗김(deshielding)",
+        "전자 밀도 증가에 의한 가림(shielding)",
+        "분자량 증가",
+        "탄소 수 증가"
+      ],
+      "answer": "근처 전기음성 원자에 의한 가림 벗김(deshielding)",
+      "explanation": "전기음성 원자가 전자를 끌어가면 핵 주위 전자가 줄어 외부 자기장을 더 강하게 느낀다 → δ 증가."
+    },
+    {
+      "id": 3,
+      "question": "알데하이드 수소(–CHO)의 대략적인 화학적 이동은?",
+      "choices": [
+        "9–10 ppm",
+        "0.9 ppm",
+        "2 ppm",
+        "5 ppm"
+      ],
+      "answer": "9–10 ppm",
+      "explanation": "알데하이드 H는 9–10 ppm, 카복실산 H는 10–12 ppm, 방향족 H는 6.5–8 ppm, 비닐 H는 4.5–6 ppm."
+    },
+    {
+      "id": 4,
+      "question": "n+1 규칙에서 이웃한 동등한 수소가 3개일 때 신호의 갈라짐은?",
+      "choices": [
+        "4중선(quartet)",
+        "3중선(triplet)",
+        "2중선(doublet)",
+        "단일선(singlet)"
+      ],
+      "answer": "4중선(quartet)",
+      "explanation": "이웃 수소 n개 → n+1개로 갈라진다. 3 + 1 = 4중선. 에틸기는 CH₃가 3중선, CH₂가 4중선을 보인다."
+    },
+    {
+      "id": 5,
+      "question": "[[smi:CC(C)=O]] (아세톤)의 ¹H NMR 신호 모양은?",
+      "choices": [
+        "단일선 1개 (6H)",
+        "3중선과 4중선",
+        "2중선 1개",
+        "단일선 2개"
+      ],
+      "answer": "단일선 1개 (6H)",
+      "explanation": "두 CH₃는 동등하고 이웃 탄소(카보닐)에 수소가 없으므로 갈라지지 않는다. 약 2.1 ppm 단일선."
+    },
+    {
+      "id": 6,
+      "question": "¹H NMR 신호의 적분값(integration)이 알려주는 것은?",
+      "choices": [
+        "그 신호를 내는 수소의 상대적인 개수",
+        "이웃 수소 수",
+        "탄소 수",
+        "분자량"
+      ],
+      "answer": "그 신호를 내는 수소의 상대적인 개수",
+      "explanation": "봉우리 아래 면적은 수소 수에 비례한다. 갈라짐은 이웃 수소 수, 위치(δ)는 화학 환경을 알려준다."
+    },
+    {
+      "id": 7,
+      "question": "NMR 기준 물질로 쓰는 TMS(tetramethylsilane)의 화학적 이동은?",
+      "choices": [
+        "0 ppm",
+        "1 ppm",
+        "7.26 ppm",
+        "10 ppm"
+      ],
+      "answer": "0 ppm",
+      "explanation": "TMS의 수소는 매우 가려져 있어 대부분 유기 화합물보다 위쪽(upfield)에 나오므로 0 ppm 기준으로 쓴다."
+    },
+    {
+      "id": 8,
+      "question": "[[smi:CCC(=O)OC]] (메틸 프로파노에이트)의 ¹³C NMR 신호 수는?",
+      "choices": [
+        "4개",
+        "3개",
+        "5개",
+        "2개"
+      ],
+      "answer": "4개",
+      "explanation": "탄소 4개가 모두 다른 환경이다(CH₃, CH₂, C=O, OCH₃). ¹³C NMR은 보통 짝풀림(decoupled)되어 모두 단일선으로 나온다."
+    },
+    {
+      "id": 9,
+      "question": "¹³C NMR에서 카보닐 탄소의 화학적 이동 범위는?",
+      "choices": [
+        "160–220 ppm",
+        "0–50 ppm",
+        "50–80 ppm",
+        "100–150 ppm"
+      ],
+      "answer": "160–220 ppm",
+      "explanation": "카보닐 탄소는 160–220 ppm(케톤·알데하이드 190–220, 에스터·산 160–185). sp³ C는 0–50, C–O는 50–80, sp² C=C·방향족은 100–150 ppm."
+    },
+    {
+      "id": 10,
+      "question": "[[smi:ClCC(Cl)Cl]] (1,1,2-트라이클로로에테인)에서 CH₂ 신호는 몇 중선인가? (숫자만)",
+      "answer": [
+        "2",
+        "2중선",
+        "doublet"
+      ],
+      "explanation": "CH₂의 이웃 탄소(CHCl₂)에 H가 1개 → 1 + 1 = 2중선. 반대로 CH 신호는 이웃 CH₂ 때문에 3중선."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "deckId": "orgchem-ch04",
+  "subject": "유기화학",
+  "title": "Ch4: 알케인 (alkanes)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 화합물의 IUPAC 이름은? [[smi:CC(C)CC]] (영어)",
+      "answer": [
+        "2-methylbutane",
+        "2-메틸뷰테인",
+        "2-메틸부탄"
+      ],
+      "explanation": "가장 긴 사슬은 탄소 4개(뷰테인), 2번 탄소에 메틸기 → 2-methylbutane (아이소펜테인)."
+    },
+    {
+      "id": 2,
+      "question": "C₆H₁₄(헥세인)의 구조 이성질체는 모두 몇 개인가?",
+      "choices": [
+        "5개",
+        "3개",
+        "4개",
+        "6개"
+      ],
+      "answer": "5개",
+      "explanation": "헥세인, 2-메틸펜테인, 3-메틸펜테인, 2,2-다이메틸뷰테인, 2,3-다이메틸뷰테인 → 5개."
+    },
+    {
+      "id": 3,
+      "question": "[[smi:CC(C)(C)C]] 에서 가운데 탄소는 몇 차 탄소인가?",
+      "choices": [
+        "4차(quaternary)",
+        "3차",
+        "2차",
+        "1차"
+      ],
+      "answer": "4차(quaternary)",
+      "explanation": "탄소 차수는 그 탄소에 붙은 다른 탄소의 수로 정한다. 가운데 탄소는 탄소 4개와 결합 → 4차 탄소."
+    },
+    {
+      "id": 4,
+      "question": "에테인의 형태(conformation) 중 에너지가 가장 낮은 것은?",
+      "choices": [
+        "엇갈린 형태(staggered)",
+        "가려진 형태(eclipsed)",
+        "둘의 에너지가 같다",
+        "반쪽 의자 형태"
+      ],
+      "answer": "엇갈린 형태(staggered)",
+      "explanation": "엇갈린 형태는 C–H 결합끼리 멀리 떨어져 비틀림 변형(torsional strain)이 없다. 가려진 형태는 약 12 kJ/mol 더 높다."
+    },
+    {
+      "id": 5,
+      "question": "뷰테인의 C2–C3 결합 회전에서 가장 안정한 형태는?",
+      "choices": [
+        "anti(엇갈린, 두 CH₃가 180°)",
+        "gauche(엇갈린, 60°)",
+        "가려진 형태(CH₃끼리 겹침)",
+        "가려진 형태(CH₃와 H 겹침)"
+      ],
+      "answer": "anti(엇갈린, 두 CH₃가 180°)",
+      "explanation": "anti가 가장 안정하다. gauche는 두 메틸기의 입체 변형 때문에 약 3.8 kJ/mol 높고, 두 CH₃가 겹친 가려진 형태가 가장 불안정하다."
+    },
+    {
+      "id": 6,
+      "question": "사이클로프로페인이 매우 불안정한 주된 이유는?",
+      "choices": [
+        "결합각이 60°로 109.5°보다 크게 작아 각 변형이 크기 때문",
+        "분자량이 작기 때문",
+        "수소 결합이 없기 때문",
+        "탄소가 sp² 혼성이기 때문"
+      ],
+      "answer": "결합각이 60°로 109.5°보다 크게 작아 각 변형이 크기 때문",
+      "explanation": "고리 변형 = 각 변형(angle strain) + 비틀림 변형. 사이클로프로페인은 각 변형이 커서 반응성이 크다. 사이클로헥세인 의자 형태는 변형이 거의 없다."
+    },
+    {
+      "id": 7,
+      "question": "사이클로헥세인의 가장 안정한 형태는?",
+      "choices": [
+        "의자 형태(chair)",
+        "보트 형태(boat)",
+        "평면 형태",
+        "꼬인 보트 형태"
+      ],
+      "answer": "의자 형태(chair)",
+      "explanation": "의자 형태는 모든 결합각이 약 109.5°이고 모든 C–H가 엇갈려 있어 변형이 거의 없다."
+    },
+    {
+      "id": 8,
+      "question": "메틸사이클로헥세인에서 메틸기가 equatorial에 있는 형태가 더 안정한 이유는?",
+      "choices": [
+        "axial일 때 1,3-이축 상호작용(1,3-diaxial interaction)이 생기기 때문",
+        "equatorial 위치의 결합이 더 짧기 때문",
+        "axial 위치에는 수소 결합이 생기기 때문",
+        "equatorial에서 고리가 평면이 되기 때문"
+      ],
+      "answer": "axial일 때 1,3-이축 상호작용(1,3-diaxial interaction)이 생기기 때문",
+      "explanation": "axial 치환기는 같은 쪽 3·5번 axial 수소와 부딪혀 입체 변형이 생긴다. 큰 치환기일수록 equatorial 선호가 강하다(tert-뷰틸은 거의 100%)."
+    },
+    {
+      "id": 9,
+      "question": "cis-1,2-다이메틸사이클로헥세인의 의자 형태에서 두 메틸기의 배치는?",
+      "choices": [
+        "하나는 axial, 하나는 equatorial",
+        "둘 다 equatorial",
+        "둘 다 axial",
+        "고리 뒤집기와 관계없이 둘 다 equatorial"
+      ],
+      "answer": "하나는 axial, 하나는 equatorial",
+      "explanation": "1,2-cis는 a,e 또는 e,a. 1,2-trans가 e,e(더 안정) 또는 a,a가 된다. 1,3-cis는 e,e, 1,4-trans는 e,e."
+    },
+    {
+      "id": 10,
+      "question": "알케인의 연소 반응 생성물은? (완전 연소)",
+      "choices": [
+        "CO₂와 H₂O",
+        "CO와 H₂",
+        "C와 H₂O",
+        "알켄과 H₂"
+      ],
+      "answer": "CO₂와 H₂O",
+      "explanation": "알케인은 반응성이 낮지만 산소와 완전 연소하면 CO₂와 H₂O를 만들고 많은 열을 낸다. 연소열은 고리 변형 비교에도 쓰인다."
+    }
+  ]
+}
