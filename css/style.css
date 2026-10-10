@@ -49,9 +49,14 @@ h2 {
   display: inline-block;
 }
 
-/* 과목 하나의 덱 목록 묶음 */
-.subject-group {
-  margin-bottom: 1rem;
+/* 과목 페이지 위쪽 "← 과목 목록" 버튼 */
+.back-button {
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 0.4rem;
+  background: #fff;
+  font-size: 0.9rem;
+  cursor: pointer;
 }
 
 .deck-list {

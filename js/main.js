@@ -49,9 +49,28 @@ function buildDeckEntries(loadResults) {
 
 let deckEntries = [];
 
-function showHome() {
-  renderHome(app, deckEntries, { onSelectDeck: showQuiz, onImported: showHome });
+// 지금 보고 있는 과목은 주소 끝의 #과목명 에 담는다.
+// 이렇게 하면 과목 페이지를 즐겨찾기할 수 있고, 브라우저 뒤로가기로 과목 목록에 돌아갈 수 있다.
+function currentSubject() {
+  return decodeURIComponent(location.hash.slice(1)) || null;
 }
+
+function showHome() {
+  renderHome(app, deckEntries, currentSubject(), {
+    // 주소만 바꾸면 아래 hashchange 처리기가 화면을 다시 그린다.
+    onSelectSubject: (subject) => {
+      location.hash = subject ? encodeURIComponent(subject) : "";
+    },
+    onSelectDeck: showQuiz,
+    onImported: showHome,
+  });
+  window.scrollTo(0, 0);
+}
+
+// 뒤로가기·앞으로가기 또는 과목 클릭으로 #과목명 이 바뀌면 홈 화면을 다시 그린다.
+window.addEventListener("hashchange", () => {
+  if (deckEntries.length > 0) showHome();
+});
 
 function showQuiz(entry) {
   renderQuiz(app, entry, (results, deck, playedTotal) => {
