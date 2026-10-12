@@ -124,34 +124,34 @@
       "id": 10,
       "question": "[2025-2 중간 30번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q30.png|30번 구조]]",
       "choices": [
-        "1. Morphinane",
-        "2. Aporphine",
-        "3. Pyrroloindole"
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
       ],
-      "answer": "1. Morphinane",
-      "explanation": "정답: 1. Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격."
+      "answer": "Morphinane",
+      "explanation": "정답: Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격."
     },
     {
       "id": 11,
       "question": "[2025-2 중간 31번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q31.png|31번 구조]]",
       "choices": [
-        "1. Morphinane",
-        "2. Aporphine",
-        "3. Pyrroloindole"
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
       ],
-      "answer": "2. Aporphine",
-      "explanation": "정답: 2. Aporphine"
+      "answer": "Aporphine",
+      "explanation": "정답: Aporphine"
     },
     {
       "id": 12,
       "question": "[2025-2 중간 33번] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q33.png|33번 구조]]",
       "choices": [
-        "1. Morphinane",
-        "2. Aporphine",
-        "3. Pyrroloindole"
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
       ],
-      "answer": "3. Pyrroloindole",
-      "explanation": "정답: 3. Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine)."
+      "answer": "Pyrroloindole",
+      "explanation": "정답: Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine)."
     },
     {
       "id": 13,

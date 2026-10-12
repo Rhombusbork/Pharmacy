@@ -234,85 +234,85 @@
       "id": 22,
       "question": "[2023-2 중간 9-①] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ① ) — GPP(C10)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "① monoterpenes",
-      "explanation": "정답: ① monoterpenes"
+      "answer": "monoterpenes",
+      "explanation": "정답: monoterpenes"
     },
     {
       "id": 23,
       "question": "[2023-2 중간 9-②] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ② ) — FPP(C15)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "② sesquiterpenes",
-      "explanation": "정답: ② sesquiterpenes"
+      "answer": "sesquiterpenes",
+      "explanation": "정답: sesquiterpenes"
     },
     {
       "id": 24,
       "question": "[2023-2 중간 9-③] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ③ ) — Diterpenes(C20)의 전구체 PP",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "③ geranylgeranyl",
-      "explanation": "정답: ③ geranylgeranyl"
+      "answer": "geranylgeranyl",
+      "explanation": "정답: geranylgeranyl"
     },
     {
       "id": 25,
       "question": "[2023-2 중간 9-④] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ④ ) — Sesterterpenes(C25)의 전구체 PP",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "④ geranylfarnesyl",
-      "explanation": "정답: ④ geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
+      "answer": "geranylfarnesyl",
+      "explanation": "정답: geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
     },
     {
       "id": 26,
       "question": "[2023-2 중간 9-⑤] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑤ ) — 2×FPP → squalene에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "⑤ triterpenoids",
-      "explanation": "정답: ⑤ triterpenoids"
+      "answer": "triterpenoids",
+      "explanation": "정답: triterpenoids"
     },
     {
       "id": 27,
       "question": "[2023-2 중간 9-⑥] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑥ ) — 2×GGPP → phytoene(C40)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "⑥ tetraterpenes",
-      "explanation": "정답: ⑥ tetraterpenes"
+      "answer": "tetraterpenes",
+      "explanation": "정답: tetraterpenes"
     }
   ]
 }

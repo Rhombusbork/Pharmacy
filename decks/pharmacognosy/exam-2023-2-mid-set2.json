@@ -182,34 +182,34 @@
       "id": 15,
       "question": "[2023-2 중간 24-①] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tropane, pyrrolidine, pyrrolizidine alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "① Ornithine",
-      "explanation": "정답: ① Ornithine"
+      "answer": "Ornithine",
+      "explanation": "정답: Ornithine"
     },
     {
       "id": 16,
       "question": "[2023-2 중간 24-②] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Piperidine, Quinolizidine, Indolizidine Alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "② Lysine",
-      "explanation": "정답: ② Lysine"
+      "answer": "Lysine",
+      "explanation": "정답: Lysine"
     },
     {
       "id": 17,
       "question": "[2023-2 중간 24-③] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tryptamine, Indole, Quinoline, Pyrroloquinoline, Pyrroloindole, Ergot Alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "③ Tryptophan",
-      "explanation": "정답: ③ Tryptophan"
+      "answer": "Tryptophan",
+      "explanation": "정답: Tryptophan"
     }
   ]
 }
