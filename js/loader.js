@@ -3,11 +3,14 @@
 
 const DECKS_BASE = "decks/";
 
+// 덱을 고쳐 배포해도 브라우저 캐시 때문에 옛 문제가 보이지 않도록, 매번 서버에 새 버전이 있는지 확인한다.
+const NO_CACHE = { cache: "no-cache" };
+
 // decks/index.json 을 읽어 { paths, error } 를 돌려준다.
 // 파일이 없거나 형식이 깨졌으면 paths는 빈 배열, error에 이유를 담는다(홈 화면에 표시, 앱은 멈추지 않음).
 async function loadDeckPaths() {
   try {
-    const res = await fetch(`${DECKS_BASE}index.json`);
+    const res = await fetch(`${DECKS_BASE}index.json`, NO_CACHE);
     if (!res.ok) throw new Error(`파일을 찾지 못함 (응답 ${res.status})`);
     let data;
     try {
@@ -30,7 +33,7 @@ async function loadDeckPaths() {
 // 덱 파일 하나를 읽는다. 성공하면 { ok: true, path, deck }, 실패하면 { ok: false, path, error } 를 돌려준다.
 async function loadDeck(path) {
   try {
-    const res = await fetch(`${DECKS_BASE}${path}`);
+    const res = await fetch(`${DECKS_BASE}${path}`, NO_CACHE);
     if (!res.ok) throw new Error(`파일을 찾지 못함 (응답 ${res.status})`);
     let deck;
     try {
