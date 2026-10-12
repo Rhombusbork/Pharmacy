@@ -234,85 +234,85 @@
       "id": 22,
       "question": "[2023-2 중간 9-①] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ① ) — GPP(C10)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "① monoterpenes",
-      "explanation": "정답: ① monoterpenes"
+      "answer": "monoterpenes",
+      "explanation": "정답: monoterpenes"
     },
     {
       "id": 23,
       "question": "[2023-2 중간 9-②] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ② ) — FPP(C15)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "② sesquiterpenes",
-      "explanation": "정답: ② sesquiterpenes"
+      "answer": "sesquiterpenes",
+      "explanation": "정답: sesquiterpenes"
     },
     {
       "id": 24,
       "question": "[2023-2 중간 9-③] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ③ ) — Diterpenes(C20)의 전구체 PP",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "③ geranylgeranyl",
-      "explanation": "정답: ③ geranylgeranyl"
+      "answer": "geranylgeranyl",
+      "explanation": "정답: geranylgeranyl"
     },
     {
       "id": 25,
       "question": "[2023-2 중간 9-④] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ④ ) — Sesterterpenes(C25)의 전구체 PP",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "④ geranylfarnesyl",
-      "explanation": "정답: ④ geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
+      "answer": "geranylfarnesyl",
+      "explanation": "정답: geranylfarnesyl\n⚠ PPT 대조: C25 전구체의 정확한 이름은 geranylfarnesyl PP(GFPP). 족보 보기 'famesylfamesyl'은 C30이 되므로 오기로 보임.\n✎ 수정사항: 보기 ④ 'famesylfamesyl'(=farnesylfarnesyl, C30)을 C25 전구체 이름인 'geranylfarnesyl'로 고침."
     },
     {
       "id": 26,
       "question": "[2023-2 중간 9-⑤] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑤ ) — 2×FPP → squalene에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "⑤ triterpenoids",
-      "explanation": "정답: ⑤ triterpenoids"
+      "answer": "triterpenoids",
+      "explanation": "정답: triterpenoids"
     },
     {
       "id": 27,
       "question": "[2023-2 중간 9-⑥] 9. Mevalonate pathway 그림의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q9.png|mevalonate pathway 그림]]\n( ⑥ ) — 2×GGPP → phytoene(C40)에서 생기는 화합물군",
       "choices": [
-        "① monoterpenes",
-        "② sesquiterpenes",
-        "③ geranylgeranyl",
-        "④ geranylfarnesyl",
-        "⑤ triterpenoids",
-        "⑥ tetraterpenes"
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl",
+        "geranylfarnesyl",
+        "triterpenoids",
+        "tetraterpenes"
       ],
-      "answer": "⑥ tetraterpenes",
-      "explanation": "정답: ⑥ tetraterpenes"
+      "answer": "tetraterpenes",
+      "explanation": "정답: tetraterpenes"
     },
     {
       "id": 28,
@@ -493,162 +493,162 @@
       "id": 42,
       "question": "[2023-2 중간 24-①] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tropane, pyrrolidine, pyrrolizidine alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "① Ornithine",
-      "explanation": "정답: ① Ornithine"
+      "answer": "Ornithine",
+      "explanation": "정답: Ornithine"
     },
     {
       "id": 43,
       "question": "[2023-2 중간 24-②] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Piperidine, Quinolizidine, Indolizidine Alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "② Lysine",
-      "explanation": "정답: ② Lysine"
+      "answer": "Lysine",
+      "explanation": "정답: Lysine"
     },
     {
       "id": 44,
       "question": "[2023-2 중간 24-③] 24. 생합성 전구체 원료 아미노산을 고르시오.\nAlkaloid의 종류: Tryptamine, Indole, Quinoline, Pyrroloquinoline, Pyrroloindole, Ergot Alk.",
       "choices": [
-        "① Ornithine",
-        "② Lysine",
-        "③ Tryptophan"
+        "Ornithine",
+        "Lysine",
+        "Tryptophan"
       ],
-      "answer": "③ Tryptophan",
-      "explanation": "정답: ③ Tryptophan"
+      "answer": "Tryptophan",
+      "explanation": "정답: Tryptophan"
     },
     {
       "id": 45,
       "question": "[2023-2 중간 25-①] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n( ① )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "① cholestane",
-      "explanation": "정답: ① cholestane"
+      "answer": "cholestane",
+      "explanation": "정답: cholestane"
     },
     {
       "id": 46,
       "question": "[2023-2 중간 25-②] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n( ② )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "② estrane",
-      "explanation": "정답: ② estrane"
+      "answer": "estrane",
+      "explanation": "정답: estrane"
     },
     {
       "id": 47,
       "question": "[2023-2 중간 25-③] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n( ③ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "③ stigmastane",
-      "explanation": "정답: ③ stigmastane"
+      "answer": "stigmastane",
+      "explanation": "정답: stigmastane"
     },
     {
       "id": 48,
       "question": "[2023-2 중간 25-④] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n( ④ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "④ cardenolide",
-      "explanation": "정답: ④ cardenolide"
+      "answer": "cardenolide",
+      "explanation": "정답: cardenolide"
     },
     {
       "id": 49,
       "question": "[2023-2 중간 25-⑤] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑤ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "⑤ cycloartenol",
-      "explanation": "정답: ⑤ cycloartenol"
+      "answer": "cycloartenol",
+      "explanation": "정답: cycloartenol"
     },
     {
       "id": 50,
       "question": "[2023-2 중간 25-⑥] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑥ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "⑥ euphol",
-      "explanation": "정답: ⑥ euphol"
+      "answer": "euphol",
+      "explanation": "정답: euphol"
     },
     {
       "id": 51,
       "question": "[2023-2 중간 25-⑦] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑦ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "⑦ β-amyrin (oleananes)",
-      "explanation": "정답: ⑦ β-amyrin (oleananes)"
+      "answer": "β-amyrin (oleananes)",
+      "explanation": "정답: β-amyrin (oleananes)"
     },
     {
       "id": 52,
       "question": "[2023-2 중간 25-⑧] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑧ )에 들어갈 것은?",
       "choices": [
-        "① cholestane",
-        "② estrane",
-        "③ stigmastane",
-        "④ cardenolide",
-        "⑤ cycloartenol",
-        "⑥ euphol",
-        "⑦ β-amyrin (oleananes)",
-        "⑧ friedelin"
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
       ],
-      "answer": "⑧ friedelin",
-      "explanation": "정답: ⑧ friedelin"
+      "answer": "friedelin",
+      "explanation": "정답: friedelin"
     },
     {
       "id": 53,
@@ -877,66 +877,66 @@
       "id": 72,
       "question": "[2023-2 중간 27-①] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ① )에 들어갈 것은?",
       "choices": [
-        "① Chalcone",
-        "② Stilbene",
-        "③ Flavanone",
-        "④ flavonol",
-        "⑤ isoflavone"
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
       ],
-      "answer": "① Chalcone",
-      "explanation": "정답: ① Chalcone"
+      "answer": "Chalcone",
+      "explanation": "정답: Chalcone"
     },
     {
       "id": 73,
       "question": "[2023-2 중간 27-②] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ② )에 들어갈 것은?",
       "choices": [
-        "① Chalcone",
-        "② Stilbene",
-        "③ Flavanone",
-        "④ flavonol",
-        "⑤ isoflavone"
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
       ],
-      "answer": "② Stilbene",
-      "explanation": "정답: ② Stilbene"
+      "answer": "Stilbene",
+      "explanation": "정답: Stilbene"
     },
     {
       "id": 74,
       "question": "[2023-2 중간 27-③] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ③ )에 들어갈 것은?",
       "choices": [
-        "① Chalcone",
-        "② Stilbene",
-        "③ Flavanone",
-        "④ flavonol",
-        "⑤ isoflavone"
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
       ],
-      "answer": "③ Flavanone",
-      "explanation": "정답: ③ Flavanone"
+      "answer": "Flavanone",
+      "explanation": "정답: Flavanone"
     },
     {
       "id": 75,
       "question": "[2023-2 중간 27-④] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ④ )에 들어갈 것은?",
       "choices": [
-        "① Chalcone",
-        "② Stilbene",
-        "③ Flavanone",
-        "④ flavonol",
-        "⑤ isoflavone"
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
       ],
-      "answer": "④ flavonol",
-      "explanation": "정답: ④ flavonol"
+      "answer": "flavonol",
+      "explanation": "정답: flavonol"
     },
     {
       "id": 76,
       "question": "[2023-2 중간 27-⑤] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ⑤ )에 들어갈 것은?",
       "choices": [
-        "① Chalcone",
-        "② Stilbene",
-        "③ Flavanone",
-        "④ flavonol",
-        "⑤ isoflavone"
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
       ],
-      "answer": "⑤ isoflavone",
-      "explanation": "정답: ⑤ isoflavone"
+      "answer": "isoflavone",
+      "explanation": "정답: isoflavone"
     },
     {
       "id": 77,
@@ -951,106 +951,106 @@
       "id": 78,
       "question": "[2023-2 중간 29-①] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ① )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "① aporphine",
-      "explanation": "정답: ① aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침."
+      "answer": "aporphine",
+      "explanation": "정답: aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침."
     },
     {
       "id": 79,
       "question": "[2023-2 중간 29-②] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ② )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "② morphine",
-      "explanation": "정답: ② morphine"
+      "answer": "morphine",
+      "explanation": "정답: morphine"
     },
     {
       "id": 80,
       "question": "[2023-2 중간 29-③] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ③ )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "③ quinoline",
-      "explanation": "정답: ③ quinoline"
+      "answer": "quinoline",
+      "explanation": "정답: quinoline"
     },
     {
       "id": 81,
       "question": "[2023-2 중간 29-④] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ④ )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "④ tetrahydroisoquinoline",
-      "explanation": "정답: ④ tetrahydroisoquinoline"
+      "answer": "tetrahydroisoquinoline",
+      "explanation": "정답: tetrahydroisoquinoline"
     },
     {
       "id": 82,
       "question": "[2023-2 중간 29-⑤] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑤ )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "⑤ indole",
-      "explanation": "정답: ⑤ indole"
+      "answer": "indole",
+      "explanation": "정답: indole"
     },
     {
       "id": 83,
       "question": "[2023-2 중간 29-⑥] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑥ )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "⑥ imidazole",
-      "explanation": "정답: ⑥ imidazole"
+      "answer": "imidazole",
+      "explanation": "정답: imidazole"
     },
     {
       "id": 84,
       "question": "[2023-2 중간 29-⑦] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑦ )에 들어갈 것은?",
       "choices": [
-        "① aporphine",
-        "② morphine",
-        "③ quinoline",
-        "④ tetrahydroisoquinoline",
-        "⑤ indole",
-        "⑥ imidazole",
-        "⑦ anthraquinone"
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
       ],
-      "answer": "⑦ anthraquinone",
-      "explanation": "정답: ⑦ anthraquinone"
+      "answer": "anthraquinone",
+      "explanation": "정답: anthraquinone"
     },
     {
       "id": 85,
