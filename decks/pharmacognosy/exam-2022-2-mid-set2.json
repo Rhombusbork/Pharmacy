@@ -1,0 +1,193 @@
+{
+  "deckId": "pharmacognosy-exam-2022-2-mid-set2",
+  "subject": "생약학",
+  "title": "2022-2 생약학1 중간고사 기출 · 세트 2/2 (주관1~주관18번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2022-2 중간 주관1] 다음 화합물의 계열은?\n[[img:pharmacognosy/images/2022-2-mid-s1.png|구조식]]",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논",
+        "quinone"
+      ],
+      "explanation": "정답: anthraquinone\n가운데 고리에 C=O 두 개, 양쪽 벤젠 고리 — 9,10-anthraquinone 골격."
+    },
+    {
+      "id": 2,
+      "question": "[2022-2 중간 주관2] 빈칸에 알맞은 말을 쓰시오. (monoterpene 골격)\n[[img:pharmacognosy/images/2022-2-mid-s2.png|monoterpene 골격]]",
+      "answer": [
+        "iridane",
+        "이리단"
+      ],
+      "explanation": "정답: iridane\ncyclopentane 고리에 isopropyl·methyl — iridane(iridoid의 골격)."
+    },
+    {
+      "id": 3,
+      "question": "[2022-2 중간 주관3] 빈칸에 알맞은 말을 쓰시오. (diterpene 골격)\n[[img:pharmacognosy/images/2022-2-mid-s3.png|diterpene 골격]]",
+      "answer": [
+        "taxane",
+        "탁산"
+      ],
+      "explanation": "정답: taxane\n6-8-6 고리 — taxane(paclitaxel 골격)."
+    },
+    {
+      "id": 4,
+      "question": "[2022-2 중간 주관4] 빈칸에 알맞은 말을 쓰시오. (triterpene 골격)\n[[img:pharmacognosy/images/2022-2-mid-s4.png|triterpene 골격]]",
+      "answer": [
+        "dammarane",
+        "다마란"
+      ],
+      "explanation": "정답: dammarane\n4환성, C17에 곁사슬 — dammarane(ginsenoside 골격)."
+    },
+    {
+      "id": 5,
+      "question": "[2022-2 중간 주관5] 다음 화합물 구조의 이름은?\n[[img:pharmacognosy/images/2022-2-mid-s5.png|구조식]]",
+      "answer": [
+        "cardenolide",
+        "카르데놀라이드"
+      ],
+      "explanation": "정답: cardenolide\nsteroid C17에 5원환 불포화 lactone — cardenolide(디기탈리스 강심배당체)."
+    },
+    {
+      "id": 6,
+      "question": "[2022-2 중간 주관6] 다음 화합물의 명칭은?\n[[img:pharmacognosy/images/2022-2-mid-s6.png|구조식]]",
+      "answer": [
+        "imidazole",
+        "이미다졸"
+      ],
+      "explanation": "정답: imidazole\n질소 2개(1,3위치)를 가진 5원 방향족 고리 — imidazole(histidine 유래 alkaloid 골격, 예: pilocarpine)."
+    },
+    {
+      "id": 7,
+      "question": "[2022-2 중간 주관7] 빈칸에 알맞은 말을 쓰시오. 다음 화합물들은 (    ) alkaloid의 구조이다.\n[[img:pharmacognosy/images/2022-2-mid-s7.png|구조식]]",
+      "answer": [
+        "benzyltetrahydroisoquinoline",
+        "bisbenzyltetrahydroisoquinoline",
+        "bisbenzylisoquinoline",
+        "benzylisoquinoline"
+      ],
+      "explanation": "정답: benzyltetrahydroisoquinoline\n족보 답: benzyltetrahydroisoquinoline. tubocurarine·curine 등은 이 단위 두 개가 이어진 bisbenzylisoquinoline."
+    },
+    {
+      "id": 8,
+      "question": "[2022-2 중간 주관8] 빈칸에 알맞은 말을 쓰시오.\n[[img:pharmacognosy/images/2022-2-mid-s8.png|β-carboline 변환]]",
+      "answer": [
+        "pyrroloquinoline",
+        "피롤로퀴놀린"
+      ],
+      "explanation": "정답: pyrroloquinoline\nβ-carboline(pyridoindole)이 재배열되어 pyrroloquinoline alkaloid(예: camptothecin)가 된다."
+    },
+    {
+      "id": 9,
+      "question": "[2022-2 중간 주관9] monoterpenoid indole alkaloid의 전구체는?",
+      "answer": [
+        "strictosidine",
+        "스트릭토시딘",
+        "tryptamine+secologanin",
+        "secologanin"
+      ],
+      "explanation": "정답: strictosidine\ntryptamine + secologanin → strictosidine — 모든 monoterpenoid indole alkaloid의 전구체."
+    },
+    {
+      "id": 10,
+      "question": "[2022-2 중간 주관10] 빈칸에 알맞은 말을 쓰시오. (flavonoid 골격)\n[[img:pharmacognosy/images/2022-2-mid-s10.png|flavonoid 골격]]",
+      "answer": [
+        "flavanone",
+        "플라바논"
+      ],
+      "explanation": "정답: flavanone\nC환 2,3위치가 단일결합인 4-keto — flavanone."
+    },
+    {
+      "id": 11,
+      "question": "[2022-2 중간 주관11] 다음 화합물을 합성하는 경로는?\n[[img:pharmacognosy/images/2022-2-mid-s11.png|schisandrin]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\nschisandrin — lignan(C6C3×2), shikimate 경로."
+    },
+    {
+      "id": 12,
+      "question": "[2022-2 중간 주관12] 다음 화합물의 계열은?\n[[img:pharmacognosy/images/2022-2-mid-s12.png|gentiopicroside]]",
+      "answer": [
+        "secoiridoid",
+        "세코이리도이드",
+        "secoiridoid glycoside"
+      ],
+      "explanation": "정답: secoiridoid\ngentiopicroside — secoiridoid 배당체."
+    },
+    {
+      "id": 13,
+      "question": "[2022-2 중간 주관13] 다음 구조(menthol)의 원료 물질(building block)을 쓰시오.\n[[img:pharmacognosy/images/2022-2-mid-s13.png|menthol]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\nmonoterpene: IPP + DMAPP(C5×2) → GPP(C10)."
+    },
+    {
+      "id": 14,
+      "question": "[2022-2 중간 주관14] 다음 화합물의 합성경로는?\n[[img:pharmacognosy/images/2022-2-mid-s14.png|loganin]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nloganin — iridoid(monoterpene), mevalonate 경로."
+    },
+    {
+      "id": 15,
+      "question": "[2022-2 중간 주관15] gentiopicroside의 합성경로는?\n[[img:pharmacognosy/images/2022-2-mid-s15.png|gentiopicroside]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nsecoiridoid — monoterpene 유래, mevalonate 경로."
+    },
+    {
+      "id": 16,
+      "question": "[2022-2 중간 주관16] chrysanthemic acid는 어떤 계열에 속하는가?\n[[img:pharmacognosy/images/2022-2-mid-s16.png|chrysanthemic acid]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "irregular monoterpene"
+      ],
+      "explanation": "정답: monoterpene\n족보 답: monoterpene 계열(chrysanthemane, 불규칙 monoterpene)."
+    },
+    {
+      "id": 17,
+      "question": "[2022-2 중간 주관17] 다음 화합물의 성분계열은?\n[[img:pharmacognosy/images/2022-2-mid-s17.png|podophyllotoxin]]",
+      "answer": [
+        "lignan",
+        "리그난"
+      ],
+      "explanation": "정답: lignan\n족보 답: Lignan(podophyllotoxin)."
+    },
+    {
+      "id": 18,
+      "question": "[2022-2 중간 주관18] 다음 화합물의 합성 경로는?\n[[img:pharmacognosy/images/2022-2-mid-s18.png|artemisinin]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nartemisinin — sesquiterpene lactone, mevalonate 경로."
+    }
+  ]
+}

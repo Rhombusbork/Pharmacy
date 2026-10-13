@@ -1,0 +1,259 @@
+{
+  "deckId": "pharmacognosy-exam-2023-1-mid-set3",
+  "subject": "생약학",
+  "title": "2023-1 생약학1 중간고사 기출 · 세트 3/4 (주관6번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-1 중간 주관6-cinnamaldehyde-경로] 다음 화합물(cinnamaldehyde)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-cinnamaldehyde.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n계피의 C6C3 화합물."
+    },
+    {
+      "id": 2,
+      "question": "[2023-1 중간 주관6-cinnamaldehyde-원료] 다음 화합물(cinnamaldehyde)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-cinnamaldehyde.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3",
+      "explanation": "정답: C6C3\n계피의 C6C3 화합물."
+    },
+    {
+      "id": 3,
+      "question": "[2023-1 중간 주관6-cinnamaldehyde-계열] 다음 화합물(cinnamaldehyde)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-cinnamaldehyde.png|구조식]]",
+      "answer": [
+        "phenylpropanoid",
+        "페닐프로파노이드"
+      ],
+      "explanation": "정답: phenylpropanoid\n계피의 C6C3 화합물."
+    },
+    {
+      "id": 4,
+      "question": "[2023-1 중간 주관6-loganin-경로] 다음 화합물(loganin)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-loganin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\ncyclopentane 고리가 남아 있는 iridoid 배당체(secologanin의 전구체)."
+    },
+    {
+      "id": 5,
+      "question": "[2023-1 중간 주관6-loganin-원료] 다음 화합물(loganin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-loganin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\ncyclopentane 고리가 남아 있는 iridoid 배당체(secologanin의 전구체)."
+    },
+    {
+      "id": 6,
+      "question": "[2023-1 중간 주관6-loganin-계열] 다음 화합물(loganin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-loganin.png|구조식]]",
+      "answer": [
+        "iridoid",
+        "이리도이드",
+        "iridoid glycoside"
+      ],
+      "explanation": "정답: iridoid\ncyclopentane 고리가 남아 있는 iridoid 배당체(secologanin의 전구체)."
+    },
+    {
+      "id": 7,
+      "question": "[2023-1 중간 주관6-magnolol-경로] 다음 화합물(magnolol)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-magnolol.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n후박의 neolignan — C6C3 두 개가 β-β′가 아닌 위치(방향환끼리)로 결합."
+    },
+    {
+      "id": 8,
+      "question": "[2023-1 중간 주관6-magnolol-원료] 다음 화합물(magnolol)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-magnolol.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3×2",
+      "explanation": "정답: C6C3×2\n후박의 neolignan — C6C3 두 개가 β-β′가 아닌 위치(방향환끼리)로 결합."
+    },
+    {
+      "id": 9,
+      "question": "[2023-1 중간 주관6-magnolol-계열] 다음 화합물(magnolol)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-magnolol.png|구조식]]",
+      "answer": [
+        "neolignan",
+        "네오리그난"
+      ],
+      "explanation": "정답: neolignan\n후박의 neolignan — C6C3 두 개가 β-β′가 아닌 위치(방향환끼리)로 결합."
+    },
+    {
+      "id": 10,
+      "question": "[2023-1 중간 주관6-podophyllotoxin-경로] 다음 화합물(podophyllotoxin)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-podophyllotoxin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\naryltetralin형 lignan(포도필룸) — 항암제 etoposide의 원료."
+    },
+    {
+      "id": 11,
+      "question": "[2023-1 중간 주관6-podophyllotoxin-원료] 다음 화합물(podophyllotoxin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-podophyllotoxin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3×2",
+      "explanation": "정답: C6C3×2\naryltetralin형 lignan(포도필룸) — 항암제 etoposide의 원료."
+    },
+    {
+      "id": 12,
+      "question": "[2023-1 중간 주관6-podophyllotoxin-계열] 다음 화합물(podophyllotoxin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-podophyllotoxin.png|구조식]]",
+      "answer": [
+        "lignan",
+        "리그난",
+        "aryltetralin lignan"
+      ],
+      "explanation": "정답: lignan\naryltetralin형 lignan(포도필룸) — 항암제 etoposide의 원료."
+    },
+    {
+      "id": 13,
+      "question": "[2023-1 중간 주관6-decursin-경로] 다음 화합물(decursin)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-decursin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\nshikimate(쿠마린 골격) + mevalonate(prenyl) 복합 경로."
+    },
+    {
+      "id": 14,
+      "question": "[2023-1 중간 주관6-decursin-원료] 다음 화합물(decursin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-decursin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3 + C5",
+      "explanation": "정답: C6C3 + C5\n참당귀의 pyranocoumarin."
+    },
+    {
+      "id": 15,
+      "question": "[2023-1 중간 주관6-decursin-계열] 다음 화합물(decursin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-decursin.png|구조식]]",
+      "answer": [
+        "pyranocoumarin",
+        "피라노쿠마린",
+        "coumarin",
+        "쿠마린"
+      ],
+      "explanation": "정답: pyranocoumarin\n참당귀의 pyranocoumarin."
+    },
+    {
+      "id": 16,
+      "question": "[2023-1 중간 주관6-elemene-경로] 다음 화합물(elemene)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-elemene.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nC15 sesquiterpene — 강한 항종양 활성."
+    },
+    {
+      "id": 17,
+      "question": "[2023-1 중간 주관6-elemene-원료] 다음 화합물(elemene)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-elemene.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×3",
+      "explanation": "정답: C5×3\nC15 sesquiterpene — 강한 항종양 활성."
+    },
+    {
+      "id": 18,
+      "question": "[2023-1 중간 주관6-elemene-계열] 다음 화합물(elemene)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-elemene.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpenoid"
+      ],
+      "explanation": "정답: sesquiterpene\nC15 sesquiterpene — 강한 항종양 활성."
+    },
+    {
+      "id": 19,
+      "question": "[2023-1 중간 주관6-artemisinin-경로] 다음 화합물(artemisinin)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-artemisinin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\n개똥쑥의 endoperoxide sesquiterpene lactone — 항말라리아."
+    },
+    {
+      "id": 20,
+      "question": "[2023-1 중간 주관6-artemisinin-원료] 다음 화합물(artemisinin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-artemisinin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×3",
+      "explanation": "정답: C5×3\n개똥쑥의 endoperoxide sesquiterpene lactone — 항말라리아."
+    },
+    {
+      "id": 21,
+      "question": "[2023-1 중간 주관6-artemisinin-계열] 다음 화합물(artemisinin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-artemisinin.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone",
+        "sesquiterpenoid"
+      ],
+      "explanation": "정답: sesquiterpene\n개똥쑥의 endoperoxide sesquiterpene lactone — 항말라리아."
+    }
+  ]
+}

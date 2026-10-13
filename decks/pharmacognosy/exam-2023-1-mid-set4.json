@@ -1,0 +1,253 @@
+{
+  "deckId": "pharmacognosy-exam-2023-1-mid-set4",
+  "subject": "생약학",
+  "title": "2023-1 생약학1 중간고사 기출 · 세트 4/4 (주관7~객관17번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-1 중간 주관7-(1)] 다음 식물 조직의 라틴 생약명을 적으시오.\n뿌리: Radix / 근경: Rhizoma / 종자: Semen / 꽃: Flos\n잎: ( 1 )",
+      "answer": [
+        "Folium",
+        "folia"
+      ],
+      "explanation": "정답: Folium\n잎 Folium, 과실 Fructus, 전초 Herba, 뿌리 Radix, 근경 Rhizoma, 종자 Semen, 꽃 Flos."
+    },
+    {
+      "id": 2,
+      "question": "[2023-1 중간 주관7-(2)] 다음 식물 조직의 라틴 생약명을 적으시오.\n뿌리: Radix / 근경: Rhizoma / 종자: Semen / 꽃: Flos\n과실: ( 2 )",
+      "answer": [
+        "Fructus"
+      ],
+      "explanation": "정답: Fructus\n잎 Folium, 과실 Fructus, 전초 Herba, 뿌리 Radix, 근경 Rhizoma, 종자 Semen, 꽃 Flos."
+    },
+    {
+      "id": 3,
+      "question": "[2023-1 중간 주관7-(3)] 다음 식물 조직의 라틴 생약명을 적으시오.\n뿌리: Radix / 근경: Rhizoma / 종자: Semen / 꽃: Flos\n전초: ( 3 )",
+      "answer": [
+        "Herba"
+      ],
+      "explanation": "정답: Herba\n잎 Folium, 과실 Fructus, 전초 Herba, 뿌리 Radix, 근경 Rhizoma, 종자 Semen, 꽃 Flos."
+    },
+    {
+      "id": 4,
+      "question": "[2023-1 중간 객관1] 마리아엉겅퀴에서 얻고 간질환에 사용하는 flavolignan은?",
+      "choices": [
+        "Silybin",
+        "gentiopicroside",
+        "podophyllotoxin",
+        "artemisinin",
+        "decursin"
+      ],
+      "answer": "Silybin",
+      "explanation": "정답: Silybin\nsilybin(silymarin의 주성분): 밀크시슬(마리아엉겅퀴)의 flavolignan, 간보호."
+    },
+    {
+      "id": 5,
+      "question": "[2023-1 중간 객관2] Shikonin-Alkannin의 성분계열은?",
+      "choices": [
+        "C Indole Alkaloid",
+        "Triterpene saponin",
+        "Flavolignan",
+        "Isothiocyanate glycoside",
+        "Naphthoquinone"
+      ],
+      "answer": "Naphthoquinone",
+      "explanation": "정답: Naphthoquinone\n자근의 적색 색소 shikonin/alkannin — naphthoquinone(shikimate + mevalonate 복합 경로)."
+    },
+    {
+      "id": 6,
+      "question": "[2023-1 중간 객관3] 다음 화합물은 어떤 계열에 속하는가?\n[[img:pharmacognosy/images/2023-1-mid-m3.png|구조식]]",
+      "choices": [
+        "lignan",
+        "phloroglucinol",
+        "phenylpropanoid",
+        "benzoquinone",
+        "xanthone"
+      ],
+      "answer": "phenylpropanoid",
+      "explanation": "정답: phenylpropanoid\ncinnamaldehyde — C6C3 phenylpropanoid(계피)."
+    },
+    {
+      "id": 7,
+      "question": "[2023-1 중간 객관4] 적작약의 성분인 paeoniflorin은 어떤 계열인가?",
+      "choices": [
+        "secoiridoid",
+        "phytosterol",
+        "monoterpene",
+        "carotenoid",
+        "cannabinoid"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\npaeoniflorin: pinane 골격 monoterpene 배당체(작약의 지표성분)."
+    },
+    {
+      "id": 8,
+      "question": "[2023-1 중간 객관5] 강심배당체를 검출하는 정색반응은?",
+      "choices": [
+        "Graham",
+        "Carr-Price",
+        "Keller-Killiani",
+        "Bontrager",
+        "murexide"
+      ],
+      "answer": "Keller-Killiani",
+      "explanation": "정답: Keller-Killiani\nKeller-Killiani 반응: 강심배당체의 2-deoxysugar 검출. Bontrager — anthraquinone, murexide — purine alkaloid, Carr-Price — vitamin A."
+    },
+    {
+      "id": 9,
+      "question": "[2023-1 중간 객관6] 강심배당체 중 Bufadienolide계 성분을 함유하는 생약은?",
+      "choices": [
+        "디기탈리스",
+        "털디기탈리스",
+        "스트로판투스(스트로판치자)",
+        "영란",
+        "해총"
+      ],
+      "answer": "해총",
+      "explanation": "정답: 해총\n해총(scillaren) — bufadienolide. 나머지는 cardenolide계."
+    },
+    {
+      "id": 10,
+      "question": "[2023-1 중간 객관7] 항혈액응고제 및 살서제로 사용되는 biscoumarin 계열 화합물의 구조로 올바른 것은?",
+      "choices": [
+        "[[img:pharmacognosy/images/2023-1-mid-m7a.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7b.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7c.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7d.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7e.png|보기 구조]]"
+      ],
+      "answer": "[[img:pharmacognosy/images/2023-1-mid-m7e.png|보기 구조]]",
+      "explanation": "정답: [[img:pharmacognosy/images/2023-1-mid-m7e.png|보기 구조]]\nwarfarin(4-hydroxycoumarin에 phenyl·acetonyl기). 자연물 dicoumarol(쿠마린 2개가 CH₂로 연결된 biscoumarin)을 바탕으로 합성된 항응고제이자 살서제(쥐약). PPT: 'Warfarin (a pesticide, rat poison)'."
+    },
+    {
+      "id": 11,
+      "question": "[2023-1 중간 객관8] 다음 중 polyketide 계열인 것은?\nㄱ. Coumarin  ㄴ. Phthalide  ㄷ. Lignan  ㄹ. Anthraquinone",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "정답: ㄴ, ㄹ\nphthalide·anthraquinone(emodin형)은 acetate-malonate(polyketide) 경로. coumarin·lignan은 shikimate 경로."
+    },
+    {
+      "id": 12,
+      "question": "[2023-1 중간 객관9] 다음 물질이 해당하는 계열을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m9.png|구조식]]",
+      "choices": [
+        "steroid",
+        "saponin",
+        "curcuminoid",
+        "lignan",
+        "sesquiterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\ndecalin(eudesmane) 골격 + α-methylene-γ-lactone — sesquiterpene lactone(alantolactone류)."
+    },
+    {
+      "id": 13,
+      "question": "[2023-1 중간 객관10] 쿠마린이 주로 포함된 과가 아닌 것은?",
+      "choices": [
+        "미나리과",
+        "두과",
+        "꿀풀과",
+        "국화과",
+        "운향과"
+      ],
+      "answer": "꿀풀과",
+      "explanation": "정답: 꿀풀과\nPPT: coumarin은 Umbelliferae(미나리과), Rutaceae(운향과), Leguminosae(두과), Compositae(국화과)에 널리 분포."
+    },
+    {
+      "id": 14,
+      "question": "[2023-1 중간 객관11] mevalonate pathway에 속하는 화합물군은?\nㄱ. saponins  ㄴ. phthalides  ㄷ. terpenoid  ㄹ. Anthraquinone",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nsaponin(triterpene·steroid)과 terpenoid가 mevalonate 경로. phthalide·anthraquinone은 polyketide."
+    },
+    {
+      "id": 15,
+      "question": "[2023-1 중간 객관12] 다음 화합물의 계열로 올바른 것은?\n[[img:pharmacognosy/images/2023-1-mid-m12.png|구조식]]",
+      "choices": [
+        "phloroglucinol",
+        "diarylheptanoid",
+        "phthalide",
+        "steroidal saponin",
+        "withanolide"
+      ],
+      "answer": "diarylheptanoid",
+      "explanation": "정답: diarylheptanoid\ncurcumin류: heptane의 1,7위치에 phenyl기 — diarylheptanoid(curcuminoid)."
+    },
+    {
+      "id": 16,
+      "question": "[2023-1 중간 객관13] 다음 화합물의 계열로 올바른 것은?\n[[img:pharmacognosy/images/2023-1-mid-m13.png|구조식]]",
+      "choices": [
+        "anthraquinone",
+        "isoflavonoid",
+        "pyranocoumarin",
+        "phenylpropanoid",
+        "isocoumarin"
+      ],
+      "answer": "pyranocoumarin",
+      "explanation": "정답: pyranocoumarin\ndecursin — 쿠마린(파랑)에 prenyl 유래 pyran 고리(빨강)가 붙은 pyranocoumarin."
+    },
+    {
+      "id": 17,
+      "question": "[2023-1 중간 객관14] 다음 중 그림과 알맞은 물질을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m14.png|구조식]]",
+      "choices": [
+        "Amygdalin",
+        "Hypericin",
+        "Caffeine",
+        "Paeoniflorin",
+        "Daidzein"
+      ],
+      "answer": "Paeoniflorin",
+      "explanation": "정답: Paeoniflorin\npinane(cage) 골격 + glucose + benzoyl — paeoniflorin(작약)."
+    },
+    {
+      "id": 18,
+      "question": "[2023-1 중간 객관15] 다음 중 secoiridoid에 속하는 성분은?",
+      "choices": [
+        "perezone",
+        "asiaticoside",
+        "gentiopicroside",
+        "atractylon",
+        "kadsurenone"
+      ],
+      "answer": "gentiopicroside",
+      "explanation": "정답: gentiopicroside\ngentiopicroside(용담) — secoiridoid 배당체."
+    },
+    {
+      "id": 19,
+      "question": "[2023-1 중간 객관16] 다음 강심배당체에 포함된 당 구조의 이름은?\n[[img:pharmacognosy/images/2023-1-mid-m16.png|당 구조]]",
+      "choices": [
+        "oleandrose",
+        "rhamnose",
+        "sarmentose",
+        "cymarose",
+        "vallarose"
+      ],
+      "answer": "cymarose",
+      "explanation": "정답: cymarose\n2,6-dideoxy + 3-O-methyl 당 — cymarose(cymarin의 당). 족보에 답 ④로 표시됨."
+    },
+    {
+      "id": 20,
+      "question": "[2023-1 중간 객관17] shikonin-alkannin의 계열은?",
+      "choices": [
+        "naphthoquinone",
+        "limonoid",
+        "anthraquinone",
+        "benzoquinone",
+        "quassinoid"
+      ],
+      "answer": "naphthoquinone",
+      "explanation": "정답: naphthoquinone\n자근의 적색 색소 — naphthoquinone."
+    }
+  ]
+}

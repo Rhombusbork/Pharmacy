@@ -1,0 +1,242 @@
+{
+  "deckId": "pharmacognosy-exam-2020-2-mid-set1",
+  "subject": "생약학",
+  "title": "2020-2 생약학1 중간고사 기출 · 세트 1/5 (1~3번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2020-2 중간 1-GPP] DMAPP + IPP = GPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 2,
+      "question": "[2020-2 중간 1-FPP] GPP + IPP = FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 3,
+      "question": "[2020-2 중간 1-GGPP] FPP + IPP = GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "diterpene",
+      "explanation": "정답: diterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 4,
+      "question": "[2020-2 중간 1-GFPP] GGPP + IPP = GFPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesterterpene",
+      "explanation": "정답: sesterterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 5,
+      "question": "[2020-2 중간 1-2×FPP] FPP + FPP = 2×FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "triterpene",
+      "explanation": "정답: triterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 6,
+      "question": "[2020-2 중간 1-2×GGPP] GGPP + GGPP = 2×GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "tetraterpene",
+      "explanation": "정답: tetraterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene."
+    },
+    {
+      "id": 7,
+      "question": "[2020-2 중간 2-ⓐ] true alkaloid는 아미노산 유래의 ( ⓐ )의 강한 생리활성을 나타내고 ( ⓑ ) 이다.\nⓐ는?",
+      "answer": [
+        "염기성",
+        "염기"
+      ],
+      "explanation": "정답: 염기성\nPPT: 'Amino acid 유래의 염기성의 강한 생리활성을 나타내고 함질소 이성환 화합물'."
+    },
+    {
+      "id": 8,
+      "question": "[2020-2 중간 2-ⓑ] true alkaloid는 아미노산 유래의 ( ⓐ )의 강한 생리활성을 나타내고 ( ⓑ ) 이다.\nⓑ는?",
+      "answer": [
+        "함질소 이성환 화합물",
+        "함질소이성환화합물",
+        "함질소 이성환상 화합물",
+        "함질소이성환",
+        "함질소 이성환"
+      ],
+      "explanation": "정답: 함질소 이성환 화합물\nPPT: '… 함질소 이성환 화합물'."
+    },
+    {
+      "id": 9,
+      "question": "[2020-2 중간 3-icariin-경로] 다음 화합물(icariin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-icariin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\npolyketide + shikimate + mevalonate 경로(prenylated flavonoid, 음양곽)."
+    },
+    {
+      "id": 10,
+      "question": "[2020-2 중간 3-icariin-계열] 다음 화합물(icariin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-icariin.png|구조식]]",
+      "answer": [
+        "flavonoid",
+        "플라보노이드",
+        "prenylated flavonoid",
+        "flavonol"
+      ],
+      "explanation": "정답: flavonoid\npolyketide + shikimate + mevalonate 경로(prenylated flavonoid, 음양곽)."
+    },
+    {
+      "id": 11,
+      "question": "[2020-2 중간 3-elemene-경로] 다음 화합물(elemene)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-elemene.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nC15 sesquiterpene."
+    },
+    {
+      "id": 12,
+      "question": "[2020-2 중간 3-elemene-계열] 다음 화합물(elemene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-elemene.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜"
+      ],
+      "explanation": "정답: sesquiterpene\nC15 sesquiterpene."
+    },
+    {
+      "id": 13,
+      "question": "[2020-2 중간 3-aspidin-경로] 다음 화합물(aspidin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-aspidin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "acetate-malonate (polyketide) pathway",
+      "explanation": "정답: acetate-malonate (polyketide) pathway\n관중의 phloroglucinol 유도체(조충구제) — acetate-malonate."
+    },
+    {
+      "id": 14,
+      "question": "[2020-2 중간 3-aspidin-계열] 다음 화합물(aspidin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-aspidin.png|구조식]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n관중의 phloroglucinol 유도체(조충구제) — acetate-malonate."
+    },
+    {
+      "id": 15,
+      "question": "[2020-2 중간 3-limonene-경로] 다음 화합물(limonene)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-limonene.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\np-menthane계 monoterpene(레몬 정유)."
+    },
+    {
+      "id": 16,
+      "question": "[2020-2 중간 3-limonene-계열] 다음 화합물(limonene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-limonene.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜"
+      ],
+      "explanation": "정답: monoterpene\np-menthane계 monoterpene(레몬 정유)."
+    },
+    {
+      "id": 17,
+      "question": "[2020-2 중간 3-artemisinin-경로] 다음 화합물(artemisinin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-artemisinin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nsesquiterpene lactone(endoperoxide)."
+    },
+    {
+      "id": 18,
+      "question": "[2020-2 중간 3-artemisinin-계열] 다음 화합물(artemisinin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-artemisinin.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone"
+      ],
+      "explanation": "정답: sesquiterpene\nsesquiterpene lactone(endoperoxide)."
+    },
+    {
+      "id": 19,
+      "question": "[2020-2 중간 3-iridodial-경로] 다음 화합물(iridodial)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-iridodial.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\niridoid(monoterpene)의 기본 구조, hemiacetal형."
+    },
+    {
+      "id": 20,
+      "question": "[2020-2 중간 3-iridodial-계열] 다음 화합물(iridodial)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-iridodial.png|구조식]]",
+      "answer": [
+        "iridoid",
+        "이리도이드",
+        "monoterpene"
+      ],
+      "explanation": "정답: iridoid\niridoid(monoterpene)의 기본 구조, hemiacetal형."
+    }
+  ]
+}

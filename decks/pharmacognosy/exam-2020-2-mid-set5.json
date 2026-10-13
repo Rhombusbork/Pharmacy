@@ -1,0 +1,250 @@
+{
+  "deckId": "pharmacognosy-exam-2020-2-mid-set5",
+  "subject": "생약학",
+  "title": "2020-2 생약학1 중간고사 기출 · 세트 5/5 (주8~주11번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2020-2 중간 주8-국화과-보존명] 과명·보존명·합법명 적기\n국화과의 보존명(conserved name)은?",
+      "answer": [
+        "Compositae"
+      ],
+      "explanation": "정답: Compositae\nPPT 표: 국화과 — 보존명 Compositae, 합법명 Asteraceae."
+    },
+    {
+      "id": 2,
+      "question": "[2020-2 중간 주8-국화과-합법명] 과명·보존명·합법명 적기\n국화과의 합법명(legitimate name)은?",
+      "answer": [
+        "Asteraceae"
+      ],
+      "explanation": "정답: Asteraceae\nPPT 표: 국화과 — 보존명 Compositae, 합법명 Asteraceae."
+    },
+    {
+      "id": 3,
+      "question": "[2020-2 중간 주8-물레나물과-보존명] 과명·보존명·합법명 적기\n물레나물과의 보존명(conserved name)은?",
+      "answer": [
+        "Guttiferae"
+      ],
+      "explanation": "정답: Guttiferae\nPPT 표: 물레나물과 — 보존명 Guttiferae, 합법명 Clusiaceae."
+    },
+    {
+      "id": 4,
+      "question": "[2020-2 중간 주8-물레나물과-합법명] 과명·보존명·합법명 적기\n물레나물과의 합법명(legitimate name)은?",
+      "answer": [
+        "Clusiaceae",
+        "Hypericaceae"
+      ],
+      "explanation": "정답: Clusiaceae\nPPT 표: 물레나물과 — 보존명 Guttiferae, 합법명 Clusiaceae."
+    },
+    {
+      "id": 5,
+      "question": "[2020-2 중간 주8-산형과(미나리과)-보존명] 과명·보존명·합법명 적기\n산형과(미나리과)의 보존명(conserved name)은?",
+      "answer": [
+        "Umbelliferae"
+      ],
+      "explanation": "정답: Umbelliferae\nPPT 표: 산형과(미나리과) — 보존명 Umbelliferae, 합법명 Apiaceae."
+    },
+    {
+      "id": 6,
+      "question": "[2020-2 중간 주8-산형과(미나리과)-합법명] 과명·보존명·합법명 적기\n산형과(미나리과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Apiaceae"
+      ],
+      "explanation": "정답: Apiaceae\nPPT 표: 산형과(미나리과) — 보존명 Umbelliferae, 합법명 Apiaceae."
+    },
+    {
+      "id": 7,
+      "question": "[2020-2 중간 주8-십자화과-보존명] 과명·보존명·합법명 적기\n십자화과의 보존명(conserved name)은?",
+      "answer": [
+        "Cruciferae"
+      ],
+      "explanation": "정답: Cruciferae\nPPT 표: 십자화과 — 보존명 Cruciferae, 합법명 Brassicaceae."
+    },
+    {
+      "id": 8,
+      "question": "[2020-2 중간 주8-십자화과-합법명] 과명·보존명·합법명 적기\n십자화과의 합법명(legitimate name)은?",
+      "answer": [
+        "Brassicaceae"
+      ],
+      "explanation": "정답: Brassicaceae\nPPT 표: 십자화과 — 보존명 Cruciferae, 합법명 Brassicaceae."
+    },
+    {
+      "id": 9,
+      "question": "[2020-2 중간 주8-벼과(화본과)-보존명] 과명·보존명·합법명 적기\n벼과(화본과)의 보존명(conserved name)은?",
+      "answer": [
+        "Gramineae"
+      ],
+      "explanation": "정답: Gramineae\nPPT 표: 벼과(화본과) — 보존명 Gramineae, 합법명 Poaceae. (족보 표기는 '배과'였으나 PPT 표의 벼과(화본과)로 판단)"
+    },
+    {
+      "id": 10,
+      "question": "[2020-2 중간 주8-벼과(화본과)-합법명] 과명·보존명·합법명 적기\n벼과(화본과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Poaceae"
+      ],
+      "explanation": "정답: Poaceae\nPPT 표: 벼과(화본과) — 보존명 Gramineae, 합법명 Poaceae. (족보 표기는 '배과'였으나 PPT 표의 벼과(화본과)로 판단)"
+    },
+    {
+      "id": 11,
+      "question": "[2020-2 중간 주9-KP] 약자의 full name: KP",
+      "answer": [
+        "Korean Pharmacopoeia",
+        "Korean Pharmacopeia",
+        "대한민국약전",
+        "대한민국 약전"
+      ],
+      "explanation": "정답: Korean Pharmacopoeia\nKP = Korean Pharmacopoeia(대한민국약전)."
+    },
+    {
+      "id": 12,
+      "question": "[2020-2 중간 주9-CP] 약자의 full name: CP",
+      "answer": [
+        "Chinese Pharmacopoeia",
+        "Chinese Pharmacopeia",
+        "중국약전",
+        "중화인민공화국약전"
+      ],
+      "explanation": "정답: Chinese Pharmacopoeia\nCP(ChP) = Chinese Pharmacopoeia(중국약전)."
+    },
+    {
+      "id": 13,
+      "question": "[2020-2 중간 주9-JP] 약자의 full name: JP",
+      "answer": [
+        "Japanese Pharmacopoeia",
+        "Japanese Pharmacopeia",
+        "일본약국방",
+        "일본약전"
+      ],
+      "explanation": "정답: Japanese Pharmacopoeia\nJP = Japanese Pharmacopoeia(일본약국방)."
+    },
+    {
+      "id": 14,
+      "question": "[2020-2 중간 주10-잎] 약용부위의 라틴 생약명을 적으시오: 잎",
+      "answer": [
+        "Folium"
+      ],
+      "explanation": "정답: Folium\n잎 Folium, 과실 Fructus, 전초 Herba."
+    },
+    {
+      "id": 15,
+      "question": "[2020-2 중간 주10-과실] 약용부위의 라틴 생약명을 적으시오: 과실",
+      "answer": [
+        "Fructus"
+      ],
+      "explanation": "정답: Fructus\n잎 Folium, 과실 Fructus, 전초 Herba."
+    },
+    {
+      "id": 16,
+      "question": "[2020-2 중간 주10-전초] 약용부위의 라틴 생약명을 적으시오: 전초",
+      "answer": [
+        "Herba"
+      ],
+      "explanation": "정답: Herba\n잎 Folium, 과실 Fructus, 전초 Herba."
+    },
+    {
+      "id": 17,
+      "question": "[2020-2 중간 주11-Ornithine] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Tropane, Pyrrolidine, Pyrrolizidine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Ornithine",
+      "explanation": "정답: Ornithine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 18,
+      "question": "[2020-2 중간 주11-Lysine] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Piperidine, Quinolizidine, Indolizidine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Lysine",
+      "explanation": "정답: Lysine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 19,
+      "question": "[2020-2 중간 주11-Nicotinic acid] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Pyridine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Nicotinic acid",
+      "explanation": "정답: Nicotinic acid\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 20,
+      "question": "[2020-2 중간 주11-Phenylalanine] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Phenylethylamine, Isoquinoline, Phenethylisoquinoline, Amaryllidaceous Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Phenylalanine",
+      "explanation": "정답: Phenylalanine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 21,
+      "question": "[2020-2 중간 주11-Tryptophan] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Tryptamine, Indole, β-Carboline, Monoterpene indole, Quinoline, Pyrroloquinoline, Ergot Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Tryptophan",
+      "explanation": "정답: Tryptophan\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 22,
+      "question": "[2020-2 중간 주11-Histidine] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Imidazole Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Histidine",
+      "explanation": "정답: Histidine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    },
+    {
+      "id": 23,
+      "question": "[2020-2 중간 주11-Anthranilic acid] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Quinazoline, Quinoline, Acridine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Anthranilic acid",
+      "explanation": "정답: Anthranilic acid\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk."
+    }
+  ]
+}

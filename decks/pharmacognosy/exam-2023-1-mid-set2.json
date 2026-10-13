@@ -1,0 +1,215 @@
+{
+  "deckId": "pharmacognosy-exam-2023-1-mid-set2",
+  "subject": "생약학",
+  "title": "2023-1 생약학1 중간고사 기출 · 세트 2/4 (주관5~주관6번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-1 중간 주관5-(1)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 1 )에 들어갈 골격은?",
+      "answer": [
+        "cholestane",
+        "콜레스탄"
+      ],
+      "explanation": "정답: cholestane\nC27, C17에 8탄소 곁사슬 — cholestane."
+    },
+    {
+      "id": 2,
+      "question": "[2023-1 중간 주관5-(2)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 2 )에 들어갈 골격은?",
+      "answer": [
+        "stigmastane",
+        "스티그마스탄"
+      ],
+      "explanation": "정답: stigmastane\nC29, C24에 ethyl기 — stigmastane(β-sitosterol 골격). ergostane은 C24에 methyl."
+    },
+    {
+      "id": 3,
+      "question": "[2023-1 중간 주관5-(3)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 3 )에 들어갈 골격은?",
+      "answer": [
+        "cardenolide",
+        "카르데놀라이드"
+      ],
+      "explanation": "정답: cardenolide\nC17에 5원환 불포화 lactone(butenolide) — cardenolide. 6원환 lactone이면 bufadienolide."
+    },
+    {
+      "id": 4,
+      "question": "[2023-1 중간 주관5-(4)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 4 )에 들어갈 골격은?",
+      "answer": [
+        "lupane",
+        "루판"
+      ],
+      "explanation": "정답: lupane\nE환이 5원환이고 C19에 isopropenyl(C29/C30) — lupane."
+    },
+    {
+      "id": 5,
+      "question": "[2023-1 중간 주관5-(5)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 5 )에 들어갈 골격은?",
+      "answer": [
+        "dammarane",
+        "다마란"
+      ],
+      "explanation": "정답: dammarane\n4환성, C8·C14에 methyl, C17에 곁사슬 — dammarane(인삼 ginsenoside 골격)."
+    },
+    {
+      "id": 6,
+      "question": "[2023-1 중간 주관5-(6)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 6 )에 들어갈 골격은?",
+      "answer": [
+        "ursane",
+        "우르산"
+      ],
+      "explanation": "정답: ursane\n5환성, C19와 C20에 methyl이 하나씩 — ursane."
+    },
+    {
+      "id": 7,
+      "question": "[2023-1 중간 주관5-(7)] 빈칸에 알맞은 골격 이름을 적으시오.\n[[img:pharmacognosy/images/2023-1-mid-q5.png|steroid·triterpene 기본골격]]\n( 7 )에 들어갈 골격은?",
+      "answer": [
+        "oleanane",
+        "올레아난"
+      ],
+      "explanation": "정답: oleanane\n5환성, C20에 gem-dimethyl(C29, C30) — oleanane."
+    },
+    {
+      "id": 8,
+      "question": "[2023-1 중간 주관6-schisandrin-경로] 다음 화합물(schisandrin)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-schisandrin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n오미자의 dibenzocyclooctadiene형 lignan(C6C3 두 개가 β-β′ 결합)."
+    },
+    {
+      "id": 9,
+      "question": "[2023-1 중간 주관6-schisandrin-원료] 다음 화합물(schisandrin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-schisandrin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3×2",
+      "explanation": "정답: C6C3×2\n오미자의 dibenzocyclooctadiene형 lignan(C6C3 두 개가 β-β′ 결합)."
+    },
+    {
+      "id": 10,
+      "question": "[2023-1 중간 주관6-schisandrin-계열] 다음 화합물(schisandrin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-schisandrin.png|구조식]]",
+      "answer": [
+        "lignan",
+        "리그난",
+        "dibenzocyclooctadiene lignan"
+      ],
+      "explanation": "정답: lignan\n오미자의 dibenzocyclooctadiene형 lignan(C6C3 두 개가 β-β′ 결합)."
+    },
+    {
+      "id": 11,
+      "question": "[2023-1 중간 주관6-menthol-경로] 다음 화합물(menthol)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-menthol.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\np-menthane 골격 monoterpene(박하)."
+    },
+    {
+      "id": 12,
+      "question": "[2023-1 중간 주관6-menthol-원료] 다음 화합물(menthol)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-menthol.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\np-menthane 골격 monoterpene(박하)."
+    },
+    {
+      "id": 13,
+      "question": "[2023-1 중간 주관6-menthol-계열] 다음 화합물(menthol)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-menthol.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid"
+      ],
+      "explanation": "정답: monoterpene\np-menthane 골격 monoterpene(박하)."
+    },
+    {
+      "id": 14,
+      "question": "[2023-1 중간 주관6-chrysanthemic acid-경로] 다음 화합물(chrysanthemic acid)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-chrysanthemic.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제."
+    },
+    {
+      "id": 15,
+      "question": "[2023-1 중간 주관6-chrysanthemic acid-원료] 다음 화합물(chrysanthemic acid)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-chrysanthemic.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제."
+    },
+    {
+      "id": 16,
+      "question": "[2023-1 중간 주관6-chrysanthemic acid-계열] 다음 화합물(chrysanthemic acid)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-chrysanthemic.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid",
+        "irregular monoterpene"
+      ],
+      "explanation": "정답: monoterpene\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제."
+    },
+    {
+      "id": 17,
+      "question": "[2023-1 중간 주관6-gentiopicroside-경로] 다음 화합물(gentiopicroside)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-gentiopicroside.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\n용담의 고미 성분, secoiridoid 배당체 — 고미건위."
+    },
+    {
+      "id": 18,
+      "question": "[2023-1 중간 주관6-gentiopicroside-원료] 다음 화합물(gentiopicroside)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-gentiopicroside.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\n용담의 고미 성분, secoiridoid 배당체 — 고미건위."
+    },
+    {
+      "id": 19,
+      "question": "[2023-1 중간 주관6-gentiopicroside-계열] 다음 화합물(gentiopicroside)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-gentiopicroside.png|구조식]]",
+      "answer": [
+        "secoiridoid",
+        "세코이리도이드",
+        "secoiridoid glycoside"
+      ],
+      "explanation": "정답: secoiridoid\n용담의 고미 성분, secoiridoid 배당체 — 고미건위."
+    }
+  ]
+}
