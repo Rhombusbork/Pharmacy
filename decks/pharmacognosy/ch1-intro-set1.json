@@ -1,0 +1,337 @@
+{
+  "deckId": "pharmacognosy-ch1-intro-set1",
+  "subject": "생약학",
+  "title": "Ch1 총론 · 세트 1/4 (생약학 개론·taxol·약전·과명)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT 1-2 p.2] 'Pharmacognosy'의 어원으로 옳은 것은?",
+      "choices": [
+        "pharmacon(약·독) + gnosis(앎)",
+        "pharmacon(약) + logos(학문)",
+        "pharmacia(약국) + cognosco(보다)",
+        "phyto(식물) + gnosis(앎)",
+        "pharmacon(약) + chemia(화학)"
+      ],
+      "answer": "pharmacon(약·독) + gnosis(앎)",
+      "explanation": "정답: pharmacon + gnosis\nPPT 1-2 p.2: pharmacon = a drug or poisons(그리스어), gnosis(gignosco) = knowledge(그리스어) 또는 라틴어 cognosco 'to know about'. 'Pharm(drug) + cogn(know)'."
+    },
+    {
+      "id": 2,
+      "question": "[PPT 1-2 p.3] '生藥學'이라는 이름은 무엇에서 온 말인가?",
+      "choices": [
+        "Crude Drugs",
+        "Natural Medicines",
+        "Herbal Remedies",
+        "Folk Medicines",
+        "Medicinal Chemistry"
+      ],
+      "answer": "Crude Drugs",
+      "explanation": "정답: Crude Drugs\nPPT 1-2 p.3: '生藥學' from 'Crude Drugs'. 생약학의 범주: 본초학, ethnopharmacology(민간약), bioassay, 천연자원 수집·감정, 재배·식물세포배양, 천연물화학(분리·구조결정), 품질 표준화, 유도체 합성."
+    },
+    {
+      "id": 3,
+      "question": "[PPT 1-2 p.4] Aspirin의 기원이 된 식물은?",
+      "choices": [
+        "버드나무 (Salix alba)",
+        "주목 (Taxus brevifolia)",
+        "양귀비 (Papaver somniferum)",
+        "기나나무 (Cinchona succirubra)",
+        "감초 (Glycyrrhiza glabra)"
+      ],
+      "answer": "버드나무 (Salix alba)",
+      "explanation": "정답: 버드나무(Salix alba)\nBC 400 Hippocrates가 버드나무 껍질·잎을 진통·해열에 처방 → salicin에서 salicylic acid(위·입 자극 심함) → 1897 Felix Hoffmann이 안정한 acetylsalicylic acid(aspirin, 반합성 의약품)를 만듦."
+    },
+    {
+      "id": 4,
+      "question": "[PPT 1-2 p.4] Aspirin 역사에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "1897년 Felix Hoffmann이 acetylsalicylic acid를 만들었다",
+        "aspirin은 반합성(semi-synthetic) 의약품이다",
+        "1971년 John Vane은 aspirin이 prostaglandin 생성을 억제한다고 제안했다",
+        "salicylic acid는 위와 입에 자극이 심했다",
+        "aspirin은 주목 껍질에서 처음 분리되었다"
+      ],
+      "answer": "aspirin은 주목 껍질에서 처음 분리되었다",
+      "explanation": "정답: '주목 껍질에서 처음 분리' (틀림)\n주목(Taxus brevifolia) 껍질에서 분리된 것은 taxol. aspirin은 버드나무의 salicin에서 출발. 1948년 Craven은 aspirin이 심장마비 위험을 줄인다는 것을 관찰."
+    },
+    {
+      "id": 5,
+      "question": "[기출 2021-2·2023-2] 빈칸을 채우시오.\n주목나무의 항암제 성분 ( P      )",
+      "answer": [
+        "paclitaxel",
+        "파클리탁셀",
+        "taxol"
+      ],
+      "explanation": "정답: paclitaxel (상품명 Taxol)\nPPT 1-2 p.5: Taxol®(paclitaxel, generic name), a mitotic inhibitor — from a yew tree(朱木).\n출처: 2021-2 중간 1-1) · 2023-2 중간 1-1) (2회 출제)"
+    },
+    {
+      "id": 6,
+      "question": "[PPT 1-2 p.5] Taxol(paclitaxel)의 작용 기전은?",
+      "choices": [
+        "미세소관(microtubule) 중합체를 안정화하여 해체를 막는다",
+        "미세소관 중합을 억제한다",
+        "topoisomerase I을 저해한다",
+        "DNA를 알킬화한다",
+        "prostaglandin 생성을 억제한다"
+      ],
+      "answer": "미세소관(microtubule) 중합체를 안정화하여 해체를 막는다",
+      "explanation": "정답: 미세소관 안정화\nPPT: 'stabilizes the microtubule polymer and protects it from disassembly' — mitotic inhibitor. 적응증: 폐암, 난소암, 유방암, 두경부암, Kaposi 육종."
+    },
+    {
+      "id": 7,
+      "question": "[PPT 1-2 p.5] Taxol을 처음 분리한 식물과 부위는?",
+      "choices": [
+        "Pacific yew (Taxus brevifolia)의 수피",
+        "Taxus baccata의 잎",
+        "버드나무의 수피",
+        "Catharanthus roseus의 잎",
+        "Podophyllum의 뿌리"
+      ],
+      "answer": "Pacific yew (Taxus brevifolia)의 수피",
+      "explanation": "정답: Taxus brevifolia(태평양주목)의 수피\n1967 NCI 프로그램(Research Triangle Institute)에서 분리해 taxol로 명명. BMS가 상품화하며 일반명을 paclitaxel로 바꾸고 TAXOL은 상표가 됨."
+    },
+    {
+      "id": 8,
+      "question": "[PPT 1-2 p.8] 1981년 Potier가 Taxus baccata 잎에서 분리하여 taxol 반합성의 원료가 된 화합물은?",
+      "choices": [
+        "10-deacetylbaccatin (III)",
+        "salicin",
+        "docetaxel",
+        "taxane",
+        "podophyllotoxin"
+      ],
+      "answer": "10-deacetylbaccatin (III)",
+      "explanation": "정답: 10-deacetylbaccatin\n잎은 다시 자라므로 나무를 베지 않아도 된다. 1988 반합성 경로 발표 → 1992 Holton 수율 80% 공정 → 1995 Pacific yew 사용 중단 → 현재는 식물세포배양(PCF) 기술. 합성 경쟁에서 docetaxel이 나옴."
+    },
+    {
+      "id": 9,
+      "question": "[PPT 1-2 p.5·8] 현재 taxol 생산에 쓰이는 PCF 기술은 무엇의 약자인가?",
+      "choices": [
+        "plant cell fermentation",
+        "pure compound fractionation",
+        "polymerase chain fermentation",
+        "plant crude formulation",
+        "partial chemical fusion"
+      ],
+      "answer": "plant cell fermentation",
+      "explanation": "정답: plant cell fermentation (식물세포 배양 발효)\n1993년에는 주목에 사는 곰팡이(Nodulisporium sylviforme)에서도 taxol이 발견되었다."
+    },
+    {
+      "id": 10,
+      "question": "[PPT 1-2 p.7] Taxol 개발 역사에서 '나무 껍질 수요' 문제와 관련된 사실로 옳은 것은?",
+      "choices": [
+        "미국 환자를 모두 치료하려면 매년 약 36만 그루를 베어야 한다는 환경 문제가 제기되었다",
+        "1967년부터 처음부터 반합성으로만 생산되었다",
+        "1992년 FDA 승인 후에도 Pacific yew 사용은 계속 늘었다",
+        "1969년 수피 1,200 kg에서 순수 taxol 10 kg을 얻었다"
+      ],
+      "answer": "미국 환자를 모두 치료하려면 매년 약 36만 그루를 베어야 한다는 환경 문제가 제기되었다",
+      "explanation": "정답: 매년 약 36만 그루 벌목 문제\n1969년 수피 1,200 kg → 조추출물 28 kg → 순수 10 g. 1988년 'Annual destruction of 360,000 trees to treat all US cases'. 1995년 Pacific yew 사용 중단."
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: KP",
+      "answer": [
+        "Korean Pharmacopoeia",
+        "Korean Pharmacopeia",
+        "대한민국약전",
+        "대한민국 약전"
+      ],
+      "explanation": "정답: Korean Pharmacopoeia (대한민국약전)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: CP",
+      "answer": [
+        "Chinese Pharmacopoeia",
+        "Chinese Pharmacopeia",
+        "중국약전",
+        "중화인민공화국약전"
+      ],
+      "explanation": "정답: Chinese Pharmacopoeia (ChP라고도 씀)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: JP",
+      "answer": [
+        "Japanese Pharmacopoeia",
+        "Japanese Pharmacopeia",
+        "일본약국방",
+        "일본약전"
+      ],
+      "explanation": "정답: Japanese Pharmacopoeia (일본약국방)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2021-2] True or False\n대한민국약전외한약(생약)규격집의 약칭은 KHP이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\nKHP = Korean Herbal Pharmacopoeia (大韓民國藥典外 韓藥(生藥)規格輯).\n출처: 2021-2 중간 2-1)"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2023-1·2023-2] True or False\n대한민국 약전 외 한약(생약) 규격집을 KP라고 한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\nKP는 대한민국약전(Korean Pharmacopoeia), 약전외 한약(생약)규격집은 KHP.\n출처: 2023-1 중간 주관2-4 · 2023-2 중간 2-3) (2회 출제)"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n잎 → ?",
+      "answer": [
+        "Folium",
+        "Folia"
+      ],
+      "explanation": "정답: Folium\n예: Nicotianae Folium(연초엽), Sennae Folium.\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 17,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n과실 → ?",
+      "answer": [
+        "Fructus"
+      ],
+      "explanation": "정답: Fructus\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n전초 → ?",
+      "answer": [
+        "Herba"
+      ],
+      "explanation": "정답: Herba\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 19,
+      "question": "[PPT 1-2 p.24·28] 라틴 생약명과 약용부위의 짝이 틀린 것은?",
+      "choices": [
+        "Glycyrrhizae Radix – 뿌리",
+        "Cinchonae Cortex – 수피",
+        "Strychni Semen – 종자",
+        "Nicotianae Folium – 잎",
+        "Belladonnae Radix – 꽃"
+      ],
+      "answer": "Belladonnae Radix – 꽃",
+      "explanation": "정답: 'Belladonnae Radix – 꽃' (틀림)\nRadix는 뿌리. Cortex = 수피(피), Semen = 종자, Folium = 잎, Flos = 꽃, Fructus = 과실, Herba = 전초, Rhizoma = 근경."
+    },
+    {
+      "id": 20,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n미나리과(산형과) / 보존명 Umbelliferae / 합법명 (   )",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Apiaceae",
+      "explanation": "정답: Apiaceae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 6번 · 2020-2 중간 주8(합법명 주관식) (2회 출제)"
+    },
+    {
+      "id": 21,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n국화과 / 보존명 (   ) / 합법명 Asteraceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Compositae",
+      "explanation": "정답: Compositae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 7번 · 2020-2 중간 주8(보존명 주관식) (2회 출제)"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n십자화과 / 보존명 Cruciferae / 합법명 (   )",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Brassicaceae",
+      "explanation": "정답: Brassicaceae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 8번 · 2020-2 중간 주8(합법명 주관식) (2회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n야자과(종려과) / 보존명 (   ) / 합법명 Arecaceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Palmae",
+      "explanation": "정답: Palmae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 9번"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n콩과(두과) / 보존명 (   ) / 합법명 Fabaceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Leguminosae",
+      "explanation": "정답: Leguminosae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 10번"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2] 국화과의 합법명(legitimate name)은?",
+      "answer": [
+        "Asteraceae"
+      ],
+      "explanation": "정답: Asteraceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2020-2] 물레나물과의 보존명(conserved name)은?",
+      "answer": [
+        "Guttiferae"
+      ],
+      "explanation": "정답: Guttiferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2] 물레나물과의 합법명(legitimate name)은?",
+      "answer": [
+        "Clusiaceae"
+      ],
+      "explanation": "정답: Clusiaceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2020-2] 산형과(미나리과)의 보존명(conserved name)은?",
+      "answer": [
+        "Umbelliferae"
+      ],
+      "explanation": "정답: Umbelliferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 29,
+      "question": "[기출 2020-2] 십자화과의 보존명(conserved name)은?",
+      "answer": [
+        "Cruciferae"
+      ],
+      "explanation": "정답: Cruciferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 30,
+      "question": "[기출 2020-2] 벼과(화본과)의 보존명(conserved name)은?",
+      "answer": [
+        "Gramineae"
+      ],
+      "explanation": "정답: Gramineae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    }
+  ]
+}

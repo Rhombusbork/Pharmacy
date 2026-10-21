@@ -1,0 +1,370 @@
+{
+  "deckId": "pharmacognosy-ch1-intro-set2",
+  "subject": "생약학",
+  "title": "Ch1 총론 · 세트 2/4 (과명·bioassay·약어·역사)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2020-2] 벼과(화본과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Poaceae"
+      ],
+      "explanation": "정답: Poaceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 2,
+      "question": "[기출 2021-2·2023-2] True or False\n꿀풀과의 보존명은 Lamiaceae이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\n꿀풀과(순형과): 보존명 Labiatae, 합법명 Lamiaceae.\n출처: 2021-2 중간 2-4) · 2023-2 중간 2-2) (2회 출제)"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2023-1] True or False\n꿀풀과의 보존명은 Labiatae이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\n출처: 2023-1 중간 주관2-2"
+    },
+    {
+      "id": 4,
+      "question": "[PPT 1-2 p.11] 콩과(두과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Fabaceae"
+      ],
+      "explanation": "정답: Fabaceae (보존명 Leguminosae)\n감초(Glycyrrhiza)가 콩과 식물이다."
+    },
+    {
+      "id": 5,
+      "question": "[PPT 1-2 p.11] 과명 – 보존명 – 합법명의 짝이 틀린 것은?",
+      "choices": [
+        "꿀풀과 – Labiatae – Lamiaceae",
+        "야자과 – Palmae – Arecaceae",
+        "화본과 – Gramineae – Poaceae",
+        "십자화과 – Cruciferae – Brassicaceae",
+        "물레나물과 – Umbelliferae – Clusiaceae"
+      ],
+      "answer": "물레나물과 – Umbelliferae – Clusiaceae",
+      "explanation": "정답: '물레나물과 – Umbelliferae – Clusiaceae' (틀림)\n물레나물과의 보존명은 Guttiferae. Umbelliferae는 미나리과(산형과)."
+    },
+    {
+      "id": 6,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nto examine the phenomenon exactly in place when it occurs",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in situ",
+      "explanation": "정답: in situ\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 11번"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nthe state of embryo or fetus",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in utero",
+      "explanation": "정답: in utero\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 12번"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nperformed on computer or via computer simulation",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in silico",
+      "explanation": "정답: in silico\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 13번"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nwithin the glass, i.e., in a test tube or petri dish",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in vitro",
+      "explanation": "정답: in vitro\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 14번"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nanimal testing and clinical trials",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in vivo",
+      "explanation": "정답: in vivo\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 15번"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2021-2·2023-2] True or False\nbioassay에서 in silico는 시험관 내(in vitro) 실험을 뜻한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\nin silico = 컴퓨터(시뮬레이션)로 수행. 시험관법은 in vitro.\n출처: 2021-2 중간 2-2) · 2023-2 중간 2-1) (2회 출제)"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2023-1] True or False\nbioassay를 설명하는 용어 중 in silico는 생체 내 실험을 의미한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\n생체 내 실험(동물실험·임상시험)은 in vivo.\n출처: 2023-1 중간 주관2-1"
+    },
+    {
+      "id": 13,
+      "question": "[PPT 1-2 p.14] 'out of the living' — 생물체 밖에서 일어나는 것을 뜻하는 용어는?",
+      "choices": [
+        "ex vivo",
+        "in vivo",
+        "in situ",
+        "in utero",
+        "in silico"
+      ],
+      "answer": "ex vivo",
+      "explanation": "정답: ex vivo\nPPT p.14: ex vivo 'out of the living' means that which takes place outside an organism."
+    },
+    {
+      "id": 14,
+      "question": "[PPT 1-2 p.12·13] 다음 중 in vivo assay의 예로 PPT에 나온 것은?",
+      "choices": [
+        "Morris water maze test (마우스·랫드, p.o.)",
+        "paper-disk법 항균 시험",
+        "암세포에 대한 세포독성 시험",
+        "primary cell culture를 이용한 간독성 시험"
+      ],
+      "answer": "Morris water maze test (마우스·랫드, p.o.)",
+      "explanation": "정답: Morris water maze test\nin vivo(신경보호 활성): passive avoidance test, Morris water maze test, focal ischemia test. 나머지는 in vitro(≒ cell-based) assay."
+    },
+    {
+      "id": 15,
+      "question": "[PPT 1-2 p.15] 항미생물 작용에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "抗菌作用 = 抗細菌作用 + 抗眞菌作用이며, 빈도는 항세균 > 항진균",
+        "抗菌作用 = 抗細菌作用만을 뜻한다",
+        "항진균 작용이 항세균 작용보다 더 흔하다",
+        "防腐作用은 항바이러스 작용과 같은 말이다"
+      ],
+      "answer": "抗菌作用 = 抗細菌作用 + 抗眞菌作用이며, 빈도는 항세균 > 항진균",
+      "explanation": "정답: 항균 = 항세균 + 항진균, 빈도는 항세균 > 항진균\nPPT p.15 anti-microbial: anti-bacterial, anti-fungal, anti-protozoal(항원충), anti-virus, anti-septic(방부)."
+    },
+    {
+      "id": 16,
+      "question": "[PPT 1-2 p.16] 약어의 뜻이 틀린 것은?",
+      "choices": [
+        "p.o. – per os, 경구",
+        "i.p. – 복강 내 (intraperitoneally)",
+        "s.c. – 피하 (subcutaneously)",
+        "b.i.d. – 하루 세 번",
+        "L. – Linnaeus"
+      ],
+      "answer": "b.i.d. – 하루 세 번",
+      "explanation": "정답: 'b.i.d. – 하루 세 번' (틀림)\nb.i.d.(bis in die) = 하루 두 번, t.i.d.(ter in die) = 하루 세 번. i.m. 근육, i.v. 정맥."
+    },
+    {
+      "id": 17,
+      "question": "[PPT 1-2 p.17] 생약 조직도의 약어와 뜻의 짝이 틀린 것은?",
+      "choices": [
+        "ph – phloem 사부(篩部)",
+        "xy – xylem 목부(木部)",
+        "c – cambium 형성층",
+        "m – pith 수(髓)",
+        "v – vessel 사관(篩管)"
+      ],
+      "answer": "v – vessel 사관(篩管)",
+      "explanation": "정답: 'v – vessel 사관' (틀림)\nv: vessel = 도관(導管), s: sieve tube = 사관(篩管). k: cork 코르크, en: endodermis 내피, ep: epidermis 표피, p: parenchyma 유조직, co: collenchyma 후각세포."
+    },
+    {
+      "id": 18,
+      "question": "[PPT 1-2 p.17] 조직도 약어 'k'가 뜻하는 조직은? (한글 또는 영어)",
+      "answer": [
+        "cork",
+        "코르크",
+        "코르크층",
+        "cork cell",
+        "코르크세포"
+      ],
+      "explanation": "정답: cork(코르크, 코르크 세포)\n감초 내부형태에서도 바깥쪽 코르크층이 관찰된다."
+    },
+    {
+      "id": 19,
+      "question": "[PPT 1-2 p.19] 생약(生藥, crude drugs)의 정의로 옳은 것은?",
+      "choices": [
+        "식물·동물의 일부·광물·미생물 및 그 대사산물을 간단히 가공하여 약으로 쓰는 것",
+        "순수하게 분리된 단일 천연 화합물",
+        "화학적으로 전합성된 의약품",
+        "식물성 원료만을 쓰는 한약"
+      ],
+      "answer": "식물·동물의 일부·광물·미생물 및 그 대사산물을 간단히 가공하여 약으로 쓰는 것",
+      "explanation": "정답: 첫 번째\nPPT: 'an unrefined preparation, usually of plant origin, simply processed' / 生藥: use of plants, animal parts, minerals, microbes and its metabolites to make medicines."
+    },
+    {
+      "id": 20,
+      "question": "[PPT 1-2 p.19] TCM(Traditional Chinese Medicines)의 구성으로 PPT에 나온 것은?",
+      "choices": [
+        "Chinese Herbal Medicines + 침(acupuncture) + 추나(推拿) 마사지",
+        "Chinese Herbal Medicines + Ayurveda",
+        "Homeopathy + 침",
+        "Korean Herbal Medicines + Jamu"
+      ],
+      "answer": "Chinese Herbal Medicines + 침(acupuncture) + 추나(推拿) 마사지",
+      "explanation": "정답: 한약 + 침 + 추나\n漢藥(중국), 韓藥(한국), 和漢藥(일본)을 묶어 Oriental Medicines라 한다."
+    },
+    {
+      "id": 21,
+      "question": "[PPT 1-2 p.21] 신약 개발에서 천연물의 장점(Merits of Natural Products)으로 PPT에 없는 것은?",
+      "choices": [
+        "오랜 사용으로 검증된 안전성",
+        "부작용이 적음",
+        "여러 유용한 생물활성",
+        "암 예방(chemopreventive) 약물",
+        "구조가 단순하여 합성이 쉬움"
+      ],
+      "answer": "구조가 단순하여 합성이 쉬움",
+      "explanation": "정답: '구조가 단순하여 합성이 쉬움'\n오히려 천연물은 '합성하려고 생각하지 못할 구조'가 많아 신약의 template가 된다(p.39). 장점: safety, less adverse effects, several biological functions, chemopreventive, return to nature."
+    },
+    {
+      "id": 22,
+      "question": "[PPT 1-2 p.22] 나라별 전통의학의 짝이 틀린 것은?",
+      "choices": [
+        "유럽 – Homeopathy",
+        "인도 – Ayurveda",
+        "인도네시아 – Jamu",
+        "중국 – TCM",
+        "인도 – Jamu"
+      ],
+      "answer": "인도 – Jamu",
+      "explanation": "정답: '인도 – Jamu' (틀림)\nJamu는 인도네시아, 인도는 Ayurveda."
+    },
+    {
+      "id": 23,
+      "question": "[PPT 1-2 p.22] 서기 77~78년 'De Materia Medica'를 쓴 사람은?",
+      "choices": [
+        "Dioscorides",
+        "Hippocrates",
+        "Johann Adam Schmidt",
+        "Carolus Linnaeus",
+        "Sertürner"
+      ],
+      "answer": "Dioscorides",
+      "explanation": "정답: Dioscorides (A.D. 40~90)\nJohann Adam Schmidt(1759~1809)는 'Lehrbuch der Materia Medica'(1811, Beethoven의 주치의)."
+    },
+    {
+      "id": 24,
+      "question": "[PPT 1-2 p.23] Carolus Linnaeus의 업적으로 옳은 것은?",
+      "choices": [
+        "이명법(binominal system of nomenclature) 확립",
+        "morphine 최초 분리",
+        "De Materia Medica 저술",
+        "aspirin 합성",
+        "본초강목 편찬"
+      ],
+      "answer": "이명법(binominal system of nomenclature) 확립",
+      "explanation": "정답: 이명법(二名法)\n학명 = 속명 + 종소명. 예: Mentha piperita Linnaeus(peppermint) — 꿀풀과(Labiatae) Mentha속."
+    },
+    {
+      "id": 25,
+      "question": "[PPT 1-2 p.24] 1803년 Sertürner가 아편(Papaver somniferum)에서 분리한 최초의 알칼로이드는?",
+      "choices": [
+        "morphine",
+        "strychnine",
+        "quinine",
+        "nicotine",
+        "hyoscyamine"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine (1803)\n1817 strychnine(마전자), 1817 emetine(토근), 1820 quinine(기나피), 1828 nicotine(연초엽), 1833 hyoscyamine(벨라도나근)."
+    },
+    {
+      "id": 26,
+      "question": "[PPT 1-2 p.24] 성분 – 분리 연도 – 기원 생약의 짝이 틀린 것은?",
+      "choices": [
+        "quinine – 1820 – Cinchonae Cortex (규나피)",
+        "emetine – 1817 – Ipecacuanhae Radix (토근)",
+        "nicotine – 1828 – Nicotianae Folium (연초)",
+        "strychnine – 1817 – Strychni Semen (마전자)",
+        "hyoscyamine – 1833 – Papaver somniferum (아편)"
+      ],
+      "answer": "hyoscyamine – 1833 – Papaver somniferum (아편)",
+      "explanation": "정답: hyoscyamine – 아편 (틀림)\nhyoscyamine은 Belladonnae Radix(Atropa belladonna)에서 1833년 분리."
+    },
+    {
+      "id": 27,
+      "question": "[PPT 1-2 p.25] 천연물(원료)과 이를 바탕으로 개발된 의약품의 짝이 틀린 것은?",
+      "choices": [
+        "salicin → aspirin",
+        "cocaine → procaine (국소마취제)",
+        "atropine → ipratropium (진경제)",
+        "tubocurarine → decamethonium (골격근 이완제)",
+        "eugenol → diethylstilbestrol"
+      ],
+      "answer": "eugenol → diethylstilbestrol",
+      "explanation": "정답: 'eugenol → diethylstilbestrol' (틀림)\neugenol → vanillin, anethole → diethylstilbestrol, papaverine → dioxyline phosphate."
+    },
+    {
+      "id": 28,
+      "question": "[PPT 1-2 p.26] 신농본초경(神農本草經)에 수록된 약물 수로 옳은 것은?",
+      "choices": [
+        "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
+        "1,892종",
+        "5,767종",
+        "상품 100종, 중품 100종, 하품 165종",
+        "730종"
+      ],
+      "answer": "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
+      "explanation": "정답: 상품 120·중품 120·하품 125종\n한나라 이전 약물 지식의 총화. 본초강목은 1,892종, 중약대사전은 5,767종."
+    },
+    {
+      "id": 29,
+      "question": "[PPT 1-2 p.26] 중국 최초의 약전이자 세계 최초의 약전으로 불리는 본초서는?",
+      "choices": [
+        "신수본초 (당본초)",
+        "신농본초경",
+        "본초경집주",
+        "본초강목",
+        "동의보감"
+      ],
+      "answer": "신수본초 (당본초)",
+      "explanation": "정답: 신수본초(新修本草, 당본초) — 당나라 고종\n본초경집주: 남조 양나라 도홍경 / 본초강목: 명나라 이시진 1578년."
+    },
+    {
+      "id": 30,
+      "question": "[PPT 1-2 p.26] 명나라 이시진이 1578년에 펴낸, 16강 60목 1,892종의 약물을 수록한 본초서는?",
+      "choices": [
+        "본초강목",
+        "신수본초",
+        "본초경집주",
+        "중약대사전",
+        "향약집성방"
+      ],
+      "answer": "본초강목",
+      "explanation": "정답: 본초강목(本草綱目)\n방제 11,096종, 그림 1,160폭."
+    }
+  ]
+}
