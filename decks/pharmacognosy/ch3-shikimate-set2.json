@@ -1,0 +1,386 @@
+{
+  "deckId": "pharmacognosy-ch3-shikimate-set2",
+  "subject": "생약학",
+  "title": "Ch3 Shikimate · 세트 2/4 (phenylpropanoid·coumarin)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.5·6] 다음 구조의 화합물은?\n[[smi:COc1cc(CC=C)ccc1O]]",
+      "choices": [
+        "eugenol",
+        "anethole",
+        "safrole",
+        "myristicin",
+        "cinnamaldehyde"
+      ],
+      "answer": "eugenol",
+      "explanation": "정답: eugenol\nOH와 OCH₃가 이웃한 guaiacol 고리 + allyl기(–CH₂CH=CH₂). anethole은 OCH₃ + propenyl(–CH=CH–CH₃), safrole은 methylenedioxy + allyl."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.6] phenylpropanoid와 그것을 함유한 생약의 짝이 틀린 것은?",
+      "choices": [
+        "safrole – 세신",
+        "asarone – 창포",
+        "myristicin – 정향",
+        "anethole – 회향",
+        "cinnamic aldehyde – 계피"
+      ],
+      "answer": "myristicin – 정향",
+      "explanation": "정답: myristicin – 정향\nmyristicin은 육두구(환각작용). 정향은 eugenol·methyleugenol."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.6] 육두구에 들어 있으며 환각작용을 나타내는 phenylpropanoid는?",
+      "answer": [
+        "myristicin",
+        "미리스티신"
+      ],
+      "explanation": "정답: myristicin\nPPT p.6: 'myristicin: 육두구 — 환각작용'."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.6] 세신에 들어 있는 safrole의 활성으로 PPT에 적힌 것은?",
+      "choices": [
+        "누에의 성장억제",
+        "녹병균의 발아저해",
+        "환각작용",
+        "PAF 저해",
+        "항혈액응고"
+      ],
+      "answer": "누에의 성장억제",
+      "explanation": "정답: 누에의 성장억제\n발아저해는 녹병균의 methyl cis-ferulate, 환각은 육두구의 myristicin."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.6] 녹병균에서 발견되며 발아저해 작용을 나타내는 phenylpropanoid는?",
+      "choices": [
+        "methyl cis-ferulate",
+        "coniferin",
+        "syringin",
+        "asarone",
+        "safrole"
+      ],
+      "answer": "methyl cis-ferulate",
+      "explanation": "정답: methyl cis-ferulate\nPPT p.6: 'methyl cis-ferulate: 녹병균 — 발아저해'."
+    },
+    {
+      "id": 6,
+      "question": "[기출 2025-2] 다음 구조를 생성하기 위한 생합성 경로를 고르시오.\n[[img:pharmacognosy/images/2025-mid-q42.png|42번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n그림은 asarone류 phenylpropanoid(창포, C6C3).\n출처: 2025-2 중간 42번"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.6] 고등식물·피자식물에 잘 알려진 phenylpropanoid 배당체 두 가지는?",
+      "choices": [
+        "coniferin, syringin",
+        "aesculin, fraxin",
+        "sennoside A, B",
+        "ginsenoside Rb1, Rg1",
+        "pinoresinol, sesamin"
+      ],
+      "answer": "coniferin, syringin",
+      "explanation": "정답: coniferin, syringin\n각각 coniferyl alcohol, sinapyl alcohol의 배당체. aesculin·fraxin은 hydroxycoumarin, pinoresinol·sesamin은 lignan."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.6] C6-C1 화합물(benzoic acid, vanillin 등)은 C6-C3 화합물이 어떤 반응을 받아 생기는가?",
+      "choices": [
+        "β-oxidation",
+        "탈탄산",
+        "고리화(lactone 형성)",
+        "산화적 짝지음",
+        "prenylation"
+      ],
+      "answer": "β-oxidation",
+      "explanation": "정답: β-oxidation\n곁사슬에서 탄소 2개가 떨어져 C6-C1이 된다. vanillin은 식품·의약품의 풍향제로 쓰인다."
+    },
+    {
+      "id": 9,
+      "question": "[기출 2025-2] 다음 구조를 생성하기 위한 생합성 경로를 고르시오.\n[[img:pharmacognosy/images/2025-mid-q44.png|44번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n그림은 coumarin(2H-1-benzopyran-2-one) 기본 골격. cinnamic acid → 2-coumaric acid → lactone 형성.\n출처: 2025-2 중간 44번"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q22.png|22번 구조]]\n기본골격: 1H-2-benzopyran-1-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "isocoumarin",
+      "explanation": "정답: isocoumarin\nisocoumarin = 1H-2-benzopyran-1-one 골격. coumarin과 달리 polyketide 경로로 생합성된다(PPT p.13).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 22번"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q23.png|23번 구조]]\n기본골격: 2H-1-benzopyran-2-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "coumarin",
+      "explanation": "정답: coumarin\ncoumarin = 2H-1-benzopyran-2-one 골격(PPT p.7).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 23번"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q24.png|24번 구조]]\n기본골격: 4H-1-benzopyran-4-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "chromone",
+      "explanation": "정답: chromone\n그림은 khellin(chromone). chromone = 4H-1-benzopyran-4-one, polyketide 단원(visnagin, khellin).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 24번"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2023-2] coumarin이 주로 분포하는 식물의 과명이 아닌 것은?",
+      "choices": [
+        "미나리과",
+        "국화과",
+        "꿀풀과",
+        "운향과",
+        "콩과"
+      ],
+      "answer": "꿀풀과",
+      "explanation": "정답: 꿀풀과\nPPT p.7: Umbelliferae(미나리과·산형과), Rutaceae(운향과), Leguminosae(콩과), Compositae(국화과)에 널리 분포.\n출처: 2023-2 중간 21"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2020-2] coumarin이 주로 분포하는 식물의 과명을 하나 적으시오.",
+      "answer": [
+        "산형과",
+        "미나리과",
+        "운향과",
+        "콩과",
+        "국화과",
+        "Umbelliferae",
+        "Apiaceae",
+        "Rutaceae",
+        "Leguminosae",
+        "Fabaceae",
+        "Compositae",
+        "Asteraceae"
+      ],
+      "explanation": "정답 예: 산형과(미나리과)\nPPT p.7: Umbelliferae, Rutaceae, Leguminosae, Compositae — 이 중 하나면 정답.\n출처: 2020-2 중간 주6"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.7] 천연 coumarin의 70% 이상은 몇 번 탄소에 산소가 치환되어 있는가? (숫자만)",
+      "answer": [
+        "7",
+        "7번",
+        "C7",
+        "C-7"
+      ],
+      "explanation": "정답: 7번 탄소\n그래서 umbelliferone(7-hydroxycoumarin)이 많은 coumarin의 기본 단위가 된다."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.7] coumarin류가 청색·청자색·황백색 형광을 나타내는 자외선 파장은?",
+      "choices": [
+        "254 nm",
+        "365 nm",
+        "450 nm",
+        "520 nm",
+        "600 nm"
+      ],
+      "answer": "365 nm",
+      "explanation": "정답: 365 nm\nPPT p.7: '자외선(365 nm)에서 청색, 청자색, 황백색의 형광을 나타냄' — 확인시험에 쓰인다."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.7] PPT의 '골격에 따른 coumarin 분류'에 속하지 않는 것은?",
+      "choices": [
+        "hydroxy and alkyl coumarins",
+        "furanocoumarins",
+        "pyranocoumarins",
+        "dicoumarols (biscoumarin)",
+        "naphthoquinones"
+      ],
+      "answer": "naphthoquinones",
+      "explanation": "정답: naphthoquinones\ncoumarin 분류: 1) hydroxy·alkyl coumarins 2) furanocoumarins 3) pyranocoumarins 4) dicoumarols(biscoumarin). 이어서 5) isocoumarin(p.13)을 다룬다."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.7] cinnamic acid → 2-coumaric acid → coumarin 과정에서 곁사슬 이중결합의 trans→cis(E→Z) 이성질화를 일으키는 것은?",
+      "choices": [
+        "빛 (hν)",
+        "ATP",
+        "PAL",
+        "SAM",
+        "NADPH"
+      ],
+      "answer": "빛 (hν)",
+      "explanation": "정답: 빛(hν)\ntrans-2-coumaric acid가 빛으로 cis형이 되어야 COOH와 2번 OH가 가까워져 lactone(고리 에스터)을 만들 수 있다."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.7] 4-coumaric acid → 2,4-dihydroxycinnamic acid를 거쳐 만들어지는 다음 구조의 이름은?\n[[smi:O=C1C=Cc2ccc(O)cc2O1]]",
+      "answer": [
+        "umbelliferone",
+        "움벨리페론",
+        "7-hydroxycoumarin",
+        "7-하이드록시쿠마린"
+      ],
+      "explanation": "정답: umbelliferone (7-hydroxycoumarin)\nfuranocoumarin·pyranocoumarin 생합성의 출발 물질이다."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.8] 물푸레나무과 Fraxinus속(진피)과 칠엽수과 Aesculus속(서양칠엽수 종자)에서 fraxin과 함께 얻어지며, 모세혈관 투과성 억제·부종 억제·요산배설 촉진 작용을 하는 coumarin은?",
+      "choices": [
+        "aesculin (esculin)",
+        "scoparone",
+        "osthol",
+        "psoralen",
+        "decursin"
+      ],
+      "answer": "aesculin (esculin)",
+      "explanation": "정답: aesculin (esculin)\nhydroxy coumarin의 배당체. PPT p.8."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.8] 사철쑥(Artemisia capillaris) 꽃이삭에서 얻는 다음 구조(scoparone)의 작용은?\n[[smi:O=C1C=Cc2cc(OC)c(OC)cc2O1]]",
+      "choices": [
+        "담즙분비 촉진",
+        "항혈액응고",
+        "광감작 (백반병 치료)",
+        "환각",
+        "간세포 보호 (SOD 활성 증가)"
+      ],
+      "answer": "담즙분비 촉진",
+      "explanation": "정답: 담즙분비 촉진\nscoparone = 6,7-dimethoxycoumarin. 같은 식물(인진호)의 isocoumarin capillarin도 이담작용을 한다(p.13)."
+    },
+    {
+      "id": 22,
+      "question": "[기출 2020-2] 다음 화합물(osthol)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-osthol.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\nshikimate(coumarin 골격) + mevalonate(prenyl기) — prenylated coumarin(사상자).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2020-2] 다음 화합물(osthol)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-osthol.png|구조식]]",
+      "answer": [
+        "coumarin",
+        "쿠마린",
+        "prenylated coumarin"
+      ],
+      "explanation": "정답: coumarin (prenylated coumarin)\nPPT p.8에서는 hydroxy·alkyl coumarin 항목에 실려 있다.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.8] osthol을 함유한 생약과 osthol의 작용 짝으로 옳은 것은?",
+      "choices": [
+        "사상자(Cnidium monnieri) 과실 – 항진균·호흡중추 흥분",
+        "백지 뿌리 – 광감작",
+        "참당귀 뿌리 – 치매 예방",
+        "사철쑥 꽃이삭 – 담즙분비 촉진",
+        "후박 – 중추성 근이완"
+      ],
+      "answer": "사상자(Cnidium monnieri) 과실 – 항진균·호흡중추 흥분",
+      "explanation": "정답: 사상자 과실 – 항진균·호흡중추 흥분\nPPT p.8: 'osthol — 사상자(Cnidium monnieri)의 과실 — 항진균작용, 호흡중추 흥분작용'."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.9] 다음 구조(psoralen)의 용도로 옳은 것은?\n[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+      "choices": [
+        "광감작작용을 이용한 백반병 치료",
+        "항혈액응고",
+        "담즙분비 촉진",
+        "간손상 치료",
+        "항종양"
+      ],
+      "answer": "광감작작용을 이용한 백반병 치료",
+      "explanation": "정답: 광감작작용을 이용한 백반병(백납) 치료\npsoralen = 직선형(linear) furanocoumarin."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.9] psoralen을 함유한 식물·생약이 아닌 것은?",
+      "choices": [
+        "무화과나무",
+        "보골지 (Psoralea corylifolia)",
+        "백선피 (Dictamnus albus)",
+        "사철쑥 (Artemisia capillaris)"
+      ],
+      "answer": "사철쑥 (Artemisia capillaris)",
+      "explanation": "정답: 사철쑥\n사철쑥은 scoparone(hydroxycoumarin), capillarin(isocoumarin). psoralen: 무화과나무, 보골지, 백선피 등."
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2] 다음 화합물(byakangelicin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-byakangelicin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\nshikimate + mevalonate — furanocoumarin(백지). furan 고리 탄소는 DMAPP에서 온다.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2020-2] 다음 화합물(byakangelicin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-byakangelicin.png|구조식]]",
+      "answer": [
+        "furanocoumarin",
+        "퓨라노쿠마린",
+        "coumarin",
+        "쿠마린"
+      ],
+      "explanation": "정답: furanocoumarin\n백지(Angelica dahurica)의 furanocoumarin.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.9] 백지(Angelica dahurica)에 들어 있는 furanocoumarin이 아닌 것은?",
+      "choices": [
+        "imperatorin",
+        "oxypeucedanin",
+        "byakangelicin",
+        "decursin"
+      ],
+      "answer": "decursin",
+      "explanation": "정답: decursin\ndecursin은 참당귀(Angelica gigas)의 pyranocoumarin. 백지: imperatorin, oxypeucedanin, byakangelicin."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.9] umbelliferone에 DMAPP가 C-alkylation(prenylation)되어 생기는 furanocoumarin 생합성 중간체는?",
+      "choices": [
+        "demethylsuberosin",
+        "marmesin",
+        "angelicin",
+        "bergapten",
+        "scopoletin"
+      ],
+      "answer": "demethylsuberosin",
+      "explanation": "정답: demethylsuberosin\n페놀 OH의 ortho 자리(6번)에 prenyl기가 붙는다. 이어서 O₂·NADPH로 고리가 닫혀 marmesin이 된다."
+    }
+  ]
+}

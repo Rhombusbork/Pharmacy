@@ -1,0 +1,376 @@
+{
+  "deckId": "pharmacognosy-ch3-shikimate-set1",
+  "subject": "생약학",
+  "title": "Ch3 Shikimate · 세트 1/4 (생합성 경로·phenylpropanoid)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.1] 다음 중 shikimate 경로에서 만들어지는 화합물군이 아닌 것은?",
+      "choices": [
+        "cinnamates (phenylpropanoids)",
+        "lignans",
+        "coumarins",
+        "tannins",
+        "saponins"
+      ],
+      "answer": "saponins",
+      "explanation": "정답: saponins\nPPT p.1 그림: SHIKIMATES → cinnamates, lignans, coumarins, quinones, flavonoids, anthocyanins, tannins. saponin은 mevalonate(TERPENES AND STEROLS) 경로 산물이다."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.1·3] Shikimate 경로의 출발 물질 두 가지로 옳은 것은?",
+      "choices": [
+        "phosphoenolpyruvate (PEP) + erythrose 4-phosphate",
+        "acetyl-CoA + malonyl-CoA",
+        "IPP + DMAPP",
+        "pyruvate + glyceraldehyde 3-phosphate",
+        "ornithine + acetyl-CoA"
+      ],
+      "answer": "phosphoenolpyruvate (PEP) + erythrose 4-phosphate",
+      "explanation": "정답: PEP + erythrose 4-phosphate\n해당과정의 PEP와 오탄당인산 경로의 D-erythrose 4-P가 aldol형 반응으로 축합해 DAHP(C7)를 만들면서 shikimate 경로가 시작된다."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.2] Shikimate 경로의 대표 building block인 C6C3 단위의 원료가 되는 아미노산은?",
+      "choices": [
+        "L-phenylalanine, L-tyrosine",
+        "L-tryptophan, L-histidine",
+        "L-ornithine, L-lysine",
+        "L-methionine, L-serine",
+        "L-alanine, L-glycine"
+      ],
+      "answer": "L-phenylalanine, L-tyrosine",
+      "explanation": "정답: L-phenylalanine, L-tyrosine\nPPT p.2: 'C6C3: L-phenylalanine, L-tyrosine — The building block'. 방향족 고리(C6)에 탄소 3개 곁사슬(C3)이 붙은 단위다."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2021-2·2023-1·2023-2] 원료물질 표의 빈칸: 기본골격 C6C3의 원료물질은?",
+      "choices": [
+        "L-Met",
+        "acetyl-CoA",
+        "L-Phe",
+        "L-Orn",
+        "L-Lys",
+        "L-Trp"
+      ],
+      "answer": "L-Phe",
+      "explanation": "정답: L-Phe\nC6C3(phenylpropanoid) 단위는 shikimate 경로의 L-Phe(→ PAL → cinnamic acid)에서 온다. PPT에는 L-Tyr도 함께 적혀 있다.\n출처: 2021-2 중간 3 · 2023-1 중간 주관3-④ · 2023-2 중간 3 (3회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.2] PPT에서 podophyllotoxin의 building block을 어떻게 표시했는가?",
+      "choices": [
+        "2×C6C3 + 4×C1",
+        "C6C3 + C5",
+        "3×C6C3",
+        "C6C3 + 3×C2",
+        "2×C6C1"
+      ],
+      "answer": "2×C6C3 + 4×C1",
+      "explanation": "정답: 2×C6C3 + 4×C1\nC6C3 두 개가 결합한 lignan이고, 메톡시·메틸렌다이옥시의 탄소 4개(C1)가 더해진다. 족보 표에서는 간단히 'C6C3×2'로 답한다."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.3] Shikimate 경로 첫 단계에서 PEP와 D-erythrose 4-P가 aldol형 반응으로 축합해 생기는 C7 화합물의 약어는?",
+      "answer": [
+        "DAHP",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate"
+      ],
+      "explanation": "정답: DAHP (3-Deoxy-D-arabino-heptulosonic acid 7-phosphate)\nPPT p.3 약어 정리: EPSP, PEP, DAHP."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.3] 다음 순서의 빈칸에 들어갈 화합물은?\nDAHP → (   ) → 3-dehydroshikimic acid → shikimic acid",
+      "choices": [
+        "3-dehydroquinic acid",
+        "chorismic acid",
+        "prephenic acid",
+        "EPSP",
+        "anthranilic acid"
+      ],
+      "answer": "3-dehydroquinic acid",
+      "explanation": "정답: 3-dehydroquinic acid\nDAHP가 산화(NAD⁺)·인산 제거 후 분자 내 aldol로 고리를 닫아 3-dehydroquinic acid가 되고, 탈수되어 3-dehydroshikimic acid, 환원되어 shikimic acid가 된다."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.3] EPSP의 원래 이름은?",
+      "choices": [
+        "5-enolpyruvylshikimic acid 3-phosphate",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate",
+        "phosphoenolpyruvate",
+        "erythrose 4-phosphate",
+        "shikimic acid 5-phosphate"
+      ],
+      "answer": "5-enolpyruvylshikimic acid 3-phosphate",
+      "explanation": "정답: 5-enolpyruvylshikimic acid 3-phosphate\nshikimic acid 3-P의 5번 OH에 PEP의 enolpyruvyl기가 붙은 화합물이다."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.3] shikimic acid 3-phosphate와 PEP를 결합시켜 EPSP를 만드는 효소의 이름은?",
+      "answer": [
+        "EPSP synthase",
+        "EPSP 합성효소"
+      ],
+      "explanation": "정답: EPSP synthase\nPPT p.3 그림의 화살표에 표시된 효소. (참고: 제초제 glyphosate가 이 효소를 저해한다.)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.3] EPSP에서 인산(HOP)이 빠져 생기며, Phe·Tyr·Trp 생합성의 공통 분기점이 되는 화합물은?",
+      "choices": [
+        "chorismic acid",
+        "prephenic acid",
+        "shikimic acid",
+        "phenylpyruvic acid",
+        "DAHP"
+      ],
+      "answer": "chorismic acid",
+      "explanation": "정답: chorismic acid\nchorismic acid → prephenic acid → Phe·Tyr, chorismic acid → anthranilic acid → Trp로 갈라진다."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.3] 다음 구조의 화합물 이름은? (Shikimate 경로의 분기점 화합물)\n[[smi:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1]]",
+      "answer": [
+        "chorismic acid",
+        "chorismate",
+        "코리스민산"
+      ],
+      "explanation": "정답: chorismic acid\n고리에 COOH, OH, 그리고 enolpyruvyl ether(–O–C(=CH₂)COOH)가 있는 것이 특징이다."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.3] chorismic acid가 재배열되어 생기며, phenylpyruvic acid를 거쳐 L-Phe가 되는 화합물은?",
+      "choices": [
+        "prephenic acid",
+        "anthranilic acid",
+        "3-dehydroshikimic acid",
+        "cinnamic acid",
+        "EPSP"
+      ],
+      "answer": "prephenic acid",
+      "explanation": "정답: prephenic acid\nchorismic acid → (재배열; Claisen rearrangement) → prephenic acid → 탈탄산·탈수 → phenylpyruvic acid → 아미노기 전이 → L-Phe."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.3] phenylpyruvic acid가 L-Phe로 바뀌는 반응과 필요한 조효소의 짝은?",
+      "choices": [
+        "transamination – PLP",
+        "decarboxylation – TPP",
+        "hydroxylation – NADPH",
+        "methylation – SAM",
+        "deamination – PAL"
+      ],
+      "answer": "transamination – PLP",
+      "explanation": "정답: transamination – PLP\nPPT p.3: phenylpyruvic acid ⇌ L-Phe, 4-hydroxyphenylpyruvic acid ⇌ L-Tyr 모두 'transamination, PLP'."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.3] Shikimate 경로의 순서로 옳은 것은?",
+      "choices": [
+        "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → EPSP → chorismic acid → prephenic acid",
+        "DAHP → shikimic acid → 3-dehydroquinic acid → 3-dehydroshikimic acid → EPSP → chorismic acid → prephenic acid",
+        "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → prephenic acid → chorismic acid → EPSP",
+        "DAHP → 3-dehydroshikimic acid → 3-dehydroquinic acid → shikimic acid → EPSP → prephenic acid → chorismic acid"
+      ],
+      "answer": "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → EPSP → chorismic acid → prephenic acid",
+      "explanation": "정답: DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → (shikimic acid 3-P) → EPSP → chorismic acid → prephenic acid\n이후 phenylpyruvic acid → L-Phe, 4-hydroxyphenylpyruvic acid → L-Tyr."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.4] Tryptophan은 chorismic acid에서 어떤 중간체를 거쳐 만들어지는가?",
+      "choices": [
+        "anthranilic acid",
+        "prephenic acid",
+        "phenylpyruvic acid",
+        "cinnamic acid",
+        "p-coumaric acid"
+      ],
+      "answer": "anthranilic acid",
+      "explanation": "정답: anthranilic acid\nchorismic acid → anthranilic acid → … → L-Trp (PPT p.4 'Shikimate pathway-tryptophan'). prephenic acid 쪽은 Phe·Tyr로 간다."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.3] 다음 구조의 화합물 이름은? (경로 이름의 유래가 된 화합물)\n[[smi:OC(=O)C1=CC(O)C(O)C(O)C1]]",
+      "answer": [
+        "shikimic acid",
+        "shikimate",
+        "시킴산"
+      ],
+      "explanation": "정답: shikimic acid\n고리 안에 C=C 한 개, COOH 한 개, OH 세 개가 있다. 다음 단계에서 ATP로 3번 OH가 인산화되어 shikimic acid 3-P가 된다."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.5] Shikimate 생합성 경로 그림의 효소 약어 PAL의 원래 이름은?",
+      "answer": [
+        "phenylalanine ammonia lyase",
+        "phenylalanine ammonia-lyase",
+        "페닐알라닌 암모니아 리아제"
+      ],
+      "explanation": "정답: Phenylalanine ammonia lyase\nL-Phe에서 NH₃를 떼어 cinnamic acid를 만드는 효소다. phenylpropanoid 생합성의 첫 효소."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.5] PAL이 L-phenylalanine에서 NH₃를 제거하여 만드는 화합물은?",
+      "choices": [
+        "cinnamic acid",
+        "p-coumaric acid",
+        "benzoic acid",
+        "phenylpyruvic acid",
+        "ferulic acid"
+      ],
+      "answer": "cinnamic acid",
+      "explanation": "정답: cinnamic acid (trans-계피산)\n이후 4번 수산화 → p-coumaric acid → ferulic acid → coniferyl alcohol 순서로 이어진다."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.5·6] 다음 반응에서 PAL이 일으키는 반응의 종류는?\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)/C=C/c1ccccc1|PAL|− NH₃]]",
+      "choices": [
+        "탈암모니아 (deamination)",
+        "탈탄산 (decarboxylation)",
+        "수산화 (hydroxylation)",
+        "메틸화 (methylation)",
+        "산화적 짝지음 (oxidative coupling)"
+      ],
+      "answer": "탈암모니아 (deamination)",
+      "explanation": "정답: 탈암모니아\nPPT p.6: phenylpropanoid는 'phenylalanine, tyrosine의 탈암모니아 반응에 의하여 생성되는 C6-C3 화합물'."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.5] 그림 36(Shikimate 생합성 경로 화합물)에서 coniferyl alcohol의 직접 전구체로 그려진 것은?",
+      "choices": [
+        "ferulic acid",
+        "cinnamaldehyde",
+        "umbelliferone",
+        "benzoic acid",
+        "anethole"
+      ],
+      "answer": "ferulic acid",
+      "explanation": "정답: ferulic acid\nPhe → cinnamic acid → p-coumaric acid → ferulic acid → coniferyl alcohol. ferulic acid에서 vanillin도 만들어진다."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.5] 그림 36에서 coniferyl alcohol로부터 만들어지는 것이 아닌 것은?",
+      "choices": [
+        "lignin",
+        "lignan (arctiin, gomisin A)",
+        "eugenol",
+        "umbelliferone"
+      ],
+      "answer": "umbelliferone",
+      "explanation": "정답: umbelliferone\numbelliferone은 p-coumaric acid(2-OGlc 유도체)에서 고리가 닫혀 생기고, 여기에 DMAPP가 붙어 psoralen(furanocoumarin)이 된다. coniferyl alcohol에서는 lignin, lignan(2분자 결합), eugenol이 만들어진다."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.5·6] cinnamoyl-CoA의 곁사슬이 짧아져 생기는 C6-C1 화합물로 그림 36에 나온 것은?",
+      "choices": [
+        "benzoic acid",
+        "cinnamaldehyde",
+        "anethole",
+        "p-coumaric acid",
+        "coniferyl alcohol"
+      ],
+      "answer": "benzoic acid",
+      "explanation": "정답: benzoic acid\nPPT p.6: C6-C1 화합물은 C6-C3 화합물이 β-oxidation을 받아 생성되며, benzoic acid·benzyl alcohol·benzaldehyde 유도체로 유리형 또는 배당체로 존재한다."
+    },
+    {
+      "id": 23,
+      "question": "[기출 2023-1·2023-2] 다음 화합물(cinnamaldehyde)의 생합성 경로는?\n[[img:pharmacognosy/images/2023-1-mid-q6-cinnamaldehyde.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n계피의 C6C3 화합물(phenylpropanoid).\n출처: 2023-1 중간 주관6 · 2023-2 중간 26-② (2회 출제)"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2023-1] 다음 화합물(cinnamaldehyde)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-cinnamaldehyde.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3",
+      "explanation": "정답: C6C3\n벤젠 고리(C6) + 곁사슬 탄소 3개(C3, –CH=CH–CHO).\n출처: 2023-1 중간 주관6"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2022-2·2023-2] cinnamaldehyde의 성분계열로 알맞은 것은?\n[[img:pharmacognosy/images/2022-2-mid-m7.png|구조식]]",
+      "choices": [
+        "biscoumarin",
+        "phenylpropanoid",
+        "furanocoumarin",
+        "chromone",
+        "cannabinoid"
+      ],
+      "answer": "phenylpropanoid",
+      "explanation": "정답: phenylpropanoid\nC6C3 — phenylpropanoid. 2023-1 주관6에서는 주관식으로도 출제되었다.\n출처: 2022-2 중간 7 · 2023-2 중간 17 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2023-1] 다음 화합물은 어떤 계열에 속하는가?\n[[img:pharmacognosy/images/2023-1-mid-m3.png|구조식]]",
+      "choices": [
+        "lignan",
+        "phloroglucinol",
+        "phenylpropanoid",
+        "benzoquinone",
+        "xanthone"
+      ],
+      "answer": "phenylpropanoid",
+      "explanation": "정답: phenylpropanoid\ncinnamaldehyde — C6C3 phenylpropanoid(계피). 같은 화합물을 선지만 바꿔 다시 낸 문제.\n출처: 2023-1 중간 객관3"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.6] cinnamic aldehyde가 주성분인 정유를 내는 생약과 그 과(科)의 짝으로 옳은 것은?",
+      "choices": [
+        "계피 – Lauraceae",
+        "정향 – Lauraceae",
+        "회향 – Lauraceae",
+        "계피 – Umbelliferae",
+        "정향 – Umbelliferae"
+      ],
+      "answer": "계피 – Lauraceae",
+      "explanation": "정답: 계피 – Lauraceae(녹나무과)\nPPT p.6: 'cinnamic aldehyde: Lauraceae, 계피정유의 주성분'."
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.6] 계피정유의 주성분 cinnamic aldehyde의 작용으로 PPT에 없는 것은?",
+      "choices": [
+        "혈압강하·말초혈관 확장",
+        "진정·해열",
+        "국소마취·항진균",
+        "소량에서 중추각성, 다량에서 중추억제",
+        "환각작용"
+      ],
+      "answer": "환각작용",
+      "explanation": "정답: 환각작용\n환각작용은 육두구의 myristicin. cinnamic aldehyde: 혈압강하, 심박수 감소, 말초혈관 확장, 진정, 해열, 중추각성(소량), 중추억제(다량), 진경, 국소자극, 국소마취, 항진균."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.6] 다음 구조의 anethole이 주로 들어 있는 생약은?\n[[smi:COc1ccc(/C=C/C)cc1]]",
+      "choices": [
+        "회향",
+        "정향",
+        "세신",
+        "육두구",
+        "창포"
+      ],
+      "answer": "회향",
+      "explanation": "정답: 회향\nPPT p.6: anethole — 회향, 대회향, 아니스실. 작용: 중추억제, 구풍, 혈관확장."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.6] 정향의 주성분으로 진정·국소마취·항균 작용이 있고 vanillin 제조 원료로 쓰이는 phenylpropanoid는?",
+      "answer": [
+        "eugenol",
+        "유게놀",
+        "methyleugenol"
+      ],
+      "explanation": "정답: eugenol (methyleugenol도 함께 정향에 있음)\nPPT p.6: 'eugenol, methyleugenol: 정향 — 진정, 국소마취, 항균작용, vanillin 제조원료'."
+    }
+  ]
+}
