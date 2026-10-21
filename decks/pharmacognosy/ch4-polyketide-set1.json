@@ -1,0 +1,382 @@
+{
+  "deckId": "pharmacognosy-ch4-polyketide-set1",
+  "subject": "생약학",
+  "title": "Ch4 Polyketide · 세트 1/5 (polyketide 총론·수지배당체·polyacetylene)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.1] Polyketide pathway의 다른 이름은?",
+      "choices": [
+        "acetate-malonate pathway",
+        "mevalonate pathway",
+        "shikimate pathway",
+        "MEP pathway",
+        "amino acid pathway"
+      ],
+      "answer": "acetate-malonate pathway",
+      "explanation": "정답: acetate-malonate pathway\nacetyl-CoA(시작)에 malonyl-CoA(연장)가 차례로 붙는다."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.1] PPT에서 polyketide 경로 생약성분으로 분류한 8가지에 속하지 않는 것은?",
+      "choices": [
+        "resin glycosides",
+        "polyacetylenes",
+        "phthalides",
+        "phloroglucinols",
+        "coumarins"
+      ],
+      "answer": "coumarins",
+      "explanation": "정답: coumarins (shikimate)\n8가지: 수지배당체, polyacetylene, phthalide, phloroglucinol, quinone, chromone, isocoumarin, cannabinoid."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.1·2] polyketide(POLYACETATES)에서 만들어지는 물질이 아닌 것은?",
+      "choices": [
+        "fatty acid",
+        "prostaglandin",
+        "macrolide 항생물질",
+        "tetracycline",
+        "steroid"
+      ],
+      "answer": "steroid",
+      "explanation": "정답: steroid (mevalonate)\nPPT p.2: polyketides — fatty acid, polyacetylenes, prostaglandins, macrolide antibiotics, 방향족(anthraquinones, tetracyclines)."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.2] polyketide 화합물이 공통으로 유래하는 사슬은?",
+      "choices": [
+        "poly-β-keto chain (poly-β-keto ester)",
+        "polyisoprene chain",
+        "polypeptide chain",
+        "polysaccharide chain",
+        "polyphenylpropane chain"
+      ],
+      "answer": "poly-β-keto chain (poly-β-keto ester)",
+      "explanation": "정답: poly-β-keto 사슬\n카보닐(C=O)이 한 탄소 건너(β 위치)마다 반복되는 사슬."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.4] polyketide 사슬을 2탄소씩 늘려 주는 연장 단위(extender)는?",
+      "choices": [
+        "malonyl-CoA",
+        "acetyl-CoA",
+        "IPP",
+        "L-Phe",
+        "SAM"
+      ],
+      "answer": "malonyl-CoA",
+      "explanation": "정답: malonyl-CoA\nPPT p.4: 'Addition of malonyl-CoA to acetyl-CoA or acyl-CoA as starting materials'. acetyl-CoA는 보통 시작 단위(starter)."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.4] malonyl-CoA가 사슬에 붙는 Claisen 반응에서 동시에 빠져나가는 것은?",
+      "choices": [
+        "CO₂",
+        "H₂O",
+        "NH₃",
+        "인산",
+        "CoA-SH 2분자"
+      ],
+      "answer": "CO₂",
+      "explanation": "정답: CO₂\n'nucleophilic attack on carbonyl with simultaneous loss of CO₂' — 탈탄산이 반응의 추진력이 된다."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.3] acetoacetyl-CoA 이후 경로에서, 고리화(cyclization)와 환원(reduction)이 각각 만드는 산물의 짝으로 옳은 것은?",
+      "choices": [
+        "고리화 → aromatics, 환원 → fatty acids",
+        "고리화 → fatty acids, 환원 → aromatics",
+        "고리화 → isoprenoid, 환원 → steroid",
+        "둘 다 alkaloid"
+      ],
+      "answer": "고리화 → aromatics, 환원 → fatty acids",
+      "explanation": "정답: 고리화 → 방향족, 환원 → 지방산\nacetoacetyl-CoA는 mevalonate 경로(isoprenoid)로도 간다."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.3·5] 방향족 고리 형성 방식과 유도체의 짝으로 옳은 것은?",
+      "choices": [
+        "Aldol 축합 → resorcinol 유도체, Claisen 축합 → phloroglucinol 유도체",
+        "Aldol → phloroglucinol, Claisen → resorcinol",
+        "둘 다 Diels-Alder",
+        "Aldol → catechol, Claisen → hydroquinone"
+      ],
+      "answer": "Aldol 축합 → resorcinol 유도체, Claisen 축합 → phloroglucinol 유도체",
+      "explanation": "정답: 첫 번째\nresorcinol 유도체: 곁사슬 R의 탄소 수가 홀수 / phloroglucinol 유도체: R의 탄소 수가 짝수."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.3·5] Claisen 축합으로 생기는 phloroglucinol 유도체에서 곁사슬 R의 탄소 수는?",
+      "choices": [
+        "짝수",
+        "홀수",
+        "항상 0",
+        "항상 5"
+      ],
+      "answer": "짝수",
+      "explanation": "정답: 짝수 (resorcinol 유도체는 홀수)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.5] 다음 구조(orsellinic acid)가 만들어지는 고리화 방식과 유도체 종류는?\n[[smi:Cc1cc(O)cc(O)c1C(=O)O]]",
+      "choices": [
+        "aldol 반응 → resorcinol 유도체",
+        "Claisen 반응 → phloroglucinol 유도체",
+        "Diels-Alder → cyclohexene",
+        "산화적 짝지음 → lignan"
+      ],
+      "answer": "aldol 반응 → resorcinol 유도체",
+      "explanation": "정답: aldol → resorcinol 유도체\nacetyl-CoA + 3 malonyl-CoA → poly-β-keto ester(C8) → 접힘 → aldol → 탈수 → 방향족화(enolization) → 가수분해. building block 4 × C2."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.5] 다음 구조(phloracetophenone)가 만들어지는 고리화 방식과 유도체 종류는?\n[[smi:CC(=O)c1c(O)cc(O)cc1O]]",
+      "choices": [
+        "Claisen 반응 → phloroglucinol 유도체",
+        "aldol 반응 → resorcinol 유도체",
+        "lactone 형성 → coumarin",
+        "Cope 재배열 → elemane"
+      ],
+      "answer": "Claisen 반응 → phloroglucinol 유도체",
+      "explanation": "정답: Claisen → phloroglucinol 유도체\n같은 poly-β-keto ester라도 접히는 방식에 따라 orsellinic acid(aldol) 또는 phloracetophenone(Claisen)이 된다."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.6] Aldol condensation에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "두 카보닐 화합물(enolate + aldehyde/ketone)이 축합해 β-hydroxy carbonyl(aldol)을 만든다",
+        "ester와 활성 메틸렌 화합물이 염기 촉매로 축합하고 이탈기가 빠진다",
+        "두 라디칼이 짝지어진다",
+        "IPP와 DMAPP가 결합한다"
+      ],
+      "answer": "두 카보닐 화합물(enolate + aldehyde/ketone)이 축합해 β-hydroxy carbonyl(aldol)을 만든다",
+      "explanation": "정답: 첫 번째\nClaisen은 enolate + ester(탈양성자 → 첨가 → 이탈 단계)."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.6] Claisen condensation의 단계로 옳은 것은?",
+      "choices": [
+        "탈양성자화 → 첨가 → 이탈(elimination)",
+        "탈양성자화 → 첨가만",
+        "산화 → 환원",
+        "가수분해 → 탈탄산"
+      ],
+      "answer": "탈양성자화 → 첨가 → 이탈(elimination)",
+      "explanation": "정답: 탈양성자화 → 첨가 → 이탈\nenolate가 ester 카보닐에 붙은 뒤 alkoxide(OR)가 떨어진다. aldol은 이탈 단계 없이 첨가로 끝난다."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.7] polyketide 대사산물의 다양성을 결정하는 요인으로 PPT에 없는 것은?",
+      "choices": [
+        "시작 단위(starter)의 종류",
+        "사용된 acetyl-CoA 단위 수 (가끔 propionyl-CoA, butyryl-CoA)",
+        "고리화 방식",
+        "따로 만들어진 polyketide끼리의 축합",
+        "결합한 IPP 단위의 수만으로 결정"
+      ],
+      "answer": "결합한 IPP 단위의 수만으로 결정",
+      "explanation": "정답: 마지막\n그 밖에 2차 과정(halogenation, alkylation, 산화환원, 재배열 등)도 요인."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.7] acetyl-CoA 대신 쓰이는 다른 시작·연장 ester로 PPT에 나온 것은?",
+      "choices": [
+        "propionyl-CoA, butyryl-CoA",
+        "HMG-CoA",
+        "succinyl-CoA만",
+        "IPP, DMAPP",
+        "glucose-6-phosphate"
+      ],
+      "answer": "propionyl-CoA, butyryl-CoA",
+      "explanation": "정답: propionyl-CoA, butyryl-CoA\n뒤에서 나오는 예: hexanoyl-CoA(cannabinoid), palmitoleyl-CoA(urushiol), propionyl-CoA(anthracycline), malonamyl-CoA(tetracycline)."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.8 그림 44] 같은 tetraketide(CH₃COCH₂COCH₂COCH₂COCoA)에서 고리화 방법만 달라 생기는 두 화합물은?",
+      "choices": [
+        "orsellinic acid, xanthoxylin",
+        "emodin, alizarin",
+        "shikonin, alkannin",
+        "capillin, falcarinol",
+        "humulone, lupulone"
+      ],
+      "answer": "orsellinic acid, xanthoxylin",
+      "explanation": "정답: orsellinic acid, xanthoxylin\nPolyketide계 생약성분의 cyclization 방법(그림 44)."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.5] orsellinic acid(C8)를 만들기 위해 필요한 단위의 수는?",
+      "choices": [
+        "acetyl-CoA 1 + malonyl-CoA 3",
+        "acetyl-CoA 4",
+        "acetyl-CoA 2 + malonyl-CoA 2",
+        "malonyl-CoA 4 + CO₂",
+        "acetyl-CoA 1 + malonyl-CoA 4"
+      ],
+      "answer": "acetyl-CoA 1 + malonyl-CoA 3",
+      "explanation": "정답: acetyl-CoA 1 + malonyl-CoA 3 (= 4 × C2, tetraketide)"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.5] True or False\npolyketide 사슬이 고리를 닫은 뒤 enolization이 잘 일어나는 이유는 방향족 고리가 만들어지기 때문이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\nPPT p.5: 'enolization favored by formation of aromatic ring'."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.1] 대사 지도에서 POLYACETATES(polyketide) 쪽 산물로 표시되지 않은 것은?",
+      "choices": [
+        "phenols",
+        "quinones",
+        "polyacetylenes",
+        "macrolides·fatty acids",
+        "saponins·cardenolides"
+      ],
+      "answer": "saponins·cardenolides",
+      "explanation": "정답: saponins·cardenolides (mevalonate 쪽 TERPENES AND STEROLS)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.4] Polyketide 사슬 연장에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "acetyl-CoA 또는 acyl-CoA가 시작 물질이 된다",
+        "malonyl-CoA가 붙을 때 CO₂가 빠진다",
+        "반복되는 Claisen 반응으로 poly-β-keto ester가 길어진다",
+        "한 번 연장할 때마다 탄소 5개가 늘어난다"
+      ],
+      "answer": "한 번 연장할 때마다 탄소 5개가 늘어난다",
+      "explanation": "정답: 마지막 (틀림)\n한 번에 C2씩 늘어난다(malonyl-CoA C3 − CO₂). C5씩 늘어나는 것은 isoprenoid."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.3] Polyketide 경로와 Mevalonate 경로가 갈라지는 공통 중간체는?",
+      "choices": [
+        "acetoacetyl-CoA",
+        "HMG-CoA",
+        "shikimic acid",
+        "chorismic acid",
+        "squalene"
+      ],
+      "answer": "acetoacetyl-CoA",
+      "explanation": "정답: acetoacetyl-CoA\nPPT p.3 그림: acetoacetyl-CoA → isoprenoid(mevalonate) / aromatics(고리화) / fatty acids(환원)."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.9] 견우자(나팔꽃 씨, Pharbitis nil)의 사하 성분인 수지배당체는?",
+      "choices": [
+        "pharbitin",
+        "sennoside",
+        "emodin",
+        "rhein",
+        "aloin"
+      ],
+      "answer": "pharbitin",
+      "explanation": "정답: pharbitin\n수지배당체(resin glycoside) — 사하성분."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.9] pharbitin을 구성하는 산(acid)으로 PPT 그림에 없는 것은?",
+      "choices": [
+        "pharbitic acid",
+        "(+)-α-methylbutyric acid",
+        "nilic acid",
+        "tiglic acid",
+        "cinnamic acid"
+      ],
+      "answer": "cinnamic acid",
+      "explanation": "정답: cinnamic acid\npharbitin: pharbitic acid C·D(+ Glc, Rha) + methylbutyric acid, nilic acid, tiglic acid, valeric acid."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.9] 나팔꽃씨(견우자)와 현호색 덩이줄기의 천연물 성분으로 만든 기능성 소화불량 치료제는?",
+      "choices": [
+        "모티리톤",
+        "스티렌",
+        "조인스",
+        "신바로",
+        "레일라"
+      ],
+      "answer": "모티리톤",
+      "explanation": "정답: 모티리톤(동아에스티)"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.9] 수지배당체가 들어 있는 견우자의 약용부위와 작용은?",
+      "choices": [
+        "씨앗 – 사하(설사를 일으킴)",
+        "뿌리 – 강심",
+        "잎 – 진해",
+        "꽃 – 진정",
+        "열매껍질 – 지혈"
+      ],
+      "answer": "씨앗 – 사하(설사를 일으킴)",
+      "explanation": "정답: 씨앗 – 사하"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.10] polyacetylene이 많이 분포하는 고등식물의 과가 아닌 것은?",
+      "choices": [
+        "Compositae",
+        "Umbelliferae",
+        "Araliaceae",
+        "Solanaceae"
+      ],
+      "answer": "Solanaceae",
+      "explanation": "정답: Solanaceae\n고등식물: 국화과, 산형과, 두릅나무과 / 하등식물: 담자균류(Basidiomycetes)."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.10] polyacetylene 화합물의 성질과 활성으로 옳은 것은?",
+      "choices": [
+        "그람양성·음성균에 항균 활성, 불안정(unstable)",
+        "매우 안정하여 수백 년 보존",
+        "강심 작용",
+        "감미료"
+      ],
+      "answer": "그람양성·음성균에 항균 활성, 불안정(unstable)",
+      "explanation": "정답: G(+)·G(−) 항균, 불안정"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.10] polyacetylene을 함유하는 하등식물로 PPT에 나온 것은?",
+      "choices": [
+        "담자균류 (Basidiomycetes)",
+        "남조류",
+        "이끼류",
+        "양치식물",
+        "효모"
+      ],
+      "answer": "담자균류 (Basidiomycetes)",
+      "explanation": "정답: 담자균류"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.10] 인진호의 polyacetylene과 활성으로 옳은 것은?",
+      "choices": [
+        "capillin, capillarin – 백선균 생육저지, 담즙분비촉진",
+        "falcarinol – 진통",
+        "ligustilide – 진경",
+        "aspidin – 조충구제"
+      ],
+      "answer": "capillin, capillarin – 백선균 생육저지, 담즙분비촉진",
+      "explanation": "정답: capillin·capillarin (인진호)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.10] 일당귀(Angelica acutiloba)의 polyacetylene과 작용은?",
+      "choices": [
+        "falcarindiol, falcarinol(=panaxynol), falcarinolone – 진통",
+        "capillin – 담즙분비촉진",
+        "decursin – 치매예방",
+        "meconin – 진해"
+      ],
+      "answer": "falcarindiol, falcarinol(=panaxynol), falcarinolone – 진통",
+      "explanation": "정답: falcarindiol·falcarinol·falcarinolone — 진통"
+    }
+  ]
+}

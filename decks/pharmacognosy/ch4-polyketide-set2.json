@@ -1,0 +1,357 @@
+{
+  "deckId": "pharmacognosy-ch4-polyketide-set2",
+  "subject": "생약학",
+  "title": "Ch4 Polyketide · 세트 2/5 (phthalide·phloroglucinol·quinone 총론)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.10] falcarinol의 다른 이름은? (인삼 이름에서 유래)",
+      "answer": [
+        "panaxynol",
+        "파낙시놀"
+      ],
+      "explanation": "정답: panaxynol"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.10] 다음 구조(capillin)가 속하는 계열은?\n[[smi:CC#CC#CC(=O)c1ccccc1]]",
+      "choices": [
+        "polyacetylene",
+        "phthalide",
+        "phenylpropanoid",
+        "chromone",
+        "monoterpene"
+      ],
+      "answer": "polyacetylene",
+      "explanation": "정답: polyacetylene\n탄소-탄소 삼중결합(C≡C)이 이어진 것이 특징."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.10] polyacetylene과 함유 생약의 짝이 틀린 것은?",
+      "choices": [
+        "capillin – 인진호",
+        "falcarindiol – 일당귀",
+        "panaxynol – 일당귀(인삼에도)",
+        "falcarinol – 인진호"
+      ],
+      "answer": "falcarinol – 인진호",
+      "explanation": "정답: 'falcarinol – 인진호' (틀림)\nfalcarinol은 일당귀. 인진호는 capillin·capillarin."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q63.png|63번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "polyketide pathway",
+      "explanation": "정답: polyketide pathway\n⚠ PPT 대조: 그림은 falcarinol(panaxynol, 일당귀) — PPT polyketide의 polyacetylene.\n출처: 2025-2 중간 63번"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.11] phthalide계 화합물의 구조적 특징은?",
+      "choices": [
+        "α-pyrone 고리와 유사한 lactone 고리를 가진다",
+        "cyclopropane 고리를 가진다",
+        "삼중결합이 이어져 있다",
+        "질소 고리를 가진다"
+      ],
+      "answer": "α-pyrone 고리와 유사한 lactone 고리를 가진다",
+      "explanation": "정답: lactone 고리\n벤젠 고리(또는 그 환원형)에 5원 lactone이 붙은 구조."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.11] 천궁(Cnidium officinale)의 phthalide 성분은?",
+      "choices": [
+        "cnidilide, ligustilide",
+        "meconin",
+        "catalpalactone",
+        "capillin",
+        "aspidin"
+      ],
+      "answer": "cnidilide, ligustilide",
+      "explanation": "정답: cnidilide, ligustilide"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.11] phthalide와 함유 생약의 짝이 틀린 것은?",
+      "choices": [
+        "ligustilide – 천궁·일당귀",
+        "butylidenephthalide – 일당귀",
+        "meconin – 아편",
+        "catalpalactone – 자실(Catalpa ovata)",
+        "meconin – 천궁"
+      ],
+      "answer": "meconin – 천궁",
+      "explanation": "정답: 'meconin – 천궁' (틀림)\nmeconin은 아편(Papaver somniferum)."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.11] 아편(Papaver somniferum)에 들어 있는 phthalide는?",
+      "answer": [
+        "meconin",
+        "메코닌"
+      ],
+      "explanation": "정답: meconin\n(아편 확인에 쓰는 meconic acid는 γ-pyrone 성분으로 다른 물질 — 복합경로 단원)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.11] 자실(Catalpa ovata)의 phthalide 성분은?",
+      "choices": [
+        "catalpalactone",
+        "cnidilide",
+        "ligustilide",
+        "meconin",
+        "butylphthalide"
+      ],
+      "answer": "catalpalactone",
+      "explanation": "정답: catalpalactone"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.12] 참당귀와 일당귀 비교로 옳은 것은?",
+      "choices": [
+        "참당귀(Angelica gigas) – coumarin(decursin) / 일당귀(A. acutiloba) – phthalide(ligustilide)·polyacetylene",
+        "참당귀 – phthalide / 일당귀 – coumarin",
+        "둘 다 decursin이 주성분",
+        "참당귀 – polyacetylene만 / 일당귀 – alkaloid"
+      ],
+      "answer": "참당귀(Angelica gigas) – coumarin(decursin) / 일당귀(A. acutiloba) – phthalide(ligustilide)·polyacetylene",
+      "explanation": "정답: 첫 번째\n참당귀: decursin, decursinol angelate / 일당귀: ligustilide, butylidenephthalide, butylphthalide + falcarindiol, falcarinol, falcarinolone."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.12] 참당귀의 학명은? (속명 종소명)",
+      "answer": [
+        "Angelica gigas",
+        "Angelica gigas Nakai",
+        "A. gigas"
+      ],
+      "explanation": "정답: Angelica gigas Nakai\n일당귀는 Angelica acutiloba Kitagawa."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.12] 일당귀(Angelica acutiloba)의 주성분 계열이 아닌 것은?",
+      "choices": [
+        "phthalide",
+        "polyacetylene",
+        "pyranocoumarin(decursin)"
+      ],
+      "answer": "pyranocoumarin(decursin)",
+      "explanation": "정답: pyranocoumarin(decursin) — 참당귀의 주성분"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.11·12] ligustilide가 들어 있는 생약 두 가지는?",
+      "choices": [
+        "천궁, 일당귀",
+        "참당귀, 인진호",
+        "아편, 자실",
+        "관중, 홉",
+        "대황, 센나"
+      ],
+      "answer": "천궁, 일당귀",
+      "explanation": "정답: 천궁, 일당귀"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q58.png|58번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "polyketide pathway",
+      "explanation": "정답: polyketide pathway\n⚠ PPT 대조: 그림은 ligustilide류 phthalide — PPT polyketide 단원(천궁, 당귀).\n출처: 2025-2 중간 58번"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.13] phloroglucinol 화합물의 특징으로 PPT에 나온 것은?",
+      "choices": [
+        "phloroglucinol 고리를 가지며 tautomeric triketone으로도 나타낸다",
+        "질소를 포함한 고리",
+        "5원 lactone",
+        "cyclopropane"
+      ],
+      "answer": "phloroglucinol 고리를 가지며 tautomeric triketone으로도 나타낸다",
+      "explanation": "정답: 첫 번째\n1,3,5-trihydroxybenzene ⇌ cyclohexane-1,3,5-trione(호변이성)."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.13] 다음 구조(1,3,5-trihydroxybenzene)의 이름은?\n[[smi:Oc1cc(O)cc(O)c1]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.13] 관중(Dryopteris crassirhizoma)의 phloroglucinol 성분과 용도는?",
+      "choices": [
+        "aspidin, albaspidin, aspidinol – 조충구제",
+        "humulone – 맥주 고미",
+        "rottlerin – 진정",
+        "kosin – 항우울"
+      ],
+      "answer": "aspidin, albaspidin, aspidinol – 조충구제",
+      "explanation": "정답: aspidin류 — 조충(촌충) 구제"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.13] 홉(Humulus lupulus)의 phloroglucinol 성분과 작용은?",
+      "choices": [
+        "humulone, lupulone – 맥주의 고미 성분, 고미·진정·항균",
+        "aspidin – 조충구제",
+        "rottlerin – 조충구제",
+        "cannabinolide – 향정신성"
+      ],
+      "answer": "humulone, lupulone – 맥주의 고미 성분, 고미·진정·항균",
+      "explanation": "정답: humulone, lupulone\n복합경로 단원에서는 polyketide + mevalonate(prenyl) 화합물로도 나온다."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.13] 저목(Mallotus philippinensis)의 phloroglucinol 성분은?",
+      "choices": [
+        "rottlerin",
+        "aspidin",
+        "humulone",
+        "kosin",
+        "albaspidin"
+      ],
+      "answer": "rottlerin",
+      "explanation": "정답: rottlerin — 조충구제"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.13] humulone·lupulone을 함유한 홉의 학명은? (속명 종소명)",
+      "answer": [
+        "Humulus lupulus",
+        "H. lupulus"
+      ],
+      "explanation": "정답: Humulus lupulus\nhumulene(sesquiterpene, Ch2)도 홉 정유 성분이다."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.13] phloroglucinol계 성분 중 조충구제에 쓰이지 않는 것은?",
+      "choices": [
+        "홉의 humulone",
+        "관중의 aspidin",
+        "저목의 rottlerin",
+        "관중의 albaspidin"
+      ],
+      "answer": "홉의 humulone",
+      "explanation": "정답: 홉의 humulone (고미·진정·항균)"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.13] phloroglucinol과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "α·β-kosin – 코소화",
+        "cannabinolide – 인도대마초 (향정신성)",
+        "aspidinol – 관중",
+        "lupulone – 홉",
+        "rottlerin – 관중"
+      ],
+      "answer": "rottlerin – 관중",
+      "explanation": "정답: 'rottlerin – 관중' (틀림) — 저목"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.13] 인도대마초에 들어 있는 phloroglucinol계 성분과 작용은?",
+      "choices": [
+        "cannabinolides – 향정신성 약물",
+        "aspidin – 조충구제",
+        "humulone – 진정",
+        "kosin – 구충"
+      ],
+      "answer": "cannabinolides – 향정신성 약물",
+      "explanation": "정답: cannabinolides — 향정신성"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2020-2] 다음 화합물(aspidin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-aspidin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "acetate-malonate (polyketide) pathway",
+      "explanation": "정답: acetate-malonate (polyketide) pathway\n관중의 phloroglucinol 유도체(조충구제) — acetate-malonate.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2] 다음 화합물(aspidin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-aspidin.png|구조식]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n관중의 phloroglucinol 유도체(조충구제) — acetate-malonate.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q50.png|50번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "polyketide pathway",
+      "explanation": "정답: polyketide pathway\n⚠ PPT 대조: 그림은 acetylphloroglucinol — PPT polyketide의 phloroglucinols.\n출처: 2025-2 중간 50번"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2023-2] humulone, aspidin, albaspidin, lupulone 이 구조를 대표하는 성분 계열은?",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n⚠ PPT 대조: PPT polyketide 단원에 phloroglucinols로 분류. 단 humulone·lupulone은 PPT complex pathway에서 'polyketide + mevalonate'로도 나옴 — 생합성 경로를 물으면 complex.\n출처: 2023-2 중간 31"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.14] quinonoid의 정의로 옳은 것은?",
+      "choices": [
+        "quinone성 화합물 + 쉽게 quinone으로 변할 수 있거나 생합성적으로 밀접한 화합물의 총칭",
+        "모든 방향족 ketone",
+        "질소를 가진 방향족",
+        "steroid의 산화물"
+      ],
+      "answer": "quinone성 화합물 + 쉽게 quinone으로 변할 수 있거나 생합성적으로 밀접한 화합물의 총칭",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.14] PPT의 quinone 분류에 속하지 않는 것은?",
+      "choices": [
+        "benzoquinone",
+        "naphthoquinone",
+        "anthraquinone",
+        "phenanthraquinone",
+        "chromone"
+      ],
+      "answer": "chromone",
+      "explanation": "정답: chromone\n(이 밖에 extended quinone — hypericin 등)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.15] quinone의 생합성 경로로 PPT에 나온 3가지가 아닌 것은?",
+      "choices": [
+        "polyketide pathway",
+        "mevalonate-chorismic acid pathway",
+        "4-hydroxybenzoic acid pathway",
+        "amino acid(ornithine) pathway"
+      ],
+      "answer": "amino acid(ornithine) pathway",
+      "explanation": "정답: ornithine 경로 (없음)"
+    }
+  ]
+}

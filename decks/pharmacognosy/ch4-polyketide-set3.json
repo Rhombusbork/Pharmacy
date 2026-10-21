@@ -1,0 +1,375 @@
+{
+  "deckId": "pharmacognosy-ch4-polyketide-set3",
+  "subject": "생약학",
+  "title": "Ch4 Polyketide · 세트 3/5 (benzoquinone·naphthoquinone·anthraquinone 유형)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.15·18] shikonin·alkannin 생합성의 방향족 출발 물질은?",
+      "choices": [
+        "shikimic acid에서 온 p-hydroxybenzoic acid",
+        "orsellinic acid",
+        "anthranilic acid",
+        "acetyl-CoA 6분자",
+        "chrysophanol"
+      ],
+      "answer": "shikimic acid에서 온 p-hydroxybenzoic acid",
+      "explanation": "정답: p-hydroxybenzoic acid (+ GPP)\nshikimate + mevalonate 복합 경로. 비슷한 경로로 echinofuran."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.15·23] shikimic acid → iso-chorismic acid에 2-oxoglutaric acid(TPP 필요)가 붙어 생기는 중간체로, naphthoquinone·alizarin형 anthraquinone의 전구체는?",
+      "choices": [
+        "o-succinylbenzoic acid",
+        "p-hydroxybenzoic acid",
+        "orsellinic acid",
+        "olivetolic acid",
+        "anacardic acid"
+      ],
+      "answer": "o-succinylbenzoic acid",
+      "explanation": "정답: o-succinylbenzoic acid (OSB)\n여기에 DMAPP가 더해져 alizarin 등이 된다(shikimate/2-oxoglutarate/mevalonate)."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.14·16] Coenzyme Q10은 어떤 quinone에 속하는가?",
+      "choices": [
+        "benzoquinone",
+        "naphthoquinone",
+        "anthraquinone",
+        "phenanthraquinone"
+      ],
+      "answer": "benzoquinone",
+      "explanation": "정답: benzoquinone (ubiquinone)"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논"
+      ],
+      "explanation": "정답: anthraquinone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.16] mitochondria 안에서 전자전달 coenzyme으로 작용하는 benzoquinone은?",
+      "choices": [
+        "ubiquinone (coenzyme Q)",
+        "plastoquinone",
+        "mitomycin",
+        "embelin",
+        "perezone"
+      ],
+      "answer": "ubiquinone (coenzyme Q)",
+      "explanation": "정답: ubiquinone(CoQ, n = 1~12)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.16] 엽록체에 있으며 광합성 전자전달에 관여하는 benzoquinone은?",
+      "choices": [
+        "plastoquinone",
+        "ubiquinone",
+        "rapanone",
+        "maesaquinone",
+        "polyporic acid"
+      ],
+      "answer": "plastoquinone",
+      "explanation": "정답: plastoquinone"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.16] Streptomyces caespitosus가 생산하는 항균·항종양 항생물질(benzoquinone계)로 DNA 합성과 유사분열을 저해하는 것은?",
+      "choices": [
+        "mitomycin",
+        "doxorubicin",
+        "tetracycline",
+        "erythromycin",
+        "embelin"
+      ],
+      "answer": "mitomycin",
+      "explanation": "정답: mitomycin"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.16] Embelia ribes 과실의 등색 색소로 백혈병 세포 파괴를 유도하는 benzoquinone은?",
+      "choices": [
+        "embelin",
+        "rapanone",
+        "perezone",
+        "lawsone",
+        "juglone"
+      ],
+      "answer": "embelin",
+      "explanation": "정답: embelin (R = C₁₁H₂₃; rapanone은 C₁₃H₂₇)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.16] 미토콘드리아 호흡을 억제하는 benzoquinone 짝은?",
+      "choices": [
+        "rapanone (Rapanea maximowiczii), maesaquinone (Maesa japonica)",
+        "ubiquinone, plastoquinone",
+        "mitomycin, embelin",
+        "perezone, polyporic acid"
+      ],
+      "answer": "rapanone (Rapanea maximowiczii), maesaquinone (Maesa japonica)",
+      "explanation": "정답: rapanone, maesaquinone"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.17] 목재 부패균(Polyporus nidulans)의 청동색 색소인 benzoquinone은?",
+      "choices": [
+        "polyporic acid",
+        "asterriquinone",
+        "perezone",
+        "embelin",
+        "plastoquinone"
+      ],
+      "answer": "polyporic acid",
+      "explanation": "정답: polyporic acid"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.17] 국화과 Perezia adnata에 들어 있는 등색 색소(benzoquinone)는?",
+      "choices": [
+        "perezone",
+        "embelin",
+        "juglone",
+        "lawsone",
+        "alkannin"
+      ],
+      "answer": "perezone",
+      "explanation": "정답: perezone"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.16·17] benzoquinone과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "asterriquinone – Aspergillus terreus",
+        "mitomycin – Streptomyces caespitosus",
+        "embelin – Embelia ribes",
+        "plastoquinone – 엽록체",
+        "polyporic acid – 호두"
+      ],
+      "answer": "polyporic acid – 호두",
+      "explanation": "정답: 'polyporic acid – 호두' (틀림)\n호두는 juglone(naphthoquinone)."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.18·19] naphthoquinone의 생합성 경로로 PPT에 나온 것이 아닌 것은?",
+      "choices": [
+        "shikimate-mevalonate pathway",
+        "acetate-malonate(polyketide) pathway",
+        "mevalonate pathway",
+        "ornithine pathway"
+      ],
+      "answer": "ornithine pathway",
+      "explanation": "정답: ornithine pathway\nnaphthoquinone은 여러 경로로 만들어진다(그림 50)."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.20] vitamin K에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "K1 = phylloquinone, K2 = menaquinone이며 전자전달과 혈액응고인자(prothrombin) 수준 유지에 관여",
+        "K1 = menaquinone, K2 = phylloquinone",
+        "benzoquinone이다",
+        "혈액응고를 억제한다"
+      ],
+      "answer": "K1 = phylloquinone, K2 = menaquinone이며 전자전달과 혈액응고인자(prothrombin) 수준 유지에 관여",
+      "explanation": "정답: 첫 번째\ndicoumarol·warfarin은 vitamin K 작용을 저해해 항응고 작용을 한다."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.20] Impatiens balsamina(봉선화)와 Lawsonia alba(헤나)의 황색 색소 naphthoquinone은?",
+      "choices": [
+        "lawsone",
+        "juglone",
+        "lapachol",
+        "shikonin",
+        "dunnione"
+      ],
+      "answer": "lawsone",
+      "explanation": "정답: lawsone"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.20] 능소화과(Bignoniaceae) 심재에 존재하는 naphthoquinone은?",
+      "choices": [
+        "lapachol, isolapachol",
+        "shikonin",
+        "lawsone",
+        "juglone",
+        "alkannin"
+      ],
+      "answer": "lapachol, isolapachol",
+      "explanation": "정답: lapachol, isolapachol"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2] 다음 화합물(lapachol)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-lapachol.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\nshikimate + mevalonate 복합 경로 — naphthoquinone(능소화과 심재).\nPPT polyketide 단원 p.20에서는 naphthoquinone으로 소개된다.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2020-2] 다음 화합물(lapachol)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-lapachol.png|구조식]]",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\nshikimate + mevalonate 복합 경로 — naphthoquinone(능소화과 심재).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.20] 자근(Lithospermum erythrorhizon)의 적등색 색소는?",
+      "choices": [
+        "shikonin, acetylshikonin",
+        "alkannin",
+        "lawsone",
+        "juglone",
+        "hypericin"
+      ],
+      "answer": "shikonin, acetylshikonin",
+      "explanation": "정답: shikonin, acetylshikonin\nalkannin은 Alkanna tinctoria 뿌리의 적색소."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.18·20] shikonin과 alkannin의 관계는?",
+      "choices": [
+        "곁사슬 OH의 입체 배치만 다른 거울상 이성질체(R1·R2가 서로 바뀜)",
+        "탄소 수가 다른 동족체",
+        "하나는 anthraquinone, 하나는 naphthoquinone",
+        "배당체와 aglycone"
+      ],
+      "answer": "곁사슬 OH의 입체 배치만 다른 거울상 이성질체(R1·R2가 서로 바뀜)",
+      "explanation": "정답: 거울상 이성질체\nshikonin(R1 = H, R2 = OH) / alkannin(R1 = OH, R2 = H)."
+    },
+    {
+      "id": 22,
+      "question": "[기출 2022-2·2023-1·2023-2] Shikonin-Alkannin의 성분계열은?",
+      "choices": [
+        "C Indole Alkaloid",
+        "Triterpene saponin",
+        "Flavolignan",
+        "Isothiocyanate glycoside",
+        "Naphthoquinone"
+      ],
+      "answer": "Naphthoquinone",
+      "explanation": "정답: Naphthoquinone\n자근의 적색 색소 — naphthoquinone.\n출처: 2022-2 중간 8 · 2023-1 중간 객관2 · 2023-2 중간 18 (3회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2023-1] shikonin-alkannin의 계열은?",
+      "choices": [
+        "naphthoquinone",
+        "limonoid",
+        "anthraquinone",
+        "benzoquinone",
+        "quassinoid"
+      ],
+      "answer": "naphthoquinone",
+      "explanation": "정답: naphthoquinone\n자근의 적색 색소 — naphthoquinone.\n출처: 2023-1 중간 객관17"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.20] 다음 구조(juglone)를 함유한 식물은?\n[[smi:O=C1C=CC(=O)c2c(O)cccc21]]",
+      "choices": [
+        "호두",
+        "봉선화",
+        "자근",
+        "능소화",
+        "단삼"
+      ],
+      "answer": "호두",
+      "explanation": "정답: 호두 — juglone(5-hydroxy-1,4-naphthoquinone)"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.20] naphthoquinone과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "dunnione – Streptocarpus dunnii 잎 선모의 등적색 색소",
+        "alkannin – Alkanna tinctoria 뿌리",
+        "lawsone – 봉선화",
+        "juglone – 호두",
+        "dunnione – 대황"
+      ],
+      "answer": "dunnione – 대황",
+      "explanation": "정답: 'dunnione – 대황' (틀림) — 대황은 emodin형 anthraquinone"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.36 복습표] shikonin의 '생합성 과정 / building block / 화합물군'으로 PPT에 예시된 것은?",
+      "choices": [
+        "shikimate + mevalonate / C6 + 2×C5 / naphthoquinone",
+        "polyketide / 4×C2 / naphthoquinone",
+        "shikimate / C6C3 / phenylpropanoid",
+        "mevalonate / C5×3 / sesquiterpene"
+      ],
+      "answer": "shikimate + mevalonate / C6 + 2×C5 / naphthoquinone",
+      "explanation": "정답: s + m / C6 + 2×C5 / naphthoquinone\np-hydroxybenzoic acid(C6, 카복실 탄소는 빠짐) + GPP(2×C5)."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.21] anthraquinone의 두 가지 생합성 유형과 산소 배치의 짝으로 옳은 것은?",
+      "choices": [
+        "emodin형(acetate-malonate) – 산소가 양쪽 방향환에 하나씩 건너 / alizarin형(shikimate) – 산소가 한쪽 방향환에 치우침",
+        "emodin형 – 한쪽에 치우침 / alizarin형 – 양쪽에 건너",
+        "둘 다 mevalonate",
+        "emodin형은 질소를 가짐"
+      ],
+      "answer": "emodin형(acetate-malonate) – 산소가 양쪽 방향환에 하나씩 건너 / alizarin형(shikimate) – 산소가 한쪽 방향환에 치우침",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.21] emodin형 anthraquinone을 함유하는 과가 아닌 것은?",
+      "choices": [
+        "Polygonaceae (대황, 호장근, 하수오)",
+        "Leguminosae (센나엽, 결명자)",
+        "Rhamnaceae (카스카라사그라다, 후랑굴라)",
+        "Liliaceae (노회)",
+        "Rubiaceae (꼭두서니)"
+      ],
+      "answer": "Rubiaceae (꼭두서니)",
+      "explanation": "정답: Rubiaceae — alizarin형\nalizarin형: Rubiaceae, Bignoniaceae, Verbenaceae."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.21] alizarin형 anthraquinone이 있는 과는?",
+      "choices": [
+        "Rubiaceae, Bignoniaceae, Verbenaceae",
+        "Polygonaceae, Rhamnaceae",
+        "Leguminosae, Liliaceae",
+        "Compositae, Umbelliferae"
+      ],
+      "answer": "Rubiaceae, Bignoniaceae, Verbenaceae",
+      "explanation": "정답: 꼭두서니과, 능소화과, 마편초과"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.21·22] 다음 구조(emodin)는 어느 유형의 anthraquinone인가?\n[[smi:Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1]]",
+      "choices": [
+        "emodin형 – acetate-malonate(polyketide) 경로",
+        "alizarin형 – shikimate 경로",
+        "mevalonate형",
+        "amino acid형"
+      ],
+      "answer": "emodin형 – acetate-malonate(polyketide) 경로",
+      "explanation": "정답: emodin형\n산소(OH, C=O)가 양쪽 고리에 하나씩 건너 배치."
+    }
+  ]
+}
