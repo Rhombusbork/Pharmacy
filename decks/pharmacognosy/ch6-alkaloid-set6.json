@@ -1,0 +1,382 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set6",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 6/7 (vinca·quinoline·camptothecin·ergot·His·anthranilic acid)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.52] vinblastine·vincristine의 적응증으로 PPT에 없는 것은?",
+      "choices": [
+        "급성 백혈병",
+        "Hodgkin병",
+        "non-Hodgkin 림프종",
+        "유방암",
+        "말라리아"
+      ],
+      "answer": "말라리아",
+      "explanation": "정답: 말라리아"
+    },
+    {
+      "id": 2,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑤ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "indole",
+      "explanation": "정답: indole\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.55] Cinchona(기나피)의 quinoline alkaloid가 아닌 것은?",
+      "choices": [
+        "quinine",
+        "quinidine",
+        "cinchonidine",
+        "cinchonine",
+        "camptothecin"
+      ],
+      "answer": "camptothecin",
+      "explanation": "정답: camptothecin (pyrroloquinoline, 희수)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.55] quinine과 cinchonidine의 구조 차이는?",
+      "choices": [
+        "quinine은 quinoline 고리에 OCH₃(R = OCH₃), cinchonidine은 R = H",
+        "cinchonidine에만 vinyl기가 있다",
+        "quinine은 indole이다",
+        "탄소 골격이 완전히 다르다"
+      ],
+      "answer": "quinine은 quinoline 고리에 OCH₃(R = OCH₃), cinchonidine은 R = H",
+      "explanation": "정답: 첫 번째\nquinine ↔ quinidine, cinchonidine ↔ cinchonine은 입체이성질체."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.55] quinine을 본떠 만든 합성 항말라리아제가 아닌 것은?",
+      "choices": [
+        "chloroquine",
+        "hydroxychloroquine",
+        "primaquine",
+        "mefloquine",
+        "artemisinin"
+      ],
+      "answer": "artemisinin",
+      "explanation": "정답: artemisinin (개똥쑥 sesquiterpene)\n합성: chloroquine, hydroxychloroquine, mepacrine, primaquine, mefloquine, halofantrine."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.56] quinine 생합성에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "strictosidine → corynantheal → (indole 고리 재배열) → cinchoninone → quinine",
+        "anthranilic acid + acetyl-CoA → quinine",
+        "reticuline → quinine",
+        "lysine → quinine"
+      ],
+      "answer": "strictosidine → corynantheal → (indole 고리 재배열) → cinchoninone → quinine",
+      "explanation": "정답: 첫 번째 — indole alkaloid가 quinoline alkaloid로 변한다"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ③ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "quinoline",
+      "explanation": "정답: quinoline\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.57] 희수(Camptotheca acuminata, happy tree)의 camptothecin 작용 기전은?",
+      "choices": [
+        "topoisomerase I 저해",
+        "topoisomerase II 저해",
+        "microtubule 안정화",
+        "tubulin 결합",
+        "DNA 알킬화"
+      ],
+      "answer": "topoisomerase I 저해",
+      "explanation": "정답: topoisomerase I 저해 (pyrroloquinoline alkaloid)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.57] camptothecin 유도체와 적응증의 짝으로 옳은 것은?",
+      "choices": [
+        "irinotecan – 전이성 대장암 / topotecan – 전이성 난소암(1996 FDA)",
+        "irinotecan – 백혈병 / topotecan – 말라리아",
+        "둘 다 통풍",
+        "topotecan – 파킨슨"
+      ],
+      "answer": "irinotecan – 전이성 대장암 / topotecan – 전이성 난소암(1996 FDA)",
+      "explanation": "정답: 첫 번째 (9-aminocamptothecin도 유도체)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.57·58] camptothecin 생합성 경로로 옳은 것은?",
+      "choices": [
+        "strictosidine → strictosamide → β-carboline(pyridoindole) 재배열 → pyrroloquinoline",
+        "reticuline → camptothecin",
+        "anthranilic acid → camptothecin",
+        "tryptamine + DMAPP → camptothecin"
+      ],
+      "answer": "strictosidine → strictosamide → β-carboline(pyridoindole) 재배열 → pyrroloquinoline",
+      "explanation": "정답: 첫 번째 (그림 98)"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2022-2] 빈칸에 알맞은 말을 쓰시오.\n[[img:pharmacognosy/images/2022-2-mid-s8.png|β-carboline 변환]]",
+      "answer": [
+        "pyrroloquinoline",
+        "피롤로퀴놀린"
+      ],
+      "explanation": "정답: pyrroloquinoline\nβ-carboline(pyridoindole)이 재배열되어 pyrroloquinoline alkaloid(예: camptothecin)가 된다.\n출처: 2022-2 중간 주관8"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.59] 카라발두(Calabar bean)의 pyrroloindole alkaloid는?",
+      "choices": [
+        "physostigmine (eserine)",
+        "strychnine",
+        "reserpine",
+        "harmine",
+        "gramine"
+      ],
+      "answer": "physostigmine (eserine)",
+      "explanation": "정답: physostigmine(eserine) — cholinesterase 저해"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.59 그림 99] physostigmine의 pyrroloindole 고리 형성에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "tryptamine 유도체가 indole C-3에서 C-메틸화(친핵성)된 뒤 iminium ion에 질소가 친핵 공격하여 고리 형성",
+        "secologanin과 Mannich 반응",
+        "reticuline의 산화적 짝지음",
+        "anthranilic acid와 축합"
+      ],
+      "answer": "tryptamine 유도체가 indole C-3에서 C-메틸화(친핵성)된 뒤 iminium ion에 질소가 친핵 공격하여 고리 형성",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.59·60] physostigmine을 본떠 만든 carbamate계 의약품·농약이 아닌 것은?",
+      "choices": [
+        "neostigmine",
+        "pyridostigmine",
+        "rivastigmine",
+        "carbaryl (살충제)",
+        "tubocurarine"
+      ],
+      "answer": "tubocurarine",
+      "explanation": "정답: tubocurarine (bisBIQ 근이완제)\nphysostigmine 계열: neostigmine, pyridostigmine, rivastigmine, distigmine, edrophonium, carbaryl."
+    },
+    {
+      "id": 15,
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q33.png|33번 구조]]",
+      "choices": [
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
+      ],
+      "answer": "Pyrroloindole",
+      "explanation": "정답: Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine).\n출처: 2025-2 중간 33번"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.61] 맥각 alkaloid와 작용의 짝으로 옳은 것은?",
+      "choices": [
+        "ergotamine – 혈관수축 / ergometrine – 진통(분만) 촉진, 속효성",
+        "ergotamine – 분만 촉진 / ergometrine – 혈관확장",
+        "LSD – 진통",
+        "lysergic acid – 근이완"
+      ],
+      "answer": "ergotamine – 혈관수축 / ergometrine – 진통(분만) 촉진, 속효성",
+      "explanation": "정답: 첫 번째 (LSD = lysergic acid diethylamide, 환각)"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.61] 맥각 alkaloid의 기본 핵은?",
+      "choices": [
+        "ergoline",
+        "morphinan",
+        "tropane",
+        "quinolizidine",
+        "aporphine"
+      ],
+      "answer": "ergoline",
+      "explanation": "정답: ergoline\nR = OH (+)-lysergic acid, NH₂ ergine(lysergic acid amide), N(C₂H₅)₂ LSD."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.61] lysergic acid amide의 다른 이름은?",
+      "choices": [
+        "ergine",
+        "erginine",
+        "ergotamine",
+        "ergometrine",
+        "LSD"
+      ],
+      "answer": "ergine",
+      "explanation": "정답: ergine (isolysergic acid amide는 erginine)"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.62] ergotamine 같은 peptide alkaloid는 lysergic acid가 어떤 형태로 활성화된 뒤 펩타이드와 결합하는가?",
+      "choices": [
+        "lysergyl-CoA",
+        "lysergyl-AMP만",
+        "lysergic acid methyl ester",
+        "lysergol",
+        "ergine"
+      ],
+      "answer": "lysergyl-CoA",
+      "explanation": "정답: lysergyl-CoA (그림 100)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.63] 맥각 peptide alkaloid 중 ergotoxine group에 속하는 것은?",
+      "choices": [
+        "ergocristine, α-ergocryptine, ergocornine",
+        "ergotamine, ergosine",
+        "ergometrine",
+        "lysergic acid",
+        "ergine"
+      ],
+      "answer": "ergocristine, α-ergocryptine, ergocornine",
+      "explanation": "정답: ergocristine, ergocryptine, ergocornine\nergotamine group: ergotamine, ergosine 등."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.64] 오수유의 indole alkaloid evodiamine·rutaecarpine의 생합성 특징은?",
+      "choices": [
+        "tryptamine에 anthranilic acid가 직접 결합",
+        "tryptamine + secologanin",
+        "dopamine + secologanin",
+        "tryptamine + DMAPP",
+        "anthranilic acid만"
+      ],
+      "answer": "tryptamine에 anthranilic acid가 직접 결합",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.65] histidine 유래 imidazole alkaloid는?",
+      "choices": [
+        "pilocarpine",
+        "physostigmine",
+        "quinine",
+        "lobeline",
+        "arecoline"
+      ],
+      "answer": "pilocarpine",
+      "explanation": "정답: pilocarpine (pilocarpidine, isopilocarpine, pilosine, dolichotheline도)"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.65] histidine이 histidine decarboxylase로 탈탄산되어 생기는 생체아민은?",
+      "choices": [
+        "histamine",
+        "tyramine",
+        "tryptamine",
+        "putrescine",
+        "cadaverine"
+      ],
+      "answer": "histamine",
+      "explanation": "정답: histamine"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.65] dolichotheline의 구성으로 그림에 나온 것은?",
+      "choices": [
+        "histamine + isovaleric acid (amide)",
+        "tryptamine + secologanin",
+        "dopamine + secologanin",
+        "putrescine 2분자"
+      ],
+      "answer": "histamine + isovaleric acid (amide)",
+      "explanation": "정답: histamine + isovaleric acid"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.9·65] 다음 고리(imidazole)를 가진 alkaloid의 원료 아미노산은?\n[[smi:c1c[nH]cn1]]",
+      "choices": [
+        "histidine",
+        "tryptophan",
+        "ornithine",
+        "lysine",
+        "tyrosine"
+      ],
+      "answer": "histidine",
+      "explanation": "정답: histidine"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.66] anthranilic acid 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "quinazoline – peganine(vasicine)",
+        "quinoline – dictamnine, skimmianine, platydesmine",
+        "acridine – acronycine, melicopicine, rutacridone",
+        "quinoline – peganine"
+      ],
+      "answer": "quinoline – peganine",
+      "explanation": "정답: 마지막 (틀림) — peganine(vasicine)은 quinazoline"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.66] acridine alkaloid는?",
+      "choices": [
+        "acronycine",
+        "dictamnine",
+        "peganine",
+        "skimmianine",
+        "quinine"
+      ],
+      "answer": "acronycine",
+      "explanation": "정답: acronycine (melicopicine, rutacridone도)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.66] quinazoline alkaloid peganine의 다른 이름은?",
+      "answer": [
+        "vasicine",
+        "바시신"
+      ],
+      "explanation": "정답: vasicine"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.66] 백선피 등 운향과의 furoquinoline alkaloid dictamnine의 원료는?",
+      "choices": [
+        "anthranilic acid",
+        "tryptophan",
+        "ornithine",
+        "histidine",
+        "lysine"
+      ],
+      "answer": "anthranilic acid",
+      "explanation": "정답: anthranilic acid (quinoline형)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.67] amination 반응으로 만들어지는 alkaloid 분류가 아닌 것은?",
+      "choices": [
+        "acetate 유래 alkaloid (coniine)",
+        "terpenoid alkaloid",
+        "steroidal alkaloid",
+        "tropane alkaloid"
+      ],
+      "answer": "tropane alkaloid",
+      "explanation": "정답: tropane (ornithine 유래 true alkaloid)\n아미노산 골격 없이 질소만 나중에 들어온 것들."
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set3",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 3/7 (pyrrolizidine·lysine·nicotinic acid·phenylethylamine)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.17] senecic acid의 원료 아미노산은?",
+      "choices": [
+        "L-isoleucine 2분자",
+        "L-ornithine",
+        "L-lysine",
+        "L-tyrosine",
+        "L-tryptophan"
+      ],
+      "answer": "L-isoleucine 2분자",
+      "explanation": "정답: L-Ile × 2"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.17] pyrrolizidine 생합성에서 putrescine을 공급할 수 있는 아미노산으로 그림에 함께 나온 것은?",
+      "choices": [
+        "L-arginine (L-ornithine과 함께)",
+        "L-lysine",
+        "L-tyrosine",
+        "L-tryptophan",
+        "L-histidine"
+      ],
+      "answer": "L-arginine (L-ornithine과 함께)",
+      "explanation": "정답: L-Arg → putrescine (Orn 경유 또는 agmatine 경유)"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.10·17] pyrrolizidine alkaloid가 많은 식물 속(genus)은?",
+      "choices": [
+        "Senecio",
+        "Atropa",
+        "Papaver",
+        "Cinchona",
+        "Ephedra"
+      ],
+      "answer": "Senecio",
+      "explanation": "정답: Senecio (국화과)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.18] lysine 유래 alkaloid와 예의 짝이 틀린 것은?",
+      "choices": [
+        "piperidine – lobeline, pelletierine",
+        "piperidine amide – piperine",
+        "quinolizidine – matrine, huperzine A",
+        "indolizidine – castanospermine, swainsonine",
+        "indolizidine – cocaine"
+      ],
+      "answer": "indolizidine – cocaine",
+      "explanation": "정답: 'indolizidine – cocaine' (틀림) — cocaine은 ornithine 유래 tropane"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.19] 로벨리아초의 piperidine alkaloid lobeline의 작용은?",
+      "choices": [
+        "호흡중추 흥분 — 천식·기관지염",
+        "구충",
+        "진경",
+        "혈관수축",
+        "근이완"
+      ],
+      "answer": "호흡중추 흥분 — 천식·기관지염",
+      "explanation": "정답: 호흡중추 흥분"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.19] 석류피의 구충 성분(piperidine alkaloid)은?",
+      "choices": [
+        "pelletierine",
+        "lobeline",
+        "coniine",
+        "piperine",
+        "arecoline"
+      ],
+      "answer": "pelletierine",
+      "explanation": "정답: pelletierine (석류피의 tannin은 granatin)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.19·20] 코니움실(hemlock, Conium maculatum)의 coniine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "진경제이며, piperidine 고리를 가지지만 lysine에서 유래하지 않는다(octanoic acid + transamination)",
+        "lysine에서 유래하는 대표 piperidine",
+        "석류피의 구충 성분",
+        "tropane alkaloid"
+      ],
+      "answer": "진경제이며, piperidine 고리를 가지지만 lysine에서 유래하지 않는다(octanoic acid + transamination)",
+      "explanation": "정답: 첫 번째 — acetate 유래 alkaloid(amination, 그림 104)"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.19] pelletierine 생합성 순서로 옳은 것은?",
+      "choices": [
+        "L-Lys → cadaverine → Δ¹-piperideine(Schiff base) + acetoacetyl-CoA(Mannich) → pelletierine",
+        "L-Orn → putrescine → pelletierine",
+        "octanoic acid → coniine → pelletierine",
+        "L-Phe → pelletierine"
+      ],
+      "answer": "L-Lys → cadaverine → Δ¹-piperideine(Schiff base) + acetoacetyl-CoA(Mannich) → pelletierine",
+      "explanation": "정답: 첫 번째 (가수분해·탈탄산 포함)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.19] L-lysine이 탈탄산되어 생기는 diamine은?",
+      "answer": [
+        "cadaverine",
+        "카다베린"
+      ],
+      "explanation": "정답: cadaverine (ornithine의 경우 putrescine)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.21] 후추(Piper nigrum)의 매운 성분 piperine의 분류는?",
+      "choices": [
+        "piperidine amide (Piperaceae)",
+        "tropane",
+        "quinolizidine",
+        "pyrrolizidine",
+        "purine"
+      ],
+      "answer": "piperidine amide (Piperaceae)",
+      "explanation": "정답: piperidine amide\npiperic acid(piperoyl-CoA, malonyl-CoA로 사슬 연장) + piperidine이 amide 결합."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.21] piperine 생합성에서 piperoyl-CoA의 사슬이 길어지는 방식은?",
+      "choices": [
+        "malonyl-CoA로 Claisen 연장 후 지방산 생합성처럼 환원·탈수",
+        "IPP 축합",
+        "아미노기 전이",
+        "산화적 짝지음"
+      ],
+      "answer": "malonyl-CoA로 Claisen 연장 후 지방산 생합성처럼 환원·탈수",
+      "explanation": "정답: 첫 번째 → piperoyl-CoA + piperidine → amide(piperine)"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.22] quinolizidine alkaloid의 정의는?",
+      "choices": [
+        "질소를 포함한 이환(bicyclic) 헤테로고리",
+        "질소 2개의 5원 방향환",
+        "indole + pyrrole",
+        "단일 piperidine"
+      ],
+      "answer": "질소를 포함한 이환(bicyclic) 헤테로고리",
+      "explanation": "정답: bicyclic nitrogen-containing heterocycle"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.22] 고삼(Sophora flavescens)의 quinolizidine alkaloid와 작용은?",
+      "choices": [
+        "matrine, oxymatrine – 스트레스성 궤양 예방",
+        "huperzine A – Alzheimer",
+        "lupinine – 독성",
+        "berberine – 고미건위",
+        "coniine – 진경"
+      ],
+      "answer": "matrine, oxymatrine – 스트레스성 궤양 예방",
+      "explanation": "정답: matrine, oxymatrine"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.22] huperzine A에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "Huperzia serrata(= Lycopodium serratum)에서 얻는다",
+        "가역적 acetylcholinesterase 저해제",
+        "혈액뇌관문(BBB)을 통과한다",
+        "Alzheimer 치료에 유망",
+        "ornithine에서 유래한 tropane alkaloid이다"
+      ],
+      "answer": "ornithine에서 유래한 tropane alkaloid이다",
+      "explanation": "정답: 마지막 (틀림) — lysine 유래 quinolizidine계\nglutamate 독성에 대한 보호작용도 있다."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.22] Lupinus속(콩과)의 독성 quinolizidine alkaloid는?",
+      "choices": [
+        "(−)-lupinine",
+        "matrine",
+        "swainsonine",
+        "lobeline",
+        "piperine"
+      ],
+      "answer": "(−)-lupinine",
+      "explanation": "정답: lupinine"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.23] indolizidine alkaloid와 작용의 짝으로 옳은 것은?",
+      "choices": [
+        "swainsonine – mannosidase 저해 / castanospermine – glycosidase 저해(항바이러스, anti-HIV 연구)",
+        "swainsonine – AChE 저해 / castanospermine – 진경",
+        "둘 다 구충",
+        "둘 다 국소마취"
+      ],
+      "answer": "swainsonine – mannosidase 저해 / castanospermine – glycosidase 저해(항바이러스, anti-HIV 연구)",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.23] indolizidine alkaloid와 함께 소개된, α-glucosidase를 억제해 탄수화물 소화·포도당 흡수를 늦추는 당뇨약은?",
+      "choices": [
+        "acarbose (글루코바이)",
+        "metformin",
+        "insulin",
+        "glibenclamide",
+        "huperzine A"
+      ],
+      "answer": "acarbose (글루코바이)",
+      "explanation": "정답: acarbose"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.24] nicotinic acid의 다른 이름은?",
+      "choices": [
+        "niacin (vitamin B3)",
+        "vitamin B1 (thiamine)",
+        "vitamin B6",
+        "vitamin C",
+        "vitamin K"
+      ],
+      "answer": "niacin (vitamin B3)",
+      "explanation": "정답: niacin, vitamin B3"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.24] nicotinic acid 생합성의 중간체로 그림 80에 나온 것은?",
+      "choices": [
+        "quinolinic acid",
+        "putrescine",
+        "cadaverine",
+        "tryptamine",
+        "dopamine"
+      ],
+      "answer": "quinolinic acid",
+      "explanation": "정답: quinolinic acid (3-phosphoglyceraldehyde + aspartic acid 유래)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.24] nicotinic acid 유래 alkaloid와 생약·용도의 짝이 틀린 것은?",
+      "choices": [
+        "nicotine, anabasine – 연초 – 농업용 살충제",
+        "arecoline – 빈랑자 – 구강청결제·구충제",
+        "ricinine – 피마자",
+        "trigonelline – nicotinic acid의 N-methyl 유도체",
+        "arecoline – 연초 – 진해"
+      ],
+      "answer": "arecoline – 연초 – 진해",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.24] 빈랑자의 alkaloid와 용도는?",
+      "choices": [
+        "arecoline – 구강청결제, 구충제",
+        "nicotine – 살충제",
+        "ricinine – 사하",
+        "pelletierine – 구충",
+        "lobeline – 호흡흥분"
+      ],
+      "answer": "arecoline – 구강청결제, 구충제",
+      "explanation": "정답: arecoline (arecaidine, guvacoline, guvacine도)"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.24] 피마자의 pyridine alkaloid는?",
+      "choices": [
+        "ricinine",
+        "arecoline",
+        "anabasine",
+        "nornicotine",
+        "trigonelline"
+      ],
+      "answer": "ricinine",
+      "explanation": "정답: ricinine"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.25] niacin의 기능으로 PPT에 없는 것은?",
+      "choices": [
+        "펠라그라 예방·치료",
+        "말초혈관 확장(편두통, 수족냉증 등)",
+        "콜레스테롤 감소",
+        "관절염 통증 완화",
+        "혈액응고 촉진"
+      ],
+      "answer": "혈액응고 촉진",
+      "explanation": "정답: 혈액응고 촉진 (vitamin K의 역할)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.24] 연초의 alkaloid로 농업용 살충제에 쓰이는 것은?",
+      "choices": [
+        "nicotine, anabasine",
+        "arecoline",
+        "ricinine",
+        "pelletierine",
+        "coniine"
+      ],
+      "answer": "nicotine, anabasine",
+      "explanation": "정답: nicotine, anabasine"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.26] Phe·Tyr 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "phenylethylamine – mescaline, ephedrine",
+        "benzylisoquinoline – papaverine, reticuline",
+        "phenethylisoquinoline – colchicine",
+        "Amaryllidaceae – lycorine, galanthamine",
+        "monoterpenoid isoquinoline – vinblastine"
+      ],
+      "answer": "monoterpenoid isoquinoline – vinblastine",
+      "explanation": "정답: 마지막 (틀림)\nmonoterpenoid isoquinoline은 emetine·cephaeline(토근). vinblastine은 monoterpenoid indole(Trp)."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.27] phenylethylamine 계열 생체아민의 생합성에서 dopamine → noradrenaline → adrenaline 단계에 관여하지 않는 것은?",
+      "choices": [
+        "ascorbate (수산화)",
+        "SAM (N-메틸화)",
+        "tetrahydrobiopterin (Tyr → DOPA 수산화)",
+        "malonyl-CoA"
+      ],
+      "answer": "malonyl-CoA",
+      "explanation": "정답: malonyl-CoA\nTyr → (tetrahydrobiopterin) L-DOPA → dopamine → (ascorbate) noradrenaline → (SAM) adrenaline. mescaline도 SAM으로 O-메틸화."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.27] 선인장(페요테)의 환각성 phenylethylamine은?",
+      "choices": [
+        "mescaline",
+        "ephedrine",
+        "tyramine",
+        "hordenine",
+        "synephrine"
+      ],
+      "answer": "mescaline",
+      "explanation": "정답: mescaline (3,4,5-trimethoxyphenethylamine)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.27] tyramine의 N,N-dimethyl 유도체인 phenylethylamine은?",
+      "choices": [
+        "hordenine",
+        "dopamine",
+        "synephrine",
+        "mescaline",
+        "ephedrine"
+      ],
+      "answer": "hordenine",
+      "explanation": "정답: hordenine (보리 싹 등)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.28] 다음 구조(ephedrine)에 대한 설명으로 틀린 것은?\n[[smi:CNC(C)C(O)c1ccccc1]]",
+      "choices": [
+        "질소가 고리 밖에 있는 protoalkaloid",
+        "amination 반응으로 만들어지는 alkaloid",
+        "마황(Ephedraceae)의 성분",
+        "α·β 교감신경 흥분, 기관지 확장",
+        "tryptophan에서 유래한다"
+      ],
+      "answer": "tryptophan에서 유래한다",
+      "explanation": "정답: 마지막 (틀림) — Phe 유래(cinnamic acid 경유 C6C1 + pyruvic acid)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.28] ephedrine의 입체이성질체로 비충혈 제거제(nasal decongestant)로 쓰이는 것은?",
+      "choices": [
+        "(+)-pseudoephedrine",
+        "(−)-norephedrine",
+        "synephrine",
+        "cathinone",
+        "mescaline"
+      ],
+      "answer": "(+)-pseudoephedrine",
+      "explanation": "정답: pseudoephedrine"
+    }
+  ]
+}

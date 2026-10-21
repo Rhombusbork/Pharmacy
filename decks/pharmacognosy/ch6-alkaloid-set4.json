@@ -1,0 +1,385 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set4",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 4/7 (ephedrine·isoquinoline·protoberberine·aporphine)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.28] 오수유·진피에 있는 adrenergic stimulant(phenylethylamine)는?",
+      "choices": [
+        "synephrine",
+        "ephedrine",
+        "evodiamine",
+        "hordenine",
+        "dopamine"
+      ],
+      "answer": "synephrine",
+      "explanation": "정답: synephrine\n오수유의 indole alkaloid는 evodiamine·rutaecarpine(p.64)."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.28] ephedrine 생합성에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "Phe → cinnamic acid 경유 곁사슬 분해(C6C1) + pyruvic acid → cathinone → norephedrine → (SAM) ephedrine",
+        "Trp → tryptamine → ephedrine",
+        "Lys → cadaverine → ephedrine",
+        "Orn → putrescine → ephedrine"
+      ],
+      "answer": "Phe → cinnamic acid 경유 곁사슬 분해(C6C1) + pyruvic acid → cathinone → norephedrine → (SAM) ephedrine",
+      "explanation": "정답: 첫 번째 (transamination으로 질소 도입)"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.28 그림 81] ephedrine 생합성 중간체로, khat(카트)의 흥분 성분이기도 한 ketone은?",
+      "choices": [
+        "(−)-cathinone",
+        "norbelladine",
+        "tropinone",
+        "salutaridine",
+        "pelletierine"
+      ],
+      "answer": "(−)-cathinone",
+      "explanation": "정답: cathinone → (환원) norephedrine → (SAM) ephedrine"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.29] simple tetrahydroisoquinoline alkaloid가 아닌 것은?",
+      "choices": [
+        "anhalonidine",
+        "anhalamine",
+        "corydaldine",
+        "papaverine"
+      ],
+      "answer": "papaverine",
+      "explanation": "정답: papaverine (benzylisoquinoline)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.30] papaverine의 작용으로 옳은 것은?",
+      "choices": [
+        "평활근 억제 — 진경, 관상동맥 확장",
+        "중추흥분",
+        "근수축",
+        "구토 유발",
+        "혈관수축 지혈"
+      ],
+      "answer": "평활근 억제 — 진경, 관상동맥 확장",
+      "explanation": "정답: 진경·관상동맥 확장 (simple benzylisoquinoline)"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q51.png|51번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "amino acid pathway",
+      "explanation": "정답: amino acid pathway\n⚠ PPT 대조: 그림은 papaverine(benzylisoquinoline) — 아미노산(Tyr) 유래.\n출처: 2025-2 중간 51번"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.30] benzylisoquinoline alkaloid와 기원·작용의 짝이 틀린 것은?",
+      "choices": [
+        "higenamine(demethylcoclaurine) – 평활근·자궁근 이완",
+        "magnocurarine – 후박",
+        "takatonine – 꿩의다리(Thalictrum)",
+        "papaverine – 진경",
+        "magnocurarine – 음양곽"
+      ],
+      "answer": "magnocurarine – 음양곽",
+      "explanation": "정답: 'magnocurarine – 음양곽' (틀림) — 후박. (PPT 주의: 꿩의다리와 삼지구엽초(음양곽) 혼동 주의)"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2022-2] Isoquinoline alkaloid에 속하는 것은?",
+      "choices": [
+        "vinblastine",
+        "ergotamine",
+        "reserpine",
+        "yohimbine",
+        "higenamine"
+      ],
+      "answer": "higenamine",
+      "explanation": "정답: higenamine\nhigenamine(부자 등) — benzylisoquinoline. vinblastine·reserpine·yohimbine — monoterpenoid indole, ergotamine — ergot(indole).\n출처: 2022-2 중간 4"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.31] benzylisoquinoline 골격의 첫 화합물 (S)-norcoclaurine은 무엇과 무엇이 결합(Mannich-like)해 생기는가?",
+      "choices": [
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "tryptamine + secologanin",
+        "dopamine + secologanin",
+        "putrescine + acetoacetyl-CoA",
+        "tyramine + DMAPP"
+      ],
+      "answer": "dopamine + 4-hydroxyphenylacetaldehyde",
+      "explanation": "정답: dopamine + 4-HPAA (둘 다 Tyr 유래)\n→ coclaurine → N-methylcoclaurine → (S)-reticuline."
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.31] benzylisoquinoline 생합성의 핵심 분기점 화합물은?",
+      "choices": [
+        "reticuline",
+        "strictosidine",
+        "tryptamine",
+        "putrescine",
+        "lysergic acid"
+      ],
+      "answer": "reticuline",
+      "explanation": "정답: reticuline\n(S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / methylation·탈수소 → papaverine."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.31] morphinan alkaloid의 직접 전구체가 되는 reticuline의 입체형은?",
+      "choices": [
+        "(R)-reticuline",
+        "(S)-reticuline",
+        "racemic",
+        "N-nor-reticuline"
+      ],
+      "answer": "(R)-reticuline",
+      "explanation": "정답: (R)-reticuline (1,2-dehydroreticulinium 이온의 환원으로 입체가 바뀜)"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2022-2] 빈칸에 알맞은 말을 쓰시오. 다음 화합물들은 (    ) alkaloid의 구조이다.\n[[img:pharmacognosy/images/2022-2-mid-s7.png|구조식]]",
+      "answer": [
+        "benzyltetrahydroisoquinoline",
+        "bisbenzyltetrahydroisoquinoline",
+        "bisbenzylisoquinoline",
+        "benzylisoquinoline"
+      ],
+      "explanation": "정답: benzyltetrahydroisoquinoline\n족보 답: benzyltetrahydroisoquinoline. tubocurarine·curine 등은 이 단위 두 개가 이어진 bisbenzylisoquinoline.\n출처: 2022-2 중간 주관7"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.32] bisbenzylisoquinoline 함유 생약이 아닌 것은?",
+      "choices": [
+        "방기",
+        "목방기",
+        "칼룸바근",
+        "큐라레",
+        "황련"
+      ],
+      "answer": "황련",
+      "explanation": "정답: 황련 (protoberberine — berberine)\nbisBIQ: Berberidaceae, Menispermaceae, Magnoliaceae."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.32] tubocurarine의 작용으로 옳은 것은?",
+      "choices": [
+        "acetylcholine 길항 → 근육 이완 (strychnine 중독 해소, shock 치료 보조)",
+        "AChE 저해",
+        "dopamine 작용",
+        "Na⁺,K⁺-ATPase 저해"
+      ],
+      "answer": "acetylcholine 길항 → 근육 이완 (strychnine 중독 해소, shock 치료 보조)",
+      "explanation": "정답: 첫 번째 (큐라레의 화살독 성분)"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.32] tubocurarine은 어떻게 만들어지는가?",
+      "choices": [
+        "(S)-N-methylcoclaurine 2분자의 페놀이 1전자 산화되어 라디칼 짝지음(phenol oxidative coupling)",
+        "reticuline의 Mannich 반응",
+        "tryptamine 2분자 결합",
+        "secologanin 결합"
+      ],
+      "answer": "(S)-N-methylcoclaurine 2분자의 페놀이 1전자 산화되어 라디칼 짝지음(phenol oxidative coupling)",
+      "explanation": "정답: 첫 번째 (bisbenzyltetrahydroisoquinoline, (−)-curine도 같은 계열)"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.33] (−)-curine의 다른 이름은?",
+      "choices": [
+        "(−)-(R,R)-bebeerine",
+        "isochondrodendrine",
+        "tubocurarine",
+        "reticuline",
+        "coclaurine"
+      ],
+      "answer": "(−)-(R,R)-bebeerine",
+      "explanation": "정답: bebeerine (bisbenzyltetrahydroisoquinoline)"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.34] protoberberine alkaloid가 분포하는 과가 아닌 것은?",
+      "choices": [
+        "Papaveraceae",
+        "Berberidaceae",
+        "Ranunculaceae",
+        "Rutaceae",
+        "Solanaceae"
+      ],
+      "answer": "Solanaceae",
+      "explanation": "정답: Solanaceae\n+ Menispermaceae."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.34] 황련·황백의 protoberberine alkaloid와 작용은?",
+      "choices": [
+        "berberine, palmatine – 고미, 고미건위정장",
+        "corydaline – 위궤양",
+        "chelidonine – 진경",
+        "hydrastine – 지혈",
+        "noscapine – 진해"
+      ],
+      "answer": "berberine, palmatine – 고미, 고미건위정장",
+      "explanation": "정답: berberine, palmatine"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.34] morphine과 달리 내성이 없는 진통 작용 protoberberine은?",
+      "choices": [
+        "tetrahydropalmatine",
+        "berberine",
+        "corydaline",
+        "protopine",
+        "hydrastine"
+      ],
+      "answer": "tetrahydropalmatine",
+      "explanation": "정답: tetrahydropalmatine"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.34] 현호색의 protoberberine alkaloid와 작용은?",
+      "choices": [
+        "corydaline, dehydrocorydaline – 위액분비 억제, 위궤양 치료",
+        "berberine – 고미건위",
+        "chelidonine – 진경·지사",
+        "noscapine – 진해",
+        "papaverine – 관상동맥 확장"
+      ],
+      "answer": "corydaline, dehydrocorydaline – 위액분비 억제, 위궤양 치료",
+      "explanation": "정답: corydaline, dehydrocorydaline"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.34·35] 백굴채(애기똥풀)의 chelidonine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "benzophenanthridine형, 평활근 이완·진경·지사, 다량에서 혈관운동중추 억제·혼수·마비",
+        "protoberberine형 고미건위제",
+        "phthalideisoquinoline형 지혈제",
+        "morphinan형 진통제"
+      ],
+      "answer": "benzophenanthridine형, 평활근 이완·진경·지사, 다량에서 혈관운동중추 억제·혼수·마비",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.34] 강력한 중추성 진해 작용이 있고 속효성이며 의존성·금단증상이 없는 alkaloid는?",
+      "choices": [
+        "noscapine (narcotine)",
+        "codeine",
+        "morphine",
+        "thebaine",
+        "papaverine"
+      ],
+      "answer": "noscapine (narcotine)",
+      "explanation": "정답: noscapine(narcotine) — 경련성·만성 기침"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.34·35] hydrastine(히드라스티스근)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "phthalideisoquinoline형, 혈관수축에 의한 지혈 작용",
+        "benzophenanthridine형 진경제",
+        "aporphine형 최토제",
+        "morphinan형 진통제"
+      ],
+      "answer": "phthalideisoquinoline형, 혈관수축에 의한 지혈 작용",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.35] protoberberine 유도체와 골격 유형의 짝이 틀린 것은?",
+      "choices": [
+        "protopine – protopine형",
+        "hydrastine – phthalideisoquinoline형",
+        "chelidonine – benzophenanthridine형",
+        "berberine – protoberberine형",
+        "chelidonine – aporphine형"
+      ],
+      "answer": "chelidonine – aporphine형",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.36] berberine과 palmatine의 차이는?",
+      "choices": [
+        "berberine은 R1-R2가 methylenedioxy(–OCH₂O–), palmatine은 OCH₃ 두 개",
+        "palmatine에만 질소가 있다",
+        "berberine은 aporphine이다",
+        "탄소 골격이 완전히 다르다"
+      ],
+      "answer": "berberine은 R1-R2가 methylenedioxy(–OCH₂O–), palmatine은 OCH₃ 두 개",
+      "explanation": "정답: 첫 번째 (jateorrhizine은 OH + OCH₃)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.36] 현호색에 들어 있는 tetrahydroprotoberberine류가 아닌 것은?",
+      "choices": [
+        "(+)-corydaline",
+        "(±)-tetrahydropalmatine",
+        "(+)-corybulbine",
+        "(−)-tetrahydrocolumbamine",
+        "glaucine"
+      ],
+      "answer": "glaucine",
+      "explanation": "정답: glaucine (aporphine)"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ① )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "aporphine",
+      "explanation": "정답: aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침.\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q31.png|31번 구조]]",
+      "choices": [
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
+      ],
+      "answer": "Aporphine",
+      "explanation": "정답: Aporphine\n출처: 2025-2 중간 31번"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.37] apomorphine에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "morphine에 뜨거운 산을 가하면 생긴다",
+        "dopaminergic 작용으로 파킨슨병에 사용",
+        "오심·구토를 일으켜 약물중독 시 최토제로 쓰인다",
+        "강력한 진해제로 의존성이 없다"
+      ],
+      "answer": "강력한 진해제로 의존성이 없다",
+      "explanation": "정답: 마지막 (틀림 — noscapine의 설명)\naporphine형. 대뇌 작용으로 발기부전 치료(Uprima®)에도."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.37] Aristolochia속의 aristolochic acid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "신장독성·발암물질이며 phospholipase A2를 억제",
+        "강심 작용",
+        "AChE 저해",
+        "간 보호"
+      ],
+      "answer": "신장독성·발암물질이며 phospholipase A2를 억제",
+      "explanation": "정답: 첫 번째 (aporphine 관련 nitrophenanthrene)"
+    }
+  ]
+}

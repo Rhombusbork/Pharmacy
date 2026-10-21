@@ -1,0 +1,385 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set5",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 5/7 (morphinan·colchicine·Amaryllidaceae·emetine·indole)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.37] aporphine 골격은 어떻게 만들어지는가?",
+      "choices": [
+        "(S)-reticuline의 분자 내 산화적 짝지음(oxidative coupling) → isoboldine 등",
+        "tryptamine + secologanin",
+        "putrescine의 고리화",
+        "dopamine 2분자의 Mannich 반응만"
+      ],
+      "answer": "(S)-reticuline의 분자 내 산화적 짝지음(oxidative coupling) → isoboldine 등",
+      "explanation": "정답: 첫 번째 (glaucine도 aporphine)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.38] 아편(양귀비, Papaver somniferum)의 morphinan alkaloid가 아닌 것은?",
+      "choices": [
+        "morphine",
+        "codeine",
+        "thebaine",
+        "berberine"
+      ],
+      "answer": "berberine",
+      "explanation": "정답: berberine (황련·황백)"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.38] morphine의 작용으로 PPT에 없는 것은?",
+      "choices": [
+        "대뇌피질·시상 통각중추 마비 → 진통",
+        "연수 호흡중추 억제",
+        "해수중추 억제 → 진해",
+        "위산분비 억제·장 연동 저하 → 지사",
+        "혈압 상승·중추 흥분 → 경련"
+      ],
+      "answer": "혈압 상승·중추 흥분 → 경련",
+      "explanation": "정답: 마지막 — 경련은 thebaine(중추신경 흥분)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.38] morphinan alkaloid와 작용의 짝으로 옳은 것은?",
+      "choices": [
+        "codeine – 진해 / thebaine – 중추신경 흥분, 경련",
+        "codeine – 경련 / thebaine – 진해",
+        "둘 다 진통만",
+        "thebaine – 지사"
+      ],
+      "answer": "codeine – 진해 / thebaine – 중추신경 흥분, 경련",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.39] morphine 생합성 순서로 옳은 것은?",
+      "choices": [
+        "(R)-reticuline → salutaridine → salutaridinol → thebaine → codeinone → codeine → morphine",
+        "(S)-reticuline → codeine → thebaine → morphine",
+        "thebaine → reticuline → morphine → codeine",
+        "morphine → codeine → thebaine"
+      ],
+      "answer": "(R)-reticuline → salutaridine → salutaridinol → thebaine → codeinone → codeine → morphine",
+      "explanation": "정답: 첫 번째\nthebaine → (neopinone) → codeinone → codeine → O-demethylation → morphine. (oripavine → morphinone 경로도 있음)"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.39] (R)-reticuline이 salutaridine이 되는 반응은?",
+      "choices": [
+        "페놀의 1전자 산화 → 라디칼 짝지음",
+        "Mannich 반응",
+        "Claisen 축합",
+        "Cope 재배열",
+        "가수분해"
+      ],
+      "answer": "페놀의 1전자 산화 → 라디칼 짝지음",
+      "explanation": "정답: radical(phenol oxidative) coupling"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.39] codeine이 morphine이 될 때 일어나는 반응은?",
+      "choices": [
+        "O-demethylation (메틸이 formaldehyde로 떨어짐)",
+        "N-methylation",
+        "glycosylation",
+        "acetylation",
+        "epoxidation"
+      ],
+      "answer": "O-demethylation (메틸이 formaldehyde로 떨어짐)",
+      "explanation": "정답: O-탈메틸화"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.39 그림 88] thebaine에서 morphine에 이르는 또 다른 경로의 중간체는?",
+      "choices": [
+        "oripavine → morphinone",
+        "salutaridine → reticuline",
+        "codeine → thebaine",
+        "papaverine → noscapine"
+      ],
+      "answer": "oripavine → morphinone",
+      "explanation": "정답: thebaine → (O-탈메틸) oripavine → morphinone → morphine"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ② )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q30.png|30번 구조]]",
+      "choices": [
+        "Morphinane",
+        "Aporphine",
+        "Pyrroloindole"
+      ],
+      "answer": "Morphinane",
+      "explanation": "정답: Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격.\n출처: 2025-2 중간 30번"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q62.png|62번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "amino acid pathway",
+      "explanation": "정답: amino acid pathway\n⚠ PPT 대조: 그림은 morphinan 골격 — 아미노산(Tyr) 유래.\n출처: 2025-2 중간 62번"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.40] 콜히쿰자의 colchicine에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "phenethylisoquinoline alkaloid이다",
+        "급성 통풍에 쓴다",
+        "항염증·진정 효과가 있다",
+        "독성이 매우 강하다",
+        "tryptophan 유래 indole alkaloid이다"
+      ],
+      "answer": "tryptophan 유래 indole alkaloid이다",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.41] 수선화과(Amaryllidaceae) alkaloid의 공통 전구체는?",
+      "choices": [
+        "norbelladine (tyramine + Phe 유래 aldehyde)",
+        "reticuline",
+        "strictosidine",
+        "tropinone",
+        "cadaverine"
+      ],
+      "answer": "norbelladine (tyramine + Phe 유래 aldehyde)",
+      "explanation": "정답: norbelladine (4'-O-methylnorbelladine) → 산화적 짝지음 → lycorine, crinine, galanthamine"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.41] Amaryllidaceae alkaloid 중 acetylcholinesterase 저해제로 Alzheimer병에 쓰이는 것은?",
+      "choices": [
+        "galanthamine",
+        "lycorine",
+        "crinine",
+        "colchicine",
+        "emetine"
+      ],
+      "answer": "galanthamine",
+      "explanation": "정답: galanthamine (huperzine A도 AChE 저해, lysine 유래)"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.41] Amaryllidaceae alkaloid(lycorine, crinine, galanthamine)의 고리가 만들어지는 핵심 반응은?",
+      "choices": [
+        "4'-O-methylnorbelladine 페놀의 산화적 짝지음",
+        "Mannich 반응",
+        "Claisen 축합",
+        "Diels-Alder",
+        "가수분해"
+      ],
+      "answer": "4'-O-methylnorbelladine 페놀의 산화적 짝지음",
+      "explanation": "정답: oxidative coupling"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.42] 토근(ipecac)의 emetine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "monoterpenoid isoquinoline — 아메바성 이질, 오심 유발로 약물중독 시 최토제",
+        "tropane — 산동",
+        "indole — 항암",
+        "purine — 이뇨"
+      ],
+      "answer": "monoterpenoid isoquinoline — 아메바성 이질, 오심 유발로 약물중독 시 최토제",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.42] emetine 생합성의 원료로 옳은 것은?",
+      "choices": [
+        "dopamine 2분자 + secologanin",
+        "tryptamine + secologanin",
+        "dopamine + 4-HPAA",
+        "putrescine 2분자",
+        "tyramine + DMAPP"
+      ],
+      "answer": "dopamine 2분자 + secologanin",
+      "explanation": "정답: dopamine + secologanin(Mannich-like) → ipecoside → … → 두 번째 dopamine과 다시 Mannich-like 반응 → emetine"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.42] emetine과 cephaeline의 차이는?",
+      "choices": [
+        "R = CH₃(emetine) / R = H(cephaeline)",
+        "cephaeline에만 질소가 있다",
+        "emetine은 indole이다",
+        "탄소 수가 크게 다르다"
+      ],
+      "answer": "R = CH₃(emetine) / R = H(cephaeline)",
+      "explanation": "정답: 페놀 OH의 메틸화 여부"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.43] secologanin을 전구체로 쓰는 alkaloid 쌍은?",
+      "choices": [
+        "monoterpenoid isoquinoline(emetine)과 monoterpenoid indole(vinblastine 등)",
+        "tropane과 pyrrolizidine",
+        "purine과 steroidal",
+        "piperidine과 quinolizidine"
+      ],
+      "answer": "monoterpenoid isoquinoline(emetine)과 monoterpenoid indole(vinblastine 등)",
+      "explanation": "정답: 첫 번째 — secologanin은 모든 secoiridoid의 중간체(Ch2)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.45] tryptophan 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "simple indole – psilocybin, gramine",
+        "β-carboline – harmine, harmane",
+        "quinoline – quinine, quinidine",
+        "pyrroloindole – physostigmine",
+        "ergot – papaverine"
+      ],
+      "answer": "ergot – papaverine",
+      "explanation": "정답: 'ergot – papaverine' (틀림) — ergot: lysergic acid, ergotamine, ergometrine"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.45·47] monoterpenoid indole alkaloid가 아닌 것은?",
+      "choices": [
+        "yohimbine",
+        "reserpine",
+        "strychnine",
+        "ellipticine",
+        "physostigmine"
+      ],
+      "answer": "physostigmine",
+      "explanation": "정답: physostigmine (pyrroloindole)\nmonoterpenoid indole: yohimbine, reserpine, vinblastine, vincristine, strychnine, brucine, ellipticine."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.46] 환각 버섯의 simple indole alkaloid는?",
+      "choices": [
+        "psilocybin",
+        "harmine",
+        "reserpine",
+        "ergotamine",
+        "physostigmine"
+      ],
+      "answer": "psilocybin",
+      "explanation": "정답: psilocybin"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.46] simple β-carboline alkaloid는?",
+      "choices": [
+        "harmine, harmane, harmol",
+        "camptothecin",
+        "quinine",
+        "lysergic acid",
+        "evodiamine"
+      ],
+      "answer": "harmine, harmane, harmol",
+      "explanation": "정답: harmine류 (tryptamine + 2탄소 → pyridoindole)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.45·46] simple indole alkaloid로 PPT에 나온 것은?",
+      "choices": [
+        "psilocybin, gramine",
+        "reserpine, yohimbine",
+        "quinine, quinidine",
+        "ergotamine, LSD",
+        "camptothecin"
+      ],
+      "answer": "psilocybin, gramine",
+      "explanation": "정답: psilocybin, gramine(PPT 표기 graminine)"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2022-2·2023-2] monoterpenoid indole alkaloid의 전구체는?",
+      "answer": [
+        "strictosidine",
+        "스트릭토시딘",
+        "tryptamine+secologanin",
+        "secologanin"
+      ],
+      "explanation": "정답: strictosidine\ntryptamine + secologanin → strictosidine — 모든 monoterpenoid indole alkaloid의 전구체.\n출처: 2022-2 중간 주관9 · 2023-2 중간 28 (2회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.53·54] strictosidine을 만드는 효소와 원료의 짝으로 옳은 것은?",
+      "choices": [
+        "strictosidine synthase(STR) – tryptamine + secologanin (tryptamine은 TDC가 Trp를 탈탄산해 만든다)",
+        "chalcone synthase – tryptamine + malonyl-CoA",
+        "PAL – Trp + GPP",
+        "HMG-CoA reductase – tryptamine + MVA"
+      ],
+      "answer": "strictosidine synthase(STR) – tryptamine + secologanin (tryptamine은 TDC가 Trp를 탈탄산해 만든다)",
+      "explanation": "정답: 첫 번째\nsecologanin은 geraniol에서 여러 효소를 거쳐 만들어진다."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.48~51] monoterpenoid indole alkaloid의 C9 단위 유형과 예의 짝이 틀린 것은?",
+      "choices": [
+        "Corynanthe형 – ajmalicine 등",
+        "Iboga형 – catharanthine",
+        "Aspidosperma형 – tabersonine, vindoline",
+        "Iboga형 – vindoline"
+      ],
+      "answer": "Iboga형 – vindoline",
+      "explanation": "정답: 'Iboga – vindoline' (틀림) — vindoline은 Aspidosperma형"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.52·54] vinblastine은 어떤 두 단량체가 결합한 bisindole alkaloid인가?",
+      "choices": [
+        "vindoline + catharanthine",
+        "tabersonine + strictosidine",
+        "reserpine + yohimbine",
+        "quinine + quinidine",
+        "strychnine + brucine"
+      ],
+      "answer": "vindoline + catharanthine",
+      "explanation": "정답: vindoline(Aspidosperma) + catharanthine(Iboga)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.52] vinca alkaloid(vinblastine, vincristine)의 기원 식물은?",
+      "choices": [
+        "Catharanthus roseus (= Vinca rosea, 일일초)",
+        "Cinchona succirubra",
+        "Camptotheca acuminata",
+        "Taxus brevifolia",
+        "Rauvolfia serpentina"
+      ],
+      "answer": "Catharanthus roseus (= Vinca rosea, 일일초)",
+      "explanation": "정답: Catharanthus roseus"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.52] vinca alkaloid의 작용 기전은?",
+      "choices": [
+        "tubulin에 결합하여 microtubule 생성을 저해",
+        "microtubule을 안정화하여 해체를 막음",
+        "topoisomerase I 저해",
+        "DNA 알킬화",
+        "AChE 저해"
+      ],
+      "answer": "tubulin에 결합하여 microtubule 생성을 저해",
+      "explanation": "정답: microtubule 생성 저해\n반대로 taxol은 microtubule을 안정화(해체 억제)."
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set7",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 7/7 (terpenoid·steroidal·purine alkaloid·기타 성분)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.68] 용담의 gentiopicroside가 가수분해되고 암모니아와 반응해 생기는 monoterpene alkaloid는?",
+      "choices": [
+        "gentianine",
+        "gentisin",
+        "actinidine",
+        "skytanthine",
+        "nupharidine"
+      ],
+      "answer": "gentianine",
+      "explanation": "정답: gentianine (iridoid에 N 도입)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.68] monoterpene alkaloid로 PPT에 나온 것이 아닌 것은?",
+      "choices": [
+        "gentianine",
+        "actinidine",
+        "β-skytanthine",
+        "aconitine"
+      ],
+      "answer": "aconitine",
+      "explanation": "정답: aconitine (diterpenoid alkaloid)"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.67·68] sesquiterpene alkaloid와 기원의 짝으로 옳은 것은?",
+      "choices": [
+        "evonine – 귀전우(Euonymus alatus, 노박덩굴과) / nupharidine – 천골·연자육",
+        "evonine – 부자 / nupharidine – 주목",
+        "evonine – 패모 / nupharidine – 여로",
+        "둘 다 가지과"
+      ],
+      "answer": "evonine – 귀전우(Euonymus alatus, 노박덩굴과) / nupharidine – 천골·연자육",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.69] diterpenoid alkaloid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "diterpene 골격에 질소가 도입되어 이성환을 이룬 것 — 부자의 aconitine, mesaconitine, hypaconitine",
+        "tryptophan + diterpene",
+        "steroid 골격에 N",
+        "monoterpene indole"
+      ],
+      "answer": "diterpene 골격에 질소가 도입되어 이성환을 이룬 것 — 부자의 aconitine, mesaconitine, hypaconitine",
+      "explanation": "정답: 첫 번째 (Ranunculaceae, Garryaceae, Compositae, Rosaceae; 주목의 paclitaxel도 diterpene + N)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.71] steroidal alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "veratrum – jervine, veratramine",
+        "fritillaria – peiminoside, verticine",
+        "solanum – solasodine, tomatidine, solanidine",
+        "fritillaria – tomatine"
+      ],
+      "answer": "fritillaria – tomatine",
+      "explanation": "정답: 마지막 (틀림) — tomatine은 solanum alkaloid"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.71] veratrum alkaloid의 두 그룹과 예의 짝으로 옳은 것은?",
+      "choices": [
+        "jeveratrum – veralkamine, jervine, veratramine / ceveratrum – veracevine, germine, protoverine",
+        "jeveratrum – solasodine / ceveratrum – tomatidine",
+        "둘 다 peimine",
+        "jeveratrum – aconitine"
+      ],
+      "answer": "jeveratrum – veralkamine, jervine, veratramine / ceveratrum – veracevine, germine, protoverine",
+      "explanation": "정답: 첫 번째 (여로)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.71] solanum(가지과) steroidal alkaloid가 아닌 것은?",
+      "choices": [
+        "solasodine",
+        "solasonine",
+        "tomatidine",
+        "solanidine",
+        "verticine"
+      ],
+      "answer": "verticine",
+      "explanation": "정답: verticine (fritillaria — 패모)"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.72] steroidal alkaloid가 pseudoalkaloid로 분류되는 이유는?",
+      "choices": [
+        "질소는 고리에 있지만 골격이 아미노산이 아닌 steroid(isoprenoid)에서 왔기 때문",
+        "질소가 고리 밖에 있기 때문",
+        "염기성이 없기 때문",
+        "핵산에서 왔기 때문"
+      ],
+      "answer": "질소는 고리에 있지만 골격이 아미노산이 아닌 steroid(isoprenoid)에서 왔기 때문",
+      "explanation": "정답: 첫 번째 (백합과·가지과)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.71] 패모의 peiminoside의 작용은?",
+      "choices": [
+        "혈압강하",
+        "혈압상승",
+        "진경",
+        "구충",
+        "환각"
+      ],
+      "answer": "혈압강하",
+      "explanation": "정답: 혈압강하"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2022-2·2023-2] 다음 중 purine alkaloid에 속하는 것은?",
+      "choices": [
+        "cocaine",
+        "theobromine",
+        "vincamine",
+        "emetine",
+        "reserpine"
+      ],
+      "answer": "theobromine",
+      "explanation": "정답: theobromine\ntheobromine(카카오) — purine(pseudo) alkaloid. cocaine — tropane, emetine — isoquinoline.\n출처: 2022-2 중간 5 · 2023-2 중간 15 (2회 출제)"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.73] purine alkaloid에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "핵산(nucleic acid)으로부터 생합성된다",
+        "커피두, 다엽, 카카오자에 들어 있다",
+        "chlorogenic acid와 염을 형성한다",
+        "ornithine에서 유래한 true alkaloid이다"
+      ],
+      "answer": "ornithine에서 유래한 true alkaloid이다",
+      "explanation": "정답: 마지막 (틀림) — pseudoalkaloid"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.73] 다음 구조(1,3,7-trimethylxanthine)의 이름과 작용은?\n[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
+      "choices": [
+        "caffeine – 대뇌피질 흥분, 심근 수축력 강화",
+        "theobromine – 이뇨",
+        "theophylline – 기관지평활근 이완",
+        "uric acid – 통풍"
+      ],
+      "answer": "caffeine – 대뇌피질 흥분, 심근 수축력 강화",
+      "explanation": "정답: caffeine"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.73] purine alkaloid와 작용의 짝이 틀린 것은?",
+      "choices": [
+        "caffeine(1,3,7-trimethylxanthine) – 대뇌피질 흥분",
+        "theobromine(3,7-dimethylxanthine) – 이뇨",
+        "theophylline(1,3-dimethylxanthine) – 기관지평활근 이완",
+        "theophylline – 3,7-dimethylxanthine"
+      ],
+      "answer": "theophylline – 3,7-dimethylxanthine",
+      "explanation": "정답: 마지막 (틀림) — theophylline은 1,3-dimethylxanthine"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.73] 기관지평활근을 이완시키는 purine alkaloid(1,3-dimethylxanthine)는?",
+      "answer": [
+        "theophylline",
+        "테오필린"
+      ],
+      "explanation": "정답: theophylline"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.73 그림 109] purine 고리의 탄소·질소 공급원으로 그림에 표시된 것은?",
+      "choices": [
+        "L-glutamine, formate (핵산 purine 생합성과 같다)",
+        "L-ornithine, acetyl-CoA",
+        "L-tryptophan, secologanin",
+        "IPP, DMAPP"
+      ],
+      "answer": "L-glutamine, formate (핵산 purine 생합성과 같다)",
+      "explanation": "정답: L-Gln, formate (+ glycine, aspartate, CO₂) — 핵산 경로"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2022-2] 고추 과실의 신미성분은?",
+      "choices": [
+        "allicin",
+        "caffeine",
+        "capsaicin",
+        "amygdalin",
+        "sinigrin"
+      ],
+      "answer": "capsaicin",
+      "explanation": "정답: capsaicin\ncapsaicin: 고추의 매운 성분(vanillylamide). allicin — 마늘, sinigrin — 겨자.\n출처: 2022-2 중간 1"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.74] capsaicinoid에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "고추의 신미 성분인 지방산 amide의 총칭",
+        "vanillylamine(4-hydroxy-3-methoxybenzylamine)이 기본 골격",
+        "주성분은 capsaicin(약 50%)과 dihydrocapsaicin(약 35%)",
+        "고추는 향신료·피부자극제(신경통·근육통)",
+        "tropane 고리를 가진다"
+      ],
+      "answer": "tropane 고리를 가진다",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.74] capsaicin의 기본 골격이 되는 amine은?",
+      "choices": [
+        "vanillylamine",
+        "tyramine",
+        "tryptamine",
+        "dopamine",
+        "histamine"
+      ],
+      "answer": "vanillylamine",
+      "explanation": "정답: vanillylamine (Phe → … → vanillin 유래) + 지방산 → amide"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.74] 고추 capsaicinoid 중 capsaicin과 dihydrocapsaicin의 대략적 비율로 PPT에 나온 것은?",
+      "choices": [
+        "capsaicin 약 50%, dihydrocapsaicin 약 35%",
+        "capsaicin 약 10%, dihydrocapsaicin 약 90%",
+        "둘 다 약 5%",
+        "capsaicin 100%"
+      ],
+      "answer": "capsaicin 약 50%, dihydrocapsaicin 약 35%",
+      "explanation": "정답: 약 50% / 약 35%"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.76] 청산배당체(cyanogenic glycoside)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "가수분해되어 HCN을 유리하며 장미과(Rosaceae)에 많아 화학분류에 이용된다",
+        "가수분해되어 isothiocyanate를 낸다",
+        "십자화과에 많다",
+        "황 함유 아미노산 유도체"
+      ],
+      "answer": "가수분해되어 HCN을 유리하며 장미과(Rosaceae)에 많아 화학분류에 이용된다",
+      "explanation": "정답: 첫 번째 (행인, 고편도, 감편도)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.76] 행인의 amygdalin이 효소로 분해될 때 생기는 것은?",
+      "choices": [
+        "benzaldehyde + HCN + 2 glucose (효소 emulsin)",
+        "allyl isothiocyanate + glucose (myrosinase)",
+        "allicin (alliinase)",
+        "emodin + glucose"
+      ],
+      "answer": "benzaldehyde + HCN + 2 glucose (효소 emulsin)",
+      "explanation": "정답: emulsin → benzaldehyde + HCN + 2 Glc"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.76] amygdalin을 함유한 생약으로 PPT에 나온 것이 아닌 것은?",
+      "choices": [
+        "행인",
+        "고편도",
+        "감편도",
+        "개자"
+      ],
+      "answer": "개자",
+      "explanation": "정답: 개자 (sinigrin — 개자배당체)"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.76·77] 배당체 – 분해 효소의 짝이 틀린 것은?",
+      "choices": [
+        "amygdalin – emulsin",
+        "sinigrin – myrosinase",
+        "alliin – alliinase",
+        "sinigrin – emulsin"
+      ],
+      "answer": "sinigrin – emulsin",
+      "explanation": "정답: 'sinigrin – emulsin' (틀림) — myrosinase"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.77] 개자배당체(glucosinolate)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "S-glycoside로 가수분해되어 isothiocyanate·sulfate·glucose를 내며 주로 십자화과에 있다 (sinigrin, sinalbin)",
+        "O-glycoside로 HCN을 낸다",
+        "장미과에 많다",
+        "cysteine 유도체"
+      ],
+      "answer": "S-glycoside로 가수분해되어 isothiocyanate·sulfate·glucose를 내며 주로 십자화과에 있다 (sinigrin, sinalbin)",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.77] sinigrin이 myrosinase로 분해되어 생기는 매운 성분은?",
+      "answer": [
+        "allyl isothiocyanate",
+        "allylisothiocyanate",
+        "알릴이소티오시아네이트"
+      ],
+      "explanation": "정답: allyl isothiocyanate (+ glucose + KHSO₄)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.78] 마늘(대산)의 alliin에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "황 함유 아미노산 cysteine의 유도체(allylcysteine sulfoxide)",
+        "조직이 파괴되면 alliinase에 의해 자극 성분 allicin이 생긴다",
+        "alliin·allicin은 항균 작용",
+        "allicin은 vitamin B1과 결합해 allithiamine이 된다",
+        "식물체 안에서도 강한 냄새가 난다"
+      ],
+      "answer": "식물체 안에서도 강한 냄새가 난다",
+      "explanation": "정답: 마지막 (틀림) — 식물체 안에서는 냄새·자극성이 없다"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.45] 마전자(Strychnos nux-vomica)의 strychnine·brucine이 속하는 계열은?",
+      "choices": [
+        "monoterpenoid indole alkaloid",
+        "tropane alkaloid",
+        "isoquinoline alkaloid",
+        "purine alkaloid",
+        "steroidal alkaloid"
+      ],
+      "answer": "monoterpenoid indole alkaloid",
+      "explanation": "정답: monoterpenoid indole (Trp + secologanin)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.79] 해인초의 α-kainic acid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "glutamic acid + DMAPP 유래, 기생충 구제약",
+        "lysine 유래 구충제",
+        "tryptophan 유래 환각제",
+        "purine 이뇨제"
+      ],
+      "answer": "glutamic acid + DMAPP 유래, 기생충 구제약",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 29,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ④ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "tetrahydroisoquinoline",
+      "explanation": "정답: tetrahydroisoquinoline\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 30,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑦ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "anthraquinone",
+      "explanation": "정답: anthraquinone\n※ 2023-2 29번은 alkaloid 골격 그림 묶음이라 이 단원에 함께 실었다(anthraquinone은 Ch4 내용).\n출처: 2023-2 중간 29"
+    }
+  ]
+}

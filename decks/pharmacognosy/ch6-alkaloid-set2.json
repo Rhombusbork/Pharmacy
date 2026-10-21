@@ -1,0 +1,352 @@
+{
+  "deckId": "pharmacognosy-ch6-alkaloid-set2",
+  "subject": "생약학",
+  "title": "Ch6 Alkaloid · 세트 2/7 (헤테로고리·골격·ornithine 유래(tropane·pyrrolizidine))",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.9] 다음 5원 포화 질소 고리의 이름과 원료 아미노산은?\n[[smi:C1CCNC1]]",
+      "choices": [
+        "pyrrolidine – ornithine (C4N)",
+        "piperidine – lysine",
+        "pyrrole – tryptophan",
+        "imidazole – histidine"
+      ],
+      "answer": "pyrrolidine – ornithine (C4N)",
+      "explanation": "정답: pyrrolidine – ornithine"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.5·7] codeine과 morphine의 구조 차이는?",
+      "choices": [
+        "codeine은 morphine의 3번 페놀 OH가 메틸화(R = CH₃)된 것",
+        "codeine에는 질소가 없다",
+        "codeine은 apomorphine이다",
+        "morphine이 codeine보다 메틸기가 하나 많다"
+      ],
+      "answer": "codeine은 morphine의 3번 페놀 OH가 메틸화(R = CH₃)된 것",
+      "explanation": "정답: codeine = 3-O-methylmorphine"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "pyrrolidine",
+        "피롤리딘"
+      ],
+      "explanation": "정답: pyrrolidine\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "piperidine",
+        "피페리딘"
+      ],
+      "explanation": "정답: piperidine\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "quinolizidine",
+        "퀴놀리지딘"
+      ],
+      "explanation": "정답: quinolizidine\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "tropane",
+        "트로판"
+      ],
+      "explanation": "정답: tropane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "isoquinoline",
+        "tetrahydroisoquinoline",
+        "이소퀴놀린"
+      ],
+      "explanation": "정답: isoquinoline\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2020-2·2022-2·2023-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n(F)에 들어갈 이름은?",
+      "answer": [
+        "imidazole",
+        "이미다졸"
+      ],
+      "explanation": "정답: imidazole\n출처: 2020-2 중간 골격 · 2022-2 중간 주관6 · 2023-2 중간 29 (3회 출제)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.10] ornithine 유래 alkaloid와 예의 짝이 틀린 것은?",
+      "choices": [
+        "pyrrolidine – nicotine",
+        "tropane – atropine, scopolamine, cocaine",
+        "pyrrolizidine – senecionine (Senecio속)",
+        "polyamine – spermine, spermidine",
+        "tropane – lobeline"
+      ],
+      "answer": "tropane – lobeline",
+      "explanation": "정답: 'tropane – lobeline' (틀림) — lobeline은 lysine 유래 piperidine"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.10] tropane·pyrrolidine 생합성 초기 순서로 옳은 것은?",
+      "choices": [
+        "L-Glu → L-Orn → putrescine → N-methylputrescine → N-methyl-Δ¹-pyrrolinium",
+        "L-Lys → cadaverine → piperideine",
+        "L-Orn → cadaverine → putrescine",
+        "L-Trp → tryptamine → strictosidine"
+      ],
+      "answer": "L-Glu → L-Orn → putrescine → N-methylputrescine → N-methyl-Δ¹-pyrrolinium",
+      "explanation": "정답: 첫 번째\nN-methylation(SAM) → diamine oxidase로 탈아미노 → Schiff base 형성(고리화)."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.10] putrescine이 N-methylputrescine이 될 때 메틸기를 주는 것은?",
+      "choices": [
+        "SAM (S-adenosylmethionine)",
+        "acetyl-CoA",
+        "formaldehyde",
+        "DMAPP",
+        "malonyl-CoA"
+      ],
+      "answer": "SAM (S-adenosylmethionine)",
+      "explanation": "정답: SAM — C1 단위는 L-methionine 유래"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.12 그림 78] L-ornithine이 putrescine으로 바뀌는 반응과 조효소는?",
+      "choices": [
+        "탈탄산(−CO₂) – PLP",
+        "N-메틸화 – SAM",
+        "수산화 – NADPH",
+        "아미노기 전이 – TPP"
+      ],
+      "answer": "탈탄산(−CO₂) – PLP",
+      "explanation": "정답: 탈탄산, PLP"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.12 그림 78] N-methyl-Δ¹-pyrrolinium 양이온에 acetyl-CoA 유래 단위가 붙어 만들어지는 Solanaceae tropane의 중간체 ketone은?",
+      "choices": [
+        "tropinone",
+        "methylecgonine",
+        "tropine",
+        "hygrine",
+        "cocaine"
+      ],
+      "answer": "tropinone",
+      "explanation": "정답: tropinone → (환원) tropine → phenyllactic acid(L-Phe 유래)와 에스터 → hyoscyamine → (−)-scopolamine"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.12 그림 78] cocaine 생합성의 마지막 단계로 옳은 것은?",
+      "choices": [
+        "methylecgonine + benzoyl-CoA(L-Phe 유래) → 에스터 형성",
+        "tropine + phenyllactic acid → 에스터",
+        "tropinone의 환원",
+        "putrescine의 메틸화"
+      ],
+      "answer": "methylecgonine + benzoyl-CoA(L-Phe 유래) → 에스터 형성",
+      "explanation": "정답: methylecgonine의 3β-OH에 benzoyl기 에스터화\nhyoscyamine·scopolamine은 tropine(3α-OH) + phenyllactic acid(tropic acid) 에스터."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.12 그림 78] hyoscyamine·scopolamine의 산(acid) 부분은 어떤 아미노산에서 오는가?",
+      "choices": [
+        "L-Phe (phenyllactic acid → tropic acid)",
+        "L-Orn",
+        "L-Trp",
+        "L-Ile",
+        "L-Lys"
+      ],
+      "answer": "L-Phe (phenyllactic acid → tropic acid)",
+      "explanation": "정답: L-Phe"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.11·24] 다음 구조(nicotine)의 두 고리는 각각 어디서 오는가?\n[[smi:CN1CCCC1c1cccnc1]]",
+      "choices": [
+        "pyrrolidine 고리 – ornithine, pyridine 고리 – nicotinic acid",
+        "두 고리 모두 lysine",
+        "pyridine – ornithine, pyrrolidine – nicotinic acid",
+        "두 고리 모두 tryptophan"
+      ],
+      "answer": "pyrrolidine 고리 – ornithine, pyridine 고리 – nicotinic acid",
+      "explanation": "정답: 첫 번째 (그림 77 nicotine의 생합성)"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.13] tropane 3번 위치 OH의 방향과 분포 과의 짝으로 옳은 것은?",
+      "choices": [
+        "3α-OH(tropine) – Solanaceae / 3β-OH(pseudotropine) – Erythroxylaceae(코카)",
+        "3β-OH – Solanaceae / 3α-OH – Erythroxylaceae",
+        "둘 다 Rubiaceae",
+        "OH가 없다"
+      ],
+      "answer": "3α-OH(tropine) – Solanaceae / 3β-OH(pseudotropine) – Erythroxylaceae(코카)",
+      "explanation": "정답: 첫 번째\ncocaine은 3β 계열(ecgonine)."
+    },
+    {
+      "id": 18,
+      "question": "[기출 2022-2·2023-2] Tropane alkaloid를 생성하는 생약의 과명으로 알맞은 것을 모두 고르면?",
+      "choices": [
+        "가지과, 코카나무과",
+        "가지과",
+        "코카나무과",
+        "장미과, 박과",
+        "매자나무과, 코카나무과"
+      ],
+      "answer": "가지과, 코카나무과",
+      "explanation": "정답: 가지과, 코카나무과\n가지과(벨라도나·흰독말풀 — atropine, scopolamine)와 코카나무과(cocaine). 족보 선지는 단일 과(가지과/장미과/박과/매자나무과/코카나무과)였으나 답이 둘이라 조합으로 바꿈.\n출처: 2022-2 중간 20 · 2023-2 중간 23 (2회 출제)"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2025-2] [34~38] 다음 설명을 보고 참/거짓을 고르시오.\ntropane alkaloid는 가지과와 코카나무과에만 존재하며 piperidine 환과 pyrrolidine 환으로 구성되어 있다.",
+      "choices": [
+        "참(True)",
+        "거짓(False)"
+      ],
+      "answer": "참(True)",
+      "explanation": "정답: 참(True)\n⚠ PPT 대조: PPT 문구('pyrrolidine환과 piperidine환으로 구성된 화합물로 Solanaceae, Erythroxylaceae에만 분포')와 일치 → 참. (PPT complex pathway에서는 tropane을 amino acid + polyketide로도 분류)\n출처: 2025-2 중간 38번"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.13] Solanaceae의 tropane alkaloid 함유 생약이 아닌 것은?",
+      "choices": [
+        "스코폴리아근",
+        "다투라엽",
+        "벨라돈나근",
+        "히요스엽",
+        "코카엽"
+      ],
+      "answer": "코카엽",
+      "explanation": "정답: 코카엽 (Erythroxylaceae)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.13] Solanaceae 생약의 대표 tropane alkaloid는?",
+      "choices": [
+        "hyoscyamine, scopolamine, atropine",
+        "cocaine, tropacocaine",
+        "nicotine, anabasine",
+        "lobeline, pelletierine",
+        "senecionine"
+      ],
+      "answer": "hyoscyamine, scopolamine, atropine",
+      "explanation": "정답: hyoscyamine, scopolamine, atropine"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.13] atropine과 hyoscyamine의 관계는?",
+      "choices": [
+        "atropine은 hyoscyamine의 라세미체((±)-hyoscyamine)",
+        "atropine은 scopolamine의 다른 이름",
+        "atropine은 cocaine의 에스터",
+        "atropine은 nicotine 유도체"
+      ],
+      "answer": "atropine은 hyoscyamine의 라세미체((±)-hyoscyamine)",
+      "explanation": "정답: 라세미체 (천연은 주로 (−)-hyoscyamine, 추출 중 라세미화)"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.13] (−)-hyoscine의 다른 이름은?",
+      "answer": [
+        "scopolamine",
+        "스코폴라민"
+      ],
+      "explanation": "정답: scopolamine (tropane 6,7위치에 epoxide)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.14] atropine을 바탕으로 만든 의약품이 아닌 것은?",
+      "choices": [
+        "homatropine",
+        "tropicamide",
+        "benztropine",
+        "cyclopentolate",
+        "procaine"
+      ],
+      "answer": "procaine",
+      "explanation": "정답: procaine (cocaine 유래 국소마취제)\natropine 유래: homatropine, tropicamide, benzatropine, cyclopentolate, glycopyrronium."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.15] 코카엽에 들어 있는 alkaloid가 아닌 것은?",
+      "choices": [
+        "cocaine",
+        "cinnamoylcocaine",
+        "α-truxilline",
+        "tropacocaine",
+        "scopolamine"
+      ],
+      "answer": "scopolamine",
+      "explanation": "정답: scopolamine (가지과)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.16] cocaine을 바탕으로 만든 국소마취제가 아닌 것은?",
+      "choices": [
+        "procaine",
+        "benzocaine",
+        "lidocaine",
+        "bupivacaine",
+        "tropicamide"
+      ],
+      "answer": "tropicamide",
+      "explanation": "정답: tropicamide (atropine 유래 산동제)"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.16] cocaine 유도체 목록에 국소마취제와 함께 실린 항부정맥제는?",
+      "choices": [
+        "procainamide, mexiletine, flecainide",
+        "atropine, scopolamine",
+        "digoxin, digitoxin",
+        "quinine, chloroquine"
+      ],
+      "answer": "procainamide, mexiletine, flecainide",
+      "explanation": "정답: procainamide(PPT 표기 procamide), mexiletine, flecainide, tocainide"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.17] pyrrolizidine alkaloid의 독성으로 옳은 것은?",
+      "choices": [
+        "간독성·발암성 (돌연변이원, 간종양 유발)",
+        "신장독성",
+        "강심 작용",
+        "환각"
+      ],
+      "answer": "간독성·발암성 (돌연변이원, 간종양 유발)",
+      "explanation": "정답: hepatotoxic & carcinogenic"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.17] senecionine의 구성으로 옳은 것은?",
+      "choices": [
+        "retronecine(necine 염기) + senecic acid(L-Ile 2분자 유래)",
+        "tropine + tropic acid",
+        "ecgonine + benzoic acid",
+        "piperidine + piperic acid"
+      ],
+      "answer": "retronecine(necine 염기) + senecic acid(L-Ile 2분자 유래)",
+      "explanation": "정답: 첫 번째\nretronecine: putrescine 2분자 → homospermidine → 산화적 탈아미노 → 분자 내 Mannich 반응."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.17] pyrrolizidine 고리(retronecine) 생합성에서 putrescine 2분자로부터 만들어지는 polyamine 중간체는?",
+      "answer": [
+        "homospermidine",
+        "호모스페르미딘"
+      ],
+      "explanation": "정답: homospermidine"
+    }
+  ]
+}
