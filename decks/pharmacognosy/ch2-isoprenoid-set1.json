@@ -1,0 +1,386 @@
+{
+  "deckId": "pharmacognosy-ch2-isoprenoid-set1",
+  "subject": "생약학",
+  "title": "Ch2 Isoprenoid · 세트 1/8 (경로 개요·MVA/MEP·terpene 분류)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.8] Isoprenoid pathway의 기본 단위(subunit)는?",
+      "choices": [
+        "C5 (isoprene)",
+        "C2 (acetate)",
+        "C6C3 (phenylpropane)",
+        "C4N (pyrrolidine)",
+        "C1 (methyl)"
+      ],
+      "answer": "C5 (isoprene)",
+      "explanation": "정답: C5, isoprene\nPPT p.8: 'Isoprenoid pathway (subunit: C5, isoprene)'. hemiterpene(C5)부터 tetraterpene(C40), higher terpenoid까지."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.8] terpene 계열과 탄소 수의 짝이 틀린 것은?",
+      "choices": [
+        "hemiterpene – C5",
+        "monoterpene – C10",
+        "sesquiterpene – C15",
+        "sesterterpene – C30",
+        "tetraterpene – C40"
+      ],
+      "answer": "sesterterpene – C30",
+      "explanation": "정답: 'sesterterpene – C30' (틀림)\nsesterterpene은 C25, triterpene이 C30. diterpene은 C20."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.8·16] terpene 각 계열이 isoprene 단위들로부터 만들어지는 결합 규칙(isoprene rule)은?",
+      "choices": [
+        "head-to-tail 결합",
+        "tail-to-tail 결합만",
+        "head-to-head 결합만",
+        "C-N 결합",
+        "산화적 짝지음"
+      ],
+      "answer": "head-to-tail 결합",
+      "explanation": "정답: head-to-tail 결합\nPPT p.16: 'Each group of terpenes arises from the head-to-tail condensation of a variable number of isoprene units'."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2021-2] 다음 설명에 해당하는 생합성 경로는?\n'acetyl-CoA 3분자로부터 mevalonic acid를 거쳐 C5 단위(IPP, DMAPP)를 만들고, 이들이 차례로 축합하여 terpenoid와 steroid를 만든다.'",
+      "choices": [
+        "isoprenoid (mevalonate) pathway",
+        "shikimate pathway",
+        "acetate-malonate pathway",
+        "amino acid pathway"
+      ],
+      "answer": "isoprenoid (mevalonate) pathway",
+      "explanation": "정답: isoprenoid (mevalonate) pathway\n족보: 'Isoprenoid pathway에 대한 설명 제공됨. 답: isoprenoid pathway' — 설명 문장은 PPT로 복원.\n출처: 2021-2 중간 8"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2] triterpenoid의 생합성 경로는?",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\n2×FPP → squalene → (2,3-oxidosqualene) → triterpenoid. mevalonate 경로.\n출처: 2020-2 중간 주4"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.11] MVA 경로와 MEP 경로가 일어나는 세포 내 장소의 짝으로 옳은 것은?",
+      "choices": [
+        "MVA – cytosol(세포질), MEP – plastid(색소체)",
+        "MVA – plastid, MEP – cytosol",
+        "둘 다 미토콘드리아",
+        "MVA – 핵, MEP – 소포체"
+      ],
+      "answer": "MVA – cytosol(세포질), MEP – plastid(색소체)",
+      "explanation": "정답: MVA – cytosol, MEP – plastid\nPPT p.11 그림. 두 경로 모두 최종적으로 IPP와 DMAPP를 만든다."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.11] MEP 경로의 출발 물질은?",
+      "choices": [
+        "pyruvate + glyceraldehyde 3-phosphate (G3P)",
+        "acetyl-CoA 3분자",
+        "PEP + erythrose 4-phosphate",
+        "malonyl-CoA + acetyl-CoA",
+        "L-ornithine"
+      ],
+      "answer": "pyruvate + glyceraldehyde 3-phosphate (G3P)",
+      "explanation": "정답: pyruvate + G3P\n→ DXP(1-deoxy-D-xylulose-5-phosphate) → MEP(2-methyl-D-erythritol 4-phosphate) → … → HMBPP → IPP·DMAPP."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.11] MEP 경로의 첫 중간체 DXP의 이름은?",
+      "choices": [
+        "1-deoxy-D-xylulose-5-phosphate",
+        "dimethylallyl diphosphate",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate",
+        "2-methyl-D-erythritol 4-phosphate",
+        "hydroxymethylglutaryl-CoA"
+      ],
+      "answer": "1-deoxy-D-xylulose-5-phosphate",
+      "explanation": "정답: 1-deoxy-D-xylulose-5-phosphate\nMEP는 DXP가 NADPH로 환원·재배열된 2-methyl-D-erythritol 4-phosphate. 경로 이름의 유래."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.11·14] MVA 경로 첫 단계에서 acetyl-CoA 두 분자가 축합하여 acetoacetyl-CoA가 되는 반응은?",
+      "choices": [
+        "Claisen 반응",
+        "Aldol 반응",
+        "Diels-Alder 반응",
+        "Michael 반응",
+        "Friedel-Crafts 반응"
+      ],
+      "answer": "Claisen 반응",
+      "explanation": "정답: Claisen 반응\n이어서 세 번째 acetyl-CoA가 stereospecific aldol 반응으로 붙어 HMG-CoA가 된다."
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.11·14] HMG-CoA를 NADPH로 환원하여 mevalonic acid를 만드는 효소는?",
+      "answer": [
+        "HMG-CoA reductase",
+        "HMG-CoA 환원효소",
+        "HMG-CoA환원효소"
+      ],
+      "explanation": "정답: HMG-CoA reductase\nthioester → (mevaldic acid hemithioacetal) → aldehyde → alcohol로 NADPH 2분자를 써서 환원. (참고: statin계 고지혈증약이 이 효소를 저해)"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.11·14] Mevalonate 경로의 순서로 옳은 것은?",
+      "choices": [
+        "acetyl-CoA → acetoacetyl-CoA → HMG-CoA → mevalonic acid → IPP ⇌ DMAPP",
+        "acetyl-CoA → HMG-CoA → acetoacetyl-CoA → mevalonic acid → IPP ⇌ DMAPP",
+        "acetyl-CoA → mevalonic acid → HMG-CoA → IPP ⇌ DMAPP",
+        "pyruvate → DXP → HMG-CoA → mevalonic acid → IPP"
+      ],
+      "answer": "acetyl-CoA → acetoacetyl-CoA → HMG-CoA → mevalonic acid → IPP ⇌ DMAPP",
+      "explanation": "정답: acetyl-CoA → acetoacetyl-CoA → HMG-CoA → (mevaldic acid) → mevalonic acid(MVA) → (2×ATP 인산화, 탈탄산) → IPP ⇌ DMAPP"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.14] 다음 구조의 mevalonic acid(C6)가 C5인 IPP로 바뀔 때 일어나는 일로 옳은 것은?\n[[smi:CC(O)(CCO)CC(=O)O]]",
+      "choices": [
+        "1차 알코올이 ATP로 차례로 인산화되어 diphosphate가 되고, 탈탄산(CO₂ 이탈)·탈리가 일어난다",
+        "NADPH로 카복실기가 환원된다",
+        "SAM으로 메틸화된다",
+        "산화적 짝지음이 일어난다"
+      ],
+      "answer": "1차 알코올이 ATP로 차례로 인산화되어 diphosphate가 되고, 탈탄산(CO₂ 이탈)·탈리가 일어난다",
+      "explanation": "정답: 첫 번째\nPPT p.14: 'sequential phosphorylation of the primary alcohol to a diphosphate' + 'ATP facilitates the decarboxylation-elimination'."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.14] True or False\n아래 두 C5 단위 IPP와 DMAPP는 isomerase로 서로 바뀌며, 평형은 DMAPP 쪽으로 치우쳐 있다.\nIPP [[smi:C=C(C)CCOP(=O)(O)OP(=O)(O)O]]\nDMAPP [[smi:CC(C)=CCOP(=O)(O)OP(=O)(O)O]]",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\nPPT p.14: 'stereospecific allylic isomerization; equilibrium favors DMAPP'."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.16] DMAPP와 IPP가 결합하여 GPP가 되는 반응 기전으로 옳은 것은?",
+      "choices": [
+        "DMAPP의 allylic cation에 IPP 이중결합이 친전자성 첨가 → 3차 양이온 → 입체특이적 양성자 이탈",
+        "IPP의 음이온이 DMAPP에 친핵 치환 후 탈탄산",
+        "두 분자의 라디칼 짝지음",
+        "Claisen 축합 후 환원"
+      ],
+      "answer": "DMAPP의 allylic cation에 IPP 이중결합이 친전자성 첨가 → 3차 양이온 → 입체특이적 양성자 이탈",
+      "explanation": "정답: 첫 번째\nPPT p.16 'electrophile addition giving tertiary cation' → 'stereospecific loss of proton' → geranyl PP."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.15] acetate-malonate(polyketide) 경로 일반 반응에서 acetoacetyl-CoA로부터 갈라져 나가는 산물이 아닌 것은?",
+      "choices": [
+        "isoprenoid",
+        "aromatics (cyclization)",
+        "fatty acids (reduction)",
+        "alkaloids"
+      ],
+      "answer": "alkaloids",
+      "explanation": "정답: alkaloids\nPPT p.15: acetyl-CoA → acetoacetyl-CoA → isoprenoid / aromatics(고리화) / fatty acids(환원). alkaloid는 아미노산 경로."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.10·11] MVA·MEP 경로에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "MVA 경로의 HMG-CoA 환원에는 NADPH가 쓰인다",
+        "MEP 경로의 DXP → MEP 단계에서 NADPH가 쓰인다",
+        "두 경로 모두 최종 산물은 IPP와 DMAPP이다",
+        "MEP 경로는 acetyl-CoA 3분자에서 출발한다"
+      ],
+      "answer": "MEP 경로는 acetyl-CoA 3분자에서 출발한다",
+      "explanation": "정답: 'MEP는 acetyl-CoA 3분자에서 출발' (틀림)\nacetyl-CoA 3분자 → MVA는 mevalonate 경로. MEP는 pyruvate + G3P(해당과정 중간체, p.10 그림)에서 출발."
+    },
+    {
+      "id": 17,
+      "question": "[기출 2021-2] Mevalonate pathway: DMAPP·IPP (C5)에서 만들어지는 화합물군은?",
+      "choices": [
+        "hemiterpenes",
+        "monoterpenes",
+        "sesquiterpenes",
+        "diterpenes",
+        "sesterterpenes",
+        "triterpenoids (steroids)",
+        "tetraterpenes"
+      ],
+      "answer": "hemiterpenes",
+      "explanation": "정답: hemiterpenes\n출처: 2021-2 중간 9"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] DMAPP + IPP = GPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] GPP + IPP = FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 20,
+      "question": "[기출 2020-2·2021-2] FPP + IPP = GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "diterpene",
+      "explanation": "정답: diterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 21,
+      "question": "[기출 2023-1·2023-2] Mevalonate pathway 그림의 빈칸을 채우시오.\n[[img:pharmacognosy/images/2023-1-mid-q4.png|mevalonate pathway]]\n( 3 ) — diterpenes(C20)의 전구체",
+      "choices": [
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl PP (GGPP)",
+        "geranylfarnesyl PP (GFPP)",
+        "triterpenoids",
+        "tetraterpenes"
+      ],
+      "answer": "geranylgeranyl PP (GGPP)",
+      "explanation": "정답: geranylgeranyl PP (GGPP)\n출처: 2023-1 중간 주관4 · 2023-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2020-2·2021-2] GGPP + IPP = GFPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesterterpene",
+      "explanation": "정답: sesterterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2023-1·2023-2] Mevalonate pathway 그림의 빈칸을 채우시오.\n[[img:pharmacognosy/images/2023-1-mid-q4.png|mevalonate pathway]]\n( 4 ) — sesterpenes(C25)의 전구체",
+      "choices": [
+        "monoterpenes",
+        "sesquiterpenes",
+        "geranylgeranyl PP (GGPP)",
+        "geranylfarnesyl PP (GFPP)",
+        "triterpenoids",
+        "tetraterpenes"
+      ],
+      "answer": "geranylfarnesyl PP (GFPP)",
+      "explanation": "정답: geranylfarnesyl PP (GFPP)\n출처: 2023-1 중간 주관4 · 2023-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] FPP + FPP = 2×FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "triterpene",
+      "explanation": "정답: triterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] GGPP + GGPP = 2×GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "tetraterpene",
+      "explanation": "정답: tetraterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.16] GPP(geranyl PP)의 탄소 수는? (숫자만)",
+      "answer": [
+        "10",
+        "C10"
+      ],
+      "explanation": "정답: 10 (C10)\nDMAPP(C5) + IPP(C5) = GPP(C10) → monoterpene."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.16] FPP + IPP로 만들어지는 diterpene(C20)의 전구체 약어는?",
+      "answer": [
+        "GGPP",
+        "geranylgeranyl PP",
+        "geranylgeranyl pyrophosphate",
+        "geranylgeranyl diphosphate"
+      ],
+      "explanation": "정답: GGPP (geranylgeranyl PP)\nIPP 단위가 하나씩 붙을 때마다 C5씩 늘어난다: GPP(C10) → FPP(C15) → GGPP(C20) → GFPP(C25)."
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.17] monoterpene을 식물에서 분리하는 방법으로 PPT에 나온 것은?",
+      "choices": [
+        "정유의 구성성분이므로 수증기 증류 또는 용매 추출",
+        "산 가수분해 후 침전",
+        "이온교환 크로마토그래피만 사용",
+        "승화"
+      ],
+      "answer": "정유의 구성성분이므로 수증기 증류 또는 용매 추출",
+      "explanation": "정답: 수증기 증류 또는 용매 추출\nmonoterpene: GPP(C10) 전구체, 주로 식물(동물·미생물에도), 향료·향수에 쓰이는 휘발성 기름 성분."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.17] 다음 중 bicyclic monoterpene 골격이 아닌 것은?",
+      "choices": [
+        "p-menthane",
+        "pinane",
+        "bornane",
+        "carane",
+        "thujane"
+      ],
+      "answer": "p-menthane",
+      "explanation": "정답: p-menthane\nacyclic: myrcane(2,6-dimethyloctane), secoiridane / monocyclic: p-menthane, iridane / bi·tricyclic: carane, pinane, bornane, thujane."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.17] acyclic monoterpene 골격은?",
+      "choices": [
+        "myrcane (2,6-dimethyloctane)",
+        "p-menthane",
+        "iridane",
+        "pinane",
+        "bornane"
+      ],
+      "answer": "myrcane (2,6-dimethyloctane)",
+      "explanation": "정답: myrcane\nmyrcene, geraniol, citronellol, neral·geranial(citral)이 acyclic monoterpene."
+    }
+  ]
+}

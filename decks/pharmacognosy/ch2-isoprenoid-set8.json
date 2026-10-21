@@ -1,0 +1,384 @@
+{
+  "deckId": "pharmacognosy-ch2-isoprenoid-set8",
+  "subject": "생약학",
+  "title": "Ch2 Isoprenoid · 세트 8/8 (강심배당체·phytosterol·carotenoid)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.80·81·97] 강심배당체의 작용 기전으로 옳은 것은?",
+      "choices": [
+        "Na⁺,K⁺-ATPase 저해 → 세포 내 Na⁺↑ → Na⁺/Ca²⁺ 교환으로 세포 내 Ca²⁺↑ → 심근수축력 증가",
+        "β1 수용체 직접 자극",
+        "Ca²⁺ 통로 차단",
+        "adenylate cyclase 활성화",
+        "PDE 저해"
+      ],
+      "answer": "Na⁺,K⁺-ATPase 저해 → 세포 내 Na⁺↑ → Na⁺/Ca²⁺ 교환으로 세포 내 Ca²⁺↑ → 심근수축력 증가",
+      "explanation": "정답: 첫 번째 (세포 내 K⁺는 감소)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.83] cardenolide의 α,β-unsaturated γ-lactone 부분을 검출하는 정색반응은?",
+      "choices": [
+        "Kedde 반응",
+        "Keller-Killiani 반응",
+        "Bornträger 반응",
+        "Liebermann-Burchard 반응",
+        "Murexide 반응"
+      ],
+      "answer": "Kedde 반응",
+      "explanation": "정답: Kedde 반응\nKeller-Killiani는 deoxysugar 부분을 검출."
+    },
+    {
+      "id": 3,
+      "question": "[기출 2025-2] [34~38] 다음 설명을 보고 참/거짓을 고르시오.\nDeoxysugar를 검출하는 반응인 Keller-Killiani 반응으로 검출 가능한 강심배당체는 성분에 따라 식물성 cardenolide와 동물성 bufadienolide로 구분된다.",
+      "choices": [
+        "참(True)",
+        "거짓(False)"
+      ],
+      "answer": "거짓(False)",
+      "explanation": "정답: 거짓(False)\n⚠ PPT 대조: PPT: bufadienolide는 Bufo속(두꺼비) 분비물뿐 아니라 해총(식물)에도 있음 → '동물성 bufadienolide'로 나누는 것은 틀림.\n출처: 2025-2 중간 36번"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2021-2·2023-2] 다음 중 2,6-dideoxysugar에 속하는 것은?",
+      "choices": [
+        "rutinose",
+        "cymarose",
+        "apiose",
+        "gentiobiose",
+        "glucuronic acid"
+      ],
+      "answer": "cymarose",
+      "explanation": "정답: cymarose\ncymarose = 2,6-dideoxy-3-O-methyl 당. (선지는 2023-2 같은 문제에서 가져옴)\n출처: 2021-2 중간 6 · 2023-2 중간 6 (2회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2023-1] 다음 강심배당체에 포함된 당 구조의 이름은?\n[[img:pharmacognosy/images/2023-1-mid-m16.png|당 구조]]",
+      "choices": [
+        "oleandrose",
+        "rhamnose",
+        "sarmentose",
+        "cymarose",
+        "vallarose"
+      ],
+      "answer": "cymarose",
+      "explanation": "정답: cymarose\n2,6-dideoxy + 3-O-methyl 당 — cymarose(cymarin의 당). 족보에 답 ④로 표시됨.\n출처: 2023-1 중간 객관16"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.82·83] 디기탈리스(Digitalis purpurea)의 강심배당체와 용도로 옳은 것은?",
+      "choices": [
+        "digitoxin(purpurea glycoside A), gitoxin, gitaloxin – 울혈성 심부전",
+        "lanatoside A·B·C, digoxin – 살서제",
+        "ouabain – 협심증",
+        "scillaren A – 이뇨"
+      ],
+      "answer": "digitoxin(purpurea glycoside A), gitoxin, gitaloxin – 울혈성 심부전",
+      "explanation": "정답: 첫 번째\ndigitoxin의 당은 β-D-digitoxose 3분자."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.83·85] 털디기탈리스(Digitalis lanata)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "lanatoside A·B·C, digoxin을 함유하며 디기탈리스보다 강심효과가 빠르고 축적이 낮다",
+        "ouabain을 함유한다",
+        "bufadienolide를 함유한다",
+        "steroidal saponin만 함유한다"
+      ],
+      "answer": "lanatoside A·B·C, digoxin을 함유하며 디기탈리스보다 강심효과가 빠르고 축적이 낮다",
+      "explanation": "정답: 첫 번째\nlanatoside C = gluco-acetyl-digoxin. digoxin, deslanoside."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.85] digoxin을 얻는 기원 식물의 학명은? (속명 종소명)",
+      "answer": [
+        "Digitalis lanata",
+        "D. lanata",
+        "털디기탈리스"
+      ],
+      "explanation": "정답: Digitalis lanata (털디기탈리스)\nlanatoside C에서 glucose와 acetyl기가 떨어진 것이 digoxin. Digitalis purpurea(디기탈리스)는 digitoxin."
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2] cardenolide계 강심배당체를 가지고 있는 생약을 하나 적으시오.",
+      "answer": [
+        "디기탈리스",
+        "털디기탈리스",
+        "스트로판투스",
+        "스트로판치자",
+        "영란",
+        "디기탈리스엽",
+        "털디기탈리스엽",
+        "digitalis"
+      ],
+      "explanation": "정답: 디기탈리스\ncardenolide: 디기탈리스, 털디기탈리스, 스트로판투스(스트로판치자), 영란 등.\n출처: 2020-2 중간 주2"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.83·86] 스트로판치자(Strophanthus kombe)의 강심배당체로 G-strophanthin이라고도 하는 것은?",
+      "choices": [
+        "ouabain",
+        "digoxin",
+        "convallatoxin",
+        "scillaren A",
+        "bufalin"
+      ],
+      "answer": "ouabain",
+      "explanation": "정답: ouabain (G-strophanthin)\n스트로판치자: K-strophanthin-β, cymarin — 심기능 부전증, 협심증."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.83] 강심배당체 함유 생약과 성분의 짝이 틀린 것은?",
+      "choices": [
+        "영란(Convallaria keiskei) – convallatoxin",
+        "복수초(Adonis amurensis) – cymarin, 이뇨약",
+        "섬수(Bufo bufo gargarizans) – bufotoxin",
+        "털디기탈리스 – lanatoside C",
+        "영란 – scilliroside, 살서제"
+      ],
+      "answer": "영란 – scilliroside, 살서제",
+      "explanation": "정답: '영란 – scilliroside' (틀림)\nscilliroside는 적색해총(살서제)."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.83·88] 해총(Urginea scilla)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "백색해총의 scillaren A는 강심제, 적색해총의 scilliroside는 살서제",
+        "적색해총은 강심제, 백색해총은 살서제",
+        "cardenolide를 함유한다",
+        "steroidal saponin 생약이다"
+      ],
+      "answer": "백색해총의 scillaren A는 강심제, 적색해총의 scilliroside는 살서제",
+      "explanation": "정답: 첫 번째\n해총은 식물이지만 bufadienolide(scilla-bufo type)를 함유."
+    },
+    {
+      "id": 13,
+      "question": "[기출 2021-2·2023-1·2023-2] Bufadienolide계 강심배당체를 함유하는 생약은?",
+      "choices": [
+        "디기탈리스엽",
+        "털디기탈리스엽",
+        "해총",
+        "스트로판치자",
+        "영란"
+      ],
+      "answer": "해총",
+      "explanation": "정답: 해총\n족보 답: 해총.\n2020-2 중간 주2(bufadienolide 생약 주관식)도 같은 내용.\n출처: 2021-2 중간 5 · 2023-1 중간 객관6 · 2023-2 중간 5 (3회 출제)"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.87] 섬수의 bufadienolide에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "Bufo속 두꺼비의 이하선·피지선 분비물에 포합체로 들어 있다",
+        "C17에 α-pyrone(coumalin) 고리가 있다",
+        "bufalin, cinobufagin, resibufogenin 등이 있다",
+        "C23 화합물로 5원 lactone을 가진다"
+      ],
+      "answer": "C23 화합물로 5원 lactone을 가진다",
+      "explanation": "정답: 마지막 (틀림)\nbufadienolide는 C24, 6원 lactone. C23·5원은 cardenolide."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.83·87] 섬수의 기원은?",
+      "choices": [
+        "두꺼비(Bufo bufo gargarizans)의 이하선·피지선 분비물",
+        "해총(Urginea scilla)의 비늘줄기",
+        "영란의 전초",
+        "디기탈리스의 잎",
+        "스트로판치자의 종자"
+      ],
+      "answer": "두꺼비(Bufo bufo gargarizans)의 이하선·피지선 분비물",
+      "explanation": "정답: 두꺼비 분비물\n성분: bufotoxin, vulgarobufotoxin(강심이뇨), bufalin, cinobufagin 등 bufadienolide."
+    },
+    {
+      "id": 16,
+      "question": "[기출 2022-2] 다음 화합물 구조의 이름은?\n[[img:pharmacognosy/images/2022-2-mid-s5.png|구조식]]",
+      "answer": [
+        "cardenolide",
+        "카르데놀라이드"
+      ],
+      "explanation": "정답: cardenolide\nsteroid C17에 5원환 불포화 lactone — cardenolide(디기탈리스 강심배당체).\n출처: 2022-2 중간 주관5"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.89] phytosterol에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "β-sitosterol, campesterol, stigmasterol 등이 있다",
+        "squalene에서 cycloartenol을 거쳐 생성된다",
+        "식물세포막 구성에 관여한다",
+        "cholesterol 흡수를 길항하여 체내 cholesterol을 낮춘다",
+        "lanosterol을 거쳐 생성된다"
+      ],
+      "answer": "lanosterol을 거쳐 생성된다",
+      "explanation": "정답: 'lanosterol 경유' (틀림) — 식물은 cycloartenol 경유"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.89] 우슬에 들어 있는 ecdysteroid는?",
+      "choices": [
+        "inokosterone, ecdysterone",
+        "β-sitosterol, stigmasterol",
+        "digitoxin, gitoxin",
+        "withaferin A",
+        "verticine"
+      ],
+      "answer": "inokosterone, ecdysterone",
+      "explanation": "정답: inokosterone, ecdysterone\n식물 기원 ecdysteroid = phytoecdysone. 꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과에 분포."
+    },
+    {
+      "id": 19,
+      "question": "[기출 2025-2] [19~21] 다음 설명에서 알맞은 것을 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리아재비과에 있으며 대표적으로 우슬, inokosterone 등이 이에 해당한다.",
+      "choices": [
+        "Limonoid",
+        "ecdysteroid",
+        "quassinoid",
+        "secoiridoid",
+        "cardiac glycoside"
+      ],
+      "answer": "ecdysteroid",
+      "explanation": "정답: ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone').\n✎ 수정사항: 족보의 '미나리과' → PPT의 '미나리아재비과', 'isokosterone' → PPT의 'inokosterone'으로 고침.\n출처: 2025-2 중간 21번"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.90] withanolide에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "ergostane 핵의 22번과 26번 탄소가 산화되어 δ-lactone이 된 화합물군",
+        "1번 탄소도 산화형(1-oxo form이 90% 이상)",
+        "주로 Solanaceae(Withania, Physalis, Datura 등)에서 분리",
+        "Withania somnifera(Ashwagandha)의 withaferin A는 세포독성",
+        "주로 Gentianaceae에서 분리되는 secoiridoid"
+      ],
+      "answer": "주로 Gentianaceae에서 분리되는 secoiridoid",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.90] withanolide를 주로 분리하는 과(科)는?",
+      "choices": [
+        "Solanaceae (가지과)",
+        "Gentianaceae (용담과)",
+        "Rutaceae (운향과)",
+        "Cucurbitaceae (박과)",
+        "Lauraceae (녹나무과)"
+      ],
+      "answer": "Solanaceae (가지과)",
+      "explanation": "정답: Solanaceae\nWithania, Physalis, Acnistus, Nicandra, Lycium, Datura속."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.91] steroidal alkaloid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "steroid 골격 안이나 곁사슬에 N을 함유한 pseudoalkaloid로, 백합과·가지과에 있다 (예: 절패모의 verticine)",
+        "아미노산에서 유래한 true alkaloid이다",
+        "tryptophan에서 유래한다",
+        "Rutaceae의 고미 성분이다"
+      ],
+      "answer": "steroid 골격 안이나 곁사슬에 N을 함유한 pseudoalkaloid로, 백합과·가지과에 있다 (예: 절패모의 verticine)",
+      "explanation": "정답: 첫 번째\n여로: veratramine / 절패모: verticine, verticinone, peiminoside / 토마토: tomatidine."
+    },
+    {
+      "id": 23,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q61.png|61번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "isoprenoid pathway",
+      "explanation": "정답: isoprenoid pathway\n⚠ PPT 대조: 그림의 정확한 화합물명은 확인 불가. 이소프렌 단위 탄소 골격으로 보아 isoprenoid로 판단(추정).\n※ 2025-2 족보 그림 중 화합물명이 확인되지 않은 문항이라 단원 끝에 실었다.\n출처: 2025-2 중간 61번"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.92·97] carotenoid의 생합성상 전구체는?",
+      "choices": [
+        "GGPP 2분자 (→ phytoene, C40)",
+        "FPP 2분자 (→ squalene)",
+        "GPP 2분자",
+        "acetyl-CoA 8분자",
+        "L-Phe"
+      ],
+      "answer": "GGPP 2분자 (→ phytoene, C40)",
+      "explanation": "정답: 2 × GGPP → cis-phytoene(C40)\ncarotenoid = 탄화수소류(carotene) + 산화 유도체(xanthophyll). 기본 골격: lycopene."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.92] carotenoid와 함유 식물의 짝이 틀린 것은?",
+      "choices": [
+        "β-carotene – 당근",
+        "lycopene – 토마토",
+        "zeaxanthin – 옥수수",
+        "crocin – 사프란·치자",
+        "capsanthin – 토마토"
+      ],
+      "answer": "capsanthin – 토마토",
+      "explanation": "정답: 'capsanthin – 토마토' (틀림)\ncapsanthin은 고추(ketone체)."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.92] carotenoid의 구조적 분류에서 crocin(사프란·치자)은 어디에 속하는가?",
+      "choices": [
+        "배당체",
+        "탄화수소류",
+        "alcohol체",
+        "ketone체",
+        "norcarotenoid"
+      ],
+      "answer": "배당체",
+      "explanation": "정답: 배당체\n탄화수소: β-carotene, lycopene / alcohol: zeaxanthin / 배당체: crocin / ketone: capsanthin."
+    },
+    {
+      "id": 27,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q57.png|57번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "isoprenoid pathway",
+      "explanation": "정답: isoprenoid pathway\n⚠ PPT 대조: 그림은 zeaxanthin(tetraterpene, carotenoid).\n출처: 2025-2 중간 57번"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.92·94] provitamin A로 불리며, 중앙이 잘리면(central cleavage) retinal 2분자를 내는 carotenoid는?",
+      "choices": [
+        "β-carotene",
+        "lycopene",
+        "crocin",
+        "capsanthin",
+        "zeaxanthin"
+      ],
+      "answer": "β-carotene",
+      "explanation": "정답: β-carotene\nretinal → retinol(vitamin A1). dehydroretinol은 vitamin A2."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.95] 시각 작용에서 opsin 단백질의 amino기와 Schiff base를 형성하여 rhodopsin을 만드는 것은?",
+      "choices": [
+        "11-cis-retinal",
+        "all-trans-retinol",
+        "retinoic acid",
+        "β-carotene",
+        "lycopene"
+      ],
+      "answer": "11-cis-retinal",
+      "explanation": "정답: 11-cis-retinal\n빛을 흡수하면 11,12-이중결합이 trans로 돌아가고 Schiff base가 가수분해되어 opsin과 분리."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.95] retinoid 의약품과 구조의 짝이 틀린 것은?",
+      "choices": [
+        "tretinoin – retinoic acid",
+        "isotretinoin – 13-cis-retinoic acid",
+        "acitretin – 방향족 고리를 가진 retinoid",
+        "retinol – vitamin A1",
+        "tretinoin – 11-cis-retinal"
+      ],
+      "answer": "tretinoin – 11-cis-retinal",
+      "explanation": "정답: 'tretinoin – 11-cis-retinal' (틀림)"
+    }
+  ]
+}

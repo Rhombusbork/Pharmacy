@@ -1,0 +1,367 @@
+{
+  "deckId": "pharmacognosy-ch2-isoprenoid-set2",
+  "subject": "생약학",
+  "title": "Ch2 Isoprenoid · 세트 2/8 (monoterpene·irregular monoterpene)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: monoterpene 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-monoterpene.png|monoterpene 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "p-menthane",
+        "pmenthane",
+        "menthane"
+      ],
+      "explanation": "정답: p-menthane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 2,
+      "question": "[기출 2020-2·2022-2] 골격 이름 — 빈칸 채우기: monoterpene 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-monoterpene.png|monoterpene 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "iridane",
+        "이리단"
+      ],
+      "explanation": "정답: iridane\n출처: 2020-2 중간 골격 · 2022-2 중간 주관2 (2회 출제)"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: monoterpene 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-monoterpene.png|monoterpene 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "pinane",
+        "pinene"
+      ],
+      "explanation": "정답: pinane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: monoterpene 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-monoterpene.png|monoterpene 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "bornane",
+        "보르난"
+      ],
+      "explanation": "정답: bornane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: monoterpene 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-monoterpene.png|monoterpene 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "chrysanthemane",
+        "크리산테만"
+      ],
+      "explanation": "정답: chrysanthemane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.20] 다음 구조(camphor)의 기원과 용도로 옳은 것은?\n[[smi:CC1(C)C2CCC1(C)C(=O)C2]]",
+      "choices": [
+        "녹나무(Cinnamomum camphora) – 국소자극으로 신경통·염증·타박상에 외용, 중추자극",
+        "박하 – 피부 냉감",
+        "회향 – 딱정벌레 살충",
+        "적작약 – 진경·항염",
+        "레몬 – 진정"
+      ],
+      "answer": "녹나무(Cinnamomum camphora) – 국소자극으로 신경통·염증·타박상에 외용, 중추자극",
+      "explanation": "정답: 녹나무 – 국소자극 외용, 중추자극\ncamphor는 bornane계 bicyclic monoterpene ketone."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.20] 다음 구조(menthol)를 함유한 생약과 작용으로 옳은 것은?\n[[smi:CC(C)C1CCC(C)CC1O]]",
+      "choices": [
+        "박하(Mentha arvensis)·양박하(M. piperita) 정유 – 피부 냉감, 약한 마취, 진통",
+        "정향 – 국소마취·항균",
+        "녹나무 – 중추자극",
+        "회향 – 살충",
+        "레몬 – 중추억제"
+      ],
+      "answer": "박하(Mentha arvensis)·양박하(M. piperita) 정유 – 피부 냉감, 약한 마취, 진통",
+      "explanation": "정답: 박하·양박하 – 냉감, 약한 마취, 진통\n(−)-menthol(levomenthol), p-menthane계 monocyclic monoterpene alcohol."
+    },
+    {
+      "id": 8,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(menthol)의 생합성 경로는?\n[[img:pharmacognosy/images/2021-2-mid-q16-menthol.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\np-menthane 골격 monoterpene(박하).\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2021-2·2022-2·2023-1] 다음 화합물(menthol)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2021-2-mid-q16-menthol.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\np-menthane 골격 monoterpene(박하).\n출처: 2021-2 중간 16 · 2022-2 중간 주관13 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2021-2·2023-1·2023-2] 다음 화합물(menthol)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-menthol.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid"
+      ],
+      "explanation": "정답: monoterpene\np-menthane 골격 monoterpene(박하).\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (3회 출제)"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 다음 화합물(limonene)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-limonene.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\np-menthane계 monoterpene(레몬 정유).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 다음 화합물(limonene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-limonene.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜"
+      ],
+      "explanation": "정답: monoterpene\np-menthane계 monoterpene(레몬 정유).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.20] monoterpene – 기원 – 작용의 짝이 틀린 것은?",
+      "choices": [
+        "limonene – lemon 정유 – 진정·중추억제",
+        "fenchone – 회향 – 딱정벌레류 살충",
+        "camphor – 녹나무 – 국소자극",
+        "menthol – 박하 – 피부 냉감",
+        "paeoniflorin – 회향 – 혈압강하"
+      ],
+      "answer": "paeoniflorin – 회향 – 혈압강하",
+      "explanation": "정답: 'paeoniflorin – 회향 – 혈압강하' (틀림)\npaeoniflorin은 적작약(Paeonia lactiflora)의 monoterpene glycoside benzoate — 진통·진경·항염증."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.20] lemon oil에 들어 있는 citral을 이루는 두 이성질체는?",
+      "choices": [
+        "neral, geranial",
+        "geraniol, citronellol",
+        "limonene, α-terpineol",
+        "thymol, carvacrol",
+        "α-pinene, camphor"
+      ],
+      "answer": "neral, geranial",
+      "explanation": "정답: neral, geranial\ncitronellol·geraniol은 rose oil, geraniol은 geranium oil에도 있다."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.20] 다음 구조(geraniol)가 주로 들어 있는 정유는?\n[[smi:CC(C)=CCC/C(C)=C/CO]]",
+      "choices": [
+        "geranium oil, rose oil",
+        "lemon oil만",
+        "박하유",
+        "정향유",
+        "계피유"
+      ],
+      "answer": "geranium oil, rose oil",
+      "explanation": "정답: geranium oil·rose oil\ngeraniol은 acyclic monoterpene alcohol이며 iridoid 생합성의 출발 물질이기도 하다(p.24)."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.20] 다음 구조(thymol)가 속하는 계열은?\n[[smi:Cc1ccc(C(C)C)c(O)c1]]",
+      "choices": [
+        "monoterpene (p-menthane계 방향족)",
+        "phenylpropanoid",
+        "sesquiterpene",
+        "polyketide phenol",
+        "coumarin"
+      ],
+      "answer": "monoterpene (p-menthane계 방향족)",
+      "explanation": "정답: monoterpene\nthymol·carvacrol·p-cymene은 p-menthane 골격이 방향족화된 monoterpene(C10). phenylpropanoid(C6C3)와 헷갈리지 않도록 탄소 수(C10)와 isopropyl기를 확인."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.20·21] 적작약(Paeonia lactiflora)의 지표성분 paeoniflorin의 작용은?",
+      "choices": [
+        "진통, 진경, 항염증",
+        "피부 냉감, 약한 마취",
+        "살충",
+        "강심, 이뇨",
+        "항말라리아"
+      ],
+      "answer": "진통, 진경, 항염증",
+      "explanation": "정답: 진통·진경·항염증\npaeoniflorin = monoterpene glycoside의 benzoate(pinane계 cage 구조)."
+    },
+    {
+      "id": 18,
+      "question": "[기출 2023-2] 작약의 지표성분인 paeoniflorin의 계열은?",
+      "choices": [
+        "monoterpene",
+        "flavonoid",
+        "phenol glycoside",
+        "anthraquinone",
+        "tannin"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\n⚠ PPT 대조: PPT: 'monoterpene glycoside의 benzoate'. 보기의 monoterpene이 가장 가까운 답.\n출처: 2023-2 중간 7"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2021-2·2023-1] 작약 paeoniflorin의 계열은?",
+      "choices": [
+        "secoiridoid",
+        "phytosterol",
+        "monoterpene",
+        "carotenoid",
+        "cannabinoid"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\npaeoniflorin — monoterpene 배당체.\n출처: 2021-2 중간 7 · 2023-1 중간 객관4 (2회 출제)"
+    },
+    {
+      "id": 20,
+      "question": "[기출 2021-2] 다음 구조 성분이 속하는 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q11.png|구조식]]",
+      "choices": [
+        "monoterpene glycoside",
+        "flavonoid",
+        "phenol glycoside",
+        "anthraquinone",
+        "tannin"
+      ],
+      "answer": "monoterpene glycoside",
+      "explanation": "정답: monoterpene glycoside\npaeoniflorin — pinane계 monoterpene 배당체.\n출처: 2021-2 중간 11"
+    },
+    {
+      "id": 21,
+      "question": "[기출 2023-1·2023-2] 다음 중 그림과 알맞은 물질을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m14.png|구조식]]",
+      "choices": [
+        "Amygdalin",
+        "Hypericin",
+        "Caffeine",
+        "Paeoniflorin",
+        "Daidzein"
+      ],
+      "answer": "Paeoniflorin",
+      "explanation": "정답: Paeoniflorin\npinane(cage) 골격 + glucose + benzoyl — paeoniflorin(작약).\n출처: 2023-1 중간 객관14 · 2023-2 중간 11 (2회 출제)"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.22] irregular monoterpene의 생합성 특징은?",
+      "choices": [
+        "GPP를 전구체로 하지 않고 DMAPP 2분자가 축합하여 생성",
+        "FPP가 고리화하여 생성",
+        "GPP에서 iridoid 고리가 형성",
+        "acetyl-CoA 5분자가 축합"
+      ],
+      "answer": "GPP를 전구체로 하지 않고 DMAPP 2분자가 축합하여 생성",
+      "explanation": "정답: DMAPP 2분자 축합\n예: 제충국의 pyrethrins(chrysanthemic acid). 일반 monoterpene은 head-to-tail로 생긴 GPP에서 출발."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.22] pyrethrins를 함유하며 살충제로 쓰이는 생약은?",
+      "choices": [
+        "제충국 (Chrysanthemum cinerariaefolium)의 꽃",
+        "회향의 과실",
+        "박하의 잎",
+        "녹나무의 목부",
+        "개똥쑥의 잎"
+      ],
+      "answer": "제충국 (Chrysanthemum cinerariaefolium)의 꽃",
+      "explanation": "정답: 제충국의 꽃\npyrethrins, cinerins, jasmolins — 유용한 살충 성분."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.23] pyrethrin II의 산(acid) 부분은?",
+      "choices": [
+        "pyrethric acid",
+        "chrysanthemic acid",
+        "pyrethrolone",
+        "jasmolone",
+        "cinerolone"
+      ],
+      "answer": "pyrethric acid",
+      "explanation": "정답: pyrethric acid (R1 = COOCH₃)\npyrethrin I·cinerin I·jasmolin I은 chrysanthemic acid(R1 = CH₃) 에스터, II형은 pyrethric acid 에스터. 알코올 부분: pyrethrolone, cinerolone, jasmolone."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.23] 다음 구조(chrysanthemic acid)의 특징적인 고리는?\n[[smi:CC(C)=CC1C(C(=O)O)C1(C)C]]",
+      "choices": [
+        "cyclopropane",
+        "cyclopentane",
+        "furan",
+        "cyclobutane",
+        "lactone"
+      ],
+      "answer": "cyclopropane",
+      "explanation": "정답: cyclopropane\nPPT p.23: 'loss of proton via cyclopropyl ring formation' → 가수분해·산화 → chrysanthemic acid."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.23] 제충국 pyrethrin 구조를 본떠 만든 합성 살충제(pyrethroid)가 아닌 것은?",
+      "choices": [
+        "permethrin",
+        "cypermethrin",
+        "bioresmethrin",
+        "tetramethrin",
+        "warfarin"
+      ],
+      "answer": "warfarin",
+      "explanation": "정답: warfarin\nwarfarin은 dicoumarol을 바탕으로 한 항응고제·살서제(쥐약)."
+    },
+    {
+      "id": 27,
+      "question": "[기출 2021-2·2023-1·2023-2] 다음 화합물(chrysanthemic acid)의 생합성 경로는?\n[[img:pharmacognosy/images/2021-2-mid-q16-chrysanthemic.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제.\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (3회 출제)"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(chrysanthemic acid)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2021-2-mid-q16-chrysanthemic.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×2",
+      "explanation": "정답: C5×2\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제.\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 29,
+      "question": "[기출 2021-2·2022-2·2023-1] 다음 화합물(chrysanthemic acid)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-chrysanthemic.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid",
+        "irregular monoterpene"
+      ],
+      "explanation": "정답: monoterpene\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제.\n출처: 2021-2 중간 16 · 2022-2 중간 주관16 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 30,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q45.png|45번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "isoprenoid pathway",
+      "explanation": "정답: isoprenoid pathway\n⚠ PPT 대조: 그림은 pyrethric acid(chrysanthemic acid 유도체, monoterpene).\n출처: 2025-2 중간 45번"
+    }
+  ]
+}

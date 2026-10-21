@@ -1,0 +1,381 @@
+{
+  "deckId": "pharmacognosy-ch2-isoprenoid-set4",
+  "subject": "생약학",
+  "title": "Ch2 Isoprenoid · 세트 4/8 (sesquiterpene)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.34] 파라오 개미의 분비액에 들어 있는 방어물질(acyclic sesquiterpene)은?",
+      "choices": [
+        "faranal",
+        "farnesol",
+        "nerolidol",
+        "juvabione",
+        "sirenin"
+      ],
+      "answer": "faranal",
+      "explanation": "정답: faranal"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.36] phytoalexin의 정의로 옳은 것은?",
+      "choices": [
+        "식물이 외부 침입(곰팡이·세균·바이러스)에 대항하기 위해 합성하는 저분자 항균 물질",
+        "식물의 성장 호르몬",
+        "곤충의 탈피 호르몬",
+        "광합성 색소"
+      ],
+      "answer": "식물이 외부 침입(곰팡이·세균·바이러스)에 대항하기 위해 합성하는 저분자 항균 물질",
+      "explanation": "정답: 첫 번째\n감염 부위 주변에 빠르게 쌓이는 저분자·지용성 항균 물질. Solanaceae에서만 40여 종 분리."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.34·36] phytoalexin과 식물의 짝이 틀린 것은?",
+      "choices": [
+        "ipomeamarone – 고구마",
+        "rishitin – 감자",
+        "debneyol – 담배",
+        "capsidiol – 고추",
+        "camalexin – 당근"
+      ],
+      "answer": "camalexin – 당근",
+      "explanation": "정답: 'camalexin – 당근' (틀림)\ncamalexin은 애기장대(Arabidopsis thaliana). 당근의 phytoalexin은 6-methoxymellein(isocoumarin)."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.36] 과(科)별 phytoalexin의 화학 계열 짝으로 옳은 것은?",
+      "choices": [
+        "Solanaceae – sesquiterpene, Leguminosae – isoflavonoid",
+        "Solanaceae – isoflavonoid, Leguminosae – sesquiterpene",
+        "Solanaceae – alkaloid, Leguminosae – coumarin",
+        "둘 다 steroid"
+      ],
+      "answer": "Solanaceae – sesquiterpene, Leguminosae – isoflavonoid",
+      "explanation": "정답: 가지과 – sesquiterpene, 콩과 – isoflavonoid"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.37] humulene과 caryophyllene의 기원으로 옳은 것은?",
+      "choices": [
+        "humulene – 홉(Humulus lupulus) 정유, caryophyllene – 정향 꽃봉오리·면화 꽃봉오리 정유",
+        "humulene – 정향, caryophyllene – 홉",
+        "humulene – 목향, caryophyllene – 제충국",
+        "둘 다 녹나무"
+      ],
+      "answer": "humulene – 홉(Humulus lupulus) 정유, caryophyllene – 정향 꽃봉오리·면화 꽃봉오리 정유",
+      "explanation": "정답: 첫 번째\nE,E-FPP 말단(C10) 이중결합이 관여해 C11 carbonium ion(humulyl cation)을 거쳐 생성. caryophyllene에는 4원환이 있다."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.38] germacrane형 등에서 α-exomethylene-γ-lactone 고리를 가진 sesquiterpene 유도체의 활성은?",
+      "choices": [
+        "항종양 활성, 식물 성장 억제",
+        "강심 작용",
+        "감미",
+        "항응고",
+        "환각"
+      ],
+      "answer": "항종양 활성, 식물 성장 억제",
+      "explanation": "정답: 항종양·식물성장억제\nguaiane의 chrysanthemin A·euparotin도 같은 고리 때문에 세포독성·항종양·식물성장저해(p.41)."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.38] 목향(Saussurea lappa)의 germacrane형 sesquiterpene lactone으로 항염증·세포독성 작용이 있는 것은?",
+      "choices": [
+        "costunolide",
+        "pyrethrosine",
+        "santonin",
+        "atractylon",
+        "helenalin"
+      ],
+      "answer": "costunolide",
+      "explanation": "정답: costunolide\npyrethrosine은 제충국의 germacrane(식물성장 억제). germacrene A, hedycaryol, periplanone B, heliangine도 germacrane."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.38] 제충국에서 얻어진 germacrane형 sesquiterpene lactone으로 식물 성장을 억제하는 것은?",
+      "choices": [
+        "pyrethrosine",
+        "pyrethrin I",
+        "chrysanthemic acid",
+        "costunolide",
+        "santonin"
+      ],
+      "answer": "pyrethrosine",
+      "explanation": "정답: pyrethrosine\n제충국의 살충 성분 pyrethrin은 irregular monoterpene ester로 다른 계열이다."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.39] elemane형 sesquiterpene은 germacradiene이 어떤 반응을 거쳐 생기는가?",
+      "choices": [
+        "Cope rearrangement",
+        "transannular cyclization",
+        "Claisen 축합",
+        "산화적 짝지음",
+        "1,2-methyl 재배열"
+      ],
+      "answer": "Cope rearrangement",
+      "explanation": "정답: Cope rearrangement\neudesmane은 germacradiene의 transannular cyclization으로 이환(bicyclic) 형성."
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.39] Vernonia hymenolepis 잎에서 얻은 elemane형 sesquiterpene dilactone으로 강한 항종양 활성을 가진 것은?",
+      "choices": [
+        "vernolepin",
+        "costunolide",
+        "artemisinin",
+        "santonin",
+        "gossypol"
+      ],
+      "answer": "vernolepin",
+      "explanation": "정답: vernolepin (vernomenin도 같은 식물)\nelemane: elemene, saussurea lactone, vernolepin."
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 다음 화합물(elemene)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-elemene.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nC15 sesquiterpene.\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (4회 출제)"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2021-2·2023-1·2023-2] 다음 화합물(elemene)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2021-2-mid-q16-elemene.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×3",
+      "explanation": "정답: C5×3\nC15 sesquiterpene — 강한 항종양 활성.\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (3회 출제)"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2020-2·2021-2·2023-1] 다음 화합물(elemene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-elemene.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜"
+      ],
+      "explanation": "정답: sesquiterpene\nC15 sesquiterpene.\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2021-2] 다음 구조의 화합물의 계열은 무엇인가?\n[[img:pharmacognosy/images/2021-2-mid-q14.png|vernomenin]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone"
+      ],
+      "explanation": "정답: sesquiterpene\n족보 답: sesquiterpene. 초록 원은 α-methylene-γ-lactone(세포독성 활성 부위).\n출처: 2021-2 중간 14"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.40] eudesmane형 sesquiterpene – 생약 – 작용의 짝이 틀린 것은?",
+      "choices": [
+        "atractylon – 창출·백출 – 건위",
+        "alantolactone – 토목향 – 구충",
+        "petasin – 머위 – 진경",
+        "santonin – 시나화 – 회충구제",
+        "capsidiol – 고구마 – 감미"
+      ],
+      "answer": "capsidiol – 고구마 – 감미",
+      "explanation": "정답: 'capsidiol – 고구마' (틀림)\ncapsidiol은 고추의 phytoalexin. 고구마는 ipomeamarone."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.40] 시나화(Artemisia cina)에서 얻는 eudesmane형 sesquiterpene lactone으로 회충 구제에 쓰이는 것은?",
+      "answer": [
+        "santonin",
+        "산토닌",
+        "α-santonin"
+      ],
+      "explanation": "정답: santonin"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.40] 창출·백출의 건위 성분인 eudesmane형 sesquiterpene은?",
+      "choices": [
+        "atractylon",
+        "alantolactone",
+        "petasin",
+        "costunolide",
+        "helenalin"
+      ],
+      "answer": "atractylon",
+      "explanation": "정답: atractylon"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2023-1·2023-2] 다음 물질이 해당하는 계열을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m9.png|구조식]]",
+      "choices": [
+        "steroid",
+        "saponin",
+        "curcuminoid",
+        "lignan",
+        "sesquiterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\ndecalin(eudesmane) 골격 + α-methylene-γ-lactone — sesquiterpene lactone(alantolactone류).\n출처: 2023-1 중간 객관9 · 2023-2 중간 14 (2회 출제)"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.41] guaiane 골격의 특징은?",
+      "choices": [
+        "perhydroazulene 골격 (5원환 + 7원환)",
+        "decalin (6원환 2개)",
+        "cyclopropane 고리",
+        "11원환",
+        "cyclobutane 고리"
+      ],
+      "answer": "perhydroazulene 골격 (5원환 + 7원환)",
+      "explanation": "정답: perhydroazulene 골격\npseudoguaiane은 guaiane의 methyl기가 1,2-재배열된 것."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.41] 돼지풀(Ambrosia artemisiaefolia)에 들어 있으며 알레르기를 일으키는 pseudoguaiane형 성분은?",
+      "choices": [
+        "ambrosic acid",
+        "helenalin",
+        "euparotin",
+        "chrysanthemin A",
+        "costunolide"
+      ],
+      "answer": "ambrosic acid",
+      "explanation": "정답: ambrosic acid\nhelenalin(Helenium autumnale): 항균·항종양."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.42] 목화(Gossypium) 종자의 황색 색소 gossypol에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "cadinane계 sesquiterpene(이량체)이다",
+        "atropisomer가 있다",
+        "(−)-gossypol은 남성 피임 작용(정자 성숙 변화)이 있다",
+        "(+)-gossypol은 항종양·항바이러스 활성이 있다",
+        "E,E-FPP에서 humulyl cation을 거쳐 생긴다"
+      ],
+      "answer": "E,E-FPP에서 humulyl cation을 거쳐 생긴다",
+      "explanation": "정답: 마지막 (틀림)\ncadinane은 E,Z-FPP의 고리가 닫히고 1,3 위치 H가 이동하며 생성(cadinyl cation)."
+    },
+    {
+      "id": 22,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q40.png|40번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "isoprenoid pathway",
+      "explanation": "정답: isoprenoid pathway\n⚠ PPT 대조: 그림은 gossypol(목화, cadinane계 sesquiterpene 이량체) — PPT isoprenoid 단원.\n출처: 2025-2 중간 40번"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.43] Coriaria속에서 분리된 독성 물질로 GABA antagonist인 sesquiterpene은?",
+      "choices": [
+        "tutin, coriamyrtin",
+        "helminthosporal",
+        "juvabione",
+        "sirenin",
+        "fumagillin"
+      ],
+      "answer": "tutin, coriamyrtin",
+      "explanation": "정답: tutin, coriamyrtin\nhelminthosporal은 소맥 반점병균(Helminthosporium sativum)의 독소. 둘 다 cadinane이 계속 고리화된 copabornyl cation 경유."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.44] bisabolane계 화합물과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "juvabione – 발삼나무(Abies balsamea) 목부",
+        "sirenin – Allomyces의 성 페로몬",
+        "fumagillin – Aspergillus fumigatus의 항생물질",
+        "bisabolol – E,Z-FPP 유래 bisabolyl cation",
+        "juvabione – 고구마 phytoalexin"
+      ],
+      "answer": "juvabione – 고구마 phytoalexin",
+      "explanation": "정답: 'juvabione – 고구마 phytoalexin' (틀림)\n고구마 phytoalexin은 ipomeamarone."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.45·46] artemisinin(qinghaosu)에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "peroxide 결합(endoperoxide)을 가진 sesquiterpene lactone이다",
+        "Artemisia annua(개똥쑥)에 0.06~0.16% 들어 있다",
+        "cadinyl cation을 거쳐 생합성된다",
+        "2015년 Tu Youyou가 노벨생리의학상을 받았다",
+        "chloroquine과 같은 quinoline 알칼로이드이다"
+      ],
+      "answer": "chloroquine과 같은 quinoline 알칼로이드이다",
+      "explanation": "정답: 마지막 (틀림)\nartemisinin은 질소가 없는 sesquiterpene. chloroquine·sulfadoxine/pyrimethamine 내성 말라리아가 퍼져 있어 중요(p.46)."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.45] artemisinin 유도체 중 수용성 나트륨염으로 주사제(빠른 약효)로 쓰이는 것은?",
+      "choices": [
+        "artesunic acid (artesunate)",
+        "artemisinic acid",
+        "arteannuin B",
+        "yingzhaosu A",
+        "artemether"
+      ],
+      "answer": "artesunic acid (artesunate)",
+      "explanation": "정답: artesunic acid(artesunate)\nartemether·arteether도 주사제로 쓰인다. artemisinic acid는 가장 풍부한 sesquiterpene으로 화학적으로 쉽게 artemisinin으로 바꿀 수 있다. arteannuin B는 항말라리아 활성이 낮다."
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2·2021-2·2022-2·2023-1·2023-2] 다음 화합물(artemisinin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-artemisinin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "mevalonate (isoprenoid) pathway",
+      "explanation": "정답: mevalonate (isoprenoid) pathway\nsesquiterpene lactone(endoperoxide).\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2022-2 중간 주관18 · 2023-1 중간 주관6 · 2023-2 중간 26 (5회 출제)"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(artemisinin)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2021-2-mid-q16-artemisinin.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C5×3",
+      "explanation": "정답: C5×3\n개똥쑥의 endoperoxide sesquiterpene lactone — 항말라리아.\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 29,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 다음 화합물(artemisinin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-artemisinin.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone"
+      ],
+      "explanation": "정답: sesquiterpene\nsesquiterpene lactone(endoperoxide).\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (4회 출제)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.47] diterpene에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "GGPP로부터 생합성되는 C20 화합물이다",
+        "대부분 환상(cyclic) 구조이다",
+        "식물계에 약 1,000종이 알려져 있다",
+        "균 대사산물·해양생물·병정개미 분비물에서도 발견된다",
+        "FPP 2분자가 결합하여 생긴다"
+      ],
+      "answer": "FPP 2분자가 결합하여 생긴다",
+      "explanation": "정답: 'FPP 2분자' (틀림)\nFPP 2분자 → squalene(C30, triterpene). diterpene은 FPP + IPP = GGPP(C20)."
+    }
+  ]
+}

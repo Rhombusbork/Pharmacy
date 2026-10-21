@@ -1,0 +1,372 @@
+{
+  "deckId": "pharmacognosy-ch2-isoprenoid-set6",
+  "subject": "생약학",
+  "title": "Ch2 Isoprenoid · 세트 6/8 (triterpene 골격·인삼·oleanane)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.59] tetracyclic(환 4개) triterpene이 아닌 것은?",
+      "choices": [
+        "dammarane",
+        "lanostane",
+        "cycloartane",
+        "cucurbitane",
+        "oleanane"
+      ],
+      "answer": "oleanane",
+      "explanation": "정답: oleanane (pentacyclic)\ntetracyclic: prostane, lanostane, dammarane, euphane, cycloartane, cucurbitane / pentacyclic: ursane, oleanane, hopane, lupane."
+    },
+    {
+      "id": 2,
+      "question": "[기출 2021-2] triterpene 기본 골격 문제\n[[img:pharmacognosy/images/2021-2-mid-q15b.png|triterpene 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "cycloartane",
+        "사이클로아르탄"
+      ],
+      "explanation": "정답: cycloartane\nC9-C19 cyclopropane 고리 — cycloartane.\n출처: 2021-2 중간 15"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2021-2] triterpene 기본 골격 문제\n[[img:pharmacognosy/images/2021-2-mid-q15b.png|triterpene 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "cucurbitane",
+        "쿠쿠르비탄"
+      ],
+      "explanation": "정답: cucurbitane\nC9에 methyl(C19가 이동) — cucurbitane(cucurbitacin).\n출처: 2021-2 중간 15"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2021-2·2023-1] triterpene 기본 골격 문제\n[[img:pharmacognosy/images/2021-2-mid-q15b.png|triterpene 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "ursane",
+        "우르산"
+      ],
+      "explanation": "정답: ursane\nC19·C20에 methyl 하나씩 — ursane.\n같은 그림의 ursane 문제가 2023-1 주관5-(6)에도 나왔다.\n출처: 2021-2 중간 15 · 2023-1 중간 주관5 (2회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2021-2] triterpene 기본 골격 문제\n[[img:pharmacognosy/images/2021-2-mid-q15b.png|triterpene 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "limonoid",
+        "리모노이드"
+      ],
+      "explanation": "정답: limonoid\nfuran 고리 + 개환 — limonoid.\n출처: 2021-2 중간 15"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2021-2] triterpene 기본 골격 문제\n[[img:pharmacognosy/images/2021-2-mid-q15b.png|triterpene 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "quassin",
+        "quassinoid",
+        "콰신"
+      ],
+      "explanation": "정답: quassin\nquassin(quassinoid) — 소태나무과의 고미성분, 분해된 triterpene.\n출처: 2021-2 중간 15"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2023-2] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑤ )에 들어갈 것은?",
+      "choices": [
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
+      ],
+      "answer": "cycloartenol",
+      "explanation": "정답: cycloartenol\n출처: 2023-2 중간 25"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2023-2] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑥ )에 들어갈 것은?",
+      "choices": [
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
+      ],
+      "answer": "euphol",
+      "explanation": "정답: euphol\n출처: 2023-2 중간 25"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2023-2] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑦ )에 들어갈 것은?",
+      "choices": [
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
+      ],
+      "answer": "β-amyrin (oleananes)",
+      "explanation": "정답: β-amyrin (oleananes)\n출처: 2023-2 중간 25"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2023-2] 25. Triterpene 구조의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-triterpene.png|triterpene 구조]]\n( ⑧ )에 들어갈 것은?",
+      "choices": [
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
+      ],
+      "answer": "friedelin",
+      "explanation": "정답: friedelin\n출처: 2023-2 중간 25"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.60] 택사의 prostane계 triterpene으로 혈장·간장의 cholesterol을 낮추는 성분은?",
+      "choices": [
+        "alisol A monoacetate",
+        "eburicoic acid",
+        "cimicifugoside",
+        "cucurbitacin E",
+        "asiaticoside"
+      ],
+      "answer": "alisol A monoacetate",
+      "explanation": "정답: alisol A monoacetate (택사)"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.61] 양모지(wool fat)에서 얻는 lanostane계 triterpene은?",
+      "choices": [
+        "lanosterol",
+        "eburicoic acid",
+        "cycloartenol",
+        "lupeol",
+        "β-amyrin"
+      ],
+      "answer": "lanosterol",
+      "explanation": "정답: lanosterol\n복령(Poria cocos)의 eburicoic acid·tumulosic acid도 lanostane계."
+    },
+    {
+      "id": 13,
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q25.png|25번 구조]]\n생약 성분 예시: 복령의 eburicoic acid, tumulosic acid",
+      "choices": [
+        "Lupane",
+        "Dammarane",
+        "Lanostane",
+        "Ursane",
+        "Oleanane"
+      ],
+      "answer": "Lanostane",
+      "explanation": "정답: Lanostane\n⚠ PPT 대조: PPT: Lanostane계 — lanosterol, eburicoic acid(복령). 족보의 'evuricoic'은 오기.\n✎ 수정사항: 족보 표기 'evuricoic acid'를 PPT 철자 'eburicoic acid'로 고쳐 실음.\n출처: 2025-2 중간 25번"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.62] cycloartane계 triterpene의 구조적 특징은?",
+      "choices": [
+        "B ring에 cyclopropane 고리가 있다",
+        "furan 고리가 있고 A ring이 열려 있다",
+        "환이 5개다",
+        "C17에 lactone이 있다"
+      ],
+      "answer": "B ring에 cyclopropane 고리가 있다",
+      "explanation": "정답: B ring의 cyclopropane\n승마(cimigenol, cimicifugoside — 여성 갱년기 장애 보조), 황기(astragaloside), 쌀겨기름(γ-oryzanol)."
+    },
+    {
+      "id": 15,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\ncycloartane 계열 갱년기 치료 생약 (    )",
+      "answer": [
+        "승마",
+        "cimicifuga"
+      ],
+      "explanation": "정답: 승마\n족보 답: 승마.\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.62] 황기의 saponin인 astragaloside가 속하는 triterpene 골격은?",
+      "choices": [
+        "cycloartane",
+        "dammarane",
+        "oleanane",
+        "ursane",
+        "lupane"
+      ],
+      "answer": "cycloartane",
+      "explanation": "정답: cycloartane"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.62] 쌀겨기름·미배아유에 들어 있는 cycloartane계 성분은?",
+      "choices": [
+        "γ-oryzanol",
+        "astragaloside",
+        "cimicifugoside",
+        "eburicoic acid",
+        "alisol A"
+      ],
+      "answer": "γ-oryzanol",
+      "explanation": "정답: γ-oryzanol"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.63] 인삼 ginsenoside의 20(S)-protopanaxadiol형에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "6번 위치에 OH가 없고, 3·20번에 당이 붙은 bisdesmoside이며, 중추억제·정신안정 작용",
+        "6번 OH가 있고 3번에 당이 없으며 중추흥분 작용",
+        "oleanane형이다",
+        "B ring에 cyclopropane이 있다"
+      ],
+      "answer": "6번 위치에 OH가 없고, 3·20번에 당이 붙은 bisdesmoside이며, 중추억제·정신안정 작용",
+      "explanation": "정답: 첫 번째\n20(S)-protopanaxatriol형: 6번 OH 있음, 3번에 당 없음(mono- 또는 bisdesmoside), 중추흥분. 산조인 saponin(dammarane)은 정신안정."
+    },
+    {
+      "id": 19,
+      "question": "[기출 2023-1·2023-2] 참/거짓을 판별하시오.\nprotopanaxatriol은 인삼 사포닌인 ginsenoside 중 하나로, 중추억제 작용을 한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\nprotopanaxadiol계 — 중추억제·정신안정, protopanaxatriol계 — 중추흥분.\n출처: 2023-1 중간 주관2 · 2023-2 중간 2 (2회 출제)"
+    },
+    {
+      "id": 20,
+      "question": "[기출 2021-2] True or False\n인삼의 ginsenoside(protopanaxadiol·protopanaxatriol계)는 dammarane계 triterpene이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T (참)\n인삼 사포닌은 대부분 dammarane계(ginsenoside Ro만 oleanane계).\n(족보에는 주제만 남아 있어 PPT 내용으로 문장을 복원함)\n출처: 2021-2 중간 2"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.63·64] protopanaxadiol형 ginsenoside가 아닌 것은?",
+      "choices": [
+        "ginsenoside Rb1",
+        "ginsenoside Rb2",
+        "ginsenoside Rc",
+        "ginsenoside Rd",
+        "ginsenoside Rg1"
+      ],
+      "answer": "ginsenoside Rg1",
+      "explanation": "정답: Rg1 (protopanaxatriol형)\nPPD형: Ra1·Ra2·Rb1·Rb2·Rb3·Rc·Rd / PPT형: Re·Rf·Rg1·Rg2·Rh1."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.64] 인삼 saponin을 산 가수분해하면 얻어지는 panaxadiol·panaxatriol의 성격은?",
+      "choices": [
+        "원래 aglycone이 아니라 산 처리로 생긴 인공산물(artifact, secondary aglycone)",
+        "인삼의 genuine aglycone",
+        "oleanane형 aglycone",
+        "당 부분"
+      ],
+      "answer": "원래 aglycone이 아니라 산 처리로 생긴 인공산물(artifact, secondary aglycone)",
+      "explanation": "정답: artifact\ngenuine aglycone은 protopanaxadiol·protopanaxatriol. 산 가수분해 시 곁사슬이 고리화되어 panaxadiol·panaxatriol이 된다."
+    },
+    {
+      "id": 23,
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q27.png|27번 구조]]\n인삼, 산조인의 saponin",
+      "choices": [
+        "Lupane",
+        "Dammarane",
+        "Lanostane",
+        "Ursane",
+        "Oleanane"
+      ],
+      "answer": "Dammarane",
+      "explanation": "정답: Dammarane\n출처: 2025-2 중간 27번"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.65] 모근(Imperata cylindrica)의 arundoin·fernenol이 속하는 pentacyclic triterpene 골격은?",
+      "choices": [
+        "hopane",
+        "lupane",
+        "ursane",
+        "oleanane",
+        "friedelane"
+      ],
+      "answer": "hopane",
+      "explanation": "정답: hopane\nhopane은 lupane형과 germinal methyl기 위치가 다르다. 섬오갈피(koreanoside, lupeol, betulin)는 lupane."
+    },
+    {
+      "id": 25,
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q26.png|26번 구조]]\n섬오갈피의 koreanoside, betulin",
+      "choices": [
+        "Lupane",
+        "Dammarane",
+        "Lanostane",
+        "Ursane",
+        "Oleanane"
+      ],
+      "answer": "Lupane",
+      "explanation": "정답: Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin.\n✎ 수정사항: 족보 표기 'koreanosdie'를 PPT 철자 'koreanoside'로 고쳐 실음.\n출처: 2025-2 중간 26번"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.66] cucurbitane계 triterpene에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "박과(Cucurbitaceae) 식물에 있고, cucurbitacin E는 고미·제암·준하 효과",
+        "콩과 식물의 감미 성분",
+        "B ring에 cyclopropane이 있다",
+        "인삼의 주성분"
+      ],
+      "answer": "박과(Cucurbitaceae) 식물에 있고, cucurbitacin E는 고미·제암·준하 효과",
+      "explanation": "정답: 첫 번째\n괄루근에도 들어 있다."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.67] oleanane계 triterpene saponin 중 '소염 작용' 그룹에 속하지 않는 생약은?",
+      "choices": [
+        "시호 (saikosaponin)",
+        "감초 (glycyrrhizin)",
+        "목통 (akebioside)",
+        "위령선 (clematoside)",
+        "길경 (platycodin)"
+      ],
+      "answer": "길경 (platycodin)",
+      "explanation": "정답: 길경 (거담 그룹)\n거담: 세네가, 원지, 길경 / 소염: 시호, 감초, 목통, 위령선."
+    },
+    {
+      "id": 28,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\n3대 거담 생약: 세네가, 원지, (    )",
+      "answer": [
+        "길경",
+        "도라지"
+      ],
+      "explanation": "정답: 길경\n족보 답: 길경.\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.67] oleanane계 saponin과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "platycodin – 길경",
+        "senegin – 세네가",
+        "onjisaponin – 원지",
+        "saikosaponin – 시호",
+        "platycodin – 원지"
+      ],
+      "answer": "platycodin – 원지",
+      "explanation": "정답: 'platycodin – 원지' (틀림)\n원지는 onjisaponin, polygalacin은 길경."
+    },
+    {
+      "id": 30,
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q28.png|28번 구조]]\n세네가, 길경, 원지, 시호, 감초의 성분",
+      "choices": [
+        "Lupane",
+        "Dammarane",
+        "Lanostane",
+        "Ursane",
+        "Oleanane"
+      ],
+      "answer": "Oleanane",
+      "explanation": "정답: Oleanane\n출처: 2025-2 중간 28번"
+    }
+  ]
+}
