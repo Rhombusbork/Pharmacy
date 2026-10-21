@@ -1,0 +1,373 @@
+{
+  "deckId": "pharmacognosy-ch5-complex-set1",
+  "subject": "생약학",
+  "title": "Ch5 복합경로 · 세트 1/4 (복합경로 총론·flavonoid 개요)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.2] polyketide + shikimate 복합경로로 만들어지는 화합물군이 아닌 것은?",
+      "choices": [
+        "xanthone",
+        "flavonoid",
+        "stilbene",
+        "cannabinoid"
+      ],
+      "answer": "cannabinoid",
+      "explanation": "정답: cannabinoid (polyketide + mevalonate)\npolyketide + shikimate: xanthones, flavonoids, stilbenes."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.2] xanthone의 building block 구성은?",
+      "choices": [
+        "C6C1 + 3 × C2",
+        "C6C3 + 3 × C2",
+        "C6C2 + 3 × C2",
+        "6 × C2 + 2 × C5",
+        "C6 + 2 × C5"
+      ],
+      "answer": "C6C1 + 3 × C2",
+      "explanation": "정답: C6C1 + 3 × C2 (+ 당)\nflavonoid: C6C3 + 3 × C2, stilbene: C6C2 + 3 × C2."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.2] flavonoid의 building block 구성은?",
+      "choices": [
+        "C6C3 + 3 × C2 (+ 당)",
+        "C6C1 + 3 × C2",
+        "C6C2 + 3 × C2",
+        "2 × C6C3",
+        "6 × C2"
+      ],
+      "answer": "C6C3 + 3 × C2 (+ 당)",
+      "explanation": "정답: C6C3 + 3 × C2\nB환 + C3 = cinnamoyl(C6C3, shikimate), A환 = 3 × C2(polyketide)."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.2] stilbene의 building block 구성은?",
+      "choices": [
+        "C6C2 + 3 × C2",
+        "C6C3 + 3 × C2",
+        "C6C1 + 3 × C2",
+        "2 × C6C3",
+        "4 × C2"
+      ],
+      "answer": "C6C2 + 3 × C2",
+      "explanation": "정답: C6C2 + 3 × C2\ncinnamoyl-CoA(C6C3)에서 시작하지만 고리화 때 CO₂가 빠져 C6C2만 남는다(p.17)."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.2] True or False\nxanthone 골격에서 한쪽 방향환은 shikimate(C6C1)에서, 다른 쪽 방향환은 polyketide(3 × C2)에서 온다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.3] polyketide + mevalonate 복합경로로 만들어지는 화합물은?",
+      "choices": [
+        "cannabinoids, humulone, lupulone",
+        "flavonoids, stilbenes",
+        "prenylated coumarins, shikonin",
+        "indole alkaloids",
+        "tropane alkaloids"
+      ],
+      "answer": "cannabinoids, humulone, lupulone",
+      "explanation": "정답: cannabinoid, humulone, lupulone"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.3] 홉의 humulone의 building block 구성으로 PPT에 나온 것은?",
+      "choices": [
+        "3 × C2 + 3 × C5",
+        "6 × C2 + 2 × C5",
+        "3 × C2 + 4 × C5",
+        "4 × C2",
+        "C6C3 + C5"
+      ],
+      "answer": "3 × C2 + 3 × C5",
+      "explanation": "정답: 3 × C2 + 3 × C5\nlupulone: 3 × C2 + 4 × C5 / THCA: 6 × C2 + 2 × C5."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.3] lupulone의 building block 구성으로 PPT에 나온 것은?",
+      "choices": [
+        "3 × C2 + 4 × C5",
+        "3 × C2 + 3 × C5",
+        "6 × C2 + 2 × C5",
+        "4 × C2",
+        "C6C1 + 3 × C2"
+      ],
+      "answer": "3 × C2 + 4 × C5",
+      "explanation": "정답: 3 × C2 + 4 × C5 (prenyl기가 humulone보다 하나 많다)"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2] 다음 화합물(humulone)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-humulone.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\npolyketide + mevalonate 복합 경로(호프의 쓴맛 성분), phloroglucinol 유도체.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2020-2] 다음 화합물(humulone)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-humulone.png|구조식]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀",
+        "acylphloroglucinol"
+      ],
+      "explanation": "정답: phloroglucinol\npolyketide + mevalonate 복합 경로(호프의 쓴맛 성분), phloroglucinol 유도체.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 다음 화합물(tetrahydrocannabinolic acid)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-thca.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\npolyketide + mevalonate 복합 경로(hexaketide + C10).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 다음 화합물(tetrahydrocannabinolic acid)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-thca.png|구조식]]",
+      "answer": [
+        "cannabinoid",
+        "카나비노이드"
+      ],
+      "explanation": "정답: cannabinoid\npolyketide + mevalonate 복합 경로(hexaketide + C10).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.4] shikimate + mevalonate 복합경로로 만들어지는 화합물은?",
+      "choices": [
+        "prenylated coumarins(byakangelicin 등), shikonins",
+        "flavonoids, xanthones",
+        "cannabinoids",
+        "indole alkaloids",
+        "stilbenes"
+      ],
+      "answer": "prenylated coumarins(byakangelicin 등), shikonins",
+      "explanation": "정답: prenylated coumarin, shikonin·alkannin"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.4] prenylated coumarin(byakangelicin 등)에서 prenyl 부분은 어느 경로에서 오는가?",
+      "choices": [
+        "mevalonate (DMAPP)",
+        "shikimate",
+        "polyketide",
+        "amino acid"
+      ],
+      "answer": "mevalonate (DMAPP)",
+      "explanation": "정답: mevalonate — coumarin 골격은 shikimate"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2020-2] 다음 화합물(shikonin / alkannin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-shikonin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\nshikimate + mevalonate 복합 경로(자근의 적색 색소).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2020-2] 다음 화합물(shikonin / alkannin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-shikonin.png|구조식]]",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\nshikimate + mevalonate 복합 경로(자근의 적색 색소).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.5] polyketide + shikimate + mevalonate(세 경로 모두) 복합경로로 만들어지는 것은?",
+      "choices": [
+        "prenylated flavonoid (icariin, morusin, rotenoid)",
+        "stilbene",
+        "humulone",
+        "shikonin",
+        "cocaine"
+      ],
+      "answer": "prenylated flavonoid (icariin, morusin, rotenoid)",
+      "explanation": "정답: prenylated flavonoid\nflavonoid(polyketide + shikimate)에 isoprenoid기(mevalonate)가 붙은 것."
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2] 다음 화합물(icariin)의 생합성 경로는?\n[[img:pharmacognosy/images/2020-2-mid-q3-icariin.png|구조식]]",
+      "choices": [
+        "shikimate pathway",
+        "mevalonate (isoprenoid) pathway",
+        "acetate-malonate (polyketide) pathway",
+        "complex pathway (복합 경로)"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\npolyketide + shikimate + mevalonate 경로(prenylated flavonoid, 음양곽).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2020-2] 다음 화합물(icariin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-icariin.png|구조식]]",
+      "answer": [
+        "flavonoid",
+        "플라보노이드",
+        "prenylated flavonoid",
+        "flavonol"
+      ],
+      "explanation": "정답: flavonoid\npolyketide + shikimate + mevalonate 경로(prenylated flavonoid, 음양곽).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.6] amino acid + polyketide 복합경로로 만들어지는 것은?",
+      "choices": [
+        "sanshool, tropane alkaloids (cocaine)",
+        "indole alkaloids (vinblastine)",
+        "flavonoids",
+        "cannabinoids",
+        "shikonin"
+      ],
+      "answer": "sanshool, tropane alkaloids (cocaine)",
+      "explanation": "정답: sanshool, tropane alkaloid\ncocaine = C4N(ornithine) + 2 × C2(acetate) + C6C1 + 2 × C1."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.6] cocaine의 building block 구성은?",
+      "choices": [
+        "C4N + 2 × C2 + (C6C1) + 2 × C1",
+        "C5N + 3 × C2",
+        "indole C2N + C5 + C1",
+        "C6C2N + C6C2 + 4 × C1",
+        "6 × C2 + 2 × C5"
+      ],
+      "answer": "C4N + 2 × C2 + (C6C1) + 2 × C1",
+      "explanation": "정답: C4N + 2 × C2 + (C6C1) + 2 × C1\nC4N(ornithine, tropane 고리) + 2 × C2(polyketide) + benzoyl(C6C1) + 메틸 2개(C1)."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.6] amino acid + mevalonate 복합경로로 만들어지는 것은?",
+      "choices": [
+        "indole alkaloids (vinblastine, vincristine)",
+        "tropane alkaloids",
+        "xanthones",
+        "humulone",
+        "prenylated coumarins"
+      ],
+      "answer": "indole alkaloids (vinblastine, vincristine)",
+      "explanation": "정답: monoterpene indole alkaloid\ntryptamine(아미노산) + secologanin(monoterpene, mevalonate)."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.6] vinblastine과 vincristine의 구조 차이는?",
+      "choices": [
+        "N-치환기 R이 vinblastine은 CH₃, vincristine은 CHO",
+        "vinblastine에만 indole이 있다",
+        "vincristine은 당이 붙어 있다",
+        "탄소 골격 자체가 다르다"
+      ],
+      "answer": "N-치환기 R이 vinblastine은 CH₃, vincristine은 CHO",
+      "explanation": "정답: R = CH₃(vinblastine) / CHO(vincristine)"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q43.png|43번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "complex pathway",
+      "explanation": "정답: complex pathway\n⚠ PPT 대조: 그림은 vinblastine. PPT complex pathway: 'amino acid + mevalonate: indole alkaloids(vinblastine, vincristine)'. 알칼로이드 단원에도 나와 amino acid pathway로 볼 여지가 있음.\n출처: 2025-2 중간 43번"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2025-2] [40~63] 다음의 구조를 생성하기 위한 생합성 경로를 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q55.png|55번 구조]]",
+      "choices": [
+        "shikimate pathway",
+        "amino acid pathway",
+        "polyketide pathway",
+        "isoprenoid pathway",
+        "complex pathway"
+      ],
+      "answer": "complex pathway",
+      "explanation": "정답: complex pathway\n⚠ PPT 대조: 그림은 camptothecin(pyrroloquinoline). 43번과 같은 논리로 complex(Trp + secologanin)로 판단했으나 PPT 알칼로이드 단원에도 있어 amino acid pathway로 볼 여지가 있음.\n출처: 2025-2 중간 55번"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.2~6] 복합경로와 화합물의 짝이 틀린 것은?",
+      "choices": [
+        "polyketide + shikimate – stilbene",
+        "polyketide + mevalonate – cannabinoid",
+        "shikimate + mevalonate – shikonin",
+        "amino acid + polyketide – cocaine",
+        "amino acid + mevalonate – humulone"
+      ],
+      "answer": "amino acid + mevalonate – humulone",
+      "explanation": "정답: 마지막 (틀림)\nhumulone은 polyketide + mevalonate. amino acid + mevalonate는 indole alkaloid."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.5·16] 데리스(Derris)의 rotenone이 속하는 계열은?",
+      "choices": [
+        "prenylated flavonoid (rotenoid)",
+        "stilbene",
+        "xanthone",
+        "chalcone",
+        "steroid"
+      ],
+      "answer": "prenylated flavonoid (rotenoid)",
+      "explanation": "정답: prenylated flavonoid(rotenoid)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.7] flavonoid의 기본 탄소 단위는?",
+      "choices": [
+        "C6-C3-C6",
+        "C6-C3",
+        "C6-C1-C6",
+        "C6-C2",
+        "C5 × 3"
+      ],
+      "answer": "C6-C3-C6",
+      "explanation": "정답: C6-C3-C6\nA환(C6, polyketide) – C3 – B환(C6, shikimate 유래 C6C3의 방향환)."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.7] C3 부분의 형태에 따라 나눈 flavonoid 분류에 속하지 않는 것은?",
+      "choices": [
+        "flavone",
+        "flavanone",
+        "chalcone",
+        "aurone",
+        "isoflavonoid"
+      ],
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid — B환의 결합 위치로 나눈 분류\nC3 형태: flavone, flavonol, flavanone, flavanonol, chalcone, aurone, anthocyanin."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.7·14] B환의 결합 위치에 따른 분류로 옳은 것은?",
+      "choices": [
+        "isoflavonoid – B환이 C-3에, neoflavonoid – B환이 C-4에 결합",
+        "isoflavonoid – C-4, neoflavonoid – C-3",
+        "둘 다 C-2",
+        "isoflavonoid – C-5"
+      ],
+      "answer": "isoflavonoid – B환이 C-3에, neoflavonoid – B환이 C-4에 결합",
+      "explanation": "정답: 첫 번째 (일반 flavonoid는 C-2)"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "deckId": "pharmacognosy-ch5-complex-set2",
+  "subject": "생약학",
+  "title": "Ch5 복합경로 · 세트 2/4 (flavonoid 골격·flavone·isoflavone·chalcone)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.7·15] flavone 두 분자가 결합한 화합물은?",
+      "choices": [
+        "biflavonoid",
+        "neoflavonoid",
+        "dihydrochalcone",
+        "proanthocyanidin",
+        "aurone"
+      ],
+      "answer": "biflavonoid",
+      "explanation": "정답: biflavonoid — 나자식물(겉씨식물)에 함유, 결합 위치에 따라 4가지"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (C환 2,3 이중결합, 4-keto)\n[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+      "answer": [
+        "flavone",
+        "플라본"
+      ],
+      "explanation": "정답: flavone"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (B환이 C-3에 결합)\n[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+      "answer": [
+        "isoflavone",
+        "이소플라본",
+        "isoflavonoid"
+      ],
+      "explanation": "정답: isoflavone"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (C환이 없고 α,β-불포화 ketone)\n[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+      "choices": [
+        "chalcone",
+        "aurone",
+        "flavanone",
+        "stilbene",
+        "dihydrochalcone"
+      ],
+      "answer": "chalcone",
+      "explanation": "정답: chalcone"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.8·9] 다음 골격은? (C환 2,3이 단일결합인 4-keto)\n[[smi:O=C1CC(c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "flavanone",
+        "flavone",
+        "flavonol",
+        "isoflavone",
+        "flavan-3-ol"
+      ],
+      "answer": "flavanone",
+      "explanation": "정답: flavanone"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.8] flavanonol의 다른 이름은?",
+      "choices": [
+        "dihydroflavonol",
+        "dihydrochalcone",
+        "flavan-3-ol",
+        "leucoanthocyanidin",
+        "neoflavonoid"
+      ],
+      "answer": "dihydroflavonol",
+      "explanation": "정답: dihydroflavonol (flavanone의 3-OH 유도체)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.8·21] flavan-3,4-diol의 다른 이름은?",
+      "choices": [
+        "leucoanthocyanidin",
+        "anthocyanidin",
+        "catechin",
+        "dihydroflavonol",
+        "aurone"
+      ],
+      "answer": "leucoanthocyanidin",
+      "explanation": "정답: leucoanthocyanidin — 축합형 탄닌의 합성 중간체"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "flavonol",
+        "플라보놀"
+      ],
+      "explanation": "정답: flavonol\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2·2022-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "flavanone",
+        "플라바논"
+      ],
+      "explanation": "정답: flavanone\n출처: 2020-2 중간 골격 · 2022-2 중간 주관10 (2회 출제)"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "chalcone",
+        "칼콘"
+      ],
+      "explanation": "정답: chalcone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "aurone",
+        "오론"
+      ],
+      "explanation": "정답: aurone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "isoflavonoid",
+        "isoflavone",
+        "이소플라본"
+      ],
+      "explanation": "정답: isoflavonoid\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.9] 현재 분리된 flavonoid의 약 80%를 차지하며 거의 모든 식물에 들어 있는 group은?",
+      "choices": [
+        "flavone, flavonol",
+        "isoflavone",
+        "chalcone, aurone",
+        "anthocyanidin",
+        "biflavonoid"
+      ],
+      "answer": "flavone, flavonol",
+      "explanation": "정답: flavone·flavonol"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.9] 다음 중 flavonol이 아닌 것은?",
+      "choices": [
+        "kaempferol",
+        "quercetin",
+        "myricetin",
+        "luteolin"
+      ],
+      "answer": "luteolin",
+      "explanation": "정답: luteolin (flavone)\nflavone: apigenin, vitexin, luteolin, baicalin, scutellarein / flavonol: kaempferol, quercetin, myricetin."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.9] 다음 중 flavone이 아닌 것은?",
+      "choices": [
+        "apigenin",
+        "luteolin",
+        "baicalin",
+        "scutellarein",
+        "quercetin"
+      ],
+      "answer": "quercetin",
+      "explanation": "정답: quercetin (flavonol)"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.8·9] 다음 구조처럼 flavone의 3번 위치에 OH가 있는 골격은?\n[[smi:O=C1C(O)=C(c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "flavonol",
+        "flavanone",
+        "isoflavone",
+        "aurone",
+        "chalcone"
+      ],
+      "answer": "flavonol",
+      "explanation": "정답: flavonol (3-hydroxyflavone)"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.9] flavanone·dihydroflavonol이 flavone·flavonol과 다른 점은?",
+      "choices": [
+        "C환 2,3번 사이의 이중결합이 없다",
+        "B환이 C-3에 붙는다",
+        "C환이 없다",
+        "4번 ketone이 없다"
+      ],
+      "answer": "C환 2,3번 사이의 이중결합이 없다",
+      "explanation": "정답: 2,3 이중결합이 없다"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.9] flavanone·dihydroflavonol의 예로 PPT에 나온 것은?",
+      "choices": [
+        "naringenin, hesperidin, alpinin",
+        "quercetin, rutin",
+        "daidzein, genistein",
+        "butein, carthamin",
+        "cyanidin, delphinidin"
+      ],
+      "answer": "naringenin, hesperidin, alpinin",
+      "explanation": "정답: naringenin, hesperidin, alpinin"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.10] isoflavone에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "콩과 식물에 많이 들어 있다",
+        "phytoestrogen으로 불린다",
+        "콩과 식물의 주된 phytoalexin이다",
+        "B환이 C-4에 결합한다"
+      ],
+      "answer": "B환이 C-4에 결합한다",
+      "explanation": "정답: 마지막 (틀림) — B환은 C-3 (C-4는 neoflavonoid)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.10] 갈근(Pueraria lobata)의 isoflavone과 작용은?",
+      "choices": [
+        "daidzein – 진경",
+        "genistein – 강심",
+        "puerarin – 사하",
+        "coumestrol – 항응고",
+        "rotenone – 살충"
+      ],
+      "answer": "daidzein – 진경",
+      "explanation": "정답: daidzein — 진경"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.10] 갈근의 기원 식물 학명은? (속명 종소명)",
+      "answer": [
+        "Pueraria lobata",
+        "P. lobata"
+      ],
+      "explanation": "정답: Pueraria lobata (콩과)"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.11] 식물성 에스트로겐(phytoestrogen)이 아닌 것은?",
+      "choices": [
+        "daidzein",
+        "genistein",
+        "coumestrol",
+        "estradiol"
+      ],
+      "answer": "estradiol",
+      "explanation": "정답: estradiol (동물 steroid hormone)\nestrone·estradiol·estriol과 구조가 비슷해 에스트로겐 작용."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.11] genistein이 속하는 계열과 작용은?",
+      "choices": [
+        "isoflavone – phytoestrogen",
+        "flavonol – 항산화만",
+        "chalcone – 색소",
+        "stilbene – 형광",
+        "xanthone – 승화"
+      ],
+      "answer": "isoflavone – phytoestrogen",
+      "explanation": "정답: isoflavone, phytoestrogen"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.10·11] True or False\ndaidzein·genistein은 estradiol과 구조가 비슷해 phytoestrogen으로 불린다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.12] chalcone의 구조적 특징으로 틀린 것은?",
+      "choices": [
+        "C환이 없다",
+        "α,β-unsaturated ketone 형태의 C3 사슬",
+        "flavonoid와 번호 매김(numbering)이 다르다",
+        "C환에 2,3 이중결합과 4-keto가 있다"
+      ],
+      "answer": "C환에 2,3 이중결합과 4-keto가 있다",
+      "explanation": "정답: 마지막 (틀림) — 그것은 flavone"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.12] 홍화의 chalcone 색소는?",
+      "choices": [
+        "carthamin",
+        "phloretin",
+        "sulphuretin",
+        "naringenin",
+        "crocin"
+      ],
+      "answer": "carthamin",
+      "explanation": "정답: carthamin (butein도 chalcone)\ncrocin은 사프란·치자의 carotenoid 배당체."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.12] dihydrochalcone인 phloretin의 작용으로 PPT에 나온 것은?",
+      "choices": [
+        "고혈당 (혈당 상승)",
+        "진경",
+        "강심",
+        "환각",
+        "사하"
+      ],
+      "answer": "고혈당 (혈당 상승)",
+      "explanation": "정답: 고혈당"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.12] aurone의 예는?",
+      "choices": [
+        "sulphuretin",
+        "butein",
+        "phloretin",
+        "apigenin",
+        "kaempferol"
+      ],
+      "answer": "sulphuretin",
+      "explanation": "정답: sulphuretin"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.12·족보 그림] 4-hydroxycinnamoyl-CoA + 3 malonyl-CoA의 poly-β-keto 사슬이 Claisen 반응(chalcone synthase)으로 고리화되어 생기는 첫 flavonoid는?",
+      "choices": [
+        "chalcone",
+        "flavanone",
+        "stilbene",
+        "aurone",
+        "isoflavone"
+      ],
+      "answer": "chalcone",
+      "explanation": "정답: chalcone → (고리화) flavanone → flavone, dihydroflavonol → flavonol, anthocyanidin, catechin"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.13] anthocyanidin에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "꽃·과일·잎의 색을 내는 anthocyanin(배당체)의 aglycone",
+        "anthocyanin의 당 부분",
+        "무색의 flavan-3,4-diol",
+        "isoflavone의 일종"
+      ],
+      "answer": "꽃·과일·잎의 색을 내는 anthocyanin(배당체)의 aglycone",
+      "explanation": "정답: anthocyanin의 aglycone"
+    }
+  ]
+}
