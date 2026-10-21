@@ -223,15 +223,13 @@
     },
     {
       "id": 19,
-      "question": "[PPT p.24] sennoside가 속하는 anthraquinone 유도체의 형태는?",
-      "choices": [
-        "dianthrone 배당체",
-        "anthranol 유리형",
-        "alizarin형 anthraquinone",
-        "phenanthraquinone"
+      "question": "[기출 2022-2] 다음 화합물의 계열은?\n[[img:pharmacognosy/images/2022-2-mid-s1.png|구조식]]",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논",
+        "quinone"
       ],
-      "answer": "dianthrone 배당체",
-      "explanation": "정답: dianthrone 배당체 — 활성이 가장 강한 형태"
+      "explanation": "정답: anthraquinone\n가운데 고리에 C=O 두 개, 양쪽 벤젠 고리 — 9,10-anthraquinone 골격.\n출처: 2022-2 중간 주관1"
     },
     {
       "id": 20,

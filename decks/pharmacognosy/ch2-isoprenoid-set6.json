@@ -271,7 +271,7 @@
     },
     {
       "id": 23,
-      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q27.png|27번 구조]]\n인삼, 산조인의 saponin",
+      "question": "[기출 2022-2·2023-1·2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q27.png|27번 구조]]\n인삼, 산조인의 saponin",
       "choices": [
         "Lupane",
         "Dammarane",
@@ -280,7 +280,7 @@
         "Oleanane"
       ],
       "answer": "Dammarane",
-      "explanation": "정답: Dammarane\n출처: 2025-2 중간 27번"
+      "explanation": "정답: Dammarane\n출처: 2025-2 중간 27번 · 2023-1 중간 주관5 · 2022-2 중간 주관4 (3회 출제)"
     },
     {
       "id": 24,
@@ -297,7 +297,7 @@
     },
     {
       "id": 25,
-      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q26.png|26번 구조]]\n섬오갈피의 koreanoside, betulin",
+      "question": "[기출 2023-1·2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q26.png|26번 구조]]\n섬오갈피의 koreanoside, betulin",
       "choices": [
         "Lupane",
         "Dammarane",
@@ -306,7 +306,7 @@
         "Oleanane"
       ],
       "answer": "Lupane",
-      "explanation": "정답: Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin.\n✎ 수정사항: 족보 표기 'koreanosdie'를 PPT 철자 'koreanoside'로 고쳐 실음.\n출처: 2025-2 중간 26번"
+      "explanation": "정답: Lupane\n⚠ PPT 대조: PPT: Lupane — 섬오갈피의 koreanoside, lupeol, betulin.\n✎ 수정사항: 족보 표기 'koreanosdie'를 PPT 철자 'koreanoside'로 고쳐 실음.\n출처: 2025-2 중간 26번 · 2023-1 중간 주관5 (2회 출제)"
     },
     {
       "id": 26,
@@ -357,7 +357,7 @@
     },
     {
       "id": 30,
-      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q28.png|28번 구조]]\n세네가, 길경, 원지, 시호, 감초의 성분",
+      "question": "[기출 2023-1·2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q28.png|28번 구조]]\n세네가, 길경, 원지, 시호, 감초의 성분",
       "choices": [
         "Lupane",
         "Dammarane",
@@ -366,7 +366,7 @@
         "Oleanane"
       ],
       "answer": "Oleanane",
-      "explanation": "정답: Oleanane\n출처: 2025-2 중간 28번"
+      "explanation": "정답: Oleanane\n출처: 2025-2 중간 28번 · 2023-1 중간 주관5 (2회 출제)"
     }
   ]
 }
