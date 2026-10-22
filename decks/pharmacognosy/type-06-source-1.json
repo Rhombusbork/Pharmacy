@@ -1,0 +1,382 @@
+{
+  "deckId": "pharmacognosy-type-06-source-1",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 1/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2021-2·2023-2] 빈칸을 채우시오.\n주목나무의 항암제 성분 ( P      )",
+      "answer": [
+        "paclitaxel",
+        "파클리탁셀",
+        "taxol"
+      ],
+      "explanation": "정답: paclitaxel (상품명 Taxol)\nPPT 1-2 p.5: Taxol®(paclitaxel, generic name), a mitotic inhibitor — from a yew tree(朱木).\n출처: 2021-2 중간 1-1) · 2023-2 중간 1-1) (2회 출제)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.20] lemon oil에 들어 있는 citral을 이루는 두 이성질체는?",
+      "choices": [
+        "neral, geranial",
+        "geraniol, citronellol",
+        "limonene, α-terpineol",
+        "thymol, carvacrol",
+        "α-pinene, camphor"
+      ],
+      "answer": "neral, geranial",
+      "explanation": "정답: neral, geranial\ncitronellol·geraniol은 rose oil, geraniol은 geranium oil에도 있다."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.20] 다음 구조(geraniol)가 주로 들어 있는 정유는?\n[[smi:CC(C)=CCC/C(C)=C/CO]]",
+      "choices": [
+        "geranium oil, rose oil",
+        "lemon oil만",
+        "박하유",
+        "정향유",
+        "계피유"
+      ],
+      "answer": "geranium oil, rose oil",
+      "explanation": "정답: geranium oil·rose oil\ngeraniol은 acyclic monoterpene alcohol이며 iridoid 생합성의 출발 물질이기도 하다(p.24)."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.27] iridoid와 함유 생약의 짝이 틀린 것은?",
+      "choices": [
+        "muzenide – 여정실",
+        "syringopicroside – 야정향",
+        "villoside – 패장",
+        "loganin, gentioside – 수채엽",
+        "linaroside – 지황"
+      ],
+      "answer": "linaroside – 지황",
+      "explanation": "정답: 'linaroside – 지황' (틀림)\nlinaroside는 운란(완화 작용). 지황은 catalpol."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.30] 다음 중 용담의 secoiridoid계 성분은?",
+      "choices": [
+        "gentisin",
+        "gentianine",
+        "gentiopicroside",
+        "gentisic acid",
+        "genistein"
+      ],
+      "answer": "gentiopicroside",
+      "explanation": "정답: gentiopicroside\nPPT p.30 예제(생약학문제집 p.27). gentisin은 xanthone, gentianine은 alkaloid, genistein은 isoflavone."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.34] 파라오 개미의 분비액에 들어 있는 방어물질(acyclic sesquiterpene)은?",
+      "choices": [
+        "faranal",
+        "farnesol",
+        "nerolidol",
+        "juvabione",
+        "sirenin"
+      ],
+      "answer": "faranal",
+      "explanation": "정답: faranal"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.34·36] phytoalexin과 식물의 짝이 틀린 것은?",
+      "choices": [
+        "ipomeamarone – 고구마",
+        "rishitin – 감자",
+        "debneyol – 담배",
+        "capsidiol – 고추",
+        "camalexin – 당근"
+      ],
+      "answer": "camalexin – 당근",
+      "explanation": "정답: 'camalexin – 당근' (틀림)\ncamalexin은 애기장대(Arabidopsis thaliana). 당근의 phytoalexin은 6-methoxymellein(isocoumarin)."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.37] humulene과 caryophyllene의 기원으로 옳은 것은?",
+      "choices": [
+        "humulene – 홉(Humulus lupulus) 정유, caryophyllene – 정향 꽃봉오리·면화 꽃봉오리 정유",
+        "humulene – 정향, caryophyllene – 홉",
+        "humulene – 목향, caryophyllene – 제충국",
+        "둘 다 녹나무"
+      ],
+      "answer": "humulene – 홉(Humulus lupulus) 정유, caryophyllene – 정향 꽃봉오리·면화 꽃봉오리 정유",
+      "explanation": "정답: 첫 번째\nE,E-FPP 말단(C10) 이중결합이 관여해 C11 carbonium ion(humulyl cation)을 거쳐 생성. caryophyllene에는 4원환이 있다."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.40] 시나화(Artemisia cina)에서 얻는 eudesmane형 sesquiterpene lactone으로 회충 구제에 쓰이는 것은?",
+      "answer": [
+        "santonin",
+        "산토닌",
+        "α-santonin"
+      ],
+      "explanation": "정답: santonin"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.40] 창출·백출의 건위 성분인 eudesmane형 sesquiterpene은?",
+      "choices": [
+        "atractylon",
+        "alantolactone",
+        "petasin",
+        "costunolide",
+        "helenalin"
+      ],
+      "answer": "atractylon",
+      "explanation": "정답: atractylon"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.41] 돼지풀(Ambrosia artemisiaefolia)에 들어 있으며 알레르기를 일으키는 pseudoguaiane형 성분은?",
+      "choices": [
+        "ambrosic acid",
+        "helenalin",
+        "euparotin",
+        "chrysanthemin A",
+        "costunolide"
+      ],
+      "answer": "ambrosic acid",
+      "explanation": "정답: ambrosic acid\nhelenalin(Helenium autumnale): 항균·항종양."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.44] bisabolane계 화합물과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "juvabione – 발삼나무(Abies balsamea) 목부",
+        "sirenin – Allomyces의 성 페로몬",
+        "fumagillin – Aspergillus fumigatus의 항생물질",
+        "bisabolol – E,Z-FPP 유래 bisabolyl cation",
+        "juvabione – 고구마 phytoalexin"
+      ],
+      "answer": "juvabione – 고구마 phytoalexin",
+      "explanation": "정답: 'juvabione – 고구마 phytoalexin' (틀림)\n고구마 phytoalexin은 ipomeamarone."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.49] cyclic diterpene과 설명의 짝이 틀린 것은?",
+      "choices": [
+        "columbin – 칼룸바근, 고미 강장",
+        "abietic acid – 송진(rosin), 효모성장촉진제",
+        "gibberellin – 식물 성장호르몬",
+        "pimaric acid – Pinus maritima의 rosin",
+        "gibberellin – 동물의 탈피 호르몬"
+      ],
+      "answer": "gibberellin – 동물의 탈피 호르몬",
+      "explanation": "정답: 'gibberellin – 탈피 호르몬' (틀림)\n탈피 호르몬은 ecdysteroid. gibberellin(GA3 등)은 식물 성장호르몬."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.50·51] 은행잎의 ginkgolide에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "diterpene이며 PAF(혈소판 활성화 인자) antagonist이다",
+        "sesquiterpene이며 항말라리아 작용을 한다",
+        "flavonoid이며 항산화 작용을 한다",
+        "steroid이며 강심 작용을 한다"
+      ],
+      "answer": "diterpene이며 PAF(혈소판 활성화 인자) antagonist이다",
+      "explanation": "정답: diterpene, PAF antagonist\n은행잎: ginkgolide A(약 30%), B, C, J + bilobalide(sesquiterpene, 30~40%)."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.53] 벼에 기생하는 식물 병원균에서 단리된 sesterterpene은?",
+      "choices": [
+        "ophiobolin",
+        "iricinin-1",
+        "cericerol-I",
+        "retigeranic acid",
+        "sclarin"
+      ],
+      "answer": "ophiobolin",
+      "explanation": "정답: ophiobolin"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.53] sesterterpene과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "furanosesterterpene(iricinin-1) – 해면",
+        "macrocyclic sesterterpene(cericerol-I) – 깍지벌레 wax",
+        "retigeranic acid – 지의류 Lobaria retigera (5환성)",
+        "cheilanthatriol – 양치식물·해면",
+        "ophiobolin – 상어 간유"
+      ],
+      "answer": "ophiobolin – 상어 간유",
+      "explanation": "정답: 'ophiobolin – 상어 간유' (틀림)\nophiobolin은 벼 병원균. 3환성 sesterterpene은 곤충 wax."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.54·57] 2,3-oxidosqualene이 고리화되어 생기는 sterol 전구체의 짝으로 옳은 것은?",
+      "choices": [
+        "동물·균 – lanosterol, 식물 – cycloartenol",
+        "동물 – cycloartenol, 식물 – lanosterol",
+        "둘 다 cholesterol",
+        "동물 – β-amyrin, 식물 – lupeol"
+      ],
+      "answer": "동물·균 – lanosterol, 식물 – cycloartenol",
+      "explanation": "정답: 동물 – lanosterol, 식물 – cycloartenol\nsqualene monooxygenase가 squalene → 2,3-oxidosqualene. 최종: cholesterol(동물), stigmasterol(식물), ergosterol(균)."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.57] squalene 이후 최종 sterol과 생물군의 짝으로 옳은 것은?",
+      "choices": [
+        "cholesterol – 동물, stigmasterol – 식물, ergosterol – 균류",
+        "cholesterol – 식물, ergosterol – 동물",
+        "stigmasterol – 균류, ergosterol – 식물",
+        "모두 동물"
+      ],
+      "answer": "cholesterol – 동물, stigmasterol – 식물, ergosterol – 균류",
+      "explanation": "정답: 첫 번째\nPPT p.57 'Simple version of the steroid synthesis pathway'."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.60] 택사의 prostane계 triterpene으로 혈장·간장의 cholesterol을 낮추는 성분은?",
+      "choices": [
+        "alisol A monoacetate",
+        "eburicoic acid",
+        "cimicifugoside",
+        "cucurbitacin E",
+        "asiaticoside"
+      ],
+      "answer": "alisol A monoacetate",
+      "explanation": "정답: alisol A monoacetate (택사)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.61] 양모지(wool fat)에서 얻는 lanostane계 triterpene은?",
+      "choices": [
+        "lanosterol",
+        "eburicoic acid",
+        "cycloartenol",
+        "lupeol",
+        "β-amyrin"
+      ],
+      "answer": "lanosterol",
+      "explanation": "정답: lanosterol\n복령(Poria cocos)의 eburicoic acid·tumulosic acid도 lanostane계."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.62] 쌀겨기름·미배아유에 들어 있는 cycloartane계 성분은?",
+      "choices": [
+        "γ-oryzanol",
+        "astragaloside",
+        "cimicifugoside",
+        "eburicoic acid",
+        "alisol A"
+      ],
+      "answer": "γ-oryzanol",
+      "explanation": "정답: γ-oryzanol"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.64] 인삼 saponin을 산 가수분해하면 얻어지는 panaxadiol·panaxatriol의 성격은?",
+      "choices": [
+        "원래 aglycone이 아니라 산 처리로 생긴 인공산물(artifact, secondary aglycone)",
+        "인삼의 genuine aglycone",
+        "oleanane형 aglycone",
+        "당 부분"
+      ],
+      "answer": "원래 aglycone이 아니라 산 처리로 생긴 인공산물(artifact, secondary aglycone)",
+      "explanation": "정답: artifact\ngenuine aglycone은 protopanaxadiol·protopanaxatriol. 산 가수분해 시 곁사슬이 고리화되어 panaxadiol·panaxatriol이 된다."
+    },
+    {
+      "id": 23,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\n3대 거담 생약: 세네가, 원지, (    )",
+      "answer": [
+        "길경",
+        "도라지"
+      ],
+      "explanation": "정답: 길경\n족보 답: 길경.\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.67] oleanane계 saponin과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "platycodin – 길경",
+        "senegin – 세네가",
+        "onjisaponin – 원지",
+        "saikosaponin – 시호",
+        "platycodin – 원지"
+      ],
+      "answer": "platycodin – 원지",
+      "explanation": "정답: 'platycodin – 원지' (틀림)\n원지는 onjisaponin, polygalacin은 길경."
+    },
+    {
+      "id": 25,
+      "question": "[기출 2025-2] [19~21] 다음 설명에서 알맞은 것을 고르시오.\n변형 triterpene으로 rutaceae의 대표적인 고미성분이다. Citrus속에 많으며, furan ring이 있고, A ring이 개환이 되어있다.",
+      "choices": [
+        "Limonoid",
+        "ecdysteroid",
+        "quassinoid",
+        "secoiridoid",
+        "cardiac glycoside"
+      ],
+      "answer": "Limonoid",
+      "explanation": "정답: Limonoid\n출처: 2025-2 중간 20번"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.69] 황백의 limonoid 성분은?",
+      "choices": [
+        "obakunone",
+        "limonin",
+        "quassin",
+        "berberine",
+        "cucurbitacin"
+      ],
+      "answer": "obakunone",
+      "explanation": "정답: obakunone\nlimonin은 등피(귤껍질). berberine은 황백의 alkaloid."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.70] steroid saponin이 있는 단자엽 식물의 과가 아닌 것은?",
+      "choices": [
+        "Liliaceae",
+        "Dioscoreaceae",
+        "Amaryllidaceae",
+        "Palmae",
+        "Solanaceae"
+      ],
+      "answer": "Solanaceae",
+      "explanation": "정답: Solanaceae (쌍자엽)\n쌍자엽: Solanaceae, Leguminosae, Zygophyllaceae, Scrophulariaceae, Apocynaceae / 단자엽: Liliaceae, Dioscoreaceae, Amaryllidaceae, Gramineae, Palmae."
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.73] 생물군과 대표 sterol의 짝이 틀린 것은?",
+      "choices": [
+        "척추동물 – cholesterol",
+        "식물 – β-sitosterol",
+        "해조류 – fucosterol",
+        "균류 – ergosterol",
+        "균류 – stigmasterol"
+      ],
+      "answer": "균류 – stigmasterol",
+      "explanation": "정답: '균류 – stigmasterol' (틀림)\nstigmasterol·campesterol은 β-sitosterol과 함께 식물에 있다."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.77] steroidal saponin과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "dioscin – 산약",
+        "ophiopogonin A~D – 맥문동",
+        "digitonin – 디기탈리스",
+        "timosaponin – 지모",
+        "dioscin – 인삼"
+      ],
+      "answer": "dioscin – 인삼",
+      "explanation": "정답: 'dioscin – 인삼' (틀림)\n인삼은 dammarane계 triterpene saponin(ginsenoside). diosgenin형: dioscin(산약), ophiopogonin(맥문동) / digitogenin형: digitonin(디기탈리스) / sarsapogenin형: timosaponin(지모)."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.78] steroidal saponin을 함유하고 진해·거담 및 자양·강장약으로 쓰이는 것은?",
+      "choices": [
+        "Liriopes Tuber (맥문동)",
+        "Allii Bulbus",
+        "Astragali Radix",
+        "Curcumae Longae Radix",
+        "Zingiberis Rhizoma"
+      ],
+      "answer": "Liriopes Tuber (맥문동)",
+      "explanation": "정답: 맥문동(Liriopis Tuber)\nPPT p.78 예제(생약학문제집 p.50). ophiopogonin."
+    }
+  ]
+}

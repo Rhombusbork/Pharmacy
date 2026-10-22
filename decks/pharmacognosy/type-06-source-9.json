@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-06-source-9",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 9/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[생약 → 화합물]\n'사프란·치자'의 성분으로 옳은 것은?",
+      "choices": [
+        "peiminoside",
+        "capsanthin",
+        "veratramine",
+        "lycopene",
+        "crocin"
+      ],
+      "answer": "crocin",
+      "explanation": "정답: crocin\n작용: 색소(착색료)"
+    },
+    {
+      "id": 2,
+      "question": "[화합물 → 생약]\n'capsanthin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "사프란·치자",
+        "토마토",
+        "패모",
+        "옥수수",
+        "고추"
+      ],
+      "answer": "고추",
+      "explanation": "정답: 고추\n작용: 색소"
+    },
+    {
+      "id": 3,
+      "question": "[생약 → 화합물]\n'고추'의 성분으로 옳은 것은?",
+      "choices": [
+        "crocin",
+        "lycopene",
+        "peiminoside",
+        "zeaxanthin",
+        "capsanthin"
+      ],
+      "answer": "capsanthin",
+      "explanation": "정답: capsanthin\n작용: 색소"
+    },
+    {
+      "id": 4,
+      "question": "[화합물 → 생약]\n'lycopene'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "고추",
+        "옥수수",
+        "사프란·치자",
+        "계피",
+        "토마토"
+      ],
+      "answer": "토마토",
+      "explanation": "정답: 토마토\n작용: 색소"
+    },
+    {
+      "id": 5,
+      "question": "[생약 → 화합물]\n'토마토'의 성분으로 옳은 것은?",
+      "choices": [
+        "capsanthin",
+        "zeaxanthin",
+        "crocin",
+        "cinnamaldehyde",
+        "lycopene"
+      ],
+      "answer": "lycopene",
+      "explanation": "정답: lycopene\n작용: 색소"
+    },
+    {
+      "id": 6,
+      "question": "[화합물 → 생약]\n'zeaxanthin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "토마토",
+        "계피",
+        "고추",
+        "회향·아니스",
+        "옥수수"
+      ],
+      "answer": "옥수수",
+      "explanation": "정답: 옥수수\n작용: 색소"
+    },
+    {
+      "id": 7,
+      "question": "[생약 → 화합물]\n'옥수수'의 성분으로 옳은 것은?",
+      "choices": [
+        "lycopene",
+        "cinnamaldehyde",
+        "capsanthin",
+        "anethole",
+        "zeaxanthin"
+      ],
+      "answer": "zeaxanthin",
+      "explanation": "정답: zeaxanthin\n작용: 색소"
+    },
+    {
+      "id": 8,
+      "question": "[화합물 → 생약]\n'cinnamaldehyde'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "옥수수",
+        "회향·아니스",
+        "토마토",
+        "정향",
+        "계피"
+      ],
+      "answer": "계피",
+      "explanation": "정답: 계피\n작용: 혈압강하, 해열, 진정"
+    },
+    {
+      "id": 9,
+      "question": "[생약 → 화합물]\n'계피'의 성분으로 옳은 것은?",
+      "choices": [
+        "zeaxanthin",
+        "anethole",
+        "lycopene",
+        "eugenol",
+        "cinnamaldehyde"
+      ],
+      "answer": "cinnamaldehyde",
+      "explanation": "정답: cinnamaldehyde\n작용: 혈압강하, 해열, 진정"
+    },
+    {
+      "id": 10,
+      "question": "[화합물 → 생약]\n'anethole'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "계피",
+        "정향",
+        "옥수수",
+        "세신",
+        "회향·아니스"
+      ],
+      "answer": "회향·아니스",
+      "explanation": "정답: 회향·아니스\n작용: 중추억제, 구풍"
+    },
+    {
+      "id": 11,
+      "question": "[생약 → 화합물]\n'회향·아니스'의 성분으로 옳은 것은?",
+      "choices": [
+        "cinnamaldehyde",
+        "eugenol",
+        "zeaxanthin",
+        "safrole",
+        "anethole"
+      ],
+      "answer": "anethole",
+      "explanation": "정답: anethole\n작용: 중추억제, 구풍"
+    },
+    {
+      "id": 12,
+      "question": "[화합물 → 생약]\n'eugenol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "회향·아니스",
+        "세신",
+        "계피",
+        "창포",
+        "정향"
+      ],
+      "answer": "정향",
+      "explanation": "정답: 정향\n작용: 국소마취, 항균, vanillin 원료"
+    },
+    {
+      "id": 13,
+      "question": "[생약 → 화합물]\n'정향'의 성분으로 옳은 것은?",
+      "choices": [
+        "anethole",
+        "safrole",
+        "cinnamaldehyde",
+        "asarone",
+        "eugenol"
+      ],
+      "answer": "eugenol",
+      "explanation": "정답: eugenol\n작용: 국소마취, 항균, vanillin 원료"
+    },
+    {
+      "id": 14,
+      "question": "[화합물 → 생약]\n'safrole'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "정향",
+        "창포",
+        "회향·아니스",
+        "육두구",
+        "세신"
+      ],
+      "answer": "세신",
+      "explanation": "정답: 세신\n작용: 누에 성장억제"
+    },
+    {
+      "id": 15,
+      "question": "[생약 → 화합물]\n'세신'의 성분으로 옳은 것은?",
+      "choices": [
+        "eugenol",
+        "asarone",
+        "anethole",
+        "myristicin",
+        "safrole"
+      ],
+      "answer": "safrole",
+      "explanation": "정답: safrole\n작용: 누에 성장억제"
+    },
+    {
+      "id": 16,
+      "question": "[화합물 → 생약]\n'asarone'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "세신",
+        "육두구",
+        "정향",
+        "녹병균",
+        "창포"
+      ],
+      "answer": "창포",
+      "explanation": "정답: 창포"
+    },
+    {
+      "id": 17,
+      "question": "[생약 → 화합물]\n'창포'의 성분으로 옳은 것은?",
+      "choices": [
+        "safrole",
+        "myristicin",
+        "eugenol",
+        "methyl cis-ferulate",
+        "asarone"
+      ],
+      "answer": "asarone",
+      "explanation": "정답: asarone"
+    },
+    {
+      "id": 18,
+      "question": "[화합물 → 생약]\n'myristicin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "창포",
+        "녹병균",
+        "세신",
+        "진피·서양칠엽수",
+        "육두구"
+      ],
+      "answer": "육두구",
+      "explanation": "정답: 육두구\n작용: 환각"
+    },
+    {
+      "id": 19,
+      "question": "[생약 → 화합물]\n'육두구'의 성분으로 옳은 것은?",
+      "choices": [
+        "asarone",
+        "methyl cis-ferulate",
+        "safrole",
+        "aesculin",
+        "myristicin"
+      ],
+      "answer": "myristicin",
+      "explanation": "정답: myristicin\n작용: 환각"
+    },
+    {
+      "id": 20,
+      "question": "[화합물 → 생약]\n'methyl cis-ferulate'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "육두구",
+        "진피·서양칠엽수",
+        "창포",
+        "사철쑥(인진호) 꽃이삭",
+        "녹병균"
+      ],
+      "answer": "녹병균",
+      "explanation": "정답: 녹병균\n작용: 발아저해"
+    },
+    {
+      "id": 21,
+      "question": "[생약 → 화합물]\n'녹병균'의 성분으로 옳은 것은?",
+      "choices": [
+        "myristicin",
+        "aesculin",
+        "asarone",
+        "scoparone",
+        "methyl cis-ferulate"
+      ],
+      "answer": "methyl cis-ferulate",
+      "explanation": "정답: methyl cis-ferulate\n작용: 발아저해"
+    },
+    {
+      "id": 22,
+      "question": "[화합물 → 생약]\n'aesculin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "녹병균",
+        "사철쑥(인진호) 꽃이삭",
+        "육두구",
+        "사상자 과실",
+        "진피·서양칠엽수"
+      ],
+      "answer": "진피·서양칠엽수",
+      "explanation": "정답: 진피·서양칠엽수\n작용: 모세혈관 투과성 억제, 부종억제"
+    },
+    {
+      "id": 23,
+      "question": "[생약 → 화합물]\n'진피·서양칠엽수'의 성분으로 옳은 것은?",
+      "choices": [
+        "methyl cis-ferulate",
+        "scoparone",
+        "myristicin",
+        "osthol",
+        "aesculin"
+      ],
+      "answer": "aesculin",
+      "explanation": "정답: aesculin\n작용: 모세혈관 투과성 억제, 부종억제"
+    },
+    {
+      "id": 24,
+      "question": "[화합물 → 생약]\n'scoparone'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "진피·서양칠엽수",
+        "사상자 과실",
+        "녹병균",
+        "보골지·무화과·백선피",
+        "사철쑥(인진호) 꽃이삭"
+      ],
+      "answer": "사철쑥(인진호) 꽃이삭",
+      "explanation": "정답: 사철쑥(인진호) 꽃이삭\n작용: 담즙분비 촉진"
+    },
+    {
+      "id": 25,
+      "question": "[생약 → 화합물]\n'사철쑥(인진호) 꽃이삭'의 성분으로 옳은 것은?",
+      "choices": [
+        "aesculin",
+        "osthol",
+        "methyl cis-ferulate",
+        "psoralen",
+        "scoparone"
+      ],
+      "answer": "scoparone",
+      "explanation": "정답: scoparone\n작용: 담즙분비 촉진"
+    },
+    {
+      "id": 26,
+      "question": "[화합물 → 생약]\n'osthol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "사철쑥(인진호) 꽃이삭",
+        "보골지·무화과·백선피",
+        "진피·서양칠엽수",
+        "백지",
+        "사상자 과실"
+      ],
+      "answer": "사상자 과실",
+      "explanation": "정답: 사상자 과실\n작용: 항진균, 호흡중추 흥분"
+    },
+    {
+      "id": 27,
+      "question": "[생약 → 화합물]\n'사상자 과실'의 성분으로 옳은 것은?",
+      "choices": [
+        "scoparone",
+        "psoralen",
+        "aesculin",
+        "imperatorin·byakangelicin",
+        "osthol"
+      ],
+      "answer": "osthol",
+      "explanation": "정답: osthol\n작용: 항진균, 호흡중추 흥분"
+    },
+    {
+      "id": 28,
+      "question": "[화합물 → 생약]\n'psoralen'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "사상자 과실",
+        "백지",
+        "사철쑥(인진호) 꽃이삭",
+        "참당귀(Angelica gigas)",
+        "보골지·무화과·백선피"
+      ],
+      "answer": "보골지·무화과·백선피",
+      "explanation": "정답: 보골지·무화과·백선피\n작용: 광감작 → 백반병 치료"
+    },
+    {
+      "id": 29,
+      "question": "[생약 → 화합물]\n'보골지·무화과·백선피'의 성분으로 옳은 것은?",
+      "choices": [
+        "osthol",
+        "imperatorin·byakangelicin",
+        "scoparone",
+        "decursin",
+        "psoralen"
+      ],
+      "answer": "psoralen",
+      "explanation": "정답: psoralen\n작용: 광감작 → 백반병 치료"
+    },
+    {
+      "id": 30,
+      "question": "[화합물 → 생약]\n'imperatorin·byakangelicin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "보골지·무화과·백선피",
+        "참당귀(Angelica gigas)",
+        "사상자 과실",
+        "암미실",
+        "백지"
+      ],
+      "answer": "백지",
+      "explanation": "정답: 백지"
+    }
+  ]
+}

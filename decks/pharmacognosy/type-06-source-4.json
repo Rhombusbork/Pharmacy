@@ -1,0 +1,387 @@
+{
+  "deckId": "pharmacognosy-type-06-source-4",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 4/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.45] tryptophan 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "simple indole – psilocybin, gramine",
+        "β-carboline – harmine, harmane",
+        "quinoline – quinine, quinidine",
+        "pyrroloindole – physostigmine",
+        "ergot – papaverine"
+      ],
+      "answer": "ergot – papaverine",
+      "explanation": "정답: 'ergot – papaverine' (틀림) — ergot: lysergic acid, ergotamine, ergometrine"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.53·54] strictosidine을 만드는 효소와 원료의 짝으로 옳은 것은?",
+      "choices": [
+        "strictosidine synthase(STR) – tryptamine + secologanin (tryptamine은 TDC가 Trp를 탈탄산해 만든다)",
+        "chalcone synthase – tryptamine + malonyl-CoA",
+        "PAL – Trp + GPP",
+        "HMG-CoA reductase – tryptamine + MVA"
+      ],
+      "answer": "strictosidine synthase(STR) – tryptamine + secologanin (tryptamine은 TDC가 Trp를 탈탄산해 만든다)",
+      "explanation": "정답: 첫 번째\nsecologanin은 geraniol에서 여러 효소를 거쳐 만들어진다."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.52] vinca alkaloid(vinblastine, vincristine)의 기원 식물은?",
+      "choices": [
+        "Catharanthus roseus (= Vinca rosea, 일일초)",
+        "Cinchona succirubra",
+        "Camptotheca acuminata",
+        "Taxus brevifolia",
+        "Rauvolfia serpentina"
+      ],
+      "answer": "Catharanthus roseus (= Vinca rosea, 일일초)",
+      "explanation": "정답: Catharanthus roseus"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.66] anthranilic acid 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "quinazoline – peganine(vasicine)",
+        "quinoline – dictamnine, skimmianine, platydesmine",
+        "acridine – acronycine, melicopicine, rutacridone",
+        "quinoline – peganine"
+      ],
+      "answer": "quinoline – peganine",
+      "explanation": "정답: 마지막 (틀림) — peganine(vasicine)은 quinazoline"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.67·68] sesquiterpene alkaloid와 기원의 짝으로 옳은 것은?",
+      "choices": [
+        "evonine – 귀전우(Euonymus alatus, 노박덩굴과) / nupharidine – 천골·연자육",
+        "evonine – 부자 / nupharidine – 주목",
+        "evonine – 패모 / nupharidine – 여로",
+        "둘 다 가지과"
+      ],
+      "answer": "evonine – 귀전우(Euonymus alatus, 노박덩굴과) / nupharidine – 천골·연자육",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.71] steroidal alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "veratrum – jervine, veratramine",
+        "fritillaria – peiminoside, verticine",
+        "solanum – solasodine, tomatidine, solanidine",
+        "fritillaria – tomatine"
+      ],
+      "answer": "fritillaria – tomatine",
+      "explanation": "정답: 마지막 (틀림) — tomatine은 solanum alkaloid"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.71] veratrum alkaloid의 두 그룹과 예의 짝으로 옳은 것은?",
+      "choices": [
+        "jeveratrum – veralkamine, jervine, veratramine / ceveratrum – veracevine, germine, protoverine",
+        "jeveratrum – solasodine / ceveratrum – tomatidine",
+        "둘 다 peimine",
+        "jeveratrum – aconitine"
+      ],
+      "answer": "jeveratrum – veralkamine, jervine, veratramine / ceveratrum – veracevine, germine, protoverine",
+      "explanation": "정답: 첫 번째 (여로)"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2022-2] 고추 과실의 신미성분은?",
+      "choices": [
+        "allicin",
+        "caffeine",
+        "capsaicin",
+        "amygdalin",
+        "sinigrin"
+      ],
+      "answer": "capsaicin",
+      "explanation": "정답: capsaicin\ncapsaicin: 고추의 매운 성분(vanillylamide). allicin — 마늘, sinigrin — 겨자.\n출처: 2022-2 중간 1"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.76] amygdalin을 함유한 생약으로 PPT에 나온 것이 아닌 것은?",
+      "choices": [
+        "행인",
+        "고편도",
+        "감편도",
+        "개자"
+      ],
+      "answer": "개자",
+      "explanation": "정답: 개자 (sinigrin — 개자배당체)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.76·77] 배당체 – 분해 효소의 짝이 틀린 것은?",
+      "choices": [
+        "amygdalin – emulsin",
+        "sinigrin – myrosinase",
+        "alliin – alliinase",
+        "sinigrin – emulsin"
+      ],
+      "answer": "sinigrin – emulsin",
+      "explanation": "정답: 'sinigrin – emulsin' (틀림) — myrosinase"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.77] sinigrin이 myrosinase로 분해되어 생기는 매운 성분은?",
+      "answer": [
+        "allyl isothiocyanate",
+        "allylisothiocyanate",
+        "알릴이소티오시아네이트"
+      ],
+      "explanation": "정답: allyl isothiocyanate (+ glucose + KHSO₄)"
+    },
+    {
+      "id": 12,
+      "question": "[화합물 → 생약]\n'menthol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "녹나무",
+        "적작약",
+        "레몬 정유",
+        "회향",
+        "박하·양박하"
+      ],
+      "answer": "박하·양박하",
+      "explanation": "정답: 박하·양박하\n작용: 피부 냉감, 약한 마취, 진통"
+    },
+    {
+      "id": 13,
+      "question": "[생약 → 화합물]\n'박하·양박하'의 성분으로 옳은 것은?",
+      "choices": [
+        "camphor",
+        "paeoniflorin",
+        "limonene",
+        "fenchone",
+        "menthol"
+      ],
+      "answer": "menthol",
+      "explanation": "정답: menthol\n작용: 피부 냉감, 약한 마취, 진통"
+    },
+    {
+      "id": 14,
+      "question": "[화합물 → 생약]\n'camphor'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "박하·양박하",
+        "적작약",
+        "레몬 정유",
+        "회향",
+        "녹나무"
+      ],
+      "answer": "녹나무",
+      "explanation": "정답: 녹나무\n작용: 국소자극(신경통·타박상 외용), 중추자극"
+    },
+    {
+      "id": 15,
+      "question": "[생약 → 화합물]\n'녹나무'의 성분으로 옳은 것은?",
+      "choices": [
+        "menthol",
+        "paeoniflorin",
+        "limonene",
+        "fenchone",
+        "camphor"
+      ],
+      "answer": "camphor",
+      "explanation": "정답: camphor\n작용: 국소자극(신경통·타박상 외용), 중추자극"
+    },
+    {
+      "id": 16,
+      "question": "[화합물 → 생약]\n'paeoniflorin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "녹나무",
+        "레몬 정유",
+        "박하·양박하",
+        "회향",
+        "적작약"
+      ],
+      "answer": "적작약",
+      "explanation": "정답: 적작약\n작용: 진통, 진경, 항염증"
+    },
+    {
+      "id": 17,
+      "question": "[생약 → 화합물]\n'적작약'의 성분으로 옳은 것은?",
+      "choices": [
+        "camphor",
+        "limonene",
+        "menthol",
+        "fenchone",
+        "paeoniflorin"
+      ],
+      "answer": "paeoniflorin",
+      "explanation": "정답: paeoniflorin\n작용: 진통, 진경, 항염증"
+    },
+    {
+      "id": 18,
+      "question": "[화합물 → 생약]\n'limonene'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "적작약",
+        "회향",
+        "녹나무",
+        "제충국 꽃",
+        "레몬 정유"
+      ],
+      "answer": "레몬 정유",
+      "explanation": "정답: 레몬 정유\n작용: 진정, 중추억제"
+    },
+    {
+      "id": 19,
+      "question": "[생약 → 화합물]\n'레몬 정유'의 성분으로 옳은 것은?",
+      "choices": [
+        "paeoniflorin",
+        "fenchone",
+        "camphor",
+        "pyrethrin",
+        "limonene"
+      ],
+      "answer": "limonene",
+      "explanation": "정답: limonene\n작용: 진정, 중추억제"
+    },
+    {
+      "id": 20,
+      "question": "[화합물 → 생약]\n'fenchone'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "레몬 정유",
+        "제충국 꽃",
+        "적작약",
+        "산수유",
+        "회향"
+      ],
+      "answer": "회향",
+      "explanation": "정답: 회향\n작용: 딱정벌레류 살충"
+    },
+    {
+      "id": 21,
+      "question": "[생약 → 화합물]\n'회향'의 성분으로 옳은 것은?",
+      "choices": [
+        "limonene",
+        "pyrethrin",
+        "paeoniflorin",
+        "loganin",
+        "fenchone"
+      ],
+      "answer": "fenchone",
+      "explanation": "정답: fenchone\n작용: 딱정벌레류 살충"
+    },
+    {
+      "id": 22,
+      "question": "[화합물 → 생약]\n'pyrethrin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "회향",
+        "산수유",
+        "레몬 정유",
+        "지황",
+        "제충국 꽃"
+      ],
+      "answer": "제충국 꽃",
+      "explanation": "정답: 제충국 꽃\n작용: 살충"
+    },
+    {
+      "id": 23,
+      "question": "[생약 → 화합물]\n'제충국 꽃'의 성분으로 옳은 것은?",
+      "choices": [
+        "fenchone",
+        "loganin",
+        "limonene",
+        "catalpol",
+        "pyrethrin"
+      ],
+      "answer": "pyrethrin",
+      "explanation": "정답: pyrethrin\n작용: 살충"
+    },
+    {
+      "id": 24,
+      "question": "[화합물 → 생약]\n'loganin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "제충국 꽃",
+        "지황",
+        "회향",
+        "현삼",
+        "산수유"
+      ],
+      "answer": "산수유",
+      "explanation": "정답: 산수유"
+    },
+    {
+      "id": 25,
+      "question": "[생약 → 화합물]\n'산수유'의 성분으로 옳은 것은?",
+      "choices": [
+        "pyrethrin",
+        "catalpol",
+        "fenchone",
+        "harpagoside",
+        "loganin"
+      ],
+      "answer": "loganin",
+      "explanation": "정답: loganin"
+    },
+    {
+      "id": 26,
+      "question": "[화합물 → 생약]\n'catalpol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "산수유",
+        "현삼",
+        "제충국 꽃",
+        "치자",
+        "지황"
+      ],
+      "answer": "지황",
+      "explanation": "정답: 지황\n작용: 혈압강하"
+    },
+    {
+      "id": 27,
+      "question": "[생약 → 화합물]\n'지황'의 성분으로 옳은 것은?",
+      "choices": [
+        "loganin",
+        "harpagoside",
+        "pyrethrin",
+        "geniposide",
+        "catalpol"
+      ],
+      "answer": "catalpol",
+      "explanation": "정답: catalpol\n작용: 혈압강하"
+    },
+    {
+      "id": 28,
+      "question": "[화합물 → 생약]\n'harpagoside'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "지황",
+        "치자",
+        "산수유",
+        "길초근(쥐오줌풀)",
+        "현삼"
+      ],
+      "answer": "현삼",
+      "explanation": "정답: 현삼\n작용: 소염진통"
+    },
+    {
+      "id": 29,
+      "question": "[생약 → 화합물]\n'현삼'의 성분으로 옳은 것은?",
+      "choices": [
+        "catalpol",
+        "geniposide",
+        "loganin",
+        "valtrate",
+        "harpagoside"
+      ],
+      "answer": "harpagoside",
+      "explanation": "정답: harpagoside\n작용: 소염진통"
+    },
+    {
+      "id": 30,
+      "question": "[화합물 → 생약]\n'geniposide'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "현삼",
+        "길초근(쥐오줌풀)",
+        "지황",
+        "호황련",
+        "치자"
+      ],
+      "answer": "치자",
+      "explanation": "정답: 치자\n작용: 이담, 지혈, 소염, 해열"
+    }
+  ]
+}

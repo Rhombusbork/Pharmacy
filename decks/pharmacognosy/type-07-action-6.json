@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-07-action-6",
+  "subject": "생약학",
+  "title": "⑦ 약효·작용·용도 6/15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[성분 → 작용]\n'ipomeamarone'(고구마)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "phytoalexin(항균 방어)",
+        "항말라리아",
+        "회충구제",
+        "남성 피임",
+        "phytoalexin"
+      ],
+      "answer": "phytoalexin",
+      "explanation": "정답: phytoalexin"
+    },
+    {
+      "id": 2,
+      "question": "[작용 → 성분]\n작용·용도가 'phytoalexin'인 성분은?",
+      "choices": [
+        "capsidiol",
+        "artemisinin",
+        "santonin",
+        "(−)-gossypol",
+        "ipomeamarone"
+      ],
+      "answer": "ipomeamarone",
+      "explanation": "정답: ipomeamarone (고구마)"
+    },
+    {
+      "id": 3,
+      "question": "[성분 → 작용]\n'artemisinin'(개똥쑥(Artemisia annua)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "phytoalexin",
+        "남성 피임",
+        "phytoalexin(항균 방어)",
+        "회충구제",
+        "항말라리아"
+      ],
+      "answer": "항말라리아",
+      "explanation": "정답: 항말라리아"
+    },
+    {
+      "id": 4,
+      "question": "[작용 → 성분]\n작용·용도가 '항말라리아'인 성분은?",
+      "choices": [
+        "ipomeamarone",
+        "(−)-gossypol",
+        "capsidiol",
+        "humulene",
+        "artemisinin"
+      ],
+      "answer": "artemisinin",
+      "explanation": "정답: artemisinin (개똥쑥(Artemisia annua)"
+    },
+    {
+      "id": 5,
+      "question": "[성분 → 작용]\n'(−)-gossypol'(목화 종자)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항말라리아",
+        "phytoalexin",
+        "phytoalexin(항균 방어)",
+        "PAF 길항, 혈액순환 개선",
+        "남성 피임"
+      ],
+      "answer": "남성 피임",
+      "explanation": "정답: 남성 피임"
+    },
+    {
+      "id": 6,
+      "question": "[작용 → 성분]\n작용·용도가 '남성 피임'인 성분은?",
+      "choices": [
+        "artemisinin",
+        "humulene",
+        "ipomeamarone",
+        "caryophyllene",
+        "(−)-gossypol"
+      ],
+      "answer": "(−)-gossypol",
+      "explanation": "정답: (−)-gossypol (목화 종자)"
+    },
+    {
+      "id": 7,
+      "question": "[성분 → 작용]\n'ginkgolide'(은행잎)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "감미료(설탕의 약 150배)",
+        "혈압강하(adenylate cyclase 활성화)",
+        "남성 피임",
+        "발암(종양 촉진)",
+        "PAF 길항, 혈액순환 개선"
+      ],
+      "answer": "PAF 길항, 혈액순환 개선",
+      "explanation": "정답: PAF 길항, 혈액순환 개선"
+    },
+    {
+      "id": 8,
+      "question": "[작용 → 성분]\n작용·용도가 'PAF 길항, 혈액순환 개선'인 성분은?",
+      "choices": [
+        "caryophyllene",
+        "stevioside",
+        "humulene",
+        "forskolin",
+        "ginkgolide"
+      ],
+      "answer": "ginkgolide",
+      "explanation": "정답: ginkgolide (은행잎)"
+    },
+    {
+      "id": 9,
+      "question": "[성분 → 작용]\n'stevioside'(스테비아 잎)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "PAF 길항, 혈액순환 개선",
+        "혈압강하(adenylate cyclase 활성화)",
+        "발암(종양 촉진)",
+        "맹독",
+        "감미료(설탕의 약 150배)"
+      ],
+      "answer": "감미료(설탕의 약 150배)",
+      "explanation": "정답: 감미료(설탕의 약 150배)"
+    },
+    {
+      "id": 10,
+      "question": "[작용 → 성분]\n작용·용도가 '감미료(설탕의 약 150배)'인 성분은?",
+      "choices": [
+        "ginkgolide",
+        "forskolin",
+        "caryophyllene",
+        "phorbol ester",
+        "stevioside"
+      ],
+      "answer": "stevioside",
+      "explanation": "정답: stevioside (스테비아 잎)"
+    },
+    {
+      "id": 11,
+      "question": "[성분 → 작용]\n'forskolin'(Coleus forskohlii)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "감미료(설탕의 약 150배)",
+        "발암(종양 촉진)",
+        "PAF 길항, 혈액순환 개선",
+        "맹독",
+        "혈압강하(adenylate cyclase 활성화)"
+      ],
+      "answer": "혈압강하(adenylate cyclase 활성화)",
+      "explanation": "정답: 혈압강하(adenylate cyclase 활성화)"
+    },
+    {
+      "id": 12,
+      "question": "[작용 → 성분]\n작용·용도가 '혈압강하(adenylate cyclase 활성화)'인 성분은?",
+      "choices": [
+        "stevioside",
+        "phorbol ester",
+        "ginkgolide",
+        "aconitine",
+        "forskolin"
+      ],
+      "answer": "forskolin",
+      "explanation": "정답: forskolin (Coleus forskohlii)"
+    },
+    {
+      "id": 13,
+      "question": "[성분 → 작용]\n'phorbol ester'(파두)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "혈압강하(adenylate cyclase 활성화)",
+        "맹독",
+        "감미료(설탕의 약 150배)",
+        "항암(미세소관 안정화)",
+        "발암(종양 촉진)"
+      ],
+      "answer": "발암(종양 촉진)",
+      "explanation": "정답: 발암(종양 촉진)"
+    },
+    {
+      "id": 14,
+      "question": "[작용 → 성분]\n작용·용도가 '발암(종양 촉진)'인 성분은?",
+      "choices": [
+        "forskolin",
+        "aconitine",
+        "stevioside",
+        "paclitaxel(taxol)",
+        "phorbol ester"
+      ],
+      "answer": "phorbol ester",
+      "explanation": "정답: phorbol ester (파두)"
+    },
+    {
+      "id": 15,
+      "question": "[성분 → 작용]\n'aconitine'(부자(Aconitum)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "발암(종양 촉진)",
+        "항암(미세소관 안정화)",
+        "혈압강하(adenylate cyclase 활성화)",
+        "고미 강장",
+        "맹독"
+      ],
+      "answer": "맹독",
+      "explanation": "정답: 맹독"
+    },
+    {
+      "id": 16,
+      "question": "[작용 → 성분]\n작용·용도가 '맹독'인 성분은?",
+      "choices": [
+        "phorbol ester",
+        "paclitaxel(taxol)",
+        "forskolin",
+        "columbin",
+        "aconitine"
+      ],
+      "answer": "aconitine",
+      "explanation": "정답: aconitine (부자(Aconitum)"
+    },
+    {
+      "id": 17,
+      "question": "[성분 → 작용]\n'paclitaxel(taxol)'(주목(Taxus brevifolia)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "맹독",
+        "고미 강장",
+        "발암(종양 촉진)",
+        "cholesterol 저하",
+        "항암(미세소관 안정화)"
+      ],
+      "answer": "항암(미세소관 안정화)",
+      "explanation": "정답: 항암(미세소관 안정화)"
+    },
+    {
+      "id": 18,
+      "question": "[작용 → 성분]\n작용·용도가 '항암(미세소관 안정화)'인 성분은?",
+      "choices": [
+        "aconitine",
+        "columbin",
+        "phorbol ester",
+        "alisol A monoacetate",
+        "paclitaxel(taxol)"
+      ],
+      "answer": "paclitaxel(taxol)",
+      "explanation": "정답: paclitaxel(taxol) (주목(Taxus brevifolia)"
+    },
+    {
+      "id": 19,
+      "question": "[성분 → 작용]\n'columbin'(칼룸바근)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항암(미세소관 안정화)",
+        "cholesterol 저하",
+        "맹독",
+        "발암(종양 촉진)",
+        "고미 강장"
+      ],
+      "answer": "고미 강장",
+      "explanation": "정답: 고미 강장"
+    },
+    {
+      "id": 20,
+      "question": "[작용 → 성분]\n작용·용도가 '고미 강장'인 성분은?",
+      "choices": [
+        "paclitaxel(taxol)",
+        "alisol A monoacetate",
+        "aconitine",
+        "eburicoic acid",
+        "columbin"
+      ],
+      "answer": "columbin",
+      "explanation": "정답: columbin (칼룸바근)"
+    },
+    {
+      "id": 21,
+      "question": "[성분 → 작용]\n'alisol A monoacetate'(택사)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "고미 강장",
+        "항암(미세소관 안정화)",
+        "갱년기 장애 보조",
+        "맹독",
+        "cholesterol 저하"
+      ],
+      "answer": "cholesterol 저하",
+      "explanation": "정답: cholesterol 저하"
+    },
+    {
+      "id": 22,
+      "question": "[작용 → 성분]\n작용·용도가 'cholesterol 저하'인 성분은?",
+      "choices": [
+        "columbin",
+        "eburicoic acid",
+        "paclitaxel(taxol)",
+        "cimicifugoside",
+        "alisol A monoacetate"
+      ],
+      "answer": "alisol A monoacetate",
+      "explanation": "정답: alisol A monoacetate (택사)"
+    },
+    {
+      "id": 23,
+      "question": "[성분 → 작용]\n'cimicifugoside'(승마)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "cholesterol 저하",
+        "고미 강장",
+        "중추억제·정신안정",
+        "항암(미세소관 안정화)",
+        "갱년기 장애 보조"
+      ],
+      "answer": "갱년기 장애 보조",
+      "explanation": "정답: 갱년기 장애 보조"
+    },
+    {
+      "id": 24,
+      "question": "[작용 → 성분]\n작용·용도가 '갱년기 장애 보조'인 성분은?",
+      "choices": [
+        "eburicoic acid",
+        "astragaloside",
+        "alisol A monoacetate",
+        "γ-oryzanol",
+        "cimicifugoside"
+      ],
+      "answer": "cimicifugoside",
+      "explanation": "정답: cimicifugoside (승마)"
+    },
+    {
+      "id": 25,
+      "question": "[성분 → 작용]\n'ginsenoside Rb1(PPD형)'(인삼)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "거담",
+        "갱년기 장애 보조",
+        "소염",
+        "cholesterol 저하",
+        "중추억제·정신안정"
+      ],
+      "answer": "중추억제·정신안정",
+      "explanation": "정답: 중추억제·정신안정"
+    },
+    {
+      "id": 26,
+      "question": "[작용 → 성분]\n작용·용도가 '중추억제·정신안정'인 성분은?",
+      "choices": [
+        "γ-oryzanol",
+        "platycodin",
+        "astragaloside",
+        "senegin",
+        "ginsenoside Rb1(PPD형)"
+      ],
+      "answer": "ginsenoside Rb1(PPD형)",
+      "explanation": "정답: ginsenoside Rb1(PPD형) (인삼)"
+    },
+    {
+      "id": 27,
+      "question": "[성분 → 작용]\n'platycodin'(길경(도라지)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "중추억제·정신안정",
+        "소염",
+        "갱년기 장애 보조",
+        "소염, 감미, 해독",
+        "거담"
+      ],
+      "answer": "거담",
+      "explanation": "정답: 거담"
+    },
+    {
+      "id": 28,
+      "question": "[작용 → 성분]\n작용·용도가 '거담'인 성분은?",
+      "choices": [
+        "ginsenoside Rb1(PPD형)",
+        "γ-oryzanol",
+        "astragaloside",
+        "saikosaponin",
+        "platycodin"
+      ],
+      "answer": "platycodin",
+      "explanation": "정답: platycodin (길경(도라지)"
+    },
+    {
+      "id": 29,
+      "question": "[성분 → 작용]\n'senegin'(세네가)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "중추억제·정신안정",
+        "소염",
+        "소염, 감미, 해독",
+        "갱년기 장애 보조",
+        "거담"
+      ],
+      "answer": "거담",
+      "explanation": "정답: 거담"
+    },
+    {
+      "id": 30,
+      "question": "[작용 → 성분]\n작용·용도가 '거담'인 성분은?",
+      "choices": [
+        "ginsenoside Rb1(PPD형)",
+        "saikosaponin",
+        "γ-oryzanol",
+        "glycyrrhizin",
+        "senegin"
+      ],
+      "answer": "senegin",
+      "explanation": "정답: senegin (세네가)"
+    }
+  ]
+}

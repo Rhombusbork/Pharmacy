@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-07-action-14",
+  "subject": "생약학",
+  "title": "⑦ 약효·작용·용도 14/15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[성분 → 작용]\n'corydaline'(현호색)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진통(내성 없음)",
+        "진경, 지사",
+        "고미건위정장",
+        "진해(의존성 없음)",
+        "위액분비 억제, 위궤양"
+      ],
+      "answer": "위액분비 억제, 위궤양",
+      "explanation": "정답: 위액분비 억제, 위궤양"
+    },
+    {
+      "id": 2,
+      "question": "[작용 → 성분]\n작용·용도가 '위액분비 억제, 위궤양'인 성분은?",
+      "choices": [
+        "tetrahydropalmatine",
+        "chelidonine",
+        "berberine·palmatine",
+        "noscapine(narcotine)",
+        "corydaline"
+      ],
+      "answer": "corydaline",
+      "explanation": "정답: corydaline (현호색)"
+    },
+    {
+      "id": 3,
+      "question": "[성분 → 작용]\n'chelidonine'(백굴채(애기똥풀)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "위액분비 억제, 위궤양",
+        "진해(의존성 없음)",
+        "진통(내성 없음)",
+        "지혈(혈관수축)",
+        "진경, 지사"
+      ],
+      "answer": "진경, 지사",
+      "explanation": "정답: 진경, 지사"
+    },
+    {
+      "id": 4,
+      "question": "[작용 → 성분]\n작용·용도가 '진경, 지사'인 성분은?",
+      "choices": [
+        "corydaline",
+        "noscapine(narcotine)",
+        "tetrahydropalmatine",
+        "hydrastine",
+        "chelidonine"
+      ],
+      "answer": "chelidonine",
+      "explanation": "정답: chelidonine (백굴채(애기똥풀)"
+    },
+    {
+      "id": 5,
+      "question": "[성분 → 작용]\n'noscapine(narcotine)'(아편)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진경, 지사",
+        "지혈(혈관수축)",
+        "위액분비 억제, 위궤양",
+        "파킨슨병, 최토",
+        "진해(의존성 없음)"
+      ],
+      "answer": "진해(의존성 없음)",
+      "explanation": "정답: 진해(의존성 없음)"
+    },
+    {
+      "id": 6,
+      "question": "[작용 → 성분]\n작용·용도가 '진해(의존성 없음)'인 성분은?",
+      "choices": [
+        "chelidonine",
+        "hydrastine",
+        "corydaline",
+        "apomorphine",
+        "noscapine(narcotine)"
+      ],
+      "answer": "noscapine(narcotine)",
+      "explanation": "정답: noscapine(narcotine) (아편)"
+    },
+    {
+      "id": 7,
+      "question": "[성분 → 작용]\n'hydrastine'(히드라스티스근)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진해(의존성 없음)",
+        "파킨슨병, 최토",
+        "진경, 지사",
+        "신장독성, 발암",
+        "지혈(혈관수축)"
+      ],
+      "answer": "지혈(혈관수축)",
+      "explanation": "정답: 지혈(혈관수축)"
+    },
+    {
+      "id": 8,
+      "question": "[작용 → 성분]\n작용·용도가 '지혈(혈관수축)'인 성분은?",
+      "choices": [
+        "noscapine(narcotine)",
+        "apomorphine",
+        "chelidonine",
+        "aristolochic acid",
+        "hydrastine"
+      ],
+      "answer": "hydrastine",
+      "explanation": "정답: hydrastine (히드라스티스근)"
+    },
+    {
+      "id": 9,
+      "question": "[성분 → 작용]\n'apomorphine'(morphine 산 처리)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "지혈(혈관수축)",
+        "신장독성, 발암",
+        "진해(의존성 없음)",
+        "진통",
+        "파킨슨병, 최토"
+      ],
+      "answer": "파킨슨병, 최토",
+      "explanation": "정답: 파킨슨병, 최토"
+    },
+    {
+      "id": 10,
+      "question": "[작용 → 성분]\n작용·용도가 '파킨슨병, 최토'인 성분은?",
+      "choices": [
+        "hydrastine",
+        "aristolochic acid",
+        "noscapine(narcotine)",
+        "morphine",
+        "apomorphine"
+      ],
+      "answer": "apomorphine",
+      "explanation": "정답: apomorphine (morphine 산 처리)"
+    },
+    {
+      "id": 11,
+      "question": "[성분 → 작용]\n'aristolochic acid'(Aristolochia속)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "파킨슨병, 최토",
+        "진통",
+        "지혈(혈관수축)",
+        "진해",
+        "신장독성, 발암"
+      ],
+      "answer": "신장독성, 발암",
+      "explanation": "정답: 신장독성, 발암"
+    },
+    {
+      "id": 12,
+      "question": "[작용 → 성분]\n작용·용도가 '신장독성, 발암'인 성분은?",
+      "choices": [
+        "apomorphine",
+        "morphine",
+        "hydrastine",
+        "codeine",
+        "aristolochic acid"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "정답: aristolochic acid (Aristolochia속)"
+    },
+    {
+      "id": 13,
+      "question": "[성분 → 작용]\n'morphine'(아편(양귀비)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "신장독성, 발암",
+        "진해",
+        "파킨슨병, 최토",
+        "중추흥분, 경련",
+        "진통"
+      ],
+      "answer": "진통",
+      "explanation": "정답: 진통"
+    },
+    {
+      "id": 14,
+      "question": "[작용 → 성분]\n작용·용도가 '진통'인 성분은?",
+      "choices": [
+        "aristolochic acid",
+        "codeine",
+        "apomorphine",
+        "thebaine",
+        "morphine"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine (아편(양귀비)"
+    },
+    {
+      "id": 15,
+      "question": "[성분 → 작용]\n'codeine'(아편)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진통",
+        "중추흥분, 경련",
+        "신장독성, 발암",
+        "급성 통풍",
+        "진해"
+      ],
+      "answer": "진해",
+      "explanation": "정답: 진해"
+    },
+    {
+      "id": 16,
+      "question": "[작용 → 성분]\n작용·용도가 '진해'인 성분은?",
+      "choices": [
+        "morphine",
+        "thebaine",
+        "aristolochic acid",
+        "colchicine",
+        "codeine"
+      ],
+      "answer": "codeine",
+      "explanation": "정답: codeine (아편)"
+    },
+    {
+      "id": 17,
+      "question": "[성분 → 작용]\n'thebaine'(아편)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진해",
+        "급성 통풍",
+        "진통",
+        "AChE 저해 → Alzheimer",
+        "중추흥분, 경련"
+      ],
+      "answer": "중추흥분, 경련",
+      "explanation": "정답: 중추흥분, 경련"
+    },
+    {
+      "id": 18,
+      "question": "[작용 → 성분]\n작용·용도가 '중추흥분, 경련'인 성분은?",
+      "choices": [
+        "codeine",
+        "colchicine",
+        "morphine",
+        "galanthamine",
+        "thebaine"
+      ],
+      "answer": "thebaine",
+      "explanation": "정답: thebaine (아편)"
+    },
+    {
+      "id": 19,
+      "question": "[성분 → 작용]\n'colchicine'(콜히쿰자)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "중추흥분, 경련",
+        "AChE 저해 → Alzheimer",
+        "진해",
+        "아메바성 이질, 최토",
+        "급성 통풍"
+      ],
+      "answer": "급성 통풍",
+      "explanation": "정답: 급성 통풍"
+    },
+    {
+      "id": 20,
+      "question": "[작용 → 성분]\n작용·용도가 '급성 통풍'인 성분은?",
+      "choices": [
+        "thebaine",
+        "galanthamine",
+        "codeine",
+        "emetine",
+        "colchicine"
+      ],
+      "answer": "colchicine",
+      "explanation": "정답: colchicine (콜히쿰자)"
+    },
+    {
+      "id": 21,
+      "question": "[성분 → 작용]\n'galanthamine'(수선화과)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "급성 통풍",
+        "아메바성 이질, 최토",
+        "중추흥분, 경련",
+        "항암(미세소관 생성 저해)",
+        "AChE 저해 → Alzheimer"
+      ],
+      "answer": "AChE 저해 → Alzheimer",
+      "explanation": "정답: AChE 저해 → Alzheimer"
+    },
+    {
+      "id": 22,
+      "question": "[작용 → 성분]\n작용·용도가 'AChE 저해 → Alzheimer'인 성분은?",
+      "choices": [
+        "colchicine",
+        "emetine",
+        "thebaine",
+        "vinblastine·vincristine",
+        "galanthamine"
+      ],
+      "answer": "galanthamine",
+      "explanation": "정답: galanthamine (수선화과)"
+    },
+    {
+      "id": 23,
+      "question": "[성분 → 작용]\n'emetine'(토근)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "AChE 저해 → Alzheimer",
+        "항암(미세소관 생성 저해)",
+        "급성 통풍",
+        "항말라리아",
+        "아메바성 이질, 최토"
+      ],
+      "answer": "아메바성 이질, 최토",
+      "explanation": "정답: 아메바성 이질, 최토"
+    },
+    {
+      "id": 24,
+      "question": "[작용 → 성분]\n작용·용도가 '아메바성 이질, 최토'인 성분은?",
+      "choices": [
+        "galanthamine",
+        "vinblastine·vincristine",
+        "colchicine",
+        "quinine",
+        "emetine"
+      ],
+      "answer": "emetine",
+      "explanation": "정답: emetine (토근)"
+    },
+    {
+      "id": 25,
+      "question": "[성분 → 작용]\n'vinblastine·vincristine'(일일초(Catharanthus roseus)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "아메바성 이질, 최토",
+        "항말라리아",
+        "AChE 저해 → Alzheimer",
+        "급성 통풍",
+        "항암(미세소관 생성 저해)"
+      ],
+      "answer": "항암(미세소관 생성 저해)",
+      "explanation": "정답: 항암(미세소관 생성 저해)"
+    },
+    {
+      "id": 26,
+      "question": "[작용 → 성분]\n작용·용도가 '항암(미세소관 생성 저해)'인 성분은?",
+      "choices": [
+        "emetine",
+        "quinine",
+        "galanthamine",
+        "quinidine",
+        "vinblastine·vincristine"
+      ],
+      "answer": "vinblastine·vincristine",
+      "explanation": "정답: vinblastine·vincristine (일일초(Catharanthus roseus)"
+    },
+    {
+      "id": 27,
+      "question": "[성분 → 작용]\n'quinine'(기나피)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항암(미세소관 생성 저해)",
+        "아메바성 이질, 최토",
+        "항암(topoisomerase I 저해)",
+        "AChE 저해 → Alzheimer",
+        "항말라리아"
+      ],
+      "answer": "항말라리아",
+      "explanation": "정답: 항말라리아"
+    },
+    {
+      "id": 28,
+      "question": "[작용 → 성분]\n작용·용도가 '항말라리아'인 성분은?",
+      "choices": [
+        "vinblastine·vincristine",
+        "quinidine",
+        "emetine",
+        "camptothecin",
+        "quinine"
+      ],
+      "answer": "quinine",
+      "explanation": "정답: quinine (기나피)"
+    },
+    {
+      "id": 29,
+      "question": "[성분 → 작용]\n'camptothecin'(희수(Camptotheca)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "AChE 저해",
+        "항말라리아",
+        "혈관수축",
+        "항암(미세소관 생성 저해)",
+        "항암(topoisomerase I 저해)"
+      ],
+      "answer": "항암(topoisomerase I 저해)",
+      "explanation": "정답: 항암(topoisomerase I 저해)"
+    },
+    {
+      "id": 30,
+      "question": "[작용 → 성분]\n작용·용도가 '항암(topoisomerase I 저해)'인 성분은?",
+      "choices": [
+        "quinidine",
+        "physostigmine",
+        "quinine",
+        "ergotamine",
+        "camptothecin"
+      ],
+      "answer": "camptothecin",
+      "explanation": "정답: camptothecin (희수(Camptotheca)"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-06-source-16",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 16/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[생약 → 화합물]\n'아편(양귀비)'의 성분으로 옳은 것은?",
+      "choices": [
+        "aristolochic acid",
+        "apomorphine",
+        "hydrastine",
+        "colchicine",
+        "morphine"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine\n작용: 진통"
+    },
+    {
+      "id": 2,
+      "question": "[화합물 → 생약]\n'codeine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "Aristolochia속",
+        "콜히쿰자",
+        "(morphine 산 처리)",
+        "수선화과",
+        "아편"
+      ],
+      "answer": "아편",
+      "explanation": "정답: 아편\n작용: 진해"
+    },
+    {
+      "id": 3,
+      "question": "[생약 → 화합물]\n'아편'의 성분으로 옳은 것은?",
+      "choices": [
+        "aristolochic acid",
+        "colchicine",
+        "apomorphine",
+        "galanthamine",
+        "codeine"
+      ],
+      "answer": "codeine",
+      "explanation": "정답: codeine\n작용: 진해"
+    },
+    {
+      "id": 4,
+      "question": "[화합물 → 생약]\n'thebaine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "콜히쿰자",
+        "수선화과",
+        "Aristolochia속",
+        "토근",
+        "아편"
+      ],
+      "answer": "아편",
+      "explanation": "정답: 아편\n작용: 중추흥분, 경련"
+    },
+    {
+      "id": 5,
+      "question": "[생약 → 화합물]\n'아편'의 성분으로 옳은 것은?",
+      "choices": [
+        "colchicine",
+        "galanthamine",
+        "aristolochic acid",
+        "emetine",
+        "thebaine"
+      ],
+      "answer": "thebaine",
+      "explanation": "정답: thebaine\n작용: 중추흥분, 경련"
+    },
+    {
+      "id": 6,
+      "question": "[화합물 → 생약]\n'colchicine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "아편",
+        "수선화과",
+        "토근",
+        "아편(양귀비)",
+        "콜히쿰자"
+      ],
+      "answer": "콜히쿰자",
+      "explanation": "정답: 콜히쿰자\n작용: 급성 통풍"
+    },
+    {
+      "id": 7,
+      "question": "[생약 → 화합물]\n'콜히쿰자'의 성분으로 옳은 것은?",
+      "choices": [
+        "thebaine",
+        "galanthamine",
+        "codeine",
+        "emetine",
+        "colchicine"
+      ],
+      "answer": "colchicine",
+      "explanation": "정답: colchicine\n작용: 급성 통풍"
+    },
+    {
+      "id": 8,
+      "question": "[화합물 → 생약]\n'galanthamine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "콜히쿰자",
+        "토근",
+        "아편",
+        "일일초(Catharanthus roseus)",
+        "수선화과"
+      ],
+      "answer": "수선화과",
+      "explanation": "정답: 수선화과\n작용: AChE 저해 → Alzheimer"
+    },
+    {
+      "id": 9,
+      "question": "[생약 → 화합물]\n'수선화과'의 성분으로 옳은 것은?",
+      "choices": [
+        "colchicine",
+        "emetine",
+        "thebaine",
+        "vinblastine·vincristine",
+        "galanthamine"
+      ],
+      "answer": "galanthamine",
+      "explanation": "정답: galanthamine\n작용: AChE 저해 → Alzheimer"
+    },
+    {
+      "id": 10,
+      "question": "[화합물 → 생약]\n'emetine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "수선화과",
+        "일일초(Catharanthus roseus)",
+        "콜히쿰자",
+        "기나피",
+        "토근"
+      ],
+      "answer": "토근",
+      "explanation": "정답: 토근\n작용: 아메바성 이질, 최토"
+    },
+    {
+      "id": 11,
+      "question": "[생약 → 화합물]\n'토근'의 성분으로 옳은 것은?",
+      "choices": [
+        "galanthamine",
+        "vinblastine·vincristine",
+        "colchicine",
+        "quinine",
+        "emetine"
+      ],
+      "answer": "emetine",
+      "explanation": "정답: emetine\n작용: 아메바성 이질, 최토"
+    },
+    {
+      "id": 12,
+      "question": "[화합물 → 생약]\n'vinblastine·vincristine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "토근",
+        "기나피",
+        "수선화과",
+        "콜히쿰자",
+        "일일초(Catharanthus roseus)"
+      ],
+      "answer": "일일초(Catharanthus roseus)",
+      "explanation": "정답: 일일초(Catharanthus roseus)\n작용: 항암(미세소관 생성 저해)"
+    },
+    {
+      "id": 13,
+      "question": "[생약 → 화합물]\n'일일초(Catharanthus roseus)'의 성분으로 옳은 것은?",
+      "choices": [
+        "emetine",
+        "quinine",
+        "galanthamine",
+        "quinidine",
+        "vinblastine·vincristine"
+      ],
+      "answer": "vinblastine·vincristine",
+      "explanation": "정답: vinblastine·vincristine\n작용: 항암(미세소관 생성 저해)"
+    },
+    {
+      "id": 14,
+      "question": "[화합물 → 생약]\n'quinine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "일일초(Catharanthus roseus)",
+        "토근",
+        "희수(Camptotheca)",
+        "수선화과",
+        "기나피"
+      ],
+      "answer": "기나피",
+      "explanation": "정답: 기나피\n작용: 항말라리아"
+    },
+    {
+      "id": 15,
+      "question": "[생약 → 화합물]\n'기나피'의 성분으로 옳은 것은?",
+      "choices": [
+        "vinblastine·vincristine",
+        "emetine",
+        "camptothecin",
+        "galanthamine",
+        "quinine"
+      ],
+      "answer": "quinine",
+      "explanation": "정답: quinine\n작용: 항말라리아"
+    },
+    {
+      "id": 16,
+      "question": "[화합물 → 생약]\n'quinidine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "희수(Camptotheca)",
+        "일일초(Catharanthus roseus)",
+        "카라발두",
+        "토근",
+        "기나피"
+      ],
+      "answer": "기나피",
+      "explanation": "정답: 기나피"
+    },
+    {
+      "id": 17,
+      "question": "[생약 → 화합물]\n'기나피'의 성분으로 옳은 것은?",
+      "choices": [
+        "camptothecin",
+        "vinblastine·vincristine",
+        "physostigmine",
+        "emetine",
+        "quinidine"
+      ],
+      "answer": "quinidine",
+      "explanation": "정답: quinidine"
+    },
+    {
+      "id": 18,
+      "question": "[화합물 → 생약]\n'camptothecin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "기나피",
+        "카라발두",
+        "맥각",
+        "일일초(Catharanthus roseus)",
+        "희수(Camptotheca)"
+      ],
+      "answer": "희수(Camptotheca)",
+      "explanation": "정답: 희수(Camptotheca)\n작용: 항암(topoisomerase I 저해)"
+    },
+    {
+      "id": 19,
+      "question": "[생약 → 화합물]\n'희수(Camptotheca)'의 성분으로 옳은 것은?",
+      "choices": [
+        "quinidine",
+        "physostigmine",
+        "quinine",
+        "ergotamine",
+        "camptothecin"
+      ],
+      "answer": "camptothecin",
+      "explanation": "정답: camptothecin\n작용: 항암(topoisomerase I 저해)"
+    },
+    {
+      "id": 20,
+      "question": "[화합물 → 생약]\n'physostigmine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "희수(Camptotheca)",
+        "맥각",
+        "기나피",
+        "오수유",
+        "카라발두"
+      ],
+      "answer": "카라발두",
+      "explanation": "정답: 카라발두\n작용: AChE 저해"
+    },
+    {
+      "id": 21,
+      "question": "[생약 → 화합물]\n'카라발두'의 성분으로 옳은 것은?",
+      "choices": [
+        "camptothecin",
+        "ergotamine",
+        "quinidine",
+        "ergometrine",
+        "physostigmine"
+      ],
+      "answer": "physostigmine",
+      "explanation": "정답: physostigmine\n작용: AChE 저해"
+    },
+    {
+      "id": 22,
+      "question": "[화합물 → 생약]\n'ergotamine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "카라발두",
+        "희수(Camptotheca)",
+        "오수유",
+        "기나피",
+        "맥각"
+      ],
+      "answer": "맥각",
+      "explanation": "정답: 맥각\n작용: 혈관수축"
+    },
+    {
+      "id": 23,
+      "question": "[생약 → 화합물]\n'맥각'의 성분으로 옳은 것은?",
+      "choices": [
+        "physostigmine",
+        "camptothecin",
+        "evodiamine·rutaecarpine",
+        "quinidine",
+        "ergotamine"
+      ],
+      "answer": "ergotamine",
+      "explanation": "정답: ergotamine\n작용: 혈관수축"
+    },
+    {
+      "id": 24,
+      "question": "[화합물 → 생약]\n'ergometrine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "오수유",
+        "카라발두",
+        "마전자",
+        "희수(Camptotheca)",
+        "맥각"
+      ],
+      "answer": "맥각",
+      "explanation": "정답: 맥각\n작용: 분만 촉진(진통촉진)"
+    },
+    {
+      "id": 25,
+      "question": "[생약 → 화합물]\n'맥각'의 성분으로 옳은 것은?",
+      "choices": [
+        "evodiamine·rutaecarpine",
+        "physostigmine",
+        "strychnine·brucine",
+        "camptothecin",
+        "ergometrine"
+      ],
+      "answer": "ergometrine",
+      "explanation": "정답: ergometrine\n작용: 분만 촉진(진통촉진)"
+    },
+    {
+      "id": 26,
+      "question": "[화합물 → 생약]\n'evodiamine·rutaecarpine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "맥각",
+        "마전자",
+        "(imidazole alkaloid)",
+        "카라발두",
+        "오수유"
+      ],
+      "answer": "오수유",
+      "explanation": "정답: 오수유"
+    },
+    {
+      "id": 27,
+      "question": "[생약 → 화합물]\n'오수유'의 성분으로 옳은 것은?",
+      "choices": [
+        "ergometrine",
+        "strychnine·brucine",
+        "ergotamine",
+        "pilocarpine",
+        "evodiamine·rutaecarpine"
+      ],
+      "answer": "evodiamine·rutaecarpine",
+      "explanation": "정답: evodiamine·rutaecarpine"
+    },
+    {
+      "id": 28,
+      "question": "[화합물 → 생약]\n'strychnine·brucine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "오수유",
+        "(imidazole alkaloid)",
+        "맥각",
+        "커피두·다엽",
+        "마전자"
+      ],
+      "answer": "마전자",
+      "explanation": "정답: 마전자"
+    },
+    {
+      "id": 29,
+      "question": "[생약 → 화합물]\n'마전자'의 성분으로 옳은 것은?",
+      "choices": [
+        "evodiamine·rutaecarpine",
+        "pilocarpine",
+        "ergometrine",
+        "caffeine",
+        "strychnine·brucine"
+      ],
+      "answer": "strychnine·brucine",
+      "explanation": "정답: strychnine·brucine"
+    },
+    {
+      "id": 30,
+      "question": "[화합물 → 생약]\n'caffeine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "(imidazole alkaloid)",
+        "카카오",
+        "마전자",
+        "오수유",
+        "커피두·다엽"
+      ],
+      "answer": "커피두·다엽",
+      "explanation": "정답: 커피두·다엽\n작용: 대뇌피질 흥분, 심근수축력 증가"
+    }
+  ]
+}

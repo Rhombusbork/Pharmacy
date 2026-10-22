@@ -1,0 +1,389 @@
+{
+  "deckId": "pharmacognosy-type-06-source-3",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 3/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.13] phloroglucinol계 성분 중 조충구제에 쓰이지 않는 것은?",
+      "choices": [
+        "홉의 humulone",
+        "관중의 aspidin",
+        "저목의 rottlerin",
+        "관중의 albaspidin"
+      ],
+      "answer": "홉의 humulone",
+      "explanation": "정답: 홉의 humulone (고미·진정·항균)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.13] phloroglucinol과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "α·β-kosin – 코소화",
+        "cannabinolide – 인도대마초 (향정신성)",
+        "aspidinol – 관중",
+        "lupulone – 홉",
+        "rottlerin – 관중"
+      ],
+      "answer": "rottlerin – 관중",
+      "explanation": "정답: 'rottlerin – 관중' (틀림) — 저목"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.16] Embelia ribes 과실의 등색 색소로 백혈병 세포 파괴를 유도하는 benzoquinone은?",
+      "choices": [
+        "embelin",
+        "rapanone",
+        "perezone",
+        "lawsone",
+        "juglone"
+      ],
+      "answer": "embelin",
+      "explanation": "정답: embelin (R = C₁₁H₂₃; rapanone은 C₁₃H₂₇)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.17] 국화과 Perezia adnata에 들어 있는 등색 색소(benzoquinone)는?",
+      "choices": [
+        "perezone",
+        "embelin",
+        "juglone",
+        "lawsone",
+        "alkannin"
+      ],
+      "answer": "perezone",
+      "explanation": "정답: perezone"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.16·17] benzoquinone과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "asterriquinone – Aspergillus terreus",
+        "mitomycin – Streptomyces caespitosus",
+        "embelin – Embelia ribes",
+        "plastoquinone – 엽록체",
+        "polyporic acid – 호두"
+      ],
+      "answer": "polyporic acid – 호두",
+      "explanation": "정답: 'polyporic acid – 호두' (틀림)\n호두는 juglone(naphthoquinone)."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.20] 다음 구조(juglone)를 함유한 식물은?\n[[smi:O=C1C=CC(=O)c2c(O)cccc21]]",
+      "choices": [
+        "호두",
+        "봉선화",
+        "자근",
+        "능소화",
+        "단삼"
+      ],
+      "answer": "호두",
+      "explanation": "정답: 호두 — juglone(5-hydroxy-1,4-naphthoquinone)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.20] naphthoquinone과 기원의 짝이 틀린 것은?",
+      "choices": [
+        "dunnione – Streptocarpus dunnii 잎 선모의 등적색 색소",
+        "alkannin – Alkanna tinctoria 뿌리",
+        "lawsone – 봉선화",
+        "juglone – 호두",
+        "dunnione – 대황"
+      ],
+      "answer": "dunnione – 대황",
+      "explanation": "정답: 'dunnione – 대황' (틀림) — 대황은 emodin형 anthraquinone"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.21] emodin형 anthraquinone을 함유하는 과가 아닌 것은?",
+      "choices": [
+        "Polygonaceae (대황, 호장근, 하수오)",
+        "Leguminosae (센나엽, 결명자)",
+        "Rhamnaceae (카스카라사그라다, 후랑굴라)",
+        "Liliaceae (노회)",
+        "Rubiaceae (꼭두서니)"
+      ],
+      "answer": "Rubiaceae (꼭두서니)",
+      "explanation": "정답: Rubiaceae — alizarin형\nalizarin형: Rubiaceae, Bignoniaceae, Verbenaceae."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.22] anthraquinone과 대표 기원의 짝이 틀린 것은?",
+      "choices": [
+        "aloe-emodin – Aloe vera",
+        "emodin – 대황(Rheum palmatum)·Cassia·Rhamnaceae",
+        "alizarin – 꼭두서니(Rubia tinctorum)",
+        "chrysophanol·physcion – 대황 등",
+        "alizarin – 대황"
+      ],
+      "answer": "alizarin – 대황",
+      "explanation": "정답: 'alizarin – 대황' (틀림)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.25] tanshinone류를 함유한 생약은?",
+      "choices": [
+        "단삼 (Salvia miltiorrhiza)",
+        "대황",
+        "자근",
+        "관중",
+        "홉"
+      ],
+      "answer": "단삼 (Salvia miltiorrhiza)",
+      "explanation": "정답: 단삼\ntanshinone I, IIA, dihydrotanshinone I, cryptotanshinone, methylenetanshiquinone, danshenxinkun B."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.30] cannabinoid의 기원 단위로 옳은 것은?",
+      "choices": [
+        "hexaketide + isoprene 2개 (6 × C2 + 2 × C5)",
+        "tetraketide + isoprene 1개",
+        "C6C3 + C5",
+        "isoprene 4개",
+        "6 × C2만"
+      ],
+      "answer": "hexaketide + isoprene 2개 (6 × C2 + 2 × C5)",
+      "explanation": "정답: 6 × C2 + 2 × C5\n인도대마의 환각 작용 성분."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.9] 현재 분리된 flavonoid의 약 80%를 차지하며 거의 모든 식물에 들어 있는 group은?",
+      "choices": [
+        "flavone, flavonol",
+        "isoflavone",
+        "chalcone, aurone",
+        "anthocyanidin",
+        "biflavonoid"
+      ],
+      "answer": "flavone, flavonol",
+      "explanation": "정답: flavone·flavonol"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.11] 식물성 에스트로겐(phytoestrogen)이 아닌 것은?",
+      "choices": [
+        "daidzein",
+        "genistein",
+        "coumestrol",
+        "estradiol"
+      ],
+      "answer": "estradiol",
+      "explanation": "정답: estradiol (동물 steroid hormone)\nestrone·estradiol·estriol과 구조가 비슷해 에스트로겐 작용."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.15] biflavonoid가 주로 들어 있는 식물군은?",
+      "choices": [
+        "나자식물 (겉씨식물)",
+        "단자엽 식물",
+        "균류",
+        "해조류",
+        "양치식물만"
+      ],
+      "answer": "나자식물 (겉씨식물)",
+      "explanation": "정답: 나자식물"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.16] prenylated flavonoid와 생약의 짝이 틀린 것은?",
+      "choices": [
+        "morusin – 상백피",
+        "icariin – 음양곽",
+        "licoricone – 감초",
+        "rotenone – 데리스",
+        "icariin – 상백피"
+      ],
+      "answer": "icariin – 상백피",
+      "explanation": "정답: 'icariin – 상백피' (틀림) — 음양곽"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.19] tannin과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "granatin – 석류피",
+        "geraniin – 현초",
+        "오배자 tannin – gallotannin",
+        "acertannin – Acer속",
+        "theaflavin – 석류피"
+      ],
+      "answer": "theaflavin – 석류피",
+      "explanation": "정답: 'theaflavin – 석류피' (틀림) — theaflavin은 다엽(차)"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.21] 축합형 tannin(catechin-tannin)과 생약의 짝이 틀린 것은?",
+      "choices": [
+        "theaflavin – 다엽",
+        "catechutannin – 아선약",
+        "cinchona tannin – 키나",
+        "geraniin – 다엽"
+      ],
+      "answer": "geraniin – 다엽",
+      "explanation": "정답: 'geraniin – 다엽' (틀림) — geraniin은 현초의 ellagitannin"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.23] curcumin(황색 색소)을 함유한 생약은?",
+      "answer": [
+        "울금",
+        "강황",
+        "Curcuma"
+      ],
+      "explanation": "정답: 울금 (Curcuma속)"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.23] 생강의 매운맛 성분으로 diarylheptanoid 유사 물질은?",
+      "choices": [
+        "gingerol",
+        "capsaicin",
+        "piperine",
+        "curcumin",
+        "sanshool"
+      ],
+      "answer": "gingerol",
+      "explanation": "정답: gingerol"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.24] γ-pyrone 관련 성분에 대한 PPT 설명으로 틀린 것은?",
+      "choices": [
+        "meconic acid는 FeCl₃로 적색 → 아편 확인",
+        "인삼의 γ-pyrone은 당의 탈수로 생기며 강한 항산화 작용",
+        "미생물 대사산물 γ-pyrone은 항균 작용",
+        "meconic acid는 대황의 확인 성분이다"
+      ],
+      "answer": "meconic acid는 대황의 확인 성분이다",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.10] ornithine 유래 alkaloid와 예의 짝이 틀린 것은?",
+      "choices": [
+        "pyrrolidine – nicotine",
+        "tropane – atropine, scopolamine, cocaine",
+        "pyrrolizidine – senecionine (Senecio속)",
+        "polyamine – spermine, spermidine",
+        "tropane – lobeline"
+      ],
+      "answer": "tropane – lobeline",
+      "explanation": "정답: 'tropane – lobeline' (틀림) — lobeline은 lysine 유래 piperidine"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.13] tropane 3번 위치 OH의 방향과 분포 과의 짝으로 옳은 것은?",
+      "choices": [
+        "3α-OH(tropine) – Solanaceae / 3β-OH(pseudotropine) – Erythroxylaceae(코카)",
+        "3β-OH – Solanaceae / 3α-OH – Erythroxylaceae",
+        "둘 다 Rubiaceae",
+        "OH가 없다"
+      ],
+      "answer": "3α-OH(tropine) – Solanaceae / 3β-OH(pseudotropine) – Erythroxylaceae(코카)",
+      "explanation": "정답: 첫 번째\ncocaine은 3β 계열(ecgonine)."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.13] Solanaceae의 tropane alkaloid 함유 생약이 아닌 것은?",
+      "choices": [
+        "스코폴리아근",
+        "다투라엽",
+        "벨라돈나근",
+        "히요스엽",
+        "코카엽"
+      ],
+      "answer": "코카엽",
+      "explanation": "정답: 코카엽 (Erythroxylaceae)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.13] Solanaceae 생약의 대표 tropane alkaloid는?",
+      "choices": [
+        "hyoscyamine, scopolamine, atropine",
+        "cocaine, tropacocaine",
+        "nicotine, anabasine",
+        "lobeline, pelletierine",
+        "senecionine"
+      ],
+      "answer": "hyoscyamine, scopolamine, atropine",
+      "explanation": "정답: hyoscyamine, scopolamine, atropine"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.15] 코카엽에 들어 있는 alkaloid가 아닌 것은?",
+      "choices": [
+        "cocaine",
+        "cinnamoylcocaine",
+        "α-truxilline",
+        "tropacocaine",
+        "scopolamine"
+      ],
+      "answer": "scopolamine",
+      "explanation": "정답: scopolamine (가지과)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.10·17] pyrrolizidine alkaloid가 많은 식물 속(genus)은?",
+      "choices": [
+        "Senecio",
+        "Atropa",
+        "Papaver",
+        "Cinchona",
+        "Ephedra"
+      ],
+      "answer": "Senecio",
+      "explanation": "정답: Senecio (국화과)"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.18] lysine 유래 alkaloid와 예의 짝이 틀린 것은?",
+      "choices": [
+        "piperidine – lobeline, pelletierine",
+        "piperidine amide – piperine",
+        "quinolizidine – matrine, huperzine A",
+        "indolizidine – castanospermine, swainsonine",
+        "indolizidine – cocaine"
+      ],
+      "answer": "indolizidine – cocaine",
+      "explanation": "정답: 'indolizidine – cocaine' (틀림) — cocaine은 ornithine 유래 tropane"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.26] Phe·Tyr 유래 alkaloid 분류와 예의 짝이 틀린 것은?",
+      "choices": [
+        "phenylethylamine – mescaline, ephedrine",
+        "benzylisoquinoline – papaverine, reticuline",
+        "phenethylisoquinoline – colchicine",
+        "Amaryllidaceae – lycorine, galanthamine",
+        "monoterpenoid isoquinoline – vinblastine"
+      ],
+      "answer": "monoterpenoid isoquinoline – vinblastine",
+      "explanation": "정답: 마지막 (틀림)\nmonoterpenoid isoquinoline은 emetine·cephaeline(토근). vinblastine은 monoterpenoid indole(Trp)."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.32] bisbenzylisoquinoline 함유 생약이 아닌 것은?",
+      "choices": [
+        "방기",
+        "목방기",
+        "칼룸바근",
+        "큐라레",
+        "황련"
+      ],
+      "answer": "황련",
+      "explanation": "정답: 황련 (protoberberine — berberine)\nbisBIQ: Berberidaceae, Menispermaceae, Magnoliaceae."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.36] 현호색에 들어 있는 tetrahydroprotoberberine류가 아닌 것은?",
+      "choices": [
+        "(+)-corydaline",
+        "(±)-tetrahydropalmatine",
+        "(+)-corybulbine",
+        "(−)-tetrahydrocolumbamine",
+        "glaucine"
+      ],
+      "answer": "glaucine",
+      "explanation": "정답: glaucine (aporphine)"
+    }
+  ]
+}

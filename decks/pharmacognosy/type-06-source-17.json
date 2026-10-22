@@ -1,0 +1,202 @@
+{
+  "deckId": "pharmacognosy-type-06-source-17",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 17/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[생약 → 화합물]\n'커피두·다엽'의 성분으로 옳은 것은?",
+      "choices": [
+        "pilocarpine",
+        "theobromine",
+        "strychnine·brucine",
+        "evodiamine·rutaecarpine",
+        "caffeine"
+      ],
+      "answer": "caffeine",
+      "explanation": "정답: caffeine\n작용: 대뇌피질 흥분, 심근수축력 증가"
+    },
+    {
+      "id": 2,
+      "question": "[화합물 → 생약]\n'theobromine'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "커피두·다엽",
+        "다엽",
+        "(imidazole alkaloid)",
+        "고추",
+        "카카오"
+      ],
+      "answer": "카카오",
+      "explanation": "정답: 카카오\n작용: 이뇨"
+    },
+    {
+      "id": 3,
+      "question": "[생약 → 화합물]\n'카카오'의 성분으로 옳은 것은?",
+      "choices": [
+        "caffeine",
+        "theophylline",
+        "pilocarpine",
+        "capsaicin",
+        "theobromine"
+      ],
+      "answer": "theobromine",
+      "explanation": "정답: theobromine\n작용: 이뇨"
+    },
+    {
+      "id": 4,
+      "question": "[화합물 → 생약]\n'theophylline'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "카카오",
+        "고추",
+        "행인·고편도",
+        "(imidazole alkaloid)",
+        "다엽"
+      ],
+      "answer": "다엽",
+      "explanation": "정답: 다엽\n작용: 기관지평활근 이완"
+    },
+    {
+      "id": 5,
+      "question": "[생약 → 화합물]\n'다엽'의 성분으로 옳은 것은?",
+      "choices": [
+        "theobromine",
+        "capsaicin",
+        "amygdalin",
+        "pilocarpine",
+        "theophylline"
+      ],
+      "answer": "theophylline",
+      "explanation": "정답: theophylline\n작용: 기관지평활근 이완"
+    },
+    {
+      "id": 6,
+      "question": "[화합물 → 생약]\n'capsaicin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "다엽",
+        "행인·고편도",
+        "카카오",
+        "개자(겨자)",
+        "고추"
+      ],
+      "answer": "고추",
+      "explanation": "정답: 고추\n작용: 신경통·근육통 외용, 매운맛"
+    },
+    {
+      "id": 7,
+      "question": "[생약 → 화합물]\n'고추'의 성분으로 옳은 것은?",
+      "choices": [
+        "theophylline",
+        "amygdalin",
+        "theobromine",
+        "sinigrin",
+        "capsaicin"
+      ],
+      "answer": "capsaicin",
+      "explanation": "정답: capsaicin\n작용: 신경통·근육통 외용, 매운맛"
+    },
+    {
+      "id": 8,
+      "question": "[화합물 → 생약]\n'amygdalin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "고추",
+        "개자(겨자)",
+        "다엽",
+        "마늘(대산)",
+        "행인·고편도"
+      ],
+      "answer": "행인·고편도",
+      "explanation": "정답: 행인·고편도\n작용: HCN 유리"
+    },
+    {
+      "id": 9,
+      "question": "[생약 → 화합물]\n'행인·고편도'의 성분으로 옳은 것은?",
+      "choices": [
+        "capsaicin",
+        "sinigrin",
+        "theophylline",
+        "alliin·allicin",
+        "amygdalin"
+      ],
+      "answer": "amygdalin",
+      "explanation": "정답: amygdalin\n작용: HCN 유리"
+    },
+    {
+      "id": 10,
+      "question": "[화합물 → 생약]\n'sinigrin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "행인·고편도",
+        "마늘(대산)",
+        "고추",
+        "해인초",
+        "개자(겨자)"
+      ],
+      "answer": "개자(겨자)",
+      "explanation": "정답: 개자(겨자)\n작용: allyl isothiocyanate(매운맛)"
+    },
+    {
+      "id": 11,
+      "question": "[생약 → 화합물]\n'개자(겨자)'의 성분으로 옳은 것은?",
+      "choices": [
+        "amygdalin",
+        "alliin·allicin",
+        "capsaicin",
+        "α-kainic acid",
+        "sinigrin"
+      ],
+      "answer": "sinigrin",
+      "explanation": "정답: sinigrin\n작용: allyl isothiocyanate(매운맛)"
+    },
+    {
+      "id": 12,
+      "question": "[화합물 → 생약]\n'alliin·allicin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "개자(겨자)",
+        "해인초",
+        "행인·고편도",
+        "고추",
+        "마늘(대산)"
+      ],
+      "answer": "마늘(대산)",
+      "explanation": "정답: 마늘(대산)\n작용: 항균"
+    },
+    {
+      "id": 13,
+      "question": "[생약 → 화합물]\n'마늘(대산)'의 성분으로 옳은 것은?",
+      "choices": [
+        "sinigrin",
+        "α-kainic acid",
+        "amygdalin",
+        "capsaicin",
+        "alliin·allicin"
+      ],
+      "answer": "alliin·allicin",
+      "explanation": "정답: alliin·allicin\n작용: 항균"
+    },
+    {
+      "id": 14,
+      "question": "[화합물 → 생약]\n'α-kainic acid'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "마늘(대산)",
+        "개자(겨자)",
+        "행인·고편도",
+        "고추",
+        "해인초"
+      ],
+      "answer": "해인초",
+      "explanation": "정답: 해인초\n작용: 기생충 구제"
+    },
+    {
+      "id": 15,
+      "question": "[생약 → 화합물]\n'해인초'의 성분으로 옳은 것은?",
+      "choices": [
+        "alliin·allicin",
+        "sinigrin",
+        "amygdalin",
+        "capsaicin",
+        "α-kainic acid"
+      ],
+      "answer": "α-kainic acid",
+      "explanation": "정답: α-kainic acid\n작용: 기생충 구제"
+    }
+  ]
+}

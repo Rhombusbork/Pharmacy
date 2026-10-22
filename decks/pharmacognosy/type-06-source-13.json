@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-06-source-13",
+  "subject": "생약학",
+  "title": "⑥ 화합물 ↔ 생약·기원 13/17",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[생약 → 화합물]\n'인도대마'의 성분으로 옳은 것은?",
+      "choices": [
+        "cimifugin",
+        "urushiol",
+        "eugenin",
+        "daidzein",
+        "THC"
+      ],
+      "answer": "THC",
+      "explanation": "정답: THC\n작용: 환각"
+    },
+    {
+      "id": 2,
+      "question": "[화합물 → 생약]\n'urushiol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "인도대마",
+        "갈근",
+        "승마",
+        "홍화",
+        "옻나무"
+      ],
+      "answer": "옻나무",
+      "explanation": "정답: 옻나무\n작용: 피부염 유발"
+    },
+    {
+      "id": 3,
+      "question": "[생약 → 화합물]\n'옻나무'의 성분으로 옳은 것은?",
+      "choices": [
+        "THC",
+        "daidzein",
+        "cimifugin",
+        "carthamin",
+        "urushiol"
+      ],
+      "answer": "urushiol",
+      "explanation": "정답: urushiol\n작용: 피부염 유발"
+    },
+    {
+      "id": 4,
+      "question": "[화합물 → 생약]\n'daidzein'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "옻나무",
+        "홍화",
+        "인도대마",
+        "(dihydrochalcone)",
+        "갈근"
+      ],
+      "answer": "갈근",
+      "explanation": "정답: 갈근\n작용: 진경, phytoestrogen"
+    },
+    {
+      "id": 5,
+      "question": "[생약 → 화합물]\n'갈근'의 성분으로 옳은 것은?",
+      "choices": [
+        "urushiol",
+        "carthamin",
+        "THC",
+        "phloretin",
+        "daidzein"
+      ],
+      "answer": "daidzein",
+      "explanation": "정답: daidzein\n작용: 진경, phytoestrogen"
+    },
+    {
+      "id": 6,
+      "question": "[화합물 → 생약]\n'carthamin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "갈근",
+        "(dihydrochalcone)",
+        "옻나무",
+        "종대황",
+        "홍화"
+      ],
+      "answer": "홍화",
+      "explanation": "정답: 홍화\n작용: 적색 색소"
+    },
+    {
+      "id": 7,
+      "question": "[생약 → 화합물]\n'홍화'의 성분으로 옳은 것은?",
+      "choices": [
+        "daidzein",
+        "phloretin",
+        "urushiol",
+        "rhaponticin",
+        "carthamin"
+      ],
+      "answer": "carthamin",
+      "explanation": "정답: carthamin\n작용: 적색 색소"
+    },
+    {
+      "id": 8,
+      "question": "[화합물 → 생약]\n'rhaponticin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "(dihydrochalcone)",
+        "현초",
+        "홍화",
+        "석류피",
+        "종대황"
+      ],
+      "answer": "종대황",
+      "explanation": "정답: 종대황\n작용: UV 365 nm 청자색 형광 → 대황 품질 구별"
+    },
+    {
+      "id": 9,
+      "question": "[생약 → 화합물]\n'종대황'의 성분으로 옳은 것은?",
+      "choices": [
+        "phloretin",
+        "geraniin",
+        "carthamin",
+        "granatin",
+        "rhaponticin"
+      ],
+      "answer": "rhaponticin",
+      "explanation": "정답: rhaponticin\n작용: UV 365 nm 청자색 형광 → 대황 품질 구별"
+    },
+    {
+      "id": 10,
+      "question": "[화합물 → 생약]\n'geraniin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "종대황",
+        "석류피",
+        "(dihydrochalcone)",
+        "다엽",
+        "현초"
+      ],
+      "answer": "현초",
+      "explanation": "정답: 현초\n작용: 지사·정장"
+    },
+    {
+      "id": 11,
+      "question": "[생약 → 화합물]\n'현초'의 성분으로 옳은 것은?",
+      "choices": [
+        "rhaponticin",
+        "granatin",
+        "phloretin",
+        "theaflavin",
+        "geraniin"
+      ],
+      "answer": "geraniin",
+      "explanation": "정답: geraniin\n작용: 지사·정장"
+    },
+    {
+      "id": 12,
+      "question": "[화합물 → 생약]\n'granatin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "현초",
+        "다엽",
+        "종대황",
+        "아선약",
+        "석류피"
+      ],
+      "answer": "석류피",
+      "explanation": "정답: 석류피"
+    },
+    {
+      "id": 13,
+      "question": "[생약 → 화합물]\n'석류피'의 성분으로 옳은 것은?",
+      "choices": [
+        "geraniin",
+        "theaflavin",
+        "rhaponticin",
+        "catechutannin",
+        "granatin"
+      ],
+      "answer": "granatin",
+      "explanation": "정답: granatin"
+    },
+    {
+      "id": 14,
+      "question": "[화합물 → 생약]\n'theaflavin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "석류피",
+        "아선약",
+        "현초",
+        "용담·당약",
+        "다엽"
+      ],
+      "answer": "다엽",
+      "explanation": "정답: 다엽"
+    },
+    {
+      "id": 15,
+      "question": "[생약 → 화합물]\n'다엽'의 성분으로 옳은 것은?",
+      "choices": [
+        "granatin",
+        "catechutannin",
+        "geraniin",
+        "gentisin",
+        "theaflavin"
+      ],
+      "answer": "theaflavin",
+      "explanation": "정답: theaflavin"
+    },
+    {
+      "id": 16,
+      "question": "[화합물 → 생약]\n'catechutannin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "다엽",
+        "용담·당약",
+        "석류피",
+        "울금",
+        "아선약"
+      ],
+      "answer": "아선약",
+      "explanation": "정답: 아선약\n작용: 수렴"
+    },
+    {
+      "id": 17,
+      "question": "[생약 → 화합물]\n'아선약'의 성분으로 옳은 것은?",
+      "choices": [
+        "theaflavin",
+        "gentisin",
+        "granatin",
+        "curcumin",
+        "catechutannin"
+      ],
+      "answer": "catechutannin",
+      "explanation": "정답: catechutannin\n작용: 수렴"
+    },
+    {
+      "id": 18,
+      "question": "[화합물 → 생약]\n'gentisin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "아선약",
+        "울금",
+        "다엽",
+        "익지인",
+        "용담·당약"
+      ],
+      "answer": "용담·당약",
+      "explanation": "정답: 용담·당약\n작용: 확인반응(승화성)"
+    },
+    {
+      "id": 19,
+      "question": "[생약 → 화합물]\n'용담·당약'의 성분으로 옳은 것은?",
+      "choices": [
+        "catechutannin",
+        "curcumin",
+        "theaflavin",
+        "yakuchinone A",
+        "gentisin"
+      ],
+      "answer": "gentisin",
+      "explanation": "정답: gentisin\n작용: 확인반응(승화성)"
+    },
+    {
+      "id": 20,
+      "question": "[화합물 → 생약]\n'curcumin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "용담·당약",
+        "익지인",
+        "아선약",
+        "생강",
+        "울금"
+      ],
+      "answer": "울금",
+      "explanation": "정답: 울금\n작용: 담즙분비 촉진, 착색료"
+    },
+    {
+      "id": 21,
+      "question": "[생약 → 화합물]\n'울금'의 성분으로 옳은 것은?",
+      "choices": [
+        "gentisin",
+        "yakuchinone A",
+        "catechutannin",
+        "gingerol",
+        "curcumin"
+      ],
+      "answer": "curcumin",
+      "explanation": "정답: curcumin\n작용: 담즙분비 촉진, 착색료"
+    },
+    {
+      "id": 22,
+      "question": "[화합물 → 생약]\n'yakuchinone A'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "울금",
+        "생강",
+        "용담·당약",
+        "상백피",
+        "익지인"
+      ],
+      "answer": "익지인",
+      "explanation": "정답: 익지인\n작용: prostaglandin 생성 저해"
+    },
+    {
+      "id": 23,
+      "question": "[생약 → 화합물]\n'익지인'의 성분으로 옳은 것은?",
+      "choices": [
+        "curcumin",
+        "gingerol",
+        "gentisin",
+        "morusin",
+        "yakuchinone A"
+      ],
+      "answer": "yakuchinone A",
+      "explanation": "정답: yakuchinone A\n작용: prostaglandin 생성 저해"
+    },
+    {
+      "id": 24,
+      "question": "[화합물 → 생약]\n'gingerol'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "익지인",
+        "상백피",
+        "울금",
+        "음양곽",
+        "생강"
+      ],
+      "answer": "생강",
+      "explanation": "정답: 생강\n작용: 매운맛"
+    },
+    {
+      "id": 25,
+      "question": "[생약 → 화합물]\n'생강'의 성분으로 옳은 것은?",
+      "choices": [
+        "yakuchinone A",
+        "morusin",
+        "curcumin",
+        "icariin",
+        "gingerol"
+      ],
+      "answer": "gingerol",
+      "explanation": "정답: gingerol\n작용: 매운맛"
+    },
+    {
+      "id": 26,
+      "question": "[화합물 → 생약]\n'morusin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "생강",
+        "음양곽",
+        "익지인",
+        "데리스",
+        "상백피"
+      ],
+      "answer": "상백피",
+      "explanation": "정답: 상백피"
+    },
+    {
+      "id": 27,
+      "question": "[생약 → 화합물]\n'상백피'의 성분으로 옳은 것은?",
+      "choices": [
+        "gingerol",
+        "icariin",
+        "yakuchinone A",
+        "rotenone",
+        "morusin"
+      ],
+      "answer": "morusin",
+      "explanation": "정답: morusin"
+    },
+    {
+      "id": 28,
+      "question": "[화합물 → 생약]\n'icariin'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "상백피",
+        "데리스",
+        "생강",
+        "아편",
+        "음양곽"
+      ],
+      "answer": "음양곽",
+      "explanation": "정답: 음양곽"
+    },
+    {
+      "id": 29,
+      "question": "[생약 → 화합물]\n'음양곽'의 성분으로 옳은 것은?",
+      "choices": [
+        "morusin",
+        "rotenone",
+        "gingerol",
+        "meconic acid",
+        "icariin"
+      ],
+      "answer": "icariin",
+      "explanation": "정답: icariin"
+    },
+    {
+      "id": 30,
+      "question": "[화합물 → 생약]\n'rotenone'을(를) 함유하는 생약·기원은?",
+      "choices": [
+        "음양곽",
+        "아편",
+        "상백피",
+        "벨라돈나·스코폴리아·다투라",
+        "데리스"
+      ],
+      "answer": "데리스",
+      "explanation": "정답: 데리스"
+    }
+  ]
+}

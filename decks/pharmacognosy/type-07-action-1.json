@@ -1,0 +1,384 @@
+{
+  "deckId": "pharmacognosy-type-07-action-1",
+  "subject": "생약학",
+  "title": "⑦ 약효·작용·용도 1/15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.20] 다음 구조(camphor)의 기원과 용도로 옳은 것은?\n[[smi:CC1(C)C2CCC1(C)C(=O)C2]]",
+      "choices": [
+        "녹나무(Cinnamomum camphora) – 국소자극으로 신경통·염증·타박상에 외용, 중추자극",
+        "박하 – 피부 냉감",
+        "회향 – 딱정벌레 살충",
+        "적작약 – 진경·항염",
+        "레몬 – 진정"
+      ],
+      "answer": "녹나무(Cinnamomum camphora) – 국소자극으로 신경통·염증·타박상에 외용, 중추자극",
+      "explanation": "정답: 녹나무 – 국소자극 외용, 중추자극\ncamphor는 bornane계 bicyclic monoterpene ketone."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.20] 다음 구조(menthol)를 함유한 생약과 작용으로 옳은 것은?\n[[smi:CC(C)C1CCC(C)CC1O]]",
+      "choices": [
+        "박하(Mentha arvensis)·양박하(M. piperita) 정유 – 피부 냉감, 약한 마취, 진통",
+        "정향 – 국소마취·항균",
+        "녹나무 – 중추자극",
+        "회향 – 살충",
+        "레몬 – 중추억제"
+      ],
+      "answer": "박하(Mentha arvensis)·양박하(M. piperita) 정유 – 피부 냉감, 약한 마취, 진통",
+      "explanation": "정답: 박하·양박하 – 냉감, 약한 마취, 진통\n(−)-menthol(levomenthol), p-menthane계 monocyclic monoterpene alcohol."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.20] monoterpene – 기원 – 작용의 짝이 틀린 것은?",
+      "choices": [
+        "limonene – lemon 정유 – 진정·중추억제",
+        "fenchone – 회향 – 딱정벌레류 살충",
+        "camphor – 녹나무 – 국소자극",
+        "menthol – 박하 – 피부 냉감",
+        "paeoniflorin – 회향 – 혈압강하"
+      ],
+      "answer": "paeoniflorin – 회향 – 혈압강하",
+      "explanation": "정답: 'paeoniflorin – 회향 – 혈압강하' (틀림)\npaeoniflorin은 적작약(Paeonia lactiflora)의 monoterpene glycoside benzoate — 진통·진경·항염증."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.20·21] 적작약(Paeonia lactiflora)의 지표성분 paeoniflorin의 작용은?",
+      "choices": [
+        "진통, 진경, 항염증",
+        "피부 냉감, 약한 마취",
+        "살충",
+        "강심, 이뇨",
+        "항말라리아"
+      ],
+      "answer": "진통, 진경, 항염증",
+      "explanation": "정답: 진통·진경·항염증\npaeoniflorin = monoterpene glycoside의 benzoate(pinane계 cage 구조)."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.22] pyrethrins를 함유하며 살충제로 쓰이는 생약은?",
+      "choices": [
+        "제충국 (Chrysanthemum cinerariaefolium)의 꽃",
+        "회향의 과실",
+        "박하의 잎",
+        "녹나무의 목부",
+        "개똥쑥의 잎"
+      ],
+      "answer": "제충국 (Chrysanthemum cinerariaefolium)의 꽃",
+      "explanation": "정답: 제충국의 꽃\npyrethrins, cinerins, jasmolins — 유용한 살충 성분."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.23] 제충국 pyrethrin 구조를 본떠 만든 합성 살충제(pyrethroid)가 아닌 것은?",
+      "choices": [
+        "permethrin",
+        "cypermethrin",
+        "bioresmethrin",
+        "tetramethrin",
+        "warfarin"
+      ],
+      "answer": "warfarin",
+      "explanation": "정답: warfarin\nwarfarin은 dicoumarol을 바탕으로 한 항응고제·살서제(쥐약)."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.27] iridoid – 생약 – 작용의 짝이 틀린 것은?",
+      "choices": [
+        "harpagoside – 현삼 – 소염진통",
+        "catalpol – 치자 – 혈압강하",
+        "geniposide – 치자 – 이담·지혈·소염",
+        "valtrate – 길초근 – 진정·불면증",
+        "picroside I·II·III – 호황련"
+      ],
+      "answer": "catalpol – 치자 – 혈압강하",
+      "explanation": "정답: 'catalpol – 치자' (틀림)\ncatalpol은 지황(혈압강하). 치자는 geniposide."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.27] 지황에 들어 있으며 혈압강하 작용을 하는 iridoid 배당체는?",
+      "answer": [
+        "catalpol",
+        "카탈폴"
+      ],
+      "explanation": "정답: catalpol"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.27] 현삼의 iridoid로 소염진통 작용을 하는 성분은?",
+      "answer": [
+        "harpagoside",
+        "하르파고사이드"
+      ],
+      "explanation": "정답: harpagoside"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.27·96] 길초근(쥐오줌풀)의 iridoid로 진정·불면증 개선 작용을 하는 성분은?",
+      "choices": [
+        "valtrate, dehydrovaltrate",
+        "harpagoside",
+        "geniposide",
+        "muzenide",
+        "villoside"
+      ],
+      "answer": "valtrate, dehydrovaltrate",
+      "explanation": "정답: valtrate, dehydrovaltrate\nPPT p.96 복습 표에도 valtrate가 나온다(mevalonate / C5×2 / iridoid / 진정)."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.27] 치자의 iridoid 배당체 geniposide의 작용으로 PPT에 없는 것은?",
+      "choices": [
+        "완화·이담",
+        "지혈·소염",
+        "강장·해독·해열",
+        "환각"
+      ],
+      "answer": "환각",
+      "explanation": "정답: 환각\ngeniposide(치자): 완화, 이담, 지혈, 소염, 강장, 해독, 해열."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.38] germacrane형 등에서 α-exomethylene-γ-lactone 고리를 가진 sesquiterpene 유도체의 활성은?",
+      "choices": [
+        "항종양 활성, 식물 성장 억제",
+        "강심 작용",
+        "감미",
+        "항응고",
+        "환각"
+      ],
+      "answer": "항종양 활성, 식물 성장 억제",
+      "explanation": "정답: 항종양·식물성장억제\nguaiane의 chrysanthemin A·euparotin도 같은 고리 때문에 세포독성·항종양·식물성장저해(p.41)."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.38] 목향(Saussurea lappa)의 germacrane형 sesquiterpene lactone으로 항염증·세포독성 작용이 있는 것은?",
+      "choices": [
+        "costunolide",
+        "pyrethrosine",
+        "santonin",
+        "atractylon",
+        "helenalin"
+      ],
+      "answer": "costunolide",
+      "explanation": "정답: costunolide\npyrethrosine은 제충국의 germacrane(식물성장 억제). germacrene A, hedycaryol, periplanone B, heliangine도 germacrane."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.38] 제충국에서 얻어진 germacrane형 sesquiterpene lactone으로 식물 성장을 억제하는 것은?",
+      "choices": [
+        "pyrethrosine",
+        "pyrethrin I",
+        "chrysanthemic acid",
+        "costunolide",
+        "santonin"
+      ],
+      "answer": "pyrethrosine",
+      "explanation": "정답: pyrethrosine\n제충국의 살충 성분 pyrethrin은 irregular monoterpene ester로 다른 계열이다."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.39] Vernonia hymenolepis 잎에서 얻은 elemane형 sesquiterpene dilactone으로 강한 항종양 활성을 가진 것은?",
+      "choices": [
+        "vernolepin",
+        "costunolide",
+        "artemisinin",
+        "santonin",
+        "gossypol"
+      ],
+      "answer": "vernolepin",
+      "explanation": "정답: vernolepin (vernomenin도 같은 식물)\nelemane: elemene, saussurea lactone, vernolepin."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.40] eudesmane형 sesquiterpene – 생약 – 작용의 짝이 틀린 것은?",
+      "choices": [
+        "atractylon – 창출·백출 – 건위",
+        "alantolactone – 토목향 – 구충",
+        "petasin – 머위 – 진경",
+        "santonin – 시나화 – 회충구제",
+        "capsidiol – 고구마 – 감미"
+      ],
+      "answer": "capsidiol – 고구마 – 감미",
+      "explanation": "정답: 'capsidiol – 고구마' (틀림)\ncapsidiol은 고추의 phytoalexin. 고구마는 ipomeamarone."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.43] Coriaria속에서 분리된 독성 물질로 GABA antagonist인 sesquiterpene은?",
+      "choices": [
+        "tutin, coriamyrtin",
+        "helminthosporal",
+        "juvabione",
+        "sirenin",
+        "fumagillin"
+      ],
+      "answer": "tutin, coriamyrtin",
+      "explanation": "정답: tutin, coriamyrtin\nhelminthosporal은 소맥 반점병균(Helminthosporium sativum)의 독소. 둘 다 cadinane이 계속 고리화된 copabornyl cation 경유."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.49] 스테비아(Stevia rebaudiana) 잎의 diterpene 배당체로 설탕의 약 150배 단맛을 내는 감미료는?",
+      "choices": [
+        "stevioside",
+        "glycyrrhizin",
+        "forskolin",
+        "phyllodulcin",
+        "ginkgolide"
+      ],
+      "answer": "stevioside",
+      "explanation": "정답: stevioside\nglycyrrhizin(감초, triterpene 배당체)은 설탕의 40~50배, phyllodulcin(감다)은 isocoumarin."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.49] Coleus forskohlii에서 분리된 diterpene forskolin의 작용 기전은?",
+      "choices": [
+        "adenylate cyclase를 활성화하여 cAMP 합성 촉진 → 혈압강하",
+        "Na⁺,K⁺-ATPase 저해",
+        "PAF 수용체 길항",
+        "미세소관 안정화",
+        "HMG-CoA reductase 저해"
+      ],
+      "answer": "adenylate cyclase를 활성화하여 cAMP 합성 촉진 → 혈압강하",
+      "explanation": "정답: adenylate cyclase 활성화 → cAMP↑ (혈압강하제)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.51] 은행엽에서 혈액순환 개선 작용이 있는 diterpenoid계 성분은?",
+      "choices": [
+        "ginkgolide B",
+        "amentoflavone",
+        "syringaresinol",
+        "kaempferol",
+        "sesamin"
+      ],
+      "answer": "ginkgolide B",
+      "explanation": "정답: ginkgolide B\nPPT p.51 예제(생약학문제집 p.152). amentoflavone은 biflavonoid, kaempferol은 flavonol, syringaresinol·sesamin은 lignan."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.50] 파두(Croton tiglium)에 들어 있는 diterpene 성분과 활성은?",
+      "choices": [
+        "phorbol ester – 발암 성분",
+        "forskolin – 혈압강하",
+        "stevioside – 감미",
+        "aconitine – 진통",
+        "taxol – 항종양"
+      ],
+      "answer": "phorbol ester – 발암 성분",
+      "explanation": "정답: phorbol ester – 발암(종양 촉진)\nmacrocyclic diterpene 계열."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.54] saponin의 약리작용으로 PPT에 없는 것은?",
+      "choices": [
+        "진해·거담",
+        "항염증·중추억제",
+        "항피로·항궤양",
+        "지질대사·cholesterol 대사 촉진",
+        "강심 (Na⁺,K⁺-ATPase 저해)"
+      ],
+      "answer": "강심 (Na⁺,K⁺-ATPase 저해)",
+      "explanation": "정답: 강심 (없음)\n강심 작용은 강심배당체(cardenolide·bufadienolide). saponin: 진해, 거담, 항염증, 중추억제, 항피로, 항궤양, 지질·cholesterol 대사 촉진, 핵산·단백질 합성 촉진, 세포수명 연장."
+    },
+    {
+      "id": 23,
+      "question": "[기출 2023-1·2023-2] 참/거짓을 판별하시오.\nprotopanaxatriol은 인삼 사포닌인 ginsenoside 중 하나로, 중추억제 작용을 한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F (거짓)\nprotopanaxadiol계 — 중추억제·정신안정, protopanaxatriol계 — 중추흥분.\n출처: 2023-1 중간 주관2 · 2023-2 중간 2 (2회 출제)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.67] oleanane계 triterpene saponin 중 '소염 작용' 그룹에 속하지 않는 생약은?",
+      "choices": [
+        "시호 (saikosaponin)",
+        "감초 (glycyrrhizin)",
+        "목통 (akebioside)",
+        "위령선 (clematoside)",
+        "길경 (platycodin)"
+      ],
+      "answer": "길경 (platycodin)",
+      "explanation": "정답: 길경 (거담 그룹)\n거담: 세네가, 원지, 길경 / 소염: 시호, 감초, 목통, 위령선."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.68] 지유(Sanguisorba officinalis, 오이풀)의 ursane계 saponin과 작용은?",
+      "choices": [
+        "ziyu-glycoside – 지혈, 대장염",
+        "asiaticoside – 상처치유",
+        "glycyrrhizin – 소염",
+        "platycodin – 거담",
+        "cucurbitacin – 준하"
+      ],
+      "answer": "ziyu-glycoside – 지혈, 대장염",
+      "explanation": "정답: ziyu-glycoside – 지혈·대장염"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.68·97] 적설초(병풀, Centella asiatica)의 asiaticoside의 활성은?",
+      "choices": [
+        "상처치유",
+        "강심",
+        "항말라리아",
+        "중추흥분",
+        "살충"
+      ],
+      "answer": "상처치유",
+      "explanation": "정답: 상처치유\nasiatic acid, madecassic acid와 그 배당체 — ursane계."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.80·81·97] 강심배당체의 작용 기전으로 옳은 것은?",
+      "choices": [
+        "Na⁺,K⁺-ATPase 저해 → 세포 내 Na⁺↑ → Na⁺/Ca²⁺ 교환으로 세포 내 Ca²⁺↑ → 심근수축력 증가",
+        "β1 수용체 직접 자극",
+        "Ca²⁺ 통로 차단",
+        "adenylate cyclase 활성화",
+        "PDE 저해"
+      ],
+      "answer": "Na⁺,K⁺-ATPase 저해 → 세포 내 Na⁺↑ → Na⁺/Ca²⁺ 교환으로 세포 내 Ca²⁺↑ → 심근수축력 증가",
+      "explanation": "정답: 첫 번째 (세포 내 K⁺는 감소)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.82·83] 디기탈리스(Digitalis purpurea)의 강심배당체와 용도로 옳은 것은?",
+      "choices": [
+        "digitoxin(purpurea glycoside A), gitoxin, gitaloxin – 울혈성 심부전",
+        "lanatoside A·B·C, digoxin – 살서제",
+        "ouabain – 협심증",
+        "scillaren A – 이뇨"
+      ],
+      "answer": "digitoxin(purpurea glycoside A), gitoxin, gitaloxin – 울혈성 심부전",
+      "explanation": "정답: 첫 번째\ndigitoxin의 당은 β-D-digitoxose 3분자."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.95] 시각 작용에서 opsin 단백질의 amino기와 Schiff base를 형성하여 rhodopsin을 만드는 것은?",
+      "choices": [
+        "11-cis-retinal",
+        "all-trans-retinol",
+        "retinoic acid",
+        "β-carotene",
+        "lycopene"
+      ],
+      "answer": "11-cis-retinal",
+      "explanation": "정답: 11-cis-retinal\n빛을 흡수하면 11,12-이중결합이 trans로 돌아가고 Schiff base가 가수분해되어 opsin과 분리."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.6] 계피정유의 주성분 cinnamic aldehyde의 작용으로 PPT에 없는 것은?",
+      "choices": [
+        "혈압강하·말초혈관 확장",
+        "진정·해열",
+        "국소마취·항진균",
+        "소량에서 중추각성, 다량에서 중추억제",
+        "환각작용"
+      ],
+      "answer": "환각작용",
+      "explanation": "정답: 환각작용\n환각작용은 육두구의 myristicin. cinnamic aldehyde: 혈압강하, 심박수 감소, 말초혈관 확장, 진정, 해열, 중추각성(소량), 중추억제(다량), 진경, 국소자극, 국소마취, 항진균."
+    }
+  ]
+}

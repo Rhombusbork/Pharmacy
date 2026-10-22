@@ -1,0 +1,293 @@
+{
+  "deckId": "pharmacognosy-type-07-action-15",
+  "subject": "생약학",
+  "title": "⑦ 약효·작용·용도 15/15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[성분 → 작용]\n'physostigmine'(카라발두)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항암(topoisomerase I 저해)",
+        "혈관수축",
+        "분만 촉진(진통촉진)",
+        "항말라리아",
+        "AChE 저해"
+      ],
+      "answer": "AChE 저해",
+      "explanation": "정답: AChE 저해"
+    },
+    {
+      "id": 2,
+      "question": "[작용 → 성분]\n작용·용도가 'AChE 저해'인 성분은?",
+      "choices": [
+        "camptothecin",
+        "ergotamine",
+        "quinidine",
+        "ergometrine",
+        "physostigmine"
+      ],
+      "answer": "physostigmine",
+      "explanation": "정답: physostigmine (카라발두)"
+    },
+    {
+      "id": 3,
+      "question": "[성분 → 작용]\n'ergotamine'(맥각)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "AChE 저해",
+        "분만 촉진(진통촉진)",
+        "항암(topoisomerase I 저해)",
+        "항말라리아",
+        "혈관수축"
+      ],
+      "answer": "혈관수축",
+      "explanation": "정답: 혈관수축"
+    },
+    {
+      "id": 4,
+      "question": "[작용 → 성분]\n작용·용도가 '혈관수축'인 성분은?",
+      "choices": [
+        "physostigmine",
+        "ergometrine",
+        "camptothecin",
+        "evodiamine·rutaecarpine",
+        "ergotamine"
+      ],
+      "answer": "ergotamine",
+      "explanation": "정답: ergotamine (맥각)"
+    },
+    {
+      "id": 5,
+      "question": "[성분 → 작용]\n'ergometrine'(맥각)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "혈관수축",
+        "AChE 저해",
+        "항암(topoisomerase I 저해)",
+        "대뇌피질 흥분, 심근수축력 증가",
+        "분만 촉진(진통촉진)"
+      ],
+      "answer": "분만 촉진(진통촉진)",
+      "explanation": "정답: 분만 촉진(진통촉진)"
+    },
+    {
+      "id": 6,
+      "question": "[작용 → 성분]\n작용·용도가 '분만 촉진(진통촉진)'인 성분은?",
+      "choices": [
+        "ergotamine",
+        "evodiamine·rutaecarpine",
+        "physostigmine",
+        "strychnine·brucine",
+        "ergometrine"
+      ],
+      "answer": "ergometrine",
+      "explanation": "정답: ergometrine (맥각)"
+    },
+    {
+      "id": 7,
+      "question": "[성분 → 작용]\n'caffeine'(커피두·다엽)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "이뇨",
+        "기관지평활근 이완",
+        "신경통·근육통 외용, 매운맛",
+        "분만 촉진(진통촉진)",
+        "대뇌피질 흥분, 심근수축력 증가"
+      ],
+      "answer": "대뇌피질 흥분, 심근수축력 증가",
+      "explanation": "정답: 대뇌피질 흥분, 심근수축력 증가"
+    },
+    {
+      "id": 8,
+      "question": "[작용 → 성분]\n작용·용도가 '대뇌피질 흥분, 심근수축력 증가'인 성분은?",
+      "choices": [
+        "pilocarpine",
+        "theobromine",
+        "strychnine·brucine",
+        "theophylline",
+        "caffeine"
+      ],
+      "answer": "caffeine",
+      "explanation": "정답: caffeine (커피두·다엽)"
+    },
+    {
+      "id": 9,
+      "question": "[성분 → 작용]\n'theobromine'(카카오)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "대뇌피질 흥분, 심근수축력 증가",
+        "기관지평활근 이완",
+        "신경통·근육통 외용, 매운맛",
+        "HCN 유리",
+        "이뇨"
+      ],
+      "answer": "이뇨",
+      "explanation": "정답: 이뇨"
+    },
+    {
+      "id": 10,
+      "question": "[작용 → 성분]\n작용·용도가 '이뇨'인 성분은?",
+      "choices": [
+        "caffeine",
+        "theophylline",
+        "pilocarpine",
+        "capsaicin",
+        "theobromine"
+      ],
+      "answer": "theobromine",
+      "explanation": "정답: theobromine (카카오)"
+    },
+    {
+      "id": 11,
+      "question": "[성분 → 작용]\n'theophylline'(다엽)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "이뇨",
+        "신경통·근육통 외용, 매운맛",
+        "대뇌피질 흥분, 심근수축력 증가",
+        "HCN 유리",
+        "기관지평활근 이완"
+      ],
+      "answer": "기관지평활근 이완",
+      "explanation": "정답: 기관지평활근 이완"
+    },
+    {
+      "id": 12,
+      "question": "[작용 → 성분]\n작용·용도가 '기관지평활근 이완'인 성분은?",
+      "choices": [
+        "theobromine",
+        "capsaicin",
+        "caffeine",
+        "amygdalin",
+        "theophylline"
+      ],
+      "answer": "theophylline",
+      "explanation": "정답: theophylline (다엽)"
+    },
+    {
+      "id": 13,
+      "question": "[성분 → 작용]\n'capsaicin'(고추)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "기관지평활근 이완",
+        "HCN 유리",
+        "이뇨",
+        "allyl isothiocyanate(매운맛)",
+        "신경통·근육통 외용, 매운맛"
+      ],
+      "answer": "신경통·근육통 외용, 매운맛",
+      "explanation": "정답: 신경통·근육통 외용, 매운맛"
+    },
+    {
+      "id": 14,
+      "question": "[작용 → 성분]\n작용·용도가 '신경통·근육통 외용, 매운맛'인 성분은?",
+      "choices": [
+        "theophylline",
+        "amygdalin",
+        "theobromine",
+        "sinigrin",
+        "capsaicin"
+      ],
+      "answer": "capsaicin",
+      "explanation": "정답: capsaicin (고추)"
+    },
+    {
+      "id": 15,
+      "question": "[성분 → 작용]\n'amygdalin'(행인·고편도)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "신경통·근육통 외용, 매운맛",
+        "allyl isothiocyanate(매운맛)",
+        "기관지평활근 이완",
+        "항균",
+        "HCN 유리"
+      ],
+      "answer": "HCN 유리",
+      "explanation": "정답: HCN 유리"
+    },
+    {
+      "id": 16,
+      "question": "[작용 → 성분]\n작용·용도가 'HCN 유리'인 성분은?",
+      "choices": [
+        "capsaicin",
+        "sinigrin",
+        "theophylline",
+        "alliin·allicin",
+        "amygdalin"
+      ],
+      "answer": "amygdalin",
+      "explanation": "정답: amygdalin (행인·고편도)"
+    },
+    {
+      "id": 17,
+      "question": "[성분 → 작용]\n'sinigrin'(개자(겨자)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "HCN 유리",
+        "항균",
+        "신경통·근육통 외용, 매운맛",
+        "기생충 구제",
+        "allyl isothiocyanate(매운맛)"
+      ],
+      "answer": "allyl isothiocyanate(매운맛)",
+      "explanation": "정답: allyl isothiocyanate(매운맛)"
+    },
+    {
+      "id": 18,
+      "question": "[작용 → 성분]\n작용·용도가 'allyl isothiocyanate(매운맛)'인 성분은?",
+      "choices": [
+        "amygdalin",
+        "alliin·allicin",
+        "capsaicin",
+        "α-kainic acid",
+        "sinigrin"
+      ],
+      "answer": "sinigrin",
+      "explanation": "정답: sinigrin (개자(겨자)"
+    },
+    {
+      "id": 19,
+      "question": "[성분 → 작용]\n'alliin·allicin'(마늘(대산)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "allyl isothiocyanate(매운맛)",
+        "기생충 구제",
+        "HCN 유리",
+        "신경통·근육통 외용, 매운맛",
+        "항균"
+      ],
+      "answer": "항균",
+      "explanation": "정답: 항균"
+    },
+    {
+      "id": 20,
+      "question": "[작용 → 성분]\n작용·용도가 '항균'인 성분은?",
+      "choices": [
+        "sinigrin",
+        "α-kainic acid",
+        "amygdalin",
+        "capsaicin",
+        "alliin·allicin"
+      ],
+      "answer": "alliin·allicin",
+      "explanation": "정답: alliin·allicin (마늘(대산)"
+    },
+    {
+      "id": 21,
+      "question": "[성분 → 작용]\n'α-kainic acid'(해인초)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항균",
+        "allyl isothiocyanate(매운맛)",
+        "HCN 유리",
+        "신경통·근육통 외용, 매운맛",
+        "기생충 구제"
+      ],
+      "answer": "기생충 구제",
+      "explanation": "정답: 기생충 구제"
+    },
+    {
+      "id": 22,
+      "question": "[작용 → 성분]\n작용·용도가 '기생충 구제'인 성분은?",
+      "choices": [
+        "alliin·allicin",
+        "sinigrin",
+        "amygdalin",
+        "capsaicin",
+        "α-kainic acid"
+      ],
+      "answer": "α-kainic acid",
+      "explanation": "정답: α-kainic acid (해인초)"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-07-action-11",
+  "subject": "생약학",
+  "title": "⑦ 약효·작용·용도 11/15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[성분 → 작용]\n'shikonin'(자근)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "황색 색소",
+        "색소",
+        "사하",
+        "백혈병 세포 파괴",
+        "적색 색소"
+      ],
+      "answer": "적색 색소",
+      "explanation": "정답: 적색 색소"
+    },
+    {
+      "id": 2,
+      "question": "[작용 → 성분]\n작용·용도가 '적색 색소'인 성분은?",
+      "choices": [
+        "lapachol",
+        "lawsone",
+        "juglone",
+        "perezone",
+        "shikonin"
+      ],
+      "answer": "shikonin",
+      "explanation": "정답: shikonin (자근)"
+    },
+    {
+      "id": 3,
+      "question": "[성분 → 작용]\n'alkannin'(Alkanna tinctoria)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "사하",
+        "황색 색소",
+        "색소",
+        "사하(가장 강한 dianthrone)",
+        "적색 색소"
+      ],
+      "answer": "적색 색소",
+      "explanation": "정답: 적색 색소"
+    },
+    {
+      "id": 4,
+      "question": "[작용 → 성분]\n작용·용도가 '적색 색소'인 성분은?",
+      "choices": [
+        "juglone",
+        "lapachol",
+        "emodin",
+        "lawsone",
+        "alkannin"
+      ],
+      "answer": "alkannin",
+      "explanation": "정답: alkannin (Alkanna tinctoria)"
+    },
+    {
+      "id": 5,
+      "question": "[성분 → 작용]\n'emodin'(대황)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "적색 색소",
+        "사하(가장 강한 dianthrone)",
+        "색소",
+        "월경부조, 협심증, 불면",
+        "사하"
+      ],
+      "answer": "사하",
+      "explanation": "정답: 사하"
+    },
+    {
+      "id": 6,
+      "question": "[작용 → 성분]\n작용·용도가 '사하'인 성분은?",
+      "choices": [
+        "juglone",
+        "alkannin",
+        "sennoside",
+        "shikonin",
+        "emodin"
+      ],
+      "answer": "emodin",
+      "explanation": "정답: emodin (대황)"
+    },
+    {
+      "id": 7,
+      "question": "[성분 → 작용]\n'aloe-emodin'(알로에(노회)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "사하(가장 강한 dianthrone)",
+        "색소",
+        "적색 색소",
+        "월경부조, 협심증, 불면",
+        "사하"
+      ],
+      "answer": "사하",
+      "explanation": "정답: 사하"
+    },
+    {
+      "id": 8,
+      "question": "[작용 → 성분]\n작용·용도가 '사하'인 성분은?",
+      "choices": [
+        "sennoside",
+        "juglone",
+        "alizarin",
+        "alkannin",
+        "aloe-emodin"
+      ],
+      "answer": "aloe-emodin",
+      "explanation": "정답: aloe-emodin (알로에(노회)"
+    },
+    {
+      "id": 9,
+      "question": "[성분 → 작용]\n'sennoside'(센나엽)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "사하",
+        "색소",
+        "월경부조, 협심증, 불면",
+        "항우울, 광역학",
+        "사하(가장 강한 dianthrone)"
+      ],
+      "answer": "사하(가장 강한 dianthrone)",
+      "explanation": "정답: 사하(가장 강한 dianthrone)"
+    },
+    {
+      "id": 10,
+      "question": "[작용 → 성분]\n작용·용도가 '사하(가장 강한 dianthrone)'인 성분은?",
+      "choices": [
+        "aloe-emodin",
+        "alizarin",
+        "emodin",
+        "tanshinone",
+        "sennoside"
+      ],
+      "answer": "sennoside",
+      "explanation": "정답: sennoside (센나엽)"
+    },
+    {
+      "id": 11,
+      "question": "[성분 → 작용]\n'alizarin'(꼭두서니)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "사하(가장 강한 dianthrone)",
+        "월경부조, 협심증, 불면",
+        "사하",
+        "항우울, 광역학",
+        "색소"
+      ],
+      "answer": "색소",
+      "explanation": "정답: 색소"
+    },
+    {
+      "id": 12,
+      "question": "[작용 → 성분]\n작용·용도가 '색소'인 성분은?",
+      "choices": [
+        "sennoside",
+        "tanshinone",
+        "aloe-emodin",
+        "hypericin",
+        "alizarin"
+      ],
+      "answer": "alizarin",
+      "explanation": "정답: alizarin (꼭두서니)"
+    },
+    {
+      "id": 13,
+      "question": "[성분 → 작용]\n'tanshinone'(단삼)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "색소",
+        "항우울, 광역학",
+        "사하(가장 강한 dianthrone)",
+        "혈관확장",
+        "월경부조, 협심증, 불면"
+      ],
+      "answer": "월경부조, 협심증, 불면",
+      "explanation": "정답: 월경부조, 협심증, 불면"
+    },
+    {
+      "id": 14,
+      "question": "[작용 → 성분]\n작용·용도가 '월경부조, 협심증, 불면'인 성분은?",
+      "choices": [
+        "alizarin",
+        "hypericin",
+        "sennoside",
+        "visnagin·khellin",
+        "tanshinone"
+      ],
+      "answer": "tanshinone",
+      "explanation": "정답: tanshinone (단삼)"
+    },
+    {
+      "id": 15,
+      "question": "[성분 → 작용]\n'hypericin'(St. John's wort)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "월경부조, 협심증, 불면",
+        "혈관확장",
+        "색소",
+        "이담",
+        "항우울, 광역학"
+      ],
+      "answer": "항우울, 광역학",
+      "explanation": "정답: 항우울, 광역학"
+    },
+    {
+      "id": 16,
+      "question": "[작용 → 성분]\n작용·용도가 '항우울, 광역학'인 성분은?",
+      "choices": [
+        "tanshinone",
+        "visnagin·khellin",
+        "alizarin",
+        "capillarisin",
+        "hypericin"
+      ],
+      "answer": "hypericin",
+      "explanation": "정답: hypericin (St. John's wort)"
+    },
+    {
+      "id": 17,
+      "question": "[성분 → 작용]\n'visnagin·khellin'(암미실)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "항우울, 광역학",
+        "이담",
+        "월경부조, 협심증, 불면",
+        "색소",
+        "혈관확장"
+      ],
+      "answer": "혈관확장",
+      "explanation": "정답: 혈관확장"
+    },
+    {
+      "id": 18,
+      "question": "[작용 → 성분]\n작용·용도가 '혈관확장'인 성분은?",
+      "choices": [
+        "hypericin",
+        "capillarisin",
+        "tanshinone",
+        "eugenin",
+        "visnagin·khellin"
+      ],
+      "answer": "visnagin·khellin",
+      "explanation": "정답: visnagin·khellin (암미실)"
+    },
+    {
+      "id": 19,
+      "question": "[성분 → 작용]\n'capillarisin'(인진호)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "혈관확장",
+        "항우울, 광역학",
+        "중추억제",
+        "월경부조, 협심증, 불면",
+        "이담"
+      ],
+      "answer": "이담",
+      "explanation": "정답: 이담"
+    },
+    {
+      "id": 20,
+      "question": "[작용 → 성분]\n작용·용도가 '이담'인 성분은?",
+      "choices": [
+        "visnagin·khellin",
+        "eugenin",
+        "hypericin",
+        "cimifugin",
+        "capillarisin"
+      ],
+      "answer": "capillarisin",
+      "explanation": "정답: capillarisin (인진호)"
+    },
+    {
+      "id": 21,
+      "question": "[성분 → 작용]\n'cimifugin'(승마)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "환각",
+        "이담",
+        "피부염 유발",
+        "혈관확장",
+        "중추억제"
+      ],
+      "answer": "중추억제",
+      "explanation": "정답: 중추억제"
+    },
+    {
+      "id": 22,
+      "question": "[작용 → 성분]\n작용·용도가 '중추억제'인 성분은?",
+      "choices": [
+        "eugenin",
+        "THC",
+        "capillarisin",
+        "urushiol",
+        "cimifugin"
+      ],
+      "answer": "cimifugin",
+      "explanation": "정답: cimifugin (승마)"
+    },
+    {
+      "id": 23,
+      "question": "[성분 → 작용]\n'THC'(인도대마)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "중추억제",
+        "피부염 유발",
+        "진경, phytoestrogen",
+        "이담",
+        "환각"
+      ],
+      "answer": "환각",
+      "explanation": "정답: 환각"
+    },
+    {
+      "id": 24,
+      "question": "[작용 → 성분]\n작용·용도가 '환각'인 성분은?",
+      "choices": [
+        "cimifugin",
+        "urushiol",
+        "eugenin",
+        "daidzein",
+        "THC"
+      ],
+      "answer": "THC",
+      "explanation": "정답: THC (인도대마)"
+    },
+    {
+      "id": 25,
+      "question": "[성분 → 작용]\n'urushiol'(옻나무)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "환각",
+        "진경, phytoestrogen",
+        "중추억제",
+        "적색 색소",
+        "피부염 유발"
+      ],
+      "answer": "피부염 유발",
+      "explanation": "정답: 피부염 유발"
+    },
+    {
+      "id": 26,
+      "question": "[작용 → 성분]\n작용·용도가 '피부염 유발'인 성분은?",
+      "choices": [
+        "THC",
+        "daidzein",
+        "cimifugin",
+        "carthamin",
+        "urushiol"
+      ],
+      "answer": "urushiol",
+      "explanation": "정답: urushiol (옻나무)"
+    },
+    {
+      "id": 27,
+      "question": "[성분 → 작용]\n'daidzein'(갈근)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "피부염 유발",
+        "적색 색소",
+        "환각",
+        "고혈당",
+        "진경, phytoestrogen"
+      ],
+      "answer": "진경, phytoestrogen",
+      "explanation": "정답: 진경, phytoestrogen"
+    },
+    {
+      "id": 28,
+      "question": "[작용 → 성분]\n작용·용도가 '진경, phytoestrogen'인 성분은?",
+      "choices": [
+        "urushiol",
+        "carthamin",
+        "THC",
+        "phloretin",
+        "daidzein"
+      ],
+      "answer": "daidzein",
+      "explanation": "정답: daidzein (갈근)"
+    },
+    {
+      "id": 29,
+      "question": "[성분 → 작용]\n'carthamin'(홍화)의 작용·용도로 옳은 것은?",
+      "choices": [
+        "진경, phytoestrogen",
+        "고혈당",
+        "피부염 유발",
+        "UV 365 nm 청자색 형광 → 대황 품질 구별",
+        "적색 색소"
+      ],
+      "answer": "적색 색소",
+      "explanation": "정답: 적색 색소"
+    },
+    {
+      "id": 30,
+      "question": "[작용 → 성분]\n작용·용도가 '적색 색소'인 성분은?",
+      "choices": [
+        "daidzein",
+        "phloretin",
+        "urushiol",
+        "rhaponticin",
+        "carthamin"
+      ],
+      "answer": "carthamin",
+      "explanation": "정답: carthamin (홍화)"
+    }
+  ]
+}
