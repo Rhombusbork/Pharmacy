@@ -1,0 +1,377 @@
+{
+  "deckId": "pharmacognosy-type-10-term-6",
+  "subject": "생약학",
+  "title": "⑩ 정의·용어·특징 6/10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.22] silymarin을 이루는 flavolignan이 아닌 것은?",
+      "choices": [
+        "silybin",
+        "isosilybin",
+        "silychristin",
+        "silydianin",
+        "sesamin"
+      ],
+      "answer": "sesamin",
+      "explanation": "정답: sesamin\nsesamin은 참깨의 lignan(산화방지)."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.23] lignin에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "p-hydroxycinnamyl·coniferyl·sinapyl alcohol 등이 중합한 polymer",
+        "목재의 20~30%를 차지",
+        "세포벽에 침착하여 목화(lignification)를 일으킨다",
+        "vanillin의 제조 원료로 쓰인다",
+        "물에 잘 녹아 세포액 속에 존재한다"
+      ],
+      "answer": "물에 잘 녹아 세포액 속에 존재한다",
+      "explanation": "정답: '물에 잘 녹아 세포액 속에 존재한다' (틀림)\nlignin은 세포벽에 침착해 있고 물에 녹지 않는다. 식물에 따라 구성 phenylpropanoid가 다르다."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.1] Polyketide pathway의 다른 이름은?",
+      "choices": [
+        "acetate-malonate pathway",
+        "mevalonate pathway",
+        "shikimate pathway",
+        "MEP pathway",
+        "amino acid pathway"
+      ],
+      "answer": "acetate-malonate pathway",
+      "explanation": "정답: acetate-malonate pathway\nacetyl-CoA(시작)에 malonyl-CoA(연장)가 차례로 붙는다."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.2] polyketide 화합물이 공통으로 유래하는 사슬은?",
+      "choices": [
+        "poly-β-keto chain (poly-β-keto ester)",
+        "polyisoprene chain",
+        "polypeptide chain",
+        "polysaccharide chain",
+        "polyphenylpropane chain"
+      ],
+      "answer": "poly-β-keto chain (poly-β-keto ester)",
+      "explanation": "정답: poly-β-keto 사슬\n카보닐(C=O)이 한 탄소 건너(β 위치)마다 반복되는 사슬."
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.4] malonyl-CoA가 사슬에 붙는 Claisen 반응에서 동시에 빠져나가는 것은?",
+      "choices": [
+        "CO₂",
+        "H₂O",
+        "NH₃",
+        "인산",
+        "CoA-SH 2분자"
+      ],
+      "answer": "CO₂",
+      "explanation": "정답: CO₂\n'nucleophilic attack on carbonyl with simultaneous loss of CO₂' — 탈탄산이 반응의 추진력이 된다."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.6] Aldol condensation에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "두 카보닐 화합물(enolate + aldehyde/ketone)이 축합해 β-hydroxy carbonyl(aldol)을 만든다",
+        "ester와 활성 메틸렌 화합물이 염기 촉매로 축합하고 이탈기가 빠진다",
+        "두 라디칼이 짝지어진다",
+        "IPP와 DMAPP가 결합한다"
+      ],
+      "answer": "두 카보닐 화합물(enolate + aldehyde/ketone)이 축합해 β-hydroxy carbonyl(aldol)을 만든다",
+      "explanation": "정답: 첫 번째\nClaisen은 enolate + ester(탈양성자 → 첨가 → 이탈 단계)."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.7] polyketide 대사산물의 다양성을 결정하는 요인으로 PPT에 없는 것은?",
+      "choices": [
+        "시작 단위(starter)의 종류",
+        "사용된 acetyl-CoA 단위 수 (가끔 propionyl-CoA, butyryl-CoA)",
+        "고리화 방식",
+        "따로 만들어진 polyketide끼리의 축합",
+        "결합한 IPP 단위의 수만으로 결정"
+      ],
+      "answer": "결합한 IPP 단위의 수만으로 결정",
+      "explanation": "정답: 마지막\n그 밖에 2차 과정(halogenation, alkylation, 산화환원, 재배열 등)도 요인."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.7] acetyl-CoA 대신 쓰이는 다른 시작·연장 ester로 PPT에 나온 것은?",
+      "choices": [
+        "propionyl-CoA, butyryl-CoA",
+        "HMG-CoA",
+        "succinyl-CoA만",
+        "IPP, DMAPP",
+        "glucose-6-phosphate"
+      ],
+      "answer": "propionyl-CoA, butyryl-CoA",
+      "explanation": "정답: propionyl-CoA, butyryl-CoA\n뒤에서 나오는 예: hexanoyl-CoA(cannabinoid), palmitoleyl-CoA(urushiol), propionyl-CoA(anthracycline), malonamyl-CoA(tetracycline)."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.5] orsellinic acid(C8)를 만들기 위해 필요한 단위의 수는?",
+      "choices": [
+        "acetyl-CoA 1 + malonyl-CoA 3",
+        "acetyl-CoA 4",
+        "acetyl-CoA 2 + malonyl-CoA 2",
+        "malonyl-CoA 4 + CO₂",
+        "acetyl-CoA 1 + malonyl-CoA 4"
+      ],
+      "answer": "acetyl-CoA 1 + malonyl-CoA 3",
+      "explanation": "정답: acetyl-CoA 1 + malonyl-CoA 3 (= 4 × C2, tetraketide)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.4] Polyketide 사슬 연장에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "acetyl-CoA 또는 acyl-CoA가 시작 물질이 된다",
+        "malonyl-CoA가 붙을 때 CO₂가 빠진다",
+        "반복되는 Claisen 반응으로 poly-β-keto ester가 길어진다",
+        "한 번 연장할 때마다 탄소 5개가 늘어난다"
+      ],
+      "answer": "한 번 연장할 때마다 탄소 5개가 늘어난다",
+      "explanation": "정답: 마지막 (틀림)\n한 번에 C2씩 늘어난다(malonyl-CoA C3 − CO₂). C5씩 늘어나는 것은 isoprenoid."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.9] pharbitin을 구성하는 산(acid)으로 PPT 그림에 없는 것은?",
+      "choices": [
+        "pharbitic acid",
+        "(+)-α-methylbutyric acid",
+        "nilic acid",
+        "tiglic acid",
+        "cinnamic acid"
+      ],
+      "answer": "cinnamic acid",
+      "explanation": "정답: cinnamic acid\npharbitin: pharbitic acid C·D(+ Glc, Rha) + methylbutyric acid, nilic acid, tiglic acid, valeric acid."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.10] falcarinol의 다른 이름은? (인삼 이름에서 유래)",
+      "answer": [
+        "panaxynol",
+        "파낙시놀"
+      ],
+      "explanation": "정답: panaxynol"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.11] phthalide계 화합물의 구조적 특징은?",
+      "choices": [
+        "α-pyrone 고리와 유사한 lactone 고리를 가진다",
+        "cyclopropane 고리를 가진다",
+        "삼중결합이 이어져 있다",
+        "질소 고리를 가진다"
+      ],
+      "answer": "α-pyrone 고리와 유사한 lactone 고리를 가진다",
+      "explanation": "정답: lactone 고리\n벤젠 고리(또는 그 환원형)에 5원 lactone이 붙은 구조."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.12] 참당귀와 일당귀 비교로 옳은 것은?",
+      "choices": [
+        "참당귀(Angelica gigas) – coumarin(decursin) / 일당귀(A. acutiloba) – phthalide(ligustilide)·polyacetylene",
+        "참당귀 – phthalide / 일당귀 – coumarin",
+        "둘 다 decursin이 주성분",
+        "참당귀 – polyacetylene만 / 일당귀 – alkaloid"
+      ],
+      "answer": "참당귀(Angelica gigas) – coumarin(decursin) / 일당귀(A. acutiloba) – phthalide(ligustilide)·polyacetylene",
+      "explanation": "정답: 첫 번째\n참당귀: decursin, decursinol angelate / 일당귀: ligustilide, butylidenephthalide, butylphthalide + falcarindiol, falcarinol, falcarinolone."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.13] phloroglucinol 화합물의 특징으로 PPT에 나온 것은?",
+      "choices": [
+        "phloroglucinol 고리를 가지며 tautomeric triketone으로도 나타낸다",
+        "질소를 포함한 고리",
+        "5원 lactone",
+        "cyclopropane"
+      ],
+      "answer": "phloroglucinol 고리를 가지며 tautomeric triketone으로도 나타낸다",
+      "explanation": "정답: 첫 번째\n1,3,5-trihydroxybenzene ⇌ cyclohexane-1,3,5-trione(호변이성)."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.13] 다음 구조(1,3,5-trihydroxybenzene)의 이름은?\n[[smi:Oc1cc(O)cc(O)c1]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.14] quinonoid의 정의로 옳은 것은?",
+      "choices": [
+        "quinone성 화합물 + 쉽게 quinone으로 변할 수 있거나 생합성적으로 밀접한 화합물의 총칭",
+        "모든 방향족 ketone",
+        "질소를 가진 방향족",
+        "steroid의 산화물"
+      ],
+      "answer": "quinone성 화합물 + 쉽게 quinone으로 변할 수 있거나 생합성적으로 밀접한 화합물의 총칭",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.16] 엽록체에 있으며 광합성 전자전달에 관여하는 benzoquinone은?",
+      "choices": [
+        "plastoquinone",
+        "ubiquinone",
+        "rapanone",
+        "maesaquinone",
+        "polyporic acid"
+      ],
+      "answer": "plastoquinone",
+      "explanation": "정답: plastoquinone"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.17] 목재 부패균(Polyporus nidulans)의 청동색 색소인 benzoquinone은?",
+      "choices": [
+        "polyporic acid",
+        "asterriquinone",
+        "perezone",
+        "embelin",
+        "plastoquinone"
+      ],
+      "answer": "polyporic acid",
+      "explanation": "정답: polyporic acid"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.20] vitamin K에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "K1 = phylloquinone, K2 = menaquinone이며 전자전달과 혈액응고인자(prothrombin) 수준 유지에 관여",
+        "K1 = menaquinone, K2 = phylloquinone",
+        "benzoquinone이다",
+        "혈액응고를 억제한다"
+      ],
+      "answer": "K1 = phylloquinone, K2 = menaquinone이며 전자전달과 혈액응고인자(prothrombin) 수준 유지에 관여",
+      "explanation": "정답: 첫 번째\ndicoumarol·warfarin은 vitamin K 작용을 저해해 항응고 작용을 한다."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.20] Impatiens balsamina(봉선화)와 Lawsonia alba(헤나)의 황색 색소 naphthoquinone은?",
+      "choices": [
+        "lawsone",
+        "juglone",
+        "lapachol",
+        "shikonin",
+        "dunnione"
+      ],
+      "answer": "lawsone",
+      "explanation": "정답: lawsone"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.20] 능소화과(Bignoniaceae) 심재에 존재하는 naphthoquinone은?",
+      "choices": [
+        "lapachol, isolapachol",
+        "shikonin",
+        "lawsone",
+        "juglone",
+        "alkannin"
+      ],
+      "answer": "lapachol, isolapachol",
+      "explanation": "정답: lapachol, isolapachol"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.20] 자근(Lithospermum erythrorhizon)의 적등색 색소는?",
+      "choices": [
+        "shikonin, acetylshikonin",
+        "alkannin",
+        "lawsone",
+        "juglone",
+        "hypericin"
+      ],
+      "answer": "shikonin, acetylshikonin",
+      "explanation": "정답: shikonin, acetylshikonin\nalkannin은 Alkanna tinctoria 뿌리의 적색소."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.18·20] shikonin과 alkannin의 관계는?",
+      "choices": [
+        "곁사슬 OH의 입체 배치만 다른 거울상 이성질체(R1·R2가 서로 바뀜)",
+        "탄소 수가 다른 동족체",
+        "하나는 anthraquinone, 하나는 naphthoquinone",
+        "배당체와 aglycone"
+      ],
+      "answer": "곁사슬 OH의 입체 배치만 다른 거울상 이성질체(R1·R2가 서로 바뀜)",
+      "explanation": "정답: 거울상 이성질체\nshikonin(R1 = H, R2 = OH) / alkannin(R1 = OH, R2 = H)."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.23] 다음 중 alizarin형(shikimate형) anthraquinone이 아닌 것은?",
+      "choices": [
+        "lucidin",
+        "morindone",
+        "tectoquinone",
+        "alizarin",
+        "chrysophanol"
+      ],
+      "answer": "chrysophanol",
+      "explanation": "정답: chrysophanol (emodin형, 대황)"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.24] anthraquinone 배당체의 결합당 수가 늘수록 약효가 증가하는 이유로 옳은 것은?",
+      "choices": [
+        "수용성이 커지고 위장관 흡수가 줄어 대장까지 운반되기 때문",
+        "지용성이 커져 빨리 흡수되기 때문",
+        "간에서 활성화되기 때문",
+        "Bornträger 반응이 강해지기 때문"
+      ],
+      "answer": "수용성이 커지고 위장관 흡수가 줄어 대장까지 운반되기 때문",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.24·38] 대황을 채취 후 1년 경과품으로 쓰는 이유는?",
+      "choices": [
+        "신선품에 많은 anthranol은 구토·출혈 등 작용이 너무 강하므로, 산화되어 anthraquinone이 되면 작용이 완화되기 때문",
+        "1년 지나야 anthranol이 늘어 효과가 강해지기 때문",
+        "곰팡이를 없애기 위해",
+        "당이 늘어나기 때문"
+      ],
+      "answer": "신선품에 많은 anthranol은 구토·출혈 등 작용이 너무 강하므로, 산화되어 anthraquinone이 되면 작용이 완화되기 때문",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.24] sennoside A와 B의 관계는?",
+      "choices": [
+        "dianthrone 배당체로, threo와 erythro 입체이성질체 관계",
+        "anthraquinone과 anthranol",
+        "하나는 cardenolide",
+        "탄소 수가 다르다"
+      ],
+      "answer": "dianthrone 배당체로, threo와 erythro 입체이성질체 관계",
+      "explanation": "정답: threo(A) / erythro(B) 입체이성질체\nsennoside C·D는 R1 = CH₂OH, E·F는 R2 = CO-COOH. 센나엽(Leguminosae)의 사하 성분."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.25] 단삼의 phenanthraquinone이 아닌 것은?",
+      "choices": [
+        "tanshinone IIA",
+        "cryptotanshinone",
+        "dihydrotanshinone I",
+        "danshenxinkun B",
+        "hypericin"
+      ],
+      "answer": "hypericin",
+      "explanation": "정답: hypericin (extended quinone)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.26] St. John's wort(Hypericum)의 hypericin에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "poly-ring(extended) quinone으로 광역학(photodynamic) 효과, 항우울제·방부제",
+        "benzoquinone으로 전자전달",
+        "naphthoquinone으로 지혈",
+        "phenanthraquinone으로 협심증"
+      ],
+      "answer": "poly-ring(extended) quinone으로 광역학(photodynamic) 효과, 항우울제·방부제",
+      "explanation": "정답: 첫 번째 (pseudohypericin도 같은 계열)"
+    }
+  ]
+}

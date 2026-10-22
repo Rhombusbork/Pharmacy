@@ -1,0 +1,215 @@
+{
+  "deckId": "pharmacognosy-type-09-test-2",
+  "subject": "생약학",
+  "title": "⑨ 정색반응·확인시험 2/2",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[정색·확인]\n'FeCl₃ (meconic acid)'으로 확인하는 것은?",
+      "choices": [
+        "tannin·페놀 — 흑청~녹흑색",
+        "alkaloid 침전",
+        "cardenolide의 α,β-불포화 γ-lactone",
+        "saponin (맥문동 가루 + 물 흔들기)",
+        "아편 확인 — 적색"
+      ],
+      "answer": "아편 확인 — 적색",
+      "explanation": "정답: 아편 확인 — 적색\n(FeCl₃ (meconic acid) — 아편 확인 — 적색)"
+    },
+    {
+      "id": 2,
+      "question": "[정색·확인]\n'아편 확인 — 적색'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "FeCl₃ (tannin)",
+        "Mayer·Dragendorff 시약",
+        "Kedde 반응",
+        "거품(foam) 시험",
+        "FeCl₃ (meconic acid)"
+      ],
+      "answer": "FeCl₃ (meconic acid)",
+      "explanation": "정답: FeCl₃ (meconic acid)\n(FeCl₃ (meconic acid) — 아편 확인 — 적색)"
+    },
+    {
+      "id": 3,
+      "question": "[정색·확인]\n'Mayer·Dragendorff 시약'으로 확인하는 것은?",
+      "choices": [
+        "아편 확인 — 적색",
+        "saponin (맥문동 가루 + 물 흔들기)",
+        "tannin·페놀 — 흑청~녹흑색",
+        "coumarin류",
+        "alkaloid 침전"
+      ],
+      "answer": "alkaloid 침전",
+      "explanation": "정답: alkaloid 침전\n(Mayer·Dragendorff 시약 — alkaloid 침전)"
+    },
+    {
+      "id": 4,
+      "question": "[정색·확인]\n'alkaloid 침전'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "FeCl₃ (meconic acid)",
+        "거품(foam) 시험",
+        "FeCl₃ (tannin)",
+        "UV 365 nm 청색~청자색 형광",
+        "Mayer·Dragendorff 시약"
+      ],
+      "answer": "Mayer·Dragendorff 시약",
+      "explanation": "정답: Mayer·Dragendorff 시약\n(Mayer·Dragendorff 시약 — alkaloid 침전)"
+    },
+    {
+      "id": 5,
+      "question": "[정색·확인]\n'거품(foam) 시험'으로 확인하는 것은?",
+      "choices": [
+        "alkaloid 침전",
+        "coumarin류",
+        "아편 확인 — 적색",
+        "rhaponticin → 종대황 혼입 구별",
+        "saponin (맥문동 가루 + 물 흔들기)"
+      ],
+      "answer": "saponin (맥문동 가루 + 물 흔들기)",
+      "explanation": "정답: saponin (맥문동 가루 + 물 흔들기)\n(거품(foam) 시험 — saponin (맥문동 가루 + 물 흔들기))"
+    },
+    {
+      "id": 6,
+      "question": "[정색·확인]\n'saponin (맥문동 가루 + 물 흔들기)'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "Mayer·Dragendorff 시약",
+        "UV 365 nm 청색~청자색 형광",
+        "FeCl₃ (meconic acid)",
+        "UV 365 nm 청자색 형광 (대황)",
+        "거품(foam) 시험"
+      ],
+      "answer": "거품(foam) 시험",
+      "explanation": "정답: 거품(foam) 시험\n(거품(foam) 시험 — saponin (맥문동 가루 + 물 흔들기))"
+    },
+    {
+      "id": 7,
+      "question": "[정색·확인]\n'UV 365 nm 청색~청자색 형광'으로 확인하는 것은?",
+      "choices": [
+        "saponin (맥문동 가루 + 물 흔들기)",
+        "rhaponticin → 종대황 혼입 구별",
+        "alkaloid 침전",
+        "purine(caffeine)",
+        "coumarin류"
+      ],
+      "answer": "coumarin류",
+      "explanation": "정답: coumarin류\n(UV 365 nm 청색~청자색 형광 — coumarin류)"
+    },
+    {
+      "id": 8,
+      "question": "[정색·확인]\n'coumarin류'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "거품(foam) 시험",
+        "UV 365 nm 청자색 형광 (대황)",
+        "Mayer·Dragendorff 시약",
+        "Murexide 반응",
+        "UV 365 nm 청색~청자색 형광"
+      ],
+      "answer": "UV 365 nm 청색~청자색 형광",
+      "explanation": "정답: UV 365 nm 청색~청자색 형광\n(UV 365 nm 청색~청자색 형광 — coumarin류)"
+    },
+    {
+      "id": 9,
+      "question": "[정색·확인]\n'UV 365 nm 청자색 형광 (대황)'으로 확인하는 것은?",
+      "choices": [
+        "coumarin류",
+        "purine(caffeine)",
+        "saponin (맥문동 가루 + 물 흔들기)",
+        "vitamin A·carotenoid",
+        "rhaponticin → 종대황 혼입 구별"
+      ],
+      "answer": "rhaponticin → 종대황 혼입 구별",
+      "explanation": "정답: rhaponticin → 종대황 혼입 구별\n(UV 365 nm 청자색 형광 (대황) — rhaponticin → 종대황 혼입 구별)"
+    },
+    {
+      "id": 10,
+      "question": "[정색·확인]\n'rhaponticin → 종대황 혼입 구별'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "UV 365 nm 청색~청자색 형광",
+        "Murexide 반응",
+        "거품(foam) 시험",
+        "Carr-Price 반응",
+        "UV 365 nm 청자색 형광 (대황)"
+      ],
+      "answer": "UV 365 nm 청자색 형광 (대황)",
+      "explanation": "정답: UV 365 nm 청자색 형광 (대황)\n(UV 365 nm 청자색 형광 (대황) — rhaponticin → 종대황 혼입 구별)"
+    },
+    {
+      "id": 11,
+      "question": "[정색·확인]\n'Murexide 반응'으로 확인하는 것은?",
+      "choices": [
+        "rhaponticin → 종대황 혼입 구별",
+        "vitamin A·carotenoid",
+        "coumarin류",
+        "gentisin(xanthone) — 용담 확인",
+        "purine(caffeine)"
+      ],
+      "answer": "purine(caffeine)",
+      "explanation": "정답: purine(caffeine)\n(Murexide 반응 — purine(caffeine))"
+    },
+    {
+      "id": 12,
+      "question": "[정색·확인]\n'purine(caffeine)'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "UV 365 nm 청자색 형광 (대황)",
+        "Carr-Price 반응",
+        "UV 365 nm 청색~청자색 형광",
+        "승화 시험",
+        "Murexide 반응"
+      ],
+      "answer": "Murexide 반응",
+      "explanation": "정답: Murexide 반응\n(Murexide 반응 — purine(caffeine))"
+    },
+    {
+      "id": 13,
+      "question": "[정색·확인]\n'Carr-Price 반응'으로 확인하는 것은?",
+      "choices": [
+        "purine(caffeine)",
+        "gentisin(xanthone) — 용담 확인",
+        "rhaponticin → 종대황 혼입 구별",
+        "coumarin류",
+        "vitamin A·carotenoid"
+      ],
+      "answer": "vitamin A·carotenoid",
+      "explanation": "정답: vitamin A·carotenoid\n(Carr-Price 반응 — vitamin A·carotenoid)"
+    },
+    {
+      "id": 14,
+      "question": "[정색·확인]\n'vitamin A·carotenoid'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "Murexide 반응",
+        "승화 시험",
+        "UV 365 nm 청자색 형광 (대황)",
+        "UV 365 nm 청색~청자색 형광",
+        "Carr-Price 반응"
+      ],
+      "answer": "Carr-Price 반응",
+      "explanation": "정답: Carr-Price 반응\n(Carr-Price 반응 — vitamin A·carotenoid)"
+    },
+    {
+      "id": 15,
+      "question": "[정색·확인]\n'승화 시험'으로 확인하는 것은?",
+      "choices": [
+        "vitamin A·carotenoid",
+        "purine(caffeine)",
+        "rhaponticin → 종대황 혼입 구별",
+        "coumarin류",
+        "gentisin(xanthone) — 용담 확인"
+      ],
+      "answer": "gentisin(xanthone) — 용담 확인",
+      "explanation": "정답: gentisin(xanthone) — 용담 확인\n(승화 시험 — gentisin(xanthone) — 용담 확인)"
+    },
+    {
+      "id": 16,
+      "question": "[정색·확인]\n'gentisin(xanthone) — 용담 확인'을(를) 확인하는 반응·시험은?",
+      "choices": [
+        "Carr-Price 반응",
+        "Murexide 반응",
+        "UV 365 nm 청자색 형광 (대황)",
+        "UV 365 nm 청색~청자색 형광",
+        "승화 시험"
+      ],
+      "answer": "승화 시험",
+      "explanation": "정답: 승화 시험\n(승화 시험 — gentisin(xanthone) — 용담 확인)"
+    }
+  ]
+}

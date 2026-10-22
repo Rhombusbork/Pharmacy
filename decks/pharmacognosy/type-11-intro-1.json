@@ -1,124 +1,179 @@
 {
-  "deckId": "pharmacognosy-ch1-intro-set2",
+  "deckId": "pharmacognosy-type-11-intro-1",
   "subject": "생약학",
-  "title": "Ch1 총론 · 세트 2/4 (과명·bioassay·약어·역사)",
+  "title": "⑪ 총론 1/3",
   "questions": [
     {
       "id": 1,
-      "question": "[기출 2020-2] 벼과(화본과)의 합법명(legitimate name)은?",
-      "answer": [
-        "Poaceae"
+      "question": "[PPT 1-2 p.2] 'Pharmacognosy'의 어원으로 옳은 것은?",
+      "choices": [
+        "pharmacon(약·독) + gnosis(앎)",
+        "pharmacon(약) + logos(학문)",
+        "pharmacia(약국) + cognosco(보다)",
+        "phyto(식물) + gnosis(앎)",
+        "pharmacon(약) + chemia(화학)"
       ],
-      "explanation": "정답: Poaceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+      "answer": "pharmacon(약·독) + gnosis(앎)",
+      "explanation": "정답: pharmacon + gnosis\nPPT 1-2 p.2: pharmacon = a drug or poisons(그리스어), gnosis(gignosco) = knowledge(그리스어) 또는 라틴어 cognosco 'to know about'. 'Pharm(drug) + cogn(know)'."
     },
     {
       "id": 2,
-      "question": "[기출 2021-2·2023-2] True or False\n꿀풀과의 보존명은 Lamiaceae이다.",
+      "question": "[PPT 1-2 p.3] '生藥學'이라는 이름은 무엇에서 온 말인가?",
       "choices": [
-        "T (참)",
-        "F (거짓)"
+        "Crude Drugs",
+        "Natural Medicines",
+        "Herbal Remedies",
+        "Folk Medicines",
+        "Medicinal Chemistry"
       ],
-      "answer": "F (거짓)",
-      "explanation": "정답: F\n꿀풀과(순형과): 보존명 Labiatae, 합법명 Lamiaceae.\n출처: 2021-2 중간 2-4) · 2023-2 중간 2-2) (2회 출제)"
+      "answer": "Crude Drugs",
+      "explanation": "정답: Crude Drugs\nPPT 1-2 p.3: '生藥學' from 'Crude Drugs'. 생약학의 범주: 본초학, ethnopharmacology(민간약), bioassay, 천연자원 수집·감정, 재배·식물세포배양, 천연물화학(분리·구조결정), 품질 표준화, 유도체 합성."
     },
     {
       "id": 3,
-      "question": "[기출 2023-1] True or False\n꿀풀과의 보존명은 Labiatae이다.",
+      "question": "[PPT 1-2 p.4] Aspirin의 기원이 된 식물은?",
+      "choices": [
+        "버드나무 (Salix alba)",
+        "주목 (Taxus brevifolia)",
+        "양귀비 (Papaver somniferum)",
+        "기나나무 (Cinchona succirubra)",
+        "감초 (Glycyrrhiza glabra)"
+      ],
+      "answer": "버드나무 (Salix alba)",
+      "explanation": "정답: 버드나무(Salix alba)\nBC 400 Hippocrates가 버드나무 껍질·잎을 진통·해열에 처방 → salicin에서 salicylic acid(위·입 자극 심함) → 1897 Felix Hoffmann이 안정한 acetylsalicylic acid(aspirin, 반합성 의약품)를 만듦."
+    },
+    {
+      "id": 4,
+      "question": "[PPT 1-2 p.4] Aspirin 역사에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "1897년 Felix Hoffmann이 acetylsalicylic acid를 만들었다",
+        "aspirin은 반합성(semi-synthetic) 의약품이다",
+        "1971년 John Vane은 aspirin이 prostaglandin 생성을 억제한다고 제안했다",
+        "salicylic acid는 위와 입에 자극이 심했다",
+        "aspirin은 주목 껍질에서 처음 분리되었다"
+      ],
+      "answer": "aspirin은 주목 껍질에서 처음 분리되었다",
+      "explanation": "정답: '주목 껍질에서 처음 분리' (틀림)\n주목(Taxus brevifolia) 껍질에서 분리된 것은 taxol. aspirin은 버드나무의 salicin에서 출발. 1948년 Craven은 aspirin이 심장마비 위험을 줄인다는 것을 관찰."
+    },
+    {
+      "id": 5,
+      "question": "[PPT 1-2 p.5] Taxol(paclitaxel)의 작용 기전은?",
+      "choices": [
+        "미세소관(microtubule) 중합체를 안정화하여 해체를 막는다",
+        "미세소관 중합을 억제한다",
+        "topoisomerase I을 저해한다",
+        "DNA를 알킬화한다",
+        "prostaglandin 생성을 억제한다"
+      ],
+      "answer": "미세소관(microtubule) 중합체를 안정화하여 해체를 막는다",
+      "explanation": "정답: 미세소관 안정화\nPPT: 'stabilizes the microtubule polymer and protects it from disassembly' — mitotic inhibitor. 적응증: 폐암, 난소암, 유방암, 두경부암, Kaposi 육종."
+    },
+    {
+      "id": 6,
+      "question": "[PPT 1-2 p.5] Taxol을 처음 분리한 식물과 부위는?",
+      "choices": [
+        "Pacific yew (Taxus brevifolia)의 수피",
+        "Taxus baccata의 잎",
+        "버드나무의 수피",
+        "Catharanthus roseus의 잎",
+        "Podophyllum의 뿌리"
+      ],
+      "answer": "Pacific yew (Taxus brevifolia)의 수피",
+      "explanation": "정답: Taxus brevifolia(태평양주목)의 수피\n1967 NCI 프로그램(Research Triangle Institute)에서 분리해 taxol로 명명. BMS가 상품화하며 일반명을 paclitaxel로 바꾸고 TAXOL은 상표가 됨."
+    },
+    {
+      "id": 7,
+      "question": "[PPT 1-2 p.8] 1981년 Potier가 Taxus baccata 잎에서 분리하여 taxol 반합성의 원료가 된 화합물은?",
+      "choices": [
+        "10-deacetylbaccatin (III)",
+        "salicin",
+        "docetaxel",
+        "taxane",
+        "podophyllotoxin"
+      ],
+      "answer": "10-deacetylbaccatin (III)",
+      "explanation": "정답: 10-deacetylbaccatin\n잎은 다시 자라므로 나무를 베지 않아도 된다. 1988 반합성 경로 발표 → 1992 Holton 수율 80% 공정 → 1995 Pacific yew 사용 중단 → 현재는 식물세포배양(PCF) 기술. 합성 경쟁에서 docetaxel이 나옴."
+    },
+    {
+      "id": 8,
+      "question": "[PPT 1-2 p.5·8] 현재 taxol 생산에 쓰이는 PCF 기술은 무엇의 약자인가?",
+      "choices": [
+        "plant cell fermentation",
+        "pure compound fractionation",
+        "polymerase chain fermentation",
+        "plant crude formulation",
+        "partial chemical fusion"
+      ],
+      "answer": "plant cell fermentation",
+      "explanation": "정답: plant cell fermentation (식물세포 배양 발효)\n1993년에는 주목에 사는 곰팡이(Nodulisporium sylviforme)에서도 taxol이 발견되었다."
+    },
+    {
+      "id": 9,
+      "question": "[PPT 1-2 p.7] Taxol 개발 역사에서 '나무 껍질 수요' 문제와 관련된 사실로 옳은 것은?",
+      "choices": [
+        "미국 환자를 모두 치료하려면 매년 약 36만 그루를 베어야 한다는 환경 문제가 제기되었다",
+        "1967년부터 처음부터 반합성으로만 생산되었다",
+        "1992년 FDA 승인 후에도 Pacific yew 사용은 계속 늘었다",
+        "1969년 수피 1,200 kg에서 순수 taxol 10 kg을 얻었다"
+      ],
+      "answer": "미국 환자를 모두 치료하려면 매년 약 36만 그루를 베어야 한다는 환경 문제가 제기되었다",
+      "explanation": "정답: 매년 약 36만 그루 벌목 문제\n1969년 수피 1,200 kg → 조추출물 28 kg → 순수 10 g. 1988년 'Annual destruction of 360,000 trees to treat all US cases'. 1995년 Pacific yew 사용 중단."
+    },
+    {
+      "id": 10,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: KP",
+      "answer": [
+        "Korean Pharmacopoeia",
+        "Korean Pharmacopeia",
+        "대한민국약전",
+        "대한민국 약전"
+      ],
+      "explanation": "정답: Korean Pharmacopoeia (대한민국약전)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: CP",
+      "answer": [
+        "Chinese Pharmacopoeia",
+        "Chinese Pharmacopeia",
+        "중국약전",
+        "중화인민공화국약전"
+      ],
+      "explanation": "정답: Chinese Pharmacopoeia (ChP라고도 씀)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 약자의 full name을 쓰시오: JP",
+      "answer": [
+        "Japanese Pharmacopoeia",
+        "Japanese Pharmacopeia",
+        "일본약국방",
+        "일본약전"
+      ],
+      "explanation": "정답: Japanese Pharmacopoeia (일본약국방)\n출처: 2020-2 중간 주9"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2021-2] True or False\n대한민국약전외한약(생약)규격집의 약칭은 KHP이다.",
       "choices": [
         "T (참)",
         "F (거짓)"
       ],
       "answer": "T (참)",
-      "explanation": "정답: T\n출처: 2023-1 중간 주관2-2"
+      "explanation": "정답: T\nKHP = Korean Herbal Pharmacopoeia (大韓民國藥典外 韓藥(生藥)規格輯).\n출처: 2021-2 중간 2-1)"
     },
     {
-      "id": 4,
-      "question": "[PPT 1-2 p.11] 콩과(두과)의 합법명(legitimate name)은?",
-      "answer": [
-        "Fabaceae"
-      ],
-      "explanation": "정답: Fabaceae (보존명 Leguminosae)\n감초(Glycyrrhiza)가 콩과 식물이다."
-    },
-    {
-      "id": 5,
-      "question": "[PPT 1-2 p.11] 과명 – 보존명 – 합법명의 짝이 틀린 것은?",
+      "id": 14,
+      "question": "[기출 2023-1·2023-2] True or False\n대한민국 약전 외 한약(생약) 규격집을 KP라고 한다.",
       "choices": [
-        "꿀풀과 – Labiatae – Lamiaceae",
-        "야자과 – Palmae – Arecaceae",
-        "화본과 – Gramineae – Poaceae",
-        "십자화과 – Cruciferae – Brassicaceae",
-        "물레나물과 – Umbelliferae – Clusiaceae"
+        "T (참)",
+        "F (거짓)"
       ],
-      "answer": "물레나물과 – Umbelliferae – Clusiaceae",
-      "explanation": "정답: '물레나물과 – Umbelliferae – Clusiaceae' (틀림)\n물레나물과의 보존명은 Guttiferae. Umbelliferae는 미나리과(산형과)."
+      "answer": "F (거짓)",
+      "explanation": "정답: F\nKP는 대한민국약전(Korean Pharmacopoeia), 약전외 한약(생약)규격집은 KHP.\n출처: 2023-1 중간 주관2-4 · 2023-2 중간 2-3) (2회 출제)"
     },
     {
-      "id": 6,
-      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nto examine the phenomenon exactly in place when it occurs",
-      "choices": [
-        "in situ",
-        "in vitro",
-        "in silico",
-        "in vivo",
-        "in utero"
-      ],
-      "answer": "in situ",
-      "explanation": "정답: in situ\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 11번"
-    },
-    {
-      "id": 7,
-      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nthe state of embryo or fetus",
-      "choices": [
-        "in situ",
-        "in vitro",
-        "in silico",
-        "in vivo",
-        "in utero"
-      ],
-      "answer": "in utero",
-      "explanation": "정답: in utero\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 12번"
-    },
-    {
-      "id": 8,
-      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nperformed on computer or via computer simulation",
-      "choices": [
-        "in situ",
-        "in vitro",
-        "in silico",
-        "in vivo",
-        "in utero"
-      ],
-      "answer": "in silico",
-      "explanation": "정답: in silico\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 13번"
-    },
-    {
-      "id": 9,
-      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nwithin the glass, i.e., in a test tube or petri dish",
-      "choices": [
-        "in situ",
-        "in vitro",
-        "in silico",
-        "in vivo",
-        "in utero"
-      ],
-      "answer": "in vitro",
-      "explanation": "정답: in vitro\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 14번"
-    },
-    {
-      "id": 10,
-      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nanimal testing and clinical trials",
-      "choices": [
-        "in situ",
-        "in vitro",
-        "in silico",
-        "in vivo",
-        "in utero"
-      ],
-      "answer": "in vivo",
-      "explanation": "정답: in vivo\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 15번"
-    },
-    {
-      "id": 11,
+      "id": 15,
       "question": "[기출 2021-2·2023-2] True or False\nbioassay에서 in silico는 시험관 내(in vitro) 실험을 뜻한다.",
       "choices": [
         "T (참)",
@@ -128,7 +183,7 @@
       "explanation": "정답: F\nin silico = 컴퓨터(시뮬레이션)로 수행. 시험관법은 in vitro.\n출처: 2021-2 중간 2-2) · 2023-2 중간 2-1) (2회 출제)"
     },
     {
-      "id": 12,
+      "id": 16,
       "question": "[기출 2023-1] True or False\nbioassay를 설명하는 용어 중 in silico는 생체 내 실험을 의미한다.",
       "choices": [
         "T (참)",
@@ -138,7 +193,7 @@
       "explanation": "정답: F\n생체 내 실험(동물실험·임상시험)은 in vivo.\n출처: 2023-1 중간 주관2-1"
     },
     {
-      "id": 13,
+      "id": 17,
       "question": "[PPT 1-2 p.14] 'out of the living' — 생물체 밖에서 일어나는 것을 뜻하는 용어는?",
       "choices": [
         "ex vivo",
@@ -151,7 +206,7 @@
       "explanation": "정답: ex vivo\nPPT p.14: ex vivo 'out of the living' means that which takes place outside an organism."
     },
     {
-      "id": 14,
+      "id": 18,
       "question": "[PPT 1-2 p.12·13] 다음 중 in vivo assay의 예로 PPT에 나온 것은?",
       "choices": [
         "Morris water maze test (마우스·랫드, p.o.)",
@@ -163,7 +218,7 @@
       "explanation": "정답: Morris water maze test\nin vivo(신경보호 활성): passive avoidance test, Morris water maze test, focal ischemia test. 나머지는 in vitro(≒ cell-based) assay."
     },
     {
-      "id": 15,
+      "id": 19,
       "question": "[PPT 1-2 p.15] 항미생물 작용에 대한 설명으로 옳은 것은?",
       "choices": [
         "抗菌作用 = 抗細菌作用 + 抗眞菌作用이며, 빈도는 항세균 > 항진균",
@@ -175,7 +230,7 @@
       "explanation": "정답: 항균 = 항세균 + 항진균, 빈도는 항세균 > 항진균\nPPT p.15 anti-microbial: anti-bacterial, anti-fungal, anti-protozoal(항원충), anti-virus, anti-septic(방부)."
     },
     {
-      "id": 16,
+      "id": 20,
       "question": "[PPT 1-2 p.16] 약어의 뜻이 틀린 것은?",
       "choices": [
         "p.o. – per os, 경구",
@@ -188,7 +243,7 @@
       "explanation": "정답: 'b.i.d. – 하루 세 번' (틀림)\nb.i.d.(bis in die) = 하루 두 번, t.i.d.(ter in die) = 하루 세 번. i.m. 근육, i.v. 정맥."
     },
     {
-      "id": 17,
+      "id": 21,
       "question": "[PPT 1-2 p.17] 생약 조직도의 약어와 뜻의 짝이 틀린 것은?",
       "choices": [
         "ph – phloem 사부(篩部)",
@@ -201,7 +256,7 @@
       "explanation": "정답: 'v – vessel 사관' (틀림)\nv: vessel = 도관(導管), s: sieve tube = 사관(篩管). k: cork 코르크, en: endodermis 내피, ep: epidermis 표피, p: parenchyma 유조직, co: collenchyma 후각세포."
     },
     {
-      "id": 18,
+      "id": 22,
       "question": "[PPT 1-2 p.17] 조직도 약어 'k'가 뜻하는 조직은? (한글 또는 영어)",
       "answer": [
         "cork",
@@ -213,7 +268,7 @@
       "explanation": "정답: cork(코르크, 코르크 세포)\n감초 내부형태에서도 바깥쪽 코르크층이 관찰된다."
     },
     {
-      "id": 19,
+      "id": 23,
       "question": "[PPT 1-2 p.19] 생약(生藥, crude drugs)의 정의로 옳은 것은?",
       "choices": [
         "식물·동물의 일부·광물·미생물 및 그 대사산물을 간단히 가공하여 약으로 쓰는 것",
@@ -225,7 +280,7 @@
       "explanation": "정답: 첫 번째\nPPT: 'an unrefined preparation, usually of plant origin, simply processed' / 生藥: use of plants, animal parts, minerals, microbes and its metabolites to make medicines."
     },
     {
-      "id": 20,
+      "id": 24,
       "question": "[PPT 1-2 p.19] TCM(Traditional Chinese Medicines)의 구성으로 PPT에 나온 것은?",
       "choices": [
         "Chinese Herbal Medicines + 침(acupuncture) + 추나(推拿) 마사지",
@@ -237,7 +292,7 @@
       "explanation": "정답: 한약 + 침 + 추나\n漢藥(중국), 韓藥(한국), 和漢藥(일본)을 묶어 Oriental Medicines라 한다."
     },
     {
-      "id": 21,
+      "id": 25,
       "question": "[PPT 1-2 p.21] 신약 개발에서 천연물의 장점(Merits of Natural Products)으로 PPT에 없는 것은?",
       "choices": [
         "오랜 사용으로 검증된 안전성",
@@ -250,7 +305,7 @@
       "explanation": "정답: '구조가 단순하여 합성이 쉬움'\n오히려 천연물은 '합성하려고 생각하지 못할 구조'가 많아 신약의 template가 된다(p.39). 장점: safety, less adverse effects, several biological functions, chemopreventive, return to nature."
     },
     {
-      "id": 22,
+      "id": 26,
       "question": "[PPT 1-2 p.22] 나라별 전통의학의 짝이 틀린 것은?",
       "choices": [
         "유럽 – Homeopathy",
@@ -263,7 +318,7 @@
       "explanation": "정답: '인도 – Jamu' (틀림)\nJamu는 인도네시아, 인도는 Ayurveda."
     },
     {
-      "id": 23,
+      "id": 27,
       "question": "[PPT 1-2 p.22] 서기 77~78년 'De Materia Medica'를 쓴 사람은?",
       "choices": [
         "Dioscorides",
@@ -276,7 +331,7 @@
       "explanation": "정답: Dioscorides (A.D. 40~90)\nJohann Adam Schmidt(1759~1809)는 'Lehrbuch der Materia Medica'(1811, Beethoven의 주치의)."
     },
     {
-      "id": 24,
+      "id": 28,
       "question": "[PPT 1-2 p.23] Carolus Linnaeus의 업적으로 옳은 것은?",
       "choices": [
         "이명법(binominal system of nomenclature) 확립",
@@ -289,7 +344,7 @@
       "explanation": "정답: 이명법(二名法)\n학명 = 속명 + 종소명. 예: Mentha piperita Linnaeus(peppermint) — 꿀풀과(Labiatae) Mentha속."
     },
     {
-      "id": 25,
+      "id": 29,
       "question": "[PPT 1-2 p.24] 1803년 Sertürner가 아편(Papaver somniferum)에서 분리한 최초의 알칼로이드는?",
       "choices": [
         "morphine",
@@ -302,7 +357,7 @@
       "explanation": "정답: morphine (1803)\n1817 strychnine(마전자), 1817 emetine(토근), 1820 quinine(기나피), 1828 nicotine(연초엽), 1833 hyoscyamine(벨라도나근)."
     },
     {
-      "id": 26,
+      "id": 30,
       "question": "[PPT 1-2 p.24] 성분 – 분리 연도 – 기원 생약의 짝이 틀린 것은?",
       "choices": [
         "quinine – 1820 – Cinchonae Cortex (규나피)",
@@ -313,58 +368,6 @@
       ],
       "answer": "hyoscyamine – 1833 – Papaver somniferum (아편)",
       "explanation": "정답: hyoscyamine – 아편 (틀림)\nhyoscyamine은 Belladonnae Radix(Atropa belladonna)에서 1833년 분리."
-    },
-    {
-      "id": 27,
-      "question": "[PPT 1-2 p.25] 천연물(원료)과 이를 바탕으로 개발된 의약품의 짝이 틀린 것은?",
-      "choices": [
-        "salicin → aspirin",
-        "cocaine → procaine (국소마취제)",
-        "atropine → ipratropium (진경제)",
-        "tubocurarine → decamethonium (골격근 이완제)",
-        "eugenol → diethylstilbestrol"
-      ],
-      "answer": "eugenol → diethylstilbestrol",
-      "explanation": "정답: 'eugenol → diethylstilbestrol' (틀림)\neugenol → vanillin, anethole → diethylstilbestrol, papaverine → dioxyline phosphate."
-    },
-    {
-      "id": 28,
-      "question": "[PPT 1-2 p.26] 신농본초경(神農本草經)에 수록된 약물 수로 옳은 것은?",
-      "choices": [
-        "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
-        "1,892종",
-        "5,767종",
-        "상품 100종, 중품 100종, 하품 165종",
-        "730종"
-      ],
-      "answer": "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
-      "explanation": "정답: 상품 120·중품 120·하품 125종\n한나라 이전 약물 지식의 총화. 본초강목은 1,892종, 중약대사전은 5,767종."
-    },
-    {
-      "id": 29,
-      "question": "[PPT 1-2 p.26] 중국 최초의 약전이자 세계 최초의 약전으로 불리는 본초서는?",
-      "choices": [
-        "신수본초 (당본초)",
-        "신농본초경",
-        "본초경집주",
-        "본초강목",
-        "동의보감"
-      ],
-      "answer": "신수본초 (당본초)",
-      "explanation": "정답: 신수본초(新修本草, 당본초) — 당나라 고종\n본초경집주: 남조 양나라 도홍경 / 본초강목: 명나라 이시진 1578년."
-    },
-    {
-      "id": 30,
-      "question": "[PPT 1-2 p.26] 명나라 이시진이 1578년에 펴낸, 16강 60목 1,892종의 약물을 수록한 본초서는?",
-      "choices": [
-        "본초강목",
-        "신수본초",
-        "본초경집주",
-        "중약대사전",
-        "향약집성방"
-      ],
-      "answer": "본초강목",
-      "explanation": "정답: 본초강목(本草綱目)\n방제 11,096종, 그림 1,160폭."
     }
   ]
 }

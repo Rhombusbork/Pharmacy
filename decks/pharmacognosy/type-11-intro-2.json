@@ -1,10 +1,62 @@
 {
-  "deckId": "pharmacognosy-ch1-intro-set3",
+  "deckId": "pharmacognosy-type-11-intro-2",
   "subject": "생약학",
-  "title": "Ch1 총론 · 세트 3/4 (본초학·감초·채취·품질평가)",
+  "title": "⑪ 총론 2/3",
   "questions": [
     {
       "id": 1,
+      "question": "[PPT 1-2 p.25] 천연물(원료)과 이를 바탕으로 개발된 의약품의 짝이 틀린 것은?",
+      "choices": [
+        "salicin → aspirin",
+        "cocaine → procaine (국소마취제)",
+        "atropine → ipratropium (진경제)",
+        "tubocurarine → decamethonium (골격근 이완제)",
+        "eugenol → diethylstilbestrol"
+      ],
+      "answer": "eugenol → diethylstilbestrol",
+      "explanation": "정답: 'eugenol → diethylstilbestrol' (틀림)\neugenol → vanillin, anethole → diethylstilbestrol, papaverine → dioxyline phosphate."
+    },
+    {
+      "id": 2,
+      "question": "[PPT 1-2 p.26] 신농본초경(神農本草經)에 수록된 약물 수로 옳은 것은?",
+      "choices": [
+        "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
+        "1,892종",
+        "5,767종",
+        "상품 100종, 중품 100종, 하품 165종",
+        "730종"
+      ],
+      "answer": "상품 120종, 중품 120종, 하품 125종 (모두 365종)",
+      "explanation": "정답: 상품 120·중품 120·하품 125종\n한나라 이전 약물 지식의 총화. 본초강목은 1,892종, 중약대사전은 5,767종."
+    },
+    {
+      "id": 3,
+      "question": "[PPT 1-2 p.26] 중국 최초의 약전이자 세계 최초의 약전으로 불리는 본초서는?",
+      "choices": [
+        "신수본초 (당본초)",
+        "신농본초경",
+        "본초경집주",
+        "본초강목",
+        "동의보감"
+      ],
+      "answer": "신수본초 (당본초)",
+      "explanation": "정답: 신수본초(新修本草, 당본초) — 당나라 고종\n본초경집주: 남조 양나라 도홍경 / 본초강목: 명나라 이시진 1578년."
+    },
+    {
+      "id": 4,
+      "question": "[PPT 1-2 p.26] 명나라 이시진이 1578년에 펴낸, 16강 60목 1,892종의 약물을 수록한 본초서는?",
+      "choices": [
+        "본초강목",
+        "신수본초",
+        "본초경집주",
+        "중약대사전",
+        "향약집성방"
+      ],
+      "answer": "본초강목",
+      "explanation": "정답: 본초강목(本草綱目)\n방제 11,096종, 그림 1,160폭."
+    },
+    {
+      "id": 5,
       "question": "[PPT 1-2 p.26] 우리나라 본초서와 시대의 짝이 틀린 것은?",
       "choices": [
         "향약구급방 – 고려",
@@ -16,7 +68,7 @@
       "explanation": "정답: '동의보감 – 고려' (틀림)\n동의보감은 조선 허준(광해군 3년)."
     },
     {
-      "id": 2,
+      "id": 6,
       "question": "[PPT 1-2 p.26] 한의삼서(漢醫三書)에 속하지 않는 것은?",
       "choices": [
         "황제내경",
@@ -28,7 +80,7 @@
       "explanation": "정답: 본초강목\n한의삼서: 황제내경, 상한론, 신농본초경."
     },
     {
-      "id": 3,
+      "id": 7,
       "question": "[PPT 1-2 p.26] 본초학(本草學)의 정의에서 개개 생약에 대해 연구하는 항목으로 PPT에 없는 것은?",
       "choices": [
         "기원·역사·채취",
@@ -41,7 +93,7 @@
       "explanation": "정답: 전합성 경로\n본초학: 한의약학에서 쓰는 내용을 중심으로 기원, 역사, 채취, 수치, 저장, 감별, 성미, 귀경, 효능·효과, 임상응용, 용법용량, 사용상 주의를 연구."
     },
     {
-      "id": 4,
+      "id": 8,
       "question": "[PPT 1-2 p.27] 본초학(Bon-Cho-Hak)에서 생약의 성질을 설명하는 개념이 아닌 것은?",
       "choices": [
         "사기(四氣, Four Natures)",
@@ -53,20 +105,7 @@
       "explanation": "정답: IC50\n감초 예: 맛 sweet·plain, 귀경 심·폐·비·위, 효능 보중·윤폐·진해·청열·해독·완급지통·조화제약. 꿀로 볶으면(炙甘草) cool → warm."
     },
     {
-      "id": 5,
-      "question": "[PPT 1-2 p.28·32] 감초의 라틴 생약명은?",
-      "choices": [
-        "Glycyrrhizae Radix",
-        "Puerariae Radix",
-        "Osterici Radix",
-        "Sophorae Radix",
-        "Trichosanthis Radix"
-      ],
-      "answer": "Glycyrrhizae Radix",
-      "explanation": "정답: Glycyrrhizae Radix\nPPT p.32 예제(생약학문제집). Puerariae Radix는 갈근. 현행 KP 각조는 'Glycyrrhizae Radix et Rhizoma'(뿌리 및 뿌리줄기)."
-    },
-    {
-      "id": 6,
+      "id": 9,
       "question": "[PPT 1-2 p.28] 감초의 속명 Glycyrrhiza와 종소명 glabra의 뜻으로 옳은 것은?",
       "choices": [
         "Glycyrrhiza = glycys(달다) + rhiza(뿌리), glabra = 털이 없는",
@@ -78,7 +117,7 @@
       "explanation": "정답: 첫 번째\nGlycyrrhiza: glycys('sweet') + rhiza('root')(그리스어), glabra: hairless."
     },
     {
-      "id": 7,
+      "id": 10,
       "question": "[PPT 1-2 p.28·32] 감초의 기원으로 옳은 것은?",
       "choices": [
         "Glycyrrhiza glabra 또는 G. uralensis의 뿌리 (Leguminosae)",
@@ -90,7 +129,7 @@
       "explanation": "정답: G. glabra 또는 G. uralensis의 뿌리, 콩과\n현행 KP: 감초 G. uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기."
     },
     {
-      "id": 8,
+      "id": 11,
       "question": "[PPT 1-2 p.28·32] 감초의 triterpene계 주성분(감미 성분)은?",
       "answer": [
         "glycyrrhizin",
@@ -101,7 +140,7 @@
       "explanation": "정답: glycyrrhizin (= glycyrrhizic acid = glycyrrhizinic acid = glycyrrhetic acid 배당체)\n함량 3~7%, 설탕의 40~50배 단맛. PPT 1-2: 2.0% 이상, 현행 KP 각조: glycyrrhizic acid 2.5% 이상."
     },
     {
-      "id": 9,
+      "id": 12,
       "question": "[PPT 1-2 p.34] 감초나 감초추출물을 오래 복용하면 부종·저칼륨혈증·근수축 이상 등 (위)알도스테론증을 일으킬 수 있다. 그 원인 성분은?",
       "choices": [
         "glycyrrhizin",
@@ -114,7 +153,7 @@
       "explanation": "정답: glycyrrhizin\nPPT p.27: 'Long duration of its use can cause aldosterone syndrome such as edema'."
     },
     {
-      "id": 10,
+      "id": 13,
       "question": "[PPT 1-2 p.34] glycyrrhizin의 가수분해 생성물(aglycone)은?",
       "choices": [
         "glycyrrhetic acid",
@@ -127,20 +166,7 @@
       "explanation": "정답: glycyrrhetic acid (= glycyrrhetinic acid)\n당(GlcA-GlcA)이 떨어진 triterpene. 단맛이 없고 용혈작용이 있다."
     },
     {
-      "id": 11,
-      "question": "[PPT 1-2 p.31] 감초 flavonoid 성분과 그 골격의 짝이 틀린 것은?",
-      "choices": [
-        "liquiritin – flavanone",
-        "isoliquiritigenin – chalcone",
-        "formononetin – isoflavone",
-        "glabridin – isoflavan",
-        "licochalcone A – 3-arylcoumarin"
-      ],
-      "answer": "licochalcone A – 3-arylcoumarin",
-      "explanation": "정답: 'licochalcone A – 3-arylcoumarin' (틀림)\nlicochalcone A·B는 chalcone. 3-arylcoumarin: glycyrol, isoglycyrol, glycycoumarin. liquiritigenin은 Cd·As 해독."
-    },
-    {
-      "id": 12,
+      "id": 14,
       "question": "[PPT 1-2 p.29] 감초 flavonoid 분획의 활성으로 PPT에 나온 것은?",
       "choices": [
         "항궤양, 위산분비 억제, 진경 작용",
@@ -150,32 +176,6 @@
       ],
       "answer": "항궤양, 위산분비 억제, 진경 작용",
       "explanation": "정답: 항궤양·위산분비 억제·진경\nglycyrrhizin·glycyrrhetic acid: corticosteroid 유사, estrogen 유사, 항염, 항알레르기, 해독, 지질저하, 간세포 보호, 상처치유. 갈근탕·소청룡탕·작약감초탕 등 대부분 처방에 배합."
-    },
-    {
-      "id": 13,
-      "question": "[기출 2021-2·2023-2] 다음 구조('6원환 5개 + 당')의 성분 계열은?\n[[img:pharmacognosy/images/2023-mid-q13.png|구조식]]",
-      "choices": [
-        "quinone",
-        "triterpenoid glycoside",
-        "coumarin",
-        "isoflavone",
-        "lignan"
-      ],
-      "answer": "triterpenoid glycoside",
-      "explanation": "정답: triterpenoid glycoside\nPPT 1-2 p.36 예제와 같은 형식(glycyrrhizin 구조 — pentacyclic triterpene + GlcA-GlcA). 족보 그림은 ursane형 배당체.\n출처: 2021-2 중간 13 · 2023-2 중간 13 (2회 출제)"
-    },
-    {
-      "id": 14,
-      "question": "[PPT 1-2 p.36] 감초의 daidzein·formononetin이 속하는 성분계열은?",
-      "choices": [
-        "isoflavonoid",
-        "quinolone alkaloid",
-        "arylheptanoid",
-        "phthalide",
-        "tropane alkaloid"
-      ],
-      "answer": "isoflavonoid",
-      "explanation": "정답: isoflavonoid\nPPT p.36 예제(생약학문제집)."
     },
     {
       "id": 15,

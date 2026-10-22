@@ -1,0 +1,331 @@
+{
+  "deckId": "pharmacognosy-type-08-name-1",
+  "subject": "생약학",
+  "title": "⑧ 과명·학명·라틴명 1/9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n잎 → ?",
+      "answer": [
+        "Folium",
+        "Folia"
+      ],
+      "explanation": "정답: Folium\n예: Nicotianae Folium(연초엽), Sennae Folium.\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 2,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n과실 → ?",
+      "answer": [
+        "Fructus"
+      ],
+      "explanation": "정답: Fructus\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2020-2·2023-1] 약용부위의 라틴 생약명을 적으시오.\n(예: 뿌리 Radix / 근경 Rhizoma / 종자 Semen / 꽃 Flos)\n전초 → ?",
+      "answer": [
+        "Herba"
+      ],
+      "explanation": "정답: Herba\n출처: 2020-2 중간 주10 · 2023-1 중간 주관7 (2회 출제)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT 1-2 p.24·28] 라틴 생약명과 약용부위의 짝이 틀린 것은?",
+      "choices": [
+        "Glycyrrhizae Radix – 뿌리",
+        "Cinchonae Cortex – 수피",
+        "Strychni Semen – 종자",
+        "Nicotianae Folium – 잎",
+        "Belladonnae Radix – 꽃"
+      ],
+      "answer": "Belladonnae Radix – 꽃",
+      "explanation": "정답: 'Belladonnae Radix – 꽃' (틀림)\nRadix는 뿌리. Cortex = 수피(피), Semen = 종자, Folium = 잎, Flos = 꽃, Fructus = 과실, Herba = 전초, Rhizoma = 근경."
+    },
+    {
+      "id": 5,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n미나리과(산형과) / 보존명 Umbelliferae / 합법명 (   )",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Apiaceae",
+      "explanation": "정답: Apiaceae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 6번 · 2020-2 중간 주8(합법명 주관식) (2회 출제)"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n국화과 / 보존명 (   ) / 합법명 Asteraceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Compositae",
+      "explanation": "정답: Compositae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 7번 · 2020-2 중간 주8(보존명 주관식) (2회 출제)"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n십자화과 / 보존명 Cruciferae / 합법명 (   )",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Brassicaceae",
+      "explanation": "정답: Brassicaceae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 8번 · 2020-2 중간 주8(합법명 주관식) (2회 출제)"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n야자과(종려과) / 보존명 (   ) / 합법명 Arecaceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Palmae",
+      "explanation": "정답: Palmae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 9번"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2025-2] 빈칸(과명 / 보존명 / 합법명)에 알맞은 것을 고르시오.\n콩과(두과) / 보존명 (   ) / 합법명 Fabaceae",
+      "choices": [
+        "Leguminosae",
+        "Compositae",
+        "Apiaceae",
+        "Palmae",
+        "Brassicaceae"
+      ],
+      "answer": "Leguminosae",
+      "explanation": "정답: Leguminosae\nPPT 1-2 p.11 표: 국화과 Compositae/Asteraceae, 꿀풀과 Labiatae/Lamiaceae, 물레나물과 Guttiferae/Clusiaceae, 미나리과 Umbelliferae/Apiaceae, 십자화과 Cruciferae/Brassicaceae, 야자과 Palmae/Arecaceae, 콩과 Leguminosae/Fabaceae, 화본과 Gramineae/Poaceae.\n출처: 2025-2 중간 10번"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2020-2] 국화과의 합법명(legitimate name)은?",
+      "answer": [
+        "Asteraceae"
+      ],
+      "explanation": "정답: Asteraceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 물레나물과의 보존명(conserved name)은?",
+      "answer": [
+        "Guttiferae"
+      ],
+      "explanation": "정답: Guttiferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2020-2] 물레나물과의 합법명(legitimate name)은?",
+      "answer": [
+        "Clusiaceae"
+      ],
+      "explanation": "정답: Clusiaceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2020-2] 산형과(미나리과)의 보존명(conserved name)은?",
+      "answer": [
+        "Umbelliferae"
+      ],
+      "explanation": "정답: Umbelliferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2020-2] 십자화과의 보존명(conserved name)은?",
+      "answer": [
+        "Cruciferae"
+      ],
+      "explanation": "정답: Cruciferae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2020-2] 벼과(화본과)의 보존명(conserved name)은?",
+      "answer": [
+        "Gramineae"
+      ],
+      "explanation": "정답: Gramineae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2020-2] 벼과(화본과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Poaceae"
+      ],
+      "explanation": "정답: Poaceae\n보존명은 -ae로 끝나는 옛 이름(Compositae, Labiatae, Guttiferae, Umbelliferae, Cruciferae, Palmae, Leguminosae, Gramineae), 합법명은 대표 속 이름 + -aceae.\n출처: 2020-2 중간 주8"
+    },
+    {
+      "id": 17,
+      "question": "[기출 2021-2·2023-2] True or False\n꿀풀과의 보존명은 Lamiaceae이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\n꿀풀과(순형과): 보존명 Labiatae, 합법명 Lamiaceae.\n출처: 2021-2 중간 2-4) · 2023-2 중간 2-2) (2회 출제)"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2023-1] True or False\n꿀풀과의 보존명은 Labiatae이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\n출처: 2023-1 중간 주관2-2"
+    },
+    {
+      "id": 19,
+      "question": "[PPT 1-2 p.11] 콩과(두과)의 합법명(legitimate name)은?",
+      "answer": [
+        "Fabaceae"
+      ],
+      "explanation": "정답: Fabaceae (보존명 Leguminosae)\n감초(Glycyrrhiza)가 콩과 식물이다."
+    },
+    {
+      "id": 20,
+      "question": "[PPT 1-2 p.11] 과명 – 보존명 – 합법명의 짝이 틀린 것은?",
+      "choices": [
+        "꿀풀과 – Labiatae – Lamiaceae",
+        "야자과 – Palmae – Arecaceae",
+        "화본과 – Gramineae – Poaceae",
+        "십자화과 – Cruciferae – Brassicaceae",
+        "물레나물과 – Umbelliferae – Clusiaceae"
+      ],
+      "answer": "물레나물과 – Umbelliferae – Clusiaceae",
+      "explanation": "정답: '물레나물과 – Umbelliferae – Clusiaceae' (틀림)\n물레나물과의 보존명은 Guttiferae. Umbelliferae는 미나리과(산형과)."
+    },
+    {
+      "id": 21,
+      "question": "[PPT 1-2 p.28·32] 감초의 라틴 생약명은?",
+      "choices": [
+        "Glycyrrhizae Radix",
+        "Puerariae Radix",
+        "Osterici Radix",
+        "Sophorae Radix",
+        "Trichosanthis Radix"
+      ],
+      "answer": "Glycyrrhizae Radix",
+      "explanation": "정답: Glycyrrhizae Radix\nPPT p.32 예제(생약학문제집). Puerariae Radix는 갈근. 현행 KP 각조는 'Glycyrrhizae Radix et Rhizoma'(뿌리 및 뿌리줄기)."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.28] secoiridoid가 많이 존재하는 과가 아닌 것은?",
+      "choices": [
+        "Gentianaceae",
+        "Rubiaceae",
+        "Oleaceae",
+        "Cornaceae",
+        "Liliaceae"
+      ],
+      "answer": "Liliaceae",
+      "explanation": "정답: Liliaceae\nPPT p.28: Gentianaceae, Rubiaceae, Oleaceae, Cornaceae."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.36] 과(科)별 phytoalexin의 화학 계열 짝으로 옳은 것은?",
+      "choices": [
+        "Solanaceae – sesquiterpene, Leguminosae – isoflavonoid",
+        "Solanaceae – isoflavonoid, Leguminosae – sesquiterpene",
+        "Solanaceae – alkaloid, Leguminosae – coumarin",
+        "둘 다 steroid"
+      ],
+      "answer": "Solanaceae – sesquiterpene, Leguminosae – isoflavonoid",
+      "explanation": "정답: 가지과 – sesquiterpene, 콩과 – isoflavonoid"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.85] digoxin을 얻는 기원 식물의 학명은? (속명 종소명)",
+      "answer": [
+        "Digitalis lanata",
+        "D. lanata",
+        "털디기탈리스"
+      ],
+      "explanation": "정답: Digitalis lanata (털디기탈리스)\nlanatoside C에서 glucose와 acetyl기가 떨어진 것이 digoxin. Digitalis purpurea(디기탈리스)는 digitoxin."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.90] withanolide를 주로 분리하는 과(科)는?",
+      "choices": [
+        "Solanaceae (가지과)",
+        "Gentianaceae (용담과)",
+        "Rutaceae (운향과)",
+        "Cucurbitaceae (박과)",
+        "Lauraceae (녹나무과)"
+      ],
+      "answer": "Solanaceae (가지과)",
+      "explanation": "정답: Solanaceae\nWithania, Physalis, Acnistus, Nicandra, Lycium, Datura속."
+    },
+    {
+      "id": 26,
+      "question": "[기출 2023-1·2023-2] coumarin이 주로 분포하는 식물의 과명이 아닌 것은?",
+      "choices": [
+        "미나리과",
+        "국화과",
+        "꿀풀과",
+        "운향과",
+        "콩과"
+      ],
+      "answer": "꿀풀과",
+      "explanation": "정답: 꿀풀과\nPPT p.7: Umbelliferae(미나리과·산형과), Rutaceae(운향과), Leguminosae(콩과), Compositae(국화과)에 널리 분포.\n출처: 2023-2 중간 21 · 2023-1 중간 객관10 (2회 출제)"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2] coumarin이 주로 분포하는 식물의 과명을 하나 적으시오.",
+      "answer": [
+        "산형과",
+        "미나리과",
+        "운향과",
+        "콩과",
+        "국화과",
+        "Umbelliferae",
+        "Apiaceae",
+        "Rutaceae",
+        "Leguminosae",
+        "Fabaceae",
+        "Compositae",
+        "Asteraceae"
+      ],
+      "explanation": "정답 예: 산형과(미나리과)\nPPT p.7: Umbelliferae, Rutaceae, Leguminosae, Compositae — 이 중 하나면 정답.\n출처: 2020-2 중간 주6"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.12] 참당귀의 학명은? (속명 종소명)",
+      "answer": [
+        "Angelica gigas",
+        "Angelica gigas Nakai",
+        "A. gigas"
+      ],
+      "explanation": "정답: Angelica gigas Nakai\n일당귀는 Angelica acutiloba Kitagawa."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.13] humulone·lupulone을 함유한 홉의 학명은? (속명 종소명)",
+      "answer": [
+        "Humulus lupulus",
+        "H. lupulus"
+      ],
+      "explanation": "정답: Humulus lupulus\nhumulene(sesquiterpene, Ch2)도 홉 정유 성분이다."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.21] alizarin형 anthraquinone이 있는 과는?",
+      "choices": [
+        "Rubiaceae, Bignoniaceae, Verbenaceae",
+        "Polygonaceae, Rhamnaceae",
+        "Leguminosae, Liliaceae",
+        "Compositae, Umbelliferae"
+      ],
+      "answer": "Rubiaceae, Bignoniaceae, Verbenaceae",
+      "explanation": "정답: 꼭두서니과, 능소화과, 마편초과"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "deckId": "pharmacognosy-type-02-process-old-1",
+  "subject": "생약학",
+  "title": "② 경로 과정 · 기존 문제 1/4",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.8·16] terpene 각 계열이 isoprene 단위들로부터 만들어지는 결합 규칙(isoprene rule)은?",
+      "choices": [
+        "head-to-tail 결합",
+        "tail-to-tail 결합만",
+        "head-to-head 결합만",
+        "C-N 결합",
+        "산화적 짝지음"
+      ],
+      "answer": "head-to-tail 결합",
+      "explanation": "정답: head-to-tail 결합\nPPT p.16: 'Each group of terpenes arises from the head-to-tail condensation of a variable number of isoprene units'."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.11] MEP 경로의 첫 중간체 DXP의 이름은?",
+      "choices": [
+        "1-deoxy-D-xylulose-5-phosphate",
+        "dimethylallyl diphosphate",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate",
+        "2-methyl-D-erythritol 4-phosphate",
+        "hydroxymethylglutaryl-CoA"
+      ],
+      "answer": "1-deoxy-D-xylulose-5-phosphate",
+      "explanation": "정답: 1-deoxy-D-xylulose-5-phosphate\nMEP는 DXP가 NADPH로 환원·재배열된 2-methyl-D-erythritol 4-phosphate. 경로 이름의 유래."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.11·14] MVA 경로 첫 단계에서 acetyl-CoA 두 분자가 축합하여 acetoacetyl-CoA가 되는 반응은?",
+      "choices": [
+        "Claisen 반응",
+        "Aldol 반응",
+        "Diels-Alder 반응",
+        "Michael 반응",
+        "Friedel-Crafts 반응"
+      ],
+      "answer": "Claisen 반응",
+      "explanation": "정답: Claisen 반응\n이어서 세 번째 acetyl-CoA가 stereospecific aldol 반응으로 붙어 HMG-CoA가 된다."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.11·14] HMG-CoA를 NADPH로 환원하여 mevalonic acid를 만드는 효소는?",
+      "answer": [
+        "HMG-CoA reductase",
+        "HMG-CoA 환원효소",
+        "HMG-CoA환원효소"
+      ],
+      "explanation": "정답: HMG-CoA reductase\nthioester → (mevaldic acid hemithioacetal) → aldehyde → alcohol로 NADPH 2분자를 써서 환원. (참고: statin계 고지혈증약이 이 효소를 저해)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.11·14] Mevalonate 경로의 순서로 옳은 것은?",
+      "choices": [
+        "acetyl-CoA → acetoacetyl-CoA → HMG-CoA → mevalonic acid → IPP ⇌ DMAPP",
+        "acetyl-CoA → HMG-CoA → acetoacetyl-CoA → mevalonic acid → IPP ⇌ DMAPP",
+        "acetyl-CoA → mevalonic acid → HMG-CoA → IPP ⇌ DMAPP",
+        "pyruvate → DXP → HMG-CoA → mevalonic acid → IPP"
+      ],
+      "answer": "acetyl-CoA → acetoacetyl-CoA → HMG-CoA → mevalonic acid → IPP ⇌ DMAPP",
+      "explanation": "정답: acetyl-CoA → acetoacetyl-CoA → HMG-CoA → (mevaldic acid) → mevalonic acid(MVA) → (2×ATP 인산화, 탈탄산) → IPP ⇌ DMAPP"
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.16] DMAPP와 IPP가 결합하여 GPP가 되는 반응 기전으로 옳은 것은?",
+      "choices": [
+        "DMAPP의 allylic cation에 IPP 이중결합이 친전자성 첨가 → 3차 양이온 → 입체특이적 양성자 이탈",
+        "IPP의 음이온이 DMAPP에 친핵 치환 후 탈탄산",
+        "두 분자의 라디칼 짝지음",
+        "Claisen 축합 후 환원"
+      ],
+      "answer": "DMAPP의 allylic cation에 IPP 이중결합이 친전자성 첨가 → 3차 양이온 → 입체특이적 양성자 이탈",
+      "explanation": "정답: 첫 번째\nPPT p.16 'electrophile addition giving tertiary cation' → 'stereospecific loss of proton' → geranyl PP."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.22] irregular monoterpene의 생합성 특징은?",
+      "choices": [
+        "GPP를 전구체로 하지 않고 DMAPP 2분자가 축합하여 생성",
+        "FPP가 고리화하여 생성",
+        "GPP에서 iridoid 고리가 형성",
+        "acetyl-CoA 5분자가 축합"
+      ],
+      "answer": "GPP를 전구체로 하지 않고 DMAPP 2분자가 축합하여 생성",
+      "explanation": "정답: DMAPP 2분자 축합\n예: 제충국의 pyrethrins(chrysanthemic acid). 일반 monoterpene은 head-to-tail로 생긴 GPP에서 출발."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.24] iridoid 생합성에서 hydroxylation·oxidation을 거쳐 iridodial로 고리화되는 출발 monoterpene alcohol은?",
+      "choices": [
+        "geraniol",
+        "menthol",
+        "limonene",
+        "camphor",
+        "farnesol"
+      ],
+      "answer": "geraniol",
+      "explanation": "정답: geraniol\ngeraniol → (수산화·산화) → 고리화 → iridodial(keto ⇌ enol ⇌ hemiacetal형)."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.25] loganin의 cyclopentane 고리가 열려 생기는 secoiridoid는?",
+      "choices": [
+        "secologanin",
+        "gentiopicroside",
+        "swertiamarin",
+        "iridodial",
+        "catalpol"
+      ],
+      "answer": "secologanin",
+      "explanation": "정답: secologanin\nGPP → (nerol) → … → loganin → secologanin. 산수유의 지표성분이 loganin."
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.28] 인동과 식물 등에 있으며 모든 secoiridoid의 중간체이자, tryptamine과 결합해 monoterpene indole alkaloid를 만드는 화합물은?",
+      "answer": [
+        "secologanin",
+        "세코로가닌"
+      ],
+      "explanation": "정답: secologanin"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2025-2] [19~21] 다음 설명에서 알맞은 것을 고르시오.\n용담, 겐티아나, 당약에 존재하며 monoterpene indole alkaloid의 생합성의 중요한 전구체이다.",
+      "choices": [
+        "Limonoid",
+        "ecdysteroid",
+        "quassinoid",
+        "secoiridoid",
+        "cardiac glycoside"
+      ],
+      "answer": "secoiridoid",
+      "explanation": "정답: secoiridoid\n⚠ PPT 대조: PPT: secologanin = 모든 secoiridoid의 중간체, monoterpene indole alkaloid의 중요한 전구체. 용담·겐티아나·당약 — gentiopicroside 등.\n출처: 2025-2 중간 19번"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.39] elemane형 sesquiterpene은 germacradiene이 어떤 반응을 거쳐 생기는가?",
+      "choices": [
+        "Cope rearrangement",
+        "transannular cyclization",
+        "Claisen 축합",
+        "산화적 짝지음",
+        "1,2-methyl 재배열"
+      ],
+      "answer": "Cope rearrangement",
+      "explanation": "정답: Cope rearrangement\neudesmane은 germacradiene의 transannular cyclization으로 이환(bicyclic) 형성."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.52] paclitaxel 생합성에서 diterpene 골격(taxadiene) 외에 곁사슬 일부를 공급하는 원료는?",
+      "choices": [
+        "L-Phe (와 acetyl-CoA)",
+        "L-Trp",
+        "L-Orn",
+        "malonyl-CoA만",
+        "DMAPP만"
+      ],
+      "answer": "L-Phe (와 acetyl-CoA)",
+      "explanation": "정답: L-Phe(+ acetyl-CoA)\nPPT p.52 그림: taxadiene → 10-deacetylbaccatin III → (L-Phe, acetyl-CoA 유래 곁사슬) → paclitaxel. docetaxel(taxotere)은 반합성 유도체."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.56] FPP 2분자로 squalene을 만드는 squalene synthase 반응의 중간체로, cyclopropane 고리를 가진 것은?",
+      "choices": [
+        "presqualene PP",
+        "2,3-oxidosqualene",
+        "lanosterol",
+        "GGPP",
+        "phytoene"
+      ],
+      "answer": "presqualene PP",
+      "explanation": "정답: presqualene PP\nFPP + FPP → presqualene PP(cyclopropane) → 1,2-alkyl shift(cyclobutane) → 결합 절단으로 allylic cation → NADPH의 hydride로 정리 → squalene."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.57] squalene을 2,3-oxidosqualene으로 바꾸는 효소는?",
+      "answer": [
+        "squalene monooxygenase",
+        "squalene epoxidase",
+        "스쿠알렌 모노옥시게나아제"
+      ],
+      "explanation": "정답: squalene monooxygenase (squalene epoxidase)\n이후 cholesterol(동물), stigmasterol(식물), ergosterol(균류)로."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.79] furostane형 saponin(protodioscin)이 spirostane형(dioscin)으로 바뀌는 데 관여하는 효소는?",
+      "choices": [
+        "β-glucosidase",
+        "HMG-CoA reductase",
+        "squalene synthase",
+        "PAL",
+        "Na⁺,K⁺-ATPase"
+      ],
+      "answer": "β-glucosidase",
+      "explanation": "정답: β-glucosidase\nC-26의 glucose가 떨어지면 F환(spiroketal)이 닫힌다."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.3] Shikimate 경로 첫 단계에서 PEP와 D-erythrose 4-P가 aldol형 반응으로 축합해 생기는 C7 화합물의 약어는?",
+      "answer": [
+        "DAHP",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate"
+      ],
+      "explanation": "정답: DAHP (3-Deoxy-D-arabino-heptulosonic acid 7-phosphate)\nPPT p.3 약어 정리: EPSP, PEP, DAHP."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.3] 다음 순서의 빈칸에 들어갈 화합물은?\nDAHP → (   ) → 3-dehydroshikimic acid → shikimic acid",
+      "choices": [
+        "3-dehydroquinic acid",
+        "chorismic acid",
+        "prephenic acid",
+        "EPSP",
+        "anthranilic acid"
+      ],
+      "answer": "3-dehydroquinic acid",
+      "explanation": "정답: 3-dehydroquinic acid\nDAHP가 산화(NAD⁺)·인산 제거 후 분자 내 aldol로 고리를 닫아 3-dehydroquinic acid가 되고, 탈수되어 3-dehydroshikimic acid, 환원되어 shikimic acid가 된다."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.3] shikimic acid 3-phosphate와 PEP를 결합시켜 EPSP를 만드는 효소의 이름은?",
+      "answer": [
+        "EPSP synthase",
+        "EPSP 합성효소"
+      ],
+      "explanation": "정답: EPSP synthase\nPPT p.3 그림의 화살표에 표시된 효소. (참고: 제초제 glyphosate가 이 효소를 저해한다.)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.3] EPSP에서 인산(HOP)이 빠져 생기며, Phe·Tyr·Trp 생합성의 공통 분기점이 되는 화합물은?",
+      "choices": [
+        "chorismic acid",
+        "prephenic acid",
+        "shikimic acid",
+        "phenylpyruvic acid",
+        "DAHP"
+      ],
+      "answer": "chorismic acid",
+      "explanation": "정답: chorismic acid\nchorismic acid → prephenic acid → Phe·Tyr, chorismic acid → anthranilic acid → Trp로 갈라진다."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.3] 다음 구조의 화합물 이름은? (Shikimate 경로의 분기점 화합물)\n[[smi:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1]]",
+      "answer": [
+        "chorismic acid",
+        "chorismate",
+        "코리스민산"
+      ],
+      "explanation": "정답: chorismic acid\n고리에 COOH, OH, 그리고 enolpyruvyl ether(–O–C(=CH₂)COOH)가 있는 것이 특징이다."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.3] Shikimate 경로의 순서로 옳은 것은?",
+      "choices": [
+        "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → EPSP → chorismic acid → prephenic acid",
+        "DAHP → shikimic acid → 3-dehydroquinic acid → 3-dehydroshikimic acid → EPSP → chorismic acid → prephenic acid",
+        "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → prephenic acid → chorismic acid → EPSP",
+        "DAHP → 3-dehydroshikimic acid → 3-dehydroquinic acid → shikimic acid → EPSP → prephenic acid → chorismic acid"
+      ],
+      "answer": "DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → EPSP → chorismic acid → prephenic acid",
+      "explanation": "정답: DAHP → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → (shikimic acid 3-P) → EPSP → chorismic acid → prephenic acid\n이후 phenylpyruvic acid → L-Phe, 4-hydroxyphenylpyruvic acid → L-Tyr."
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.4] Tryptophan은 chorismic acid에서 어떤 중간체를 거쳐 만들어지는가?",
+      "choices": [
+        "anthranilic acid",
+        "prephenic acid",
+        "phenylpyruvic acid",
+        "cinnamic acid",
+        "p-coumaric acid"
+      ],
+      "answer": "anthranilic acid",
+      "explanation": "정답: anthranilic acid\nchorismic acid → anthranilic acid → … → L-Trp (PPT p.4 'Shikimate pathway-tryptophan'). prephenic acid 쪽은 Phe·Tyr로 간다."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.5] Shikimate 생합성 경로 그림의 효소 약어 PAL의 원래 이름은?",
+      "answer": [
+        "phenylalanine ammonia lyase",
+        "phenylalanine ammonia-lyase",
+        "페닐알라닌 암모니아 리아제"
+      ],
+      "explanation": "정답: Phenylalanine ammonia lyase\nL-Phe에서 NH₃를 떼어 cinnamic acid를 만드는 효소다. phenylpropanoid 생합성의 첫 효소."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.5·6] 다음 반응에서 PAL이 일으키는 반응의 종류는?\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)/C=C/c1ccccc1|PAL|− NH₃]]",
+      "choices": [
+        "탈암모니아 (deamination)",
+        "탈탄산 (decarboxylation)",
+        "수산화 (hydroxylation)",
+        "메틸화 (methylation)",
+        "산화적 짝지음 (oxidative coupling)"
+      ],
+      "answer": "탈암모니아 (deamination)",
+      "explanation": "정답: 탈암모니아\nPPT p.6: phenylpropanoid는 'phenylalanine, tyrosine의 탈암모니아 반응에 의하여 생성되는 C6-C3 화합물'."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.5] 그림 36(Shikimate 생합성 경로 화합물)에서 coniferyl alcohol의 직접 전구체로 그려진 것은?",
+      "choices": [
+        "ferulic acid",
+        "cinnamaldehyde",
+        "umbelliferone",
+        "benzoic acid",
+        "anethole"
+      ],
+      "answer": "ferulic acid",
+      "explanation": "정답: ferulic acid\nPhe → cinnamic acid → p-coumaric acid → ferulic acid → coniferyl alcohol. ferulic acid에서 vanillin도 만들어진다."
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.5] 그림 36에서 coniferyl alcohol로부터 만들어지는 것이 아닌 것은?",
+      "choices": [
+        "lignin",
+        "lignan (arctiin, gomisin A)",
+        "eugenol",
+        "umbelliferone"
+      ],
+      "answer": "umbelliferone",
+      "explanation": "정답: umbelliferone\numbelliferone은 p-coumaric acid(2-OGlc 유도체)에서 고리가 닫혀 생기고, 여기에 DMAPP가 붙어 psoralen(furanocoumarin)이 된다. coniferyl alcohol에서는 lignin, lignan(2분자 결합), eugenol이 만들어진다."
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.5·6] cinnamoyl-CoA의 곁사슬이 짧아져 생기는 C6-C1 화합물로 그림 36에 나온 것은?",
+      "choices": [
+        "benzoic acid",
+        "cinnamaldehyde",
+        "anethole",
+        "p-coumaric acid",
+        "coniferyl alcohol"
+      ],
+      "answer": "benzoic acid",
+      "explanation": "정답: benzoic acid\nPPT p.6: C6-C1 화합물은 C6-C3 화합물이 β-oxidation을 받아 생성되며, benzoic acid·benzyl alcohol·benzaldehyde 유도체로 유리형 또는 배당체로 존재한다."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.6] C6-C1 화합물(benzoic acid, vanillin 등)은 C6-C3 화합물이 어떤 반응을 받아 생기는가?",
+      "choices": [
+        "β-oxidation",
+        "탈탄산",
+        "고리화(lactone 형성)",
+        "산화적 짝지음",
+        "prenylation"
+      ],
+      "answer": "β-oxidation",
+      "explanation": "정답: β-oxidation\n곁사슬에서 탄소 2개가 떨어져 C6-C1이 된다. vanillin은 식품·의약품의 풍향제로 쓰인다."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.9] umbelliferone에 DMAPP가 C-alkylation(prenylation)되어 생기는 furanocoumarin 생합성 중간체는?",
+      "choices": [
+        "demethylsuberosin",
+        "marmesin",
+        "angelicin",
+        "bergapten",
+        "scopoletin"
+      ],
+      "answer": "demethylsuberosin",
+      "explanation": "정답: demethylsuberosin\n페놀 OH의 ortho 자리(6번)에 prenyl기가 붙는다. 이어서 O₂·NADPH로 고리가 닫혀 marmesin이 된다."
+    }
+  ]
+}

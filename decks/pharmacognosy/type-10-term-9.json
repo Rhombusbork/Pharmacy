@@ -1,0 +1,391 @@
+{
+  "deckId": "pharmacognosy-type-10-term-9",
+  "subject": "생약학",
+  "title": "⑩ 정의·용어·특징 9/10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.16] cocaine을 바탕으로 만든 국소마취제가 아닌 것은?",
+      "choices": [
+        "procaine",
+        "benzocaine",
+        "lidocaine",
+        "bupivacaine",
+        "tropicamide"
+      ],
+      "answer": "tropicamide",
+      "explanation": "정답: tropicamide (atropine 유래 산동제)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.16] cocaine 유도체 목록에 국소마취제와 함께 실린 항부정맥제는?",
+      "choices": [
+        "procainamide, mexiletine, flecainide",
+        "atropine, scopolamine",
+        "digoxin, digitoxin",
+        "quinine, chloroquine"
+      ],
+      "answer": "procainamide, mexiletine, flecainide",
+      "explanation": "정답: procainamide(PPT 표기 procamide), mexiletine, flecainide, tocainide"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.19·20] 코니움실(hemlock, Conium maculatum)의 coniine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "진경제이며, piperidine 고리를 가지지만 lysine에서 유래하지 않는다(octanoic acid + transamination)",
+        "lysine에서 유래하는 대표 piperidine",
+        "석류피의 구충 성분",
+        "tropane alkaloid"
+      ],
+      "answer": "진경제이며, piperidine 고리를 가지지만 lysine에서 유래하지 않는다(octanoic acid + transamination)",
+      "explanation": "정답: 첫 번째 — acetate 유래 alkaloid(amination, 그림 104)"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.22] quinolizidine alkaloid의 정의는?",
+      "choices": [
+        "질소를 포함한 이환(bicyclic) 헤테로고리",
+        "질소 2개의 5원 방향환",
+        "indole + pyrrole",
+        "단일 piperidine"
+      ],
+      "answer": "질소를 포함한 이환(bicyclic) 헤테로고리",
+      "explanation": "정답: bicyclic nitrogen-containing heterocycle"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.22] huperzine A에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "Huperzia serrata(= Lycopodium serratum)에서 얻는다",
+        "가역적 acetylcholinesterase 저해제",
+        "혈액뇌관문(BBB)을 통과한다",
+        "Alzheimer 치료에 유망",
+        "ornithine에서 유래한 tropane alkaloid이다"
+      ],
+      "answer": "ornithine에서 유래한 tropane alkaloid이다",
+      "explanation": "정답: 마지막 (틀림) — lysine 유래 quinolizidine계\nglutamate 독성에 대한 보호작용도 있다."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.24] nicotinic acid의 다른 이름은?",
+      "choices": [
+        "niacin (vitamin B3)",
+        "vitamin B1 (thiamine)",
+        "vitamin B6",
+        "vitamin C",
+        "vitamin K"
+      ],
+      "answer": "niacin (vitamin B3)",
+      "explanation": "정답: niacin, vitamin B3"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.24] 피마자의 pyridine alkaloid는?",
+      "choices": [
+        "ricinine",
+        "arecoline",
+        "anabasine",
+        "nornicotine",
+        "trigonelline"
+      ],
+      "answer": "ricinine",
+      "explanation": "정답: ricinine"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.25] niacin의 기능으로 PPT에 없는 것은?",
+      "choices": [
+        "펠라그라 예방·치료",
+        "말초혈관 확장(편두통, 수족냉증 등)",
+        "콜레스테롤 감소",
+        "관절염 통증 완화",
+        "혈액응고 촉진"
+      ],
+      "answer": "혈액응고 촉진",
+      "explanation": "정답: 혈액응고 촉진 (vitamin K의 역할)"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.27] tyramine의 N,N-dimethyl 유도체인 phenylethylamine은?",
+      "choices": [
+        "hordenine",
+        "dopamine",
+        "synephrine",
+        "mescaline",
+        "ephedrine"
+      ],
+      "answer": "hordenine",
+      "explanation": "정답: hordenine (보리 싹 등)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.28] 다음 구조(ephedrine)에 대한 설명으로 틀린 것은?\n[[smi:CNC(C)C(O)c1ccccc1]]",
+      "choices": [
+        "질소가 고리 밖에 있는 protoalkaloid",
+        "amination 반응으로 만들어지는 alkaloid",
+        "마황(Ephedraceae)의 성분",
+        "α·β 교감신경 흥분, 기관지 확장",
+        "tryptophan에서 유래한다"
+      ],
+      "answer": "tryptophan에서 유래한다",
+      "explanation": "정답: 마지막 (틀림) — Phe 유래(cinnamic acid 경유 C6C1 + pyruvic acid)"
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.28] ephedrine의 입체이성질체로 비충혈 제거제(nasal decongestant)로 쓰이는 것은?",
+      "choices": [
+        "(+)-pseudoephedrine",
+        "(−)-norephedrine",
+        "synephrine",
+        "cathinone",
+        "mescaline"
+      ],
+      "answer": "(+)-pseudoephedrine",
+      "explanation": "정답: pseudoephedrine"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.28] 오수유·진피에 있는 adrenergic stimulant(phenylethylamine)는?",
+      "choices": [
+        "synephrine",
+        "ephedrine",
+        "evodiamine",
+        "hordenine",
+        "dopamine"
+      ],
+      "answer": "synephrine",
+      "explanation": "정답: synephrine\n오수유의 indole alkaloid는 evodiamine·rutaecarpine(p.64)."
+    },
+    {
+      "id": 13,
+      "question": "[기출 2022-2] 빈칸에 알맞은 말을 쓰시오. 다음 화합물들은 (    ) alkaloid의 구조이다.\n[[img:pharmacognosy/images/2022-2-mid-s7.png|구조식]]",
+      "answer": [
+        "benzyltetrahydroisoquinoline",
+        "bisbenzyltetrahydroisoquinoline",
+        "bisbenzylisoquinoline",
+        "benzylisoquinoline"
+      ],
+      "explanation": "정답: benzyltetrahydroisoquinoline\n족보 답: benzyltetrahydroisoquinoline. tubocurarine·curine 등은 이 단위 두 개가 이어진 bisbenzylisoquinoline.\n출처: 2022-2 중간 주관7"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.33] (−)-curine의 다른 이름은?",
+      "choices": [
+        "(−)-(R,R)-bebeerine",
+        "isochondrodendrine",
+        "tubocurarine",
+        "reticuline",
+        "coclaurine"
+      ],
+      "answer": "(−)-(R,R)-bebeerine",
+      "explanation": "정답: bebeerine (bisbenzyltetrahydroisoquinoline)"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.34·35] 백굴채(애기똥풀)의 chelidonine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "benzophenanthridine형, 평활근 이완·진경·지사, 다량에서 혈관운동중추 억제·혼수·마비",
+        "protoberberine형 고미건위제",
+        "phthalideisoquinoline형 지혈제",
+        "morphinan형 진통제"
+      ],
+      "answer": "benzophenanthridine형, 평활근 이완·진경·지사, 다량에서 혈관운동중추 억제·혼수·마비",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.34·35] hydrastine(히드라스티스근)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "phthalideisoquinoline형, 혈관수축에 의한 지혈 작용",
+        "benzophenanthridine형 진경제",
+        "aporphine형 최토제",
+        "morphinan형 진통제"
+      ],
+      "answer": "phthalideisoquinoline형, 혈관수축에 의한 지혈 작용",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.36] berberine과 palmatine의 차이는?",
+      "choices": [
+        "berberine은 R1-R2가 methylenedioxy(–OCH₂O–), palmatine은 OCH₃ 두 개",
+        "palmatine에만 질소가 있다",
+        "berberine은 aporphine이다",
+        "탄소 골격이 완전히 다르다"
+      ],
+      "answer": "berberine은 R1-R2가 methylenedioxy(–OCH₂O–), palmatine은 OCH₃ 두 개",
+      "explanation": "정답: 첫 번째 (jateorrhizine은 OH + OCH₃)"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ① )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "aporphine",
+      "explanation": "정답: aporphine\n⚠ PPT 대조: 그림 ①은 reticuline → isoboldine 다음에 놓인 aporphine 기본 골격(PPT의 aporphine 구조와 동일). 족보 보기 ①은 'benzyltetrahydroisoquinoline'으로 적혀 있어 그림과 맞지 않음.\n✎ 수정사항: 족보 보기 ① 'benzyltetrahydroisoquinoline'을 그림·PPT에 맞춰 'aporphine'으로 고침.\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.37] apomorphine에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "morphine에 뜨거운 산을 가하면 생긴다",
+        "dopaminergic 작용으로 파킨슨병에 사용",
+        "오심·구토를 일으켜 약물중독 시 최토제로 쓰인다",
+        "강력한 진해제로 의존성이 없다"
+      ],
+      "answer": "강력한 진해제로 의존성이 없다",
+      "explanation": "정답: 마지막 (틀림 — noscapine의 설명)\naporphine형. 대뇌 작용으로 발기부전 치료(Uprima®)에도."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.37] Aristolochia속의 aristolochic acid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "신장독성·발암물질이며 phospholipase A2를 억제",
+        "강심 작용",
+        "AChE 저해",
+        "간 보호"
+      ],
+      "answer": "신장독성·발암물질이며 phospholipase A2를 억제",
+      "explanation": "정답: 첫 번째 (aporphine 관련 nitrophenanthrene)"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.38] 아편(양귀비, Papaver somniferum)의 morphinan alkaloid가 아닌 것은?",
+      "choices": [
+        "morphine",
+        "codeine",
+        "thebaine",
+        "berberine"
+      ],
+      "answer": "berberine",
+      "explanation": "정답: berberine (황련·황백)"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ② )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.40] 콜히쿰자의 colchicine에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "phenethylisoquinoline alkaloid이다",
+        "급성 통풍에 쓴다",
+        "항염증·진정 효과가 있다",
+        "독성이 매우 강하다",
+        "tryptophan 유래 indole alkaloid이다"
+      ],
+      "answer": "tryptophan 유래 indole alkaloid이다",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.42] 토근(ipecac)의 emetine에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "monoterpenoid isoquinoline — 아메바성 이질, 오심 유발로 약물중독 시 최토제",
+        "tropane — 산동",
+        "indole — 항암",
+        "purine — 이뇨"
+      ],
+      "answer": "monoterpenoid isoquinoline — 아메바성 이질, 오심 유발로 약물중독 시 최토제",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.42] emetine과 cephaeline의 차이는?",
+      "choices": [
+        "R = CH₃(emetine) / R = H(cephaeline)",
+        "cephaeline에만 질소가 있다",
+        "emetine은 indole이다",
+        "탄소 수가 크게 다르다"
+      ],
+      "answer": "R = CH₃(emetine) / R = H(cephaeline)",
+      "explanation": "정답: 페놀 OH의 메틸화 여부"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.45·46] simple indole alkaloid로 PPT에 나온 것은?",
+      "choices": [
+        "psilocybin, gramine",
+        "reserpine, yohimbine",
+        "quinine, quinidine",
+        "ergotamine, LSD",
+        "camptothecin"
+      ],
+      "answer": "psilocybin, gramine",
+      "explanation": "정답: psilocybin, gramine(PPT 표기 graminine)"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.52·54] vinblastine은 어떤 두 단량체가 결합한 bisindole alkaloid인가?",
+      "choices": [
+        "vindoline + catharanthine",
+        "tabersonine + strictosidine",
+        "reserpine + yohimbine",
+        "quinine + quinidine",
+        "strychnine + brucine"
+      ],
+      "answer": "vindoline + catharanthine",
+      "explanation": "정답: vindoline(Aspidosperma) + catharanthine(Iboga)"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ⑤ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "indole",
+      "explanation": "정답: indole\n출처: 2023-2 중간 29"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.55] quinine과 cinchonidine의 구조 차이는?",
+      "choices": [
+        "quinine은 quinoline 고리에 OCH₃(R = OCH₃), cinchonidine은 R = H",
+        "cinchonidine에만 vinyl기가 있다",
+        "quinine은 indole이다",
+        "탄소 골격이 완전히 다르다"
+      ],
+      "answer": "quinine은 quinoline 고리에 OCH₃(R = OCH₃), cinchonidine은 R = H",
+      "explanation": "정답: 첫 번째\nquinine ↔ quinidine, cinchonidine ↔ cinchonine은 입체이성질체."
+    },
+    {
+      "id": 30,
+      "question": "[기출 2023-2] 29. 다음의 빈칸들을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q29-a.png|q29-a]]\n[[img:pharmacognosy/images/2023-mid-q29-b.png|q29-b]]\n[[img:pharmacognosy/images/2023-mid-q29-c.png|q29-c]]\n[[img:pharmacognosy/images/2023-mid-q29-d.png|q29-d]]\n( ③ )에 들어갈 것은?",
+      "choices": [
+        "aporphine",
+        "morphine",
+        "quinoline",
+        "tetrahydroisoquinoline",
+        "indole",
+        "imidazole",
+        "anthraquinone"
+      ],
+      "answer": "quinoline",
+      "explanation": "정답: quinoline\n출처: 2023-2 중간 29"
+    }
+  ]
+}

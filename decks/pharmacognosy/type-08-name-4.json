@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-08-name-4",
+  "subject": "생약학",
+  "title": "⑧ 과명·학명·라틴명 4/9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[학명]\n'파두'의 학명(기원)은?",
+      "choices": [
+        "Stevia rebaudiana",
+        "Taxus brevifolia",
+        "Humulus lupulus",
+        "Poria cocos",
+        "Croton tiglium"
+      ],
+      "answer": "Croton tiglium",
+      "explanation": "정답: Croton tiglium\n(파두 — Croton tiglium)"
+    },
+    {
+      "id": 2,
+      "question": "[학명]\n학명 'Croton tiglium'은 어떤 생약·식물인가?",
+      "choices": [
+        "스테비아",
+        "태평양주목",
+        "홉",
+        "복령",
+        "파두"
+      ],
+      "answer": "파두",
+      "explanation": "정답: 파두\n(파두 — Croton tiglium)"
+    },
+    {
+      "id": 3,
+      "question": "[학명]\n'태평양주목'의 학명(기원)은?",
+      "choices": [
+        "Croton tiglium",
+        "Poria cocos",
+        "Stevia rebaudiana",
+        "Sanguisorba officinalis",
+        "Taxus brevifolia"
+      ],
+      "answer": "Taxus brevifolia",
+      "explanation": "정답: Taxus brevifolia\n(태평양주목 — Taxus brevifolia)"
+    },
+    {
+      "id": 4,
+      "question": "[학명]\n학명 'Taxus brevifolia'은 어떤 생약·식물인가?",
+      "choices": [
+        "파두",
+        "복령",
+        "스테비아",
+        "지유(오이풀)",
+        "태평양주목"
+      ],
+      "answer": "태평양주목",
+      "explanation": "정답: 태평양주목\n(태평양주목 — Taxus brevifolia)"
+    },
+    {
+      "id": 5,
+      "question": "[학명]\n'복령'의 학명(기원)은?",
+      "choices": [
+        "Taxus brevifolia",
+        "Sanguisorba officinalis",
+        "Croton tiglium",
+        "Centella asiatica",
+        "Poria cocos"
+      ],
+      "answer": "Poria cocos",
+      "explanation": "정답: Poria cocos\n(복령 — Poria cocos)"
+    },
+    {
+      "id": 6,
+      "question": "[학명]\n학명 'Poria cocos'은 어떤 생약·식물인가?",
+      "choices": [
+        "태평양주목",
+        "지유(오이풀)",
+        "파두",
+        "병풀(적설초)",
+        "복령"
+      ],
+      "answer": "복령",
+      "explanation": "정답: 복령\n(복령 — Poria cocos)"
+    },
+    {
+      "id": 7,
+      "question": "[학명]\n'지유(오이풀)'의 학명(기원)은?",
+      "choices": [
+        "Poria cocos",
+        "Centella asiatica",
+        "Taxus brevifolia",
+        "Digitalis purpurea",
+        "Sanguisorba officinalis"
+      ],
+      "answer": "Sanguisorba officinalis",
+      "explanation": "정답: Sanguisorba officinalis\n(지유(오이풀) — Sanguisorba officinalis)"
+    },
+    {
+      "id": 8,
+      "question": "[학명]\n학명 'Sanguisorba officinalis'은 어떤 생약·식물인가?",
+      "choices": [
+        "복령",
+        "병풀(적설초)",
+        "태평양주목",
+        "디기탈리스",
+        "지유(오이풀)"
+      ],
+      "answer": "지유(오이풀)",
+      "explanation": "정답: 지유(오이풀)\n(지유(오이풀) — Sanguisorba officinalis)"
+    },
+    {
+      "id": 9,
+      "question": "[학명]\n'병풀(적설초)'의 학명(기원)은?",
+      "choices": [
+        "Sanguisorba officinalis",
+        "Digitalis purpurea",
+        "Poria cocos",
+        "Digitalis lanata",
+        "Centella asiatica"
+      ],
+      "answer": "Centella asiatica",
+      "explanation": "정답: Centella asiatica\n(병풀(적설초) — Centella asiatica)"
+    },
+    {
+      "id": 10,
+      "question": "[학명]\n학명 'Centella asiatica'은 어떤 생약·식물인가?",
+      "choices": [
+        "지유(오이풀)",
+        "디기탈리스",
+        "복령",
+        "털디기탈리스",
+        "병풀(적설초)"
+      ],
+      "answer": "병풀(적설초)",
+      "explanation": "정답: 병풀(적설초)\n(병풀(적설초) — Centella asiatica)"
+    },
+    {
+      "id": 11,
+      "question": "[학명]\n'디기탈리스'의 학명(기원)은?",
+      "choices": [
+        "Centella asiatica",
+        "Digitalis lanata",
+        "Sanguisorba officinalis",
+        "Strophanthus kombe",
+        "Digitalis purpurea"
+      ],
+      "answer": "Digitalis purpurea",
+      "explanation": "정답: Digitalis purpurea\n(디기탈리스 — Digitalis purpurea)"
+    },
+    {
+      "id": 12,
+      "question": "[학명]\n학명 'Digitalis purpurea'은 어떤 생약·식물인가?",
+      "choices": [
+        "병풀(적설초)",
+        "털디기탈리스",
+        "지유(오이풀)",
+        "스트로판치자",
+        "디기탈리스"
+      ],
+      "answer": "디기탈리스",
+      "explanation": "정답: 디기탈리스\n(디기탈리스 — Digitalis purpurea)"
+    },
+    {
+      "id": 13,
+      "question": "[학명]\n'털디기탈리스'의 학명(기원)은?",
+      "choices": [
+        "Digitalis purpurea",
+        "Strophanthus kombe",
+        "Centella asiatica",
+        "Convallaria keiskei",
+        "Digitalis lanata"
+      ],
+      "answer": "Digitalis lanata",
+      "explanation": "정답: Digitalis lanata\n(털디기탈리스 — Digitalis lanata)"
+    },
+    {
+      "id": 14,
+      "question": "[학명]\n학명 'Digitalis lanata'은 어떤 생약·식물인가?",
+      "choices": [
+        "디기탈리스",
+        "스트로판치자",
+        "병풀(적설초)",
+        "영란",
+        "털디기탈리스"
+      ],
+      "answer": "털디기탈리스",
+      "explanation": "정답: 털디기탈리스\n(털디기탈리스 — Digitalis lanata)"
+    },
+    {
+      "id": 15,
+      "question": "[학명]\n'스트로판치자'의 학명(기원)은?",
+      "choices": [
+        "Digitalis lanata",
+        "Convallaria keiskei",
+        "Digitalis purpurea",
+        "Adonis amurensis",
+        "Strophanthus kombe"
+      ],
+      "answer": "Strophanthus kombe",
+      "explanation": "정답: Strophanthus kombe\n(스트로판치자 — Strophanthus kombe)"
+    },
+    {
+      "id": 16,
+      "question": "[학명]\n학명 'Strophanthus kombe'은 어떤 생약·식물인가?",
+      "choices": [
+        "털디기탈리스",
+        "영란",
+        "디기탈리스",
+        "복수초",
+        "스트로판치자"
+      ],
+      "answer": "스트로판치자",
+      "explanation": "정답: 스트로판치자\n(스트로판치자 — Strophanthus kombe)"
+    },
+    {
+      "id": 17,
+      "question": "[학명]\n'영란'의 학명(기원)은?",
+      "choices": [
+        "Strophanthus kombe",
+        "Adonis amurensis",
+        "Digitalis lanata",
+        "Urginea scilla",
+        "Convallaria keiskei"
+      ],
+      "answer": "Convallaria keiskei",
+      "explanation": "정답: Convallaria keiskei\n(영란 — Convallaria keiskei)"
+    },
+    {
+      "id": 18,
+      "question": "[학명]\n학명 'Convallaria keiskei'은 어떤 생약·식물인가?",
+      "choices": [
+        "스트로판치자",
+        "복수초",
+        "털디기탈리스",
+        "해총",
+        "영란"
+      ],
+      "answer": "영란",
+      "explanation": "정답: 영란\n(영란 — Convallaria keiskei)"
+    },
+    {
+      "id": 19,
+      "question": "[학명]\n'복수초'의 학명(기원)은?",
+      "choices": [
+        "Convallaria keiskei",
+        "Urginea scilla",
+        "Strophanthus kombe",
+        "Bufo bufo gargarizans",
+        "Adonis amurensis"
+      ],
+      "answer": "Adonis amurensis",
+      "explanation": "정답: Adonis amurensis\n(복수초 — Adonis amurensis)"
+    },
+    {
+      "id": 20,
+      "question": "[학명]\n학명 'Adonis amurensis'은 어떤 생약·식물인가?",
+      "choices": [
+        "영란",
+        "해총",
+        "스트로판치자",
+        "섬수(두꺼비)",
+        "복수초"
+      ],
+      "answer": "복수초",
+      "explanation": "정답: 복수초\n(복수초 — Adonis amurensis)"
+    },
+    {
+      "id": 21,
+      "question": "[학명]\n'해총'의 학명(기원)은?",
+      "choices": [
+        "Adonis amurensis",
+        "Bufo bufo gargarizans",
+        "Convallaria keiskei",
+        "Psoralea corylifolia",
+        "Urginea scilla"
+      ],
+      "answer": "Urginea scilla",
+      "explanation": "정답: Urginea scilla\n(해총 — Urginea scilla)"
+    },
+    {
+      "id": 22,
+      "question": "[학명]\n학명 'Urginea scilla'은 어떤 생약·식물인가?",
+      "choices": [
+        "복수초",
+        "섬수(두꺼비)",
+        "영란",
+        "보골지",
+        "해총"
+      ],
+      "answer": "해총",
+      "explanation": "정답: 해총\n(해총 — Urginea scilla)"
+    },
+    {
+      "id": 23,
+      "question": "[학명]\n'섬수(두꺼비)'의 학명(기원)은?",
+      "choices": [
+        "Urginea scilla",
+        "Psoralea corylifolia",
+        "Adonis amurensis",
+        "Dictamnus albus",
+        "Bufo bufo gargarizans"
+      ],
+      "answer": "Bufo bufo gargarizans",
+      "explanation": "정답: Bufo bufo gargarizans\n(섬수(두꺼비) — Bufo bufo gargarizans)"
+    },
+    {
+      "id": 24,
+      "question": "[학명]\n학명 'Bufo bufo gargarizans'은 어떤 생약·식물인가?",
+      "choices": [
+        "해총",
+        "보골지",
+        "복수초",
+        "백선피",
+        "섬수(두꺼비)"
+      ],
+      "answer": "섬수(두꺼비)",
+      "explanation": "정답: 섬수(두꺼비)\n(섬수(두꺼비) — Bufo bufo gargarizans)"
+    },
+    {
+      "id": 25,
+      "question": "[학명]\n'보골지'의 학명(기원)은?",
+      "choices": [
+        "Bufo bufo gargarizans",
+        "Dictamnus albus",
+        "Urginea scilla",
+        "Ammi visnaga",
+        "Psoralea corylifolia"
+      ],
+      "answer": "Psoralea corylifolia",
+      "explanation": "정답: Psoralea corylifolia\n(보골지 — Psoralea corylifolia)"
+    },
+    {
+      "id": 26,
+      "question": "[학명]\n학명 'Psoralea corylifolia'은 어떤 생약·식물인가?",
+      "choices": [
+        "섬수(두꺼비)",
+        "백선피",
+        "해총",
+        "암미실",
+        "보골지"
+      ],
+      "answer": "보골지",
+      "explanation": "정답: 보골지\n(보골지 — Psoralea corylifolia)"
+    },
+    {
+      "id": 27,
+      "question": "[학명]\n'백선피'의 학명(기원)은?",
+      "choices": [
+        "Psoralea corylifolia",
+        "Ammi visnaga",
+        "Bufo bufo gargarizans",
+        "Medicago sativa",
+        "Dictamnus albus"
+      ],
+      "answer": "Dictamnus albus",
+      "explanation": "정답: Dictamnus albus\n(백선피 — Dictamnus albus)"
+    },
+    {
+      "id": 28,
+      "question": "[학명]\n학명 'Dictamnus albus'은 어떤 생약·식물인가?",
+      "choices": [
+        "보골지",
+        "암미실",
+        "섬수(두꺼비)",
+        "자주개자리",
+        "백선피"
+      ],
+      "answer": "백선피",
+      "explanation": "정답: 백선피\n(백선피 — Dictamnus albus)"
+    },
+    {
+      "id": 29,
+      "question": "[학명]\n'암미실'의 학명(기원)은?",
+      "choices": [
+        "Dictamnus albus",
+        "Medicago sativa",
+        "Psoralea corylifolia",
+        "Hydrangea macrophylla",
+        "Ammi visnaga"
+      ],
+      "answer": "Ammi visnaga",
+      "explanation": "정답: Ammi visnaga\n(암미실 — Ammi visnaga)"
+    },
+    {
+      "id": 30,
+      "question": "[학명]\n학명 'Ammi visnaga'은 어떤 생약·식물인가?",
+      "choices": [
+        "백선피",
+        "자주개자리",
+        "보골지",
+        "감다",
+        "암미실"
+      ],
+      "answer": "암미실",
+      "explanation": "정답: 암미실\n(암미실 — Ammi visnaga)"
+    }
+  ]
+}

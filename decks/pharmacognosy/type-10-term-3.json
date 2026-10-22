@@ -1,0 +1,383 @@
+{
+  "deckId": "pharmacognosy-type-10-term-3",
+  "subject": "생약학",
+  "title": "⑩ 정의·용어·특징 3/10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[정의·용어]\n'biflavonoid'의 정의는?",
+      "choices": [
+        "B환이 C-3에 결합",
+        "추출·가수분해 중 생긴 인공산물 (panaxadiol)",
+        "B환이 C-4에 결합 (4-phenylcoumarin)",
+        "flavonoid + isoprenoid기 (icariin)",
+        "flavone 2분자 결합 (나자식물)"
+      ],
+      "answer": "flavone 2분자 결합 (나자식물)",
+      "explanation": "정답: flavone 2분자 결합 (나자식물)\n(biflavonoid — flavone 2분자 결합 (나자식물))"
+    },
+    {
+      "id": 2,
+      "question": "[정의·용어]\n다음 정의에 해당하는 용어는?\n'flavone 2분자 결합 (나자식물)'",
+      "choices": [
+        "isoflavonoid",
+        "artifact",
+        "neoflavonoid",
+        "prenylated flavonoid",
+        "biflavonoid"
+      ],
+      "answer": "biflavonoid",
+      "explanation": "정답: biflavonoid\n(biflavonoid — flavone 2분자 결합 (나자식물))"
+    },
+    {
+      "id": 3,
+      "question": "[정의·용어]\n'artifact'의 정의는?",
+      "choices": [
+        "flavone 2분자 결합 (나자식물)",
+        "flavonoid + isoprenoid기 (icariin)",
+        "B환이 C-3에 결합",
+        "B환이 C-4에 결합 (4-phenylcoumarin)",
+        "추출·가수분해 중 생긴 인공산물 (panaxadiol)"
+      ],
+      "answer": "추출·가수분해 중 생긴 인공산물 (panaxadiol)",
+      "explanation": "정답: 추출·가수분해 중 생긴 인공산물 (panaxadiol)\n(artifact — 추출·가수분해 중 생긴 인공산물 (panaxadiol))"
+    },
+    {
+      "id": 4,
+      "question": "[정의·용어]\n다음 정의에 해당하는 용어는?\n'추출·가수분해 중 생긴 인공산물 (panaxadiol)'",
+      "choices": [
+        "biflavonoid",
+        "prenylated flavonoid",
+        "isoflavonoid",
+        "neoflavonoid",
+        "artifact"
+      ],
+      "answer": "artifact",
+      "explanation": "정답: artifact\n(artifact — 추출·가수분해 중 생긴 인공산물 (panaxadiol))"
+    },
+    {
+      "id": 5,
+      "question": "[정의·용어]\n'prenylated flavonoid'의 정의는?",
+      "choices": [
+        "추출·가수분해 중 생긴 인공산물 (panaxadiol)",
+        "flavone 2분자 결합 (나자식물)",
+        "B환이 C-3에 결합",
+        "B환이 C-4에 결합 (4-phenylcoumarin)",
+        "flavonoid + isoprenoid기 (icariin)"
+      ],
+      "answer": "flavonoid + isoprenoid기 (icariin)",
+      "explanation": "정답: flavonoid + isoprenoid기 (icariin)\n(prenylated flavonoid — flavonoid + isoprenoid기 (icariin))"
+    },
+    {
+      "id": 6,
+      "question": "[정의·용어]\n다음 정의에 해당하는 용어는?\n'flavonoid + isoprenoid기 (icariin)'",
+      "choices": [
+        "artifact",
+        "biflavonoid",
+        "isoflavonoid",
+        "neoflavonoid",
+        "prenylated flavonoid"
+      ],
+      "answer": "prenylated flavonoid",
+      "explanation": "정답: prenylated flavonoid\n(prenylated flavonoid — flavonoid + isoprenoid기 (icariin))"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nto examine the phenomenon exactly in place when it occurs",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in situ",
+      "explanation": "정답: in situ\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 11번"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nthe state of embryo or fetus",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in utero",
+      "explanation": "정답: in utero\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 12번"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nperformed on computer or via computer simulation",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in silico",
+      "explanation": "정답: in silico\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 13번"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nwithin the glass, i.e., in a test tube or petri dish",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in vitro",
+      "explanation": "정답: in vitro\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 14번"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2025-2] <보기>에서 다음 설명에 알맞은 것을 고르시오.\nanimal testing and clinical trials",
+      "choices": [
+        "in situ",
+        "in vitro",
+        "in silico",
+        "in vivo",
+        "in utero"
+      ],
+      "answer": "in vivo",
+      "explanation": "정답: in vivo\nPPT 1-2 p.14 Bioassays: in situ(제자리, perfusion), ex vivo(생체 밖), in utero(배아·태아 상태), in silico(컴퓨터), in vitro(시험관·페트리접시), in vivo(동물실험·임상시험).\n출처: 2025-2 중간 15번"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.8] Isoprenoid pathway의 기본 단위(subunit)는?",
+      "choices": [
+        "C5 (isoprene)",
+        "C2 (acetate)",
+        "C6C3 (phenylpropane)",
+        "C4N (pyrrolidine)",
+        "C1 (methyl)"
+      ],
+      "answer": "C5 (isoprene)",
+      "explanation": "정답: C5, isoprene\nPPT p.8: 'Isoprenoid pathway (subunit: C5, isoprene)'. hemiterpene(C5)부터 tetraterpene(C40), higher terpenoid까지."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.8] terpene 계열과 탄소 수의 짝이 틀린 것은?",
+      "choices": [
+        "hemiterpene – C5",
+        "monoterpene – C10",
+        "sesquiterpene – C15",
+        "sesterterpene – C30",
+        "tetraterpene – C40"
+      ],
+      "answer": "sesterterpene – C30",
+      "explanation": "정답: 'sesterterpene – C30' (틀림)\nsesterterpene은 C25, triterpene이 C30. diterpene은 C20."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.11] MVA 경로와 MEP 경로가 일어나는 세포 내 장소의 짝으로 옳은 것은?",
+      "choices": [
+        "MVA – cytosol(세포질), MEP – plastid(색소체)",
+        "MVA – plastid, MEP – cytosol",
+        "둘 다 미토콘드리아",
+        "MVA – 핵, MEP – 소포체"
+      ],
+      "answer": "MVA – cytosol(세포질), MEP – plastid(색소체)",
+      "explanation": "정답: MVA – cytosol, MEP – plastid\nPPT p.11 그림. 두 경로 모두 최종적으로 IPP와 DMAPP를 만든다."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.11] MEP 경로의 출발 물질은?",
+      "choices": [
+        "pyruvate + glyceraldehyde 3-phosphate (G3P)",
+        "acetyl-CoA 3분자",
+        "PEP + erythrose 4-phosphate",
+        "malonyl-CoA + acetyl-CoA",
+        "L-ornithine"
+      ],
+      "answer": "pyruvate + glyceraldehyde 3-phosphate (G3P)",
+      "explanation": "정답: pyruvate + G3P\n→ DXP(1-deoxy-D-xylulose-5-phosphate) → MEP(2-methyl-D-erythritol 4-phosphate) → … → HMBPP → IPP·DMAPP."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.14] 다음 구조의 mevalonic acid(C6)가 C5인 IPP로 바뀔 때 일어나는 일로 옳은 것은?\n[[smi:CC(O)(CCO)CC(=O)O]]",
+      "choices": [
+        "1차 알코올이 ATP로 차례로 인산화되어 diphosphate가 되고, 탈탄산(CO₂ 이탈)·탈리가 일어난다",
+        "NADPH로 카복실기가 환원된다",
+        "SAM으로 메틸화된다",
+        "산화적 짝지음이 일어난다"
+      ],
+      "answer": "1차 알코올이 ATP로 차례로 인산화되어 diphosphate가 되고, 탈탄산(CO₂ 이탈)·탈리가 일어난다",
+      "explanation": "정답: 첫 번째\nPPT p.14: 'sequential phosphorylation of the primary alcohol to a diphosphate' + 'ATP facilitates the decarboxylation-elimination'."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.14] True or False\n아래 두 C5 단위 IPP와 DMAPP는 isomerase로 서로 바뀌며, 평형은 DMAPP 쪽으로 치우쳐 있다.\nIPP [[smi:C=C(C)CCOP(=O)(O)OP(=O)(O)O]]\nDMAPP [[smi:CC(C)=CCOP(=O)(O)OP(=O)(O)O]]",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\nPPT p.14: 'stereospecific allylic isomerization; equilibrium favors DMAPP'."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.15] acetate-malonate(polyketide) 경로 일반 반응에서 acetoacetyl-CoA로부터 갈라져 나가는 산물이 아닌 것은?",
+      "choices": [
+        "isoprenoid",
+        "aromatics (cyclization)",
+        "fatty acids (reduction)",
+        "alkaloids"
+      ],
+      "answer": "alkaloids",
+      "explanation": "정답: alkaloids\nPPT p.15: acetyl-CoA → acetoacetyl-CoA → isoprenoid / aromatics(고리화) / fatty acids(환원). alkaloid는 아미노산 경로."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.10·11] MVA·MEP 경로에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "MVA 경로의 HMG-CoA 환원에는 NADPH가 쓰인다",
+        "MEP 경로의 DXP → MEP 단계에서 NADPH가 쓰인다",
+        "두 경로 모두 최종 산물은 IPP와 DMAPP이다",
+        "MEP 경로는 acetyl-CoA 3분자에서 출발한다"
+      ],
+      "answer": "MEP 경로는 acetyl-CoA 3분자에서 출발한다",
+      "explanation": "정답: 'MEP는 acetyl-CoA 3분자에서 출발' (틀림)\nacetyl-CoA 3분자 → MVA는 mevalonate 경로. MEP는 pyruvate + G3P(해당과정 중간체, p.10 그림)에서 출발."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.16] GPP(geranyl PP)의 탄소 수는? (숫자만)",
+      "answer": [
+        "10",
+        "C10"
+      ],
+      "explanation": "정답: 10 (C10)\nDMAPP(C5) + IPP(C5) = GPP(C10) → monoterpene."
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.17] monoterpene을 식물에서 분리하는 방법으로 PPT에 나온 것은?",
+      "choices": [
+        "정유의 구성성분이므로 수증기 증류 또는 용매 추출",
+        "산 가수분해 후 침전",
+        "이온교환 크로마토그래피만 사용",
+        "승화"
+      ],
+      "answer": "정유의 구성성분이므로 수증기 증류 또는 용매 추출",
+      "explanation": "정답: 수증기 증류 또는 용매 추출\nmonoterpene: GPP(C10) 전구체, 주로 식물(동물·미생물에도), 향료·향수에 쓰이는 휘발성 기름 성분."
+    },
+    {
+      "id": 22,
+      "question": "[기출 2023-1·2023-2] 다음 중 그림과 알맞은 물질을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m14.png|구조식]]",
+      "choices": [
+        "Amygdalin",
+        "Hypericin",
+        "Caffeine",
+        "Paeoniflorin",
+        "Daidzein"
+      ],
+      "answer": "Paeoniflorin",
+      "explanation": "정답: Paeoniflorin\npinane(cage) 골격 + glucose + benzoyl — paeoniflorin(작약).\n출처: 2023-1 중간 객관14 · 2023-2 중간 11 (2회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.23] pyrethrin II의 산(acid) 부분은?",
+      "choices": [
+        "pyrethric acid",
+        "chrysanthemic acid",
+        "pyrethrolone",
+        "jasmolone",
+        "cinerolone"
+      ],
+      "answer": "pyrethric acid",
+      "explanation": "정답: pyrethric acid (R1 = COOCH₃)\npyrethrin I·cinerin I·jasmolin I은 chrysanthemic acid(R1 = CH₃) 에스터, II형은 pyrethric acid 에스터. 알코올 부분: pyrethrolone, cinerolone, jasmolone."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.23] 다음 구조(chrysanthemic acid)의 특징적인 고리는?\n[[smi:CC(C)=CC1C(C(=O)O)C1(C)C]]",
+      "choices": [
+        "cyclopropane",
+        "cyclopentane",
+        "furan",
+        "cyclobutane",
+        "lactone"
+      ],
+      "answer": "cyclopropane",
+      "explanation": "정답: cyclopropane\nPPT p.23: 'loss of proton via cyclopropyl ring formation' → 가수분해·산화 → chrysanthemic acid."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.24] iridoid에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "cyclopentane 고리가 있다",
+        "GPP로부터 생합성된다",
+        "C10 monoterpene 계열이다",
+        "주로 단자엽 식물에 분포한다"
+      ],
+      "answer": "주로 단자엽 식물에 분포한다",
+      "explanation": "정답: '단자엽 식물' (틀림)\niridoid는 쌍자엽 식물에 주로 분포."
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.28] secoiridoid는 iridoid의 몇 번 탄소 사이가 열린(개환) 구조인가?",
+      "choices": [
+        "7번과 8번",
+        "1번과 2번",
+        "3번과 4번",
+        "5번과 9번",
+        "4번과 5번"
+      ],
+      "answer": "7번과 8번",
+      "explanation": "정답: C7–C8 사이 개환\nGentianaceae(용담과), Rubiaceae, Oleaceae, Cornaceae에 많다."
+    },
+    {
+      "id": 27,
+      "question": "[기출 2022-2] 다음 중 Secoiridoid glycoside인 것은?",
+      "choices": [
+        "Emetine",
+        "Chelidonine",
+        "Physostigmine",
+        "Gentiopicroside",
+        "Tubocurarine"
+      ],
+      "answer": "Gentiopicroside",
+      "explanation": "정답: Gentiopicroside\n나머지는 alkaloid. gentiopicroside — 용담의 secoiridoid 배당체.\n출처: 2022-2 중간 2"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.31] FPP에서 생긴 carbonium ion이 겪는 반응으로 PPT에 없는 것은?",
+      "choices": [
+        "분자 내 다른 이중결합의 공격으로 새 고리 형성",
+        "hydride shift (수소 이동)",
+        "Wagner-Meerwein rearrangement (alkyl기 이동)",
+        "탈양성자화 → olefin, 물 공격 → carbinol",
+        "Claisen 축합으로 탄소 2개 추가"
+      ],
+      "answer": "Claisen 축합으로 탄소 2개 추가",
+      "explanation": "정답: Claisen 축합 (없음)\nPPT p.31: FPP의 pyrophosphate가 이중결합의 관여로 떨어져 고리형 carbonium ion → 고리 형성·hydride shift·Wagner-Meerwein 재배열 → 최종적으로 olefin 또는 carbinol."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.34] 곤충의 유약형질(애벌레 형질)을 유지시키는 acyclic sesquiterpene은?",
+      "choices": [
+        "juvenile hormone (JH)",
+        "faranal",
+        "ipomeamarone",
+        "ecdysterone",
+        "farnesol"
+      ],
+      "answer": "juvenile hormone (JH)",
+      "explanation": "정답: juvenile hormone\nacyclic sesquiterpene: JH, farnesol, (+)-nerolidol, farnesene, faranal(파라오 개미의 방어물질), ipomeamarone(고구마 phytoalexin). ecdysterone은 탈피호르몬(steroid)."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.36] phytoalexin의 정의로 옳은 것은?",
+      "choices": [
+        "식물이 외부 침입(곰팡이·세균·바이러스)에 대항하기 위해 합성하는 저분자 항균 물질",
+        "식물의 성장 호르몬",
+        "곤충의 탈피 호르몬",
+        "광합성 색소"
+      ],
+      "answer": "식물이 외부 침입(곰팡이·세균·바이러스)에 대항하기 위해 합성하는 저분자 항균 물질",
+      "explanation": "정답: 첫 번째\n감염 부위 주변에 빠르게 쌓이는 저분자·지용성 항균 물질. Solanaceae에서만 40여 종 분리."
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "deckId": "pharmacognosy-type-10-term-5",
+  "subject": "생약학",
+  "title": "⑩ 정의·용어·특징 5/10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[PPT p.87] 섬수의 bufadienolide에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "Bufo속 두꺼비의 이하선·피지선 분비물에 포합체로 들어 있다",
+        "C17에 α-pyrone(coumalin) 고리가 있다",
+        "bufalin, cinobufagin, resibufogenin 등이 있다",
+        "C23 화합물로 5원 lactone을 가진다"
+      ],
+      "answer": "C23 화합물로 5원 lactone을 가진다",
+      "explanation": "정답: 마지막 (틀림)\nbufadienolide는 C24, 6원 lactone. C23·5원은 cardenolide."
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.89] phytosterol에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "β-sitosterol, campesterol, stigmasterol 등이 있다",
+        "squalene에서 cycloartenol을 거쳐 생성된다",
+        "식물세포막 구성에 관여한다",
+        "cholesterol 흡수를 길항하여 체내 cholesterol을 낮춘다",
+        "lanosterol을 거쳐 생성된다"
+      ],
+      "answer": "lanosterol을 거쳐 생성된다",
+      "explanation": "정답: 'lanosterol 경유' (틀림) — 식물은 cycloartenol 경유"
+    },
+    {
+      "id": 3,
+      "question": "[기출 2025-2] [19~21] 다음 설명에서 알맞은 것을 고르시오.\n유충에서 성충으로 변태를 하는데 중요한 탈피 호르몬. 주로 주목과, 꿀풀과, 미나리아재비과에 있으며 대표적으로 우슬, inokosterone 등이 이에 해당한다.",
+      "choices": [
+        "Limonoid",
+        "ecdysteroid",
+        "quassinoid",
+        "secoiridoid",
+        "cardiac glycoside"
+      ],
+      "answer": "ecdysteroid",
+      "explanation": "정답: ecdysteroid\n⚠ PPT 대조: PPT의 ecdysteroid 분포는 '꿀풀과, 미나리아재비과, 비름과, 백합과, 나한송과, 주목과, 고사리과 등'. 족보의 '미나리과'는 PPT의 '미나리아재비과'와 다름(복원 오기 가능). 우슬의 성분도 PPT 표기는 inokosterone, ecdysterone(족보 'isokosterone').\n✎ 수정사항: 족보의 '미나리과' → PPT의 '미나리아재비과', 'isokosterone' → PPT의 'inokosterone'으로 고침.\n출처: 2025-2 중간 21번"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.90] withanolide에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "ergostane 핵의 22번과 26번 탄소가 산화되어 δ-lactone이 된 화합물군",
+        "1번 탄소도 산화형(1-oxo form이 90% 이상)",
+        "주로 Solanaceae(Withania, Physalis, Datura 등)에서 분리",
+        "Withania somnifera(Ashwagandha)의 withaferin A는 세포독성",
+        "주로 Gentianaceae에서 분리되는 secoiridoid"
+      ],
+      "answer": "주로 Gentianaceae에서 분리되는 secoiridoid",
+      "explanation": "정답: 마지막 (틀림)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.91] steroidal alkaloid에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "steroid 골격 안이나 곁사슬에 N을 함유한 pseudoalkaloid로, 백합과·가지과에 있다 (예: 절패모의 verticine)",
+        "아미노산에서 유래한 true alkaloid이다",
+        "tryptophan에서 유래한다",
+        "Rutaceae의 고미 성분이다"
+      ],
+      "answer": "steroid 골격 안이나 곁사슬에 N을 함유한 pseudoalkaloid로, 백합과·가지과에 있다 (예: 절패모의 verticine)",
+      "explanation": "정답: 첫 번째\n여로: veratramine / 절패모: verticine, verticinone, peiminoside / 토마토: tomatidine."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.92·94] provitamin A로 불리며, 중앙이 잘리면(central cleavage) retinal 2분자를 내는 carotenoid는?",
+      "choices": [
+        "β-carotene",
+        "lycopene",
+        "crocin",
+        "capsanthin",
+        "zeaxanthin"
+      ],
+      "answer": "β-carotene",
+      "explanation": "정답: β-carotene\nretinal → retinol(vitamin A1). dehydroretinol은 vitamin A2."
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.1·3] Shikimate 경로의 출발 물질 두 가지로 옳은 것은?",
+      "choices": [
+        "phosphoenolpyruvate (PEP) + erythrose 4-phosphate",
+        "acetyl-CoA + malonyl-CoA",
+        "IPP + DMAPP",
+        "pyruvate + glyceraldehyde 3-phosphate",
+        "ornithine + acetyl-CoA"
+      ],
+      "answer": "phosphoenolpyruvate (PEP) + erythrose 4-phosphate",
+      "explanation": "정답: PEP + erythrose 4-phosphate\n해당과정의 PEP와 오탄당인산 경로의 D-erythrose 4-P가 aldol형 반응으로 축합해 DAHP(C7)를 만들면서 shikimate 경로가 시작된다."
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.3] EPSP의 원래 이름은?",
+      "choices": [
+        "5-enolpyruvylshikimic acid 3-phosphate",
+        "3-deoxy-D-arabino-heptulosonic acid 7-phosphate",
+        "phosphoenolpyruvate",
+        "erythrose 4-phosphate",
+        "shikimic acid 5-phosphate"
+      ],
+      "answer": "5-enolpyruvylshikimic acid 3-phosphate",
+      "explanation": "정답: 5-enolpyruvylshikimic acid 3-phosphate\nshikimic acid 3-P의 5번 OH에 PEP의 enolpyruvyl기가 붙은 화합물이다."
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.3] chorismic acid가 재배열되어 생기며, phenylpyruvic acid를 거쳐 L-Phe가 되는 화합물은?",
+      "choices": [
+        "prephenic acid",
+        "anthranilic acid",
+        "3-dehydroshikimic acid",
+        "cinnamic acid",
+        "EPSP"
+      ],
+      "answer": "prephenic acid",
+      "explanation": "정답: prephenic acid\nchorismic acid → (재배열; Claisen rearrangement) → prephenic acid → 탈탄산·탈수 → phenylpyruvic acid → 아미노기 전이 → L-Phe."
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.3] 다음 구조의 화합물 이름은? (경로 이름의 유래가 된 화합물)\n[[smi:OC(=O)C1=CC(O)C(O)C(O)C1]]",
+      "answer": [
+        "shikimic acid",
+        "shikimate",
+        "시킴산"
+      ],
+      "explanation": "정답: shikimic acid\n고리 안에 C=C 한 개, COOH 한 개, OH 세 개가 있다. 다음 단계에서 ATP로 3번 OH가 인산화되어 shikimic acid 3-P가 된다."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.5] PAL이 L-phenylalanine에서 NH₃를 제거하여 만드는 화합물은?",
+      "choices": [
+        "cinnamic acid",
+        "p-coumaric acid",
+        "benzoic acid",
+        "phenylpyruvic acid",
+        "ferulic acid"
+      ],
+      "answer": "cinnamic acid",
+      "explanation": "정답: cinnamic acid (trans-계피산)\n이후 4번 수산화 → p-coumaric acid → ferulic acid → coniferyl alcohol 순서로 이어진다."
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.5·6] 다음 구조의 화합물은?\n[[smi:COc1cc(CC=C)ccc1O]]",
+      "choices": [
+        "eugenol",
+        "anethole",
+        "safrole",
+        "myristicin",
+        "cinnamaldehyde"
+      ],
+      "answer": "eugenol",
+      "explanation": "정답: eugenol\nOH와 OCH₃가 이웃한 guaiacol 고리 + allyl기(–CH₂CH=CH₂). anethole은 OCH₃ + propenyl(–CH=CH–CH₃), safrole은 methylenedioxy + allyl."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.7] 천연 coumarin의 70% 이상은 몇 번 탄소에 산소가 치환되어 있는가? (숫자만)",
+      "answer": [
+        "7",
+        "7번",
+        "C7",
+        "C-7"
+      ],
+      "explanation": "정답: 7번 탄소\n그래서 umbelliferone(7-hydroxycoumarin)이 많은 coumarin의 기본 단위가 된다."
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.7] cinnamic acid → 2-coumaric acid → coumarin 과정에서 곁사슬 이중결합의 trans→cis(E→Z) 이성질화를 일으키는 것은?",
+      "choices": [
+        "빛 (hν)",
+        "ATP",
+        "PAL",
+        "SAM",
+        "NADPH"
+      ],
+      "answer": "빛 (hν)",
+      "explanation": "정답: 빛(hν)\ntrans-2-coumaric acid가 빛으로 cis형이 되어야 COOH와 2번 OH가 가까워져 lactone(고리 에스터)을 만들 수 있다."
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.9] furanocoumarin의 furan 고리를 이루는 탄소는 어디에서 오는가?",
+      "choices": [
+        "DMAPP (isoprenoid 경로)",
+        "acetyl-CoA",
+        "PEP",
+        "malonyl-CoA",
+        "SAM의 메틸기"
+      ],
+      "answer": "DMAPP (isoprenoid 경로)",
+      "explanation": "정답: DMAPP\nprenyl기(C5)가 붙었다가 marmesin → psoralen 과정에서 3개 탄소가 떨어져 나가고 2개가 furan 고리로 남는다. 그래서 furano·pyranocoumarin은 shikimate + mevalonate 복합 경로로 본다."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.9] 다음 구조의 furanocoumarin은?\n[[smi:O=C1C=Cc2cc3ccoc3c(OC)c2O1]]",
+      "choices": [
+        "xanthotoxin (8-methoxypsoralen)",
+        "bergapten (5-methoxypsoralen)",
+        "psoralen",
+        "angelicin",
+        "imperatorin"
+      ],
+      "answer": "xanthotoxin (8-methoxypsoralen)",
+      "explanation": "정답: xanthotoxin (8-MOP)\nOCH₃가 lactone 산소 쪽 8번에 있다. bergapten은 반대편 5번에 OCH₃."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.10] 암미실(Ammi visnaga)에서 얻으며 심장의 관상혈관을 확장시키는 pyranocoumarin은?",
+      "choices": [
+        "visnadin",
+        "decursinol",
+        "xanthotoxin",
+        "aesculin",
+        "scoparone"
+      ],
+      "answer": "visnadin",
+      "explanation": "정답: visnadin\nPPT p.10: 'visnadin, samidin, dehydrosamidin — 암미실(Ammi visnaga), 심장의 관상혈관 확장(visnadin)'."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.10] True or False\nprenyl기의 epoxide에 페놀 OH가 공격할 때 5원 고리가 생기면 furanocoumarin, 6원 고리(pyran)가 생기면 pyranocoumarin이 된다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\nPPT p.10: '5-membered furan ring' vs '6-membered pyran ring' — nucleophilic attack on to epoxide."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.11] 자주개자리(Medicago sativa)·sweet clover(Melilotus officinalis)에 생기며, 이를 먹은 목축우에 출혈 증상을 일으키는 biscoumarin은?",
+      "choices": [
+        "dicoumarol",
+        "warfarin",
+        "psoralen",
+        "aesculin",
+        "coumarin"
+      ],
+      "answer": "dicoumarol",
+      "explanation": "정답: dicoumarol\n상한 sweet clover에서 4-hydroxycoumarin 두 분자가 연결되어 생긴다. 항혈액응고 작용 → 혈전증 치료·예방에 응용."
+    },
+    {
+      "id": 20,
+      "question": "[기출 2021-2·2023-1·2023-2] 항혈액응고제 및 살서제로 사용되는, dicoumarol을 바탕으로 한 화합물(warfarin)의 구조로 올바른 것은?",
+      "choices": [
+        "[[img:pharmacognosy/images/2023-1-mid-m7a.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7b.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7c.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7d.png|보기 구조]]",
+        "[[img:pharmacognosy/images/2023-1-mid-m7e.png|보기 구조]]"
+      ],
+      "answer": "[[img:pharmacognosy/images/2023-1-mid-m7e.png|보기 구조]]",
+      "explanation": "정답: 마지막 구조(warfarin)\n4-hydroxycoumarin에 phenyl·acetonyl기가 붙은 구조. PPT p.11: 'Warfarin (a pesticide, rat poison)'.\n출처: 2021-2 중간 12 · 2023-1 중간 객관7 · 2023-2 중간 12 (3회 출제)"
+    },
+    {
+      "id": 21,
+      "question": "[기출 2020-2] 자연물 dicoumarol의 구조를 바탕으로 합성된 항응고 약품의 이름은?",
+      "answer": [
+        "warfarin",
+        "와파린"
+      ],
+      "explanation": "정답: warfarin (와파린)\nPPT p.25 복습 문제: 'dicoumarol의 생리활성 및 이 구조를 바탕으로 하여 합성된 의약품은?'\n출처: 2020-2 중간 주6"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2021-2] True or False\nwarfarin은 자연물 dicoumarol의 구조를 바탕으로 합성된 항응고제(살서제)이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "T (참)",
+      "explanation": "정답: T\n출처: 2021-2 중간 2-5)"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.11] dicoumarol이 생길 때 4-hydroxycoumarin 두 분자를 이어 주는 탄소 1개(–CH₂–)는 무엇에서 오는가?",
+      "choices": [
+        "formaldehyde (HCHO)",
+        "SAM",
+        "CO₂",
+        "acetyl-CoA",
+        "DMAPP"
+      ],
+      "answer": "formaldehyde (HCHO)",
+      "explanation": "정답: formaldehyde (HCHO)\nPPT p.11: 4-hydroxycoumarin이 HCHO에 친핵 공격 → 탈수 → 두 번째 4-hydroxycoumarin이 enone에 친핵 공격 → dicoumarol."
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.12] dicoumarol·warfarin 계열의 합성 항응고제(살서제)가 아닌 것은?",
+      "choices": [
+        "nicoumalone",
+        "coumatetralyl",
+        "difenacoum",
+        "brodifacoum",
+        "bergapten"
+      ],
+      "answer": "bergapten",
+      "explanation": "정답: bergapten\nbergapten(5-methoxypsoralen)은 furanocoumarin. PPT p.12: nicoumalone, coumachlor, coumatetralyl, difenacoum, brodifacoum(PPT 표기 brodifenacoum)."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.14] lignan 관련 용어의 설명으로 틀린 것은?",
+      "choices": [
+        "neolignan – 결합 위치가 β-β′(8-8′)가 아닌 화합물",
+        "norlignan – 탄소 수가 하나 적은 C17 화합물",
+        "sesquilignan – C6C3 단위 3개 결합",
+        "dilignan – C6C3 단위 3개 결합",
+        "flavolignan – flavonoid + lignan"
+      ],
+      "answer": "dilignan – C6C3 단위 3개 결합",
+      "explanation": "정답: dilignan – C6C3 단위 3개 결합 (틀림)\ndilignan은 C6C3 단위 4개(C36), sesquilignan이 3개(C27)."
+    },
+    {
+      "id": 26,
+      "question": "[기출 2023-1] True or False\nphenylpropanoid 2개가 side chain의 β-β′ 위치에서 oxidative coupling한 화합물 중 탄소 수가 하나 적은 C17 화합물을 neolignan이라 한다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\nC17 화합물은 norlignan. neolignan은 결합 위치가 β-β′(8-8′)가 아닌 화합물.\n출처: 2023-1 중간 주관2-5"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2023-2] True or False\nnorlignan은 결합위치가 β-β′(또는 8-8′) 위치가 아닌 화합물이다.",
+      "choices": [
+        "T (참)",
+        "F (거짓)"
+      ],
+      "answer": "F (거짓)",
+      "explanation": "정답: F\n결합 위치가 β-β′가 아닌 것은 neolignan, norlignan은 탄소 수가 하나 적은 C17 화합물.\n출처: 2023-2 중간 2-5)"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.17] 오미자 lignan(schisandrin 등)을 바탕으로 만든 합성 유도체 간장약의 약어는?",
+      "answer": [
+        "BDD",
+        "biphenyl dimethyl dicarboxylate"
+      ],
+      "explanation": "정답: BDD (biphenyl dimethyl dicarboxylate)\nPPT p.17: 오미자 EtOH 추출물의 schisandrin, deoxyschisandrin, gomisin A·D·E, pregomisin — 간세포 보호 활성, 합성유도체 BDD."
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.21] phenylpropanoid가 3개 결합한 sesquilignan의 탄소 수는?",
+      "choices": [
+        "C17",
+        "C18",
+        "C27",
+        "C36",
+        "C45"
+      ],
+      "answer": "C27",
+      "explanation": "정답: C27\nlignan oligomer = phenylpropanoid 3~5개 결합. sesquilignan(3개) C27, dilignan(4개) C36."
+    },
+    {
+      "id": 30,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 마리아엉겅퀴(milk thistle)에서 얻고 간질환에 사용하는 flavolignan은?",
+      "choices": [
+        "silybin",
+        "gentiopicroside",
+        "podophyllotoxin",
+        "artemisinin",
+        "decursin"
+      ],
+      "answer": "silybin",
+      "explanation": "정답: silybin\nPPT p.22: Silybum marianum(Compositae) 열매에 1.5~3% 들어 있는 flavolignan 혼합물이 silymarin이며 silybin이 주성분.\n출처: 2020-2 중간 주7 · 2021-2 중간 4 · 2023-1 중간 객관1 · 2023-2 중간 4 (4회 출제)"
+    }
+  ]
+}
