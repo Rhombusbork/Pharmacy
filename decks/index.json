@@ -1,6 +1,11 @@
 {
   "decks": [
     "pharmacognosy/01-major-constituents.json",
+    "pharmacognosy/rings-01.json",
+    "pharmacognosy/rings-02.json",
+    "pharmacognosy/rings-03.json",
+    "pharmacognosy/rings-04.json",
+    "pharmacognosy/rings-05.json",
     "orgchem/01-functional-groups.json",
     "orgchem/02-structures.json",
     "analchem/01-basics.json",

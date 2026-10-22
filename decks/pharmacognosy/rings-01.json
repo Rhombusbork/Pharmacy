@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-rings-01",
+  "subject": "생약학",
+  "title": "구조 기초 1 · 6원 질소 고리 ~ 5원 산소",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 기초 · 6원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccncc1]]",
+      "choices": [
+        "pyridine",
+        "piperidine",
+        "pyrimidine",
+        "pyrazine",
+        "pyridazine"
+      ],
+      "answer": "pyridine",
+      "explanation": "정답: pyridine\n6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 2,
+      "question": "[구조 기초 · 6원 질소 고리]\n다음 구조의 이름은?\n[[smi:C1CCNCC1]]",
+      "choices": [
+        "pyridine",
+        "piperidine",
+        "pyrimidine",
+        "pyrazine",
+        "pyridazine"
+      ],
+      "answer": "piperidine",
+      "explanation": "정답: piperidine\n6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 3,
+      "question": "[구조 기초 · 6원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1cncnc1]]",
+      "choices": [
+        "pyridine",
+        "piperidine",
+        "pyrimidine",
+        "pyrazine",
+        "pyridazine"
+      ],
+      "answer": "pyrimidine",
+      "explanation": "정답: pyrimidine\n6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 4,
+      "question": "[구조 기초 · 6원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1cnccn1]]",
+      "choices": [
+        "pyridine",
+        "piperidine",
+        "pyrimidine",
+        "pyrazine",
+        "pyridazine"
+      ],
+      "answer": "pyrazine",
+      "explanation": "정답: pyrazine\n6원 방향족, N 2개가 1,4(마주 보는) 위치\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 5,
+      "question": "[구조 기초 · 6원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccnnc1]]",
+      "choices": [
+        "pyridine",
+        "piperidine",
+        "pyrimidine",
+        "pyrazine",
+        "pyridazine"
+      ],
+      "answer": "pyridazine",
+      "explanation": "정답: pyridazine\n6원 방향족, N 2개가 1,2(이웃) 위치\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 6,
+      "question": "[구조 기초 · 6원 질소 고리]\n'pyridine'의 구조는?",
+      "choices": [
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]",
+        "[[smi:c1cncnc1]]",
+        "[[smi:c1cnccn1]]",
+        "[[smi:c1ccnnc1]]"
+      ],
+      "answer": "[[smi:c1ccncc1]]",
+      "explanation": "정답: pyridine\n6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 7,
+      "question": "[구조 기초 · 6원 질소 고리]\n'piperidine'의 구조는?",
+      "choices": [
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]",
+        "[[smi:c1cncnc1]]",
+        "[[smi:c1cnccn1]]",
+        "[[smi:c1ccnnc1]]"
+      ],
+      "answer": "[[smi:C1CCNCC1]]",
+      "explanation": "정답: piperidine\n6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 8,
+      "question": "[구조 기초 · 6원 질소 고리]\n'pyrimidine'의 구조는?",
+      "choices": [
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]",
+        "[[smi:c1cncnc1]]",
+        "[[smi:c1cnccn1]]",
+        "[[smi:c1ccnnc1]]"
+      ],
+      "answer": "[[smi:c1cncnc1]]",
+      "explanation": "정답: pyrimidine\n6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 9,
+      "question": "[구조 기초 · 6원 질소 고리]\n'pyrazine'의 구조는?",
+      "choices": [
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]",
+        "[[smi:c1cncnc1]]",
+        "[[smi:c1cnccn1]]",
+        "[[smi:c1ccnnc1]]"
+      ],
+      "answer": "[[smi:c1cnccn1]]",
+      "explanation": "정답: pyrazine\n6원 방향족, N 2개가 1,4(마주 보는) 위치\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 10,
+      "question": "[구조 기초 · 6원 질소 고리]\n'pyridazine'의 구조는?",
+      "choices": [
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]",
+        "[[smi:c1cncnc1]]",
+        "[[smi:c1cnccn1]]",
+        "[[smi:c1ccnnc1]]"
+      ],
+      "answer": "[[smi:c1ccnnc1]]",
+      "explanation": "정답: pyridazine\n6원 방향족, N 2개가 1,2(이웃) 위치\n\n이 묶음 구별 포인트:\n· pyridine: 6원 방향족, N 1개 — nicotinic acid·nicotine·arecoline·ricinine의 고리\n· piperidine: 6원 포화(이중결합 없음), N 1개 — Lys 유래(lobeline, pelletierine, piperine, coniine)\n· pyrimidine: 6원 방향족, N 2개가 1,3 위치 — 핵산 염기, purine의 6원 쪽\n· pyrazine: 6원 방향족, N 2개가 1,4(마주 보는) 위치\n· pyridazine: 6원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 11,
+      "question": "[구조 기초 · 5원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1cc[nH]c1]]",
+      "choices": [
+        "pyrrole",
+        "pyrrolidine",
+        "Δ¹-pyrroline",
+        "imidazole",
+        "pyrazole"
+      ],
+      "answer": "pyrrole",
+      "explanation": "정답: pyrrole\n5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 12,
+      "question": "[구조 기초 · 5원 질소 고리]\n다음 구조의 이름은?\n[[smi:C1CCNC1]]",
+      "choices": [
+        "pyrrole",
+        "pyrrolidine",
+        "Δ¹-pyrroline",
+        "imidazole",
+        "pyrazole"
+      ],
+      "answer": "pyrrolidine",
+      "explanation": "정답: pyrrolidine\n5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 13,
+      "question": "[구조 기초 · 5원 질소 고리]\n다음 구조의 이름은?\n[[smi:C1CN=CC1]]",
+      "choices": [
+        "pyrrole",
+        "pyrrolidine",
+        "Δ¹-pyrroline",
+        "imidazole",
+        "pyrazole"
+      ],
+      "answer": "Δ¹-pyrroline",
+      "explanation": "정답: Δ¹-pyrroline\n5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 14,
+      "question": "[구조 기초 · 5원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1c[nH]cn1]]",
+      "choices": [
+        "pyrrole",
+        "pyrrolidine",
+        "Δ¹-pyrroline",
+        "imidazole",
+        "pyrazole"
+      ],
+      "answer": "imidazole",
+      "explanation": "정답: imidazole\n5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 15,
+      "question": "[구조 기초 · 5원 질소 고리]\n다음 구조의 이름은?\n[[smi:c1cn[nH]c1]]",
+      "choices": [
+        "pyrrole",
+        "pyrrolidine",
+        "Δ¹-pyrroline",
+        "imidazole",
+        "pyrazole"
+      ],
+      "answer": "pyrazole",
+      "explanation": "정답: pyrazole\n5원 방향족, N 2개가 1,2(이웃) 위치\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 16,
+      "question": "[구조 기초 · 5원 질소 고리]\n'pyrrole'의 구조는?",
+      "choices": [
+        "[[smi:c1cc[nH]c1]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:C1CN=CC1]]",
+        "[[smi:c1c[nH]cn1]]",
+        "[[smi:c1cn[nH]c1]]"
+      ],
+      "answer": "[[smi:c1cc[nH]c1]]",
+      "explanation": "정답: pyrrole\n5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 17,
+      "question": "[구조 기초 · 5원 질소 고리]\n'pyrrolidine'의 구조는?",
+      "choices": [
+        "[[smi:c1cc[nH]c1]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:C1CN=CC1]]",
+        "[[smi:c1c[nH]cn1]]",
+        "[[smi:c1cn[nH]c1]]"
+      ],
+      "answer": "[[smi:C1CCNC1]]",
+      "explanation": "정답: pyrrolidine\n5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 18,
+      "question": "[구조 기초 · 5원 질소 고리]\n'Δ¹-pyrroline'의 구조는?",
+      "choices": [
+        "[[smi:c1cc[nH]c1]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:C1CN=CC1]]",
+        "[[smi:c1c[nH]cn1]]",
+        "[[smi:c1cn[nH]c1]]"
+      ],
+      "answer": "[[smi:C1CN=CC1]]",
+      "explanation": "정답: Δ¹-pyrroline\n5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 19,
+      "question": "[구조 기초 · 5원 질소 고리]\n'imidazole'의 구조는?",
+      "choices": [
+        "[[smi:c1cc[nH]c1]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:C1CN=CC1]]",
+        "[[smi:c1c[nH]cn1]]",
+        "[[smi:c1cn[nH]c1]]"
+      ],
+      "answer": "[[smi:c1c[nH]cn1]]",
+      "explanation": "정답: imidazole\n5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 20,
+      "question": "[구조 기초 · 5원 질소 고리]\n'pyrazole'의 구조는?",
+      "choices": [
+        "[[smi:c1cc[nH]c1]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:C1CN=CC1]]",
+        "[[smi:c1c[nH]cn1]]",
+        "[[smi:c1cn[nH]c1]]"
+      ],
+      "answer": "[[smi:c1cn[nH]c1]]",
+      "explanation": "정답: pyrazole\n5원 방향족, N 2개가 1,2(이웃) 위치\n\n이 묶음 구별 포인트:\n· pyrrole: 5원 방향족(이중결합 2개), N 1개 — porphyrin·indole의 5원 쪽\n· pyrrolidine: 5원 포화, N 1개 — Orn 유래(nicotine의 한쪽, hygrine)\n· Δ¹-pyrroline: 5원, C=N 이중결합 1개 — pyrrolinium(tropane·nicotine 생합성 중간체)\n· imidazole: 5원 방향족, N 2개가 1,3 위치 — His 유래(pilocarpine, histamine)\n· pyrazole: 5원 방향족, N 2개가 1,2(이웃) 위치"
+    },
+    {
+      "id": 21,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n다음 구조의 이름은?\n[[smi:c1ccoc1]]",
+      "choices": [
+        "furan",
+        "tetrahydrofuran",
+        "thiophene",
+        "oxazole",
+        "thiazole"
+      ],
+      "answer": "furan",
+      "explanation": "정답: furan\n5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 22,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n다음 구조의 이름은?\n[[smi:C1CCOC1]]",
+      "choices": [
+        "furan",
+        "tetrahydrofuran",
+        "thiophene",
+        "oxazole",
+        "thiazole"
+      ],
+      "answer": "tetrahydrofuran",
+      "explanation": "정답: tetrahydrofuran\n5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 23,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n다음 구조의 이름은?\n[[smi:c1ccsc1]]",
+      "choices": [
+        "furan",
+        "tetrahydrofuran",
+        "thiophene",
+        "oxazole",
+        "thiazole"
+      ],
+      "answer": "thiophene",
+      "explanation": "정답: thiophene\n5원 방향족, S 1개\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 24,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n다음 구조의 이름은?\n[[smi:c1cocn1]]",
+      "choices": [
+        "furan",
+        "tetrahydrofuran",
+        "thiophene",
+        "oxazole",
+        "thiazole"
+      ],
+      "answer": "oxazole",
+      "explanation": "정답: oxazole\n5원 방향족, O와 N이 1,3 위치\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 25,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n다음 구조의 이름은?\n[[smi:c1cscn1]]",
+      "choices": [
+        "furan",
+        "tetrahydrofuran",
+        "thiophene",
+        "oxazole",
+        "thiazole"
+      ],
+      "answer": "thiazole",
+      "explanation": "정답: thiazole\n5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 26,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n'furan'의 구조는?",
+      "choices": [
+        "[[smi:c1ccoc1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:c1ccsc1]]",
+        "[[smi:c1cocn1]]",
+        "[[smi:c1cscn1]]"
+      ],
+      "answer": "[[smi:c1ccoc1]]",
+      "explanation": "정답: furan\n5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 27,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n'tetrahydrofuran'의 구조는?",
+      "choices": [
+        "[[smi:c1ccoc1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:c1ccsc1]]",
+        "[[smi:c1cocn1]]",
+        "[[smi:c1cscn1]]"
+      ],
+      "answer": "[[smi:C1CCOC1]]",
+      "explanation": "정답: tetrahydrofuran\n5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 28,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n'thiophene'의 구조는?",
+      "choices": [
+        "[[smi:c1ccoc1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:c1ccsc1]]",
+        "[[smi:c1cocn1]]",
+        "[[smi:c1cscn1]]"
+      ],
+      "answer": "[[smi:c1ccsc1]]",
+      "explanation": "정답: thiophene\n5원 방향족, S 1개\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 29,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n'oxazole'의 구조는?",
+      "choices": [
+        "[[smi:c1ccoc1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:c1ccsc1]]",
+        "[[smi:c1cocn1]]",
+        "[[smi:c1cscn1]]"
+      ],
+      "answer": "[[smi:c1cocn1]]",
+      "explanation": "정답: oxazole\n5원 방향족, O와 N이 1,3 위치\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    },
+    {
+      "id": 30,
+      "question": "[구조 기초 · 5원 산소·황 고리]\n'thiazole'의 구조는?",
+      "choices": [
+        "[[smi:c1ccoc1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:c1ccsc1]]",
+        "[[smi:c1cocn1]]",
+        "[[smi:c1cscn1]]"
+      ],
+      "answer": "[[smi:c1cscn1]]",
+      "explanation": "정답: thiazole\n5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)\n\n이 묶음 구별 포인트:\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· tetrahydrofuran: 5원 포화, O 1개 — 당(furanose), monofuranoid lignan\n· thiophene: 5원 방향족, S 1개\n· oxazole: 5원 방향족, O와 N이 1,3 위치\n· thiazole: 5원 방향족, S와 N이 1,3 위치 — vitamin B1(thiamine)"
+    }
+  ]
+}
