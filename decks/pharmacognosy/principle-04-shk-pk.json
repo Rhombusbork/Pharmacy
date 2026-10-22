@@ -1,0 +1,367 @@
+{
+  "deckId": "pharmacognosy-principle-04-shk-pk",
+  "subject": "생약학",
+  "title": "원리 4 · Shikimate·Polyketide 원리",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[원리] 사람이 Phe·Trp를 음식으로 먹어야 하는(필수 아미노산) 이유는?",
+      "choices": [
+        "동물에는 shikimate 경로가 없어 방향족 아미노산을 만들지 못하기 때문",
+        "너무 쓴맛이라서",
+        "질소가 없어서",
+        "간에서 분해돼서"
+      ],
+      "answer": "동물에는 shikimate 경로가 없어 방향족 아미노산을 만들지 못하기 때문",
+      "explanation": "정답: 동물에는 shikimate 경로가 없어 방향족 아미노산을 만들지 못하기 때문\n(참고) 그래서 EPSP synthase를 막는 glyphosate는 식물에는 치명적이지만 사람에게는 이 표적이 없다.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 2,
+      "question": "[원리] chorismic acid가 '분기점'인 이유는?\n[[smi:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1]]",
+      "choices": [
+        "여기서 prephenic acid(→ Phe·Tyr)와 anthranilic acid(→ Trp) 쪽으로 갈라지기 때문",
+        "마지막 산물이라서",
+        "질소가 있어서",
+        "가장 안정해서"
+      ],
+      "answer": "여기서 prephenic acid(→ Phe·Tyr)와 anthranilic acid(→ Trp) 쪽으로 갈라지기 때문",
+      "explanation": "정답: 여기서 prephenic acid(→ Phe·Tyr)와 anthranilic acid(→ Trp) 쪽으로 갈라지기 때문\nClaisen 재배열 → prephenic acid / 아미노기 도입 → anthranilic acid.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]\n[[img:pharmacognosy/local/shk-p04.png|PPT shk-p04]]"
+    },
+    {
+      "id": 3,
+      "question": "[원리] PAL 반응이 phenylpropanoid 대사의 '관문'인 이유는?\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)/C=C/c1ccccc1|PAL|−NH₃]]",
+      "choices": [
+        "단백질용 아미노산(Phe)을 2차 대사(C6C3)로 넘기는 첫 비가역 단계라서",
+        "질소를 넣는 단계라서",
+        "당을 붙이는 단계라서",
+        "ATP를 만드는 단계라서"
+      ],
+      "answer": "단백질용 아미노산(Phe)을 2차 대사(C6C3)로 넘기는 첫 비가역 단계라서",
+      "explanation": "정답: 단백질용 아미노산(Phe)을 2차 대사(C6C3)로 넘기는 첫 비가역 단계라서\n탈암모니아로 C6C3(cinnamic acid) — 이후 coumarin, lignan, flavonoid, tannin 등이 모두 여기서 출발.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p05.png|PPT shk-p05]]\n[[img:pharmacognosy/local/shk-p06.png|PPT shk-p06]]"
+    },
+    {
+      "id": 4,
+      "question": "[원리] cinnamic acid가 coumarin이 되려면 trans→cis 이성질화가 꼭 필요한 이유는?",
+      "choices": [
+        "trans형에서는 COOH가 2번 OH와 멀어 lactone(고리 에스터)을 닫을 수 없기 때문",
+        "cis가 더 안정해서",
+        "빛을 막으려고",
+        "질소가 필요해서"
+      ],
+      "answer": "trans형에서는 COOH가 2번 OH와 멀어 lactone(고리 에스터)을 닫을 수 없기 때문",
+      "explanation": "정답: trans형에서는 COOH가 2번 OH와 멀어 lactone(고리 에스터)을 닫을 수 없기 때문\n빛(hν)이 이성질화를 일으킨다.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p07.png|PPT shk-p07]]"
+    },
+    {
+      "id": 5,
+      "question": "[원리] 천연 coumarin의 70% 이상이 7번에 산소를 갖는 이유는?\n[[rxn:OC(=O)/C=C/c1ccc(O)cc1>>O=C1C=Cc2ccc(O)cc2O1|2-수산화, lactone]]",
+      "choices": [
+        "대부분 p-coumaric acid(4-OH)에서 출발하는데, coumarin 번호로 바뀌면 그 4-OH가 7번이 되기 때문",
+        "7번이 가장 반응성이 커서",
+        "우연",
+        "polyketide라서"
+      ],
+      "answer": "대부분 p-coumaric acid(4-OH)에서 출발하는데, coumarin 번호로 바뀌면 그 4-OH가 7번이 되기 때문",
+      "explanation": "정답: 대부분 p-coumaric acid(4-OH)에서 출발하는데, coumarin 번호로 바뀌면 그 4-OH가 7번이 되기 때문\numbelliferone(7-OH)이 대부분 coumarin의 모체.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p07.png|PPT shk-p07]]\n[[img:pharmacognosy/local/shk-p05.png|PPT shk-p05]]"
+    },
+    {
+      "id": 6,
+      "question": "[원리] furanocoumarin이 linear(psoralen)와 angular(angelicin)로 나뉘는 원리는?",
+      "choices": [
+        "umbelliferone에 prenyl이 6번(→ 직선형)에 붙느냐 8번(→ 각형)에 붙느냐의 차이",
+        "산소 수",
+        "당 유무",
+        "질소 위치"
+      ],
+      "answer": "umbelliferone에 prenyl이 6번(→ 직선형)에 붙느냐 8번(→ 각형)에 붙느냐의 차이",
+      "explanation": "정답: umbelliferone에 prenyl이 6번(→ 직선형)에 붙느냐 8번(→ 각형)에 붙느냐의 차이\n둘 다 7-OH의 ortho 자리.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p09.png|PPT shk-p09]]"
+    },
+    {
+      "id": 7,
+      "question": "[원리] psoralen이 백반병 치료에 쓰이는 원리는?",
+      "choices": [
+        "광감작 — 피부에 바르고/먹고 UVA를 쬐면 DNA와 결합·반응하여 멜라닌 생성을 자극(PUVA, 참고)",
+        "멜라닌을 분해해서",
+        "항균 작용",
+        "항응고"
+      ],
+      "answer": "광감작 — 피부에 바르고/먹고 UVA를 쬐면 DNA와 결합·반응하여 멜라닌 생성을 자극(PUVA, 참고)",
+      "explanation": "정답: 광감작 — 피부에 바르고/먹고 UVA를 쬐면 DNA와 결합·반응하여 멜라닌 생성을 자극(PUVA, 참고)\n평평한 3환 구조가 DNA 사이에 끼어든다. 그래서 광독성 주의.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p09.png|PPT shk-p09]]"
+    },
+    {
+      "id": 8,
+      "question": "[원리] dicoumarol이 소의 출혈을 일으킨 원리는?\n[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]",
+      "choices": [
+        "상한 sweet clover의 coumarin이 미생물에 의해 4-hydroxycoumarin 2분자 + HCHO로 결합 → vitamin K 작용을 막아 응고인자 생성 저해",
+        "혈소판을 직접 파괴해서",
+        "혈관을 넓혀서",
+        "Na⁺ 펌프 저해"
+      ],
+      "answer": "상한 sweet clover의 coumarin이 미생물에 의해 4-hydroxycoumarin 2분자 + HCHO로 결합 → vitamin K 작용을 막아 응고인자 생성 저해",
+      "explanation": "정답: 상한 sweet clover의 coumarin이 미생물에 의해 4-hydroxycoumarin 2분자 + HCHO로 결합 → vitamin K 작용을 막아 응고인자 생성 저해\n4-hydroxycoumarin 구조가 vitamin K(naphthoquinone)와 닮아 경쟁. → warfarin.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p11.png|PPT shk-p11]]\n[[img:pharmacognosy/local/shk-p12.png|PPT shk-p12]]"
+    },
+    {
+      "id": 9,
+      "question": "[원리] warfarin이 '살서제(쥐약)'와 '항응고제' 둘 다로 쓰이는 이유는?",
+      "choices": [
+        "같은 기전(vitamin K 길항)이 용량에 따라 치료(혈전 예방)도, 치명적 출혈도 일으키기 때문",
+        "기전이 서로 다르기 때문",
+        "쥐에만 작용해서",
+        "독성이 없어서"
+      ],
+      "answer": "같은 기전(vitamin K 길항)이 용량에 따라 치료(혈전 예방)도, 치명적 출혈도 일으키기 때문",
+      "explanation": "정답: 같은 기전(vitamin K 길항)이 용량에 따라 치료(혈전 예방)도, 치명적 출혈도 일으키기 때문\n\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p11.png|PPT shk-p11]]\n[[img:pharmacognosy/local/pk-p20.png|PPT pk-p20]]"
+    },
+    {
+      "id": 10,
+      "question": "[원리] isocoumarin이 coumarin과 이름이 비슷한데 shikimate가 아니라 polyketide인 이유는?",
+      "choices": [
+        "lactone 고리의 방향이 반대(1H-2-benzopyran-1-one)이고 방향환이 poly-β-keto 사슬에서 고리화되어 생기기 때문",
+        "질소가 있어서",
+        "C5 단위라서",
+        "같은 경로다"
+      ],
+      "answer": "lactone 고리의 방향이 반대(1H-2-benzopyran-1-one)이고 방향환이 poly-β-keto 사슬에서 고리화되어 생기기 때문",
+      "explanation": "정답: lactone 고리의 방향이 반대(1H-2-benzopyran-1-one)이고 방향환이 poly-β-keto 사슬에서 고리화되어 생기기 때문\n이름이 비슷해도 기원이 다른 대표 예. chromone(4H-1-benzopyran-4-one)도 polyketide.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p13.png|PPT shk-p13]]\n[[img:pharmacognosy/local/pk-p29.png|PPT pk-p29]]"
+    },
+    {
+      "id": 11,
+      "question": "[원리] lignan이 coniferyl alcohol 두 분자에서 만들어지는 원리는?\n[[smi:COc1cc(/C=C/CO)ccc1O]]",
+      "choices": [
+        "페놀이 1전자 산화되어 생긴 라디칼이 공명으로 곁사슬 8번에도 퍼지고, 두 라디칼이 8-8′로 짝지음",
+        "Claisen 축합",
+        "Diels-Alder",
+        "가수분해"
+      ],
+      "answer": "페놀이 1전자 산화되어 생긴 라디칼이 공명으로 곁사슬 8번에도 퍼지고, 두 라디칼이 8-8′로 짝지음",
+      "explanation": "정답: 페놀이 1전자 산화되어 생긴 라디칼이 공명으로 곁사슬 8번에도 퍼지고, 두 라디칼이 8-8′로 짝지음\n다른 위치로 짝지으면 neolignan, 계속 중합하면 lignin.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p16.png|PPT shk-p16]]\n[[img:pharmacognosy/local/shk-p14.png|PPT shk-p14]]"
+    },
+    {
+      "id": 12,
+      "question": "[원리] lignin이 물에 녹지 않고 단단한 이유는?",
+      "choices": [
+        "phenylpropanoid 알코올이 라디칼 결합으로 무작위 3차원 그물 구조의 거대 중합체가 되기 때문",
+        "당이라서",
+        "질소가 많아서",
+        "결정이라서"
+      ],
+      "answer": "phenylpropanoid 알코올이 라디칼 결합으로 무작위 3차원 그물 구조의 거대 중합체가 되기 때문",
+      "explanation": "정답: phenylpropanoid 알코올이 라디칼 결합으로 무작위 3차원 그물 구조의 거대 중합체가 되기 때문\n목재의 20~30%, 세포벽에 침착(목화).\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p23.png|PPT shk-p23]]"
+    },
+    {
+      "id": 13,
+      "question": "[원리] 겉씨식물과 속씨식물의 lignin 구성 단위가 다른 것을 이용할 수 있는 점은?",
+      "choices": [
+        "lignin 분해 산물(vanillin vs syringaldehyde 등)로 목재·식물군을 구별할 수 있다(참고)",
+        "맛을 구별",
+        "독성 구별",
+        "색 구별"
+      ],
+      "answer": "lignin 분해 산물(vanillin vs syringaldehyde 등)로 목재·식물군을 구별할 수 있다(참고)",
+      "explanation": "정답: lignin 분해 산물(vanillin vs syringaldehyde 등)로 목재·식물군을 구별할 수 있다(참고)\n겉씨: coniferyl / 속씨: coniferyl + sinapyl / 벼과: + p-coumaryl.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p23.png|PPT shk-p23]]"
+    },
+    {
+      "id": 14,
+      "question": "[원리] silymarin이 간을 보호하는 원리로 PPT에 나온 것은?",
+      "choices": [
+        "독소가 간세포로 흡수되는 것을 막고, 항산화제·radical scavenger로 작용",
+        "간세포를 새로 만들어서",
+        "PAF 길항",
+        "Na⁺ 펌프 저해"
+      ],
+      "answer": "독소가 간세포로 흡수되는 것을 막고, 항산화제·radical scavenger로 작용",
+      "explanation": "정답: 독소가 간세포로 흡수되는 것을 막고, 항산화제·radical scavenger로 작용\nflavonoid(taxifolin) + coniferyl alcohol 결합 = flavolignan.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p22.png|PPT shk-p22]]"
+    },
+    {
+      "id": 15,
+      "question": "[원리] podophyllotoxin 자체보다 etoposide를 항암제로 쓰는 이유로 알맞은 것은?",
+      "choices": [
+        "반합성으로 구조를 바꿔(당 부가, 4′-탈메틸) 독성을 줄이고 작용(topoisomerase II 저해)을 바꾼 것이기 때문(참고)",
+        "천연물이 더 비싸서",
+        "질소를 넣어서",
+        "같은 물질이라서"
+      ],
+      "answer": "반합성으로 구조를 바꿔(당 부가, 4′-탈메틸) 독성을 줄이고 작용(topoisomerase II 저해)을 바꾼 것이기 때문(참고)",
+      "explanation": "정답: 반합성으로 구조를 바꿔(당 부가, 4′-탈메틸) 독성을 줄이고 작용(topoisomerase II 저해)을 바꾼 것이기 때문(참고)\n천연물을 template로 신약을 만드는 대표 예.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p18.png|PPT shk-p18]]\n[[img:pharmacognosy/local/in2-p39.png|PPT in2-p39]]"
+    },
+    {
+      "id": 16,
+      "question": "[원리] malonyl-CoA가 polyketide 사슬 연장에 쓰이는 이유는?\n[[rxn:OC(=O)CC(=O)SC.CC(=O)SC>>CC(=O)CC(=O)SC|Claisen|−CO₂]]",
+      "choices": [
+        "탈탄산(CO₂ 이탈)이 반응을 한쪽으로 밀어줘(비가역) acetyl-CoA끼리보다 축합이 쉬워지기 때문",
+        "탄소가 3개라서 C3씩 늘어서",
+        "질소가 있어서",
+        "ATP를 만들어서"
+      ],
+      "answer": "탈탄산(CO₂ 이탈)이 반응을 한쪽으로 밀어줘(비가역) acetyl-CoA끼리보다 축합이 쉬워지기 때문",
+      "explanation": "정답: 탈탄산(CO₂ 이탈)이 반응을 한쪽으로 밀어줘(비가역) acetyl-CoA끼리보다 축합이 쉬워지기 때문\n그래서 malonyl-CoA(C3)가 붙어도 실제로는 C2만 늘어난다.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]"
+    },
+    {
+      "id": 17,
+      "question": "[원리] resorcinol형(aldol)과 phloroglucinol형(Claisen)에서 곁사슬 R의 탄소 수가 홀수/짝수로 갈리는 이유는?",
+      "choices": [
+        "aldol은 사슬 중간의 CH₂가 카보닐을 공격하고 끝의 COSEnz는 곁사슬 쪽에 남아(탈탄산 시 홀수), Claisen은 끝 thioester 카보닐을 공격해 acyl 곁사슬(짝수)이 남기 때문",
+        "우연",
+        "효소 크기",
+        "산소 수"
+      ],
+      "answer": "aldol은 사슬 중간의 CH₂가 카보닐을 공격하고 끝의 COSEnz는 곁사슬 쪽에 남아(탈탄산 시 홀수), Claisen은 끝 thioester 카보닐을 공격해 acyl 곁사슬(짝수)이 남기 때문",
+      "explanation": "정답: aldol은 사슬 중간의 CH₂가 카보닐을 공격하고 끝의 COSEnz는 곁사슬 쪽에 남아(탈탄산 시 홀수), Claisen은 끝 thioester 카보닐을 공격해 acyl 곁사슬(짝수)이 남기 때문\norsellinic acid(R = CH₃, COOH) vs phloracetophenone(R = COCH₃). olivetol은 pentyl(홀수) → resorcinol형.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]\n[[img:pharmacognosy/local/pk-p03.png|PPT pk-p03]]"
+    },
+    {
+      "id": 18,
+      "question": "[원리] starter unit이 바뀌면 산물이 크게 달라지는 예로 옳은 것은?",
+      "choices": [
+        "hexanoyl-CoA → cannabinoid(pentyl 곁사슬), palmitoleyl-CoA → urushiol(긴 C15 사슬), propionyl-CoA → anthracycline",
+        "starter는 항상 acetyl-CoA",
+        "starter는 IPP",
+        "starter는 아미노산만"
+      ],
+      "answer": "hexanoyl-CoA → cannabinoid(pentyl 곁사슬), palmitoleyl-CoA → urushiol(긴 C15 사슬), propionyl-CoA → anthracycline",
+      "explanation": "정답: hexanoyl-CoA → cannabinoid(pentyl 곁사슬), palmitoleyl-CoA → urushiol(긴 C15 사슬), propionyl-CoA → anthracycline\nstarter가 방향환에 붙는 곁사슬이 된다. 옻의 피부염은 긴 지용성 사슬 + catechol 때문(참고).\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p07.png|PPT pk-p07]]\n[[img:pharmacognosy/local/pk-p32.png|PPT pk-p32]]\n[[img:pharmacognosy/local/pk-p33.png|PPT pk-p33]]"
+    },
+    {
+      "id": 19,
+      "question": "[원리] anthraquinone 사하제가 '대장'에서만 작용하는 원리는?",
+      "choices": [
+        "당이 붙은 배당체라 위·소장에서 거의 흡수되지 않고 대장까지 가서, 장내세균이 당을 떼고 환원해 활성형 anthrone을 만든다",
+        "위에서 흡수돼 혈액으로 대장에 가서",
+        "소장 효소가 활성화해서",
+        "간에서 활성화"
+      ],
+      "answer": "당이 붙은 배당체라 위·소장에서 거의 흡수되지 않고 대장까지 가서, 장내세균이 당을 떼고 환원해 활성형 anthrone을 만든다",
+      "explanation": "정답: 당이 붙은 배당체라 위·소장에서 거의 흡수되지 않고 대장까지 가서, 장내세균이 당을 떼고 환원해 활성형 anthrone을 만든다\n일종의 천연 prodrug. 당이 많을수록 수용성↑, 흡수↓ → 더 많이 대장 도달 → 효과↑.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p24.png|PPT pk-p24]]"
+    },
+    {
+      "id": 20,
+      "question": "[원리] sennoside(dianthrone 배당체)가 활성이 가장 강한 이유는?",
+      "choices": [
+        "두 anthrone이 이어진 dianthrone이라 분해되면 활성형 anthrone(rhein anthrone) 2분자를 내고, 배당체라 대장까지 잘 전달되기 때문",
+        "질소가 있어서",
+        "가장 작아서",
+        "유리형이라서"
+      ],
+      "answer": "두 anthrone이 이어진 dianthrone이라 분해되면 활성형 anthrone(rhein anthrone) 2분자를 내고, 배당체라 대장까지 잘 전달되기 때문",
+      "explanation": "정답: 두 anthrone이 이어진 dianthrone이라 분해되면 활성형 anthrone(rhein anthrone) 2분자를 내고, 배당체라 대장까지 잘 전달되기 때문\n활성: dianthrone > anthrone 배당체 > 유리형.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p24.png|PPT pk-p24]]"
+    },
+    {
+      "id": 21,
+      "question": "[원리] 대황을 1년 묵혀 쓰는 이유를 산화 상태로 설명하면?\n[[rxn:Oc1c2ccccc2cc2ccccc12>>O=C1c2ccccc2C(=O)c2ccccc21|[O] (보관 중 산화)]]",
+      "choices": [
+        "신선품에 많은 anthranol·anthrone(환원형)은 작용이 너무 강해 구토·출혈을 일으키는데, 1년 보관하면 산화되어 완화된 anthraquinone이 되기 때문",
+        "1년 지나야 당이 생겨서",
+        "곰팡이를 키우려고",
+        "색을 진하게 하려고"
+      ],
+      "answer": "신선품에 많은 anthranol·anthrone(환원형)은 작용이 너무 강해 구토·출혈을 일으키는데, 1년 보관하면 산화되어 완화된 anthraquinone이 되기 때문",
+      "explanation": "정답: 신선품에 많은 anthranol·anthrone(환원형)은 작용이 너무 강해 구토·출혈을 일으키는데, 1년 보관하면 산화되어 완화된 anthraquinone이 되기 때문\nanthranol ⇌ anthrone →[O]→ anthraquinone.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p24.png|PPT pk-p24]]"
+    },
+    {
+      "id": 22,
+      "question": "[원리] Bornträger 반응에서 anthraquinone이 알칼리에 적색을 내는 원리는?",
+      "choices": [
+        "페놀 OH가 알칼리에서 phenolate(음이온)가 되어 퀴논과 공액이 길어지고 흡수 파장이 바뀌기 때문",
+        "알칼리가 산화제라서",
+        "당이 떨어져서",
+        "금속 착물"
+      ],
+      "answer": "페놀 OH가 알칼리에서 phenolate(음이온)가 되어 퀴논과 공액이 길어지고 흡수 파장이 바뀌기 때문",
+      "explanation": "정답: 페놀 OH가 알칼리에서 phenolate(음이온)가 되어 퀴논과 공액이 길어지고 흡수 파장이 바뀌기 때문\n배당체는 먼저 산 가수분해 → ether 추출 → 알칼리층 적색.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p24.png|PPT pk-p24]]\n[[img:pharmacognosy/local/in3-p16.png|PPT in3-p16]]"
+    },
+    {
+      "id": 23,
+      "question": "[원리] shikonin과 alkannin이 같은 색소인데 다른 식물에서 다른 이름으로 불리는 이유는?",
+      "choices": [
+        "곁사슬 OH의 입체(R/S)만 다른 거울상 이성질체라 화학적 성질(색)은 같지만 기원 식물이 다르기 때문",
+        "탄소 수가 달라서",
+        "하나는 anthraquinone",
+        "하나는 배당체"
+      ],
+      "answer": "곁사슬 OH의 입체(R/S)만 다른 거울상 이성질체라 화학적 성질(색)은 같지만 기원 식물이 다르기 때문",
+      "explanation": "정답: 곁사슬 OH의 입체(R/S)만 다른 거울상 이성질체라 화학적 성질(색)은 같지만 기원 식물이 다르기 때문\n자근(Lithospermum) – shikonin / Alkanna – alkannin.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p18.png|PPT pk-p18]]\n[[img:pharmacognosy/local/pk-p20.png|PPT pk-p20]]"
+    },
+    {
+      "id": 24,
+      "question": "[원리] vitamin K가 혈액응고에 필요한 이유와 warfarin의 관계로 옳은 것은?",
+      "choices": [
+        "vitamin K(naphthoquinone)는 응고인자(prothrombin 등) 활성화에 필요한 조효소이고, warfarin·dicoumarol은 그 재생을 막는다",
+        "vitamin K가 혈소판이라서",
+        "warfarin이 vitamin K를 만든다",
+        "무관"
+      ],
+      "answer": "vitamin K(naphthoquinone)는 응고인자(prothrombin 등) 활성화에 필요한 조효소이고, warfarin·dicoumarol은 그 재생을 막는다",
+      "explanation": "정답: vitamin K(naphthoquinone)는 응고인자(prothrombin 등) 활성화에 필요한 조효소이고, warfarin·dicoumarol은 그 재생을 막는다\n\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p20.png|PPT pk-p20]]\n[[img:pharmacognosy/local/shk-p11.png|PPT shk-p11]]"
+    },
+    {
+      "id": 25,
+      "question": "[원리] ubiquinone(CoQ)과 plastoquinone이 전자를 나를 수 있는 이유는?",
+      "choices": [
+        "quinone ⇌ hydroquinone으로 산화·환원이 가역적으로 일어나 전자 2개(+H⁺ 2개)를 주고받을 수 있기 때문",
+        "질소가 있어서",
+        "당이 있어서",
+        "금속이 있어서"
+      ],
+      "answer": "quinone ⇌ hydroquinone으로 산화·환원이 가역적으로 일어나 전자 2개(+H⁺ 2개)를 주고받을 수 있기 때문",
+      "explanation": "정답: quinone ⇌ hydroquinone으로 산화·환원이 가역적으로 일어나 전자 2개(+H⁺ 2개)를 주고받을 수 있기 때문\n긴 isoprenoid 꼬리는 막 안에 머물게 한다(참고).\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p16.png|PPT pk-p16]]"
+    },
+    {
+      "id": 26,
+      "question": "[원리] hypericin의 '광역학(photodynamic)' 효과란?",
+      "choices": [
+        "빛을 흡수한 뒤 활성산소를 만들어 세포를 손상시키는 것 — 많이 먹은 가축의 광과민증",
+        "빛을 막아 주는 것",
+        "빛을 내는 것",
+        "열을 내는 것"
+      ],
+      "answer": "빛을 흡수한 뒤 활성산소를 만들어 세포를 손상시키는 것 — 많이 먹은 가축의 광과민증",
+      "explanation": "정답: 빛을 흡수한 뒤 활성산소를 만들어 세포를 손상시키는 것 — 많이 먹은 가축의 광과민증\n거대 공액 고리(extended quinone) 때문.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p26.png|PPT pk-p26]]"
+    },
+    {
+      "id": 27,
+      "question": "[원리] tetracycline을 소아·임산부에게 쓰지 않는 이유를 구조로 설명하면?",
+      "choices": [
+        "여러 개의 β-diketone·phenol이 Ca²⁺와 킬레이트를 만들어 자라는 뼈·치아에 침착(변색)되기 때문",
+        "질소가 있어서",
+        "위산에 약해서",
+        "간독성"
+      ],
+      "answer": "여러 개의 β-diketone·phenol이 Ca²⁺와 킬레이트를 만들어 자라는 뼈·치아에 침착(변색)되기 때문",
+      "explanation": "정답: 여러 개의 β-diketone·phenol이 Ca²⁺와 킬레이트를 만들어 자라는 뼈·치아에 침착(변색)되기 때문\n같은 이유로 우유·제산제와 함께 먹으면 흡수가 줄어든다(참고).\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p34.png|PPT pk-p34]]"
+    },
+    {
+      "id": 28,
+      "question": "[원리] erythromycin을 장용피정으로 만드는 이유는?",
+      "choices": [
+        "위산에서 분자 내 hemiketal 형성으로 쉽게 분해(불활성화)되기 때문 — clarithromycin·azithromycin은 이를 개선",
+        "맛이 써서",
+        "질소가 많아서",
+        "Ca와 결합해서"
+      ],
+      "answer": "위산에서 분자 내 hemiketal 형성으로 쉽게 분해(불활성화)되기 때문 — clarithromycin·azithromycin은 이를 개선",
+      "explanation": "정답: 위산에서 분자 내 hemiketal 형성으로 쉽게 분해(불활성화)되기 때문 — clarithromycin·azithromycin은 이를 개선\nPPT p.35.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p35.png|PPT pk-p35]]"
+    },
+    {
+      "id": 29,
+      "question": "[원리] 일당귀와 참당귀를 성분으로 구별할 수 있는 원리는?",
+      "choices": [
+        "참당귀는 decursin(pyranocoumarin, shikimate+mevalonate), 일당귀는 ligustilide(phthalide)·falcarinol(polyacetylene)처럼 서로 다른 경로의 지표성분을 가지기 때문",
+        "색이 달라서",
+        "질소 유무",
+        "같다"
+      ],
+      "answer": "참당귀는 decursin(pyranocoumarin, shikimate+mevalonate), 일당귀는 ligustilide(phthalide)·falcarinol(polyacetylene)처럼 서로 다른 경로의 지표성분을 가지기 때문",
+      "explanation": "정답: 참당귀는 decursin(pyranocoumarin, shikimate+mevalonate), 일당귀는 ligustilide(phthalide)·falcarinol(polyacetylene)처럼 서로 다른 경로의 지표성분을 가지기 때문\n지표성분 분석 = 기원 감정의 근거(이화학적 품질평가).\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p12.png|PPT pk-p12]]"
+    },
+    {
+      "id": 30,
+      "question": "[원리] polyacetylene 화합물이 '불안정(unstable)'한 이유는?",
+      "choices": [
+        "삼중결합(C≡C)이 여러 개 공액되어 빛·산소에 쉽게 산화·중합되기 때문",
+        "질소가 있어서",
+        "당이 있어서",
+        "고리가 많아서"
+      ],
+      "answer": "삼중결합(C≡C)이 여러 개 공액되어 빛·산소에 쉽게 산화·중합되기 때문",
+      "explanation": "정답: 삼중결합(C≡C)이 여러 개 공액되어 빛·산소에 쉽게 산화·중합되기 때문\n\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p10.png|PPT pk-p10]]"
+    }
+  ]
+}

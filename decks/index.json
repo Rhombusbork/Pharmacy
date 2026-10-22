@@ -92,6 +92,13 @@
     "pharmacognosy/path-04-polyketide.json",
     "pharmacognosy/path-05-flavonoid.json",
     "pharmacognosy/path-06-alk-orn-lys.json",
-    "pharmacognosy/path-07-alk-phe-trp.json"
+    "pharmacognosy/path-07-alk-phe-trp.json",
+    "pharmacognosy/principle-01-structure.json",
+    "pharmacognosy/principle-02-iso1.json",
+    "pharmacognosy/principle-03-iso2.json",
+    "pharmacognosy/principle-04-shk-pk.json",
+    "pharmacognosy/principle-05-cx-intro.json",
+    "pharmacognosy/principle-06-alk-1.json",
+    "pharmacognosy/principle-06-alk-2.json"
   ]
 }

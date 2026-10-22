@@ -1,0 +1,55 @@
+{
+  "deckId": "pharmacognosy-principle-06-alk-2",
+  "subject": "생약학",
+  "title": "원리 6 · Alkaloid 원리 (2)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[원리] 마늘을 자르거나 다져야 냄새가 나는 이유는?",
+      "choices": [
+        "조직이 파괴되어야 alliin이 alliinase와 만나 자극성 allicin이 생기기 때문",
+        "열 때문",
+        "산소 때문만",
+        "당 때문"
+      ],
+      "answer": "조직이 파괴되어야 alliin이 alliinase와 만나 자극성 allicin이 생기기 때문",
+      "explanation": "정답: 조직이 파괴되어야 alliin이 alliinase와 만나 자극성 allicin이 생기기 때문\nallicin + vitamin B1 → allithiamine(지용성, 흡수↑).\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p78.png|PPT alk-p78]]"
+    },
+    {
+      "id": 2,
+      "question": "[원리] 겨자·고추냉이를 갈아야 매운 이유는?",
+      "choices": [
+        "갈 때 myrosinase가 sinigrin(S-배당체)을 분해해 휘발성 allyl isothiocyanate가 생기기 때문",
+        "열 때문",
+        "capsaicin 때문",
+        "산 때문"
+      ],
+      "answer": "갈 때 myrosinase가 sinigrin(S-배당체)을 분해해 휘발성 allyl isothiocyanate가 생기기 때문",
+      "explanation": "정답: 갈 때 myrosinase가 sinigrin(S-배당체)을 분해해 휘발성 allyl isothiocyanate가 생기기 때문\n고추의 capsaicin(vanillylamide)은 효소 없이도 맵다 — 비휘발성.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p77.png|PPT alk-p77]]\n[[img:pharmacognosy/local/alk-p74.png|PPT alk-p74]]"
+    },
+    {
+      "id": 3,
+      "question": "[원리] capsaicin이 '진통' 외용제(신경통·근육통)로 쓰이는 원리로 알맞은 것은?",
+      "choices": [
+        "통증·열 수용체(TRPV1)를 반복 자극해 감각신경을 둔감화시키기 때문(참고)",
+        "Na⁺ 펌프 저해",
+        "마약성",
+        "염증 증가"
+      ],
+      "answer": "통증·열 수용체(TRPV1)를 반복 자극해 감각신경을 둔감화시키기 때문(참고)",
+      "explanation": "정답: 통증·열 수용체(TRPV1)를 반복 자극해 감각신경을 둔감화시키기 때문(참고)\nPPT: 피부자극제로 신경통·근육통.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p74.png|PPT alk-p74]]"
+    },
+    {
+      "id": 4,
+      "question": "[원리] alkaloid 정의 문제를 풀 때 기억할 핵심 기준 세 가지로 옳은 것은?",
+      "choices": [
+        "① 아미노산에서 왔는가 ② 질소가 고리 안에 있는가 ③ 염기성인가 — 셋 다 Yes면 true alkaloid",
+        "① 색 ② 맛 ③ 냄새",
+        "① 탄소 수 ② 산소 수 ③ 당 수",
+        "① 식물 ② 동물 ③ 미생물"
+      ],
+      "answer": "① 아미노산에서 왔는가 ② 질소가 고리 안에 있는가 ③ 염기성인가 — 셋 다 Yes면 true alkaloid",
+      "explanation": "정답: ① 아미노산에서 왔는가 ② 질소가 고리 안에 있는가 ③ 염기성인가 — 셋 다 Yes면 true alkaloid\n①Yes ②No → protoalkaloid(ephedrine, mescaline, capsaicin) / ①No ②Yes → pseudoalkaloid(caffeine, aconitine, 패모).\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p03.png|PPT alk-p03]]\n[[img:pharmacognosy/local/alk-p06.png|PPT alk-p06]]"
+    }
+  ]
+}
