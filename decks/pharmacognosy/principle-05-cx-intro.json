@@ -7,10 +7,11 @@
       "id": 1,
       "question": "[원리] 같은 p-coumaroyl-CoA + malonyl-CoA 3개 사슬에서 chalcone과 stilbene이 갈라지는 원리는?",
       "choices": [
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소",
+        "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다",
         "chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)",
-        "온도 차이",
-        "빛 유무",
-        "질소 유무"
+        "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
+        "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문"
       ],
       "answer": "chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)",
       "explanation": "정답: chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)\n같은 원료, 다른 접힘 → 다른 산물(polyketide 원리 그대로).\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p17.png|PPT cx-p17]]\n[[img:pharmacognosy/images/2023-mid-q27.png|족보 그림]]"
@@ -19,10 +20,11 @@
       "id": 2,
       "question": "[원리] chalcone이 flavanone으로 바뀌는 원리는?\n[[rxn:O=C(/C=C/c1ccc(O)cc1)c1c(O)cc(O)cc1O>>O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21|isomerase]]",
       "choices": [
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소",
+        "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
         "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다",
-        "산화",
-        "탈탄산",
-        "가수분해"
+        "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
+        "chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)"
       ],
       "answer": "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다",
       "explanation": "정답: A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다\n그래서 chalcone은 C환이 없고 번호 매김도 다르다.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p12.png|PPT cx-p12]]\n[[img:pharmacognosy/images/2023-mid-q27.png|족보 그림]]"
@@ -32,9 +34,10 @@
       "question": "[원리] flavone·flavonol이 flavanone보다 노란색이 진한 이유는?",
       "choices": [
         "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
-        "당 때문",
-        "질소 때문",
-        "금속 때문"
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소",
+        "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
+        "chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)",
+        "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다"
       ],
       "answer": "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
       "explanation": "정답: C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문\nflavanone은 2,3이 단일결합이라 거의 무색. 'flavus' = 노랑.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p09.png|PPT cx-p09]]"
@@ -43,10 +46,11 @@
       "id": 4,
       "question": "[원리] isoflavone이 phytoestrogen으로 작용하는 이유는?",
       "choices": [
+        "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다",
         "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
-        "steroid라서",
-        "질소가 있어서",
-        "단백질이라서"
+        "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
+        "chalcone synthase는 Claisen 고리화(탄소 보존), stilbene synthase는 aldol 고리화 + 탈탄산(CO₂ 이탈)",
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소"
       ],
       "answer": "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
       "explanation": "정답: 두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문\ndaidzein·genistein·coumestrol.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p11.png|PPT cx-p11]]"
@@ -55,10 +59,11 @@
       "id": 5,
       "question": "[원리] isoflavone의 B환이 C-3에 붙어 있는 이유(생합성)는?",
       "choices": [
-        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소",
-        "처음부터 C-3에 붙어서",
-        "polyketide가 달라서",
-        "우연"
+        "A환 2′-OH가 α,β-불포화 ketone에 분자 내 Michael 부가하여 C환(pyranone)을 닫는다",
+        "C환 2,3 이중결합이 A·B환과 공액을 이어 주어 흡수 파장이 길어지기 때문",
+        "anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문",
+        "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소"
       ],
       "answer": "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소",
       "explanation": "정답: flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소\n그래서 isoflavone은 콩과에 많다.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p10.png|PPT cx-p10]]\n[[img:pharmacognosy/images/2023-mid-q27.png|족보 그림]]"
@@ -79,10 +84,11 @@
       "id": 7,
       "question": "[원리] anthocyanin은 꽃·과일 색을 내는데, flavanone은 무색에 가까운 이유는?",
       "choices": [
+        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
         "anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문",
-        "당이 많아서",
-        "질소 때문",
-        "분자가 커서"
+        "stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다",
+        "두 페놀 OH 사이의 거리·평면 구조가 estradiol과 비슷해 estrogen 수용체에 결합하기 때문",
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소"
       ],
       "answer": "anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문",
       "explanation": "정답: anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문\n\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p13.png|PPT cx-p13]]\n[[img:pharmacognosy/local/cx-p08.png|PPT cx-p08]]"
@@ -92,9 +98,10 @@
       "question": "[원리] rhaponticin으로 품질 나쁜 대황(종대황)을 찾아내는 원리는?",
       "choices": [
         "stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다",
-        "맛",
-        "냄새",
-        "FeCl₃ 적색"
+        "anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문",
+        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
+        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
+        "flavanone에서 B환이 C-2 → C-3으로 이동(aryl migration)하기 때문 — 콩과 특유의 효소"
       ],
       "answer": "stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다",
       "explanation": "정답: stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다\n이화학적 품질평가(확인시험)의 좋은 예.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p17.png|PPT cx-p17]]"
@@ -103,10 +110,11 @@
       "id": 9,
       "question": "[원리] tannin이 '수렴(astringent)' 작용을 하는 원리는?",
       "choices": [
-        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
-        "혈관을 넓혀서",
-        "Na⁺ 펌프를 막아서",
-        "산이라서"
+        "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
+        "stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다",
+        "anthocyanidin은 C환이 방향족 양이온(flavylium)이라 세 고리 전체가 공액되어 가시광선을 흡수하기 때문",
+        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
+        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다"
       ],
       "answer": "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
       "explanation": "정답: 많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다\n그래서 지사·지혈, 구내염·화상 외용, 가죽 무두질(유피제). 떫은맛도 침 단백질 침전.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p18.png|PPT cx-p18]]"
@@ -115,10 +123,11 @@
       "id": 10,
       "question": "[원리] tannin이 alkaloid 중독 때 해독에 쓰일 수 있는 이유로 알맞은 것은?",
       "choices": [
-        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
-        "alkaloid를 분해해서",
-        "간을 보호해서",
-        "구토를 일으켜서"
+        "stilbene 배당체 rhaponticin이 UV 365 nm에서 강한 청자색 형광을 내므로, 정품 대황에 없는 형광으로 혼입을 알 수 있다",
+        "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문",
+        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
+        "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
+        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문"
       ],
       "answer": "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
       "explanation": "정답: alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문\nPPT: tannin은 protein 및 alkaloid를 침전시킴.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p18.png|PPT cx-p18]]"
@@ -127,10 +136,11 @@
       "id": 11,
       "question": "[원리] FeCl₃ 시약이 tannin·페놀류 확인에 쓰이는 원리는?",
       "choices": [
+        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
         "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
-        "산화해서",
-        "거품이 생겨서",
-        "형광"
+        "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문",
+        "많은 페놀 OH가 단백질과 수소결합해 단백질을 침전시켜 점막·상처 표면에 응집막을 만든다",
+        "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문"
       ],
       "answer": "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
       "explanation": "정답: Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문\n갈산형(pyrogallol)은 청흑, 카테콜형은 녹흑 경향(참고). 그래서 잉크 원료.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p18.png|PPT cx-p18]]\n[[img:pharmacognosy/local/in3-p19.png|PPT in3-p19]]"
@@ -139,10 +149,11 @@
       "id": 12,
       "question": "[원리] 가수분해형 tannin이 산·tannase로 쉽게 분해되는데 축합형은 그렇지 않은 이유는?",
       "choices": [
+        "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문",
+        "alkaloid와 결합해 침전(불용성 염)을 만들어 흡수를 줄이기 때문",
+        "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
         "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문",
-        "축합형이 더 작아서",
-        "질소 때문",
-        "금속 때문"
+        "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문"
       ],
       "answer": "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문",
       "explanation": "정답: 가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문\n축합형을 산으로 처리하면 오히려 더 중합해 적갈색 phlobaphene.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p19.png|PPT cx-p19]]\n[[img:pharmacognosy/local/cx-p21.png|PPT cx-p21]]"
@@ -151,10 +162,11 @@
       "id": 13,
       "question": "[원리] ellagitannin을 가수분해하면 ellagic acid가 나오는 이유는?",
       "choices": [
+        "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)",
+        "Fe³⁺가 페놀 OH와 착물을 만들어 청흑~녹흑색을 내기 때문",
+        "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문",
         "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문",
-        "gallic acid가 산화돼서",
-        "당이 변해서",
-        "질소가 빠져서"
+        "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문"
       ],
       "answer": "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문",
       "explanation": "정답: 분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문\n현초 geraniin, 석류피 granatin.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p19.png|PPT cx-p19]]"
@@ -164,9 +176,10 @@
       "question": "[원리] gentisin(xanthone)이 용담의 확인시험에 쓰이는 이유는?",
       "choices": [
         "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문",
-        "쓴맛 때문",
-        "형광이 없어서",
-        "질소 반응"
+        "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)",
+        "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문",
+        "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
+        "가수분해형은 당과 gallic acid가 ester로 이어져 있지만, 축합형은 catechin 단위끼리 C–C 결합으로 이어져 있기 때문"
       ],
       "answer": "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문",
       "explanation": "정답: 황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문\n\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p22.png|PPT cx-p22]]"
@@ -175,10 +188,11 @@
       "id": 15,
       "question": "[원리] 6-gingerol을 가열하면 매운맛이 더 강한 shogaol이 생기는 원리는?",
       "choices": [
+        "분자 내 gallic acid 두 개가 C–C로 이어진 HHDP기가, 풀려나면서 자기들끼리 lactone을 닫아 ellagic acid가 되기 때문",
         "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)",
-        "산화되어서",
-        "당이 빠져서",
-        "질소가 붙어서"
+        "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문",
+        "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
+        "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문"
       ],
       "answer": "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)",
       "explanation": "정답: β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)\nretro-aldol로 쪼개지면 zingerone.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p23.png|PPT cx-p23]]"
@@ -187,10 +201,11 @@
       "id": 16,
       "question": "[원리] meconic acid로 아편을 확인할 수 있는 이유는?",
       "choices": [
+        "황색 결정성이고 승화성이 있어, 가열하면 승화된 결정을 관찰할 수 있기 때문",
+        "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문",
+        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문",
         "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
-        "morphine이 적색을 내서",
-        "형광",
-        "거품"
+        "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)"
       ],
       "answer": "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
       "explanation": "정답: 아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)\n\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p24.png|PPT cx-p24]]"
@@ -199,10 +214,11 @@
       "id": 17,
       "question": "[원리] prenylated flavonoid가 세 경로 모두의 산물인 이유는?",
       "choices": [
+        "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
+        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문",
         "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문",
-        "질소가 있어서",
-        "isoprene 3개",
-        "당이 3개"
+        "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
+        "β-hydroxy ketone이 탈수되어 α,β-불포화 ketone(shogaol)이 되기 때문 — 말린 생강(건강)이 더 매운 이유(참고)"
       ],
       "answer": "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문",
       "explanation": "정답: A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문\nicariin(음양곽), morusin(상백피), rotenone(데리스).\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p05.png|PPT cx-p05]]\n[[img:pharmacognosy/local/cx-p16.png|PPT cx-p16]]"
@@ -211,10 +227,11 @@
       "id": 18,
       "question": "[원리] 총론: 피류(껍질) 생약을 이른 봄에 채취하는 이유는?",
       "choices": [
-        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문",
-        "꽃이 피어서",
-        "뿌리가 굵어서",
-        "아무 때나 같다"
+        "아편에 특징적으로 많은 γ-pyrone 산이 FeCl₃와 적색을 내기 때문(다른 생약과 구별)",
+        "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
+        "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문",
+        "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
+        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문"
       ],
       "answer": "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문",
       "explanation": "정답: 형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문\n채취 시기는 '성분이 가장 많을 때'가 원칙: 뿌리는 활동이 끝난 가을(저장물질), 잎은 광합성 활발한 여름, 꽃은 수분 직전.\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p02.png|PPT in3-p02]]"
@@ -223,10 +240,11 @@
       "id": 19,
       "question": "[원리] 총론: 뿌리·근경 생약을 가을(휴면기)에 채취하는 이유는?",
       "choices": [
+        "A환(polyketide) + B환·C3(shikimate) flavonoid에 prenyl기(mevalonate)가 추가로 붙었기 때문",
+        "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
+        "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다",
         "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
-        "잎이 커서",
-        "꽃이 피어서",
-        "벌레가 없어서"
+        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문"
       ],
       "answer": "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
       "explanation": "정답: 지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문\n\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p02.png|PPT in3-p02]]"
@@ -235,10 +253,11 @@
       "id": 20,
       "question": "[원리] 총론: 생약을 건조하는 이유는?",
       "choices": [
+        "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해",
+        "형성층 활동이 가장 왕성해 껍질이 잘 벗겨지고 성분도 많기 때문",
+        "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
         "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
-        "무게를 늘리려고",
-        "색을 내려고",
-        "맛을 바꾸려고"
+        "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다"
       ],
       "answer": "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
       "explanation": "정답: 수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해\n그래서 약전에 '건조감량' 규정(예: 감초 12% 이하).\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p04.png|PPT in3-p04]]\n[[img:pharmacognosy/local/in3-p10.png|PPT in3-p10]]"
@@ -247,10 +266,11 @@
       "id": 21,
       "question": "[원리] 총론: 같은 '당귀'라도 종(species)을 반드시 확인해야 하는 이유를 보여 주는 PPT 사례는?",
       "choices": [
+        "지상부 활동이 끝나고 영양·성분이 뿌리에 저장되어 함량이 가장 높기 때문",
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
+        "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
         "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다",
-        "가격 차이",
-        "색 차이",
-        "맛 차이"
+        "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해"
       ],
       "answer": "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다",
       "explanation": "정답: 지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다\n그래서 기원(학명)과 형태·성분 감별이 생약학의 기본.\n\n근거 그림:\n[[img:pharmacognosy/local/in2-p38.png|PPT in2-p38]]"
@@ -259,10 +279,11 @@
       "id": 22,
       "question": "[원리] 총론: 품질평가에서 '정성'과 '정량'을 둘 다 하는 이유는?",
       "choices": [
+        "수분을 줄여 효소 작용·미생물 번식을 막아 성분 변화와 부패를 방지하고 보관을 쉽게 하기 위해",
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
+        "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
         "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해",
-        "하나만 해도 된다",
-        "가격 결정용",
-        "색 확인용"
+        "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다"
       ],
       "answer": "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해",
       "explanation": "정답: 정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해\n\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p07.png|PPT in3-p07]]\n[[img:pharmacognosy/local/in3-p13.png|PPT in3-p13]]\n[[img:pharmacognosy/local/in3-p10.png|PPT in3-p10]]"
@@ -271,10 +292,11 @@
       "id": 23,
       "question": "[원리] 총론: 현미경 내부형태(결정·전분립)가 감별에 쓰이는 이유는?",
       "choices": [
+        "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문",
+        "지리강활(A. purpuraefolium)을 참당귀로 잘못 알고 먹어 사망한 사고 — 근연종도 성분·독성이 다르다",
+        "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
         "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
-        "색을 보려고",
-        "맛을 보려고",
-        "냄새"
+        "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해"
       ],
       "answer": "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
       "explanation": "정답: 외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능\n\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p14.png|PPT in3-p14]]"
@@ -283,10 +305,11 @@
       "id": 24,
       "question": "[원리] 총론: 학명에서 보존명(Compositae)과 합법명(Asteraceae)이 둘 다 쓰이는 이유는?",
       "choices": [
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
+        "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문",
+        "정성(확인·순도)으로 맞는 생약인지·이물이 없는지 보고, 정량으로 유효성분이 충분한지(예: glycyrrhizic acid 2.5% 이상) 확인하기 위해",
         "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
-        "둘은 다른 과",
-        "하나는 틀린 이름",
-        "한국어 이름"
+        "salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문"
       ],
       "answer": "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
       "explanation": "정답: 명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문\nAsteraceae ← Aster속, Lamiaceae ← Lamium속, Fabaceae ← Faba.\n\n근거 그림:\n[[img:pharmacognosy/local/in2-p11.png|PPT in2-p11]]"
@@ -295,10 +318,11 @@
       "id": 25,
       "question": "[원리] 총론: in vitro 결과가 좋아도 in vivo에서 효과가 없을 수 있는 이유는?",
       "choices": [
+        "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
         "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문",
-        "in vitro가 더 정확해서",
-        "무관",
-        "동물이 달라서만"
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
+        "salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문",
+        "glycyrrhizin(→ glycyrrhetic acid)이 cortisol 분해 효소를 막아 cortisol이 알도스테론처럼 작용해 Na⁺·물 저류, K⁺ 배설↑(참고)"
       ],
       "answer": "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문",
       "explanation": "정답: 몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문\n그래서 in silico → in vitro → in vivo → 임상 순으로 단계적 평가.\n\n근거 그림:\n[[img:pharmacognosy/local/in2-p12.png|PPT in2-p12]]\n[[img:pharmacognosy/local/in2-p13.png|PPT in2-p13]]\n[[img:pharmacognosy/local/in2-p14.png|PPT in2-p14]]"
@@ -307,10 +331,11 @@
       "id": 26,
       "question": "[원리] 총론: aspirin이 salicin(천연물)에서 출발해 '반합성'으로 만들어진 이유는?",
       "choices": [
+        "glycyrrhizin(→ glycyrrhetic acid)이 cortisol 분해 효소를 막아 cortisol이 알도스테론처럼 작용해 Na⁺·물 저류, K⁺ 배설↑(참고)",
+        "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능",
         "salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문",
-        "salicin이 없어서",
-        "더 싸서",
-        "무관"
+        "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문"
       ],
       "answer": "salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문",
       "explanation": "정답: salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문\n천연물 = 신약의 template. procaine(cocaine), ipratropium(atropine)도 같은 원리.\n\n근거 그림:\n[[img:pharmacognosy/local/in2-p04.png|PPT in2-p04]]\n[[img:pharmacognosy/local/in2-p25.png|PPT in2-p25]]"
@@ -319,10 +344,11 @@
       "id": 27,
       "question": "[원리] 총론: 감초를 오래 먹으면 부종·저칼륨혈증(위알도스테론증)이 생기는 원리는?",
       "choices": [
+        "salicylic acid는 위·입 자극이 심해 acetyl화로 부작용을 줄였기 때문",
+        "명명 규약상 과명은 대표 속명 + -aceae(합법명)여야 하지만, 오래 써 온 8개 과의 옛 이름(-ae)은 예외로 보존해 함께 인정하기 때문",
+        "몸속에서는 흡수·대사·분포·배설(예: 배당체 가수분해, 간 대사)을 거치므로 시험관 농도와 다르기 때문",
         "glycyrrhizin(→ glycyrrhetic acid)이 cortisol 분해 효소를 막아 cortisol이 알도스테론처럼 작용해 Na⁺·물 저류, K⁺ 배설↑(참고)",
-        "단백질 부족",
-        "당이 많아서",
-        "질소 때문"
+        "외형이 비슷한 생약도 세포 내용물(대황 집정, 갈근 전분립, 반하 속침정)이 종마다 특징적이라 가루가 되어도 구별 가능"
       ],
       "answer": "glycyrrhizin(→ glycyrrhetic acid)이 cortisol 분해 효소를 막아 cortisol이 알도스테론처럼 작용해 Na⁺·물 저류, K⁺ 배설↑(참고)",
       "explanation": "정답: glycyrrhizin(→ glycyrrhetic acid)이 cortisol 분해 효소를 막아 cortisol이 알도스테론처럼 작용해 Na⁺·물 저류, K⁺ 배설↑(참고)\nPPT는 '장기 복용 시 aldosterone syndrome(부종)'까지.\n\n근거 그림:\n[[img:pharmacognosy/local/in2-p27.png|PPT in2-p27]]\n[[img:pharmacognosy/local/in2-p34.png|PPT in2-p34]]"

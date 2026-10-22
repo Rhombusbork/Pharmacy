@@ -7,10 +7,11 @@
       "id": 1,
       "question": "[원리] 구조만 보고 경로를 추론할 때, 다음 화합물(menthol)이 isoprenoid라고 판단하는 가장 좋은 근거는?\n[[smi:CC(C)C1CCC(C)CC1O]]",
       "choices": [
+        "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
+        "벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위",
+        "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적",
         "탄소가 10개이고 가지 달린 C5 단위(isoprene) 2개로 나눌 수 있다",
-        "벤젠 고리가 있다",
-        "질소가 있다",
-        "산소가 한 탄소 건너 하나씩 있다"
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다"
       ],
       "answer": "탄소가 10개이고 가지 달린 C5 단위(isoprene) 2개로 나눌 수 있다",
       "explanation": "정답: 탄소가 10개이고 가지 달린 C5 단위(isoprene) 2개로 나눌 수 있다\nisoprenoid는 C5(isoprene, 가지 달린 4탄소 사슬 + 메틸) 단위가 head-to-tail로 이어진 것. 탄소 수가 5의 배수(10, 15, 20, 30)이고 isopropyl·gem-dimethyl 같은 가지가 보이면 isoprenoid를 의심한다.\n\n근거 그림:\n[[img:pharmacognosy/local/iso-p08.png|PPT iso-p08]]\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]"
@@ -20,9 +21,10 @@
       "question": "[원리] 다음 화합물(cinnamaldehyde)이 shikimate 경로라고 판단하는 근거는?\n[[smi:O=C/C=C/c1ccccc1]]",
       "choices": [
         "벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위",
-        "탄소 수가 5의 배수",
-        "산소가 고리에 번갈아 배치",
-        "질소 고리"
+        "탄소가 10개이고 가지 달린 C5 단위(isoprene) 2개로 나눌 수 있다",
+        "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
+        "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적"
       ],
       "answer": "벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위",
       "explanation": "정답: 벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위\nshikimate 경로의 대표 단위는 Phe(→ cinnamic acid)에서 온 C6C3. 곁사슬 3탄소 + 방향환이면 phenylpropanoid. 방향환 OH는 주로 para(4번) 위치부터 붙는다(p-coumaric acid).\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p02.png|PPT shk-p02]]\n[[img:pharmacognosy/local/shk-p05.png|PPT shk-p05]]"
@@ -31,10 +33,11 @@
       "id": 3,
       "question": "[원리] 다음 화합물(orsellinic acid)이 polyketide라고 판단하는 근거는?\n[[smi:Cc1cc(O)cc(O)c1C(=O)O]]",
       "choices": [
+        "탄소가 10개이고 가지 달린 C5 단위(isoprene) 2개로 나눌 수 있다",
         "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적",
-        "C6C3 단위",
-        "isoprene 단위",
-        "질소"
+        "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
+        "벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위"
       ],
       "answer": "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적",
       "explanation": "정답: 방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적\npolyketide 사슬은 C2 단위마다 C=O가 하나씩 있어(β-keto) 고리를 닫으면 OH가 1,3(meta) 관계로 남는다. 반면 shikimate 유래 방향환은 OH가 서로 붙어(ortho, catechol) 있거나 para에 있는 경우가 많다.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
@@ -43,10 +46,11 @@
       "id": 4,
       "question": "[원리] 다음 두 anthraquinone 중 polyketide(emodin형)인 것을 구별하는 기준은?\nA [[smi:Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1]]\nB [[smi:O=C1c2ccccc2C(=O)c2ccc(O)c(O)c21]]",
       "choices": [
+        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
+        "벤젠 고리(C6)에 탄소 3개 사슬(C3)이 붙은 C6C3 단위",
         "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
-        "B — 한쪽 고리에 OH가 모여 있으므로 polyketide",
-        "둘 다 polyketide",
-        "메틸기가 있으면 shikimate"
+        "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적"
       ],
       "answer": "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
       "explanation": "정답: A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침\nemodin형: 8개 C2 단위가 접혀 양쪽 고리에 산소가 고르게 남는다. alizarin형: 한쪽 고리는 shikimate(o-succinylbenzoic acid)에서 와서 산소가 없고, 다른 쪽 고리에만 OH가 있다.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p21.png|PPT pk-p21]]\n[[img:pharmacognosy/local/pk-p23.png|PPT pk-p23]]"
@@ -56,9 +60,10 @@
       "question": "[원리] 다음 화합물(osthol)이 '복합경로'로 분류되는 이유는?\n[[smi:O=C1C=Cc2ccc(OC)c(CC=C(C)C)c2O1]]",
       "choices": [
         "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
-        "탄소 수가 15",
-        "질소가 있다",
-        "lactone이 있으므로 polyketide"
+        "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
+        "방향환의 산소(OH)가 한 탄소씩 건너(meta) 배치되어 있다 — poly-β-keto 사슬의 카보닐 흔적",
+        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
+        "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합"
       ],
       "answer": "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
       "explanation": "정답: coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다\n한 분자 안에 서로 다른 경로의 단위가 보이면 복합경로. –CH₂–CH=C(CH₃)₂(prenyl)는 DMAPP 흔적.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p04.png|PPT cx-p04]]"
@@ -67,10 +72,11 @@
       "id": 6,
       "question": "[원리] 다음 화합물(decursin 모핵, pyranocoumarin)의 building block이 C6C3 + C5인 이유는?\n[[smi:CC1(C)Oc2cc3OC(=O)C=Cc3cc2CC1O]]",
       "choices": [
-        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
-        "C6C3가 2개",
-        "C5가 3개",
-        "polyketide C2 4개"
+        "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합",
+        "A — 산소가 양쪽 방향환에 하나씩 건너 배치 / B(alizarin)는 한쪽 고리에만 산소가 치우침",
+        "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서",
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
+        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문"
       ],
       "answer": "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
       "explanation": "정답: coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문\npyran 고리의 gem-dimethyl(C(CH₃)₂)이 prenyl의 흔적이다. furanocoumarin은 prenyl에서 3탄소가 떨어져 2탄소만 남는다.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p10.png|PPT shk-p10]]"
@@ -79,10 +85,11 @@
       "id": 7,
       "question": "[원리] 다음 화합물(magnolol)의 building block을 C6C3×2로 보는 이유는?\n[[smi:Oc1ccc(CC=C)cc1-c1cc(CC=C)ccc1O]]",
       "choices": [
+        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
+        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
+        "coumarin 골격(shikimate)에 prenyl기(C5, mevalonate)가 붙어 있다",
         "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합",
-        "C5×4",
-        "6×C2 + 2×C5",
-        "C6C1×2"
+        "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서"
       ],
       "answer": "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합",
       "explanation": "정답: 각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합\nC6C3 + C6C3 = lignan류(C18). 곁사슬끼리(8-8′) 결합하면 lignan, 그 외 위치(여기선 방향환끼리)면 neolignan.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p19.png|PPT shk-p19]]"
@@ -92,9 +99,10 @@
       "question": "[원리] 다음 화합물(chrysanthemic acid)은 탄소 10개인데 일반 monoterpene과 다른 'irregular' monoterpene인 이유는?\n[[smi:CC(C)=CC1C(C(=O)O)C1(C)C]]",
       "choices": [
         "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서",
-        "C5가 3개라서",
-        "shikimate 유래라서",
-        "질소가 없어서"
+        "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합",
+        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
+        "coumarin(C6C3)에 prenyl(C5)이 붙은 뒤 고리화하여 pyran 고리가 됐기 때문",
+        "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)"
       ],
       "answer": "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서",
       "explanation": "정답: GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서\nisoprene rule(head-to-tail)을 따르지 않는 결합 → irregular. 제충국 pyrethrin의 산 부분.\n\n근거 그림:\n[[img:pharmacognosy/local/iso-p22.png|PPT iso-p22]]\n[[img:pharmacognosy/local/iso-p23.png|PPT iso-p23]]"
@@ -103,10 +111,11 @@
       "id": 9,
       "question": "[원리] 다음 화합물(THCA)의 building block이 6×C2 + 2×C5인 이유는?\n[[smi:CCCCCc1cc2OC(C)(C)C3CCC(C)=CC3c2c(O)c1C(=O)O]]",
       "choices": [
-        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
-        "C6C3 + C5",
-        "4×C2",
-        "C5×4"
+        "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서",
+        "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
+        "각 방향환에 C3(allyl) 사슬이 붙은 C6C3 단위 두 개가 결합",
+        "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)",
+        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음"
       ],
       "answer": "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
       "explanation": "정답: hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음\nresorcinol 고리 + pentyl 사슬 = polyketide, 나머지 고리 + gem-dimethyl = GPP(monoterpene). polyketide + mevalonate 복합경로.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p30.png|PPT pk-p30]]\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
@@ -115,10 +124,11 @@
       "id": 10,
       "question": "[원리] flavonoid가 polyketide + shikimate 복합경로인 이유를 구조로 설명하면?\n[[smi:O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21]]",
       "choices": [
+        "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
         "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)",
-        "모든 고리가 polyketide",
-        "모든 고리가 shikimate",
-        "isoprene 3개"
+        "GPP(head-to-tail)가 아니라 DMAPP 2분자가 비정상적으로 결합(cyclopropane 형성)해서",
+        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
+        "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문"
       ],
       "answer": "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)",
       "explanation": "정답: A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)\nA환 OH 배치(1,3 관계)는 polyketide의 특징, B환 4′-OH는 p-coumaric acid의 para-OH. 그래서 C6C3 + 3×C2.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p02.png|PPT cx-p02]]\n[[img:pharmacognosy/images/2023-mid-q27.png|족보 그림]]"
@@ -128,9 +138,10 @@
       "question": "[원리] xanthone(예: 용담의 gentisin)의 building block이 C6C1 + 3×C2인 이유는?\n[[smi:COc1ccc2OC3=CC(O)=CC(O)=C3C(=O)c2c1]]",
       "choices": [
         "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
-        "C6C3 + C5",
-        "C5×3",
-        "4×C2만"
+        "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)",
+        "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문",
+        "hexanoyl-CoA(C6) + malonyl-CoA 3개 = hexaketide(C12 = 6×C2) 부분에 GPP(C10 = 2×C5)가 붙음",
+        "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다"
       ],
       "answer": "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
       "explanation": "정답: 한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)\nflavonoid(C6C3 + 3×C2)보다 곁사슬이 짧은 C6C1이 starter. meta-OH 고리가 polyketide 쪽.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p02.png|PPT cx-p02]]\n[[img:pharmacognosy/local/cx-p22.png|PPT cx-p22]]"
@@ -139,10 +150,11 @@
       "id": 12,
       "question": "[원리] stilbene(resveratrol)의 building block이 C6C3 + 3×C2가 아니라 C6C2 + 3×C2인 이유는?\n[[smi:Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1]]",
       "choices": [
+        "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)",
+        "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다",
+        "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
         "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문",
-        "C3 사슬이 원래 2탄소라서",
-        "isoprene이 붙어서",
-        "질소가 빠져서"
+        "A환의 meta-OH(5,7위치)는 malonyl-CoA 3개(polyketide), B환 + C3는 p-coumaroyl-CoA(C6C3, shikimate)"
       ],
       "answer": "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문",
       "explanation": "정답: stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문\n같은 사슬(p-coumaroyl-CoA + 3 malonyl-CoA)도 chalcone synthase(Claisen)는 탄소를 잃지 않고 chalcone을, stilbene synthase(aldol)는 CO₂를 잃고 stilbene을 만든다.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p17.png|PPT cx-p17]]\n[[img:pharmacognosy/images/2023-mid-q27.png|족보 그림]]"
@@ -151,10 +163,11 @@
       "id": 13,
       "question": "[원리] 다음 화합물(nicotine)을 alkaloid 중 '두 경로의 조합'으로 보는 이유는?\n[[smi:CN1CCCC1c1cccnc1]]",
       "choices": [
+        "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)",
+        "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
+        "한쪽 고리 + C=O 탄소는 benzoic acid류(C6C1, shikimate), 다른 고리는 malonyl-CoA 3개(polyketide)",
         "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다",
-        "두 고리 모두 lysine",
-        "isoprene 2개",
-        "shikimate C6C3"
+        "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문"
       ],
       "answer": "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다",
       "explanation": "정답: pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다\n고리 하나하나의 원료를 따로 추적하는 것이 alkaloid 문제의 핵심.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p11.png|PPT alk-p11]]\n[[img:pharmacognosy/local/alk-p24.png|PPT alk-p24]]"
@@ -164,9 +177,10 @@
       "question": "[원리] 다음 화합물(cocaine)의 building block이 C4N + 2×C2 + C6C1 + 2×C1인 이유는?\n[[smi:COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C]]",
       "choices": [
         "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)",
-        "C5N + C6C3",
-        "indole C2N + C5",
-        "C6C2N + 4×C1"
+        "stilbene synthase가 aldol 고리화하면서 카복실 탄소 1개를 CO₂로 잃기 때문",
+        "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
+        "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다",
+        "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)"
       ],
       "answer": "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)",
       "explanation": "정답: pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)\n메틸기(N-CH₃, O-CH₃)는 거의 언제나 SAM(C1). 그래서 amino acid + polyketide 복합경로.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]\n[[img:pharmacognosy/local/cx-p06.png|PPT cx-p06]]"
@@ -175,10 +189,11 @@
       "id": 15,
       "question": "[원리] 다음 화합물(papaverine)의 building block을 C6C2N + C6C2 + 4×C1로 보는 이유는?\n[[smi:COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC]]",
       "choices": [
+        "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)",
+        "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문",
+        "pyridine 고리는 nicotinic acid, pyrrolidine 고리는 ornithine에서 왔다",
         "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
-        "C4N + C5",
-        "indole C2N",
-        "C5N + 3×C2"
+        "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)"
       ],
       "answer": "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
       "explanation": "정답: isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM\nbenzylisoquinoline = Tyr 두 분자(하나는 amine, 하나는 aldehyde)가 Mannich형으로 결합.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]\n[[img:pharmacognosy/local/in3-p28.png|PPT in3-p28]]"
@@ -187,10 +202,11 @@
       "id": 16,
       "question": "[원리] 다음 화합물(lysergic acid)의 building block이 indole C2N + C5 + C1인 이유는?\n[[smi:CN1CC(C=C2C1Cc1c[nH]c3cccc2c13)C(=O)O]]",
       "choices": [
+        "pyrrolidine 부분(C4N, Orn) + acetyl 2단위로 닫은 고리(2×C2) + benzoyl(C6C1, Phe) + N-CH₃와 O-CH₃(2×C1, SAM)",
+        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
+        "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
         "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)",
-        "isoquinoline + C5",
-        "C4N + 2×C2",
-        "C6C3×2"
+        "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문"
       ],
       "answer": "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)",
       "explanation": "정답: indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)\n맥각 alkaloid는 Trp에 DMAPP가 C-4에 붙어 고리를 만든 것 — 아미노산 + mevalonate.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p61.png|PPT alk-p61]]\n[[img:pharmacognosy/local/in3-p28.png|PPT in3-p28]]"
@@ -199,10 +215,11 @@
       "id": 17,
       "question": "[원리] 다음 화합물(caffeine)이 아미노산이 아니라 '비아미노산' alkaloid(pseudoalkaloid)로 분류되는 이유는?\n[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
       "choices": [
+        "isoquinoline 부분은 dopamine(C6C2N), benzyl 부분은 4-HPAA(C6C2), OCH₃ 4개는 SAM",
+        "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)",
+        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
         "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문",
-        "질소가 없어서",
-        "isoprene이라서",
-        "lysine 유래라서"
+        "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문"
       ],
       "answer": "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문",
       "explanation": "정답: purine 고리가 핵산(nucleotide) 생합성에서 오기 때문\n질소가 고리에 있지만 골격이 아미노산 하나에서 오지 않으면 pseudoalkaloid. 메틸 3개는 SAM.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p73.png|PPT alk-p73]]\n[[img:pharmacognosy/local/alk-p06.png|PPT alk-p06]]"
@@ -211,10 +228,11 @@
       "id": 18,
       "question": "[원리] 다음 화합물(ephedrine)이 true alkaloid가 아니라 protoalkaloid인 이유는?\n[[smi:CNC(C)C(O)c1ccccc1]]",
       "choices": [
-        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
-        "질소가 없어서",
-        "핵산에서 와서",
-        "terpene이라서"
+        "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문",
+        "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
+        "indole + 에틸아민(Trp) + prenyl(DMAPP) + N-CH₃(SAM)",
+        "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문",
+        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문"
       ],
       "answer": "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
       "explanation": "정답: 아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문\ntrue: 아미노산 유래 + 질소가 고리 안 + 염기성 / proto: 아미노산 유래지만 질소가 고리 밖이거나 염기성 아님 / pseudo: 질소는 고리에 있지만 골격이 아미노산 유래 아님.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p06.png|PPT alk-p06]]\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
@@ -223,10 +241,11 @@
       "id": 19,
       "question": "[원리] aconitine(부자)은 질소 고리가 있는데도 pseudoalkaloid로 분류된다. 그 이유는?",
       "choices": [
+        "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
         "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문",
-        "질소가 고리 밖이라서",
-        "염기성이 없어서",
-        "핵산 유래라서"
+        "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
+        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
+        "purine 고리가 핵산(nucleotide) 생합성에서 오기 때문"
       ],
       "answer": "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문",
       "explanation": "정답: 골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문\nterpenoid alkaloid·steroidal alkaloid는 모두 이 이유로 pseudoalkaloid.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p67.png|PPT alk-p67]]\n[[img:pharmacognosy/local/alk-p69.png|PPT alk-p69]]"
@@ -235,10 +254,11 @@
       "id": 20,
       "question": "[원리] 다음 화합물(gentianine)은 용담에서 '진짜 성분인지 추출 중 생긴 것인지' 논란이 있다. 그 이유는?\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O>>C=Cc1cnccc1C(=O)OC|NH₃]]",
       "choices": [
+        "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
+        "아미노산(Phe)에서 오지만 질소가 고리(이성환) 밖, 곁사슬에 있기 때문",
         "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
-        "tryptophan에서 오기 때문",
-        "광합성 산물이기 때문",
-        "polyketide라서"
+        "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문",
+        "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문"
       ],
       "answer": "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
       "explanation": "정답: secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)\nmonoterpene alkaloid는 iridoid에 N만 도입된 것. 추출에 NH₃를 쓰면 artifact로 생길 수 있다.\n\n근거 그림:\n[[img:pharmacognosy/local/alk-p68.png|PPT alk-p68]]"
@@ -248,9 +268,10 @@
       "question": "[원리] 구조에서 OCH₃(메톡시)나 N-CH₃가 보일 때 그 탄소의 출처로 거의 항상 옳은 것은?\n[[smi:COc1cc(/C=C/C(=O)O)ccc1O]]",
       "choices": [
         "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
-        "acetyl-CoA",
-        "DMAPP",
-        "CO₂"
+        "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문",
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
+        "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
+        "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문"
       ],
       "answer": "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
       "explanation": "정답: SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래\n그래서 building block 표에 'C1: L-Met'가 있다. ferulic acid의 OCH₃도 SAM.\n\n근거 그림:\n[[img:pharmacognosy/local/in3-p26.png|PPT in3-p26]]\n[[img:pharmacognosy/local/alk-p08.png|PPT alk-p08]]"
@@ -259,10 +280,11 @@
       "id": 22,
       "question": "[원리] 다음 화합물(psoralen)의 furan 고리 탄소 2개가 prenyl(C5)에서 왔는데 2개만 남은 이유는?\n[[rxn:O=C1C=Cc2cc3CC(C(C)(C)O)Oc3cc2O1>>O=C1C=Cc2cc3ccoc3cc2O1|−C₃(acetone)]]",
       "choices": [
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
+        "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)",
+        "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
         "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문",
-        "prenyl이 원래 2탄소라서",
-        "polyketide C2라서",
-        "CO₂가 2번 빠져서"
+        "골격이 아미노산이 아니라 diterpene(isoprenoid)이고, 질소는 나중에 amination으로 들어왔기 때문"
       ],
       "answer": "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문",
       "explanation": "정답: marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문\n그래서 furanocoumarin은 C6C3 + C2처럼 보여도 실제로는 shikimate + mevalonate.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p09.png|PPT shk-p09]]"
@@ -272,9 +294,10 @@
       "question": "[원리] isoprenoid 골격을 C5 단위로 나눌 때 '머리(head)'와 '꼬리(tail)'는?\n[[smi:CC(C)=CCC/C(C)=C/CO]]",
       "choices": [
         "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
-        "산소 쪽이 tail",
-        "임의로 정한다",
-        "이중결합 쪽이 head"
+        "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문",
+        "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
+        "SAM(S-adenosylmethionine)의 메틸 — C1 단위, L-Met 유래",
+        "secoiridoid 배당체가 가수분해된 뒤 암모니아와 반응해 쉽게 질소가 들어가기 때문(아미노산 골격 아님)"
       ],
       "answer": "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
       "explanation": "정답: 가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head\nDMAPP의 head(C1, PP 이탈 자리)에 IPP의 tail이 붙어 GPP — head-to-tail. squalene·phytoene은 두 반쪽이 tail-to-tail로 이어진다.\n\n근거 그림:\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]\n[[img:pharmacognosy/local/iso-p18.png|PPT iso-p18]]"
@@ -295,10 +318,11 @@
       "id": 25,
       "question": "[원리] 다음 화합물(hinokiresinol)은 C17이라 lignan(C18)과 다르다. 왜 shikimate 경로로 분류하는가?\n[[smi:C=CC(/C=C/c1ccc(O)cc1)c1ccc(O)cc1]]",
       "choices": [
+        "A — 고리 + 탄소 1개",
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
+        "양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서",
         "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
-        "C5 단위 3개+2",
-        "polyketide",
-        "아미노산 유래"
+        "marmesin에서 isopropyl 부분 3탄소가 acetone으로 잘려 나가기 때문"
       ],
       "answer": "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
       "explanation": "정답: 두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문\npara-OH 방향환 두 개 = p-coumaryl 유래의 강한 단서.\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p20.png|PPT shk-p20]]"
@@ -307,10 +331,11 @@
       "id": 26,
       "question": "[원리] 다음 화합물(curcumin)이 complex pathway(diarylheptanoid)인 이유는?\n[[smi:COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O]]",
       "choices": [
+        "Claisen 축합 — phloroglucinol 유도체",
         "양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서",
-        "C5×4",
-        "C6C3×2만, malonyl 없음",
-        "아미노산 유래"
+        "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
+        "A — 고리 + 탄소 1개",
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head"
       ],
       "answer": "양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서",
       "explanation": "정답: 양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서\n가운데 β-diketone(–CO–CH₂–CO–)이 polyketide 흔적. 1,7-diaryl heptane.\n\n근거 그림:\n[[img:pharmacognosy/local/cx-p23.png|PPT cx-p23]]"
@@ -319,10 +344,11 @@
       "id": 27,
       "question": "[원리] 다음 두 화합물 중 C6C1(benzoic acid형) 단위는?\nA [[smi:OC(=O)c1ccccc1]]\nB [[smi:OC(=O)/C=C/c1ccccc1]]",
       "choices": [
-        "A — 고리 + 탄소 1개",
-        "B — 고리 + 탄소 1개",
-        "둘 다 C6C3",
-        "둘 다 C6C1"
+        "Claisen 축합 — phloroglucinol 유도체",
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
+        "양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서",
+        "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
+        "A — 고리 + 탄소 1개"
       ],
       "answer": "A — 고리 + 탄소 1개",
       "explanation": "정답: A — 고리 + 탄소 1개\nC6C3(cinnamic acid, B)에서 β-oxidation으로 2탄소가 떨어지면 C6C1(benzoic acid, A).\n\n근거 그림:\n[[img:pharmacognosy/local/shk-p05.png|PPT shk-p05]]\n[[img:pharmacognosy/local/shk-p06.png|PPT shk-p06]]"
@@ -332,9 +358,10 @@
       "question": "[원리] 다음 구조(1,3,5-trihydroxy 방향환)를 보면 어떤 축합이 떠오르는가?\n[[smi:CC(=O)c1c(O)cc(O)cc1O]]",
       "choices": [
         "Claisen 축합 — phloroglucinol 유도체",
-        "aldol 축합 — resorcinol 유도체",
-        "Diels-Alder",
-        "산화적 짝지음"
+        "A — 고리 + 탄소 1개",
+        "두 개의 p-hydroxyphenyl-C3 단위가 결합하며 탄소 1개를 잃은 norlignan이기 때문",
+        "가지(이소프로필) 쪽이 tail, PP가 붙었던 CH₂ 쪽이 head",
+        "양쪽 feruloyl(C6C3, shikimate) 2개가 malonyl 유래 탄소(polyketide)로 이어져서"
       ],
       "answer": "Claisen 축합 — phloroglucinol 유도체",
       "explanation": "정답: Claisen 축합 — phloroglucinol 유도체\nOH가 세 개 모두 meta(1,3,5) → poly-β-keto 사슬의 카보닐이 모두 OH로 남은 Claisen형. resorcinol형은 하나의 카보닐이 C–C 결합에 쓰여 OH가 두 개만 남는다.\n\n근거 그림:\n[[img:pharmacognosy/local/pk-p03.png|PPT pk-p03]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
