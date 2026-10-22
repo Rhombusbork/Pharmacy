@@ -1,0 +1,330 @@
+{
+  "deckId": "pharmacognosy-type-04-skeleton-2",
+  "subject": "생약학",
+  "title": "④ 골격 이름 2/7",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q29.png|29번 구조]]",
+      "choices": [
+        "Lupane",
+        "Dammarane",
+        "Lanostane",
+        "Ursane",
+        "Oleanane"
+      ],
+      "answer": "Ursane",
+      "explanation": "정답: Ursane\n⚠ PPT 대조: 족보 그림 안에 'ursane'이라는 이름이 그대로 적혀 있음.\n출처: 2025-2 중간 29번"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.70] steroid의 기본 골격 이름은?",
+      "choices": [
+        "cyclopentanoperhydrophenanthrene",
+        "perhydroazulene",
+        "2H-1-benzopyran-2-one",
+        "cyclopropane",
+        "decalin + furan"
+      ],
+      "answer": "cyclopentanoperhydrophenanthrene",
+      "explanation": "정답: cyclopentanoperhydrophenanthrene\n동식물에 넓게 분포하며 hormone·vitamin 등의 생리활성을 가진다."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.72] steroid 기본 골격에 속하지 않는 것은?",
+      "choices": [
+        "estrane",
+        "androstane",
+        "pregnane",
+        "cholestane",
+        "dammarane"
+      ],
+      "answer": "dammarane",
+      "explanation": "정답: dammarane (tetracyclic triterpene)\nsteroid 골격: estrane, androstane, pregnane, cholane, cholestane, ergostane, stigmastane, spirostane, cardenolide, bufadienolide."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2020-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "cholestane"
+      ],
+      "explanation": "정답: cholestane\n출처: 2020-2 중간 골격 · 2023-1 중간 주관5 · 2023-2 중간 25 (3회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2023-2] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n( ② )에 들어갈 것은?",
+      "choices": [
+        "cholestane",
+        "estrane",
+        "stigmastane",
+        "cardenolide",
+        "cycloartenol",
+        "euphol",
+        "β-amyrin (oleananes)",
+        "friedelin"
+      ],
+      "answer": "estrane",
+      "explanation": "정답: estrane\n출처: 2023-2 중간 25"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "pregnane"
+      ],
+      "explanation": "정답: pregnane\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2020-2·2021-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "ergostane"
+      ],
+      "explanation": "정답: ergostane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "stigmastane"
+      ],
+      "explanation": "정답: stigmastane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "cardenolide"
+      ],
+      "explanation": "정답: cardenolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2020-2·2021-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n(F)에 들어갈 이름은?",
+      "answer": [
+        "bufadienolide"
+      ],
+      "explanation": "정답: bufadienolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2023-1] 다음 강심배당체에 포함된 당 구조의 이름은?\n[[img:pharmacognosy/images/2023-1-mid-m16.png|당 구조]]",
+      "choices": [
+        "oleandrose",
+        "rhamnose",
+        "sarmentose",
+        "cymarose",
+        "vallarose"
+      ],
+      "answer": "cymarose",
+      "explanation": "정답: cymarose\n2,6-dideoxy + 3-O-methyl 당 — cymarose(cymarin의 당). 족보에 답 ④로 표시됨.\n출처: 2023-1 중간 객관16"
+    },
+    {
+      "id": 12,
+      "question": "[기출 2022-2] 다음 화합물 구조의 이름은?\n[[img:pharmacognosy/images/2022-2-mid-s5.png|구조식]]",
+      "answer": [
+        "cardenolide",
+        "카르데놀라이드"
+      ],
+      "explanation": "정답: cardenolide\nsteroid C17에 5원환 불포화 lactone — cardenolide(디기탈리스 강심배당체).\n출처: 2022-2 중간 주관5"
+    },
+    {
+      "id": 13,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q22.png|22번 구조]]\n기본골격: 1H-2-benzopyran-1-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "isocoumarin",
+      "explanation": "정답: isocoumarin\nisocoumarin = 1H-2-benzopyran-1-one 골격. coumarin과 달리 polyketide 경로로 생합성된다(PPT p.13).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 22번"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q23.png|23번 구조]]\n기본골격: 2H-1-benzopyran-2-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "coumarin",
+      "explanation": "정답: coumarin\ncoumarin = 2H-1-benzopyran-2-one 골격(PPT p.7).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 23번"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q24.png|24번 구조]]\n기본골격: 4H-1-benzopyran-4-one",
+      "choices": [
+        "coumarin",
+        "naphthoquinone",
+        "chromone",
+        "cannabinoid",
+        "isocoumarin"
+      ],
+      "answer": "chromone",
+      "explanation": "정답: chromone\n그림은 khellin(chromone). chromone = 4H-1-benzopyran-4-one, polyketide 단원(visnagin, khellin).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 24번"
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.7] PPT의 '골격에 따른 coumarin 분류'에 속하지 않는 것은?",
+      "choices": [
+        "hydroxy and alkyl coumarins",
+        "furanocoumarins",
+        "pyranocoumarins",
+        "dicoumarols (biscoumarin)",
+        "naphthoquinones"
+      ],
+      "answer": "naphthoquinones",
+      "explanation": "정답: naphthoquinones\ncoumarin 분류: 1) hydroxy·alkyl coumarins 2) furanocoumarins 3) pyranocoumarins 4) dicoumarols(biscoumarin). 이어서 5) isocoumarin(p.13)을 다룬다."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.7] 4-coumaric acid → 2,4-dihydroxycinnamic acid를 거쳐 만들어지는 다음 구조의 이름은?\n[[smi:O=C1C=Cc2ccc(O)cc2O1]]",
+      "answer": [
+        "umbelliferone",
+        "움벨리페론",
+        "7-hydroxycoumarin",
+        "7-하이드록시쿠마린"
+      ],
+      "explanation": "정답: umbelliferone (7-hydroxycoumarin)\nfuranocoumarin·pyranocoumarin 생합성의 출발 물질이다."
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논"
+      ],
+      "explanation": "정답: anthraquinone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (C환 2,3 이중결합, 4-keto)\n[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+      "answer": [
+        "flavone",
+        "플라본"
+      ],
+      "explanation": "정답: flavone"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (B환이 C-3에 결합)\n[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+      "answer": [
+        "isoflavone",
+        "이소플라본",
+        "isoflavonoid"
+      ],
+      "explanation": "정답: isoflavone"
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.8] 다음 flavonoid 골격의 이름은? (C환이 없고 α,β-불포화 ketone)\n[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+      "choices": [
+        "chalcone",
+        "aurone",
+        "flavanone",
+        "stilbene",
+        "dihydrochalcone"
+      ],
+      "answer": "chalcone",
+      "explanation": "정답: chalcone"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.8·9] 다음 골격은? (C환 2,3이 단일결합인 4-keto)\n[[smi:O=C1CC(c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "flavanone",
+        "flavone",
+        "flavonol",
+        "isoflavone",
+        "flavan-3-ol"
+      ],
+      "answer": "flavanone",
+      "explanation": "정답: flavanone"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(A)에 들어갈 이름은?",
+      "answer": [
+        "flavonol",
+        "플라보놀"
+      ],
+      "explanation": "정답: flavonol\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2·2022-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(B)에 들어갈 이름은?",
+      "answer": [
+        "flavanone",
+        "플라바논"
+      ],
+      "explanation": "정답: flavanone\n출처: 2020-2 중간 골격 · 2022-2 중간 주관10 (2회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(C)에 들어갈 이름은?",
+      "answer": [
+        "chalcone",
+        "칼콘"
+      ],
+      "explanation": "정답: chalcone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(D)에 들어갈 이름은?",
+      "answer": [
+        "aurone",
+        "오론"
+      ],
+      "explanation": "정답: aurone\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 28,
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n(E)에 들어갈 이름은?",
+      "answer": [
+        "isoflavonoid",
+        "isoflavone",
+        "이소플라본"
+      ],
+      "explanation": "정답: isoflavonoid\n출처: 2020-2 중간 골격"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.8·9] 다음 구조처럼 flavone의 3번 위치에 OH가 있는 골격은?\n[[smi:O=C1C(O)=C(c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "flavonol",
+        "flavanone",
+        "isoflavone",
+        "aurone",
+        "chalcone"
+      ],
+      "answer": "flavonol",
+      "explanation": "정답: flavonol (3-hydroxyflavone)"
+    },
+    {
+      "id": 30,
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n( ① )에 들어갈 것은?",
+      "choices": [
+        "Chalcone",
+        "Stilbene",
+        "Flavanone",
+        "flavonol",
+        "isoflavone"
+      ],
+      "answer": "Chalcone",
+      "explanation": "정답: Chalcone\n출처: 2023-2 중간 27"
+    }
+  ]
+}

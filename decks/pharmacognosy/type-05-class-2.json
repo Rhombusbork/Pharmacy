@@ -1,0 +1,352 @@
+{
+  "deckId": "pharmacognosy-type-05-class-2",
+  "subject": "생약학",
+  "title": "⑤ 화합물 계열 2/5",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\n변형 triterpene, furan ring, A환 개환 계열 물질명 ( L     )",
+      "answer": [
+        "limonoid",
+        "리모노이드"
+      ],
+      "explanation": "정답: limonoid\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.75] spirostane형 steroidal saponin aglycone의 3가지 유형과 특징의 짝이 틀린 것은?",
+      "choices": [
+        "tigogenin형 – 5α, A/B trans",
+        "sarsapogenin형 – 5β, A/B cis",
+        "diosgenin형 – Δ5,6 이중결합이 남아 있음",
+        "tigogenin형 – 5β, A/B cis"
+      ],
+      "answer": "tigogenin형 – 5β, A/B cis",
+      "explanation": "정답: 'tigogenin형 – 5β, A/B cis' (틀림)\n공통: B/C·C/D trans, C-20 S, C-22 R."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.92] carotenoid의 구조적 분류에서 crocin(사프란·치자)은 어디에 속하는가?",
+      "choices": [
+        "배당체",
+        "탄화수소류",
+        "alcohol체",
+        "ketone체",
+        "norcarotenoid"
+      ],
+      "answer": "배당체",
+      "explanation": "정답: 배당체\n탄화수소: β-carotene, lycopene / alcohol: zeaxanthin / 배당체: crocin / ketone: capsanthin."
+    },
+    {
+      "id": 4,
+      "question": "[기출 2022-2·2023-2] cinnamaldehyde의 성분계열로 알맞은 것은?\n[[img:pharmacognosy/images/2022-2-mid-m7.png|구조식]]",
+      "choices": [
+        "biscoumarin",
+        "phenylpropanoid",
+        "furanocoumarin",
+        "chromone",
+        "cannabinoid"
+      ],
+      "answer": "phenylpropanoid",
+      "explanation": "정답: phenylpropanoid\nC6C3 — phenylpropanoid. 2023-1 주관6에서는 주관식으로도 출제되었다.\n출처: 2022-2 중간 7 · 2023-2 중간 17 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2023-1] 다음 화합물은 어떤 계열에 속하는가?\n[[img:pharmacognosy/images/2023-1-mid-m3.png|구조식]]",
+      "choices": [
+        "lignan",
+        "phloroglucinol",
+        "phenylpropanoid",
+        "benzoquinone",
+        "xanthone"
+      ],
+      "answer": "phenylpropanoid",
+      "explanation": "정답: phenylpropanoid\ncinnamaldehyde — C6C3 phenylpropanoid(계피). 같은 화합물을 선지만 바꿔 다시 낸 문제.\n출처: 2023-1 중간 객관3"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2020-2] 다음 화합물(osthol)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-osthol.png|구조식]]",
+      "answer": [
+        "coumarin",
+        "쿠마린",
+        "prenylated coumarin"
+      ],
+      "explanation": "정답: coumarin (prenylated coumarin)\nPPT p.8에서는 hydroxy·alkyl coumarin 항목에 실려 있다.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2020-2] 다음 화합물(byakangelicin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-byakangelicin.png|구조식]]",
+      "answer": [
+        "furanocoumarin",
+        "퓨라노쿠마린",
+        "coumarin",
+        "쿠마린"
+      ],
+      "explanation": "정답: furanocoumarin\n백지(Angelica dahurica)의 furanocoumarin.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.9] 다음 구조(angelicin)의 분류로 옳은 것은?\n[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+      "choices": [
+        "angular furanocoumarin",
+        "linear furanocoumarin",
+        "pyranocoumarin",
+        "biscoumarin",
+        "isocoumarin"
+      ],
+      "answer": "angular furanocoumarin",
+      "explanation": "정답: angular(각형) furanocoumarin\nfuran 고리가 7·8번 자리에 꺾여 붙음. psoralen은 6·7번 자리에 일직선으로 붙은 linear furanocoumarin."
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 다음 화합물(decursinol)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-decursinol.png|구조식]]",
+      "answer": [
+        "pyranocoumarin",
+        "피라노쿠마린",
+        "coumarin",
+        "쿠마린"
+      ],
+      "explanation": "정답: pyranocoumarin\ncoumarin에 prenyl 유래 6원 pyran 고리가 붙은 구조.\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 20·26-⑪ (5회 출제)"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2022-2] 다음 물질의 성분계열은?\n[[img:pharmacognosy/images/2022-2-mid-m10.png|구조식]]",
+      "choices": [
+        "flavonoid",
+        "steroid",
+        "coumarin",
+        "iridoid",
+        "myrcene"
+      ],
+      "answer": "coumarin",
+      "explanation": "정답: coumarin\ndecursin — pyranocoumarin.\n출처: 2022-2 중간 10"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2023-1] 다음 화합물의 계열로 올바른 것은?\n[[img:pharmacognosy/images/2023-1-mid-m13.png|구조식]]",
+      "choices": [
+        "anthraquinone",
+        "isoflavonoid",
+        "pyranocoumarin",
+        "phenylpropanoid",
+        "isocoumarin"
+      ],
+      "answer": "pyranocoumarin",
+      "explanation": "정답: pyranocoumarin\ndecursin — coumarin(파랑)에 prenyl 유래 pyran 고리(빨강)가 붙었다.\n출처: 2023-1 중간 객관13"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.14] lignoid에 속하지 않는 것은?",
+      "choices": [
+        "flavolignan",
+        "coumarolignan",
+        "xantholignan",
+        "norlignan"
+      ],
+      "answer": "norlignan",
+      "explanation": "정답: norlignan\nlignoid = lignan이 다른 골격과 합쳐진 것: flavolignan(flavonoid + lignan, silybin), coumarolignan, xantholignan."
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.15] 'Principal types of lignans'에 속하지 않는 것은?",
+      "choices": [
+        "dibenzylbutane",
+        "butyrolactone",
+        "arylnaphthalene",
+        "dibenzocyclooctane",
+        "furanocoumarin"
+      ],
+      "answer": "furanocoumarin",
+      "explanation": "정답: furanocoumarin\nlignan 주요 형: dibenzylbutane, monofuranoid, butyrolactone, arylnaphthalene, dibenzocyclooctane(오미자 lignan), furanofuranoid."
+    },
+    {
+      "id": 14,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(schisandrin)의 계열은?\n[[img:pharmacognosy/images/2023-1-mid-q6-schisandrin.png|구조식]]",
+      "answer": [
+        "lignan",
+        "리그난",
+        "dibenzocyclooctadiene lignan"
+      ],
+      "explanation": "정답: lignan\n주의: 2023-2 족보 표에는 'sesquiterpenoid'로 잘못 적혀 있었다. PPT 기준 lignan.\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2021-2·2022-2·2023-1] 다음 화합물(podophyllotoxin)의 성분계열은?\n[[img:pharmacognosy/images/2022-2-mid-s17.png|podophyllotoxin]]",
+      "answer": [
+        "lignan",
+        "리그난",
+        "aryltetralin lignan"
+      ],
+      "explanation": "정답: lignan\n출처: 2021-2 중간 16 · 2022-2 중간 주관17 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2025-2] 다음 중 후박의 주성분인 magnolol, honokiol의 화학적 분류로 옳은 것은?",
+      "choices": [
+        "norlignan",
+        "neolignan",
+        "dilignan",
+        "lignin",
+        "sesquilignan"
+      ],
+      "answer": "neolignan",
+      "explanation": "정답: neolignan\n두 C6C3 단위가 β-β′가 아닌 방향족 고리끼리(biphenyl) 결합.\n출처: 2025-2 중간 39번"
+    },
+    {
+      "id": 17,
+      "question": "[기출 2021-2·2023-1·2023-2] 다음 화합물(magnolol)의 계열은?\n[[img:pharmacognosy/images/2023-mid-q26-magnolol.png|magnolol]]",
+      "answer": [
+        "neolignan",
+        "네오리그난"
+      ],
+      "explanation": "정답: neolignan\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26-㉚ (3회 출제)"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2020-2] 다음 화합물(lithospermic acid)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-lithospermic.png|구조식]]",
+      "answer": [
+        "lignan",
+        "리그난",
+        "lignan oligomer",
+        "sesquilignan"
+      ],
+      "explanation": "정답: lignan (lignan oligomer)\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.10] 다음 구조(capillin)가 속하는 계열은?\n[[smi:CC#CC#CC(=O)c1ccccc1]]",
+      "choices": [
+        "polyacetylene",
+        "phthalide",
+        "phenylpropanoid",
+        "chromone",
+        "monoterpene"
+      ],
+      "answer": "polyacetylene",
+      "explanation": "정답: polyacetylene\n탄소-탄소 삼중결합(C≡C)이 이어진 것이 특징."
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.12] 일당귀(Angelica acutiloba)의 주성분 계열이 아닌 것은?",
+      "choices": [
+        "phthalide",
+        "polyacetylene",
+        "pyranocoumarin(decursin)"
+      ],
+      "answer": "pyranocoumarin(decursin)",
+      "explanation": "정답: pyranocoumarin(decursin) — 참당귀의 주성분"
+    },
+    {
+      "id": 21,
+      "question": "[기출 2020-2] 다음 화합물(aspidin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-aspidin.png|구조식]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n관중의 phloroglucinol 유도체(조충구제) — acetate-malonate.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2023-2] humulone, aspidin, albaspidin, lupulone 이 구조를 대표하는 성분 계열은?",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀"
+      ],
+      "explanation": "정답: phloroglucinol\n⚠ PPT 대조: PPT polyketide 단원에 phloroglucinols로 분류. 단 humulone·lupulone은 PPT complex pathway에서 'polyketide + mevalonate'로도 나옴 — 생합성 경로를 물으면 complex.\n출처: 2023-2 중간 31"
+    },
+    {
+      "id": 23,
+      "question": "[PPT p.14] PPT의 quinone 분류에 속하지 않는 것은?",
+      "choices": [
+        "benzoquinone",
+        "naphthoquinone",
+        "anthraquinone",
+        "phenanthraquinone",
+        "chromone"
+      ],
+      "answer": "chromone",
+      "explanation": "정답: chromone\n(이 밖에 extended quinone — hypericin 등)"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.14·16] Coenzyme Q10은 어떤 quinone에 속하는가?",
+      "choices": [
+        "benzoquinone",
+        "naphthoquinone",
+        "anthraquinone",
+        "phenanthraquinone"
+      ],
+      "answer": "benzoquinone",
+      "explanation": "정답: benzoquinone (ubiquinone)"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2] 다음 화합물(lapachol)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-lapachol.png|구조식]]",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\nshikimate + mevalonate 복합 경로 — naphthoquinone(능소화과 심재).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2022-2·2023-1·2023-2] Shikonin-Alkannin의 성분계열은?",
+      "choices": [
+        "C Indole Alkaloid",
+        "Triterpene saponin",
+        "Flavolignan",
+        "Isothiocyanate glycoside",
+        "Naphthoquinone"
+      ],
+      "answer": "Naphthoquinone",
+      "explanation": "정답: Naphthoquinone\n자근의 적색 색소 — naphthoquinone.\n출처: 2022-2 중간 8 · 2023-1 중간 객관2 · 2023-2 중간 18 (3회 출제)"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2023-1] shikonin-alkannin의 계열은?",
+      "choices": [
+        "naphthoquinone",
+        "limonoid",
+        "anthraquinone",
+        "benzoquinone",
+        "quassinoid"
+      ],
+      "answer": "naphthoquinone",
+      "explanation": "정답: naphthoquinone\n자근의 적색 색소 — naphthoquinone.\n출처: 2023-1 중간 객관17"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.21] anthraquinone의 두 가지 생합성 유형과 산소 배치의 짝으로 옳은 것은?",
+      "choices": [
+        "emodin형(acetate-malonate) – 산소가 양쪽 방향환에 하나씩 건너 / alizarin형(shikimate) – 산소가 한쪽 방향환에 치우침",
+        "emodin형 – 한쪽에 치우침 / alizarin형 – 양쪽에 건너",
+        "둘 다 mevalonate",
+        "emodin형은 질소를 가짐"
+      ],
+      "answer": "emodin형(acetate-malonate) – 산소가 양쪽 방향환에 하나씩 건너 / alizarin형(shikimate) – 산소가 한쪽 방향환에 치우침",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 29,
+      "question": "[기출 2020-2] 다음 화합물(emodin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-emodin.png|구조식]]",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논"
+      ],
+      "explanation": "정답: anthraquinone\nemodin형 anthraquinone — acetate-malonate(산소가 양쪽 고리에 하나씩 건너 배치).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.24] emodin형 anthraquinone의 치환기 표에서 R1 = COOH, R2 = H인 것은?",
+      "choices": [
+        "rhein",
+        "chrysophanol",
+        "emodin",
+        "aloe-emodin",
+        "physcion"
+      ],
+      "answer": "rhein",
+      "explanation": "정답: rhein\nchrysophanol(CH₃, H), emodin(CH₃, OH), aloe-emodin(CH₂OH, H), physcion(CH₃, OCH₃)."
+    }
+  ]
+}

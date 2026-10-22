@@ -1,0 +1,280 @@
+{
+  "deckId": "pharmacognosy-type-04-skeleton-7",
+  "subject": "생약학",
+  "title": "④ 골격 이름 7/7",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[골격 · coumarin 골격]\n'biscoumarin (dicoumarol형)' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=Cc2ccccc2O1]]",
+        "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+        "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+        "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+        "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]"
+      ],
+      "answer": "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]",
+      "explanation": "정답: biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 2,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n다음 골격의 이름은?\n[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+      "choices": [
+        "benzyltetrahydroisoquinoline",
+        "protoberberine",
+        "aporphine",
+        "morphinan",
+        "phenylethylamine"
+      ],
+      "answer": "benzyltetrahydroisoquinoline",
+      "explanation": "정답: benzyltetrahydroisoquinoline\n같은 묶음: benzyltetrahydroisoquinoline, protoberberine, aporphine, morphinan, phenylethylamine"
+    },
+    {
+      "id": 3,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n다음 골격의 이름은?\n[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+      "choices": [
+        "benzyltetrahydroisoquinoline",
+        "protoberberine",
+        "aporphine",
+        "morphinan",
+        "phenylethylamine"
+      ],
+      "answer": "protoberberine",
+      "explanation": "정답: protoberberine\n같은 묶음: benzyltetrahydroisoquinoline, protoberberine, aporphine, morphinan, phenylethylamine"
+    },
+    {
+      "id": 4,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n다음 골격의 이름은?\n[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+      "choices": [
+        "benzyltetrahydroisoquinoline",
+        "protoberberine",
+        "aporphine",
+        "morphinan",
+        "phenylethylamine"
+      ],
+      "answer": "aporphine",
+      "explanation": "정답: aporphine\n같은 묶음: benzyltetrahydroisoquinoline, protoberberine, aporphine, morphinan, phenylethylamine"
+    },
+    {
+      "id": 5,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n다음 골격의 이름은?\n[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+      "choices": [
+        "benzyltetrahydroisoquinoline",
+        "protoberberine",
+        "aporphine",
+        "morphinan",
+        "phenylethylamine"
+      ],
+      "answer": "morphinan",
+      "explanation": "정답: morphinan\n같은 묶음: benzyltetrahydroisoquinoline, protoberberine, aporphine, morphinan, phenylethylamine"
+    },
+    {
+      "id": 6,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n다음 골격의 이름은?\n[[smi:NCCc1ccccc1]]",
+      "choices": [
+        "benzyltetrahydroisoquinoline",
+        "protoberberine",
+        "aporphine",
+        "morphinan",
+        "phenylethylamine"
+      ],
+      "answer": "phenylethylamine",
+      "explanation": "정답: phenylethylamine\n같은 묶음: benzyltetrahydroisoquinoline, protoberberine, aporphine, morphinan, phenylethylamine"
+    },
+    {
+      "id": 7,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n'benzyltetrahydroisoquinoline' 골격은?",
+      "choices": [
+        "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+        "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+        "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+        "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+      "explanation": "정답: benzyltetrahydroisoquinoline"
+    },
+    {
+      "id": 8,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n'protoberberine' 골격은?",
+      "choices": [
+        "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+        "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+        "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+        "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+      "explanation": "정답: protoberberine"
+    },
+    {
+      "id": 9,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n'aporphine' 골격은?",
+      "choices": [
+        "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+        "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+        "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+        "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+      "explanation": "정답: aporphine"
+    },
+    {
+      "id": 10,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n'morphinan' 골격은?",
+      "choices": [
+        "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+        "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+        "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+        "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+      "explanation": "정답: morphinan"
+    },
+    {
+      "id": 11,
+      "question": "[골격 · alkaloid 골격 (Phe·Tyr 유래)]\n'phenylethylamine' 골격은?",
+      "choices": [
+        "[[smi:C(c1ccccc1)C1NCCc2ccccc21]]",
+        "[[smi:C1Cc2ccccc2C2Cc3ccccc3CN12]]",
+        "[[smi:CN1CCc2cccc3c2C1Cc1ccccc1-3]]",
+        "[[smi:CN1CCC23CCCCC2C1Cc1ccccc13]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:NCCc1ccccc1]]",
+      "explanation": "정답: phenylethylamine"
+    },
+    {
+      "id": 12,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n다음 골격의 이름은?\n[[smi:c1ccc2[nH]ccc2c1]]",
+      "choices": [
+        "indole",
+        "β-carboline",
+        "ergoline",
+        "pyrroloindole",
+        "quinoline"
+      ],
+      "answer": "indole",
+      "explanation": "정답: indole\n같은 묶음: indole, β-carboline, ergoline, pyrroloindole, quinoline"
+    },
+    {
+      "id": 13,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n다음 골격의 이름은?\n[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+      "choices": [
+        "indole",
+        "β-carboline",
+        "ergoline",
+        "pyrroloindole",
+        "quinoline"
+      ],
+      "answer": "β-carboline",
+      "explanation": "정답: β-carboline\n같은 묶음: indole, β-carboline, ergoline, pyrroloindole, quinoline"
+    },
+    {
+      "id": 14,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n다음 골격의 이름은?\n[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+      "choices": [
+        "indole",
+        "β-carboline",
+        "ergoline",
+        "pyrroloindole",
+        "quinoline"
+      ],
+      "answer": "ergoline",
+      "explanation": "정답: ergoline\n같은 묶음: indole, β-carboline, ergoline, pyrroloindole, quinoline"
+    },
+    {
+      "id": 15,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n다음 골격의 이름은?\n[[smi:C1CNC2Nc3ccccc3C12]]",
+      "choices": [
+        "indole",
+        "β-carboline",
+        "ergoline",
+        "pyrroloindole",
+        "quinoline"
+      ],
+      "answer": "pyrroloindole",
+      "explanation": "정답: pyrroloindole\n같은 묶음: indole, β-carboline, ergoline, pyrroloindole, quinoline"
+    },
+    {
+      "id": 16,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n다음 골격의 이름은?\n[[smi:c1ccc2ncccc2c1]]",
+      "choices": [
+        "indole",
+        "β-carboline",
+        "ergoline",
+        "pyrroloindole",
+        "quinoline"
+      ],
+      "answer": "quinoline",
+      "explanation": "정답: quinoline\n같은 묶음: indole, β-carboline, ergoline, pyrroloindole, quinoline"
+    },
+    {
+      "id": 17,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n'indole' 골격은?",
+      "choices": [
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+        "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+        "[[smi:C1CNC2Nc3ccccc3C12]]",
+        "[[smi:c1ccc2ncccc2c1]]"
+      ],
+      "answer": "[[smi:c1ccc2[nH]ccc2c1]]",
+      "explanation": "정답: indole"
+    },
+    {
+      "id": 18,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n'β-carboline' 골격은?",
+      "choices": [
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+        "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+        "[[smi:C1CNC2Nc3ccccc3C12]]",
+        "[[smi:c1ccc2ncccc2c1]]"
+      ],
+      "answer": "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+      "explanation": "정답: β-carboline"
+    },
+    {
+      "id": 19,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n'ergoline' 골격은?",
+      "choices": [
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+        "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+        "[[smi:C1CNC2Nc3ccccc3C12]]",
+        "[[smi:c1ccc2ncccc2c1]]"
+      ],
+      "answer": "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+      "explanation": "정답: ergoline"
+    },
+    {
+      "id": 20,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n'pyrroloindole' 골격은?",
+      "choices": [
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+        "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+        "[[smi:C1CNC2Nc3ccccc3C12]]",
+        "[[smi:c1ccc2ncccc2c1]]"
+      ],
+      "answer": "[[smi:C1CNC2Nc3ccccc3C12]]",
+      "explanation": "정답: pyrroloindole"
+    },
+    {
+      "id": 21,
+      "question": "[골격 · alkaloid 골격 (Trp 유래)]\n'quinoline' 골격은?",
+      "choices": [
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2c(c1)[nH]c1cnccc12]]",
+        "[[smi:C1CNCC2C1Cc1c[nH]c3cccc2c13]]",
+        "[[smi:C1CNC2Nc3ccccc3C12]]",
+        "[[smi:c1ccc2ncccc2c1]]"
+      ],
+      "answer": "[[smi:c1ccc2ncccc2c1]]",
+      "explanation": "정답: quinoline"
+    }
+  ]
+}

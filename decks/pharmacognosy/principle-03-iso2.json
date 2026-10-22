@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "[원리] squalene이 C30 triterpene과 steroid의 공통 출발점이 되는 이유는?\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\\\C)CC/C=C(\\\\C)CCC=C(C)C|FPP × 2, NADPH]]",
+      "question": "[원리] squalene이 C30 triterpene과 steroid의 공통 출발점이 되는 이유는?\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\\\C)CC/C=C(\\\\C)CCC=C(C)C|FPP × 2, NADPH]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]",
       "choices": [
         "지용성 aglycone(triterpene·steroid)과 수용성 당이 한 분자에 있는 양친매성(계면활성) 물질이라서",
         "FPP 2분자가 tail-to-tail로 결합한 선형 C30이 산화(2,3-epoxide)된 뒤 고리화하기 때문",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "question": "[원리] 2,3-oxidosqualene이 어떻게 접히느냐에 따라 lanosterol(steroid 계열)과 dammarane(triterpene) 계열로 갈라진다. 그 원리는?",
+      "question": "[원리] 2,3-oxidosqualene이 어떻게 접히느냐에 따라 lanosterol(steroid 계열)과 dammarane(triterpene) 계열로 갈라진다. 그 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p54.png|PPT iso-p54]]\n[[img:pharmacognosy/local/iso-p58.png|PPT iso-p58]]\n[[img:pharmacognosy/local/iso-p74.png|PPT iso-p74]]",
       "choices": [
         "효소가 사슬을 chair/boat로 다르게 접어 고리화 결과(4환 양이온의 구조)가 달라지기 때문",
         "동물은 cholesterol, 식물은 β-sitosterol·stigmasterol 등 phytosterol을 만든다",
@@ -31,7 +31,7 @@
     },
     {
       "id": 3,
-      "question": "[원리] 동물은 lanosterol, 식물은 cycloartenol을 거치는데, 그 결과의 차이는?",
+      "question": "[원리] 동물은 lanosterol, 식물은 cycloartenol을 거치는데, 그 결과의 차이는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p74.png|PPT iso-p74]]\n[[img:pharmacognosy/local/iso-p89.png|PPT iso-p89]]",
       "choices": [
         "지용성 aglycone(triterpene·steroid)과 수용성 당이 한 분자에 있는 양친매성(계면활성) 물질이라서",
         "동물은 cholesterol, 식물은 β-sitosterol·stigmasterol 등 phytosterol을 만든다",
@@ -44,7 +44,7 @@
     },
     {
       "id": 4,
-      "question": "[원리] saponin이 물에 흔들면 거품을 내는 이유는?",
+      "question": "[원리] saponin이 물에 흔들면 거품을 내는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p54.png|PPT iso-p54]]\n[[img:pharmacognosy/local/in3-p17.png|PPT in3-p17]]",
       "choices": [
         "적혈구 막의 cholesterol과 난용성 착화합물을 만들어 막에 구멍을 내기 때문",
         "계면활성 작용과 위 점막 자극 반사로 기도 분비를 늘려 가래를 묽게 한다(참고)",
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "question": "[원리] saponin이 적혈구를 용혈시키는 이유는?",
+      "question": "[원리] saponin이 적혈구를 용혈시키는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p54.png|PPT iso-p54]]",
       "choices": [
         "지용성 aglycone(triterpene·steroid)과 수용성 당이 한 분자에 있는 양친매성(계면활성) 물질이라서",
         "계면활성 작용과 위 점막 자극 반사로 기도 분비를 늘려 가래를 묽게 한다(참고)",
@@ -70,7 +70,7 @@
     },
     {
       "id": 6,
-      "question": "[원리] saponin이 '거담제'로 쓰이는 원리로 알맞은 것은?",
+      "question": "[원리] saponin이 '거담제'로 쓰이는 원리로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p67.png|PPT iso-p67]]",
       "choices": [
         "적혈구 막의 cholesterol과 난용성 착화합물을 만들어 막에 구멍을 내기 때문",
         "지용성 aglycone(triterpene·steroid)과 수용성 당이 한 분자에 있는 양친매성(계면활성) 물질이라서",
@@ -83,7 +83,7 @@
     },
     {
       "id": 7,
-      "question": "[원리] Liebermann-Burchard 반응에서 triterpene saponin은 적자색, steroid saponin은 청녹색이 나는 이유로 알맞은 것은?",
+      "question": "[원리] Liebermann-Burchard 반응에서 triterpene saponin은 적자색, steroid saponin은 청녹색이 나는 이유로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p73.png|PPT iso-p73]]\n[[img:pharmacognosy/local/in3-p18.png|PPT in3-p18]]",
       "choices": [
         "산이 곁사슬의 20-OH와 이중결합을 고리화시켜 인공산물(artifact)을 만들기 때문",
         "6번 위치 OH 유무와 당 결합 위치(PPD: 3·20번 / PPT: 6·20번)가 달라 작용 표적이 달라진다",
@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "question": "[원리] 인삼 ginsenoside를 산 가수분해하면 진짜 aglycone(protopanaxadiol)이 아니라 panaxadiol이 얻어지는 이유는?",
+      "question": "[원리] 인삼 ginsenoside를 산 가수분해하면 진짜 aglycone(protopanaxadiol)이 아니라 panaxadiol이 얻어지는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p64.png|PPT iso-p64]]",
       "choices": [
         "산이 곁사슬의 20-OH와 이중결합을 고리화시켜 인공산물(artifact)을 만들기 때문",
         "당이 붙은 자리가 1곳이면 mono-, 2곳(예: 3번과 20번)이면 bis-desmoside",
@@ -109,7 +109,7 @@
     },
     {
       "id": 9,
-      "question": "[원리] protopanaxadiol형과 protopanaxatriol형 ginsenoside의 작용이 반대(억제 vs 흥분)인 것을 구조로 설명하면?",
+      "question": "[원리] protopanaxadiol형과 protopanaxatriol형 ginsenoside의 작용이 반대(억제 vs 흥분)인 것을 구조로 설명하면?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p63.png|PPT iso-p63]]",
       "choices": [
         "triterpene에서 탄소가 잘려 나가거나 고리가 열려(limonoid: A환 개환 + furan) 원래 C30 골격이 변형됐기 때문",
         "골격(5환 triterpene vs 4환 steroid)이 달라 무수초산·황산에 의해 생기는 공액 탈수 생성물의 색이 다르기 때문",
@@ -122,7 +122,7 @@
     },
     {
       "id": 10,
-      "question": "[원리] monodesmoside와 bisdesmoside의 차이는?",
+      "question": "[원리] monodesmoside와 bisdesmoside의 차이는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p63.png|PPT iso-p63]]",
       "choices": [
         "골격(5환 triterpene vs 4환 steroid)이 달라 무수초산·황산에 의해 생기는 공액 탈수 생성물의 색이 다르기 때문",
         "당이 붙은 자리가 1곳이면 mono-, 2곳(예: 3번과 20번)이면 bis-desmoside",
@@ -135,7 +135,7 @@
     },
     {
       "id": 11,
-      "question": "[원리] limonoid·quassinoid를 '변형 triterpene'이라 부르는 이유는?",
+      "question": "[원리] limonoid·quassinoid를 '변형 triterpene'이라 부르는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p69.png|PPT iso-p69]]\n[[img:pharmacognosy/local/iso-p58.png|PPT iso-p58]]",
       "choices": [
         "산이 곁사슬의 20-OH와 이중결합을 고리화시켜 인공산물(artifact)을 만들기 때문",
         "당이 붙은 자리가 1곳이면 mono-, 2곳(예: 3번과 20번)이면 bis-desmoside",
@@ -148,7 +148,7 @@
     },
     {
       "id": 12,
-      "question": "[원리] lanosterol이 cholesterol이 되면서 C30 → C27로 바뀌는 과정이 아닌 것은?",
+      "question": "[원리] lanosterol이 cholesterol이 되면서 C30 → C27로 바뀌는 과정이 아닌 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p71.png|PPT iso-p71]]",
       "choices": [
         "C-4의 메틸 2개와 C-14 메틸 1개 제거",
         "C-24 이중결합 환원",
@@ -160,7 +160,7 @@
     },
     {
       "id": 13,
-      "question": "[원리] cardenolide(C23)가 만들어지는 원리로 그림 근거상 옳은 것은?",
+      "question": "[원리] cardenolide(C23)가 만들어지는 원리로 그림 근거상 옳은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p74.png|PPT iso-p74]]\n[[img:pharmacognosy/local/iso-p80.png|PPT iso-p80]]",
       "choices": [
         "cholesterol → pregnane(C21, pregnenolone)으로 곁사슬이 짧아진 뒤 acetyl-CoA(C2)가 붙어 5원 lactone 형성",
         "Na⁺,K⁺-ATPase 저해 → 세포 내 Na⁺↑ → Na⁺/Ca²⁺ 교환 감소 → 세포 내 Ca²⁺↑ → 수축력↑",
@@ -173,7 +173,7 @@
     },
     {
       "id": 14,
-      "question": "[원리] 강심배당체가 심근 수축력을 높이는 원리를 순서대로 설명한 것은?",
+      "question": "[원리] 강심배당체가 심근 수축력을 높이는 원리를 순서대로 설명한 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p80.png|PPT iso-p80]]\n[[img:pharmacognosy/local/iso-p81.png|PPT iso-p81]]\n[[img:pharmacognosy/local/iso-p84.png|PPT iso-p84]]",
       "choices": [
         "cholesterol → pregnane(C21, pregnenolone)으로 곁사슬이 짧아진 뒤 acetyl-CoA(C2)가 붙어 5원 lactone 형성",
         "유효농도와 독성농도의 차이가 작아(치료역이 좁아) 함량이 조금만 달라도 위험하기 때문",
@@ -186,7 +186,7 @@
     },
     {
       "id": 15,
-      "question": "[원리] 강심배당체의 활성에 필요한 구조 특징으로 PPT에 없는 것은?",
+      "question": "[원리] 강심배당체의 활성에 필요한 구조 특징으로 PPT에 없는 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p80.png|PPT iso-p80]]",
       "choices": [
         "A/B·C/D 고리 cis 결합",
         "14β-OH",
@@ -199,7 +199,7 @@
     },
     {
       "id": 16,
-      "question": "[원리] 디기탈리스 강심배당체를 '생물학적 품질평가(역가 시험)'로 관리하는 이유는?",
+      "question": "[원리] 디기탈리스 강심배당체를 '생물학적 품질평가(역가 시험)'로 관리하는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/in3-p21.png|PPT in3-p21]]\n[[img:pharmacognosy/local/iso-p83.png|PPT iso-p83]]",
       "choices": [
         "유효농도와 독성농도의 차이가 작아(치료역이 좁아) 함량이 조금만 달라도 위험하기 때문",
         "Keller-Killiani는 2-deoxysugar(digitoxose 등)와, Kedde는 cardenolide의 α,β-불포화 γ-lactone과 반응하기 때문",
@@ -212,7 +212,7 @@
     },
     {
       "id": 17,
-      "question": "[원리] 털디기탈리스의 digoxin이 디기탈리스의 digitoxin보다 '빠르고 축적이 적은' 이유를 구조로 설명하면?",
+      "question": "[원리] 털디기탈리스의 digoxin이 디기탈리스의 digitoxin보다 '빠르고 축적이 적은' 이유를 구조로 설명하면?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p83.png|PPT iso-p83]]\n[[img:pharmacognosy/local/iso-p85.png|PPT iso-p85]]",
       "choices": [
         "유효농도와 독성농도의 차이가 작아(치료역이 좁아) 함량이 조금만 달라도 위험하기 때문",
         "digoxin은 12-OH가 하나 더 있어 더 극성(수용성)이라 빨리 배설되고 덜 축적된다(참고)",
@@ -225,7 +225,7 @@
     },
     {
       "id": 18,
-      "question": "[원리] Keller-Killiani 반응과 Kedde 반응이 강심배당체의 서로 다른 부분을 검출하는 이유는?",
+      "question": "[원리] Keller-Killiani 반응과 Kedde 반응이 강심배당체의 서로 다른 부분을 검출하는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p83.png|PPT iso-p83]]",
       "choices": [
         "유효농도와 독성농도의 차이가 작아(치료역이 좁아) 함량이 조금만 달라도 위험하기 때문",
         "β-glucosidase가 C-26 당을 떼면 26-OH가 22번 hemiketal과 고리(spiroketal)를 닫기 때문",
@@ -238,7 +238,7 @@
     },
     {
       "id": 19,
-      "question": "[원리] spirostane형 saponin의 aglycone 세 유형(tigogenin, sarsapogenin, diosgenin)을 나누는 기준은?",
+      "question": "[원리] spirostane형 saponin의 aglycone 세 유형(tigogenin, sarsapogenin, diosgenin)을 나누는 기준은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p75.png|PPT iso-p75]]\n[[img:pharmacognosy/local/iso-p76.png|PPT iso-p76]]",
       "choices": [
         "β-glucosidase가 C-26 당을 떼면 26-OH가 22번 hemiketal과 고리(spiroketal)를 닫기 때문",
         "steroid 골격(Δ5)이 이미 있어 steroid hormone 반합성의 출발 물질로 쓸 수 있다(참고)",
@@ -251,7 +251,7 @@
     },
     {
       "id": 20,
-      "question": "[원리] furostane형 saponin(protodioscin)이 spirostane형(dioscin)으로 바뀌는 원리는?",
+      "question": "[원리] furostane형 saponin(protodioscin)이 spirostane형(dioscin)으로 바뀌는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p79.png|PPT iso-p79]]",
       "choices": [
         "β-glucosidase가 C-26 당을 떼면 26-OH가 22번 hemiketal과 고리(spiroketal)를 닫기 때문",
         "구조가 cholesterol과 비슷해 장에서 cholesterol 흡수를 경쟁적으로 방해(길항)하기 때문",
@@ -264,7 +264,7 @@
     },
     {
       "id": 21,
-      "question": "[원리] diosgenin이 의약품 원료로 중요한 이유로 알맞은 것은?",
+      "question": "[원리] diosgenin이 의약품 원료로 중요한 이유로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p77.png|PPT iso-p77]]",
       "choices": [
         "steroid 골격(Δ5)이 이미 있어 steroid hormone 반합성의 출발 물질로 쓸 수 있다(참고)",
         "구조가 cholesterol과 비슷해 장에서 cholesterol 흡수를 경쟁적으로 방해(길항)하기 때문",
@@ -277,7 +277,7 @@
     },
     {
       "id": 22,
-      "question": "[원리] phytosterol이 혈중 cholesterol을 낮추는 원리는?",
+      "question": "[원리] phytosterol이 혈중 cholesterol을 낮추는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p89.png|PPT iso-p89]]",
       "choices": [
         "steroid 골격(Δ5)이 이미 있어 steroid hormone 반합성의 출발 물질로 쓸 수 있다(참고)",
         "곤충의 탈피 호르몬과 같은 물질로, 식물을 먹은 곤충의 발육을 교란하는 방어물질로 여겨진다(참고)",
@@ -290,7 +290,7 @@
     },
     {
       "id": 23,
-      "question": "[원리] ecdysteroid가 식물(우슬 등)에 있는 이유로 알맞은 것은?",
+      "question": "[원리] ecdysteroid가 식물(우슬 등)에 있는 이유로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p89.png|PPT iso-p89]]",
       "choices": [
         "steroid 골격(Δ5)이 이미 있어 steroid hormone 반합성의 출발 물질로 쓸 수 있다(참고)",
         "구조가 cholesterol과 비슷해 장에서 cholesterol 흡수를 경쟁적으로 방해(길항)하기 때문",
@@ -303,7 +303,7 @@
     },
     {
       "id": 24,
-      "question": "[원리] carotenoid가 노랑~빨강 색을 내는 이유는?",
+      "question": "[원리] carotenoid가 노랑~빨강 색을 내는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p92.png|PPT iso-p92]]\n[[img:pharmacognosy/local/iso-p93.png|PPT iso-p93]]",
       "choices": [
         "β-carotene은 양 끝에 β-ionone 고리가 있어 가운데를 자르면 retinal 2분자가 되지만, lycopene은 고리가 없어서",
         "긴 공액 이중결합 사슬이 가시광선(청색 쪽)을 흡수하기 때문",
@@ -316,7 +316,7 @@
     },
     {
       "id": 25,
-      "question": "[원리] β-carotene이 provitamin A인데 lycopene은 그렇지 않은 이유는?",
+      "question": "[원리] β-carotene이 provitamin A인데 lycopene은 그렇지 않은 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p92.png|PPT iso-p92]]\n[[img:pharmacognosy/local/iso-p94.png|PPT iso-p94]]",
       "choices": [
         "carotenoid(crocetin) 양 끝에 당이 붙은 배당체라서",
         "긴 공액 이중결합 사슬이 가시광선(청색 쪽)을 흡수하기 때문",
@@ -329,7 +329,7 @@
     },
     {
       "id": 26,
-      "question": "[원리] 시각에서 빛을 감지하는 분자적 사건은?",
+      "question": "[원리] 시각에서 빛을 감지하는 분자적 사건은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p95.png|PPT iso-p95]]",
       "choices": [
         "긴 공액 이중결합 사슬이 가시광선(청색 쪽)을 흡수하기 때문",
         "β-carotene은 양 끝에 β-ionone 고리가 있어 가운데를 자르면 retinal 2분자가 되지만, lycopene은 고리가 없어서",
@@ -342,7 +342,7 @@
     },
     {
       "id": 27,
-      "question": "[원리] crocin(사프란·치자)이 carotenoid인데도 물에 녹는 색소인 이유는?",
+      "question": "[원리] crocin(사프란·치자)이 carotenoid인데도 물에 녹는 색소인 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p92.png|PPT iso-p92]]",
       "choices": [
         "골격이 steroid(isoprenoid)이고 질소는 나중에 도입됐기 때문",
         "ergostane(C28 steroid) 골격의 22·26번이 산화되어 δ-lactone이 된 것이기 때문",
@@ -355,7 +355,7 @@
     },
     {
       "id": 28,
-      "question": "[원리] steroidal alkaloid(패모 verticine 등)가 '질소 고리가 있어도 pseudoalkaloid'인 이유는?",
+      "question": "[원리] steroidal alkaloid(패모 verticine 등)가 '질소 고리가 있어도 pseudoalkaloid'인 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p91.png|PPT iso-p91]]\n[[img:pharmacognosy/local/alk-p72.png|PPT alk-p72]]",
       "choices": [
         "rhodopsin의 11-cis-retinal이 빛을 받아 all-trans로 바뀌며 opsin 구조가 변하는 것",
         "β-carotene은 양 끝에 β-ionone 고리가 있어 가운데를 자르면 retinal 2분자가 되지만, lycopene은 고리가 없어서",
@@ -368,7 +368,7 @@
     },
     {
       "id": 29,
-      "question": "[원리] withanolide를 'triterpene lactone'이 아니라 steroid lactone 계열로 보는 이유는?",
+      "question": "[원리] withanolide를 'triterpene lactone'이 아니라 steroid lactone 계열로 보는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p90.png|PPT iso-p90]]",
       "choices": [
         "carotenoid(crocetin) 양 끝에 당이 붙은 배당체라서",
         "β-carotene은 양 끝에 β-ionone 고리가 있어 가운데를 자르면 retinal 2분자가 되지만, lycopene은 고리가 없어서",

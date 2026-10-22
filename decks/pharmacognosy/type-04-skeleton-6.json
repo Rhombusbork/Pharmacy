@@ -1,0 +1,397 @@
+{
+  "deckId": "pharmacognosy-type-04-skeleton-6",
+  "subject": "생약학",
+  "title": "④ 골격 이름 6/7",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[골격 · flavonoid 골격 ①]\n'isoflavone' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(O)=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1CC(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(O)C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]"
+      ],
+      "answer": "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+      "explanation": "정답: isoflavone"
+    },
+    {
+      "id": 2,
+      "question": "[골격 · flavonoid 골격 ②]\n다음 골격의 이름은?\n[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+      "choices": [
+        "chalcone",
+        "dihydrochalcone",
+        "aurone",
+        "anthocyanidin (flavylium)",
+        "flavan-3-ol (catechin형)"
+      ],
+      "answer": "chalcone",
+      "explanation": "정답: chalcone\n같은 묶음: chalcone, dihydrochalcone, aurone, anthocyanidin (flavylium), flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 3,
+      "question": "[골격 · flavonoid 골격 ②]\n다음 골격의 이름은?\n[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+      "choices": [
+        "chalcone",
+        "dihydrochalcone",
+        "aurone",
+        "anthocyanidin (flavylium)",
+        "flavan-3-ol (catechin형)"
+      ],
+      "answer": "dihydrochalcone",
+      "explanation": "정답: dihydrochalcone\n같은 묶음: chalcone, dihydrochalcone, aurone, anthocyanidin (flavylium), flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 4,
+      "question": "[골격 · flavonoid 골격 ②]\n다음 골격의 이름은?\n[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "chalcone",
+        "dihydrochalcone",
+        "aurone",
+        "anthocyanidin (flavylium)",
+        "flavan-3-ol (catechin형)"
+      ],
+      "answer": "aurone",
+      "explanation": "정답: aurone\n같은 묶음: chalcone, dihydrochalcone, aurone, anthocyanidin (flavylium), flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 5,
+      "question": "[골격 · flavonoid 골격 ②]\n다음 골격의 이름은?\n[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+      "choices": [
+        "chalcone",
+        "dihydrochalcone",
+        "aurone",
+        "anthocyanidin (flavylium)",
+        "flavan-3-ol (catechin형)"
+      ],
+      "answer": "anthocyanidin (flavylium)",
+      "explanation": "정답: anthocyanidin (flavylium)\n같은 묶음: chalcone, dihydrochalcone, aurone, anthocyanidin (flavylium), flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 6,
+      "question": "[골격 · flavonoid 골격 ②]\n다음 골격의 이름은?\n[[smi:OC1Cc2ccccc2OC1c1ccccc1]]",
+      "choices": [
+        "chalcone",
+        "dihydrochalcone",
+        "aurone",
+        "anthocyanidin (flavylium)",
+        "flavan-3-ol (catechin형)"
+      ],
+      "answer": "flavan-3-ol (catechin형)",
+      "explanation": "정답: flavan-3-ol (catechin형)\n같은 묶음: chalcone, dihydrochalcone, aurone, anthocyanidin (flavylium), flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 7,
+      "question": "[골격 · flavonoid 골격 ②]\n'chalcone' 골격은?",
+      "choices": [
+        "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+        "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+        "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+      "explanation": "정답: chalcone"
+    },
+    {
+      "id": 8,
+      "question": "[골격 · flavonoid 골격 ②]\n'dihydrochalcone' 골격은?",
+      "choices": [
+        "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+        "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+        "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+      "explanation": "정답: dihydrochalcone"
+    },
+    {
+      "id": 9,
+      "question": "[골격 · flavonoid 골격 ②]\n'aurone' 골격은?",
+      "choices": [
+        "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+        "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+        "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+      "explanation": "정답: aurone"
+    },
+    {
+      "id": 10,
+      "question": "[골격 · flavonoid 골격 ②]\n'anthocyanidin (flavylium)' 골격은?",
+      "choices": [
+        "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+        "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+        "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]"
+      ],
+      "answer": "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+      "explanation": "정답: anthocyanidin (flavylium)"
+    },
+    {
+      "id": 11,
+      "question": "[골격 · flavonoid 골격 ②]\n'flavan-3-ol (catechin형)' 골격은?",
+      "choices": [
+        "[[smi:O=C(/C=C/c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(CCc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C1/C(=C/c2ccccc2)Oc2ccccc21]]",
+        "[[smi:c1ccc(-c2ccc3ccccc3[o+]2)cc1]]",
+        "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]"
+      ],
+      "answer": "[[smi:OC1Cc2ccccc2OC1c1ccccc1]]",
+      "explanation": "정답: flavan-3-ol (catechin형)"
+    },
+    {
+      "id": 12,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n다음 골격의 이름은?\n[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+      "choices": [
+        "flavone",
+        "isoflavone",
+        "neoflavonoid (4-phenylcoumarin)",
+        "stilbene",
+        "xanthone"
+      ],
+      "answer": "flavone",
+      "explanation": "정답: flavone\n같은 묶음: flavone, isoflavone, neoflavonoid (4-phenylcoumarin), stilbene, xanthone"
+    },
+    {
+      "id": 13,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n다음 골격의 이름은?\n[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+      "choices": [
+        "flavone",
+        "isoflavone",
+        "neoflavonoid (4-phenylcoumarin)",
+        "stilbene",
+        "xanthone"
+      ],
+      "answer": "isoflavone",
+      "explanation": "정답: isoflavone\n같은 묶음: flavone, isoflavone, neoflavonoid (4-phenylcoumarin), stilbene, xanthone"
+    },
+    {
+      "id": 14,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n다음 골격의 이름은?\n[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+      "choices": [
+        "flavone",
+        "isoflavone",
+        "neoflavonoid (4-phenylcoumarin)",
+        "stilbene",
+        "xanthone"
+      ],
+      "answer": "neoflavonoid (4-phenylcoumarin)",
+      "explanation": "정답: neoflavonoid (4-phenylcoumarin)\n같은 묶음: flavone, isoflavone, neoflavonoid (4-phenylcoumarin), stilbene, xanthone"
+    },
+    {
+      "id": 15,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n다음 골격의 이름은?\n[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+      "choices": [
+        "flavone",
+        "isoflavone",
+        "neoflavonoid (4-phenylcoumarin)",
+        "stilbene",
+        "xanthone"
+      ],
+      "answer": "stilbene",
+      "explanation": "정답: stilbene\n같은 묶음: flavone, isoflavone, neoflavonoid (4-phenylcoumarin), stilbene, xanthone"
+    },
+    {
+      "id": 16,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n다음 골격의 이름은?\n[[smi:O=C1c2ccccc2Oc2ccccc12]]",
+      "choices": [
+        "flavone",
+        "isoflavone",
+        "neoflavonoid (4-phenylcoumarin)",
+        "stilbene",
+        "xanthone"
+      ],
+      "answer": "xanthone",
+      "explanation": "정답: xanthone\n같은 묶음: flavone, isoflavone, neoflavonoid (4-phenylcoumarin), stilbene, xanthone"
+    },
+    {
+      "id": 17,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n'flavone' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+        "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+        "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+        "[[smi:O=C1c2ccccc2Oc2ccccc12]]"
+      ],
+      "answer": "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+      "explanation": "정답: flavone"
+    },
+    {
+      "id": 18,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n'isoflavone' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+        "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+        "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+        "[[smi:O=C1c2ccccc2Oc2ccccc12]]"
+      ],
+      "answer": "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+      "explanation": "정답: isoflavone"
+    },
+    {
+      "id": 19,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n'neoflavonoid (4-phenylcoumarin)' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+        "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+        "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+        "[[smi:O=C1c2ccccc2Oc2ccccc12]]"
+      ],
+      "answer": "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+      "explanation": "정답: neoflavonoid (4-phenylcoumarin)"
+    },
+    {
+      "id": 20,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n'stilbene' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+        "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+        "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+        "[[smi:O=C1c2ccccc2Oc2ccccc12]]"
+      ],
+      "answer": "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+      "explanation": "정답: stilbene"
+    },
+    {
+      "id": 21,
+      "question": "[골격 · flavonoid 골격 ③ (B환 위치)]\n'xanthone' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=C(c2ccccc2)Oc2ccccc21]]",
+        "[[smi:O=C1C(c2ccccc2)=COc2ccccc21]]",
+        "[[smi:O=C1C=C(c2ccccc2)c2ccccc2O1]]",
+        "[[smi:C(=C/c1ccccc1)\\c1ccccc1]]",
+        "[[smi:O=C1c2ccccc2Oc2ccccc12]]"
+      ],
+      "answer": "[[smi:O=C1c2ccccc2Oc2ccccc12]]",
+      "explanation": "정답: xanthone"
+    },
+    {
+      "id": 22,
+      "question": "[골격 · coumarin 골격]\n다음 골격의 이름은?\n[[smi:O=C1C=Cc2ccccc2O1]]",
+      "choices": [
+        "simple coumarin",
+        "linear furanocoumarin (psoralen형)",
+        "angular furanocoumarin (angelicin형)",
+        "pyranocoumarin",
+        "biscoumarin (dicoumarol형)"
+      ],
+      "answer": "simple coumarin",
+      "explanation": "정답: simple coumarin\n같은 묶음: simple coumarin, linear furanocoumarin (psoralen형), angular furanocoumarin (angelicin형), pyranocoumarin, biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 23,
+      "question": "[골격 · coumarin 골격]\n다음 골격의 이름은?\n[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+      "choices": [
+        "simple coumarin",
+        "linear furanocoumarin (psoralen형)",
+        "angular furanocoumarin (angelicin형)",
+        "pyranocoumarin",
+        "biscoumarin (dicoumarol형)"
+      ],
+      "answer": "linear furanocoumarin (psoralen형)",
+      "explanation": "정답: linear furanocoumarin (psoralen형)\n같은 묶음: simple coumarin, linear furanocoumarin (psoralen형), angular furanocoumarin (angelicin형), pyranocoumarin, biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 24,
+      "question": "[골격 · coumarin 골격]\n다음 골격의 이름은?\n[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+      "choices": [
+        "simple coumarin",
+        "linear furanocoumarin (psoralen형)",
+        "angular furanocoumarin (angelicin형)",
+        "pyranocoumarin",
+        "biscoumarin (dicoumarol형)"
+      ],
+      "answer": "angular furanocoumarin (angelicin형)",
+      "explanation": "정답: angular furanocoumarin (angelicin형)\n같은 묶음: simple coumarin, linear furanocoumarin (psoralen형), angular furanocoumarin (angelicin형), pyranocoumarin, biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 25,
+      "question": "[골격 · coumarin 골격]\n다음 골격의 이름은?\n[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+      "choices": [
+        "simple coumarin",
+        "linear furanocoumarin (psoralen형)",
+        "angular furanocoumarin (angelicin형)",
+        "pyranocoumarin",
+        "biscoumarin (dicoumarol형)"
+      ],
+      "answer": "pyranocoumarin",
+      "explanation": "정답: pyranocoumarin\n같은 묶음: simple coumarin, linear furanocoumarin (psoralen형), angular furanocoumarin (angelicin형), pyranocoumarin, biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 26,
+      "question": "[골격 · coumarin 골격]\n다음 골격의 이름은?\n[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]",
+      "choices": [
+        "simple coumarin",
+        "linear furanocoumarin (psoralen형)",
+        "angular furanocoumarin (angelicin형)",
+        "pyranocoumarin",
+        "biscoumarin (dicoumarol형)"
+      ],
+      "answer": "biscoumarin (dicoumarol형)",
+      "explanation": "정답: biscoumarin (dicoumarol형)\n같은 묶음: simple coumarin, linear furanocoumarin (psoralen형), angular furanocoumarin (angelicin형), pyranocoumarin, biscoumarin (dicoumarol형)"
+    },
+    {
+      "id": 27,
+      "question": "[골격 · coumarin 골격]\n'simple coumarin' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=Cc2ccccc2O1]]",
+        "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+        "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+        "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+        "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]"
+      ],
+      "answer": "[[smi:O=C1C=Cc2ccccc2O1]]",
+      "explanation": "정답: simple coumarin"
+    },
+    {
+      "id": 28,
+      "question": "[골격 · coumarin 골격]\n'linear furanocoumarin (psoralen형)' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=Cc2ccccc2O1]]",
+        "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+        "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+        "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+        "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]"
+      ],
+      "answer": "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+      "explanation": "정답: linear furanocoumarin (psoralen형)"
+    },
+    {
+      "id": 29,
+      "question": "[골격 · coumarin 골격]\n'angular furanocoumarin (angelicin형)' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=Cc2ccccc2O1]]",
+        "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+        "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+        "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+        "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]"
+      ],
+      "answer": "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+      "explanation": "정답: angular furanocoumarin (angelicin형)"
+    },
+    {
+      "id": 30,
+      "question": "[골격 · coumarin 골격]\n'pyranocoumarin' 골격은?",
+      "choices": [
+        "[[smi:O=C1C=Cc2ccccc2O1]]",
+        "[[smi:O=C1C=Cc2cc3ccoc3cc2O1]]",
+        "[[smi:O=C1C=Cc2ccc3occc3c2O1]]",
+        "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+        "[[smi:O=C1Oc2ccccc2C(O)=C1CC1=C(O)c2ccccc2OC1=O]]"
+      ],
+      "answer": "[[smi:CC1(C)C=Cc2cc3C=CC(=O)Oc3cc2O1]]",
+      "explanation": "정답: pyranocoumarin"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "deckId": "pharmacognosy-type-05-class-1",
+  "subject": "생약학",
+  "title": "⑤ 화합물 계열 1/5",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2021-2·2023-2] 다음 구조('6원환 5개 + 당')의 성분 계열은?\n[[img:pharmacognosy/images/2023-mid-q13.png|구조식]]",
+      "choices": [
+        "quinone",
+        "triterpenoid glycoside",
+        "coumarin",
+        "isoflavone",
+        "lignan"
+      ],
+      "answer": "triterpenoid glycoside",
+      "explanation": "정답: triterpenoid glycoside\nPPT 1-2 p.36 예제와 같은 형식(glycyrrhizin 구조 — pentacyclic triterpene + GlcA-GlcA). 족보 그림은 ursane형 배당체.\n출처: 2021-2 중간 13 · 2023-2 중간 13 (2회 출제)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT 1-2 p.36] 감초의 daidzein·formononetin이 속하는 성분계열은?",
+      "choices": [
+        "isoflavonoid",
+        "quinolone alkaloid",
+        "arylheptanoid",
+        "phthalide",
+        "tropane alkaloid"
+      ],
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid\nPPT p.36 예제(생약학문제집)."
+    },
+    {
+      "id": 3,
+      "question": "[기출 2021-2] Mevalonate pathway: DMAPP·IPP (C5)에서 만들어지는 화합물군은?",
+      "choices": [
+        "hemiterpenes",
+        "monoterpenes",
+        "sesquiterpenes",
+        "diterpenes",
+        "sesterterpenes",
+        "triterpenoids (steroids)",
+        "tetraterpenes"
+      ],
+      "answer": "hemiterpenes",
+      "explanation": "정답: hemiterpenes\n출처: 2021-2 중간 9"
+    },
+    {
+      "id": 4,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] DMAPP + IPP = GPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] GPP + IPP = FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2020-2·2021-2] FPP + IPP = GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "diterpene",
+      "explanation": "정답: diterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2020-2·2021-2] GGPP + IPP = GFPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "sesterterpene",
+      "explanation": "정답: sesterterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 (2회 출제)"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] FPP + FPP = 2×FPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "triterpene",
+      "explanation": "정답: triterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 9,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] GGPP + GGPP = 2×GGPP → ( ? )\n빈칸에 들어갈 계열은?",
+      "choices": [
+        "monoterpene",
+        "sesquiterpene",
+        "diterpene",
+        "sesterterpene",
+        "triterpene",
+        "tetraterpene"
+      ],
+      "answer": "tetraterpene",
+      "explanation": "정답: tetraterpene\nGPP(C10) → monoterpene, FPP(C15) → sesquiterpene, GGPP(C20) → diterpene, GFPP(C25) → sesterterpene, 2×FPP(squalene, C30) → triterpene, 2×GGPP(phytoene, C40) → tetraterpene.\n출처: 2020-2 중간 1 · 2021-2 중간 9 · 2023-1 중간 주관4 · 2023-2 중간 9 (4회 출제)"
+    },
+    {
+      "id": 10,
+      "question": "[기출 2021-2·2023-1·2023-2] 다음 화합물(menthol)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-menthol.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid"
+      ],
+      "explanation": "정답: monoterpene\np-menthane 골격 monoterpene(박하).\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (3회 출제)"
+    },
+    {
+      "id": 11,
+      "question": "[기출 2020-2] 다음 화합물(limonene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-limonene.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜"
+      ],
+      "explanation": "정답: monoterpene\np-menthane계 monoterpene(레몬 정유).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.20] 다음 구조(thymol)가 속하는 계열은?\n[[smi:Cc1ccc(C(C)C)c(O)c1]]",
+      "choices": [
+        "monoterpene (p-menthane계 방향족)",
+        "phenylpropanoid",
+        "sesquiterpene",
+        "polyketide phenol",
+        "coumarin"
+      ],
+      "answer": "monoterpene (p-menthane계 방향족)",
+      "explanation": "정답: monoterpene\nthymol·carvacrol·p-cymene은 p-menthane 골격이 방향족화된 monoterpene(C10). phenylpropanoid(C6C3)와 헷갈리지 않도록 탄소 수(C10)와 isopropyl기를 확인."
+    },
+    {
+      "id": 13,
+      "question": "[기출 2023-2] 작약의 지표성분인 paeoniflorin의 계열은?",
+      "choices": [
+        "monoterpene",
+        "flavonoid",
+        "phenol glycoside",
+        "anthraquinone",
+        "tannin"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\n⚠ PPT 대조: PPT: 'monoterpene glycoside의 benzoate'. 보기의 monoterpene이 가장 가까운 답.\n출처: 2023-2 중간 7"
+    },
+    {
+      "id": 14,
+      "question": "[기출 2021-2·2023-1] 작약 paeoniflorin의 계열은?",
+      "choices": [
+        "secoiridoid",
+        "phytosterol",
+        "monoterpene",
+        "carotenoid",
+        "cannabinoid"
+      ],
+      "answer": "monoterpene",
+      "explanation": "정답: monoterpene\npaeoniflorin — monoterpene 배당체.\n출처: 2021-2 중간 7 · 2023-1 중간 객관4 (2회 출제)"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2021-2] 다음 구조 성분이 속하는 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q11.png|구조식]]",
+      "choices": [
+        "monoterpene glycoside",
+        "flavonoid",
+        "phenol glycoside",
+        "anthraquinone",
+        "tannin"
+      ],
+      "answer": "monoterpene glycoside",
+      "explanation": "정답: monoterpene glycoside\npaeoniflorin — pinane계 monoterpene 배당체.\n출처: 2021-2 중간 11"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2021-2·2022-2·2023-1·2023-2] 다음 화합물(chrysanthemic acid)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-chrysanthemic.png|구조식]]",
+      "answer": [
+        "monoterpene",
+        "모노테르펜",
+        "monoterpenoid",
+        "irregular monoterpene"
+      ],
+      "explanation": "정답: monoterpene\nchrysanthemane 골격의 불규칙(irregular) monoterpene, 제충국 pyrethrin의 산 부분 — 살충제.\n출처: 2021-2 중간 16 · 2022-2 중간 주관16 · 2023-1 중간 주관6 · 2023-2 중간 26 (4회 출제)"
+    },
+    {
+      "id": 17,
+      "question": "[기출 2020-2] 다음 화합물(iridodial)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-iridodial.png|구조식]]",
+      "answer": [
+        "iridoid",
+        "이리도이드",
+        "monoterpene"
+      ],
+      "explanation": "정답: iridoid\niridoid(monoterpene)의 기본 구조, hemiacetal형.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.26] 산수유의 지표성분인 loganin의 성분계열은?",
+      "choices": [
+        "iridoid",
+        "alkaloid",
+        "lignan",
+        "sesquiterpenoid",
+        "flavonoid"
+      ],
+      "answer": "iridoid",
+      "explanation": "정답: iridoid\nPPT p.26 예제(생약학문제집 p.102)."
+    },
+    {
+      "id": 19,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(loganin)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-loganin.png|구조식]]",
+      "answer": [
+        "iridoid",
+        "이리도이드",
+        "iridoid glycoside"
+      ],
+      "explanation": "정답: iridoid\ncyclopentane 고리가 남아 있는 iridoid 배당체(secologanin의 전구체).\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.29] 당약의 성분인 swertiamarin의 성분계열은?",
+      "choices": [
+        "secoiridoid",
+        "xanthone",
+        "flavonoid",
+        "iridoid",
+        "triterpenoid"
+      ],
+      "answer": "secoiridoid",
+      "explanation": "정답: secoiridoid\nPPT p.29 예제(생약학문제집 p.123). 용담·겐티아나·당약: gentiopicroside, swertiamarin, sweroside, amarogentin."
+    },
+    {
+      "id": 21,
+      "question": "[기출 2023-1] 다음 중 secoiridoid에 속하는 성분은?",
+      "choices": [
+        "perezone",
+        "asiaticoside",
+        "gentiopicroside",
+        "atractylon",
+        "kadsurenone"
+      ],
+      "answer": "gentiopicroside",
+      "explanation": "정답: gentiopicroside\ngentiopicroside(용담) — secoiridoid 배당체.\n출처: 2023-1 중간 객관15"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2021-2·2022-2·2023-1] 다음 화합물(gentiopicroside)의 계열은?\n[[img:pharmacognosy/images/2021-2-mid-q16-gentiopicroside.png|구조식]]",
+      "answer": [
+        "secoiridoid",
+        "세코이리도이드",
+        "secoiridoid glycoside"
+      ],
+      "explanation": "정답: secoiridoid\n용담의 고미 성분, secoiridoid 배당체 — 고미건위.\n출처: 2021-2 중간 16 · 2022-2 중간 주관12 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2020-2·2021-2·2023-1] 다음 화합물(elemene)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-elemene.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜"
+      ],
+      "explanation": "정답: sesquiterpene\nC15 sesquiterpene.\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 (3회 출제)"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2021-2] 다음 구조의 화합물의 계열은 무엇인가?\n[[img:pharmacognosy/images/2021-2-mid-q14.png|vernomenin]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone"
+      ],
+      "explanation": "정답: sesquiterpene\n족보 답: sesquiterpene. 초록 원은 α-methylene-γ-lactone(세포독성 활성 부위).\n출처: 2021-2 중간 14"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2023-1·2023-2] 다음 물질이 해당하는 계열을 고르시오.\n[[img:pharmacognosy/images/2023-1-mid-m9.png|구조식]]",
+      "choices": [
+        "steroid",
+        "saponin",
+        "curcuminoid",
+        "lignan",
+        "sesquiterpene"
+      ],
+      "answer": "sesquiterpene",
+      "explanation": "정답: sesquiterpene\ndecalin(eudesmane) 골격 + α-methylene-γ-lactone — sesquiterpene lactone(alantolactone류).\n출처: 2023-1 중간 객관9 · 2023-2 중간 14 (2회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 다음 화합물(artemisinin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-artemisinin.png|구조식]]",
+      "answer": [
+        "sesquiterpene",
+        "세스퀴테르펜",
+        "sesquiterpene lactone"
+      ],
+      "explanation": "정답: sesquiterpene\nsesquiterpene lactone(endoperoxide).\n출처: 2020-2 중간 3 · 2021-2 중간 16 · 2023-1 중간 주관6 · 2023-2 중간 26 (4회 출제)"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.50] aconitine(부자·초오, Aconitum sp.)이 속하는 계열은?",
+      "choices": [
+        "diterpene alkaloid (diterpene의 질소 유도체)",
+        "steroidal alkaloid",
+        "tropane alkaloid",
+        "sesquiterpene lactone",
+        "monoterpene indole alkaloid"
+      ],
+      "answer": "diterpene alkaloid (diterpene의 질소 유도체)",
+      "explanation": "정답: diterpene alkaloid\nmesaconitine, hypaconitine도 같은 계열."
+    },
+    {
+      "id": 28,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\ncycloartane 계열 갱년기 치료 생약 (    )",
+      "answer": [
+        "승마",
+        "cimicifuga"
+      ],
+      "explanation": "정답: 승마\n족보 답: 승마.\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.63·64] protopanaxadiol형 ginsenoside가 아닌 것은?",
+      "choices": [
+        "ginsenoside Rb1",
+        "ginsenoside Rb2",
+        "ginsenoside Rc",
+        "ginsenoside Rd",
+        "ginsenoside Rg1"
+      ],
+      "answer": "ginsenoside Rg1",
+      "explanation": "정답: Rg1 (protopanaxatriol형)\nPPD형: Ra1·Ra2·Rb1·Rb2·Rb3·Rc·Rd / PPT형: Re·Rf·Rg1·Rg2·Rh1."
+    },
+    {
+      "id": 30,
+      "question": "[기출 2021-2·2023-1·2023-2] 빈칸을 채우시오.\nasiaticoside의 계열 ( U     )",
+      "answer": [
+        "ursane",
+        "우르산",
+        "ursane계"
+      ],
+      "explanation": "정답: ursane\n출처: 2021-2 중간 1 · 2023-1 중간 주관1 · 2023-2 중간 1 (3회 출제)"
+    }
+  ]
+}

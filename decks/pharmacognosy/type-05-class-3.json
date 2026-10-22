@@ -1,0 +1,357 @@
+{
+  "deckId": "pharmacognosy-type-05-class-3",
+  "subject": "생약학",
+  "title": "⑤ 화합물 계열 3/5",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2022-2] 다음 화합물의 계열은?\n[[img:pharmacognosy/images/2022-2-mid-s1.png|구조식]]",
+      "answer": [
+        "anthraquinone",
+        "안트라퀴논",
+        "quinone"
+      ],
+      "explanation": "정답: anthraquinone\n가운데 고리에 C=O 두 개, 양쪽 벤젠 고리 — 9,10-anthraquinone 골격.\n출처: 2022-2 중간 주관1"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.25] tanshinone이 속하는 quinone 계열은?",
+      "answer": [
+        "phenanthraquinone",
+        "페난트라퀴논",
+        "phenanthrenequinone"
+      ],
+      "explanation": "정답: phenanthraquinone"
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.28·29] 다음 구조(1H-2-benzopyran-1-one)의 화합물군 이름은?\n[[smi:O=C1OC=Cc2ccccc21]]",
+      "answer": [
+        "isocoumarin",
+        "이소쿠마린"
+      ],
+      "explanation": "정답: isocoumarin"
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.29] 다음 구조(4H-1-benzopyran-4-one)의 화합물군은?\n[[smi:O=C1C=COc2ccccc21]]",
+      "choices": [
+        "chromone",
+        "coumarin",
+        "isocoumarin",
+        "xanthone",
+        "flavone"
+      ],
+      "answer": "chromone",
+      "explanation": "정답: chromone"
+    },
+    {
+      "id": 5,
+      "question": "[기출 2020-2] 다음 화합물(humulone)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-humulone.png|구조식]]",
+      "answer": [
+        "phloroglucinol",
+        "플로로글루시놀",
+        "acylphloroglucinol"
+      ],
+      "explanation": "정답: phloroglucinol\npolyketide + mevalonate 복합 경로(호프의 쓴맛 성분), phloroglucinol 유도체.\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 6,
+      "question": "[기출 2020-2] 다음 화합물(tetrahydrocannabinolic acid)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-thca.png|구조식]]",
+      "answer": [
+        "cannabinoid",
+        "카나비노이드"
+      ],
+      "explanation": "정답: cannabinoid\npolyketide + mevalonate 복합 경로(hexaketide + C10).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 7,
+      "question": "[기출 2020-2] 다음 화합물(shikonin / alkannin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-shikonin.png|구조식]]",
+      "answer": [
+        "naphthoquinone",
+        "나프토퀴논"
+      ],
+      "explanation": "정답: naphthoquinone\nshikimate + mevalonate 복합 경로(자근의 적색 색소).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 8,
+      "question": "[기출 2020-2] 다음 화합물(icariin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-icariin.png|구조식]]",
+      "answer": [
+        "flavonoid",
+        "플라보노이드",
+        "prenylated flavonoid",
+        "flavonol"
+      ],
+      "explanation": "정답: flavonoid\npolyketide + shikimate + mevalonate 경로(prenylated flavonoid, 음양곽).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.5·16] 데리스(Derris)의 rotenone이 속하는 계열은?",
+      "choices": [
+        "prenylated flavonoid (rotenoid)",
+        "stilbene",
+        "xanthone",
+        "chalcone",
+        "steroid"
+      ],
+      "answer": "prenylated flavonoid (rotenoid)",
+      "explanation": "정답: prenylated flavonoid(rotenoid)"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.7] C3 부분의 형태에 따라 나눈 flavonoid 분류에 속하지 않는 것은?",
+      "choices": [
+        "flavone",
+        "flavanone",
+        "chalcone",
+        "aurone",
+        "isoflavonoid"
+      ],
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid — B환의 결합 위치로 나눈 분류\nC3 형태: flavone, flavonol, flavanone, flavanonol, chalcone, aurone, anthocyanin."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.7·14] B환의 결합 위치에 따른 분류로 옳은 것은?",
+      "choices": [
+        "isoflavonoid – B환이 C-3에, neoflavonoid – B환이 C-4에 결합",
+        "isoflavonoid – C-4, neoflavonoid – C-3",
+        "둘 다 C-2",
+        "isoflavonoid – C-5"
+      ],
+      "answer": "isoflavonoid – B환이 C-3에, neoflavonoid – B환이 C-4에 결합",
+      "explanation": "정답: 첫 번째 (일반 flavonoid는 C-2)"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.17] 다음 구조(resveratrol)가 속하는 계열은?\n[[smi:Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1]]",
+      "choices": [
+        "stilbene",
+        "chalcone",
+        "flavone",
+        "lignan",
+        "coumarin"
+      ],
+      "answer": "stilbene",
+      "explanation": "정답: stilbene (두 방향환이 C=C로 연결)"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.18] tannin의 분류로 옳은 것은?",
+      "choices": [
+        "가수분해형(gallotannin, ellagitannin) / 축합형(catechol tannin)",
+        "가수분해형(catechol tannin) / 축합형(gallotannin)",
+        "모두 가수분해형",
+        "축합형(ellagitannin)만"
+      ],
+      "answer": "가수분해형(gallotannin, ellagitannin) / 축합형(catechol tannin)",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.19] 오배자 tannin, 몰식자 tannin이 속하는 가수분해형 tannin의 종류는?",
+      "answer": [
+        "gallotannin",
+        "갈로탄닌"
+      ],
+      "explanation": "정답: gallotannin"
+    },
+    {
+      "id": 15,
+      "question": "[기출 2020-2] 다음 화합물(gentisin)이 속하는 계열은?\n[[img:pharmacognosy/images/2020-2-mid-q3-gentisin.png|구조식]]",
+      "answer": [
+        "xanthone",
+        "잔톤",
+        "크산톤"
+      ],
+      "explanation": "정답: xanthone\npolyketide + shikimate 복합 경로(C6C1 + 3×C2) — xanthone(용담).\n출처: 2020-2 중간 3"
+    },
+    {
+      "id": 16,
+      "question": "[기출 2022-2] 다음 구조식 성분 계열은?\n[[img:pharmacognosy/images/2022-2-mid-m11.png|구조식]]",
+      "choices": [
+        "steroid",
+        "saponin",
+        "pyridine alkaloid",
+        "curcuminoid",
+        "sesquiterpene"
+      ],
+      "answer": "curcuminoid",
+      "explanation": "정답: curcuminoid\ncurcumin류 — curcuminoid(diarylheptanoid).\n출처: 2022-2 중간 11"
+    },
+    {
+      "id": 17,
+      "question": "[기출 2023-1·2023-2] 다음 화합물의 계열로 올바른 것은?\n[[img:pharmacognosy/images/2023-1-mid-m12.png|구조식]]",
+      "choices": [
+        "phloroglucinol",
+        "diarylheptanoid",
+        "phthalide",
+        "steroidal saponin",
+        "withanolide"
+      ],
+      "answer": "diarylheptanoid",
+      "explanation": "정답: diarylheptanoid\ncurcumin류: heptane의 1,7위치에 phenyl기 — diarylheptanoid(curcuminoid).\n같은 구조가 Ch3의 2023-2 32번(주관식)에도 나왔다.\n출처: 2023-1 중간 객관12 · 2023-2 중간 22 (2회 출제)"
+    },
+    {
+      "id": 18,
+      "question": "[기출 2025-2] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\namino acid 유래의 염기성의 강한 생리활성을 나타내고 함질소 이성환 화합물",
+      "choices": [
+        "true alkaloid",
+        "protoalkaloid",
+        "pseudoalkaloid"
+      ],
+      "answer": "true alkaloid",
+      "explanation": "정답: true alkaloid\n출처: 2025-2 중간 18번"
+    },
+    {
+      "id": 19,
+      "question": "[기출 2025-2] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\nAmino acid에서 유래하지만 염기성이 아니거나, 질소원자가 이성환에 존재하지 않는 화합물",
+      "choices": [
+        "true alkaloid",
+        "protoalkaloid",
+        "pseudoalkaloid"
+      ],
+      "answer": "protoalkaloid",
+      "explanation": "정답: protoalkaloid\n출처: 2025-2 중간 17번"
+    },
+    {
+      "id": 20,
+      "question": "[기출 2025-2] [16~18] 다음 설명하는 것은 무슨 alkaloid인가?\n질소원자는 이성환에 존재하지만 골격구조가 아미노산으로부터 유래하지 않는 화합물",
+      "choices": [
+        "true alkaloid",
+        "protoalkaloid",
+        "pseudoalkaloid"
+      ],
+      "answer": "pseudoalkaloid",
+      "explanation": "정답: pseudoalkaloid\n⚠ PPT 대조: PPT 정의: pseudoalkaloid = 질소는 이성환에 있으나 골격이 아미노산에서 유래하지 않음(예: terpene alkaloid, purine alkaloid).\n출처: 2025-2 중간 16번"
+    },
+    {
+      "id": 21,
+      "question": "[PPT p.21] 후추(Piper nigrum)의 매운 성분 piperine의 분류는?",
+      "choices": [
+        "piperidine amide (Piperaceae)",
+        "tropane",
+        "quinolizidine",
+        "pyrrolizidine",
+        "purine"
+      ],
+      "answer": "piperidine amide (Piperaceae)",
+      "explanation": "정답: piperidine amide\npiperic acid(piperoyl-CoA, malonyl-CoA로 사슬 연장) + piperidine이 amide 결합."
+    },
+    {
+      "id": 22,
+      "question": "[PPT p.29] simple tetrahydroisoquinoline alkaloid가 아닌 것은?",
+      "choices": [
+        "anhalonidine",
+        "anhalamine",
+        "corydaldine",
+        "papaverine"
+      ],
+      "answer": "papaverine",
+      "explanation": "정답: papaverine (benzylisoquinoline)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2022-2] Isoquinoline alkaloid에 속하는 것은?",
+      "choices": [
+        "vinblastine",
+        "ergotamine",
+        "reserpine",
+        "yohimbine",
+        "higenamine"
+      ],
+      "answer": "higenamine",
+      "explanation": "정답: higenamine\nhigenamine(부자 등) — benzylisoquinoline. vinblastine·reserpine·yohimbine — monoterpenoid indole, ergotamine — ergot(indole).\n출처: 2022-2 중간 4"
+    },
+    {
+      "id": 24,
+      "question": "[PPT p.45·47] monoterpenoid indole alkaloid가 아닌 것은?",
+      "choices": [
+        "yohimbine",
+        "reserpine",
+        "strychnine",
+        "ellipticine",
+        "physostigmine"
+      ],
+      "answer": "physostigmine",
+      "explanation": "정답: physostigmine (pyrroloindole)\nmonoterpenoid indole: yohimbine, reserpine, vinblastine, vincristine, strychnine, brucine, ellipticine."
+    },
+    {
+      "id": 25,
+      "question": "[PPT p.46] 환각 버섯의 simple indole alkaloid는?",
+      "choices": [
+        "psilocybin",
+        "harmine",
+        "reserpine",
+        "ergotamine",
+        "physostigmine"
+      ],
+      "answer": "psilocybin",
+      "explanation": "정답: psilocybin"
+    },
+    {
+      "id": 26,
+      "question": "[PPT p.46] simple β-carboline alkaloid는?",
+      "choices": [
+        "harmine, harmane, harmol",
+        "camptothecin",
+        "quinine",
+        "lysergic acid",
+        "evodiamine"
+      ],
+      "answer": "harmine, harmane, harmol",
+      "explanation": "정답: harmine류 (tryptamine + 2탄소 → pyridoindole)"
+    },
+    {
+      "id": 27,
+      "question": "[PPT p.48~51] monoterpenoid indole alkaloid의 C9 단위 유형과 예의 짝이 틀린 것은?",
+      "choices": [
+        "Corynanthe형 – ajmalicine 등",
+        "Iboga형 – catharanthine",
+        "Aspidosperma형 – tabersonine, vindoline",
+        "Iboga형 – vindoline"
+      ],
+      "answer": "Iboga형 – vindoline",
+      "explanation": "정답: 'Iboga – vindoline' (틀림) — vindoline은 Aspidosperma형"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.55] Cinchona(기나피)의 quinoline alkaloid가 아닌 것은?",
+      "choices": [
+        "quinine",
+        "quinidine",
+        "cinchonidine",
+        "cinchonine",
+        "camptothecin"
+      ],
+      "answer": "camptothecin",
+      "explanation": "정답: camptothecin (pyrroloquinoline, 희수)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.55] quinine을 본떠 만든 합성 항말라리아제가 아닌 것은?",
+      "choices": [
+        "chloroquine",
+        "hydroxychloroquine",
+        "primaquine",
+        "mefloquine",
+        "artemisinin"
+      ],
+      "answer": "artemisinin",
+      "explanation": "정답: artemisinin (개똥쑥 sesquiterpene)\n합성: chloroquine, hydroxychloroquine, mepacrine, primaquine, mefloquine, halofantrine."
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.59] 카라발두(Calabar bean)의 pyrroloindole alkaloid는?",
+      "choices": [
+        "physostigmine (eserine)",
+        "strychnine",
+        "reserpine",
+        "harmine",
+        "gramine"
+      ],
+      "answer": "physostigmine (eserine)",
+      "explanation": "정답: physostigmine(eserine) — cholinesterase 저해"
+    }
+  ]
+}

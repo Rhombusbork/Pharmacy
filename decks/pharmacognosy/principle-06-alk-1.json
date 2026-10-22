@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "[원리] alkaloid가 '염기성'인 이유는?",
+      "question": "[원리] alkaloid가 '염기성'인 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p06.png|PPT alk-p06]]",
       "choices": [
         "질소의 비공유 전자쌍이 H⁺를 받을 수 있기 때문",
         "산성에서는 염(이온, 수용성)이 되고, 알칼리에서는 유리 염기(비이온, 지용성)가 되어 용해성이 바뀌기 때문(참고)",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "question": "[원리] alkaloid를 산성 물로 추출했다가 알칼리화해서 유기용매로 옮기는 원리는?",
+      "question": "[원리] alkaloid를 산성 물로 추출했다가 알칼리화해서 유기용매로 옮기는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p03.png|PPT alk-p03]]",
       "choices": [
         "탈탄산(−CO₂) → 아민, PLP",
         "아미노기가 같은 분자의 aldehyde와 Schiff base(iminium)를 만들며 고리를 닫는다",
@@ -31,7 +31,7 @@
     },
     {
       "id": 3,
-      "question": "[원리] Mayer·Dragendorff 시약이 alkaloid 검출에 쓰이는 원리는?",
+      "question": "[원리] Mayer·Dragendorff 시약이 alkaloid 검출에 쓰이는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p03.png|PPT alk-p03]]",
       "choices": [
         "산성에서는 염(이온, 수용성)이 되고, 알칼리에서는 유리 염기(비이온, 지용성)가 되어 용해성이 바뀌기 때문(참고)",
         "중금속 요오드 착화합물이 양성자화된 질소(염기)와 침전을 만들기 때문",
@@ -44,7 +44,7 @@
     },
     {
       "id": 4,
-      "question": "[원리] 아미노산이 alkaloid의 원료가 될 때 가장 먼저 흔히 일어나는 반응과 조효소는?",
+      "question": "[원리] 아미노산이 alkaloid의 원료가 될 때 가장 먼저 흔히 일어나는 반응과 조효소는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p10.png|PPT alk-p10]]\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]\n[[img:pharmacognosy/local/alk-p65.png|PPT alk-p65]]",
       "choices": [
         "아미노기가 같은 분자의 aldehyde와 Schiff base(iminium)를 만들며 고리를 닫는다",
         "두 질소 사이 탄소 수가 Orn(putrescine)은 4개, Lys(cadaverine)는 5개라서 — C4N과 C5N",
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "question": "[원리] 아민이 고리 질소가 되는 원리는?\n[[rxn:CNCCCC=O>>C[N+]1=CCCC1|분자 내 Schiff base]]",
+      "question": "[원리] 아민이 고리 질소가 되는 원리는?\n[[rxn:CNCCCC=O>>C[N+]1=CCCC1|분자 내 Schiff base]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p10.png|PPT alk-p10]]\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]",
       "choices": [
         "탈탄산(−CO₂) → 아민, PLP",
         "중금속 요오드 착화합물이 양성자화된 질소(염기)와 침전을 만들기 때문",
@@ -70,7 +70,7 @@
     },
     {
       "id": 6,
-      "question": "[원리] Orn은 5원 고리, Lys는 6원 고리를 만드는 이유는?",
+      "question": "[원리] Orn은 5원 고리, Lys는 6원 고리를 만드는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p08.png|PPT alk-p08]]\n[[img:pharmacognosy/local/alk-p09.png|PPT alk-p09]]",
       "choices": [
         "탈탄산(−CO₂) → 아민, PLP",
         "아미노기가 같은 분자의 aldehyde와 Schiff base(iminium)를 만들며 고리를 닫는다",
@@ -83,7 +83,7 @@
     },
     {
       "id": 7,
-      "question": "[원리] alkaloid 생합성에서 Mannich 반응이 반복해서 나오는 이유는?",
+      "question": "[원리] alkaloid 생합성에서 Mannich 반응이 반복해서 나오는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]",
       "choices": [
         "'방향족 ester(또는 amide) + 연결 사슬 + 3차 아민'이라는 핵심 부분만 남기고 tropane을 단순화해도 Na⁺ 통로 차단 작용이 유지됐기 때문",
         "아미노기가 같은 분자의 aldehyde와 Schiff base(iminium)를 만들며 고리를 닫는다",
@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "question": "[원리] atropine이 천연 hyoscyamine과 달리 '라세미체'인 이유는?",
+      "question": "[원리] atropine이 천연 hyoscyamine과 달리 '라세미체'인 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p13.png|PPT alk-p13]]",
       "choices": [
         "두 질소 사이 탄소 수가 Orn(putrescine)은 4개, Lys(cadaverine)는 5개라서 — C4N과 C5N",
         "'방향족 ester(또는 amide) + 연결 사슬 + 3차 아민'이라는 핵심 부분만 남기고 tropane을 단순화해도 Na⁺ 통로 차단 작용이 유지됐기 때문",
@@ -109,7 +109,7 @@
     },
     {
       "id": 9,
-      "question": "[원리] cocaine에서 국소마취제(procaine, lidocaine)를 만들 수 있었던 원리는?",
+      "question": "[원리] cocaine에서 국소마취제(procaine, lidocaine)를 만들 수 있었던 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p16.png|PPT alk-p16]]\n[[img:pharmacognosy/local/in2-p25.png|PPT in2-p25]]",
       "choices": [
         "iminium(C=N⁺, 친전자체)과 enol/enolate·전자 풍부한 방향환(친핵체)이 결합해 질소 옆에 새 C–C 결합을 만드는 가장 기본적인 방법이라서",
         "tropinone을 환원하는 효소가 달라 가지과는 3α(tropine), 코카는 3β(pseudotropine, ecgonine 계열)를 만들기 때문",
@@ -122,7 +122,7 @@
     },
     {
       "id": 10,
-      "question": "[원리] tropane alkaloid가 가지과와 코카나무과에만 있는데 3번 OH 방향이 다른 이유는?",
+      "question": "[원리] tropane alkaloid가 가지과와 코카나무과에만 있는데 3번 OH 방향이 다른 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]\n[[img:pharmacognosy/local/alk-p13.png|PPT alk-p13]]",
       "choices": [
         "iminium(C=N⁺, 친전자체)과 enol/enolate·전자 풍부한 방향환(친핵체)이 결합해 질소 옆에 새 C–C 결합을 만드는 가장 기본적인 방법이라서",
         "간에서 대사되어 반응성 pyrrole(전자 풍부·친전자성 대사체)이 되어 DNA·단백질과 결합하기 때문(참고)",
@@ -135,7 +135,7 @@
     },
     {
       "id": 11,
-      "question": "[원리] pyrrolizidine alkaloid가 간독성·발암성을 보이는 원리로 알맞은 것은?",
+      "question": "[원리] pyrrolizidine alkaloid가 간독성·발암성을 보이는 원리로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p17.png|PPT alk-p17]]",
       "choices": [
         "tropic acid 부분의 α-수소가 추출·가열 중 쉽게 빠졌다 붙으며(에놀화) 입체가 섞이기 때문",
         "tropinone을 환원하는 효소가 달라 가지과는 3α(tropine), 코카는 3β(pseudotropine, ecgonine 계열)를 만들기 때문",
@@ -148,7 +148,7 @@
     },
     {
       "id": 12,
-      "question": "[원리] coniine은 piperidine 고리가 있는데 lysine 유래가 아닌 이유는?",
+      "question": "[원리] coniine은 piperidine 고리가 있는데 lysine 유래가 아닌 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p20.png|PPT alk-p20]]\n[[img:pharmacognosy/local/alk-p67.png|PPT alk-p67]]",
       "choices": [
         "octanoic acid(polyketide·지방산) 사슬에 transamination으로 질소가 나중에 들어가 고리를 닫기 때문",
         "tryptophan 유래라서",
@@ -160,7 +160,7 @@
     },
     {
       "id": 13,
-      "question": "[원리] huperzine A·galanthamine·physostigmine이 모두 Alzheimer·근무력증 등에 쓰이는 공통 원리는?",
+      "question": "[원리] huperzine A·galanthamine·physostigmine이 모두 Alzheimer·근무력증 등에 쓰이는 공통 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p22.png|PPT alk-p22]]\n[[img:pharmacognosy/local/alk-p41.png|PPT alk-p41]]\n[[img:pharmacognosy/local/alk-p59.png|PPT alk-p59]]",
       "choices": [
         "간에서 대사되어 반응성 pyrrole(전자 풍부·친전자성 대사체)이 되어 DNA·단백질과 결합하기 때문(참고)",
         "OH가 많은 고리 구조가 당(glucose·mannose)과 비슷하고, 질소가 양성자화되어 전이상태(oxocarbenium)를 흉내 내 효소 활성부위에 결합하기 때문(참고)",
@@ -173,7 +173,7 @@
     },
     {
       "id": 14,
-      "question": "[원리] castanospermine·swainsonine·acarbose가 '당 분해 효소 저해제'가 되는 원리는?",
+      "question": "[원리] castanospermine·swainsonine·acarbose가 '당 분해 효소 저해제'가 되는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p23.png|PPT alk-p23]]",
       "choices": [
         "phenylethylamine 골격이 noradrenaline·adrenaline과 닮아 noradrenaline 분비를 유도하고 수용체에도 작용하기 때문",
         "OH가 많은 고리 구조가 당(glucose·mannose)과 비슷하고, 질소가 양성자화되어 전이상태(oxocarbenium)를 흉내 내 효소 활성부위에 결합하기 때문(참고)",
@@ -186,7 +186,7 @@
     },
     {
       "id": 15,
-      "question": "[원리] ephedrine이 교감신경 흥분 작용을 하는 이유를 구조로 설명하면?",
+      "question": "[원리] ephedrine이 교감신경 흥분 작용을 하는 이유를 구조로 설명하면?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p27.png|PPT alk-p27]]\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]",
       "choices": [
         "두 방향환에 페놀 OH가 있어 산화적 짝지음을 여러 위치에서 할 수 있고, N-CH₃가 berberine bridge(C-8)를 만들 수 있기 때문",
         "페놀이 1전자 산화된 라디칼끼리 짝지어 새 고리(aporphine, morphinan, bisBIQ)를 만드는 방법이라서",
@@ -199,7 +199,7 @@
     },
     {
       "id": 16,
-      "question": "[원리] (S)-reticuline이 수많은 isoquinoline alkaloid의 출발점이 되는 이유는?\n[[smi:COc1ccc(CC2N(C)CCc3cc(OC)c(O)cc32)cc1O]]",
+      "question": "[원리] (S)-reticuline이 수많은 isoquinoline alkaloid의 출발점이 되는 이유는?\n[[smi:COc1ccc(CC2N(C)CCc3cc(OC)c(O)cc32)cc1O]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]\n[[img:pharmacognosy/local/alk-p37.png|PPT alk-p37]]",
       "choices": [
         "두 방향환에 페놀 OH가 있어 산화적 짝지음을 여러 위치에서 할 수 있고, N-CH₃가 berberine bridge(C-8)를 만들 수 있기 때문",
         "phenylethylamine 골격이 noradrenaline·adrenaline과 닮아 noradrenaline 분비를 유도하고 수용체에도 작용하기 때문",
@@ -212,7 +212,7 @@
     },
     {
       "id": 17,
-      "question": "[원리] phenol oxidative coupling이 alkaloid에서 중요한 이유는?",
+      "question": "[원리] phenol oxidative coupling이 alkaloid에서 중요한 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p32.png|PPT alk-p32]]\n[[img:pharmacognosy/local/alk-p39.png|PPT alk-p39]]\n[[img:pharmacognosy/local/shk-p16.png|PPT shk-p16]]",
       "choices": [
         "페놀이 1전자 산화된 라디칼끼리 짝지어 새 고리(aporphine, morphinan, bisBIQ)를 만드는 방법이라서",
         "phenylethylamine 골격이 noradrenaline·adrenaline과 닮아 noradrenaline 분비를 유도하고 수용체에도 작용하기 때문",
@@ -225,7 +225,7 @@
     },
     {
       "id": 18,
-      "question": "[원리] (S)-reticuline이 morphine 원료인 (R)-reticuline이 되는 원리는?",
+      "question": "[원리] (S)-reticuline이 morphine 원료인 (R)-reticuline이 되는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]",
       "choices": [
         "페놀이 1전자 산화된 라디칼끼리 짝지어 새 고리(aporphine, morphinan, bisBIQ)를 만드는 방법이라서",
         "뜨거운 산으로 morphinan 골격이 재배열되어 aporphine(catechol + 아민, dopamine과 닮은 구조)이 되기 때문",
@@ -238,7 +238,7 @@
     },
     {
       "id": 19,
-      "question": "[원리] codeine이 morphine보다 진통은 약하지만 진해제로 쓰이는 것을 구조로 설명하면?",
+      "question": "[원리] codeine이 morphine보다 진통은 약하지만 진해제로 쓰이는 것을 구조로 설명하면?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p38.png|PPT alk-p38]]",
       "choices": [
         "뜨거운 산으로 morphinan 골격이 재배열되어 aporphine(catechol + 아민, dopamine과 닮은 구조)이 되기 때문",
         "산화로 1,2-dehydroreticulinium(평면 iminium)이 된 뒤 반대쪽에서 환원되어 입체가 뒤집히기 때문",
@@ -251,7 +251,7 @@
     },
     {
       "id": 20,
-      "question": "[원리] apomorphine이 morphine과 전혀 다른 작용(dopaminergic, 최토)을 하는 이유는?",
+      "question": "[원리] apomorphine이 morphine과 전혀 다른 작용(dopaminergic, 최토)을 하는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p37.png|PPT alk-p37]]",
       "choices": [
         "4급 암모늄 질소가 acetylcholine의 N⁺(CH₃)₃와 닮아 니코틴성 수용체를 막기 때문 — 경구로는 흡수가 거의 안 됨(화살독)",
         "뜨거운 산으로 morphinan 골격이 재배열되어 aporphine(catechol + 아민, dopamine과 닮은 구조)이 되기 때문",
@@ -264,7 +264,7 @@
     },
     {
       "id": 21,
-      "question": "[원리] tubocurarine이 근육 이완제가 되는 원리는?",
+      "question": "[원리] tubocurarine이 근육 이완제가 되는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p32.png|PPT alk-p32]]",
       "choices": [
         "뜨거운 산으로 morphinan 골격이 재배열되어 aporphine(catechol + 아민, dopamine과 닮은 구조)이 되기 때문",
         "3번 페놀 OH가 메틸화(OCH₃)되어 μ수용체 결합이 약해지지만 해수중추 억제 작용은 남기 때문(참고: 몸에서 일부 morphine으로 대사)",
@@ -277,7 +277,7 @@
     },
     {
       "id": 22,
-      "question": "[원리] berberine이 고미건위·정장제로 쓰이는데 흡수가 잘 안 되는 이유로 알맞은 것은?",
+      "question": "[원리] berberine이 고미건위·정장제로 쓰이는데 흡수가 잘 안 되는 이유로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p34.png|PPT alk-p34]]",
       "choices": [
         "평면 4급 isoquinolinium(영구 양전하)이라 장에서 흡수가 적고 장내에 머물며 작용하기 때문(참고)",
         "4급 암모늄 질소가 acetylcholine의 N⁺(CH₃)₃와 닮아 니코틴성 수용체를 막기 때문 — 경구로는 흡수가 거의 안 됨(화살독)",
@@ -290,7 +290,7 @@
     },
     {
       "id": 23,
-      "question": "[원리] emetine이 isoquinoline인데 'monoterpenoid' isoquinoline으로 분류되는 이유는?",
+      "question": "[원리] emetine이 isoquinoline인데 'monoterpenoid' isoquinoline으로 분류되는 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p42.png|PPT alk-p42]]",
       "choices": [
         "평면 4급 isoquinolinium(영구 양전하)이라 장에서 흡수가 적고 장내에 머물며 작용하기 때문(참고)",
         "4급 암모늄 질소가 acetylcholine의 N⁺(CH₃)₃와 닮아 니코틴성 수용체를 막기 때문 — 경구로는 흡수가 거의 안 됨(화살독)",
@@ -303,7 +303,7 @@
     },
     {
       "id": 24,
-      "question": "[원리] strictosidine 하나에서 vinblastine, quinine, camptothecin처럼 전혀 다른 alkaloid가 나오는 원리는?",
+      "question": "[원리] strictosidine 하나에서 vinblastine, quinine, camptothecin처럼 전혀 다른 alkaloid가 나오는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p47.png|PPT alk-p47]]\n[[img:pharmacognosy/local/alk-p48.png|PPT alk-p48]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]\n[[img:pharmacognosy/local/alk-p58.png|PPT alk-p58]]",
       "choices": [
         "dopamine 두 분자 사이를 secologanin(monoterpene, C10)이 이어 주기 때문",
         "indole의 5원 고리가 열렸다가 질소가 다시 고리를 닫으며 6원(quinoline)으로 재배열되기 때문",
@@ -316,7 +316,7 @@
     },
     {
       "id": 25,
-      "question": "[원리] quinine이 tryptophan 유래인데 quinoline 고리를 가진 이유는?",
+      "question": "[원리] quinine이 tryptophan 유래인데 quinoline 고리를 가진 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p55.png|PPT alk-p55]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]\n[[img:pharmacognosy/local/alk-p04.png|PPT alk-p04]]",
       "choices": [
         "secologanin 유래 C9/C10 단위가 여러 방식으로 재배열·고리화(Corynanthe/Iboga/Aspidosperma)되고, indole 자체도 재배열(quinoline, pyrroloquinoline)되기 때문",
         "DNA–topoisomerase I 복합체에 결합해 DNA를 다시 잇지 못하게 하여 DNA 손상 → 세포사",
@@ -329,7 +329,7 @@
     },
     {
       "id": 26,
-      "question": "[원리] vinblastine이 '이량체(bisindole)'인 것이 의미하는 바는?",
+      "question": "[원리] vinblastine이 '이량체(bisindole)'인 것이 의미하는 바는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p52.png|PPT alk-p52]]\n[[img:pharmacognosy/local/alk-p54.png|PPT alk-p54]]",
       "choices": [
         "indole의 5원 고리가 열렸다가 질소가 다시 고리를 닫으며 6원(quinoline)으로 재배열되기 때문",
         "DNA–topoisomerase I 복합체에 결합해 DNA를 다시 잇지 못하게 하여 DNA 손상 → 세포사",
@@ -342,7 +342,7 @@
     },
     {
       "id": 27,
-      "question": "[원리] camptothecin이 항암제가 되는 원리는?",
+      "question": "[원리] camptothecin이 항암제가 되는 원리는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p57.png|PPT alk-p57]]",
       "choices": [
         "lysergic acid에 붙은 부분이 달라(ergometrine: 작은 amino alcohol amide / ergotamine: peptide) 자궁 수축 vs 혈관 수축 선택성이 다르기 때문",
         "indole의 5원 고리가 열렸다가 질소가 다시 고리를 닫으며 6원(quinoline)으로 재배열되기 때문",
@@ -355,7 +355,7 @@
     },
     {
       "id": 28,
-      "question": "[원리] 맥각 alkaloid ergometrine과 ergotamine의 용도가 다른 이유로 알맞은 것은?",
+      "question": "[원리] 맥각 alkaloid ergometrine과 ergotamine의 용도가 다른 이유로 알맞은 것은?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p61.png|PPT alk-p61]]\n[[img:pharmacognosy/local/alk-p63.png|PPT alk-p63]]",
       "choices": [
         "DNA–topoisomerase I 복합체에 결합해 DNA를 다시 잇지 못하게 하여 DNA 손상 → 세포사",
         "lysergic acid에 붙은 부분이 달라(ergometrine: 작은 amino alcohol amide / ergotamine: peptide) 자궁 수축 vs 혈관 수축 선택성이 다르기 때문",
@@ -368,7 +368,7 @@
     },
     {
       "id": 29,
-      "question": "[원리] caffeine·theophylline·theobromine의 작용이 조금씩 다른 이유는?",
+      "question": "[원리] caffeine·theophylline·theobromine의 작용이 조금씩 다른 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p73.png|PPT alk-p73]]",
       "choices": [
         "같은 xanthine 골격에 메틸기 위치·수(1,3,7 / 1,3 / 3,7)가 달라 아데노신 수용체·PDE에 대한 작용 세기가 다르기 때문(참고)",
         "씹으면 세포가 깨져 emulsin과 만나 HCN(시안화수소)이 나오기 때문",
@@ -381,7 +381,7 @@
     },
     {
       "id": 30,
-      "question": "[원리] 청산배당체(amygdalin)를 생으로 많이 먹으면 위험한 이유는?",
+      "question": "[원리] 청산배당체(amygdalin)를 생으로 많이 먹으면 위험한 이유는?\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/alk-p76.png|PPT alk-p76]]",
       "choices": [
         "조직이 파괴되어야 alliin이 alliinase와 만나 자극성 allicin이 생기기 때문",
         "갈 때 myrosinase가 sinigrin(S-배당체)을 분해해 휘발성 allyl isothiocyanate가 생기기 때문",
