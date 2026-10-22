@@ -1,0 +1,137 @@
+{
+  "deckId": "pharmacognosy-type-01-pathway-5",
+  "subject": "생약학",
+  "title": "① 경로 맞히기 5/5",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로 맞히기]\n다음 화합물(capillin)을 만드는 생합성 경로는?\n[[smi:CC#CC#CC(=O)c1ccccc1]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "polyketide (acetate-malonate) pathway",
+      "explanation": "정답: polyketide (acetate-malonate) pathway\n근거: polyacetylene"
+    },
+    {
+      "id": 2,
+      "question": "[경로 맞히기]\n다음 화합물(tetrahydrocannabinol)을 만드는 생합성 경로는?\n[[smi:CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\n근거: polyketide + GPP"
+    },
+    {
+      "id": 3,
+      "question": "[경로 맞히기]\n다음 화합물(harmine)을 만드는 생합성 경로는?\n[[smi:COc1ccc2c(c1)[nH]c1c(C)nccc12]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "amino acid pathway",
+      "explanation": "정답: amino acid pathway\n근거: Trp (β-carboline)"
+    },
+    {
+      "id": 4,
+      "question": "[경로 맞히기]\n다음 화합물(ephedrine)을 만드는 생합성 경로는?\n[[smi:CNC(C)C(O)c1ccccc1]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "amino acid pathway",
+      "explanation": "정답: amino acid pathway\n근거: Phe (protoalkaloid)"
+    },
+    {
+      "id": 5,
+      "question": "[경로 맞히기]\n다음 화합물(apigenin (flavone))을 만드는 생합성 경로는?\n[[smi:O=C1C=C(c2ccc(O)cc2)Oc2cc(O)cc(O)c21]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\n근거: flavonoid"
+    },
+    {
+      "id": 6,
+      "question": "[경로 맞히기]\n다음 화합물(cocaine)을 만드는 생합성 경로는?\n[[smi:COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\n근거: PPT p.6: amino acid + polyketide"
+    },
+    {
+      "id": 7,
+      "question": "[경로 맞히기]\n다음 화합물(farnesol)을 만드는 생합성 경로는?\n[[smi:CC(C)=CCC/C(C)=C/CC/C(C)=C/CO]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "isoprenoid (mevalonate) pathway",
+      "explanation": "정답: isoprenoid (mevalonate) pathway\n근거: C15"
+    },
+    {
+      "id": 8,
+      "question": "[경로 맞히기]\n다음 화합물(resveratrol)을 만드는 생합성 경로는?\n[[smi:Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\n근거: stilbene"
+    },
+    {
+      "id": 9,
+      "question": "[경로 맞히기]\n다음 화합물(hinokiresinol)을 만드는 생합성 경로는?\n[[smi:C=CC(/C=C/c1ccc(O)cc1)c1ccc(O)cc1]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "shikimate pathway",
+      "explanation": "정답: shikimate pathway\n근거: norlignan"
+    },
+    {
+      "id": 10,
+      "question": "[경로 맞히기]\n다음 화합물(osthol)을 만드는 생합성 경로는?\n[[smi:O=C1C=Cc2ccc(OC)c(CC=C(C)C)c2O1]]",
+      "choices": [
+        "shikimate pathway",
+        "isoprenoid (mevalonate) pathway",
+        "polyketide (acetate-malonate) pathway",
+        "complex pathway (복합 경로)",
+        "amino acid pathway"
+      ],
+      "answer": "complex pathway (복합 경로)",
+      "explanation": "정답: complex pathway (복합 경로)\n근거: coumarin + prenyl"
+    }
+  ]
+}

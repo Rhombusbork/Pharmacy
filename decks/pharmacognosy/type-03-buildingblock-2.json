@@ -1,0 +1,405 @@
+{
+  "deckId": "pharmacognosy-type-03-buildingblock-2",
+  "subject": "생약학",
+  "title": "③ building block·원료 2/4",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[기출 2021-2·2023-1] 다음 화합물(magnolol)의 원료물질(building block)은?\n[[img:pharmacognosy/images/2023-1-mid-q6-magnolol.png|구조식]]",
+      "choices": [
+        "C6C3",
+        "C6C3×2",
+        "C5×2",
+        "C5×3",
+        "C6C3 + C5",
+        "C6C1"
+      ],
+      "answer": "C6C3×2",
+      "explanation": "정답: C6C3×2\n출처: 2021-2 중간 16 · 2023-1 중간 주관6 (2회 출제)"
+    },
+    {
+      "id": 2,
+      "question": "[PPT p.24 복습] kadsurenone(Piper futokadsura, PAF inhibitor)의 '생합성 과정 / building block / 화합물군'으로 옳은 것은?",
+      "choices": [
+        "shikimate / C6C3×2 / neolignan",
+        "shikimate / C6C3×2 / lignan",
+        "complex / C6C3 + C5 / pyranocoumarin",
+        "shikimate / C6C3 / phenylpropanoid",
+        "polyketide / C6C3×2 / neolignan"
+      ],
+      "answer": "shikimate / C6C3×2 / neolignan",
+      "explanation": "정답: shikimate / C6C3×2 / neolignan\nPPT p.19 neolignan: magnolol·honokiol(후박), futoenone(Piper kadzura), kadsurenone(PAF inhibitor), asatone(Asarum속)."
+    },
+    {
+      "id": 3,
+      "question": "[PPT p.4] polyketide 사슬을 2탄소씩 늘려 주는 연장 단위(extender)는?",
+      "choices": [
+        "malonyl-CoA",
+        "acetyl-CoA",
+        "IPP",
+        "L-Phe",
+        "SAM"
+      ],
+      "answer": "malonyl-CoA",
+      "explanation": "정답: malonyl-CoA\nPPT p.4: 'Addition of malonyl-CoA to acetyl-CoA or acyl-CoA as starting materials'. acetyl-CoA는 보통 시작 단위(starter)."
+    },
+    {
+      "id": 4,
+      "question": "[PPT p.3·5] Claisen 축합으로 생기는 phloroglucinol 유도체에서 곁사슬 R의 탄소 수는?",
+      "choices": [
+        "짝수",
+        "홀수",
+        "항상 0",
+        "항상 5"
+      ],
+      "answer": "짝수",
+      "explanation": "정답: 짝수 (resorcinol 유도체는 홀수)"
+    },
+    {
+      "id": 5,
+      "question": "[PPT p.36 복습표] shikonin의 '생합성 과정 / building block / 화합물군'으로 PPT에 예시된 것은?",
+      "choices": [
+        "shikimate + mevalonate / C6 + 2×C5 / naphthoquinone",
+        "polyketide / 4×C2 / naphthoquinone",
+        "shikimate / C6C3 / phenylpropanoid",
+        "mevalonate / C5×3 / sesquiterpene"
+      ],
+      "answer": "shikimate + mevalonate / C6 + 2×C5 / naphthoquinone",
+      "explanation": "정답: s + m / C6 + 2×C5 / naphthoquinone\np-hydroxybenzoic acid(C6, 카복실 탄소는 빠짐) + GPP(2×C5)."
+    },
+    {
+      "id": 6,
+      "question": "[PPT p.31] cannabinoid 생합성의 시작(starter) 단위는?",
+      "choices": [
+        "hexanoyl-CoA",
+        "acetyl-CoA",
+        "propionyl-CoA",
+        "palmitoleyl-CoA",
+        "malonamyl-CoA"
+      ],
+      "answer": "hexanoyl-CoA",
+      "explanation": "정답: hexanoyl-CoA (+ 3 malonyl-CoA → olivetolic acid, 즉 pentylresorcylic acid)"
+    },
+    {
+      "id": 7,
+      "question": "[PPT p.32] 옻나무의 urushiol 생합성 시작 단위는?",
+      "choices": [
+        "palmitoleyl-CoA (+ 3 malonyl-CoA)",
+        "hexanoyl-CoA",
+        "propionyl-CoA",
+        "acetyl-CoA만",
+        "malonamyl-CoA"
+      ],
+      "answer": "palmitoleyl-CoA (+ 3 malonyl-CoA)",
+      "explanation": "정답: palmitoleyl-CoA"
+    },
+    {
+      "id": 8,
+      "question": "[PPT p.33] anthracycline계 항암제(daunorubicin, doxorubicin)의 시작 단위와 연장 단위는?",
+      "choices": [
+        "propionyl-CoA + 9 malonyl-CoA",
+        "acetyl-CoA + 3 malonyl-CoA",
+        "malonamyl-CoA + 8 malonyl-CoA",
+        "hexanoyl-CoA + 3 malonyl-CoA"
+      ],
+      "answer": "propionyl-CoA + 9 malonyl-CoA",
+      "explanation": "정답: propionyl-CoA + 9 malonyl-CoA → aklanonic acid → ε-rhodomycinone → daunorubicin → doxorubicin"
+    },
+    {
+      "id": 9,
+      "question": "[PPT p.34] tetracycline계 항생물질의 시작 단위는?",
+      "choices": [
+        "malonamyl-CoA (+ 8 malonyl-CoA)",
+        "propionyl-CoA",
+        "hexanoyl-CoA",
+        "palmitoleyl-CoA",
+        "acetyl-CoA + IPP"
+      ],
+      "answer": "malonamyl-CoA (+ 8 malonyl-CoA)",
+      "explanation": "정답: malonamyl-CoA"
+    },
+    {
+      "id": 10,
+      "question": "[PPT p.32~35] polyketide의 특별한 시작 단위와 산물의 짝이 틀린 것은?",
+      "choices": [
+        "hexanoyl-CoA – cannabinoid",
+        "palmitoleyl-CoA – urushiol",
+        "propionyl-CoA – anthracycline(daunorubicin)",
+        "malonamyl-CoA – tetracycline",
+        "malonamyl-CoA – erythromycin"
+      ],
+      "answer": "malonamyl-CoA – erythromycin",
+      "explanation": "정답: 'malonamyl-CoA – erythromycin' (틀림)\nerythromycin(macrolide)은 propionyl-CoA 시작 + 6 연장 단위."
+    },
+    {
+      "id": 11,
+      "question": "[PPT p.36 복습표] orsellinic acid의 '생합성 과정 / building block / 화합물군'은?",
+      "choices": [
+        "polyketide / 4 × C2 / phenol(resorcinol 유도체)",
+        "shikimate / C6C1 / benzoic acid",
+        "mevalonate / 2 × C5 / monoterpene",
+        "complex / C6C3 + C2 / flavonoid"
+      ],
+      "answer": "polyketide / 4 × C2 / phenol(resorcinol 유도체)",
+      "explanation": "정답: polyketide / 4 × C2 / resorcinol계 phenol"
+    },
+    {
+      "id": 12,
+      "question": "[PPT p.36 복습표] phloracetophenone의 화합물군은?",
+      "choices": [
+        "phloroglucinol",
+        "resorcinol",
+        "chromone",
+        "naphthoquinone",
+        "phthalide"
+      ],
+      "answer": "phloroglucinol",
+      "explanation": "정답: phloroglucinol (polyketide, 4 × C2, Claisen형 고리화)"
+    },
+    {
+      "id": 13,
+      "question": "[PPT p.37 복습표] cannabinol의 '생합성 과정 / building block / 화합물군'은?",
+      "choices": [
+        "polyketide + mevalonate / 6 × C2 + 2 × C5 / cannabinoid",
+        "polyketide / 4 × C2 / phloroglucinol",
+        "shikimate + mevalonate / C6 + 2 × C5 / naphthoquinone",
+        "mevalonate / 4 × C5 / diterpene"
+      ],
+      "answer": "polyketide + mevalonate / 6 × C2 + 2 × C5 / cannabinoid",
+      "explanation": "정답: 첫 번째"
+    },
+    {
+      "id": 14,
+      "question": "[PPT p.37 복습표] visnagin의 '생합성 과정 / 화합물군'은?",
+      "choices": [
+        "polyketide / chromone",
+        "shikimate / coumarin",
+        "polyketide / isocoumarin",
+        "mevalonate / monoterpene"
+      ],
+      "answer": "polyketide / chromone",
+      "explanation": "정답: polyketide / chromone (암미실, 혈관확장)"
+    },
+    {
+      "id": 15,
+      "question": "[PPT p.2] xanthone의 building block 구성은?",
+      "choices": [
+        "C6C1 + 3 × C2",
+        "C6C3 + 3 × C2",
+        "C6C2 + 3 × C2",
+        "6 × C2 + 2 × C5",
+        "C6 + 2 × C5"
+      ],
+      "answer": "C6C1 + 3 × C2",
+      "explanation": "정답: C6C1 + 3 × C2 (+ 당)\nflavonoid: C6C3 + 3 × C2, stilbene: C6C2 + 3 × C2."
+    },
+    {
+      "id": 16,
+      "question": "[PPT p.2] flavonoid의 building block 구성은?",
+      "choices": [
+        "C6C3 + 3 × C2 (+ 당)",
+        "C6C1 + 3 × C2",
+        "C6C2 + 3 × C2",
+        "2 × C6C3",
+        "6 × C2"
+      ],
+      "answer": "C6C3 + 3 × C2 (+ 당)",
+      "explanation": "정답: C6C3 + 3 × C2\nB환 + C3 = cinnamoyl(C6C3, shikimate), A환 = 3 × C2(polyketide)."
+    },
+    {
+      "id": 17,
+      "question": "[PPT p.2] stilbene의 building block 구성은?",
+      "choices": [
+        "C6C2 + 3 × C2",
+        "C6C3 + 3 × C2",
+        "C6C1 + 3 × C2",
+        "2 × C6C3",
+        "4 × C2"
+      ],
+      "answer": "C6C2 + 3 × C2",
+      "explanation": "정답: C6C2 + 3 × C2\ncinnamoyl-CoA(C6C3)에서 시작하지만 고리화 때 CO₂가 빠져 C6C2만 남는다(p.17)."
+    },
+    {
+      "id": 18,
+      "question": "[PPT p.3] 홉의 humulone의 building block 구성으로 PPT에 나온 것은?",
+      "choices": [
+        "3 × C2 + 3 × C5",
+        "6 × C2 + 2 × C5",
+        "3 × C2 + 4 × C5",
+        "4 × C2",
+        "C6C3 + C5"
+      ],
+      "answer": "3 × C2 + 3 × C5",
+      "explanation": "정답: 3 × C2 + 3 × C5\nlupulone: 3 × C2 + 4 × C5 / THCA: 6 × C2 + 2 × C5."
+    },
+    {
+      "id": 19,
+      "question": "[PPT p.3] lupulone의 building block 구성으로 PPT에 나온 것은?",
+      "choices": [
+        "3 × C2 + 4 × C5",
+        "3 × C2 + 3 × C5",
+        "6 × C2 + 2 × C5",
+        "4 × C2",
+        "C6C1 + 3 × C2"
+      ],
+      "answer": "3 × C2 + 4 × C5",
+      "explanation": "정답: 3 × C2 + 4 × C5 (prenyl기가 humulone보다 하나 많다)"
+    },
+    {
+      "id": 20,
+      "question": "[PPT p.6] cocaine의 building block 구성은?",
+      "choices": [
+        "C4N + 2 × C2 + (C6C1) + 2 × C1",
+        "C5N + 3 × C2",
+        "indole C2N + C5 + C1",
+        "C6C2N + C6C2 + 4 × C1",
+        "6 × C2 + 2 × C5"
+      ],
+      "answer": "C4N + 2 × C2 + (C6C1) + 2 × C1",
+      "explanation": "정답: C4N + 2 × C2 + (C6C1) + 2 × C1\nC4N(ornithine, tropane 고리) + 2 × C2(polyketide) + benzoyl(C6C1) + 메틸 2개(C1)."
+    },
+    {
+      "id": 21,
+      "question": "[기출 2020-2·2023-2·2025-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Tropane, Pyrrolidine, Pyrrolizidine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Ornithine",
+      "explanation": "정답: Ornithine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11 · 2023-2 중간 24 · 2025-2 중간 4번 (3회 출제)"
+    },
+    {
+      "id": 22,
+      "question": "[기출 2020-2·2022-2·2023-2·2025-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Piperidine, Quinolizidine, Indolizidine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Lysine",
+      "explanation": "정답: Lysine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11 · 2022-2 중간 16 · 2023-2 중간 24 · 2025-2 중간 2번 (4회 출제)"
+    },
+    {
+      "id": 23,
+      "question": "[기출 2020-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Pyridine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Nicotinic acid",
+      "explanation": "정답: Nicotinic acid\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11"
+    },
+    {
+      "id": 24,
+      "question": "[기출 2020-2·2022-2·2025-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Phenylethylamine, Isoquinoline, Phenethylisoquinoline, Amaryllidaceous Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Phenylalanine",
+      "explanation": "정답: Phenylalanine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11 · 2022-2 중간 18 · 2025-2 중간 1번 (3회 출제)"
+    },
+    {
+      "id": 25,
+      "question": "[기출 2020-2·2022-2·2023-2·2025-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Tryptamine, Indole, β-Carboline, Monoterpene indole, Quinoline, Pyrroloquinoline, Ergot Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Tryptophan",
+      "explanation": "정답: Tryptophan\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11 · 2022-2 중간 17 · 2023-2 중간 24 · 2025-2 중간 5번 (4회 출제)"
+    },
+    {
+      "id": 26,
+      "question": "[기출 2020-2·2025-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Imidazole Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Histidine",
+      "explanation": "정답: Histidine\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11 · 2025-2 중간 3번 (2회 출제)"
+    },
+    {
+      "id": 27,
+      "question": "[기출 2020-2] alkaloid 원료 — 생합성 전구체의 빈칸 채우기\nAlkaloid의 종류: Quinazoline, Quinoline, Acridine Alk.\n생합성 전구체는?",
+      "choices": [
+        "Ornithine",
+        "Lysine",
+        "Nicotinic acid",
+        "Phenylalanine",
+        "Tryptophan",
+        "Histidine",
+        "Anthranilic acid"
+      ],
+      "answer": "Anthranilic acid",
+      "explanation": "정답: Anthranilic acid\nPPT 표(9-1~9-7): Ornithine, Lysine, Nicotinic acid, Phenylalanine, Tryptophan, Histidine, Anthranilic acid. 비아미노산 유래: Terpene·Purine Alk.\n출처: 2020-2 중간 주11"
+    },
+    {
+      "id": 28,
+      "question": "[PPT p.4·66] quinoline alkaloid의 전구체로 분류표에 두 번 나오는 것은?",
+      "choices": [
+        "Tryptophan과 Anthranilic acid",
+        "Ornithine과 Lysine",
+        "Histidine과 Phenylalanine",
+        "Nicotinic acid와 Lysine"
+      ],
+      "answer": "Tryptophan과 Anthranilic acid",
+      "explanation": "정답: Trp(quinine류 — indole이 재배열) / anthranilic acid(dictamnine, skimmianine 등 Rutaceae계)"
+    },
+    {
+      "id": 29,
+      "question": "[PPT p.9·45] 다음 고리의 이름과 그 원료 아미노산은?\n[[smi:c1ccc2[nH]ccc2c1]]",
+      "choices": [
+        "indole – tryptophan",
+        "quinoline – anthranilic acid",
+        "pyrrolidine – ornithine",
+        "imidazole – histidine",
+        "piperidine – lysine"
+      ],
+      "answer": "indole – tryptophan",
+      "explanation": "정답: indole – Trp (indole C2N)"
+    },
+    {
+      "id": 30,
+      "question": "[PPT p.9] 다음 6원 포화 질소 고리(piperidine)의 원료 아미노산은?\n[[smi:C1CCNCC1]]",
+      "choices": [
+        "lysine (C5N)",
+        "ornithine (C4N)",
+        "histidine",
+        "tryptophan",
+        "phenylalanine"
+      ],
+      "answer": "lysine (C5N)",
+      "explanation": "정답: lysine → cadaverine → Δ¹-piperideine → piperidine"
+    }
+  ]
+}
