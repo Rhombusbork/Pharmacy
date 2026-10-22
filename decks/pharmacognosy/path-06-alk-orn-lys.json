@@ -1,0 +1,241 @@
+{
+  "deckId": "pharmacognosy-path-06-alk-orn-lys",
+  "subject": "생약학",
+  "title": "경로 집중 6 · Alkaloid 경로 ① Ornithine·Lysine·Nicotinic acid",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCC(N)C(=O)O>>NCCCCN|−CO₂, PLP]]\n(★ → putrescine)\n\n[[rxn:NCCCCN>>CNCCCCN|SAM]]\n(putrescine → N-methylputrescine)",
+      "choices": [
+        "tropinone",
+        "tropine",
+        "L-ornithine",
+        "hyoscyamine",
+        "putrescine"
+      ],
+      "answer": "L-ornithine",
+      "explanation": "정답: L-ornithine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 2,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCC(N)C(=O)O>>NCCCCN|−CO₂, PLP]]\n(L-ornithine → ★)\n\n[[rxn:NCCCCN>>CNCCCCN|SAM]]\n(★ → N-methylputrescine)\n\n[[rxn:CNCCCCN>>C[N+]1=CCCC1|산화적 탈아미노, Schiff base]]\n(N-methylputrescine → N-methyl-Δ¹-pyrrolinium)",
+      "choices": [
+        "scopolamine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "putrescine",
+        "nicotinic acid (niacin)",
+        "hyoscyamine"
+      ],
+      "answer": "putrescine",
+      "explanation": "정답: putrescine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 3,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCC(N)C(=O)O>>NCCCCN|−CO₂, PLP]]\n(L-ornithine → putrescine)\n\n[[rxn:NCCCCN>>CNCCCCN|SAM]]\n(putrescine → ★)\n\n[[rxn:CNCCCCN>>C[N+]1=CCCC1|산화적 탈아미노, Schiff base]]\n(★ → N-methyl-Δ¹-pyrrolinium)\n\n[[rxn:C[N+]1=CCCC1>>CN1C2CCC1CC(=O)C2|acetyl-CoA 2단위]]\n(N-methyl-Δ¹-pyrrolinium → tropinone)",
+      "choices": [
+        "tropinone",
+        "tropine",
+        "N-methylputrescine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "quinolinic acid"
+      ],
+      "answer": "N-methylputrescine",
+      "explanation": "정답: N-methylputrescine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 4,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCCN>>CNCCCCN|SAM]]\n(putrescine → N-methylputrescine)\n\n[[rxn:CNCCCCN>>C[N+]1=CCCC1|산화적 탈아미노, Schiff base]]\n(N-methylputrescine → ★)\n\n[[rxn:C[N+]1=CCCC1>>CN1C2CCC1CC(=O)C2|acetyl-CoA 2단위]]\n(★ → tropinone)\n\n[[rxn:CN1C2CCC1CC(=O)C2>>CN1C2CCC1CC(O)C2|환원]]\n(tropinone → tropine)",
+      "choices": [
+        "L-ornithine",
+        "tropine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "putrescine",
+        "nicotine"
+      ],
+      "answer": "N-methyl-Δ¹-pyrrolinium",
+      "explanation": "정답: N-methyl-Δ¹-pyrrolinium\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 5,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CNCCCCN>>C[N+]1=CCCC1|산화적 탈아미노, Schiff base]]\n(N-methylputrescine → N-methyl-Δ¹-pyrrolinium)\n\n[[rxn:C[N+]1=CCCC1>>CN1C2CCC1CC(=O)C2|acetyl-CoA 2단위]]\n(N-methyl-Δ¹-pyrrolinium → ★)\n\n[[rxn:CN1C2CCC1CC(=O)C2>>CN1C2CCC1CC(O)C2|환원]]\n(★ → tropine)\n\n[[rxn:CN1C2CCC1CC(O)C2>>CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2|phenyllactic acid(L-Phe) 에스터·재배열]]\n(tropine → hyoscyamine)",
+      "choices": [
+        "N-methylputrescine",
+        "hyoscyamine",
+        "scopolamine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "tropinone"
+      ],
+      "answer": "tropinone",
+      "explanation": "정답: tropinone\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 6,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C[N+]1=CCCC1>>CN1C2CCC1CC(=O)C2|acetyl-CoA 2단위]]\n(N-methyl-Δ¹-pyrrolinium → tropinone)\n\n[[rxn:CN1C2CCC1CC(=O)C2>>CN1C2CCC1CC(O)C2|환원]]\n(tropinone → ★)\n\n[[rxn:CN1C2CCC1CC(O)C2>>CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2|phenyllactic acid(L-Phe) 에스터·재배열]]\n(★ → hyoscyamine)\n\n[[rxn:CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2>>CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12|epoxide 형성]]\n(hyoscyamine → scopolamine)",
+      "choices": [
+        "putrescine",
+        "tropine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "N-methylputrescine",
+        "tropinone"
+      ],
+      "answer": "tropine",
+      "explanation": "정답: tropine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 7,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CN1C2CCC1CC(=O)C2>>CN1C2CCC1CC(O)C2|환원]]\n(tropinone → tropine)\n\n[[rxn:CN1C2CCC1CC(O)C2>>CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2|phenyllactic acid(L-Phe) 에스터·재배열]]\n(tropine → ★)\n\n[[rxn:CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2>>CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12|epoxide 형성]]\n(★ → scopolamine)",
+      "choices": [
+        "putrescine",
+        "scopolamine",
+        "tropinone",
+        "hyoscyamine",
+        "L-ornithine"
+      ],
+      "answer": "hyoscyamine",
+      "explanation": "정답: hyoscyamine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 8,
+      "question": "[경로: Tropane alkaloid (Solanaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CN1C2CCC1CC(O)C2>>CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2|phenyllactic acid(L-Phe) 에스터·재배열]]\n(tropine → hyoscyamine)\n\n[[rxn:CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2>>CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12|epoxide 형성]]\n(hyoscyamine → ★)",
+      "choices": [
+        "scopolamine",
+        "tropine",
+        "N-methylputrescine",
+        "nicotine",
+        "N-methyl-Δ¹-pyrrolinium"
+      ],
+      "answer": "scopolamine",
+      "explanation": "정답: scopolamine\n전체 경로:\nL-ornithine →(−CO₂, PLP)→ putrescine\nputrescine →(SAM)→ N-methylputrescine\nN-methylputrescine →(산화적 탈아미노, Schiff base)→ N-methyl-Δ¹-pyrrolinium\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위)→ tropinone\ntropinone →(환원)→ tropine\ntropine →(phenyllactic acid(L-Phe) 에스터·재배열)→ hyoscyamine\nhyoscyamine →(epoxide 형성)→ scopolamine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 9,
+      "question": "[경로: Cocaine (Erythroxylaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C[N+]1=CCCC1>>COC(=O)C1C(O)CC2CCC1N2C|acetyl-CoA 2단위, SAM, NADPH]]\n(★ → methylecgonine)\n\n[[rxn:COC(=O)C1C(O)CC2CCC1N2C>>COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C|benzoyl-CoA(L-Phe)]]\n(methylecgonine → cocaine)",
+      "choices": [
+        "methylecgonine",
+        "putrescine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "tropine",
+        "cocaine"
+      ],
+      "answer": "N-methyl-Δ¹-pyrrolinium",
+      "explanation": "정답: N-methyl-Δ¹-pyrrolinium\n전체 경로:\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위, SAM, NADPH)→ methylecgonine\nmethylecgonine →(benzoyl-CoA(L-Phe))→ cocaine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 10,
+      "question": "[경로: Cocaine (Erythroxylaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C[N+]1=CCCC1>>COC(=O)C1C(O)CC2CCC1N2C|acetyl-CoA 2단위, SAM, NADPH]]\n(N-methyl-Δ¹-pyrrolinium → ★)\n\n[[rxn:COC(=O)C1C(O)CC2CCC1N2C>>COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C|benzoyl-CoA(L-Phe)]]\n(★ → cocaine)",
+      "choices": [
+        "L-ornithine",
+        "nicotine",
+        "methylecgonine",
+        "cocaine",
+        "N-methyl-Δ¹-pyrrolinium"
+      ],
+      "answer": "methylecgonine",
+      "explanation": "정답: methylecgonine\n전체 경로:\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위, SAM, NADPH)→ methylecgonine\nmethylecgonine →(benzoyl-CoA(L-Phe))→ cocaine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 11,
+      "question": "[경로: Cocaine (Erythroxylaceae)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C[N+]1=CCCC1>>COC(=O)C1C(O)CC2CCC1N2C|acetyl-CoA 2단위, SAM, NADPH]]\n(N-methyl-Δ¹-pyrrolinium → methylecgonine)\n\n[[rxn:COC(=O)C1C(O)CC2CCC1N2C>>COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C|benzoyl-CoA(L-Phe)]]\n(methylecgonine → ★)",
+      "choices": [
+        "putrescine",
+        "methylecgonine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "scopolamine",
+        "cocaine"
+      ],
+      "answer": "cocaine",
+      "explanation": "정답: cocaine\n전체 경로:\nN-methyl-Δ¹-pyrrolinium →(acetyl-CoA 2단위, SAM, NADPH)→ methylecgonine\nmethylecgonine →(benzoyl-CoA(L-Phe))→ cocaine\n그림:\n[[img:pharmacognosy/local/alk-p12.png|PPT alk-p12]]"
+    },
+    {
+      "id": 12,
+      "question": "[경로: Lysine → piperidine alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCCC(N)C(=O)O>>NCCCCCN|−CO₂]]\n(★ → cadaverine)\n\n[[rxn:NCCCCCN>>C1=NCCCC1|diamine oxidase, Schiff base]]\n(cadaverine → Δ¹-piperideine)",
+      "choices": [
+        "N-methylputrescine",
+        "pelletierine",
+        "Δ¹-piperideine",
+        "cadaverine",
+        "L-lysine"
+      ],
+      "answer": "L-lysine",
+      "explanation": "정답: L-lysine\n전체 경로:\nL-lysine →(−CO₂)→ cadaverine\ncadaverine →(diamine oxidase, Schiff base)→ Δ¹-piperideine\nΔ¹-piperideine →(acetoacetyl-CoA, Mannich, −CO₂)→ pelletierine\n그림:\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]"
+    },
+    {
+      "id": 13,
+      "question": "[경로: Lysine → piperidine alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCCC(N)C(=O)O>>NCCCCCN|−CO₂]]\n(L-lysine → ★)\n\n[[rxn:NCCCCCN>>C1=NCCCC1|diamine oxidase, Schiff base]]\n(★ → Δ¹-piperideine)\n\n[[rxn:C1=NCCCC1>>CC(=O)CC1CCCCN1|acetoacetyl-CoA, Mannich, −CO₂]]\n(Δ¹-piperideine → pelletierine)",
+      "choices": [
+        "nicotine",
+        "L-lysine",
+        "Δ¹-piperideine",
+        "cadaverine",
+        "pelletierine"
+      ],
+      "answer": "cadaverine",
+      "explanation": "정답: cadaverine\n전체 경로:\nL-lysine →(−CO₂)→ cadaverine\ncadaverine →(diamine oxidase, Schiff base)→ Δ¹-piperideine\nΔ¹-piperideine →(acetoacetyl-CoA, Mannich, −CO₂)→ pelletierine\n그림:\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]"
+    },
+    {
+      "id": 14,
+      "question": "[경로: Lysine → piperidine alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCCC(N)C(=O)O>>NCCCCCN|−CO₂]]\n(L-lysine → cadaverine)\n\n[[rxn:NCCCCCN>>C1=NCCCC1|diamine oxidase, Schiff base]]\n(cadaverine → ★)\n\n[[rxn:C1=NCCCC1>>CC(=O)CC1CCCCN1|acetoacetyl-CoA, Mannich, −CO₂]]\n(★ → pelletierine)",
+      "choices": [
+        "cadaverine",
+        "pelletierine",
+        "Δ¹-piperideine",
+        "quinolinic acid",
+        "L-lysine"
+      ],
+      "answer": "Δ¹-piperideine",
+      "explanation": "정답: Δ¹-piperideine\n전체 경로:\nL-lysine →(−CO₂)→ cadaverine\ncadaverine →(diamine oxidase, Schiff base)→ Δ¹-piperideine\nΔ¹-piperideine →(acetoacetyl-CoA, Mannich, −CO₂)→ pelletierine\n그림:\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]"
+    },
+    {
+      "id": 15,
+      "question": "[경로: Lysine → piperidine alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCCCCN>>C1=NCCCC1|diamine oxidase, Schiff base]]\n(cadaverine → Δ¹-piperideine)\n\n[[rxn:C1=NCCCC1>>CC(=O)CC1CCCCN1|acetoacetyl-CoA, Mannich, −CO₂]]\n(Δ¹-piperideine → ★)",
+      "choices": [
+        "L-lysine",
+        "cadaverine",
+        "methylecgonine",
+        "Δ¹-piperideine",
+        "pelletierine"
+      ],
+      "answer": "pelletierine",
+      "explanation": "정답: pelletierine\n전체 경로:\nL-lysine →(−CO₂)→ cadaverine\ncadaverine →(diamine oxidase, Schiff base)→ Δ¹-piperideine\nΔ¹-piperideine →(acetoacetyl-CoA, Mannich, −CO₂)→ pelletierine\n그림:\n[[img:pharmacognosy/local/alk-p19.png|PPT alk-p19]]"
+    },
+    {
+      "id": 16,
+      "question": "[경로: Nicotinic acid·nicotine]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)c1cccnc1C(=O)O>>OC(=O)c1cccnc1|−CO₂]]\n(★ → nicotinic acid)\n\n[[rxn:OC(=O)c1cccnc1>>CN1CCCC1c1cccnc1|N-methyl-Δ¹-pyrrolinium(Orn)]]\n(nicotinic acid → nicotine)",
+      "choices": [
+        "nicotinic acid (niacin)",
+        "quinolinic acid",
+        "nicotine",
+        "methylecgonine",
+        "L-ornithine"
+      ],
+      "answer": "quinolinic acid",
+      "explanation": "정답: quinolinic acid\n전체 경로:\nquinolinic acid →(−CO₂)→ nicotinic acid\nnicotinic acid →(N-methyl-Δ¹-pyrrolinium(Orn))→ nicotine\n그림:\n[[img:pharmacognosy/local/alk-p24.png|PPT alk-p24]]"
+    },
+    {
+      "id": 17,
+      "question": "[경로: Nicotinic acid·nicotine]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)c1cccnc1C(=O)O>>OC(=O)c1cccnc1|−CO₂]]\n(quinolinic acid → ★)\n\n[[rxn:OC(=O)c1cccnc1>>CN1CCCC1c1cccnc1|N-methyl-Δ¹-pyrrolinium(Orn)]]\n(★ → nicotine)",
+      "choices": [
+        "methylecgonine",
+        "N-methyl-Δ¹-pyrrolinium",
+        "quinolinic acid",
+        "nicotine",
+        "nicotinic acid (niacin)"
+      ],
+      "answer": "nicotinic acid (niacin)",
+      "explanation": "정답: nicotinic acid (niacin)\n전체 경로:\nquinolinic acid →(−CO₂)→ nicotinic acid\nnicotinic acid →(N-methyl-Δ¹-pyrrolinium(Orn))→ nicotine\n그림:\n[[img:pharmacognosy/local/alk-p24.png|PPT alk-p24]]"
+    },
+    {
+      "id": 18,
+      "question": "[경로: Nicotinic acid·nicotine]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)c1cccnc1C(=O)O>>OC(=O)c1cccnc1|−CO₂]]\n(quinolinic acid → nicotinic acid)\n\n[[rxn:OC(=O)c1cccnc1>>CN1CCCC1c1cccnc1|N-methyl-Δ¹-pyrrolinium(Orn)]]\n(nicotinic acid → ★)",
+      "choices": [
+        "L-ornithine",
+        "quinolinic acid",
+        "nicotinic acid (niacin)",
+        "nicotine",
+        "N-methyl-Δ¹-pyrrolinium"
+      ],
+      "answer": "nicotine",
+      "explanation": "정답: nicotine\n전체 경로:\nquinolinic acid →(−CO₂)→ nicotinic acid\nnicotinic acid →(N-methyl-Δ¹-pyrrolinium(Orn))→ nicotine\n그림:\n[[img:pharmacognosy/local/alk-p24.png|PPT alk-p24]]"
+    }
+  ]
+}

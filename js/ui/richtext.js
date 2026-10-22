@@ -122,6 +122,11 @@ function createStructure(kind, value) {
 }
 
 // 그림 파일 하나를 만든다. 경로가 잘못됐거나 파일을 못 읽으면 [그림 없음: 경로]를 보여준다.
+// 내 컴퓨터에만 두는 그림(.gitignore로 GitHub에 안 올라감)인지 확인한다.
+export function isLocalOnlyImage(path) {
+  return path.split("/").includes("local");
+}
+
 function createImage(value) {
   const { path, alt } = splitImage(value);
   const wrap = document.createElement("span");
@@ -138,6 +143,12 @@ function createImage(value) {
   img.alt = alt;
   if (alt) img.title = alt;
   img.addEventListener("error", () => {
+    // decks/<과목>/local/ 그림은 저작권 때문에 GitHub에 올리지 않는 "내 컴퓨터 전용" 그림이다.
+    // 없으면(= GitHub Pages) 오류 대신 조용히 숨긴다.
+    if (isLocalOnlyImage(path)) {
+      wrap.remove();
+      return;
+    }
     wrap.className = "structure structure-error";
     wrap.textContent = `[그림 없음: ${path}]`;
   });

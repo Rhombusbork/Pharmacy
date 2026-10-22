@@ -1,0 +1,228 @@
+{
+  "deckId": "pharmacognosy-path-02-shikimate",
+  "subject": "생약학",
+  "title": "경로 집중 2 · Shikimate 경로 (Phe·Tyr·Trp)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C=C(OP(=O)(O)O)C(=O)O.O=CC(O)C(O)COP(=O)(O)O>>OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O|aldol형 축합]]\n(★ → DAHP)\n\n[[rxn:OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O>>OC(=O)C1(O)CC(=O)C(O)C(O)C1|NAD⁺, −HOP, 고리화]]\n(DAHP → 3-dehydroquinic acid)",
+      "choices": [
+        "shikimic acid 3-phosphate",
+        "PEP + erythrose 4-phosphate",
+        "4-hydroxyphenylpyruvic acid",
+        "3-dehydroquinic acid",
+        "EPSP"
+      ],
+      "answer": "PEP + erythrose 4-phosphate",
+      "explanation": "정답: PEP + erythrose 4-phosphate\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 2,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C=C(OP(=O)(O)O)C(=O)O.O=CC(O)C(O)COP(=O)(O)O>>OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O|aldol형 축합]]\n(PEP + erythrose 4-phosphate → ★)\n\n[[rxn:OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O>>OC(=O)C1(O)CC(=O)C(O)C(O)C1|NAD⁺, −HOP, 고리화]]\n(★ → 3-dehydroquinic acid)\n\n[[rxn:OC(=O)C1(O)CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(=O)C(O)C(O)C1|−H₂O]]\n(3-dehydroquinic acid → 3-dehydroshikimic acid)",
+      "choices": [
+        "L-tyrosine",
+        "phenylpyruvic acid",
+        "DAHP",
+        "3-dehydroshikimic acid",
+        "PEP + erythrose 4-phosphate"
+      ],
+      "answer": "DAHP",
+      "explanation": "정답: DAHP\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 3,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:C=C(OP(=O)(O)O)C(=O)O.O=CC(O)C(O)COP(=O)(O)O>>OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O|aldol형 축합]]\n(PEP + erythrose 4-phosphate → DAHP)\n\n[[rxn:OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O>>OC(=O)C1(O)CC(=O)C(O)C(O)C1|NAD⁺, −HOP, 고리화]]\n(DAHP → ★)\n\n[[rxn:OC(=O)C1(O)CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(=O)C(O)C(O)C1|−H₂O]]\n(★ → 3-dehydroshikimic acid)\n\n[[rxn:OC(=O)C1=CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(O)C(O)C(O)C1|NADPH]]\n(3-dehydroshikimic acid → shikimic acid)",
+      "choices": [
+        "3-dehydroquinic acid",
+        "phenylpyruvic acid",
+        "prephenic acid",
+        "3-dehydroshikimic acid",
+        "EPSP"
+      ],
+      "answer": "3-dehydroquinic acid",
+      "explanation": "정답: 3-dehydroquinic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 4,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C(=O)CC(O)C(O)C(O)COP(=O)(O)O>>OC(=O)C1(O)CC(=O)C(O)C(O)C1|NAD⁺, −HOP, 고리화]]\n(DAHP → 3-dehydroquinic acid)\n\n[[rxn:OC(=O)C1(O)CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(=O)C(O)C(O)C1|−H₂O]]\n(3-dehydroquinic acid → ★)\n\n[[rxn:OC(=O)C1=CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(O)C(O)C(O)C1|NADPH]]\n(★ → shikimic acid)\n\n[[rxn:OC(=O)C1=CC(O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1|ATP]]\n(shikimic acid → shikimic acid 3-phosphate)",
+      "choices": [
+        "L-phenylalanine",
+        "prephenic acid",
+        "phenylpyruvic acid",
+        "3-dehydroshikimic acid",
+        "shikimic acid"
+      ],
+      "answer": "3-dehydroshikimic acid",
+      "explanation": "정답: 3-dehydroshikimic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 5,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1(O)CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(=O)C(O)C(O)C1|−H₂O]]\n(3-dehydroquinic acid → 3-dehydroshikimic acid)\n\n[[rxn:OC(=O)C1=CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(O)C(O)C(O)C1|NADPH]]\n(3-dehydroshikimic acid → ★)\n\n[[rxn:OC(=O)C1=CC(O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1|ATP]]\n(★ → shikimic acid 3-phosphate)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1|PEP, EPSP synthase]]\n(shikimic acid 3-phosphate → EPSP)",
+      "choices": [
+        "shikimic acid",
+        "PEP + erythrose 4-phosphate",
+        "EPSP",
+        "phenylpyruvic acid",
+        "chorismic acid"
+      ],
+      "answer": "shikimic acid",
+      "explanation": "정답: shikimic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 6,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(=O)C(O)C(O)C1>>OC(=O)C1=CC(O)C(O)C(O)C1|NADPH]]\n(3-dehydroshikimic acid → shikimic acid)\n\n[[rxn:OC(=O)C1=CC(O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1|ATP]]\n(shikimic acid → ★)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1|PEP, EPSP synthase]]\n(★ → EPSP)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1>>OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1|−HOP]]\n(EPSP → chorismic acid)",
+      "choices": [
+        "phenylpyruvic acid",
+        "shikimic acid 3-phosphate",
+        "DAHP",
+        "prephenic acid",
+        "EPSP"
+      ],
+      "answer": "shikimic acid 3-phosphate",
+      "explanation": "정답: shikimic acid 3-phosphate\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 7,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1|ATP]]\n(shikimic acid → shikimic acid 3-phosphate)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1|PEP, EPSP synthase]]\n(shikimic acid 3-phosphate → ★)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1>>OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1|−HOP]]\n(★ → chorismic acid)\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1|Claisen 재배열]]\n(chorismic acid → prephenic acid)",
+      "choices": [
+        "4-hydroxyphenylpyruvic acid",
+        "L-phenylalanine",
+        "shikimic acid 3-phosphate",
+        "3-dehydroshikimic acid",
+        "EPSP"
+      ],
+      "answer": "EPSP",
+      "explanation": "정답: EPSP\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 8,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(O)C1>>OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1|PEP, EPSP synthase]]\n(shikimic acid 3-phosphate → EPSP)\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1>>OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1|−HOP]]\n(EPSP → ★)\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1|Claisen 재배열]]\n(★ → prephenic acid)\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccccc1|−CO₂, −H₂O]]\n(prephenic acid → phenylpyruvic acid)",
+      "choices": [
+        "DAHP",
+        "EPSP",
+        "chorismic acid",
+        "L-phenylalanine",
+        "shikimic acid"
+      ],
+      "answer": "chorismic acid",
+      "explanation": "정답: chorismic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 9,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OP(=O)(O)O)C(O)C(OC(=C)C(=O)O)C1>>OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1|−HOP]]\n(EPSP → chorismic acid)\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1|Claisen 재배열]]\n(chorismic acid → ★)\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccccc1|−CO₂, −H₂O]]\n(★ → phenylpyruvic acid)\n\n[[rxn:OC(=O)C(=O)Cc1ccccc1>>NC(Cc1ccccc1)C(=O)O|transamination, PLP]]\n(phenylpyruvic acid → L-phenylalanine)",
+      "choices": [
+        "L-phenylalanine",
+        "chorismic acid",
+        "prephenic acid",
+        "EPSP",
+        "DAHP"
+      ],
+      "answer": "prephenic acid",
+      "explanation": "정답: prephenic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 10,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1|Claisen 재배열]]\n(chorismic acid → prephenic acid)\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccccc1|−CO₂, −H₂O]]\n(prephenic acid → ★)\n\n[[rxn:OC(=O)C(=O)Cc1ccccc1>>NC(Cc1ccccc1)C(=O)O|transamination, PLP]]\n(★ → L-phenylalanine)",
+      "choices": [
+        "PEP + erythrose 4-phosphate",
+        "phenylpyruvic acid",
+        "chorismic acid",
+        "L-tryptophan",
+        "3-dehydroquinic acid"
+      ],
+      "answer": "phenylpyruvic acid",
+      "explanation": "정답: phenylpyruvic acid\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 11,
+      "question": "[경로: Shikimate 경로 (→ Phe)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccccc1|−CO₂, −H₂O]]\n(prephenic acid → phenylpyruvic acid)\n\n[[rxn:OC(=O)C(=O)Cc1ccccc1>>NC(Cc1ccccc1)C(=O)O|transamination, PLP]]\n(phenylpyruvic acid → ★)",
+      "choices": [
+        "prephenic acid",
+        "PEP + erythrose 4-phosphate",
+        "phenylpyruvic acid",
+        "L-phenylalanine",
+        "3-dehydroquinic acid"
+      ],
+      "answer": "L-phenylalanine",
+      "explanation": "정답: L-phenylalanine\n전체 경로:\nPEP + erythrose 4-phosphate →(aldol형 축합)→ DAHP\nDAHP →(NAD⁺, −HOP, 고리화)→ 3-dehydroquinic acid\n3-dehydroquinic acid →(−H₂O)→ 3-dehydroshikimic acid\n3-dehydroshikimic acid →(NADPH)→ shikimic acid\nshikimic acid →(ATP)→ shikimic acid 3-phosphate\nshikimic acid 3-phosphate →(PEP, EPSP synthase)→ EPSP\nEPSP →(−HOP)→ chorismic acid\nchorismic acid →(Claisen 재배열)→ prephenic acid\nprephenic acid →(−CO₂, −H₂O)→ phenylpyruvic acid\nphenylpyruvic acid →(transamination, PLP)→ L-phenylalanine\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 12,
+      "question": "[경로: Chorismic acid에서 갈라지는 Tyr·Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccc(O)cc1|NAD⁺, −CO₂]]\n(★ → 4-hydroxyphenylpyruvic acid)\n\n[[rxn:OC(=O)C(=O)Cc1ccc(O)cc1>>NC(Cc1ccc(O)cc1)C(=O)O|transamination, PLP]]\n(4-hydroxyphenylpyruvic acid → L-tyrosine)",
+      "choices": [
+        "prephenic acid",
+        "L-tyrosine",
+        "PEP + erythrose 4-phosphate",
+        "4-hydroxyphenylpyruvic acid",
+        "3-dehydroshikimic acid"
+      ],
+      "answer": "prephenic acid",
+      "explanation": "정답: prephenic acid\n전체 경로:\nprephenic acid →(NAD⁺, −CO₂)→ 4-hydroxyphenylpyruvic acid\n4-hydroxyphenylpyruvic acid →(transamination, PLP)→ L-tyrosine\n참고: Trp: chorismic acid → anthranilic acid(Nc1ccccc1C(=O)O) → … → L-Trp\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 13,
+      "question": "[경로: Chorismic acid에서 갈라지는 Tyr·Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccc(O)cc1|NAD⁺, −CO₂]]\n(prephenic acid → ★)\n\n[[rxn:OC(=O)C(=O)Cc1ccc(O)cc1>>NC(Cc1ccc(O)cc1)C(=O)O|transamination, PLP]]\n(★ → L-tyrosine)",
+      "choices": [
+        "EPSP",
+        "4-hydroxyphenylpyruvic acid",
+        "phenylpyruvic acid",
+        "L-tyrosine",
+        "prephenic acid"
+      ],
+      "answer": "4-hydroxyphenylpyruvic acid",
+      "explanation": "정답: 4-hydroxyphenylpyruvic acid\n전체 경로:\nprephenic acid →(NAD⁺, −CO₂)→ 4-hydroxyphenylpyruvic acid\n4-hydroxyphenylpyruvic acid →(transamination, PLP)→ L-tyrosine\n참고: Trp: chorismic acid → anthranilic acid(Nc1ccccc1C(=O)O) → … → L-Trp\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 14,
+      "question": "[경로: Chorismic acid에서 갈라지는 Tyr·Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C(=O)CC1(C(=O)O)C=CC(O)C=C1>>OC(=O)C(=O)Cc1ccc(O)cc1|NAD⁺, −CO₂]]\n(prephenic acid → 4-hydroxyphenylpyruvic acid)\n\n[[rxn:OC(=O)C(=O)Cc1ccc(O)cc1>>NC(Cc1ccc(O)cc1)C(=O)O|transamination, PLP]]\n(4-hydroxyphenylpyruvic acid → ★)",
+      "choices": [
+        "3-dehydroquinic acid",
+        "4-hydroxyphenylpyruvic acid",
+        "phenylpyruvic acid",
+        "prephenic acid",
+        "L-tyrosine"
+      ],
+      "answer": "L-tyrosine",
+      "explanation": "정답: L-tyrosine\n전체 경로:\nprephenic acid →(NAD⁺, −CO₂)→ 4-hydroxyphenylpyruvic acid\n4-hydroxyphenylpyruvic acid →(transamination, PLP)→ L-tyrosine\n참고: Trp: chorismic acid → anthranilic acid(Nc1ccccc1C(=O)O) → … → L-Trp\n그림:\n[[img:pharmacognosy/local/shk-p03.png|PPT shk-p03]]"
+    },
+    {
+      "id": 15,
+      "question": "[경로: Chorismic acid → Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>Nc1ccccc1C(=O)O|Gln(NH₃), −pyruvate]]\n(★ → anthranilic acid)\n\n[[rxn:Nc1ccccc1C(=O)O>>NC(Cc1c[nH]c2ccccc12)C(=O)O|여러 단계]]\n(anthranilic acid → L-tryptophan)",
+      "choices": [
+        "L-phenylalanine",
+        "PEP + erythrose 4-phosphate",
+        "L-tryptophan",
+        "chorismic acid",
+        "anthranilic acid"
+      ],
+      "answer": "chorismic acid",
+      "explanation": "정답: chorismic acid\n전체 경로:\nchorismic acid →(Gln(NH₃), −pyruvate)→ anthranilic acid\nanthranilic acid →(여러 단계)→ L-tryptophan\n그림:\n[[img:pharmacognosy/local/shk-p04.png|PPT shk-p04]]"
+    },
+    {
+      "id": 16,
+      "question": "[경로: Chorismic acid → Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>Nc1ccccc1C(=O)O|Gln(NH₃), −pyruvate]]\n(chorismic acid → ★)\n\n[[rxn:Nc1ccccc1C(=O)O>>NC(Cc1c[nH]c2ccccc12)C(=O)O|여러 단계]]\n(★ → L-tryptophan)",
+      "choices": [
+        "L-tryptophan",
+        "shikimic acid 3-phosphate",
+        "chorismic acid",
+        "4-hydroxyphenylpyruvic acid",
+        "anthranilic acid"
+      ],
+      "answer": "anthranilic acid",
+      "explanation": "정답: anthranilic acid\n전체 경로:\nchorismic acid →(Gln(NH₃), −pyruvate)→ anthranilic acid\nanthranilic acid →(여러 단계)→ L-tryptophan\n그림:\n[[img:pharmacognosy/local/shk-p04.png|PPT shk-p04]]"
+    },
+    {
+      "id": 17,
+      "question": "[경로: Chorismic acid → Trp]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)C1=CC(OC(=C)C(=O)O)C(O)C=C1>>Nc1ccccc1C(=O)O|Gln(NH₃), −pyruvate]]\n(chorismic acid → anthranilic acid)\n\n[[rxn:Nc1ccccc1C(=O)O>>NC(Cc1c[nH]c2ccccc12)C(=O)O|여러 단계]]\n(anthranilic acid → ★)",
+      "choices": [
+        "anthranilic acid",
+        "L-tryptophan",
+        "shikimic acid",
+        "PEP + erythrose 4-phosphate",
+        "chorismic acid"
+      ],
+      "answer": "L-tryptophan",
+      "explanation": "정답: L-tryptophan\n전체 경로:\nchorismic acid →(Gln(NH₃), −pyruvate)→ anthranilic acid\nanthranilic acid →(여러 단계)→ L-tryptophan\n그림:\n[[img:pharmacognosy/local/shk-p04.png|PPT shk-p04]]"
+    }
+  ]
+}

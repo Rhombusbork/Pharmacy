@@ -1,7 +1,7 @@
 // 앱 시작점. 홈 ↔ 풀이 ↔ 결과 화면 전환을 담당한다.
 
 import { loadAllDecks, findMissingFiles } from "./loader.js";
-import { findStructures } from "./ui/richtext.js";
+import { findStructures, isLocalOnlyImage } from "./ui/richtext.js";
 import { validateDeckHeader, validateQuestions, findDuplicateDeckIds } from "./validator.js";
 import { renderHome } from "./ui/home.js";
 import { renderQuiz } from "./ui/quiz.js";
@@ -100,7 +100,9 @@ async function excludeMissingImages(entries) {
       .filter((t) => typeof t === "string")
       .flatMap(findStructures)
       .filter((s) => s.kind === "img")
-      .map((s) => s.value.split("|")[0].trim());
+      .map((s) => s.value.split("|")[0].trim())
+      // 내 컴퓨터 전용 그림은 없어도 문제를 빼지 않는다(GitHub Pages에서는 그림만 숨겨짐).
+      .filter((path) => !isLocalOnlyImage(path));
 
   const usable = entries.filter((e) => !e.fatal);
   const missing = await findMissingFiles(usable.flatMap((e) => e.validQuestions.flatMap(imagesOf)));

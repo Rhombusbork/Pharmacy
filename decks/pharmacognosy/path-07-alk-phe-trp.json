@@ -1,0 +1,228 @@
+{
+  "deckId": "pharmacognosy-path-07-alk-phe-trp",
+  "subject": "생약학",
+  "title": "경로 집중 7 · Alkaloid 경로 ② Phe·Tyr·Trp",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로: Ephedrine 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)c1ccccc1|cinnamic acid 경유 곁사슬 분해]]\n(★ → benzoic acid)\n\n[[rxn:OC(=O)c1ccccc1>>CC(N)C(=O)c1ccccc1|pyruvic acid, transamination]]\n(benzoic acid → (−)-cathinone)",
+      "choices": [
+        "(−)-ephedrine",
+        "L-phenylalanine",
+        "(−)-cathinone",
+        "(S)-reticuline",
+        "(−)-norephedrine"
+      ],
+      "answer": "L-phenylalanine",
+      "explanation": "정답: L-phenylalanine\n전체 경로:\nL-phenylalanine →(cinnamic acid 경유 곁사슬 분해)→ benzoic acid\nbenzoic acid →(pyruvic acid, transamination)→ (−)-cathinone\n(−)-cathinone →(환원)→ (−)-norephedrine\n(−)-norephedrine →(SAM)→ (−)-ephedrine\n그림:\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
+    },
+    {
+      "id": 2,
+      "question": "[경로: Ephedrine 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)c1ccccc1|cinnamic acid 경유 곁사슬 분해]]\n(L-phenylalanine → ★)\n\n[[rxn:OC(=O)c1ccccc1>>CC(N)C(=O)c1ccccc1|pyruvic acid, transamination]]\n(★ → (−)-cathinone)\n\n[[rxn:CC(N)C(=O)c1ccccc1>>CC(N)C(O)c1ccccc1|환원]]\n((−)-cathinone → (−)-norephedrine)",
+      "choices": [
+        "(−)-cathinone",
+        "benzoic acid (C6C1)",
+        "(S)-coclaurine",
+        "(−)-norephedrine",
+        "(−)-ephedrine"
+      ],
+      "answer": "benzoic acid (C6C1)",
+      "explanation": "정답: benzoic acid (C6C1)\n전체 경로:\nL-phenylalanine →(cinnamic acid 경유 곁사슬 분해)→ benzoic acid\nbenzoic acid →(pyruvic acid, transamination)→ (−)-cathinone\n(−)-cathinone →(환원)→ (−)-norephedrine\n(−)-norephedrine →(SAM)→ (−)-ephedrine\n그림:\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
+    },
+    {
+      "id": 3,
+      "question": "[경로: Ephedrine 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1ccccc1)C(=O)O>>OC(=O)c1ccccc1|cinnamic acid 경유 곁사슬 분해]]\n(L-phenylalanine → benzoic acid)\n\n[[rxn:OC(=O)c1ccccc1>>CC(N)C(=O)c1ccccc1|pyruvic acid, transamination]]\n(benzoic acid → ★)\n\n[[rxn:CC(N)C(=O)c1ccccc1>>CC(N)C(O)c1ccccc1|환원]]\n(★ → (−)-norephedrine)\n\n[[rxn:CC(N)C(O)c1ccccc1>>CNC(C)C(O)c1ccccc1|SAM]]\n((−)-norephedrine → (−)-ephedrine)",
+      "choices": [
+        "L-phenylalanine",
+        "benzoic acid (C6C1)",
+        "(S)-N-methylcoclaurine",
+        "(−)-cathinone",
+        "(−)-ephedrine"
+      ],
+      "answer": "(−)-cathinone",
+      "explanation": "정답: (−)-cathinone\n전체 경로:\nL-phenylalanine →(cinnamic acid 경유 곁사슬 분해)→ benzoic acid\nbenzoic acid →(pyruvic acid, transamination)→ (−)-cathinone\n(−)-cathinone →(환원)→ (−)-norephedrine\n(−)-norephedrine →(SAM)→ (−)-ephedrine\n그림:\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
+    },
+    {
+      "id": 4,
+      "question": "[경로: Ephedrine 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)c1ccccc1>>CC(N)C(=O)c1ccccc1|pyruvic acid, transamination]]\n(benzoic acid → (−)-cathinone)\n\n[[rxn:CC(N)C(=O)c1ccccc1>>CC(N)C(O)c1ccccc1|환원]]\n((−)-cathinone → ★)\n\n[[rxn:CC(N)C(O)c1ccccc1>>CNC(C)C(O)c1ccccc1|SAM]]\n(★ → (−)-ephedrine)",
+      "choices": [
+        "L-phenylalanine",
+        "(−)-norephedrine",
+        "(−)-cathinone",
+        "benzoic acid (C6C1)",
+        "L-tryptophan"
+      ],
+      "answer": "(−)-norephedrine",
+      "explanation": "정답: (−)-norephedrine\n전체 경로:\nL-phenylalanine →(cinnamic acid 경유 곁사슬 분해)→ benzoic acid\nbenzoic acid →(pyruvic acid, transamination)→ (−)-cathinone\n(−)-cathinone →(환원)→ (−)-norephedrine\n(−)-norephedrine →(SAM)→ (−)-ephedrine\n그림:\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
+    },
+    {
+      "id": 5,
+      "question": "[경로: Ephedrine 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(N)C(=O)c1ccccc1>>CC(N)C(O)c1ccccc1|환원]]\n((−)-cathinone → (−)-norephedrine)\n\n[[rxn:CC(N)C(O)c1ccccc1>>CNC(C)C(O)c1ccccc1|SAM]]\n((−)-norephedrine → ★)",
+      "choices": [
+        "(−)-ephedrine",
+        "L-phenylalanine",
+        "(−)-norephedrine",
+        "L-tryptophan",
+        "(−)-cathinone"
+      ],
+      "answer": "(−)-ephedrine",
+      "explanation": "정답: (−)-ephedrine\n전체 경로:\nL-phenylalanine →(cinnamic acid 경유 곁사슬 분해)→ benzoic acid\nbenzoic acid →(pyruvic acid, transamination)→ (−)-cathinone\n(−)-cathinone →(환원)→ (−)-norephedrine\n(−)-norephedrine →(SAM)→ (−)-ephedrine\n그림:\n[[img:pharmacognosy/local/alk-p28.png|PPT alk-p28]]"
+    },
+    {
+      "id": 6,
+      "question": "[경로: Benzylisoquinoline 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCc1ccc(O)c(O)c1.O=CCc1ccc(O)cc1>>Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1|Mannich형 반응]]\n(★ → (S)-norcoclaurine)\n\n[[rxn:Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2|SAM (6-O-메틸)]]\n((S)-norcoclaurine → (S)-coclaurine)",
+      "choices": [
+        "(S)-reticuline",
+        "(S)-N-methylcoclaurine",
+        "thebaine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "(S)-norcoclaurine"
+      ],
+      "answer": "dopamine + 4-hydroxyphenylacetaldehyde",
+      "explanation": "정답: dopamine + 4-hydroxyphenylacetaldehyde\n전체 경로:\ndopamine + 4-hydroxyphenylacetaldehyde →(Mannich형 반응)→ (S)-norcoclaurine\n(S)-norcoclaurine →(SAM (6-O-메틸))→ (S)-coclaurine\n(S)-coclaurine →(SAM (N-메틸))→ (S)-N-methylcoclaurine\n(S)-N-methylcoclaurine →(수산화(ascorbate), SAM)→ (S)-reticuline\n참고: (S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / → papaverine\n그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]"
+    },
+    {
+      "id": 7,
+      "question": "[경로: Benzylisoquinoline 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCc1ccc(O)c(O)c1.O=CCc1ccc(O)cc1>>Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1|Mannich형 반응]]\n(dopamine + 4-hydroxyphenylacetaldehyde → ★)\n\n[[rxn:Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2|SAM (6-O-메틸)]]\n(★ → (S)-coclaurine)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2|SAM (N-메틸)]]\n((S)-coclaurine → (S)-N-methylcoclaurine)",
+      "choices": [
+        "(S)-coclaurine",
+        "(S)-N-methylcoclaurine",
+        "strictosidine",
+        "(S)-norcoclaurine",
+        "(S)-reticuline"
+      ],
+      "answer": "(S)-norcoclaurine",
+      "explanation": "정답: (S)-norcoclaurine\n전체 경로:\ndopamine + 4-hydroxyphenylacetaldehyde →(Mannich형 반응)→ (S)-norcoclaurine\n(S)-norcoclaurine →(SAM (6-O-메틸))→ (S)-coclaurine\n(S)-coclaurine →(SAM (N-메틸))→ (S)-N-methylcoclaurine\n(S)-N-methylcoclaurine →(수산화(ascorbate), SAM)→ (S)-reticuline\n참고: (S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / → papaverine\n그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]"
+    },
+    {
+      "id": 8,
+      "question": "[경로: Benzylisoquinoline 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCc1ccc(O)c(O)c1.O=CCc1ccc(O)cc1>>Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1|Mannich형 반응]]\n(dopamine + 4-hydroxyphenylacetaldehyde → (S)-norcoclaurine)\n\n[[rxn:Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2|SAM (6-O-메틸)]]\n((S)-norcoclaurine → ★)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2|SAM (N-메틸)]]\n(★ → (S)-N-methylcoclaurine)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2>>COc1ccc(CC2N(C)CCc3cc(OC)c(O)cc32)cc1O|수산화(ascorbate), SAM]]\n((S)-N-methylcoclaurine → (S)-reticuline)",
+      "choices": [
+        "(S)-norcoclaurine",
+        "(S)-coclaurine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "L-phenylalanine",
+        "(S)-reticuline"
+      ],
+      "answer": "(S)-coclaurine",
+      "explanation": "정답: (S)-coclaurine\n전체 경로:\ndopamine + 4-hydroxyphenylacetaldehyde →(Mannich형 반응)→ (S)-norcoclaurine\n(S)-norcoclaurine →(SAM (6-O-메틸))→ (S)-coclaurine\n(S)-coclaurine →(SAM (N-메틸))→ (S)-N-methylcoclaurine\n(S)-N-methylcoclaurine →(수산화(ascorbate), SAM)→ (S)-reticuline\n참고: (S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / → papaverine\n그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]"
+    },
+    {
+      "id": 9,
+      "question": "[경로: Benzylisoquinoline 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2|SAM (6-O-메틸)]]\n((S)-norcoclaurine → (S)-coclaurine)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2|SAM (N-메틸)]]\n((S)-coclaurine → ★)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2>>COc1ccc(CC2N(C)CCc3cc(OC)c(O)cc32)cc1O|수산화(ascorbate), SAM]]\n(★ → (S)-reticuline)",
+      "choices": [
+        "L-phenylalanine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "(S)-N-methylcoclaurine",
+        "(S)-coclaurine",
+        "(S)-reticuline"
+      ],
+      "answer": "(S)-N-methylcoclaurine",
+      "explanation": "정답: (S)-N-methylcoclaurine\n전체 경로:\ndopamine + 4-hydroxyphenylacetaldehyde →(Mannich형 반응)→ (S)-norcoclaurine\n(S)-norcoclaurine →(SAM (6-O-메틸))→ (S)-coclaurine\n(S)-coclaurine →(SAM (N-메틸))→ (S)-N-methylcoclaurine\n(S)-N-methylcoclaurine →(수산화(ascorbate), SAM)→ (S)-reticuline\n참고: (S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / → papaverine\n그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]"
+    },
+    {
+      "id": 10,
+      "question": "[경로: Benzylisoquinoline 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2>>COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2|SAM (N-메틸)]]\n((S)-coclaurine → (S)-N-methylcoclaurine)\n\n[[rxn:COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2>>COc1ccc(CC2N(C)CCc3cc(OC)c(O)cc32)cc1O|수산화(ascorbate), SAM]]\n((S)-N-methylcoclaurine → ★)",
+      "choices": [
+        "thebaine",
+        "(S)-N-methylcoclaurine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "(S)-reticuline",
+        "(S)-coclaurine"
+      ],
+      "answer": "(S)-reticuline",
+      "explanation": "정답: (S)-reticuline\n전체 경로:\ndopamine + 4-hydroxyphenylacetaldehyde →(Mannich형 반응)→ (S)-norcoclaurine\n(S)-norcoclaurine →(SAM (6-O-메틸))→ (S)-coclaurine\n(S)-coclaurine →(SAM (N-메틸))→ (S)-N-methylcoclaurine\n(S)-N-methylcoclaurine →(수산화(ascorbate), SAM)→ (S)-reticuline\n참고: (S)-reticuline → aporphine, protoberberine, benzophenanthridine / (R)-reticuline → morphinan / → papaverine\n그림:\n[[img:pharmacognosy/local/alk-p31.png|PPT alk-p31]]"
+    },
+    {
+      "id": 11,
+      "question": "[경로: Morphinan 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:COC1=CC=C2C3Cc4ccc(OC)c5OC1C2(CCN3C)c45>>COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35|neopinone → codeinone → 환원]]\n(★ → codeine)\n\n[[rxn:COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35>>CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5|O-탈메틸]]\n(codeine → morphine)",
+      "choices": [
+        "(−)-norephedrine",
+        "morphine",
+        "codeine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "thebaine"
+      ],
+      "answer": "thebaine",
+      "explanation": "정답: thebaine\n전체 경로:\nthebaine →(neopinone → codeinone → 환원)→ codeine\ncodeine →(O-탈메틸)→ morphine\n참고: (R)-reticuline → salutaridine → salutaridinol → thebaine\n그림:\n[[img:pharmacognosy/local/alk-p39.png|PPT alk-p39]]"
+    },
+    {
+      "id": 12,
+      "question": "[경로: Morphinan 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:COC1=CC=C2C3Cc4ccc(OC)c5OC1C2(CCN3C)c45>>COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35|neopinone → codeinone → 환원]]\n(thebaine → ★)\n\n[[rxn:COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35>>CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5|O-탈메틸]]\n(★ → morphine)",
+      "choices": [
+        "morphine",
+        "codeine",
+        "L-phenylalanine",
+        "thebaine",
+        "L-tryptophan"
+      ],
+      "answer": "codeine",
+      "explanation": "정답: codeine\n전체 경로:\nthebaine →(neopinone → codeinone → 환원)→ codeine\ncodeine →(O-탈메틸)→ morphine\n참고: (R)-reticuline → salutaridine → salutaridinol → thebaine\n그림:\n[[img:pharmacognosy/local/alk-p39.png|PPT alk-p39]]"
+    },
+    {
+      "id": 13,
+      "question": "[경로: Morphinan 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:COC1=CC=C2C3Cc4ccc(OC)c5OC1C2(CCN3C)c45>>COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35|neopinone → codeinone → 환원]]\n(thebaine → codeine)\n\n[[rxn:COc1ccc2CC3N(C)CCC45C(Oc1c24)C(O)C=CC35>>CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5|O-탈메틸]]\n(codeine → ★)",
+      "choices": [
+        "L-phenylalanine",
+        "(S)-coclaurine",
+        "codeine",
+        "morphine",
+        "thebaine"
+      ],
+      "answer": "morphine",
+      "explanation": "정답: morphine\n전체 경로:\nthebaine →(neopinone → codeinone → 환원)→ codeine\ncodeine →(O-탈메틸)→ morphine\n참고: (R)-reticuline → salutaridine → salutaridinol → thebaine\n그림:\n[[img:pharmacognosy/local/alk-p39.png|PPT alk-p39]]"
+    },
+    {
+      "id": 14,
+      "question": "[경로: Tryptophan → indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1c[nH]c2ccccc12)C(=O)O>>NCCc1c[nH]c2ccccc12|TDC (−CO₂)]]\n(★ → tryptamine)\n\n[[rxn:NCCc1c[nH]c2ccccc12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|secologanin, strictosidine synthase]]\n(tryptamine → strictosidine)",
+      "choices": [
+        "tryptamine",
+        "quinine",
+        "dopamine + 4-hydroxyphenylacetaldehyde",
+        "L-tryptophan",
+        "strictosidine"
+      ],
+      "answer": "L-tryptophan",
+      "explanation": "정답: L-tryptophan\n전체 경로:\nL-tryptophan →(TDC (−CO₂))→ tryptamine\ntryptamine →(secologanin, strictosidine synthase)→ strictosidine\nstrictosidine →(corynantheal → cinchoninone (indole 재배열))→ quinine\n참고: strictosidine → vindoline + catharanthine → vinblastine / → camptothecin\n그림:\n[[img:pharmacognosy/local/alk-p47.png|PPT alk-p47]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]"
+    },
+    {
+      "id": 15,
+      "question": "[경로: Tryptophan → indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1c[nH]c2ccccc12)C(=O)O>>NCCc1c[nH]c2ccccc12|TDC (−CO₂)]]\n(L-tryptophan → ★)\n\n[[rxn:NCCc1c[nH]c2ccccc12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|secologanin, strictosidine synthase]]\n(★ → strictosidine)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21>>COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1|corynantheal → cinchoninone (indole 재배열)]]\n(strictosidine → quinine)",
+      "choices": [
+        "quinine",
+        "L-tryptophan",
+        "(−)-ephedrine",
+        "tryptamine",
+        "strictosidine"
+      ],
+      "answer": "tryptamine",
+      "explanation": "정답: tryptamine\n전체 경로:\nL-tryptophan →(TDC (−CO₂))→ tryptamine\ntryptamine →(secologanin, strictosidine synthase)→ strictosidine\nstrictosidine →(corynantheal → cinchoninone (indole 재배열))→ quinine\n참고: strictosidine → vindoline + catharanthine → vinblastine / → camptothecin\n그림:\n[[img:pharmacognosy/local/alk-p47.png|PPT alk-p47]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]"
+    },
+    {
+      "id": 16,
+      "question": "[경로: Tryptophan → indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NC(Cc1c[nH]c2ccccc12)C(=O)O>>NCCc1c[nH]c2ccccc12|TDC (−CO₂)]]\n(L-tryptophan → tryptamine)\n\n[[rxn:NCCc1c[nH]c2ccccc12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|secologanin, strictosidine synthase]]\n(tryptamine → ★)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21>>COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1|corynantheal → cinchoninone (indole 재배열)]]\n(★ → quinine)",
+      "choices": [
+        "L-tryptophan",
+        "strictosidine",
+        "tryptamine",
+        "quinine",
+        "morphine"
+      ],
+      "answer": "strictosidine",
+      "explanation": "정답: strictosidine\n전체 경로:\nL-tryptophan →(TDC (−CO₂))→ tryptamine\ntryptamine →(secologanin, strictosidine synthase)→ strictosidine\nstrictosidine →(corynantheal → cinchoninone (indole 재배열))→ quinine\n참고: strictosidine → vindoline + catharanthine → vinblastine / → camptothecin\n그림:\n[[img:pharmacognosy/local/alk-p47.png|PPT alk-p47]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]"
+    },
+    {
+      "id": 17,
+      "question": "[경로: Tryptophan → indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:NCCc1c[nH]c2ccccc12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|secologanin, strictosidine synthase]]\n(tryptamine → strictosidine)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21>>COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1|corynantheal → cinchoninone (indole 재배열)]]\n(strictosidine → ★)",
+      "choices": [
+        "L-phenylalanine",
+        "L-tryptophan",
+        "quinine",
+        "tryptamine",
+        "strictosidine"
+      ],
+      "answer": "quinine",
+      "explanation": "정답: quinine\n전체 경로:\nL-tryptophan →(TDC (−CO₂))→ tryptamine\ntryptamine →(secologanin, strictosidine synthase)→ strictosidine\nstrictosidine →(corynantheal → cinchoninone (indole 재배열))→ quinine\n참고: strictosidine → vindoline + catharanthine → vinblastine / → camptothecin\n그림:\n[[img:pharmacognosy/local/alk-p47.png|PPT alk-p47]]\n[[img:pharmacognosy/local/alk-p56.png|PPT alk-p56]]"
+    }
+  ]
+}

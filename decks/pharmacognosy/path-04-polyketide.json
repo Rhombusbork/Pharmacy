@@ -1,0 +1,176 @@
+{
+  "deckId": "pharmacognosy-path-04-polyketide",
+  "subject": "생약학",
+  "title": "경로 집중 4 · Polyketide·cannabinoid·urushiol 경로",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로: Polyketide(acetate-malonate) 경로]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>OC(=O)CC(=O)SC|CO₂, acetyl-CoA carboxylase]]\n(★ → malonyl-CoA)\n\n[[rxn:OC(=O)CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen, −CO₂]]\n(malonyl-CoA → acetoacetyl-CoA)",
+      "choices": [
+        "acetyl-CoA",
+        "urushiol",
+        "poly-β-keto ester (tetraketide)",
+        "acetoacetyl-CoA",
+        "orsellinic acid"
+      ],
+      "answer": "acetyl-CoA",
+      "explanation": "정답: acetyl-CoA\n전체 경로:\nacetyl-CoA →(CO₂, acetyl-CoA carboxylase)→ malonyl-CoA\nmalonyl-CoA →(acetyl-CoA, Claisen, −CO₂)→ acetoacetyl-CoA\nacetoacetyl-CoA →(malonyl-CoA × 2)→ poly-β-keto ester\npoly-β-keto ester →(aldol 고리화, 방향족화)→ orsellinic acid\n참고: 같은 tetraketide가 Claisen 고리화되면 phloracetophenone(CC(=O)c1c(O)cc(O)cc1O).\n그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
+    },
+    {
+      "id": 2,
+      "question": "[경로: Polyketide(acetate-malonate) 경로]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>OC(=O)CC(=O)SC|CO₂, acetyl-CoA carboxylase]]\n(acetyl-CoA → ★)\n\n[[rxn:OC(=O)CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen, −CO₂]]\n(★ → acetoacetyl-CoA)\n\n[[rxn:CC(=O)CC(=O)SC>>CC(=O)CC(=O)CC(=O)CC(=O)SC|malonyl-CoA × 2]]\n(acetoacetyl-CoA → poly-β-keto ester)",
+      "choices": [
+        "malonyl-CoA",
+        "orsellinic acid",
+        "acetoacetyl-CoA",
+        "poly-β-keto ester (tetraketide)",
+        "acetyl-CoA"
+      ],
+      "answer": "malonyl-CoA",
+      "explanation": "정답: malonyl-CoA\n전체 경로:\nacetyl-CoA →(CO₂, acetyl-CoA carboxylase)→ malonyl-CoA\nmalonyl-CoA →(acetyl-CoA, Claisen, −CO₂)→ acetoacetyl-CoA\nacetoacetyl-CoA →(malonyl-CoA × 2)→ poly-β-keto ester\npoly-β-keto ester →(aldol 고리화, 방향족화)→ orsellinic acid\n참고: 같은 tetraketide가 Claisen 고리화되면 phloracetophenone(CC(=O)c1c(O)cc(O)cc1O).\n그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
+    },
+    {
+      "id": 3,
+      "question": "[경로: Polyketide(acetate-malonate) 경로]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>OC(=O)CC(=O)SC|CO₂, acetyl-CoA carboxylase]]\n(acetyl-CoA → malonyl-CoA)\n\n[[rxn:OC(=O)CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen, −CO₂]]\n(malonyl-CoA → ★)\n\n[[rxn:CC(=O)CC(=O)SC>>CC(=O)CC(=O)CC(=O)CC(=O)SC|malonyl-CoA × 2]]\n(★ → poly-β-keto ester)\n\n[[rxn:CC(=O)CC(=O)CC(=O)CC(=O)SC>>Cc1cc(O)cc(O)c1C(=O)O|aldol 고리화, 방향족화]]\n(poly-β-keto ester → orsellinic acid)",
+      "choices": [
+        "acetyl-CoA",
+        "orsellinic acid",
+        "cannabigerolic acid (CBGA)",
+        "poly-β-keto ester (tetraketide)",
+        "acetoacetyl-CoA"
+      ],
+      "answer": "acetoacetyl-CoA",
+      "explanation": "정답: acetoacetyl-CoA\n전체 경로:\nacetyl-CoA →(CO₂, acetyl-CoA carboxylase)→ malonyl-CoA\nmalonyl-CoA →(acetyl-CoA, Claisen, −CO₂)→ acetoacetyl-CoA\nacetoacetyl-CoA →(malonyl-CoA × 2)→ poly-β-keto ester\npoly-β-keto ester →(aldol 고리화, 방향족화)→ orsellinic acid\n참고: 같은 tetraketide가 Claisen 고리화되면 phloracetophenone(CC(=O)c1c(O)cc(O)cc1O).\n그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
+    },
+    {
+      "id": 4,
+      "question": "[경로: Polyketide(acetate-malonate) 경로]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen, −CO₂]]\n(malonyl-CoA → acetoacetyl-CoA)\n\n[[rxn:CC(=O)CC(=O)SC>>CC(=O)CC(=O)CC(=O)CC(=O)SC|malonyl-CoA × 2]]\n(acetoacetyl-CoA → ★)\n\n[[rxn:CC(=O)CC(=O)CC(=O)CC(=O)SC>>Cc1cc(O)cc(O)c1C(=O)O|aldol 고리화, 방향족화]]\n(★ → orsellinic acid)",
+      "choices": [
+        "poly-β-keto ester (tetraketide)",
+        "malonyl-CoA",
+        "orsellinic acid",
+        "acetyl-CoA",
+        "acetoacetyl-CoA"
+      ],
+      "answer": "poly-β-keto ester (tetraketide)",
+      "explanation": "정답: poly-β-keto ester (tetraketide)\n전체 경로:\nacetyl-CoA →(CO₂, acetyl-CoA carboxylase)→ malonyl-CoA\nmalonyl-CoA →(acetyl-CoA, Claisen, −CO₂)→ acetoacetyl-CoA\nacetoacetyl-CoA →(malonyl-CoA × 2)→ poly-β-keto ester\npoly-β-keto ester →(aldol 고리화, 방향족화)→ orsellinic acid\n참고: 같은 tetraketide가 Claisen 고리화되면 phloracetophenone(CC(=O)c1c(O)cc(O)cc1O).\n그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
+    },
+    {
+      "id": 5,
+      "question": "[경로: Polyketide(acetate-malonate) 경로]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)CC(=O)SC>>CC(=O)CC(=O)CC(=O)CC(=O)SC|malonyl-CoA × 2]]\n(acetoacetyl-CoA → poly-β-keto ester)\n\n[[rxn:CC(=O)CC(=O)CC(=O)CC(=O)SC>>Cc1cc(O)cc(O)c1C(=O)O|aldol 고리화, 방향족화]]\n(poly-β-keto ester → ★)",
+      "choices": [
+        "orsellinic acid",
+        "acetyl-CoA",
+        "malonyl-CoA",
+        "palmitoleyl-CoA",
+        "acetoacetyl-CoA"
+      ],
+      "answer": "orsellinic acid",
+      "explanation": "정답: orsellinic acid\n전체 경로:\nacetyl-CoA →(CO₂, acetyl-CoA carboxylase)→ malonyl-CoA\nmalonyl-CoA →(acetyl-CoA, Claisen, −CO₂)→ acetoacetyl-CoA\nacetoacetyl-CoA →(malonyl-CoA × 2)→ poly-β-keto ester\npoly-β-keto ester →(aldol 고리화, 방향족화)→ orsellinic acid\n참고: 같은 tetraketide가 Claisen 고리화되면 phloracetophenone(CC(=O)c1c(O)cc(O)cc1O).\n그림:\n[[img:pharmacognosy/local/pk-p04.png|PPT pk-p04]]\n[[img:pharmacognosy/local/pk-p05.png|PPT pk-p05]]"
+    },
+    {
+      "id": 6,
+      "question": "[경로: Cannabinoid 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC(=O)SC>>CCCCCc1cc(O)cc(O)c1C(=O)O|malonyl-CoA × 3, aldol]]\n(★ → olivetolic acid)\n\n[[rxn:CCCCCc1cc(O)cc(O)c1C(=O)O>>CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O|GPP, C-alkylation]]\n(olivetolic acid → cannabigerolic acid)",
+      "choices": [
+        "hexanoyl-CoA",
+        "urushiol",
+        "cannabinol (CBN)",
+        "cannabigerolic acid (CBGA)",
+        "olivetolic acid (pentylresorcylic acid)"
+      ],
+      "answer": "hexanoyl-CoA",
+      "explanation": "정답: hexanoyl-CoA\n전체 경로:\nhexanoyl-CoA →(malonyl-CoA × 3, aldol)→ olivetolic acid\nolivetolic acid →(GPP, C-alkylation)→ cannabigerolic acid\ncannabigerolic acid →(고리화, −CO₂)→ tetrahydrocannabinol\ntetrahydrocannabinol →(산화(방향족화))→ cannabinol\n그림:\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
+    },
+    {
+      "id": 7,
+      "question": "[경로: Cannabinoid 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC(=O)SC>>CCCCCc1cc(O)cc(O)c1C(=O)O|malonyl-CoA × 3, aldol]]\n(hexanoyl-CoA → ★)\n\n[[rxn:CCCCCc1cc(O)cc(O)c1C(=O)O>>CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O|GPP, C-alkylation]]\n(★ → cannabigerolic acid)\n\n[[rxn:CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O>>CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21|고리화, −CO₂]]\n(cannabigerolic acid → tetrahydrocannabinol)",
+      "choices": [
+        "acetoacetyl-CoA",
+        "olivetolic acid (pentylresorcylic acid)",
+        "cannabinol (CBN)",
+        "hexanoyl-CoA",
+        "tetrahydrocannabinol (THC)"
+      ],
+      "answer": "olivetolic acid (pentylresorcylic acid)",
+      "explanation": "정답: olivetolic acid (pentylresorcylic acid)\n전체 경로:\nhexanoyl-CoA →(malonyl-CoA × 3, aldol)→ olivetolic acid\nolivetolic acid →(GPP, C-alkylation)→ cannabigerolic acid\ncannabigerolic acid →(고리화, −CO₂)→ tetrahydrocannabinol\ntetrahydrocannabinol →(산화(방향족화))→ cannabinol\n그림:\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
+    },
+    {
+      "id": 8,
+      "question": "[경로: Cannabinoid 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC(=O)SC>>CCCCCc1cc(O)cc(O)c1C(=O)O|malonyl-CoA × 3, aldol]]\n(hexanoyl-CoA → olivetolic acid)\n\n[[rxn:CCCCCc1cc(O)cc(O)c1C(=O)O>>CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O|GPP, C-alkylation]]\n(olivetolic acid → ★)\n\n[[rxn:CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O>>CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21|고리화, −CO₂]]\n(★ → tetrahydrocannabinol)\n\n[[rxn:CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21>>CCCCCc1cc(O)c2c(c1)OC(C)(C)c1ccc(C)cc1-2|산화(방향족화)]]\n(tetrahydrocannabinol → cannabinol)",
+      "choices": [
+        "cannabinol (CBN)",
+        "hexanoyl-CoA",
+        "cannabigerolic acid (CBGA)",
+        "urushiol",
+        "tetrahydrocannabinol (THC)"
+      ],
+      "answer": "cannabigerolic acid (CBGA)",
+      "explanation": "정답: cannabigerolic acid (CBGA)\n전체 경로:\nhexanoyl-CoA →(malonyl-CoA × 3, aldol)→ olivetolic acid\nolivetolic acid →(GPP, C-alkylation)→ cannabigerolic acid\ncannabigerolic acid →(고리화, −CO₂)→ tetrahydrocannabinol\ntetrahydrocannabinol →(산화(방향족화))→ cannabinol\n그림:\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
+    },
+    {
+      "id": 9,
+      "question": "[경로: Cannabinoid 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCc1cc(O)cc(O)c1C(=O)O>>CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O|GPP, C-alkylation]]\n(olivetolic acid → cannabigerolic acid)\n\n[[rxn:CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O>>CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21|고리화, −CO₂]]\n(cannabigerolic acid → ★)\n\n[[rxn:CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21>>CCCCCc1cc(O)c2c(c1)OC(C)(C)c1ccc(C)cc1-2|산화(방향족화)]]\n(★ → cannabinol)",
+      "choices": [
+        "cannabigerolic acid (CBGA)",
+        "tetrahydrocannabinol (THC)",
+        "hexanoyl-CoA",
+        "urushiol",
+        "cannabinol (CBN)"
+      ],
+      "answer": "tetrahydrocannabinol (THC)",
+      "explanation": "정답: tetrahydrocannabinol (THC)\n전체 경로:\nhexanoyl-CoA →(malonyl-CoA × 3, aldol)→ olivetolic acid\nolivetolic acid →(GPP, C-alkylation)→ cannabigerolic acid\ncannabigerolic acid →(고리화, −CO₂)→ tetrahydrocannabinol\ntetrahydrocannabinol →(산화(방향족화))→ cannabinol\n그림:\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
+    },
+    {
+      "id": 10,
+      "question": "[경로: Cannabinoid 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O>>CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21|고리화, −CO₂]]\n(cannabigerolic acid → tetrahydrocannabinol)\n\n[[rxn:CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21>>CCCCCc1cc(O)c2c(c1)OC(C)(C)c1ccc(C)cc1-2|산화(방향족화)]]\n(tetrahydrocannabinol → ★)",
+      "choices": [
+        "tetrahydrocannabinol (THC)",
+        "cannabigerolic acid (CBGA)",
+        "hexanoyl-CoA",
+        "cannabinol (CBN)",
+        "poly-β-keto ester (tetraketide)"
+      ],
+      "answer": "cannabinol (CBN)",
+      "explanation": "정답: cannabinol (CBN)\n전체 경로:\nhexanoyl-CoA →(malonyl-CoA × 3, aldol)→ olivetolic acid\nolivetolic acid →(GPP, C-alkylation)→ cannabigerolic acid\ncannabigerolic acid →(고리화, −CO₂)→ tetrahydrocannabinol\ntetrahydrocannabinol →(산화(방향족화))→ cannabinol\n그림:\n[[img:pharmacognosy/local/pk-p31.png|PPT pk-p31]]"
+    },
+    {
+      "id": 11,
+      "question": "[경로: Urushiol 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC/C=C\\CCCCCCCC(=O)SC>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O|malonyl-CoA × 3, aldol, 환원]]\n(★ → anacardic acid)\n\n[[rxn:CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1O|−CO₂, 수산화]]\n(anacardic acid → urushiol)",
+      "choices": [
+        "palmitoleyl-CoA",
+        "acetyl-CoA",
+        "poly-β-keto ester (tetraketide)",
+        "anacardic acid",
+        "urushiol"
+      ],
+      "answer": "palmitoleyl-CoA",
+      "explanation": "정답: palmitoleyl-CoA\n전체 경로:\npalmitoleyl-CoA →(malonyl-CoA × 3, aldol, 환원)→ anacardic acid\nanacardic acid →(−CO₂, 수산화)→ urushiol\n그림:\n[[img:pharmacognosy/local/pk-p32.png|PPT pk-p32]]"
+    },
+    {
+      "id": 12,
+      "question": "[경로: Urushiol 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC/C=C\\CCCCCCCC(=O)SC>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O|malonyl-CoA × 3, aldol, 환원]]\n(palmitoleyl-CoA → ★)\n\n[[rxn:CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1O|−CO₂, 수산화]]\n(★ → urushiol)",
+      "choices": [
+        "acetyl-CoA",
+        "anacardic acid",
+        "palmitoleyl-CoA",
+        "cannabigerolic acid (CBGA)",
+        "urushiol"
+      ],
+      "answer": "anacardic acid",
+      "explanation": "정답: anacardic acid\n전체 경로:\npalmitoleyl-CoA →(malonyl-CoA × 3, aldol, 환원)→ anacardic acid\nanacardic acid →(−CO₂, 수산화)→ urushiol\n그림:\n[[img:pharmacognosy/local/pk-p32.png|PPT pk-p32]]"
+    },
+    {
+      "id": 13,
+      "question": "[경로: Urushiol 생합성]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CCCCCC/C=C\\CCCCCCCC(=O)SC>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O|malonyl-CoA × 3, aldol, 환원]]\n(palmitoleyl-CoA → anacardic acid)\n\n[[rxn:CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1C(=O)O>>CCCCCC/C=C\\CCCCCCCCc1cccc(O)c1O|−CO₂, 수산화]]\n(anacardic acid → ★)",
+      "choices": [
+        "palmitoleyl-CoA",
+        "urushiol",
+        "anacardic acid",
+        "tetrahydrocannabinol (THC)",
+        "orsellinic acid"
+      ],
+      "answer": "urushiol",
+      "explanation": "정답: urushiol\n전체 경로:\npalmitoleyl-CoA →(malonyl-CoA × 3, aldol, 환원)→ anacardic acid\nanacardic acid →(−CO₂, 수산화)→ urushiol\n그림:\n[[img:pharmacognosy/local/pk-p32.png|PPT pk-p32]]"
+    }
+  ]
+}

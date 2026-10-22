@@ -85,6 +85,13 @@
     "pharmacognosy/ch6-alkaloid-set4.json",
     "pharmacognosy/ch6-alkaloid-set5.json",
     "pharmacognosy/ch6-alkaloid-set6.json",
-    "pharmacognosy/ch6-alkaloid-set7.json"
+    "pharmacognosy/ch6-alkaloid-set7.json",
+    "pharmacognosy/path-01-isoprenoid.json",
+    "pharmacognosy/path-02-shikimate.json",
+    "pharmacognosy/path-03-phenylprop.json",
+    "pharmacognosy/path-04-polyketide.json",
+    "pharmacognosy/path-05-flavonoid.json",
+    "pharmacognosy/path-06-alk-orn-lys.json",
+    "pharmacognosy/path-07-alk-phe-trp.json"
   ]
 }

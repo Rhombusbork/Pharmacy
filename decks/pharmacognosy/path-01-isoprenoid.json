@@ -1,0 +1,332 @@
+{
+  "deckId": "pharmacognosy-path-01-isoprenoid",
+  "subject": "생약학",
+  "title": "경로 집중 1 · Isoprenoid 경로 (MVA·MEP·사슬·sterol·iridoid)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen]]\n(★ → acetoacetyl-CoA)\n\n[[rxn:CC(=O)CC(=O)SC>>OC(=O)CC(C)(O)CC(=O)SC|acetyl-CoA, aldol]]\n(acetoacetyl-CoA → HMG-CoA)",
+      "choices": [
+        "HMG-CoA",
+        "strictosidine",
+        "mevalonic acid (MVA)",
+        "acetyl-CoA",
+        "mevaldic acid"
+      ],
+      "answer": "acetyl-CoA",
+      "explanation": "정답: acetyl-CoA\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 2,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen]]\n(acetyl-CoA → ★)\n\n[[rxn:CC(=O)CC(=O)SC>>OC(=O)CC(C)(O)CC(=O)SC|acetyl-CoA, aldol]]\n(★ → HMG-CoA)\n\n[[rxn:OC(=O)CC(C)(O)CC(=O)SC>>OC(=O)CC(C)(O)CC=O|HMG-CoA reductase, NADPH]]\n(HMG-CoA → mevaldic acid)",
+      "choices": [
+        "acetyl-CoA",
+        "acetoacetyl-CoA",
+        "geraniol",
+        "mevaldic acid",
+        "mevalonic acid 5-diphosphate"
+      ],
+      "answer": "acetoacetyl-CoA",
+      "explanation": "정답: acetoacetyl-CoA\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 3,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)SC>>CC(=O)CC(=O)SC|acetyl-CoA, Claisen]]\n(acetyl-CoA → acetoacetyl-CoA)\n\n[[rxn:CC(=O)CC(=O)SC>>OC(=O)CC(C)(O)CC(=O)SC|acetyl-CoA, aldol]]\n(acetoacetyl-CoA → ★)\n\n[[rxn:OC(=O)CC(C)(O)CC(=O)SC>>OC(=O)CC(C)(O)CC=O|HMG-CoA reductase, NADPH]]\n(★ → mevaldic acid)\n\n[[rxn:OC(=O)CC(C)(O)CC=O>>OC(=O)CC(C)(O)CCO|NADPH]]\n(mevaldic acid → mevalonic acid)",
+      "choices": [
+        "acetyl-CoA",
+        "acetoacetyl-CoA",
+        "mevalonic acid (MVA)",
+        "IPP (isopentenyl PP)",
+        "HMG-CoA"
+      ],
+      "answer": "HMG-CoA",
+      "explanation": "정답: HMG-CoA\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 4,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)CC(=O)SC>>OC(=O)CC(C)(O)CC(=O)SC|acetyl-CoA, aldol]]\n(acetoacetyl-CoA → HMG-CoA)\n\n[[rxn:OC(=O)CC(C)(O)CC(=O)SC>>OC(=O)CC(C)(O)CC=O|HMG-CoA reductase, NADPH]]\n(HMG-CoA → ★)\n\n[[rxn:OC(=O)CC(C)(O)CC=O>>OC(=O)CC(C)(O)CCO|NADPH]]\n(★ → mevalonic acid)\n\n[[rxn:OC(=O)CC(C)(O)CCO>>OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O|2 × ATP]]\n(mevalonic acid → mevalonic acid 5-diphosphate)",
+      "choices": [
+        "IPP (isopentenyl PP)",
+        "mevalonic acid 5-diphosphate",
+        "acetoacetyl-CoA",
+        "HMG-CoA",
+        "mevaldic acid"
+      ],
+      "answer": "mevaldic acid",
+      "explanation": "정답: mevaldic acid\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 5,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)CC(C)(O)CC(=O)SC>>OC(=O)CC(C)(O)CC=O|HMG-CoA reductase, NADPH]]\n(HMG-CoA → mevaldic acid)\n\n[[rxn:OC(=O)CC(C)(O)CC=O>>OC(=O)CC(C)(O)CCO|NADPH]]\n(mevaldic acid → ★)\n\n[[rxn:OC(=O)CC(C)(O)CCO>>OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O|2 × ATP]]\n(★ → mevalonic acid 5-diphosphate)\n\n[[rxn:OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O|ATP, −CO₂]]\n(mevalonic acid 5-diphosphate → IPP)",
+      "choices": [
+        "mevalonic acid (MVA)",
+        "acetyl-CoA",
+        "acetoacetyl-CoA",
+        "mevalonic acid 5-diphosphate",
+        "DMAPP"
+      ],
+      "answer": "mevalonic acid (MVA)",
+      "explanation": "정답: mevalonic acid (MVA)\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 6,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)CC(C)(O)CC=O>>OC(=O)CC(C)(O)CCO|NADPH]]\n(mevaldic acid → mevalonic acid)\n\n[[rxn:OC(=O)CC(C)(O)CCO>>OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O|2 × ATP]]\n(mevalonic acid → ★)\n\n[[rxn:OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O|ATP, −CO₂]]\n(★ → IPP)\n\n[[rxn:C=C(C)CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCOP(=O)(O)OP(=O)(O)O|isomerase]]\n(IPP → DMAPP)",
+      "choices": [
+        "DMAPP (dimethylallyl PP)",
+        "mevalonic acid 5-diphosphate",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "HMG-CoA",
+        "mevalonic acid (MVA)"
+      ],
+      "answer": "mevalonic acid 5-diphosphate",
+      "explanation": "정답: mevalonic acid 5-diphosphate\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 7,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)CC(C)(O)CCO>>OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O|2 × ATP]]\n(mevalonic acid → mevalonic acid 5-diphosphate)\n\n[[rxn:OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O|ATP, −CO₂]]\n(mevalonic acid 5-diphosphate → ★)\n\n[[rxn:C=C(C)CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCOP(=O)(O)OP(=O)(O)O|isomerase]]\n(★ → DMAPP)",
+      "choices": [
+        "IPP (isopentenyl PP)",
+        "acetyl-CoA",
+        "loganin",
+        "mevalonic acid 5-diphosphate",
+        "mevalonic acid (MVA)"
+      ],
+      "answer": "IPP (isopentenyl PP)",
+      "explanation": "정답: IPP (isopentenyl PP)\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 8,
+      "question": "[경로: Mevalonate(MVA) 경로 — 세포질]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:OC(=O)CC(C)(O)CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O|ATP, −CO₂]]\n(mevalonic acid 5-diphosphate → IPP)\n\n[[rxn:C=C(C)CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCOP(=O)(O)OP(=O)(O)O|isomerase]]\n(IPP → ★)",
+      "choices": [
+        "DMAPP (dimethylallyl PP)",
+        "IPP (isopentenyl PP)",
+        "HMG-CoA",
+        "mevaldic acid",
+        "loganin"
+      ],
+      "answer": "DMAPP (dimethylallyl PP)",
+      "explanation": "정답: DMAPP (dimethylallyl PP)\n전체 경로:\nacetyl-CoA →(acetyl-CoA, Claisen)→ acetoacetyl-CoA\nacetoacetyl-CoA →(acetyl-CoA, aldol)→ HMG-CoA\nHMG-CoA →(HMG-CoA reductase, NADPH)→ mevaldic acid\nmevaldic acid →(NADPH)→ mevalonic acid\nmevalonic acid →(2 × ATP)→ mevalonic acid 5-diphosphate\nmevalonic acid 5-diphosphate →(ATP, −CO₂)→ IPP\nIPP →(isomerase)→ DMAPP\n참고: CoA는 –SCH₃로 줄여 그렸다.\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]\n[[img:pharmacognosy/local/iso-p14.png|PPT iso-p14]]"
+    },
+    {
+      "id": 9,
+      "question": "[경로: MEP 경로 — 색소체(plastid)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)C(=O)O.O=CC(O)COP(=O)(O)O>>CC(=O)C(O)C(O)COP(=O)(O)O|−CO₂]]\n(★ → DXP)\n\n[[rxn:CC(=O)C(O)C(O)COP(=O)(O)O>>CC(O)(CO)C(O)COP(=O)(O)O|NADPH]]\n(DXP → MEP)",
+      "choices": [
+        "MEP (2-methyl-D-erythritol 4-phosphate)",
+        "HMBPP",
+        "HMG-CoA",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "pyruvate + glyceraldehyde 3-phosphate"
+      ],
+      "answer": "pyruvate + glyceraldehyde 3-phosphate",
+      "explanation": "정답: pyruvate + glyceraldehyde 3-phosphate\n전체 경로:\npyruvate + glyceraldehyde 3-phosphate →(−CO₂)→ DXP\nDXP →(NADPH)→ MEP\nMEP →(여러 단계)→ HMBPP\nHMBPP →(환원)→ IPP + DMAPP\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]"
+    },
+    {
+      "id": 10,
+      "question": "[경로: MEP 경로 — 색소체(plastid)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)C(=O)O.O=CC(O)COP(=O)(O)O>>CC(=O)C(O)C(O)COP(=O)(O)O|−CO₂]]\n(pyruvate + glyceraldehyde 3-phosphate → ★)\n\n[[rxn:CC(=O)C(O)C(O)COP(=O)(O)O>>CC(O)(CO)C(O)COP(=O)(O)O|NADPH]]\n(★ → MEP)\n\n[[rxn:CC(O)(CO)C(O)COP(=O)(O)O>>OCC(C)=CCOP(=O)(O)OP(=O)(O)O|여러 단계]]\n(MEP → HMBPP)",
+      "choices": [
+        "MEP (2-methyl-D-erythritol 4-phosphate)",
+        "IPP + DMAPP",
+        "DMAPP",
+        "HMBPP",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)"
+      ],
+      "answer": "DXP (1-deoxy-D-xylulose 5-phosphate)",
+      "explanation": "정답: DXP (1-deoxy-D-xylulose 5-phosphate)\n전체 경로:\npyruvate + glyceraldehyde 3-phosphate →(−CO₂)→ DXP\nDXP →(NADPH)→ MEP\nMEP →(여러 단계)→ HMBPP\nHMBPP →(환원)→ IPP + DMAPP\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]"
+    },
+    {
+      "id": 11,
+      "question": "[경로: MEP 경로 — 색소체(plastid)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)C(=O)O.O=CC(O)COP(=O)(O)O>>CC(=O)C(O)C(O)COP(=O)(O)O|−CO₂]]\n(pyruvate + glyceraldehyde 3-phosphate → DXP)\n\n[[rxn:CC(=O)C(O)C(O)COP(=O)(O)O>>CC(O)(CO)C(O)COP(=O)(O)O|NADPH]]\n(DXP → ★)\n\n[[rxn:CC(O)(CO)C(O)COP(=O)(O)O>>OCC(C)=CCOP(=O)(O)OP(=O)(O)O|여러 단계]]\n(★ → HMBPP)\n\n[[rxn:OCC(C)=CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O.CC(C)=CCOP(=O)(O)OP(=O)(O)O|환원]]\n(HMBPP → IPP + DMAPP)",
+      "choices": [
+        "IPP + DMAPP",
+        "MEP (2-methyl-D-erythritol 4-phosphate)",
+        "pyruvate + glyceraldehyde 3-phosphate",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "2,3-oxidosqualene"
+      ],
+      "answer": "MEP (2-methyl-D-erythritol 4-phosphate)",
+      "explanation": "정답: MEP (2-methyl-D-erythritol 4-phosphate)\n전체 경로:\npyruvate + glyceraldehyde 3-phosphate →(−CO₂)→ DXP\nDXP →(NADPH)→ MEP\nMEP →(여러 단계)→ HMBPP\nHMBPP →(환원)→ IPP + DMAPP\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]"
+    },
+    {
+      "id": 12,
+      "question": "[경로: MEP 경로 — 색소체(plastid)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(=O)C(O)C(O)COP(=O)(O)O>>CC(O)(CO)C(O)COP(=O)(O)O|NADPH]]\n(DXP → MEP)\n\n[[rxn:CC(O)(CO)C(O)COP(=O)(O)O>>OCC(C)=CCOP(=O)(O)OP(=O)(O)O|여러 단계]]\n(MEP → ★)\n\n[[rxn:OCC(C)=CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O.CC(C)=CCOP(=O)(O)OP(=O)(O)O|환원]]\n(★ → IPP + DMAPP)",
+      "choices": [
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "IPP + DMAPP",
+        "MEP (2-methyl-D-erythritol 4-phosphate)",
+        "HMBPP",
+        "secologanin"
+      ],
+      "answer": "HMBPP",
+      "explanation": "정답: HMBPP\n전체 경로:\npyruvate + glyceraldehyde 3-phosphate →(−CO₂)→ DXP\nDXP →(NADPH)→ MEP\nMEP →(여러 단계)→ HMBPP\nHMBPP →(환원)→ IPP + DMAPP\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]"
+    },
+    {
+      "id": 13,
+      "question": "[경로: MEP 경로 — 색소체(plastid)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(O)(CO)C(O)COP(=O)(O)O>>OCC(C)=CCOP(=O)(O)OP(=O)(O)O|여러 단계]]\n(MEP → HMBPP)\n\n[[rxn:OCC(C)=CCOP(=O)(O)OP(=O)(O)O>>C=C(C)CCOP(=O)(O)OP(=O)(O)O.CC(C)=CCOP(=O)(O)OP(=O)(O)O|환원]]\n(HMBPP → ★)",
+      "choices": [
+        "MEP (2-methyl-D-erythritol 4-phosphate)",
+        "IPP + DMAPP",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "acetoacetyl-CoA",
+        "pyruvate + glyceraldehyde 3-phosphate"
+      ],
+      "answer": "IPP + DMAPP",
+      "explanation": "정답: IPP + DMAPP\n전체 경로:\npyruvate + glyceraldehyde 3-phosphate →(−CO₂)→ DXP\nDXP →(NADPH)→ MEP\nMEP →(여러 단계)→ HMBPP\nHMBPP →(환원)→ IPP + DMAPP\n그림:\n[[img:pharmacognosy/local/iso-p11.png|PPT iso-p11]]"
+    },
+    {
+      "id": 14,
+      "question": "[경로: Terpene 사슬 연장 (head-to-tail)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(★ → GPP)\n\n[[rxn:CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(GPP → FPP)",
+      "choices": [
+        "squalene (C30)",
+        "GGPP (C20, diterpene 전구체)",
+        "DMAPP",
+        "FPP (C15, sesquiterpene 전구체)",
+        "GPP (C10, monoterpene 전구체)"
+      ],
+      "answer": "DMAPP",
+      "explanation": "정답: DMAPP\n전체 경로:\nDMAPP →(+ IPP)→ GPP\nGPP →(+ IPP)→ FPP\nFPP →(+ IPP)→ GGPP\n그림:\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]"
+    },
+    {
+      "id": 15,
+      "question": "[경로: Terpene 사슬 연장 (head-to-tail)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(DMAPP → ★)\n\n[[rxn:CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(★ → FPP)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(FPP → GGPP)",
+      "choices": [
+        "FPP (C15, sesquiterpene 전구체)",
+        "GGPP (C20, diterpene 전구체)",
+        "DXP (1-deoxy-D-xylulose 5-phosphate)",
+        "GPP (C10, monoterpene 전구체)",
+        "DMAPP"
+      ],
+      "answer": "GPP (C10, monoterpene 전구체)",
+      "explanation": "정답: GPP (C10, monoterpene 전구체)\n전체 경로:\nDMAPP →(+ IPP)→ GPP\nGPP →(+ IPP)→ FPP\nFPP →(+ IPP)→ GGPP\n그림:\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]"
+    },
+    {
+      "id": 16,
+      "question": "[경로: Terpene 사슬 연장 (head-to-tail)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(DMAPP → GPP)\n\n[[rxn:CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(GPP → ★)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(★ → GGPP)",
+      "choices": [
+        "FPP (C15, sesquiterpene 전구체)",
+        "DMAPP",
+        "GPP (C10, monoterpene 전구체)",
+        "GGPP (C20, diterpene 전구체)",
+        "squalene (C30)"
+      ],
+      "answer": "FPP (C15, sesquiterpene 전구체)",
+      "explanation": "정답: FPP (C15, sesquiterpene 전구체)\n전체 경로:\nDMAPP →(+ IPP)→ GPP\nGPP →(+ IPP)→ FPP\nFPP →(+ IPP)→ GGPP\n그림:\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]"
+    },
+    {
+      "id": 17,
+      "question": "[경로: Terpene 사슬 연장 (head-to-tail)]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(GPP → FPP)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O|+ IPP]]\n(FPP → ★)",
+      "choices": [
+        "GGPP (C20, diterpene 전구체)",
+        "DMAPP",
+        "FPP (C15, sesquiterpene 전구체)",
+        "GPP (C10, monoterpene 전구체)",
+        "HMBPP"
+      ],
+      "answer": "GGPP (C20, diterpene 전구체)",
+      "explanation": "정답: GGPP (C20, diterpene 전구체)\n전체 경로:\nDMAPP →(+ IPP)→ GPP\nGPP →(+ IPP)→ FPP\nFPP →(+ IPP)→ GGPP\n그림:\n[[img:pharmacognosy/local/iso-p16.png|PPT iso-p16]]"
+    },
+    {
+      "id": 18,
+      "question": "[경로: Triterpene·steroid 전구체]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|× 2, squalene synthase, NADPH]]\n(★ → squalene)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C>>CC1(C)OC1CC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|squalene monooxygenase, O₂]]\n(squalene → 2,3-oxidosqualene)",
+      "choices": [
+        "DMAPP (dimethylallyl PP)",
+        "strictosidine",
+        "FPP",
+        "squalene (C30)",
+        "2,3-oxidosqualene"
+      ],
+      "answer": "FPP",
+      "explanation": "정답: FPP\n전체 경로:\nFPP →(× 2, squalene synthase, NADPH)→ squalene\nsqualene →(squalene monooxygenase, O₂)→ 2,3-oxidosqualene\n참고: 이후 동물·균 → lanosterol, 식물 → cycloartenol.\n그림:\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]"
+    },
+    {
+      "id": 19,
+      "question": "[경로: Triterpene·steroid 전구체]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|× 2, squalene synthase, NADPH]]\n(FPP → ★)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C>>CC1(C)OC1CC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|squalene monooxygenase, O₂]]\n(★ → 2,3-oxidosqualene)",
+      "choices": [
+        "2,3-oxidosqualene",
+        "FPP",
+        "squalene (C30)",
+        "acetyl-CoA",
+        "mevalonic acid (MVA)"
+      ],
+      "answer": "squalene (C30)",
+      "explanation": "정답: squalene (C30)\n전체 경로:\nFPP →(× 2, squalene synthase, NADPH)→ squalene\nsqualene →(squalene monooxygenase, O₂)→ 2,3-oxidosqualene\n참고: 이후 동물·균 → lanosterol, 식물 → cycloartenol.\n그림:\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]"
+    },
+    {
+      "id": 20,
+      "question": "[경로: Triterpene·steroid 전구체]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|× 2, squalene synthase, NADPH]]\n(FPP → squalene)\n\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C>>CC1(C)OC1CC/C(C)=C/CC/C(C)=C/CC/C=C(\\C)CC/C=C(\\C)CCC=C(C)C|squalene monooxygenase, O₂]]\n(squalene → ★)",
+      "choices": [
+        "FPP",
+        "GPP (C10, monoterpene 전구체)",
+        "squalene (C30)",
+        "strictosidine",
+        "2,3-oxidosqualene"
+      ],
+      "answer": "2,3-oxidosqualene",
+      "explanation": "정답: 2,3-oxidosqualene\n전체 경로:\nFPP →(× 2, squalene synthase, NADPH)→ squalene\nsqualene →(squalene monooxygenase, O₂)→ 2,3-oxidosqualene\n참고: 이후 동물·균 → lanosterol, 식물 → cycloartenol.\n그림:\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]"
+    },
+    {
+      "id": 21,
+      "question": "[경로: Iridoid → secoiridoid → monoterpene indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CO>>CC1CCC(C(C)C=O)C1C=O|수산화·산화, 고리화]]\n(★ → iridodial)\n\n[[rxn:CC1CCC(C(C)C=O)C1C=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12|여러 단계, 배당화]]\n(iridodial → loganin)",
+      "choices": [
+        "iridodial",
+        "loganin",
+        "geraniol",
+        "strictosidine",
+        "secologanin"
+      ],
+      "answer": "geraniol",
+      "explanation": "정답: geraniol\n전체 경로:\ngeraniol →(수산화·산화, 고리화)→ iridodial\niridodial →(여러 단계, 배당화)→ loganin\nloganin →(cyclopentane 고리 열림)→ secologanin\nsecologanin →(tryptamine, strictosidine synthase)→ strictosidine\n그림:\n[[img:pharmacognosy/local/iso-p24.png|PPT iso-p24]]\n[[img:pharmacognosy/local/iso-p25.png|PPT iso-p25]]"
+    },
+    {
+      "id": 22,
+      "question": "[경로: Iridoid → secoiridoid → monoterpene indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CO>>CC1CCC(C(C)C=O)C1C=O|수산화·산화, 고리화]]\n(geraniol → ★)\n\n[[rxn:CC1CCC(C(C)C=O)C1C=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12|여러 단계, 배당화]]\n(★ → loganin)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O|cyclopentane 고리 열림]]\n(loganin → secologanin)",
+      "choices": [
+        "strictosidine",
+        "iridodial",
+        "mevaldic acid",
+        "loganin",
+        "geraniol"
+      ],
+      "answer": "iridodial",
+      "explanation": "정답: iridodial\n전체 경로:\ngeraniol →(수산화·산화, 고리화)→ iridodial\niridodial →(여러 단계, 배당화)→ loganin\nloganin →(cyclopentane 고리 열림)→ secologanin\nsecologanin →(tryptamine, strictosidine synthase)→ strictosidine\n그림:\n[[img:pharmacognosy/local/iso-p24.png|PPT iso-p24]]\n[[img:pharmacognosy/local/iso-p25.png|PPT iso-p25]]"
+    },
+    {
+      "id": 23,
+      "question": "[경로: Iridoid → secoiridoid → monoterpene indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC(C)=CCC/C(C)=C/CO>>CC1CCC(C(C)C=O)C1C=O|수산화·산화, 고리화]]\n(geraniol → iridodial)\n\n[[rxn:CC1CCC(C(C)C=O)C1C=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12|여러 단계, 배당화]]\n(iridodial → ★)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O|cyclopentane 고리 열림]]\n(★ → secologanin)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|tryptamine, strictosidine synthase]]\n(secologanin → strictosidine)",
+      "choices": [
+        "secologanin",
+        "geraniol",
+        "HMBPP",
+        "iridodial",
+        "loganin"
+      ],
+      "answer": "loganin",
+      "explanation": "정답: loganin\n전체 경로:\ngeraniol →(수산화·산화, 고리화)→ iridodial\niridodial →(여러 단계, 배당화)→ loganin\nloganin →(cyclopentane 고리 열림)→ secologanin\nsecologanin →(tryptamine, strictosidine synthase)→ strictosidine\n그림:\n[[img:pharmacognosy/local/iso-p24.png|PPT iso-p24]]\n[[img:pharmacognosy/local/iso-p25.png|PPT iso-p25]]"
+    },
+    {
+      "id": 24,
+      "question": "[경로: Iridoid → secoiridoid → monoterpene indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:CC1CCC(C(C)C=O)C1C=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12|여러 단계, 배당화]]\n(iridodial → loganin)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O|cyclopentane 고리 열림]]\n(loganin → ★)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|tryptamine, strictosidine synthase]]\n(★ → strictosidine)",
+      "choices": [
+        "HMBPP",
+        "strictosidine",
+        "geraniol",
+        "iridodial",
+        "secologanin"
+      ],
+      "answer": "secologanin",
+      "explanation": "정답: secologanin\n전체 경로:\ngeraniol →(수산화·산화, 고리화)→ iridodial\niridodial →(여러 단계, 배당화)→ loganin\nloganin →(cyclopentane 고리 열림)→ secologanin\nsecologanin →(tryptamine, strictosidine synthase)→ strictosidine\n그림:\n[[img:pharmacognosy/local/iso-p24.png|PPT iso-p24]]\n[[img:pharmacognosy/local/iso-p25.png|PPT iso-p25]]"
+    },
+    {
+      "id": 25,
+      "question": "[경로: Iridoid → secoiridoid → monoterpene indole alkaloid]\n다음 경로에서 ★로 표시한 물질의 이름은?\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)C(O)CC12>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O|cyclopentane 고리 열림]]\n(loganin → secologanin)\n\n[[rxn:COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC=O>>COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC1NCCc2c1[nH]c1ccccc21|tryptamine, strictosidine synthase]]\n(secologanin → ★)",
+      "choices": [
+        "iridodial",
+        "strictosidine",
+        "geraniol",
+        "loganin",
+        "FPP (C15, sesquiterpene 전구체)"
+      ],
+      "answer": "strictosidine",
+      "explanation": "정답: strictosidine\n전체 경로:\ngeraniol →(수산화·산화, 고리화)→ iridodial\niridodial →(여러 단계, 배당화)→ loganin\nloganin →(cyclopentane 고리 열림)→ secologanin\nsecologanin →(tryptamine, strictosidine synthase)→ strictosidine\n그림:\n[[img:pharmacognosy/local/iso-p24.png|PPT iso-p24]]\n[[img:pharmacognosy/local/iso-p25.png|PPT iso-p25]]"
+    }
+  ]
+}
