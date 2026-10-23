@@ -1,267 +1,85 @@
 {
   "deckId": "pharmacognosy-rings-02",
   "subject": "생약학",
-  "title": "구조 기초 2 · 6원 산소 고리·pyrone ~ 이환 포화 질소 고리 (alkaloid 골격)",
+  "title": "구조 기초 2 · 단환 탄소 고리·α-pyrone ~ 이환 포화 질소 고리 (alkaloid 골격)",
   "questions": [
     {
-      "id": 1,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n다음 구조의 이름은?\n[[smi:C1C=COC=C1]]",
-      "choices": [
-        "4H-pyran",
-        "tetrahydropyran",
-        "α-pyrone (2-pyranone)",
-        "γ-pyrone (4-pyranone)",
-        "1,4-dioxane"
-      ],
-      "answer": "4H-pyran",
-      "explanation": "정답: 4H-pyran\n6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 2,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n다음 구조의 이름은?\n[[smi:C1CCOCC1]]",
-      "choices": [
-        "4H-pyran",
-        "tetrahydropyran",
-        "α-pyrone (2-pyranone)",
-        "γ-pyrone (4-pyranone)",
-        "1,4-dioxane"
-      ],
-      "answer": "tetrahydropyran",
-      "explanation": "정답: tetrahydropyran\n6원 포화, O 1개 — 당(pyranose)\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
       "id": 3,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n다음 구조의 이름은?\n[[smi:O=C1C=CC=CO1]]",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n다음 구조의 이름은?\n[[smi:O=C1C=CC=CO1]]",
       "choices": [
-        "4H-pyran",
-        "tetrahydropyran",
         "α-pyrone (2-pyranone)",
-        "γ-pyrone (4-pyranone)",
-        "1,4-dioxane"
+        "cyclohexane",
+        "cyclopentane",
+        "furan",
+        "γ-butyrolactone"
       ],
       "answer": "α-pyrone (2-pyranone)",
-      "explanation": "정답: α-pyrone (2-pyranone)\n6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 4,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n다음 구조의 이름은?\n[[smi:O=C1C=COC=C1]]",
-      "choices": [
-        "4H-pyran",
-        "tetrahydropyran",
-        "α-pyrone (2-pyranone)",
-        "γ-pyrone (4-pyranone)",
-        "1,4-dioxane"
-      ],
-      "answer": "γ-pyrone (4-pyranone)",
-      "explanation": "정답: γ-pyrone (4-pyranone)\n6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 5,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n다음 구조의 이름은?\n[[smi:C1COCCO1]]",
-      "choices": [
-        "4H-pyran",
-        "tetrahydropyran",
-        "α-pyrone (2-pyranone)",
-        "γ-pyrone (4-pyranone)",
-        "1,4-dioxane"
-      ],
-      "answer": "1,4-dioxane",
-      "explanation": "정답: 1,4-dioxane\n6원 포화, O 2개가 1,4 위치\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 6,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n'4H-pyran'의 구조는?",
-      "choices": [
-        "[[smi:C1C=COC=C1]]",
-        "[[smi:C1CCOCC1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1C=COC=C1]]",
-        "[[smi:C1COCCO1]]"
-      ],
-      "answer": "[[smi:C1C=COC=C1]]",
-      "explanation": "정답: 4H-pyran\n6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 7,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n'tetrahydropyran'의 구조는?",
-      "choices": [
-        "[[smi:C1C=COC=C1]]",
-        "[[smi:C1CCOCC1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1C=COC=C1]]",
-        "[[smi:C1COCCO1]]"
-      ],
-      "answer": "[[smi:C1CCOCC1]]",
-      "explanation": "정답: tetrahydropyran\n6원 포화, O 1개 — 당(pyranose)\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
+      "explanation": "정답: α-pyrone (2-pyranone)\n6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 8,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n'α-pyrone (2-pyranone)'의 구조는?",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n'α-pyrone (2-pyranone)'의 구조는?",
       "choices": [
-        "[[smi:C1C=COC=C1]]",
-        "[[smi:C1CCOCC1]]",
         "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1C=COC=C1]]",
-        "[[smi:C1COCCO1]]"
+        "[[smi:C1CCCCC1]]",
+        "[[smi:C1CCCC1]]",
+        "[[smi:c1ccoc1]]",
+        "[[smi:O=C1CCCO1]]"
       ],
       "answer": "[[smi:O=C1C=CC=CO1]]",
-      "explanation": "정답: α-pyrone (2-pyranone)\n6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 9,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n'γ-pyrone (4-pyranone)'의 구조는?",
-      "choices": [
-        "[[smi:C1C=COC=C1]]",
-        "[[smi:C1CCOCC1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1C=COC=C1]]",
-        "[[smi:C1COCCO1]]"
-      ],
-      "answer": "[[smi:O=C1C=COC=C1]]",
-      "explanation": "정답: γ-pyrone (4-pyranone)\n6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 10,
-      "question": "[구조 기초 · 6원 산소 고리·pyrone]\n'1,4-dioxane'의 구조는?",
-      "choices": [
-        "[[smi:C1C=COC=C1]]",
-        "[[smi:C1CCOCC1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1C=COC=C1]]",
-        "[[smi:C1COCCO1]]"
-      ],
-      "answer": "[[smi:C1COCCO1]]",
-      "explanation": "정답: 1,4-dioxane\n6원 포화, O 2개가 1,4 위치\n\n이 묶음 구별 포인트:\n· 4H-pyran: 6원, O 1개, 이중결합 2개(sp³ 탄소 1개) — pyranocoumarin의 pyran\n· tetrahydropyran: 6원 포화, O 1개 — 당(pyranose)\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· γ-pyrone (4-pyranone): 6원, C=O가 O의 맞은편(4번) — chromone·flavone·meconic acid\n· 1,4-dioxane: 6원 포화, O 2개가 1,4 위치"
-    },
-    {
-      "id": 11,
-      "question": "[구조 기초 · 탄소 고리]\n다음 구조의 이름은?\n[[smi:c1ccccc1]]",
-      "choices": [
-        "benzene",
-        "cyclohexane",
-        "cyclohexene",
-        "cyclopentadiene",
-        "cyclopentane"
-      ],
-      "answer": "benzene",
-      "explanation": "정답: benzene\n6원 방향족 — 이중결합 3개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
+      "explanation": "정답: α-pyrone (2-pyranone)\n6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 12,
-      "question": "[구조 기초 · 탄소 고리]\n다음 구조의 이름은?\n[[smi:C1CCCCC1]]",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n다음 구조의 이름은?\n[[smi:C1CCCCC1]]",
       "choices": [
-        "benzene",
+        "α-pyrone (2-pyranone)",
         "cyclohexane",
-        "cyclohexene",
-        "cyclopentadiene",
-        "cyclopentane"
+        "cyclopentane",
+        "furan",
+        "γ-butyrolactone"
       ],
       "answer": "cyclohexane",
-      "explanation": "정답: cyclohexane\n6원 포화 — 이중결합 없음\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
-    },
-    {
-      "id": 13,
-      "question": "[구조 기초 · 탄소 고리]\n다음 구조의 이름은?\n[[smi:C1=CCCCC1]]",
-      "choices": [
-        "benzene",
-        "cyclohexane",
-        "cyclohexene",
-        "cyclopentadiene",
-        "cyclopentane"
-      ],
-      "answer": "cyclohexene",
-      "explanation": "정답: cyclohexene\n6원, 이중결합 1개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
-    },
-    {
-      "id": 14,
-      "question": "[구조 기초 · 탄소 고리]\n다음 구조의 이름은?\n[[smi:C1=CCC=C1]]",
-      "choices": [
-        "benzene",
-        "cyclohexane",
-        "cyclohexene",
-        "cyclopentadiene",
-        "cyclopentane"
-      ],
-      "answer": "cyclopentadiene",
-      "explanation": "정답: cyclopentadiene\n5원, 이중결합 2개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
+      "explanation": "정답: cyclohexane\n6원 포화 — 이중결합 없음\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 15,
-      "question": "[구조 기초 · 탄소 고리]\n다음 구조의 이름은?\n[[smi:C1CCCC1]]",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n다음 구조의 이름은?\n[[smi:C1CCCC1]]",
       "choices": [
-        "benzene",
+        "α-pyrone (2-pyranone)",
         "cyclohexane",
-        "cyclohexene",
-        "cyclopentadiene",
-        "cyclopentane"
+        "cyclopentane",
+        "furan",
+        "γ-butyrolactone"
       ],
       "answer": "cyclopentane",
-      "explanation": "정답: cyclopentane\n5원 포화 — iridoid의 cyclopentane\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
-    },
-    {
-      "id": 16,
-      "question": "[구조 기초 · 탄소 고리]\n'benzene'의 구조는?",
-      "choices": [
-        "[[smi:c1ccccc1]]",
-        "[[smi:C1CCCCC1]]",
-        "[[smi:C1=CCCCC1]]",
-        "[[smi:C1=CCC=C1]]",
-        "[[smi:C1CCCC1]]"
-      ],
-      "answer": "[[smi:c1ccccc1]]",
-      "explanation": "정답: benzene\n6원 방향족 — 이중결합 3개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
+      "explanation": "정답: cyclopentane\n5원 포화 — iridoid의 cyclopentane\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 17,
-      "question": "[구조 기초 · 탄소 고리]\n'cyclohexane'의 구조는?",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n'cyclohexane'의 구조는?",
       "choices": [
-        "[[smi:c1ccccc1]]",
+        "[[smi:O=C1C=CC=CO1]]",
         "[[smi:C1CCCCC1]]",
-        "[[smi:C1=CCCCC1]]",
-        "[[smi:C1=CCC=C1]]",
-        "[[smi:C1CCCC1]]"
+        "[[smi:C1CCCC1]]",
+        "[[smi:c1ccoc1]]",
+        "[[smi:O=C1CCCO1]]"
       ],
       "answer": "[[smi:C1CCCCC1]]",
-      "explanation": "정답: cyclohexane\n6원 포화 — 이중결합 없음\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
-    },
-    {
-      "id": 18,
-      "question": "[구조 기초 · 탄소 고리]\n'cyclohexene'의 구조는?",
-      "choices": [
-        "[[smi:c1ccccc1]]",
-        "[[smi:C1CCCCC1]]",
-        "[[smi:C1=CCCCC1]]",
-        "[[smi:C1=CCC=C1]]",
-        "[[smi:C1CCCC1]]"
-      ],
-      "answer": "[[smi:C1=CCCCC1]]",
-      "explanation": "정답: cyclohexene\n6원, 이중결합 1개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
-    },
-    {
-      "id": 19,
-      "question": "[구조 기초 · 탄소 고리]\n'cyclopentadiene'의 구조는?",
-      "choices": [
-        "[[smi:c1ccccc1]]",
-        "[[smi:C1CCCCC1]]",
-        "[[smi:C1=CCCCC1]]",
-        "[[smi:C1=CCC=C1]]",
-        "[[smi:C1CCCC1]]"
-      ],
-      "answer": "[[smi:C1=CCC=C1]]",
-      "explanation": "정답: cyclopentadiene\n5원, 이중결합 2개\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
+      "explanation": "정답: cyclohexane\n6원 포화 — 이중결합 없음\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 20,
-      "question": "[구조 기초 · 탄소 고리]\n'cyclopentane'의 구조는?",
+      "question": "[구조 기초 · 단환 탄소 고리·α-pyrone]\n'cyclopentane'의 구조는?",
       "choices": [
-        "[[smi:c1ccccc1]]",
+        "[[smi:O=C1C=CC=CO1]]",
         "[[smi:C1CCCCC1]]",
-        "[[smi:C1=CCCCC1]]",
-        "[[smi:C1=CCC=C1]]",
-        "[[smi:C1CCCC1]]"
+        "[[smi:C1CCCC1]]",
+        "[[smi:c1ccoc1]]",
+        "[[smi:O=C1CCCO1]]"
       ],
       "answer": "[[smi:C1CCCC1]]",
-      "explanation": "정답: cyclopentane\n5원 포화 — iridoid의 cyclopentane\n\n이 묶음 구별 포인트:\n· benzene: 6원 방향족 — 이중결합 3개\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclohexene: 6원, 이중결합 1개\n· cyclopentadiene: 5원, 이중결합 2개\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane"
+      "explanation": "정답: cyclopentane\n5원 포화 — iridoid의 cyclopentane\n\n이 묶음 구별 포인트:\n· α-pyrone (2-pyranone): 6원 lactone, C=O가 O 바로 옆 — coumarin·bufadienolide의 고리\n· cyclohexane: 6원 포화 — 이중결합 없음\n· cyclopentane: 5원 포화 — iridoid의 cyclopentane\n· furan: 5원 방향족, O 1개 — furanocoumarin, limonoid의 furan\n· γ-butyrolactone: 5원 포화 lactone"
     },
     {
       "id": 21,
@@ -270,11 +88,10 @@
         "quinolizidine",
         "indolizidine",
         "pyrrolizidine",
-        "tropane",
-        "quinuclidine"
+        "tropane"
       ],
       "answer": "quinolizidine",
-      "explanation": "정답: quinolizidine\n6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: quinolizidine\n6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 22,
@@ -283,11 +100,10 @@
         "quinolizidine",
         "indolizidine",
         "pyrrolizidine",
-        "tropane",
-        "quinuclidine"
+        "tropane"
       ],
       "answer": "indolizidine",
-      "explanation": "정답: indolizidine\n6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: indolizidine\n6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 23,
@@ -296,11 +112,10 @@
         "quinolizidine",
         "indolizidine",
         "pyrrolizidine",
-        "tropane",
-        "quinuclidine"
+        "tropane"
       ],
       "answer": "pyrrolizidine",
-      "explanation": "정답: pyrrolizidine\n5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: pyrrolizidine\n5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 24,
@@ -309,24 +124,10 @@
         "quinolizidine",
         "indolizidine",
         "pyrrolizidine",
-        "tropane",
-        "quinuclidine"
+        "tropane"
       ],
       "answer": "tropane",
-      "explanation": "정답: tropane\n질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
-    },
-    {
-      "id": 25,
-      "question": "[구조 기초 · 이환 포화 질소 고리 (alkaloid 골격)]\n다음 구조의 이름은?\n[[smi:C1CN2CCC1CC2]]",
-      "choices": [
-        "quinolizidine",
-        "indolizidine",
-        "pyrrolizidine",
-        "tropane",
-        "quinuclidine"
-      ],
-      "answer": "quinuclidine",
-      "explanation": "정답: quinuclidine\n질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: tropane\n질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 26,
@@ -335,11 +136,10 @@
         "[[smi:C1CCN2CCCCC2C1]]",
         "[[smi:C1CCN2CCCC2C1]]",
         "[[smi:C1CC2CCCN2C1]]",
-        "[[smi:CN1C2CCC1CCC2]]",
-        "[[smi:C1CN2CCC1CC2]]"
+        "[[smi:CN1C2CCC1CCC2]]"
       ],
       "answer": "[[smi:C1CCN2CCCCC2C1]]",
-      "explanation": "정답: quinolizidine\n6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: quinolizidine\n6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 27,
@@ -348,11 +148,10 @@
         "[[smi:C1CCN2CCCCC2C1]]",
         "[[smi:C1CCN2CCCC2C1]]",
         "[[smi:C1CC2CCCN2C1]]",
-        "[[smi:CN1C2CCC1CCC2]]",
-        "[[smi:C1CN2CCC1CC2]]"
+        "[[smi:CN1C2CCC1CCC2]]"
       ],
       "answer": "[[smi:C1CCN2CCCC2C1]]",
-      "explanation": "정답: indolizidine\n6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: indolizidine\n6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 28,
@@ -361,11 +160,10 @@
         "[[smi:C1CCN2CCCCC2C1]]",
         "[[smi:C1CCN2CCCC2C1]]",
         "[[smi:C1CC2CCCN2C1]]",
-        "[[smi:CN1C2CCC1CCC2]]",
-        "[[smi:C1CN2CCC1CC2]]"
+        "[[smi:CN1C2CCC1CCC2]]"
       ],
       "answer": "[[smi:C1CC2CCCN2C1]]",
-      "explanation": "정답: pyrrolizidine\n5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: pyrrolizidine\n5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     },
     {
       "id": 29,
@@ -374,24 +172,10 @@
         "[[smi:C1CCN2CCCCC2C1]]",
         "[[smi:C1CCN2CCCC2C1]]",
         "[[smi:C1CC2CCCN2C1]]",
-        "[[smi:CN1C2CCC1CCC2]]",
-        "[[smi:C1CN2CCC1CC2]]"
+        "[[smi:CN1C2CCC1CCC2]]"
       ],
       "answer": "[[smi:CN1C2CCC1CCC2]]",
-      "explanation": "정답: tropane\n질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
-    },
-    {
-      "id": 30,
-      "question": "[구조 기초 · 이환 포화 질소 고리 (alkaloid 골격)]\n'quinuclidine'의 구조는?",
-      "choices": [
-        "[[smi:C1CCN2CCCCC2C1]]",
-        "[[smi:C1CCN2CCCC2C1]]",
-        "[[smi:C1CC2CCCN2C1]]",
-        "[[smi:CN1C2CCC1CCC2]]",
-        "[[smi:C1CN2CCC1CC2]]"
-      ],
-      "answer": "[[smi:C1CN2CCC1CC2]]",
-      "explanation": "정답: quinuclidine\n질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n· quinuclidine: 질소가 꼭짓점인 새장형 이환 — quinine·quinidine의 고리"
+      "explanation": "정답: tropane\n질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)\n\n이 묶음 구별 포인트:\n· quinolizidine: 6 + 6, 질소가 두 고리가 만나는 자리(교두) — Lys 유래(matrine, lupinine)\n· indolizidine: 6 + 5, 교두 질소 — Lys 유래(swainsonine, castanospermine)\n· pyrrolizidine: 5 + 5, 교두 질소 — Orn 유래(retronecine, senecionine)\n· tropane: 질소가 다리(bridge)로 걸친 이환(pyrrolidine + piperidine) — Orn 유래(atropine, cocaine)"
     }
   ]
 }

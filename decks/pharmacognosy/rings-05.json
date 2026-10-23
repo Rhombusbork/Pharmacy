@@ -1,267 +1,137 @@
 {
   "deckId": "pharmacognosy-rings-05",
   "subject": "생약학",
-  "title": "구조 기초 5 · C6–Cn 산·알데하이드 ~ Purine·xanthine",
+  "title": "구조 기초 5 · C6–Cn 산·lactone ~ Purine·xanthine",
   "questions": [
     {
       "id": 1,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n다음 구조의 이름은?\n[[smi:OC(=O)c1ccccc1]]",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n다음 구조의 이름은?\n[[smi:OC(=O)c1ccccc1]]",
       "choices": [
         "benzoic acid (C6C1)",
-        "phenylacetic acid (C6C2)",
-        "3-phenylpropanoic acid (C6C3, 포화)",
         "cinnamic acid (C6C3, 불포화)",
-        "benzaldehyde"
+        "γ-butyrolactone",
+        "α-pyrone",
+        "phthalide"
       ],
       "answer": "benzoic acid (C6C1)",
-      "explanation": "정답: benzoic acid (C6C1)\n고리에 COOH가 바로\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 2,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n다음 구조의 이름은?\n[[smi:OC(=O)Cc1ccccc1]]",
-      "choices": [
-        "benzoic acid (C6C1)",
-        "phenylacetic acid (C6C2)",
-        "3-phenylpropanoic acid (C6C3, 포화)",
-        "cinnamic acid (C6C3, 불포화)",
-        "benzaldehyde"
-      ],
-      "answer": "phenylacetic acid (C6C2)",
-      "explanation": "정답: phenylacetic acid (C6C2)\n고리–CH₂–COOH\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 3,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n다음 구조의 이름은?\n[[smi:OC(=O)CCc1ccccc1]]",
-      "choices": [
-        "benzoic acid (C6C1)",
-        "phenylacetic acid (C6C2)",
-        "3-phenylpropanoic acid (C6C3, 포화)",
-        "cinnamic acid (C6C3, 불포화)",
-        "benzaldehyde"
-      ],
-      "answer": "3-phenylpropanoic acid (C6C3, 포화)",
-      "explanation": "정답: 3-phenylpropanoic acid (C6C3, 포화)\n고리–CH₂CH₂–COOH (이중결합 없음)\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
+      "explanation": "정답: benzoic acid (C6C1)\n고리에 COOH가 바로\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 4,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n다음 구조의 이름은?\n[[smi:OC(=O)/C=C/c1ccccc1]]",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n다음 구조의 이름은?\n[[smi:OC(=O)/C=C/c1ccccc1]]",
       "choices": [
         "benzoic acid (C6C1)",
-        "phenylacetic acid (C6C2)",
-        "3-phenylpropanoic acid (C6C3, 포화)",
         "cinnamic acid (C6C3, 불포화)",
-        "benzaldehyde"
+        "γ-butyrolactone",
+        "α-pyrone",
+        "phthalide"
       ],
       "answer": "cinnamic acid (C6C3, 불포화)",
-      "explanation": "정답: cinnamic acid (C6C3, 불포화)\n고리–CH=CH–COOH — PAL 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 5,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n다음 구조의 이름은?\n[[smi:O=Cc1ccccc1]]",
-      "choices": [
-        "benzoic acid (C6C1)",
-        "phenylacetic acid (C6C2)",
-        "3-phenylpropanoic acid (C6C3, 포화)",
-        "cinnamic acid (C6C3, 불포화)",
-        "benzaldehyde"
-      ],
-      "answer": "benzaldehyde",
-      "explanation": "정답: benzaldehyde\n고리–CHO — amygdalin 분해 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
+      "explanation": "정답: cinnamic acid (C6C3, 불포화)\n고리–CH=CH–COOH — PAL 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 6,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n'benzoic acid (C6C1)'의 구조는?",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n'benzoic acid (C6C1)'의 구조는?",
       "choices": [
         "[[smi:OC(=O)c1ccccc1]]",
-        "[[smi:OC(=O)Cc1ccccc1]]",
-        "[[smi:OC(=O)CCc1ccccc1]]",
         "[[smi:OC(=O)/C=C/c1ccccc1]]",
-        "[[smi:O=Cc1ccccc1]]"
+        "[[smi:O=C1CCCO1]]",
+        "[[smi:O=C1C=CC=CO1]]",
+        "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:OC(=O)c1ccccc1]]",
-      "explanation": "정답: benzoic acid (C6C1)\n고리에 COOH가 바로\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 7,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n'phenylacetic acid (C6C2)'의 구조는?",
-      "choices": [
-        "[[smi:OC(=O)c1ccccc1]]",
-        "[[smi:OC(=O)Cc1ccccc1]]",
-        "[[smi:OC(=O)CCc1ccccc1]]",
-        "[[smi:OC(=O)/C=C/c1ccccc1]]",
-        "[[smi:O=Cc1ccccc1]]"
-      ],
-      "answer": "[[smi:OC(=O)Cc1ccccc1]]",
-      "explanation": "정답: phenylacetic acid (C6C2)\n고리–CH₂–COOH\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 8,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n'3-phenylpropanoic acid (C6C3, 포화)'의 구조는?",
-      "choices": [
-        "[[smi:OC(=O)c1ccccc1]]",
-        "[[smi:OC(=O)Cc1ccccc1]]",
-        "[[smi:OC(=O)CCc1ccccc1]]",
-        "[[smi:OC(=O)/C=C/c1ccccc1]]",
-        "[[smi:O=Cc1ccccc1]]"
-      ],
-      "answer": "[[smi:OC(=O)CCc1ccccc1]]",
-      "explanation": "정답: 3-phenylpropanoic acid (C6C3, 포화)\n고리–CH₂CH₂–COOH (이중결합 없음)\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
+      "explanation": "정답: benzoic acid (C6C1)\n고리에 COOH가 바로\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 9,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n'cinnamic acid (C6C3, 불포화)'의 구조는?",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n'cinnamic acid (C6C3, 불포화)'의 구조는?",
       "choices": [
         "[[smi:OC(=O)c1ccccc1]]",
-        "[[smi:OC(=O)Cc1ccccc1]]",
-        "[[smi:OC(=O)CCc1ccccc1]]",
         "[[smi:OC(=O)/C=C/c1ccccc1]]",
-        "[[smi:O=Cc1ccccc1]]"
+        "[[smi:O=C1CCCO1]]",
+        "[[smi:O=C1C=CC=CO1]]",
+        "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:OC(=O)/C=C/c1ccccc1]]",
-      "explanation": "정답: cinnamic acid (C6C3, 불포화)\n고리–CH=CH–COOH — PAL 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
-    },
-    {
-      "id": 10,
-      "question": "[구조 기초 · C6–Cn 산·알데하이드]\n'benzaldehyde'의 구조는?",
-      "choices": [
-        "[[smi:OC(=O)c1ccccc1]]",
-        "[[smi:OC(=O)Cc1ccccc1]]",
-        "[[smi:OC(=O)CCc1ccccc1]]",
-        "[[smi:OC(=O)/C=C/c1ccccc1]]",
-        "[[smi:O=Cc1ccccc1]]"
-      ],
-      "answer": "[[smi:O=Cc1ccccc1]]",
-      "explanation": "정답: benzaldehyde\n고리–CHO — amygdalin 분해 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· phenylacetic acid (C6C2): 고리–CH₂–COOH\n· 3-phenylpropanoic acid (C6C3, 포화): 고리–CH₂CH₂–COOH (이중결합 없음)\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· benzaldehyde: 고리–CHO — amygdalin 분해 산물"
+      "explanation": "정답: cinnamic acid (C6C3, 불포화)\n고리–CH=CH–COOH — PAL 산물\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 11,
-      "question": "[구조 기초 · Lactone 고리]\n다음 구조의 이름은?\n[[smi:O=C1CCCO1]]",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n다음 구조의 이름은?\n[[smi:O=C1CCCO1]]",
       "choices": [
+        "benzoic acid (C6C1)",
+        "cinnamic acid (C6C3, 불포화)",
         "γ-butyrolactone",
-        "butenolide (2(5H)-furanone)",
-        "δ-valerolactone",
         "α-pyrone",
         "phthalide"
       ],
       "answer": "γ-butyrolactone",
-      "explanation": "정답: γ-butyrolactone\n5원 포화 lactone\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
-    },
-    {
-      "id": 12,
-      "question": "[구조 기초 · Lactone 고리]\n다음 구조의 이름은?\n[[smi:O=C1C=CCO1]]",
-      "choices": [
-        "γ-butyrolactone",
-        "butenolide (2(5H)-furanone)",
-        "δ-valerolactone",
-        "α-pyrone",
-        "phthalide"
-      ],
-      "answer": "butenolide (2(5H)-furanone)",
-      "explanation": "정답: butenolide (2(5H)-furanone)\n5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
-    },
-    {
-      "id": 13,
-      "question": "[구조 기초 · Lactone 고리]\n다음 구조의 이름은?\n[[smi:O=C1CCCCO1]]",
-      "choices": [
-        "γ-butyrolactone",
-        "butenolide (2(5H)-furanone)",
-        "δ-valerolactone",
-        "α-pyrone",
-        "phthalide"
-      ],
-      "answer": "δ-valerolactone",
-      "explanation": "정답: δ-valerolactone\n6원 포화 lactone\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: γ-butyrolactone\n5원 포화 lactone\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 14,
-      "question": "[구조 기초 · Lactone 고리]\n다음 구조의 이름은?\n[[smi:O=C1C=CC=CO1]]",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n다음 구조의 이름은?\n[[smi:O=C1C=CC=CO1]]",
       "choices": [
+        "benzoic acid (C6C1)",
+        "cinnamic acid (C6C3, 불포화)",
         "γ-butyrolactone",
-        "butenolide (2(5H)-furanone)",
-        "δ-valerolactone",
         "α-pyrone",
         "phthalide"
       ],
       "answer": "α-pyrone",
-      "explanation": "정답: α-pyrone\n6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: α-pyrone\n6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 15,
-      "question": "[구조 기초 · Lactone 고리]\n다음 구조의 이름은?\n[[smi:O=C1OCc2ccccc21]]",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n다음 구조의 이름은?\n[[smi:O=C1OCc2ccccc21]]",
       "choices": [
+        "benzoic acid (C6C1)",
+        "cinnamic acid (C6C3, 불포화)",
         "γ-butyrolactone",
-        "butenolide (2(5H)-furanone)",
-        "δ-valerolactone",
         "α-pyrone",
         "phthalide"
       ],
       "answer": "phthalide",
-      "explanation": "정답: phthalide\n벤젠 + 5원 lactone — ligustilide(천궁·일당귀)\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: phthalide\n벤젠 + 5원 lactone — ligustilide(천궁·일당귀)\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 16,
-      "question": "[구조 기초 · Lactone 고리]\n'γ-butyrolactone'의 구조는?",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n'γ-butyrolactone'의 구조는?",
       "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:OC(=O)/C=C/c1ccccc1]]",
         "[[smi:O=C1CCCO1]]",
-        "[[smi:O=C1C=CCO1]]",
-        "[[smi:O=C1CCCCO1]]",
         "[[smi:O=C1C=CC=CO1]]",
         "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1CCCO1]]",
-      "explanation": "정답: γ-butyrolactone\n5원 포화 lactone\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
-    },
-    {
-      "id": 17,
-      "question": "[구조 기초 · Lactone 고리]\n'butenolide (2(5H)-furanone)'의 구조는?",
-      "choices": [
-        "[[smi:O=C1CCCO1]]",
-        "[[smi:O=C1C=CCO1]]",
-        "[[smi:O=C1CCCCO1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1OCc2ccccc21]]"
-      ],
-      "answer": "[[smi:O=C1C=CCO1]]",
-      "explanation": "정답: butenolide (2(5H)-furanone)\n5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
-    },
-    {
-      "id": 18,
-      "question": "[구조 기초 · Lactone 고리]\n'δ-valerolactone'의 구조는?",
-      "choices": [
-        "[[smi:O=C1CCCO1]]",
-        "[[smi:O=C1C=CCO1]]",
-        "[[smi:O=C1CCCCO1]]",
-        "[[smi:O=C1C=CC=CO1]]",
-        "[[smi:O=C1OCc2ccccc21]]"
-      ],
-      "answer": "[[smi:O=C1CCCCO1]]",
-      "explanation": "정답: δ-valerolactone\n6원 포화 lactone\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: γ-butyrolactone\n5원 포화 lactone\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 19,
-      "question": "[구조 기초 · Lactone 고리]\n'α-pyrone'의 구조는?",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n'α-pyrone'의 구조는?",
       "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:OC(=O)/C=C/c1ccccc1]]",
         "[[smi:O=C1CCCO1]]",
-        "[[smi:O=C1C=CCO1]]",
-        "[[smi:O=C1CCCCO1]]",
         "[[smi:O=C1C=CC=CO1]]",
         "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1C=CC=CO1]]",
-      "explanation": "정답: α-pyrone\n6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: α-pyrone\n6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 20,
-      "question": "[구조 기초 · Lactone 고리]\n'phthalide'의 구조는?",
+      "question": "[구조 기초 · C6–Cn 산·lactone]\n'phthalide'의 구조는?",
       "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:OC(=O)/C=C/c1ccccc1]]",
         "[[smi:O=C1CCCO1]]",
-        "[[smi:O=C1C=CCO1]]",
-        "[[smi:O=C1CCCCO1]]",
         "[[smi:O=C1C=CC=CO1]]",
         "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1OCc2ccccc21]]",
-      "explanation": "정답: phthalide\n벤젠 + 5원 lactone — ligustilide(천궁·일당귀)\n\n이 묶음 구별 포인트:\n· γ-butyrolactone: 5원 포화 lactone\n· butenolide (2(5H)-furanone): 5원, 이중결합 1개 lactone — cardenolide의 C-17 고리\n· δ-valerolactone: 6원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
+      "explanation": "정답: phthalide\n벤젠 + 5원 lactone — ligustilide(천궁·일당귀)\n\n이 묶음 구별 포인트:\n· benzoic acid (C6C1): 고리에 COOH가 바로\n· cinnamic acid (C6C3, 불포화): 고리–CH=CH–COOH — PAL 산물\n· γ-butyrolactone: 5원 포화 lactone\n· α-pyrone: 6원, 이중결합 2개 lactone — bufadienolide의 C-17 고리\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 21,
@@ -269,12 +139,11 @@
       "choices": [
         "purine",
         "xanthine",
-        "uric acid",
         "caffeine",
         "theobromine"
       ],
       "answer": "purine",
-      "explanation": "정답: purine\npyrimidine + imidazole 융합\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: purine\n6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 22,
@@ -282,25 +151,11 @@
       "choices": [
         "purine",
         "xanthine",
-        "uric acid",
         "caffeine",
         "theobromine"
       ],
       "answer": "xanthine",
-      "explanation": "정답: xanthine\npurine에 C=O 2개(2,6)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
-    },
-    {
-      "id": 23,
-      "question": "[구조 기초 · Purine·xanthine]\n다음 구조의 이름은?\n[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
-      "choices": [
-        "purine",
-        "xanthine",
-        "uric acid",
-        "caffeine",
-        "theobromine"
-      ],
-      "answer": "uric acid",
-      "explanation": "정답: uric acid\npurine에 C=O 3개(2,6,8)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: xanthine\npurine에 C=O 2개(2,6)\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 24,
@@ -308,12 +163,11 @@
       "choices": [
         "purine",
         "xanthine",
-        "uric acid",
         "caffeine",
         "theobromine"
       ],
       "answer": "caffeine",
-      "explanation": "정답: caffeine\nxanthine에 CH₃ 3개(1,3,7)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: caffeine\nxanthine에 CH₃ 3개(1,3,7)\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 25,
@@ -321,12 +175,11 @@
       "choices": [
         "purine",
         "xanthine",
-        "uric acid",
         "caffeine",
         "theobromine"
       ],
       "answer": "theobromine",
-      "explanation": "정답: theobromine\nxanthine에 CH₃ 2개(3,7) — theophylline은 1,3\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: theobromine\nxanthine에 CH₃ 2개(3,7) — theophylline은 1,3\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 26,
@@ -334,12 +187,11 @@
       "choices": [
         "[[smi:c1ncc2[nH]cnc2n1]]",
         "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
         "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
         "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]"
       ],
       "answer": "[[smi:c1ncc2[nH]cnc2n1]]",
-      "explanation": "정답: purine\npyrimidine + imidazole 융합\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: purine\n6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 27,
@@ -347,25 +199,11 @@
       "choices": [
         "[[smi:c1ncc2[nH]cnc2n1]]",
         "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
         "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
         "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]"
       ],
       "answer": "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-      "explanation": "정답: xanthine\npurine에 C=O 2개(2,6)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
-    },
-    {
-      "id": 28,
-      "question": "[구조 기초 · Purine·xanthine]\n'uric acid'의 구조는?",
-      "choices": [
-        "[[smi:c1ncc2[nH]cnc2n1]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
-        "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
-        "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]"
-      ],
-      "answer": "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
-      "explanation": "정답: uric acid\npurine에 C=O 3개(2,6,8)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: xanthine\npurine에 C=O 2개(2,6)\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 29,
@@ -373,12 +211,11 @@
       "choices": [
         "[[smi:c1ncc2[nH]cnc2n1]]",
         "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
         "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
         "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]"
       ],
       "answer": "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
-      "explanation": "정답: caffeine\nxanthine에 CH₃ 3개(1,3,7)\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: caffeine\nxanthine에 CH₃ 3개(1,3,7)\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     },
     {
       "id": 30,
@@ -386,12 +223,11 @@
       "choices": [
         "[[smi:c1ncc2[nH]cnc2n1]]",
         "[[smi:O=C1NC(=O)C2=C(N1)N=CN2]]",
-        "[[smi:O=C1NC(=O)C2=C(N1)NC(=O)N2]]",
         "[[smi:CN1C=NC2=C1C(=O)N(C)C(=O)N2C]]",
         "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]"
       ],
       "answer": "[[smi:CN1C=NC2=C1C(=O)NC(=O)N2C]]",
-      "explanation": "정답: theobromine\nxanthine에 CH₃ 2개(3,7) — theophylline은 1,3\n\n이 묶음 구별 포인트:\n· purine: pyrimidine + imidazole 융합\n· xanthine: purine에 C=O 2개(2,6)\n· uric acid: purine에 C=O 3개(2,6,8)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
+      "explanation": "정답: theobromine\nxanthine에 CH₃ 2개(3,7) — theophylline은 1,3\n\n이 묶음 구별 포인트:\n· purine: 6원 고리(N 2개) + imidazole 융합 — purine alkaloid의 기본 골격\n· xanthine: purine에 C=O 2개(2,6)\n· caffeine: xanthine에 CH₃ 3개(1,3,7)\n· theobromine: xanthine에 CH₃ 2개(3,7) — theophylline은 1,3"
     }
   ]
 }

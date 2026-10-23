@@ -1,267 +1,137 @@
 {
   "deckId": "pharmacognosy-rings-03",
   "subject": "생약학",
-  "title": "구조 기초 3 · 벤젠이 붙은 방향족 질소 고리 ~ 벤젠이 붙은 산소 고리",
+  "title": "구조 기초 3 · 벤젠이 붙은 질소 고리 ~ 벤젠이 붙은 산소 고리",
   "questions": [
     {
       "id": 1,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2[nH]ccc2c1]]",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2[nH]ccc2c1]]",
       "choices": [
         "indole",
         "quinoline",
         "isoquinoline",
         "quinazoline",
-        "benzimidazole"
+        "1,2,3,4-tetrahydroisoquinoline"
       ],
       "answer": "indole",
-      "explanation": "정답: indole\n벤젠 + pyrrole(5원), NH — Trp 유래\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: indole\n벤젠 + pyrrole(5원), NH — Trp 유래\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 2,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2ncccc2c1]]",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2ncccc2c1]]",
       "choices": [
         "indole",
         "quinoline",
         "isoquinoline",
         "quinazoline",
-        "benzimidazole"
+        "1,2,3,4-tetrahydroisoquinoline"
       ],
       "answer": "quinoline",
-      "explanation": "정답: quinoline\n벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: quinoline\n벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 3,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2cnccc2c1]]",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2cnccc2c1]]",
       "choices": [
         "indole",
         "quinoline",
         "isoquinoline",
         "quinazoline",
-        "benzimidazole"
+        "1,2,3,4-tetrahydroisoquinoline"
       ],
       "answer": "isoquinoline",
-      "explanation": "정답: isoquinoline\n벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: isoquinoline\n벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 4,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2ncncc2c1]]",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2ncncc2c1]]",
       "choices": [
         "indole",
         "quinoline",
         "isoquinoline",
         "quinazoline",
-        "benzimidazole"
+        "1,2,3,4-tetrahydroisoquinoline"
       ],
       "answer": "quinazoline",
-      "explanation": "정답: quinazoline\n벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
-    },
-    {
-      "id": 5,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2[nH]cnc2c1]]",
-      "choices": [
-        "indole",
-        "quinoline",
-        "isoquinoline",
-        "quinazoline",
-        "benzimidazole"
-      ],
-      "answer": "benzimidazole",
-      "explanation": "정답: benzimidazole\n벤젠 + imidazole(5원, N 2개)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: quinazoline\n벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 6,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n'indole'의 구조는?",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n'indole'의 구조는?",
       "choices": [
         "[[smi:c1ccc2[nH]ccc2c1]]",
         "[[smi:c1ccc2ncccc2c1]]",
         "[[smi:c1ccc2cnccc2c1]]",
         "[[smi:c1ccc2ncncc2c1]]",
-        "[[smi:c1ccc2[nH]cnc2c1]]"
+        "[[smi:C1Cc2ccccc2CN1]]"
       ],
       "answer": "[[smi:c1ccc2[nH]ccc2c1]]",
-      "explanation": "정답: indole\n벤젠 + pyrrole(5원), NH — Trp 유래\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: indole\n벤젠 + pyrrole(5원), NH — Trp 유래\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 7,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n'quinoline'의 구조는?",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n'quinoline'의 구조는?",
       "choices": [
         "[[smi:c1ccc2[nH]ccc2c1]]",
         "[[smi:c1ccc2ncccc2c1]]",
         "[[smi:c1ccc2cnccc2c1]]",
         "[[smi:c1ccc2ncncc2c1]]",
-        "[[smi:c1ccc2[nH]cnc2c1]]"
+        "[[smi:C1Cc2ccccc2CN1]]"
       ],
       "answer": "[[smi:c1ccc2ncccc2c1]]",
-      "explanation": "정답: quinoline\n벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: quinoline\n벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 8,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n'isoquinoline'의 구조는?",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n'isoquinoline'의 구조는?",
       "choices": [
         "[[smi:c1ccc2[nH]ccc2c1]]",
         "[[smi:c1ccc2ncccc2c1]]",
         "[[smi:c1ccc2cnccc2c1]]",
         "[[smi:c1ccc2ncncc2c1]]",
-        "[[smi:c1ccc2[nH]cnc2c1]]"
+        "[[smi:C1Cc2ccccc2CN1]]"
       ],
       "answer": "[[smi:c1ccc2cnccc2c1]]",
-      "explanation": "정답: isoquinoline\n벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
+      "explanation": "정답: isoquinoline\n벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 9,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n'quinazoline'의 구조는?",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n'quinazoline'의 구조는?",
       "choices": [
         "[[smi:c1ccc2[nH]ccc2c1]]",
         "[[smi:c1ccc2ncccc2c1]]",
         "[[smi:c1ccc2cnccc2c1]]",
         "[[smi:c1ccc2ncncc2c1]]",
-        "[[smi:c1ccc2[nH]cnc2c1]]"
+        "[[smi:C1Cc2ccccc2CN1]]"
       ],
       "answer": "[[smi:c1ccc2ncncc2c1]]",
-      "explanation": "정답: quinazoline\n벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
-    },
-    {
-      "id": 10,
-      "question": "[구조 기초 · 벤젠이 붙은 방향족 질소 고리]\n'benzimidazole'의 구조는?",
-      "choices": [
-        "[[smi:c1ccc2[nH]ccc2c1]]",
-        "[[smi:c1ccc2ncccc2c1]]",
-        "[[smi:c1ccc2cnccc2c1]]",
-        "[[smi:c1ccc2ncncc2c1]]",
-        "[[smi:c1ccc2[nH]cnc2c1]]"
-      ],
-      "answer": "[[smi:c1ccc2[nH]cnc2c1]]",
-      "explanation": "정답: benzimidazole\n벤젠 + imidazole(5원, N 2개)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + pyrimidine(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· benzimidazole: 벤젠 + imidazole(5원, N 2개)"
-    },
-    {
-      "id": 11,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n다음 구조의 이름은?\n[[smi:C1Cc2ccccc2N1]]",
-      "choices": [
-        "indoline",
-        "1,2,3,4-tetrahydroquinoline",
-        "1,2,3,4-tetrahydroisoquinoline",
-        "isoindoline",
-        "indole"
-      ],
-      "answer": "indoline",
-      "explanation": "정답: indoline\nindole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 12,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n다음 구조의 이름은?\n[[smi:C1CNc2ccccc2C1]]",
-      "choices": [
-        "indoline",
-        "1,2,3,4-tetrahydroquinoline",
-        "1,2,3,4-tetrahydroisoquinoline",
-        "isoindoline",
-        "indole"
-      ],
-      "answer": "1,2,3,4-tetrahydroquinoline",
-      "explanation": "정답: 1,2,3,4-tetrahydroquinoline\nquinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
+      "explanation": "정답: quinazoline\n벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 13,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n다음 구조의 이름은?\n[[smi:C1Cc2ccccc2CN1]]",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n다음 구조의 이름은?\n[[smi:C1Cc2ccccc2CN1]]",
       "choices": [
-        "indoline",
-        "1,2,3,4-tetrahydroquinoline",
-        "1,2,3,4-tetrahydroisoquinoline",
-        "isoindoline",
-        "indole"
+        "indole",
+        "quinoline",
+        "isoquinoline",
+        "quinazoline",
+        "1,2,3,4-tetrahydroisoquinoline"
       ],
       "answer": "1,2,3,4-tetrahydroisoquinoline",
-      "explanation": "정답: 1,2,3,4-tetrahydroisoquinoline\nisoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 14,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n다음 구조의 이름은?\n[[smi:C1NCc2ccccc21]]",
-      "choices": [
-        "indoline",
-        "1,2,3,4-tetrahydroquinoline",
-        "1,2,3,4-tetrahydroisoquinoline",
-        "isoindoline",
-        "indole"
-      ],
-      "answer": "isoindoline",
-      "explanation": "정답: isoindoline\n벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 15,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2[nH]ccc2c1]]",
-      "choices": [
-        "indoline",
-        "1,2,3,4-tetrahydroquinoline",
-        "1,2,3,4-tetrahydroisoquinoline",
-        "isoindoline",
-        "indole"
-      ],
-      "answer": "indole",
-      "explanation": "정답: indole\n5원 쪽도 방향족(이중결합 있음)\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 16,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n'indoline'의 구조는?",
-      "choices": [
-        "[[smi:C1Cc2ccccc2N1]]",
-        "[[smi:C1CNc2ccccc2C1]]",
-        "[[smi:C1Cc2ccccc2CN1]]",
-        "[[smi:C1NCc2ccccc21]]",
-        "[[smi:c1ccc2[nH]ccc2c1]]"
-      ],
-      "answer": "[[smi:C1Cc2ccccc2N1]]",
-      "explanation": "정답: indoline\nindole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 17,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n'1,2,3,4-tetrahydroquinoline'의 구조는?",
-      "choices": [
-        "[[smi:C1Cc2ccccc2N1]]",
-        "[[smi:C1CNc2ccccc2C1]]",
-        "[[smi:C1Cc2ccccc2CN1]]",
-        "[[smi:C1NCc2ccccc21]]",
-        "[[smi:c1ccc2[nH]ccc2c1]]"
-      ],
-      "answer": "[[smi:C1CNc2ccccc2C1]]",
-      "explanation": "정답: 1,2,3,4-tetrahydroquinoline\nquinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
+      "explanation": "정답: 1,2,3,4-tetrahydroisoquinoline\nisoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 18,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n'1,2,3,4-tetrahydroisoquinoline'의 구조는?",
+      "question": "[구조 기초 · 벤젠이 붙은 질소 고리]\n'1,2,3,4-tetrahydroisoquinoline'의 구조는?",
       "choices": [
-        "[[smi:C1Cc2ccccc2N1]]",
-        "[[smi:C1CNc2ccccc2C1]]",
-        "[[smi:C1Cc2ccccc2CN1]]",
-        "[[smi:C1NCc2ccccc21]]",
-        "[[smi:c1ccc2[nH]ccc2c1]]"
+        "[[smi:c1ccc2[nH]ccc2c1]]",
+        "[[smi:c1ccc2ncccc2c1]]",
+        "[[smi:c1ccc2cnccc2c1]]",
+        "[[smi:c1ccc2ncncc2c1]]",
+        "[[smi:C1Cc2ccccc2CN1]]"
       ],
       "answer": "[[smi:C1Cc2ccccc2CN1]]",
-      "explanation": "정답: 1,2,3,4-tetrahydroisoquinoline\nisoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 19,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n'isoindoline'의 구조는?",
-      "choices": [
-        "[[smi:C1Cc2ccccc2N1]]",
-        "[[smi:C1CNc2ccccc2C1]]",
-        "[[smi:C1Cc2ccccc2CN1]]",
-        "[[smi:C1NCc2ccccc21]]",
-        "[[smi:c1ccc2[nH]ccc2c1]]"
-      ],
-      "answer": "[[smi:C1NCc2ccccc21]]",
-      "explanation": "정답: isoindoline\n벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
-    },
-    {
-      "id": 20,
-      "question": "[구조 기초 · 환원된 벤조 질소 고리]\n'indole'의 구조는?",
-      "choices": [
-        "[[smi:C1Cc2ccccc2N1]]",
-        "[[smi:C1CNc2ccccc2C1]]",
-        "[[smi:C1Cc2ccccc2CN1]]",
-        "[[smi:C1NCc2ccccc21]]",
-        "[[smi:c1ccc2[nH]ccc2c1]]"
-      ],
-      "answer": "[[smi:c1ccc2[nH]ccc2c1]]",
-      "explanation": "정답: indole\n5원 쪽도 방향족(이중결합 있음)\n\n이 묶음 구별 포인트:\n· indoline: indole의 2,3 이중결합이 환원된 것(5원 포화 쪽)\n· 1,2,3,4-tetrahydroquinoline: quinoline의 N 쪽 고리가 포화, N이 벤젠에 직접 붙음\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n· isoindoline: 벤젠 + 5원 포화, N이 양쪽 CH₂ 사이\n· indole: 5원 쪽도 방향족(이중결합 있음)"
+      "explanation": "정답: 1,2,3,4-tetrahydroisoquinoline\nisoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본\n\n이 묶음 구별 포인트:\n· indole: 벤젠 + pyrrole(5원), NH — Trp 유래\n· quinoline: 벤젠 + pyridine, N이 1번(고리 접합부 바로 옆) — quinine, dictamnine\n· isoquinoline: 벤젠 + pyridine, N이 2번(한 칸 떨어짐) — papaverine, berberine 계열\n· quinazoline: 벤젠 + 6원 고리(N 2개, 1·3번) — anthranilic acid 유래(peganine)\n· 1,2,3,4-tetrahydroisoquinoline: isoquinoline의 N 쪽 고리가 포화, N이 벤젠에서 한 칸 떨어짐 — benzylisoquinoline·morphine·emetine의 기본"
     },
     {
       "id": 21,
@@ -270,11 +140,10 @@
         "coumarin",
         "isocoumarin",
         "chromone",
-        "benzofuran",
-        "chromane"
+        "phthalide"
       ],
       "answer": "coumarin",
-      "explanation": "정답: coumarin\n2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: coumarin\n2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 22,
@@ -283,11 +152,10 @@
         "coumarin",
         "isocoumarin",
         "chromone",
-        "benzofuran",
-        "chromane"
+        "phthalide"
       ],
       "answer": "isocoumarin",
-      "explanation": "정답: isocoumarin\n1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: isocoumarin\n1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 23,
@@ -296,37 +164,10 @@
         "coumarin",
         "isocoumarin",
         "chromone",
-        "benzofuran",
-        "chromane"
+        "phthalide"
       ],
       "answer": "chromone",
-      "explanation": "정답: chromone\n4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
-    },
-    {
-      "id": 24,
-      "question": "[구조 기초 · 벤젠이 붙은 산소 고리]\n다음 구조의 이름은?\n[[smi:c1ccc2occc2c1]]",
-      "choices": [
-        "coumarin",
-        "isocoumarin",
-        "chromone",
-        "benzofuran",
-        "chromane"
-      ],
-      "answer": "benzofuran",
-      "explanation": "정답: benzofuran\n벤젠 + furan(5원)\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
-    },
-    {
-      "id": 25,
-      "question": "[구조 기초 · 벤젠이 붙은 산소 고리]\n다음 구조의 이름은?\n[[smi:C1CCc2ccccc2O1]]",
-      "choices": [
-        "coumarin",
-        "isocoumarin",
-        "chromone",
-        "benzofuran",
-        "chromane"
-      ],
-      "answer": "chromane",
-      "explanation": "정답: chromane\n벤젠 + 포화 pyran(이중결합·C=O 없음)\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: chromone\n4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 26,
@@ -335,11 +176,10 @@
         "[[smi:O=C1C=Cc2ccccc2O1]]",
         "[[smi:O=C1OC=Cc2ccccc21]]",
         "[[smi:O=C1C=COc2ccccc21]]",
-        "[[smi:c1ccc2occc2c1]]",
-        "[[smi:C1CCc2ccccc2O1]]"
+        "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1C=Cc2ccccc2O1]]",
-      "explanation": "정답: coumarin\n2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: coumarin\n2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 27,
@@ -348,11 +188,10 @@
         "[[smi:O=C1C=Cc2ccccc2O1]]",
         "[[smi:O=C1OC=Cc2ccccc21]]",
         "[[smi:O=C1C=COc2ccccc21]]",
-        "[[smi:c1ccc2occc2c1]]",
-        "[[smi:C1CCc2ccccc2O1]]"
+        "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1OC=Cc2ccccc21]]",
-      "explanation": "정답: isocoumarin\n1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: isocoumarin\n1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     },
     {
       "id": 28,
@@ -361,37 +200,10 @@
         "[[smi:O=C1C=Cc2ccccc2O1]]",
         "[[smi:O=C1OC=Cc2ccccc21]]",
         "[[smi:O=C1C=COc2ccccc21]]",
-        "[[smi:c1ccc2occc2c1]]",
-        "[[smi:C1CCc2ccccc2O1]]"
+        "[[smi:O=C1OCc2ccccc21]]"
       ],
       "answer": "[[smi:O=C1C=COc2ccccc21]]",
-      "explanation": "정답: chromone\n4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
-    },
-    {
-      "id": 29,
-      "question": "[구조 기초 · 벤젠이 붙은 산소 고리]\n'benzofuran'의 구조는?",
-      "choices": [
-        "[[smi:O=C1C=Cc2ccccc2O1]]",
-        "[[smi:O=C1OC=Cc2ccccc21]]",
-        "[[smi:O=C1C=COc2ccccc21]]",
-        "[[smi:c1ccc2occc2c1]]",
-        "[[smi:C1CCc2ccccc2O1]]"
-      ],
-      "answer": "[[smi:c1ccc2occc2c1]]",
-      "explanation": "정답: benzofuran\n벤젠 + furan(5원)\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
-    },
-    {
-      "id": 30,
-      "question": "[구조 기초 · 벤젠이 붙은 산소 고리]\n'chromane'의 구조는?",
-      "choices": [
-        "[[smi:O=C1C=Cc2ccccc2O1]]",
-        "[[smi:O=C1OC=Cc2ccccc21]]",
-        "[[smi:O=C1C=COc2ccccc21]]",
-        "[[smi:c1ccc2occc2c1]]",
-        "[[smi:C1CCc2ccccc2O1]]"
-      ],
-      "answer": "[[smi:C1CCc2ccccc2O1]]",
-      "explanation": "정답: chromane\n벤젠 + 포화 pyran(이중결합·C=O 없음)\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· benzofuran: 벤젠 + furan(5원)\n· chromane: 벤젠 + 포화 pyran(이중결합·C=O 없음)"
+      "explanation": "정답: chromone\n4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n\n이 묶음 구별 포인트:\n· coumarin: 2H-1-benzopyran-2-one — C=O가 고리 O 바로 옆\n· isocoumarin: 1H-2-benzopyran-1-one — C=O가 벤젠에 직접 붙고 O가 그 옆\n· chromone: 4H-1-benzopyran-4-one — C=O가 고리 O의 맞은편\n· phthalide: 벤젠 + 5원 lactone — ligustilide(천궁·일당귀)"
     }
   ]
 }
