@@ -44,6 +44,9 @@ for path in index.get("decks", []):
         texts = [q.get("question", ""), q.get("explanation", "")] + (ch or [])
         for t in texts:
             for img in re.findall(r"\[\[img:([^|\]]+)", str(t)):
+                # decks/<과목>/local/ 그림은 GitHub에 올리지 않는 내 컴퓨터 전용이므로 검사하지 않는다
+                if "local" in img.strip().split("/"):
+                    continue
                 if not os.path.exists(os.path.join("decks", img.strip())):
                     errors.append(f"{path} (id {qid}): 그림 없음 — {img.strip()}")
 
