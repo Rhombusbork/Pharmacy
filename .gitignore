@@ -8,5 +8,4 @@ Thumbs.db
 # 강의 자료(PPT·녹음·기출 PDF) — 저장소에 올리지 않음
 자료모음/
 
-# PPT 슬라이드 그림 — 내 컴퓨터(localhost)에서만 사용, 저작권상 공개 금지
 decks/*/local/
