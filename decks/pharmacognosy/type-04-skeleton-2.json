@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[smi:CC1CCC2(CCC3(C(C2C1C)CCC4C3(CCC5C4(CCCC5(C)C)C)C)C)C]]",
+      "question": "[기출 2025-2] [25~29] 해당하는 triterpene 골격 이름을 아래 보기 중에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q29.png|29번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC1CCC2(CCC3(C(C2C1C)CCC4C3(CCC5C4(CCCC5(C)C)C)C)C)C]]",
       "choices": [
         "Lupane",
         "Dammarane",
@@ -14,7 +14,7 @@
         "Oleanane"
       ],
       "answer": "Ursane",
-      "explanation": "정답: Ursane\n⚠ PPT 대조: 족보 그림 안에 'ursane'이라는 이름이 그대로 적혀 있음.\n출처: 2025-2 중간 29번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Ursane\n⚠ PPT 대조: 족보 그림 안에 'ursane'이라는 이름이 그대로 적혀 있음.\n출처: 2025-2 중간 29번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 2,
@@ -44,15 +44,15 @@
     },
     {
       "id": 4,
-      "question": "[기출 2020-2·2023-1·2023-2] 골격 이름: steroid 골격\n[[smi:CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n(A)에 들어갈 이름은?",
       "answer": [
         "cholestane"
       ],
-      "explanation": "정답: cholestane\n출처: 2020-2 중간 골격 · 2023-1 중간 주관5 · 2023-2 중간 25 (3회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: cholestane\n출처: 2020-2 중간 골격 · 2023-1 중간 주관5 · 2023-2 중간 25 (3회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 5,
-      "question": "[기출 2023-2] 25. Steroids 기본 골격\n[[smi:CC12CCCC1C3CCC4CCCCC4C3CC2]]\n다음 골격의 이름은?",
+      "question": "[기출 2023-2] 25. Steroids 기본 골격의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q25-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC12CCCC1C3CCC4CCCCC4C3CC2]]\n( ② )에 들어갈 것은?",
       "choices": [
         "cholestane",
         "estrane",
@@ -64,51 +64,51 @@
         "friedelin"
       ],
       "answer": "estrane",
-      "explanation": "정답: estrane\n출처: 2023-2 중간 25\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: estrane\n출처: 2023-2 중간 25\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 6,
-      "question": "[기출 2020-2] 골격 이름: steroid 골격\n[[smi:CCC1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CCC1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n(B)에 들어갈 이름은?",
       "answer": [
         "pregnane"
       ],
-      "explanation": "정답: pregnane\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: pregnane\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 7,
-      "question": "[기출 2020-2·2021-2] 골격 이름: steroid 골격\n[[smi:CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2021-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C]]\n(C)에 들어갈 이름은?",
       "answer": [
         "ergostane"
       ],
-      "explanation": "정답: ergostane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: ergostane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 8,
-      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름: steroid 골격\n[[smi:CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C)C(C)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C)C(C)C]]\n(D)에 들어갈 이름은?",
       "answer": [
         "stigmastane"
       ],
-      "explanation": "정답: stigmastane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: stigmastane\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 9,
-      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름: steroid 골격\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=CC(=O)OC5)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2021-2·2023-1·2023-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=CC(=O)OC5)C]]\n(E)에 들어갈 이름은?",
       "answer": [
         "cardenolide"
       ],
-      "explanation": "정답: cardenolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: cardenolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 · 2023-1 중간 주관5 · 2023-2 중간 25 (4회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 10,
-      "question": "[기출 2020-2·2021-2] 골격 이름: steroid 골격\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=COC(=O)C=C5)C]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2021-2] 골격 이름 — 빈칸 채우기: steroid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-steroid.png|steroid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=COC(=O)C=C5)C]]\n(F)에 들어갈 이름은?",
       "answer": [
         "bufadienolide"
       ],
-      "explanation": "정답: bufadienolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: bufadienolide\n출처: 2020-2 중간 골격 · 2021-2 중간 15 (2회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 11,
-      "question": "[기출 2023-1] 다음 강심배당체에 포함된 당 구조의 이름은?\n[[smi:CC1OC(O)CC(OC)C1O]]",
+      "question": "[기출 2023-1] 다음 강심배당체에 포함된 당 구조의 이름은?\n[[img:pharmacognosy/images/2023-1-mid-m16.png|당 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC1OC(O)CC(OC)C1O]]",
       "choices": [
         "oleandrose",
         "rhamnose",
@@ -117,20 +117,20 @@
         "vallarose"
       ],
       "answer": "cymarose",
-      "explanation": "정답: cymarose\n2,6-dideoxy + 3-O-methyl 당 — cymarose(cymarin의 당). 족보에 답 ④로 표시됨.\n출처: 2023-1 중간 객관16\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: cymarose\n2,6-dideoxy + 3-O-methyl 당 — cymarose(cymarin의 당). 족보에 답 ④로 표시됨.\n출처: 2023-1 중간 객관16\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 12,
-      "question": "[기출 2022-2] 다음 화합물 구조의 이름은?\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=CC(=O)OC5)C]]",
+      "question": "[기출 2022-2] 다음 화합물 구조의 이름은?\n[[img:pharmacognosy/images/2022-2-mid-s5.png|구조식]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC12CCCCC1CCC3C2CCC4(C3CCC4C5=CC(=O)OC5)C]]",
       "answer": [
         "cardenolide",
         "카르데놀라이드"
       ],
-      "explanation": "정답: cardenolide\nsteroid C17에 5원환 불포화 lactone — cardenolide(디기탈리스 강심배당체).\n출처: 2022-2 중간 주관5\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: cardenolide\nsteroid C17에 5원환 불포화 lactone — cardenolide(디기탈리스 강심배당체).\n출처: 2022-2 중간 주관5\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 13,
-      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[smi:C1=CC=C2C(=C1)C=COC2=O]]\n기본골격: 1H-2-benzopyran-1-one",
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q22.png|22번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C2C(=C1)C=COC2=O]]\n기본골격: 1H-2-benzopyran-1-one",
       "choices": [
         "coumarin",
         "naphthoquinone",
@@ -139,11 +139,11 @@
         "isocoumarin"
       ],
       "answer": "isocoumarin",
-      "explanation": "정답: isocoumarin\nisocoumarin = 1H-2-benzopyran-1-one 골격. coumarin과 달리 polyketide 경로로 생합성된다(PPT p.13).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 22번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: isocoumarin\nisocoumarin = 1H-2-benzopyran-1-one 골격. coumarin과 달리 polyketide 경로로 생합성된다(PPT p.13).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 22번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 14,
-      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[smi:C1=CC=C2C(=C1)C=CC(=O)O2]]\n기본골격: 2H-1-benzopyran-2-one",
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q23.png|23번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C2C(=C1)C=CC(=O)O2]]\n기본골격: 2H-1-benzopyran-2-one",
       "choices": [
         "coumarin",
         "naphthoquinone",
@@ -152,11 +152,11 @@
         "isocoumarin"
       ],
       "answer": "coumarin",
-      "explanation": "정답: coumarin\ncoumarin = 2H-1-benzopyran-2-one 골격(PPT p.7).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 23번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: coumarin\ncoumarin = 2H-1-benzopyran-2-one 골격(PPT p.7).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 23번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 15,
-      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[smi:CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC]]\n기본골격: 4H-1-benzopyran-4-one",
+      "question": "[기출 2025-2] 다음 구조에 해당하는 화합물군을 보기에서 고르시오.\n[[img:pharmacognosy/images/2025-mid-q24.png|24번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC]]\n기본골격: 4H-1-benzopyran-4-one",
       "choices": [
         "coumarin",
         "naphthoquinone",
@@ -165,7 +165,7 @@
         "isocoumarin"
       ],
       "answer": "chromone",
-      "explanation": "정답: chromone\n그림은 khellin(chromone). chromone = 4H-1-benzopyran-4-one, polyketide 단원(visnagin, khellin).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 24번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: chromone\n그림은 khellin(chromone). chromone = 4H-1-benzopyran-4-one, polyketide 단원(visnagin, khellin).\n세 골격 비교 — coumarin: 2H-1-benzopyran-2-one / isocoumarin: 1H-2-benzopyran-1-one / chromone: 4H-1-benzopyran-4-one.\n출처: 2025-2 중간 24번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 16,
@@ -193,21 +193,21 @@
     },
     {
       "id": 18,
-      "question": "[기출 2020-2] 골격 이름: Quinone 골격\n[[smi:C1=CC=C2C(=O)C=CC(=O)C2=C1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C2C(=O)C=CC(=O)C2=C1]]\n(A)에 들어갈 이름은?",
       "answer": [
         "naphthoquinone",
         "나프토퀴논"
       ],
-      "explanation": "정답: naphthoquinone\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: naphthoquinone\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 19,
-      "question": "[기출 2020-2] 골격 이름: Quinone 골격\n[[smi:C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: Quinone 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-quinone.png|quinone 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O]]\n(B)에 들어갈 이름은?",
       "answer": [
         "anthraquinone",
         "안트라퀴논"
       ],
-      "explanation": "정답: anthraquinone\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: anthraquinone\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 20,
@@ -256,49 +256,49 @@
     },
     {
       "id": 24,
-      "question": "[기출 2020-2] 골격 이름: flavonoid 골격\n[[smi:C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O]]\n(A)에 들어갈 이름은?",
       "answer": [
         "flavonol",
         "플라보놀"
       ],
-      "explanation": "정답: flavonol\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: flavonol\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 25,
-      "question": "[기출 2020-2·2022-2] 골격 이름: flavonoid 골격\n[[smi:C1C(OC2=CC=CC=C2C1=O)C3=CC=CC=C3]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2022-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1C(OC2=CC=CC=C2C1=O)C3=CC=CC=C3]]\n(B)에 들어갈 이름은?",
       "answer": [
         "flavanone",
         "플라바논"
       ],
-      "explanation": "정답: flavanone\n출처: 2020-2 중간 골격 · 2022-2 중간 주관10 (2회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: flavanone\n출처: 2020-2 중간 골격 · 2022-2 중간 주관10 (2회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 26,
-      "question": "[기출 2020-2] 골격 이름: flavonoid 골격\n[[smi:C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2]]\n(C)에 들어갈 이름은?",
       "answer": [
         "chalcone",
         "칼콘"
       ],
-      "explanation": "정답: chalcone\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: chalcone\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 27,
-      "question": "[기출 2020-2] 골격 이름: flavonoid 골격\n[[smi:C1=CC=C(C=C1)C=C2C(=O)C3=CC=CC=C3O2]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C(C=C1)C=C2C(=O)C3=CC=CC=C3O2]]\n(D)에 들어갈 이름은?",
       "answer": [
         "aurone",
         "오론"
       ],
-      "explanation": "정답: aurone\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: aurone\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 28,
-      "question": "[기출 2020-2] 골격 이름: flavonoid 골격\n[[smi:C1=CC=C(C=C1)C2=COC3=CC=CC=C3C2=O]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: flavonoid 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-flavonoid.png|flavonoid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C(C=C1)C2=COC3=CC=CC=C3C2=O]]\n(E)에 들어갈 이름은?",
       "answer": [
         "isoflavonoid",
         "isoflavone",
         "이소플라본"
       ],
-      "explanation": "정답: isoflavonoid\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: isoflavonoid\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 29,
@@ -315,7 +315,7 @@
     },
     {
       "id": 30,
-      "question": "[기출 2023-2] 27. flavonoid 생합성 그림의 빈칸 구조\n[[smi:C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2O)O)O)O]]\n다음 구조가 속하는 계열은?",
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2O)O)O)O]]\n( ① )에 들어갈 것은?",
       "choices": [
         "Chalcone",
         "Stilbene",
@@ -324,7 +324,7 @@
         "isoflavone"
       ],
       "answer": "Chalcone",
-      "explanation": "정답: Chalcone\n출처: 2023-2 중간 27\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Chalcone\n출처: 2023-2 중간 27\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     }
   ]
 }

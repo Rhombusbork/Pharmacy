@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "[기출 2023-2] 27. flavonoid 생합성 그림의 빈칸 구조\n[[smi:C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O]]\n다음 구조가 속하는 계열은?",
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O]]\n( ② )에 들어갈 것은?",
       "choices": [
         "Chalcone",
         "Stilbene",
@@ -14,11 +14,11 @@
         "isoflavone"
       ],
       "answer": "Stilbene",
-      "explanation": "정답: Stilbene\n출처: 2023-2 중간 27\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Stilbene\n출처: 2023-2 중간 27\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 2,
-      "question": "[기출 2023-2] 27. flavonoid 생합성 그림의 빈칸 구조\n[[smi:C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O]]\n다음 구조가 속하는 계열은?",
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O]]\n( ③ )에 들어갈 것은?",
       "choices": [
         "Chalcone",
         "Stilbene",
@@ -27,11 +27,11 @@
         "isoflavone"
       ],
       "answer": "Flavanone",
-      "explanation": "정답: Flavanone\n출처: 2023-2 중간 27\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Flavanone\n출처: 2023-2 중간 27\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 3,
-      "question": "[기출 2023-2] 27. flavonoid 생합성 그림의 빈칸 구조\n[[smi:C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O]]\n다음 구조가 속하는 계열은?",
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O]]\n( ④ )에 들어갈 것은?",
       "choices": [
         "Chalcone",
         "Stilbene",
@@ -40,11 +40,11 @@
         "isoflavone"
       ],
       "answer": "flavonol",
-      "explanation": "정답: flavonol\n출처: 2023-2 중간 27\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: flavonol\n출처: 2023-2 중간 27\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 4,
-      "question": "[기출 2023-2] 27. flavonoid 생합성 그림의 빈칸 구조\n[[smi:C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O]]\n다음 구조가 속하는 계열은?",
+      "question": "[기출 2023-2] 27. 다음 flavonoid 반응의 빈칸을 채우세요.\n[[img:pharmacognosy/images/2023-mid-q27.png|flavonoid 생합성 그림]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O]]\n( ⑤ )에 들어갈 것은?",
       "choices": [
         "Chalcone",
         "Stilbene",
@@ -53,7 +53,7 @@
         "isoflavone"
       ],
       "answer": "isoflavone",
-      "explanation": "정답: isoflavone\n출처: 2023-2 중간 27\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: isoflavone\n출처: 2023-2 중간 27\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 5,
@@ -117,58 +117,58 @@
     },
     {
       "id": 11,
-      "question": "[기출 2020-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:C1CCNC1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1CCNC1]]\n(A)에 들어갈 이름은?",
       "answer": [
         "pyrrolidine",
         "피롤리딘"
       ],
-      "explanation": "정답: pyrrolidine\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: pyrrolidine\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 12,
-      "question": "[기출 2020-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:C1CCNCC1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1CCNCC1]]\n(B)에 들어갈 이름은?",
       "answer": [
         "piperidine",
         "피페리딘"
       ],
-      "explanation": "정답: piperidine\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: piperidine\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 13,
-      "question": "[기출 2020-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:C1CCN2CCCCC2C1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1CCN2CCCCC2C1]]\n(C)에 들어갈 이름은?",
       "answer": [
         "quinolizidine",
         "퀴놀리지딘"
       ],
-      "explanation": "정답: quinolizidine\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: quinolizidine\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 14,
-      "question": "[기출 2020-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:CN1C2CCCC1CC2]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CN1C2CCCC1CC2]]\n(D)에 들어갈 이름은?",
       "answer": [
         "tropane",
         "트로판"
       ],
-      "explanation": "정답: tropane\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: tropane\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 15,
-      "question": "[기출 2020-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:C1=CC=C2C=NC=CC2=C1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CC=C2C=NC=CC2=C1]]\n(E)에 들어갈 이름은?",
       "answer": [
         "isoquinoline",
         "tetrahydroisoquinoline",
         "이소퀴놀린"
       ],
-      "explanation": "정답: isoquinoline\n출처: 2020-2 중간 골격\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: isoquinoline\n출처: 2020-2 중간 골격\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 16,
-      "question": "[기출 2020-2·2022-2·2023-2] 골격 이름: alkaloid 기본 헤테로고리 골격\n[[smi:C1=CN=CN1]]\n다음 골격의 이름은?",
+      "question": "[기출 2020-2·2022-2·2023-2] 골격 이름 — 빈칸 채우기: alkaloid 기본 헤테로고리 골격\n[[img:pharmacognosy/images/2020-2-mid-sk-alkaloid.png|alkaloid 골격]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1=CN=CN1]]\n(F)에 들어갈 이름은?",
       "answer": [
         "imidazole",
         "이미다졸"
       ],
-      "explanation": "정답: imidazole\n출처: 2020-2 중간 골격 · 2022-2 중간 주관6 · 2023-2 중간 29 (3회 출제)\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: imidazole\n출처: 2020-2 중간 골격 · 2022-2 중간 주관6 · 2023-2 중간 29 (3회 출제)\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 17,
@@ -185,36 +185,36 @@
     },
     {
       "id": 18,
-      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[smi:CN1CCC2=C3C1CC4=CC=CC=C4C3=CC=C2]]",
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q31.png|31번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CN1CCC2=C3C1CC4=CC=CC=C4C3=CC=C2]]",
       "choices": [
         "Morphinane",
         "Aporphine",
         "Pyrroloindole"
       ],
       "answer": "Aporphine",
-      "explanation": "정답: Aporphine\n출처: 2025-2 중간 31번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Aporphine\n출처: 2025-2 중간 31번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 19,
-      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[smi:C1CCC23CCNC(C2C1)CC4=CC=CC=C34]]",
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q30.png|30번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:C1CCC23CCNC(C2C1)CC4=CC=CC=C34]]",
       "choices": [
         "Morphinane",
         "Aporphine",
         "Pyrroloindole"
       ],
       "answer": "Morphinane",
-      "explanation": "정답: Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격.\n출처: 2025-2 중간 30번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Morphinane\n⚠ PPT 대조: 62번 그림과 같은 morphinan 골격.\n출처: 2025-2 중간 30번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 20,
-      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[smi:CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC)C)C]]",
+      "question": "[기출 2025-2] [30~33] 다음 알칼로이드의 구조에 알맞은 이름을 찾으시오. (보기 4·5번과 32번 문제는 족보 복원 실패)\n[[img:pharmacognosy/images/2025-mid-q33.png|33번 구조]]\n▼ 해당 구조 (선명하게 다시 그림)\n[[smi:CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC)C)C]]",
       "choices": [
         "Morphinane",
         "Aporphine",
         "Pyrroloindole"
       ],
       "answer": "Pyrroloindole",
-      "explanation": "정답: Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine).\n출처: 2025-2 중간 33번\n✎ 그림: 족보·PPT 그림이 흐려서 PubChem 구조 데이터로 다시 그림(원래 그림의 번호·빈칸 표시는 없음)."
+      "explanation": "정답: Pyrroloindole\n⚠ PPT 대조: PPT: pyrroloindole alkaloid — physostigmine(eserine).\n출처: 2025-2 중간 33번\n✎ 그림: 원래 그림 아래에 해당 구조를 PubChem 구조 데이터로 선명하게 다시 그려 함께 실음."
     },
     {
       "id": 21,
