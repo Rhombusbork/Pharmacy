@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "question": "[원리] GPP 대신 neryl(cis) 형태가 고리형 monoterpene 생성에 유리한 이유는?\n[[smi:CC(C)=CCC/C(C)=C\\\\COP(=O)(O)OP(=O)(O)O]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p18.png|PPT iso-p18]]\n[[img:pharmacognosy/local/iso-p32.png|PPT iso-p32]]",
+      "question": "[원리] GPP 대신 neryl(cis) 형태가 고리형 monoterpene 생성에 유리한 이유는?\n[[smi:CC(C)=CCCC(C)=CCOP(=O)(O)OP(=O)(O)O]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p18.png|PPT iso-p18]]\n[[img:pharmacognosy/local/iso-p32.png|PPT iso-p32]]",
       "choices": [
         "알데하이드(CHO)가 있어 amine(tryptamine, dopamine)과 iminium을 만들고 Mannich형 반응을 할 수 있다",
         "C10의 작은 분자라 휘발성이 커서 수증기 증류로 얻을 수 있기 때문",

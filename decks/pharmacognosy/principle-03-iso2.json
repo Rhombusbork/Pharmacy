@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "[원리] squalene이 C30 triterpene과 steroid의 공통 출발점이 되는 이유는?\n[[rxn:CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)O>>CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\\\\C)CC/C=C(\\\\C)CCC=C(C)C|FPP × 2, NADPH]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]",
+      "question": "[원리] squalene이 C30 triterpene과 steroid의 공통 출발점이 되는 이유는?\n[[rxn:CC(C)=CCCC(C)=CCCC(C)=CCOP(=O)(O)OP(=O)(O)O>>CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C|FPP × 2, NADPH]]\n\n(PPT 슬라이드를 보고 생각해 보세요)\n[[img:pharmacognosy/local/iso-p56.png|PPT iso-p56]]\n[[img:pharmacognosy/local/iso-p57.png|PPT iso-p57]]",
       "choices": [
         "지용성 aglycone(triterpene·steroid)과 수용성 당이 한 분자에 있는 양친매성(계면활성) 물질이라서",
         "FPP 2분자가 tail-to-tail로 결합한 선형 C30이 산화(2,3-epoxide)된 뒤 고리화하기 때문",
