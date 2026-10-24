@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "question": "[PPT p.24 복습] kadsurenone(Piper futokadsura, PAF inhibitor)의 '생합성 과정 / building block / 화합물군'으로 옳은 것은?",
+      "question": "[PPT p.24 복습] kadsurenone(Piper futokadsura, PAF inhibitor)의 '생합성 과정 / building block / 화합물군'으로 옳은 것은?\n▼ kadsurenone 구조\n[[smi:CC1C(OC2=CC(=O)C(=CC12OC)CC=C)C3=CC(=C(C=C3)OC)OC]]",
       "choices": [
         "shikimate / C6C3×2 / neolignan",
         "shikimate / C6C3×2 / lignan",
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "question": "[PPT p.36 복습표] shikonin의 '생합성 과정 / building block / 화합물군'으로 PPT에 예시된 것은?",
+      "question": "[PPT p.36 복습표] shikonin의 '생합성 과정 / building block / 화합물군'으로 PPT에 예시된 것은?\n▼ shikonin 구조\n[[smi:CC(=CCC(C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C]]",
       "choices": [
         "shikimate + mevalonate / C6 + 2×C5 / naphthoquinone",
         "polyketide / 4×C2 / naphthoquinone",
@@ -82,7 +82,7 @@
     },
     {
       "id": 7,
-      "question": "[PPT p.32] 옻나무의 urushiol 생합성 시작 단위는?",
+      "question": "[PPT p.32] 옻나무의 urushiol 생합성 시작 단위는?\n▼ urushiol 구조\n[[smi:CCCCCCCCCCCCCCCC1=C(C(=CC=C1)O)O]]",
       "choices": [
         "palmitoleyl-CoA (+ 3 malonyl-CoA)",
         "hexanoyl-CoA",
@@ -95,7 +95,7 @@
     },
     {
       "id": 8,
-      "question": "[PPT p.33] anthracycline계 항암제(daunorubicin, doxorubicin)의 시작 단위와 연장 단위는?",
+      "question": "[PPT p.33] anthracycline계 항암제(daunorubicin, doxorubicin)의 시작 단위와 연장 단위는?\n▼ daunorubicin 구조\n[[smi:CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O]]",
       "choices": [
         "propionyl-CoA + 9 malonyl-CoA",
         "acetyl-CoA + 3 malonyl-CoA",
@@ -107,7 +107,7 @@
     },
     {
       "id": 9,
-      "question": "[PPT p.34] tetracycline계 항생물질의 시작 단위는?",
+      "question": "[PPT p.34] tetracycline계 항생물질의 시작 단위는?\n▼ tetracycline 구조\n[[smi:CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O]]",
       "choices": [
         "malonamyl-CoA (+ 8 malonyl-CoA)",
         "propionyl-CoA",
@@ -133,7 +133,7 @@
     },
     {
       "id": 11,
-      "question": "[PPT p.36 복습표] orsellinic acid의 '생합성 과정 / building block / 화합물군'은?",
+      "question": "[PPT p.36 복습표] orsellinic acid의 '생합성 과정 / building block / 화합물군'은?\n▼ orsellinic acid 구조\n[[smi:CC1=CC(=CC(=C1C(=O)O)O)O]]",
       "choices": [
         "polyketide / 4 × C2 / phenol(resorcinol 유도체)",
         "shikimate / C6C1 / benzoic acid",
@@ -145,7 +145,7 @@
     },
     {
       "id": 12,
-      "question": "[PPT p.36 복습표] phloracetophenone의 화합물군은?",
+      "question": "[PPT p.36 복습표] phloracetophenone의 화합물군은?\n▼ phloracetophenone 구조\n[[smi:CC(=O)C1=C(C=C(C=C1O)O)O]]",
       "choices": [
         "phloroglucinol",
         "resorcinol",
@@ -158,7 +158,7 @@
     },
     {
       "id": 13,
-      "question": "[PPT p.37 복습표] cannabinol의 '생합성 과정 / building block / 화합물군'은?",
+      "question": "[PPT p.37 복습표] cannabinol의 '생합성 과정 / building block / 화합물군'은?\n▼ cannabinol 구조\n[[smi:CCCCCC1=CC(=C2C(=C1)OC(C3=C2C=C(C=C3)C)(C)C)O]]",
       "choices": [
         "polyketide + mevalonate / 6 × C2 + 2 × C5 / cannabinoid",
         "polyketide / 4 × C2 / phloroglucinol",
@@ -170,7 +170,7 @@
     },
     {
       "id": 14,
-      "question": "[PPT p.37 복습표] visnagin의 '생합성 과정 / 화합물군'은?",
+      "question": "[PPT p.37 복습표] visnagin의 '생합성 과정 / 화합물군'은?\n▼ visnagin 구조\n[[smi:CC1=CC(=O)C2=C(O1)C=C3C(=C2OC)C=CO3]]",
       "choices": [
         "polyketide / chromone",
         "shikimate / coumarin",
@@ -182,7 +182,7 @@
     },
     {
       "id": 15,
-      "question": "[PPT p.2] xanthone의 building block 구성은?",
+      "question": "[PPT p.2] xanthone의 building block 구성은?\n▼ xanthone 구조\n[[smi:C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3O2]]",
       "choices": [
         "C6C1 + 3 × C2",
         "C6C3 + 3 × C2",
@@ -195,7 +195,7 @@
     },
     {
       "id": 16,
-      "question": "[PPT p.2] flavonoid의 building block 구성은?",
+      "question": "[PPT p.2] flavonoid의 building block 구성은?\n▼ flavone(flavonoid 기본형) 구조\n[[smi:C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2]]",
       "choices": [
         "C6C3 + 3 × C2 (+ 당)",
         "C6C1 + 3 × C2",
@@ -208,7 +208,7 @@
     },
     {
       "id": 17,
-      "question": "[PPT p.2] stilbene의 building block 구성은?",
+      "question": "[PPT p.2] stilbene의 building block 구성은?\n▼ resveratrol(stilbene) 구조\n[[smi:C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O]]",
       "choices": [
         "C6C2 + 3 × C2",
         "C6C3 + 3 × C2",
@@ -221,7 +221,7 @@
     },
     {
       "id": 18,
-      "question": "[PPT p.3] 홉의 humulone의 building block 구성으로 PPT에 나온 것은?",
+      "question": "[PPT p.3] 홉의 humulone의 building block 구성으로 PPT에 나온 것은?\n▼ humulone 구조\n[[smi:CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O]]",
       "choices": [
         "3 × C2 + 3 × C5",
         "6 × C2 + 2 × C5",
@@ -234,7 +234,7 @@
     },
     {
       "id": 19,
-      "question": "[PPT p.3] lupulone의 building block 구성으로 PPT에 나온 것은?",
+      "question": "[PPT p.3] lupulone의 building block 구성으로 PPT에 나온 것은?\n▼ lupulone 구조\n[[smi:CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O]]",
       "choices": [
         "3 × C2 + 4 × C5",
         "3 × C2 + 3 × C5",
@@ -247,7 +247,7 @@
     },
     {
       "id": 20,
-      "question": "[PPT p.6] cocaine의 building block 구성은?",
+      "question": "[PPT p.6] cocaine의 building block 구성은?\n▼ cocaine 구조\n[[smi:CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC]]",
       "choices": [
         "C4N + 2 × C2 + (C6C1) + 2 × C1",
         "C5N + 3 × C2",

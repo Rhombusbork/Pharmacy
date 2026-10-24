@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "question": "[PPT p.17] senecionine의 구성으로 옳은 것은?",
+      "question": "[PPT p.17] senecionine의 구성으로 옳은 것은?\n▼ senecionine 구조\n[[smi:CC=C1CC(C(C(=O)OCC2=CCN3C2C(CC3)OC1=O)(C)O)C]]",
       "choices": [
         "retronecine(necine 염기) + senecic acid(L-Ile 2분자 유래)",
         "tropine + tropic acid",
@@ -29,7 +29,7 @@
     },
     {
       "id": 3,
-      "question": "[PPT p.17] senecic acid의 원료 아미노산은?",
+      "question": "[PPT p.17] senecic acid의 원료 아미노산은?\n▼ senecic acid 구조\n[[smi:CC=C(CC(C)C(C)(C(=O)O)O)C(=O)O]]",
       "choices": [
         "L-isoleucine 2분자",
         "L-ornithine",
@@ -78,7 +78,7 @@
     },
     {
       "id": 7,
-      "question": "[PPT p.65] dolichotheline의 구성으로 그림에 나온 것은?",
+      "question": "[PPT p.65] dolichotheline의 구성으로 그림에 나온 것은?\n▼ dolichotheline 구조\n[[smi:CC(C)CC(=O)NCCC1=CN=CN1]]",
       "choices": [
         "histamine + isovaleric acid (amide)",
         "tryptamine + secologanin",
