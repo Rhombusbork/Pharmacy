@@ -1,0 +1,137 @@
+{
+  "deckId": "pharmacognosy-photo-05",
+  "subject": "생약학",
+  "title": "구조 사진 5 · steroid 기본 골격",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-cholestane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "cholestane",
+        "pregnane",
+        "cholane",
+        "androstane",
+        "estrane"
+      ],
+      "answer": "cholestane",
+      "explanation": "정답: cholestane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-estrane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "estrane",
+        "stigmastane",
+        "spirostane",
+        "ergostane",
+        "androstane"
+      ],
+      "answer": "estrane",
+      "explanation": "정답: estrane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-androstane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "androstane",
+        "ergostane",
+        "spirostane",
+        "cardenolide",
+        "pregnane"
+      ],
+      "answer": "androstane",
+      "explanation": "정답: androstane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-pregnane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "pregnane",
+        "spirostane",
+        "bufadienolide",
+        "cholestane",
+        "cholane"
+      ],
+      "answer": "pregnane",
+      "explanation": "정답: pregnane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-cholane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "cholane",
+        "cardenolide",
+        "androstane",
+        "pregnane",
+        "ergostane"
+      ],
+      "answer": "cholane",
+      "explanation": "정답: cholane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-ergostane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "ergostane",
+        "androstane",
+        "cholestane",
+        "cholane",
+        "cardenolide"
+      ],
+      "answer": "ergostane",
+      "explanation": "정답: ergostane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-stigmastane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "stigmastane",
+        "pregnane",
+        "cholane",
+        "bufadienolide",
+        "cholestane"
+      ],
+      "answer": "stigmastane",
+      "explanation": "정답: stigmastane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-spirostane.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "spirostane",
+        "stigmastane",
+        "pregnane",
+        "estrane",
+        "cholane"
+      ],
+      "answer": "spirostane",
+      "explanation": "정답: spirostane\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-cardenolide.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "cardenolide",
+        "bufadienolide",
+        "stigmastane",
+        "cholane",
+        "cholestane"
+      ],
+      "answer": "cardenolide",
+      "explanation": "정답: cardenolide\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    },
+    {
+      "id": 10,
+      "question": "[구조 사진 · steroid 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-05-bufadienolide.png|steroid 기본 골격 구조]]",
+      "choices": [
+        "bufadienolide",
+        "cardenolide",
+        "spirostane",
+        "estrane",
+        "androstane"
+      ],
+      "answer": "bufadienolide",
+      "explanation": "정답: bufadienolide\n출처: 생약학 PPT 구조 그림 — steroid 기본 골격"
+    }
+  ]
+}

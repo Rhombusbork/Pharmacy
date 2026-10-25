@@ -1,0 +1,163 @@
+{
+  "deckId": "pharmacognosy-photo-07",
+  "subject": "생약학",
+  "title": "구조 사진 7 · steroid 생합성 경로",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-squalene-2-3-oxide.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "squalene-2,3-oxide",
+        "lanosterol",
+        "digitoxigenin",
+        "cycloartenol",
+        "stigmasterol"
+      ],
+      "answer": "squalene-2,3-oxide",
+      "explanation": "정답: squalene-2,3-oxide\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-protosteryl-cation.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "protosteryl cation",
+        "cholesterol",
+        "pregnenolone",
+        "cinobufogenin",
+        "campesterol"
+      ],
+      "answer": "protosteryl cation",
+      "explanation": "정답: protosteryl cation\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-lanosterol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "lanosterol",
+        "campesterol",
+        "β-sitosterol",
+        "cholesterol",
+        "digitoxigenin"
+      ],
+      "answer": "lanosterol",
+      "explanation": "정답: lanosterol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-cholesterol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "cholesterol",
+        "pregnenolone",
+        "cinobufogenin",
+        "diosgenin",
+        "β-sitosterol"
+      ],
+      "answer": "cholesterol",
+      "explanation": "정답: cholesterol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-cycloartenol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "cycloartenol",
+        "digitoxigenin",
+        "campesterol",
+        "diosgenin",
+        "pregnenolone"
+      ],
+      "answer": "cycloartenol",
+      "explanation": "정답: cycloartenol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-cinobufogenin.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "cinobufogenin",
+        "squalene-2,3-oxide",
+        "pregnenolone",
+        "protosteryl cation",
+        "cycloartenol"
+      ],
+      "answer": "cinobufogenin",
+      "explanation": "정답: cinobufogenin\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-pregnenolone.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "pregnenolone",
+        "squalene-2,3-oxide",
+        "cinobufogenin",
+        "campesterol",
+        "β-sitosterol"
+      ],
+      "answer": "pregnenolone",
+      "explanation": "정답: pregnenolone\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-diosgenin.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "diosgenin",
+        "cinobufogenin",
+        "pregnenolone",
+        "squalene-2,3-oxide",
+        "lanosterol"
+      ],
+      "answer": "diosgenin",
+      "explanation": "정답: diosgenin\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-campesterol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "campesterol",
+        "stigmasterol",
+        "β-sitosterol",
+        "cycloartenol",
+        "cholesterol"
+      ],
+      "answer": "campesterol",
+      "explanation": "정답: campesterol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 10,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-beta-sitosterol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "β-sitosterol",
+        "cholesterol",
+        "stigmasterol",
+        "lanosterol",
+        "campesterol"
+      ],
+      "answer": "β-sitosterol",
+      "explanation": "정답: β-sitosterol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 11,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-stigmasterol.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "stigmasterol",
+        "pregnenolone",
+        "campesterol",
+        "protosteryl cation",
+        "squalene-2,3-oxide"
+      ],
+      "answer": "stigmasterol",
+      "explanation": "정답: stigmasterol\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    },
+    {
+      "id": 12,
+      "question": "[구조 사진 · steroid 생합성 경로]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-07-digitoxigenin.png|steroid 생합성 경로 구조]]",
+      "choices": [
+        "digitoxigenin",
+        "cholesterol",
+        "pregnenolone",
+        "cycloartenol",
+        "cinobufogenin"
+      ],
+      "answer": "digitoxigenin",
+      "explanation": "정답: digitoxigenin\n출처: 생약학 PPT 구조 그림 — steroid 생합성 경로"
+    }
+  ]
+}

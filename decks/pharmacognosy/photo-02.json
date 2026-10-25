@@ -1,0 +1,241 @@
+{
+  "deckId": "pharmacognosy-photo-02",
+  "subject": "생약학",
+  "title": "구조 사진 2 · monoterpene 화합물",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-citronellol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "citronellol",
+        "p-cymene",
+        "carvacrol",
+        "fenchone",
+        "cineol"
+      ],
+      "answer": "citronellol",
+      "explanation": "정답: citronellol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-geraniol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "geraniol",
+        "camphor",
+        "neral",
+        "fenchol",
+        "nerol"
+      ],
+      "answer": "geraniol",
+      "explanation": "정답: geraniol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-nerol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "nerol",
+        "cineol",
+        "geranial",
+        "α-terpineol",
+        "geraniol"
+      ],
+      "answer": "nerol",
+      "explanation": "정답: nerol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-limonene.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "limonene",
+        "citronellol",
+        "p-cymene",
+        "β-myrcene",
+        "α-terpineol"
+      ],
+      "answer": "limonene",
+      "explanation": "정답: limonene\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-alpha-terpineol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "α-terpineol",
+        "citronellol",
+        "limonene",
+        "(−)-menthol",
+        "fenchol"
+      ],
+      "answer": "α-terpineol",
+      "explanation": "정답: α-terpineol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-menthol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "(−)-menthol",
+        "citronellol",
+        "cineol",
+        "fenchone",
+        "limonene"
+      ],
+      "answer": "(−)-menthol",
+      "explanation": "정답: (−)-menthol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-thujone.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "thujone",
+        "α-pinene",
+        "fenchol",
+        "carvacrol",
+        "(−)-menthol"
+      ],
+      "answer": "thujone",
+      "explanation": "정답: thujone\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-fenchol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "fenchol",
+        "cineol",
+        "fenchone",
+        "limonene",
+        "α-terpineol"
+      ],
+      "answer": "fenchol",
+      "explanation": "정답: fenchol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-fenchone.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "fenchone",
+        "thujone",
+        "β-myrcene",
+        "carvacrol",
+        "camphor"
+      ],
+      "answer": "fenchone",
+      "explanation": "정답: fenchone\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 10,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-beta-myrcene.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "β-myrcene",
+        "cineol",
+        "fenchone",
+        "p-cymene",
+        "thujone"
+      ],
+      "answer": "β-myrcene",
+      "explanation": "정답: β-myrcene\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 11,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-neral.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "neral",
+        "fenchone",
+        "nerol",
+        "thymol",
+        "cineol"
+      ],
+      "answer": "neral",
+      "explanation": "정답: neral\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 12,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-geranial.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "geranial",
+        "geraniol",
+        "p-cymene",
+        "limonene",
+        "thymol"
+      ],
+      "answer": "geranial",
+      "explanation": "정답: geranial\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 13,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-thymol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "thymol",
+        "α-terpineol",
+        "geranial",
+        "α-pinene",
+        "geraniol"
+      ],
+      "answer": "thymol",
+      "explanation": "정답: thymol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 14,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-carvacrol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "carvacrol",
+        "fenchol",
+        "neral",
+        "limonene",
+        "(−)-menthol"
+      ],
+      "answer": "carvacrol",
+      "explanation": "정답: carvacrol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 15,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-p-cymene.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "p-cymene",
+        "geranial",
+        "(−)-menthol",
+        "β-myrcene",
+        "thujone"
+      ],
+      "answer": "p-cymene",
+      "explanation": "정답: p-cymene\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 16,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-cineol.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "cineol",
+        "geraniol",
+        "α-terpineol",
+        "geranial",
+        "fenchol"
+      ],
+      "answer": "cineol",
+      "explanation": "정답: cineol\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 17,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-camphor.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "camphor",
+        "cineol",
+        "carvacrol",
+        "thymol",
+        "limonene"
+      ],
+      "answer": "camphor",
+      "explanation": "정답: camphor\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    },
+    {
+      "id": 18,
+      "question": "[구조 사진 · monoterpene 화합물]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-02-alpha-pinene.png|monoterpene 화합물 구조]]",
+      "choices": [
+        "α-pinene",
+        "thujone",
+        "thymol",
+        "camphor",
+        "geranial"
+      ],
+      "answer": "α-pinene",
+      "explanation": "정답: α-pinene\n출처: 생약학 PPT 구조 그림 — monoterpene 화합물"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "deckId": "pharmacognosy-photo-06",
+  "subject": "생약학",
+  "title": "구조 사진 6 · triterpene 기본 골격 (번호 표시)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-prostane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "prostane",
+        "cucurbitane",
+        "ursane",
+        "oleanane",
+        "lupane"
+      ],
+      "answer": "prostane",
+      "explanation": "정답: prostane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-lanostane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "lanostane",
+        "lupane",
+        "cycloartane",
+        "ursane",
+        "hopane"
+      ],
+      "answer": "lanostane",
+      "explanation": "정답: lanostane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-cycloartane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "cycloartane",
+        "oleanane",
+        "prostane",
+        "hopane",
+        "dammarane"
+      ],
+      "answer": "cycloartane",
+      "explanation": "정답: cycloartane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-dammarane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "dammarane",
+        "cucurbitane",
+        "lupane",
+        "lanostane",
+        "hopane"
+      ],
+      "answer": "dammarane",
+      "explanation": "정답: dammarane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-hopane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "hopane",
+        "cucurbitane",
+        "lupane",
+        "dammarane",
+        "prostane"
+      ],
+      "answer": "hopane",
+      "explanation": "정답: hopane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-lupane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "lupane",
+        "oleanane",
+        "ursane",
+        "cycloartane",
+        "prostane"
+      ],
+      "answer": "lupane",
+      "explanation": "정답: lupane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-cucurbitane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "cucurbitane",
+        "lanostane",
+        "prostane",
+        "lupane",
+        "oleanane"
+      ],
+      "answer": "cucurbitane",
+      "explanation": "정답: cucurbitane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-oleanane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "oleanane",
+        "cycloartane",
+        "dammarane",
+        "prostane",
+        "ursane"
+      ],
+      "answer": "oleanane",
+      "explanation": "정답: oleanane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · triterpene 기본 골격 (번호 표시)]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-06-ursane.png|triterpene 기본 골격 (번호 표시) 구조]]",
+      "choices": [
+        "ursane",
+        "cucurbitane",
+        "cycloartane",
+        "prostane",
+        "oleanane"
+      ],
+      "answer": "ursane",
+      "explanation": "정답: ursane\n출처: 생약학 PPT 구조 그림 — triterpene 기본 골격 (번호 표시)"
+    }
+  ]
+}

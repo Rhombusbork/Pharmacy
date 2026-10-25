@@ -1,0 +1,189 @@
+{
+  "deckId": "pharmacognosy-photo-01",
+  "subject": "생약학",
+  "title": "구조 사진 1 · monoterpene 기본 골격",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-myrcane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "myrcane",
+        "iso-camphane",
+        "lavandulane",
+        "p-menthane",
+        "chrysanthemane"
+      ],
+      "answer": "myrcane",
+      "explanation": "정답: myrcane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-p-menthane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "p-menthane",
+        "artemisane",
+        "carane",
+        "pinane (pinene)",
+        "iso-camphane"
+      ],
+      "answer": "p-menthane",
+      "explanation": "정답: p-menthane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-seco-iridane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "seco-iridane",
+        "fenchane",
+        "pinane (pinene)",
+        "iridane",
+        "artemisane"
+      ],
+      "answer": "seco-iridane",
+      "explanation": "정답: seco-iridane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-iridane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "iridane",
+        "seco-iridane",
+        "myrcane",
+        "pinane (pinene)",
+        "artemisane"
+      ],
+      "answer": "iridane",
+      "explanation": "정답: iridane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-carane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "carane",
+        "artemisane",
+        "lavandulane",
+        "fenchane",
+        "iridane"
+      ],
+      "answer": "carane",
+      "explanation": "정답: carane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-pinane-pinene.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "pinane (pinene)",
+        "thujane",
+        "santolinane",
+        "seco-iridane",
+        "p-menthane"
+      ],
+      "answer": "pinane (pinene)",
+      "explanation": "정답: pinane (pinene)\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-thujane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "thujane",
+        "chrysanthemane",
+        "p-menthane",
+        "fenchane",
+        "lavandulane"
+      ],
+      "answer": "thujane",
+      "explanation": "정답: thujane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-bornane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "bornane",
+        "p-menthane",
+        "iso-camphane",
+        "seco-iridane",
+        "iridane"
+      ],
+      "answer": "bornane",
+      "explanation": "정답: bornane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-fenchane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "fenchane",
+        "artemisane",
+        "thujane",
+        "p-menthane",
+        "pinane (pinene)"
+      ],
+      "answer": "fenchane",
+      "explanation": "정답: fenchane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 10,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-iso-camphane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "iso-camphane",
+        "bornane",
+        "pinane (pinene)",
+        "lavandulane",
+        "iridane"
+      ],
+      "answer": "iso-camphane",
+      "explanation": "정답: iso-camphane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 11,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-artemisane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "artemisane",
+        "carane",
+        "p-menthane",
+        "myrcane",
+        "lavandulane"
+      ],
+      "answer": "artemisane",
+      "explanation": "정답: artemisane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 12,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-santolinane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "santolinane",
+        "p-menthane",
+        "chrysanthemane",
+        "pinane (pinene)",
+        "lavandulane"
+      ],
+      "answer": "santolinane",
+      "explanation": "정답: santolinane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 13,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-chrysanthemane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "chrysanthemane",
+        "pinane (pinene)",
+        "thujane",
+        "artemisane",
+        "lavandulane"
+      ],
+      "answer": "chrysanthemane",
+      "explanation": "정답: chrysanthemane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    },
+    {
+      "id": 14,
+      "question": "[구조 사진 · monoterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-01-lavandulane.png|monoterpene 기본 골격 구조]]",
+      "choices": [
+        "lavandulane",
+        "myrcane",
+        "chrysanthemane",
+        "iso-camphane",
+        "iridane"
+      ],
+      "answer": "lavandulane",
+      "explanation": "정답: lavandulane\n출처: 생약학 PPT 구조 그림 — monoterpene 기본 골격"
+    }
+  ]
+}

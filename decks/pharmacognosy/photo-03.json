@@ -1,0 +1,189 @@
+{
+  "deckId": "pharmacognosy-photo-03",
+  "subject": "생약학",
+  "title": "구조 사진 3 · diterpene 기본 골격",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-labdane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "labdane",
+        "taxane",
+        "aconane",
+        "pimarane",
+        "cassane"
+      ],
+      "answer": "labdane",
+      "explanation": "정답: labdane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 2,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-clerodane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "clerodane",
+        "cassane",
+        "labdane",
+        "isopimarane",
+        "podocarpane"
+      ],
+      "answer": "clerodane",
+      "explanation": "정답: clerodane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 3,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-pimarane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "pimarane",
+        "totarane",
+        "gibberellane",
+        "podocarpane",
+        "abietane"
+      ],
+      "answer": "pimarane",
+      "explanation": "정답: pimarane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 4,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-isopimarane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "isopimarane",
+        "atisane",
+        "podocarpane",
+        "abietane",
+        "clerodane"
+      ],
+      "answer": "isopimarane",
+      "explanation": "정답: isopimarane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 5,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-abietane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "abietane",
+        "clerodane",
+        "labdane",
+        "totarane",
+        "isopimarane"
+      ],
+      "answer": "abietane",
+      "explanation": "정답: abietane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 6,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-podocarpane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "podocarpane",
+        "clerodane",
+        "isopimarane",
+        "beyerane",
+        "aconane"
+      ],
+      "answer": "podocarpane",
+      "explanation": "정답: podocarpane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 7,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-totarane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "totarane",
+        "pimarane",
+        "aconane",
+        "kaurane",
+        "labdane"
+      ],
+      "answer": "totarane",
+      "explanation": "정답: totarane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 8,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-cassane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "cassane",
+        "isopimarane",
+        "aconane",
+        "clerodane",
+        "gibberellane"
+      ],
+      "answer": "cassane",
+      "explanation": "정답: cassane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 9,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-kaurane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "kaurane",
+        "pimarane",
+        "clerodane",
+        "gibberellane",
+        "cassane"
+      ],
+      "answer": "kaurane",
+      "explanation": "정답: kaurane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 10,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-beyerane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "beyerane",
+        "kaurane",
+        "cassane",
+        "atisane",
+        "isopimarane"
+      ],
+      "answer": "beyerane",
+      "explanation": "정답: beyerane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 11,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-gibberellane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "gibberellane",
+        "cassane",
+        "labdane",
+        "podocarpane",
+        "isopimarane"
+      ],
+      "answer": "gibberellane",
+      "explanation": "정답: gibberellane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 12,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-atisane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "atisane",
+        "cassane",
+        "clerodane",
+        "aconane",
+        "pimarane"
+      ],
+      "answer": "atisane",
+      "explanation": "정답: atisane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 13,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-aconane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "aconane",
+        "kaurane",
+        "clerodane",
+        "totarane",
+        "abietane"
+      ],
+      "answer": "aconane",
+      "explanation": "정답: aconane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    },
+    {
+      "id": 14,
+      "question": "[구조 사진 · diterpene 기본 골격]\n다음 구조의 이름은?\n[[img:pharmacognosy/images/photo-03-taxane.png|diterpene 기본 골격 구조]]",
+      "choices": [
+        "taxane",
+        "totarane",
+        "clerodane",
+        "atisane",
+        "cassane"
+      ],
+      "answer": "taxane",
+      "explanation": "정답: taxane\n출처: 생약학 PPT 구조 그림 — diterpene 기본 골격"
+    }
+  ]
+}
