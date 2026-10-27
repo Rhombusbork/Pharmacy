@@ -1,0 +1,347 @@
+{
+  "deckId": "orgchem-exam-2025-2-final",
+  "subject": "유기약화학",
+  "title": "2025-2 유기약화학2 기말고사 기출",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2025-2 기말 1번] 엔올 음이온(enolate)에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "① 공명 안정화가 불가하여 반응성이 상당하다.",
+        "② 알파자리에서 선택적으로 반응이 일어나는 한쪽자리 친핵체이다.",
+        "③ 모든 원소가 sp² 혼성화로 삼각평면구조를 이룬다.",
+        "④ 덜 치환된 엔올 음이온은 열역학적으로 불안정하여 만들 수 없다.",
+        "⑤ 산소자리에서 반응이 일어나지 않는 이유는 이곳이 더 친핵성이기 때문이다."
+      ],
+      "answer": "③ 모든 원소가 sp² 혼성화로 삼각평면구조를 이룬다.",
+      "explanation": "정답: ③\n엔올 음이온 [[smi:C=C[O-]]] ↔ [[smi:[CH2-]C=O]] (공명)\n① (X) 음전하가 C와 O에 퍼지는 공명 안정화가 있다.\n② (X) C와 O 두 자리 모두 친핵성을 갖는 '양쪽자리(ambident) 친핵체'다.\n③ (O) C=C–O⁻의 두 C와 O가 모두 sp²이며 p 오비탈 3개가 나란히 겹친 평면 구조다.\n④ (X) 덜 치환된 엔올 음이온 = 속도론적(kinetic) 엔올 음이온. LDA, THF, −78 °C에서 선택적으로 만들 수 있다.\n⑤ (X) 대부분 탄소에서 반응하는 이유는 탄소가 더 친핵성이기 때문(C–C 결합 형성이 유리)이다. 산소는 전기음성도가 커서 음전하를 더 잘 붙잡는다."
+    },
+    {
+      "id": 2,
+      "question": "[2025-2 기말 2번] 다음은 LDA(lithium diisopropylamide)에 대한 설명이다. 옳은 것을 고르시오.",
+      "choices": [
+        "① Diisopropylamine(pKa=36)의 짝산으로 매우 강한 염기이다.",
+        "② 이온성 화합물로 일반적인 유기용매에는 잘 녹지 않는다.",
+        "③ 입체장애로 인해 염기로 작용하지 못하고 친핵체로만 작용한다.",
+        "④ 낮은 온도에서도 효과적으로 반응한다.",
+        "⑤ 열역학적으로 엔올 음이온(kinetic enolate)을 생성하고자 할 때 사용된다."
+      ],
+      "answer": "④ 낮은 온도에서도 효과적으로 반응한다.",
+      "explanation": "정답: ④\nLDA = [(CH₃)₂CH]₂N⁻ Li⁺\n① (X) 다이아이소프로필아민(pKa≈36)의 '짝염기'다. 짝산이 아니다.\n② (X) THF 같은 유기용매에 잘 녹는다. 그래서 엔올 음이온을 만드는 데 편하다.\n③ (X) 반대다. 부피가 커서 친핵체로는 거의 못 쓰이고 강한 '비친핵성 염기'로 작용한다.\n④ (O) −78 °C에서도 빠르고 완전하게(비가역적으로) α-수소를 뗀다.\n⑤ (X) 덜 치환된 쪽의 수소를 빨리 떼므로 '속도론적(kinetic)' 엔올 음이온을 만들 때 쓴다. 열역학적 엔올 음이온은 NaOEt 같은 약한 염기 + 실온(평형 조건)에서 생긴다."
+    },
+    {
+      "id": 3,
+      "question": "[2025-2 기말 3번] 다음은 말론산 에스터 합성법에 대한 설명이다. 사실과 거리가 가장 먼 것을 고르시오.",
+      "choices": [
+        "① 두 개의 카보닐 사이에 위치한 알파수소의 산성도는 큰 편이다. (pKa 13)",
+        "② 말론산 에스터의 엔올음이온이 친핵체로 작용하여 1차 RX와 SN2반응을 진행한다.",
+        "③ 말론산 에스터의 알파수소가 2개가 있다면 두 번 연속반응이 가능하다.",
+        "④ 카복시 이탈반응(decarboxylation)은 베타위치에 카보닐기가 반드시 있지 않아도 가능하다.",
+        "⑤ 다이할라이드(dihalide)를 이용하여 분자 내 말론산 에스터 합성법으로 고리형 카복실산을 합성할 수 있다."
+      ],
+      "answer": "④ 카복시 이탈반응(decarboxylation)은 베타위치에 카보닐기가 반드시 있지 않아도 가능하다.",
+      "explanation": "정답: ④\n탈카복실화는 COOH의 β 위치에 C=O가 '반드시' 있어야 한다. 6원 고리 전이상태에서 CO₂가 빠지고 엔올이 생긴 뒤 토토머화된다(β-케토산, 말론산).\n[[smi:OC(=O)CC(=O)O]] → 가열 → [[smi:CC(=O)O]] + CO₂\n①②③⑤는 모두 맞는 설명(pKa≈13, SN2, 두 번 알킬화, 다이할라이드로 고리 형성)."
+    },
+    {
+      "id": 4,
+      "question": "[2025-2 기말 4번] 각 화합물을 D₂O에서 KOD와 반응시켰을 때, 가장 많은 수소 원자가 중수소 원자로 치환되는 것은? (단, KOD는 카보닐 알파 수소를 제거하기에 충분히 강한 염기라 가정함)\n[[img:orgchem/images/exam-2025-2-final/q04.png|고리형 케톤 ①~⑤]]",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": "④",
+      "explanation": "정답: ④ (7개)\n염기/D₂O에서는 카보닐의 α-수소만 엔올 음이온을 거쳐 D로 바뀐다. 각 C=O 옆 탄소의 H를 센다.\n① 3-메틸사이클로헥세인-1,2-다이온: C3(H 1) + C6(H 2) = 3\n② 2-메틸사이클로헥세인-1,3-다이온: C2(H 1) + C4(H 2) + C6(H 2) = 5\n③ 5-메틸사이클로헥세인-1,3-다이온: C2(2) + C4(2) + C6(2) = 6\n④ 2-메틸사이클로헥세인-1,4-다이온: C2(1) + C3(2) + C5(2) + C6(2) = 7 ← 1,4 배치라 고리 탄소 4개가 모두 α\n⑤ 2,4,6-트라이메틸사이클로헥산온: C2(1) + C6(1) = 2\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 5,
+      "question": "[2025-2 기말 6번] Gabriel 합성법으로 만들 수 없는 아민을 모두 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q06.png|아민 a~d]]",
+      "choices": [
+        "a",
+        "a, c",
+        "a, c, d",
+        "b, d",
+        "c, d"
+      ],
+      "answer": "a, c, d",
+      "explanation": "정답: a, c, d\nGabriel 합성: 프탈이미드 음이온 + R–X(SN2) → 가수분해(또는 N₂H₄) → R–NH₂\n→ ① 1차 아민만 생긴다 ② R–X가 SN2를 할 수 있어야 한다(메틸·1차·일부 2차 할라이드).\na. 2-에틸아닐린: N이 벤젠 고리에 직접 붙음 → 아릴 할라이드는 SN2 불가 → X\nb. 벤질아민: PhCH₂Br은 SN2 잘 함 → O\nc. N-에틸벤질아민: 2차 아민 → Gabriel로는 1차 아민만 → X\nd. N이 3차 탄소에 붙은 1차 아민: 3차 할라이드는 SN2 불가(제거반응) → X\n(Smith 교재 연습문제 23.8과 같은 문제)"
+    },
+    {
+      "id": 6,
+      "question": "[2025-2 기말 7번] 세 반응 중 옳은 것은?\n[[img:orgchem/images/exam-2025-2-final/q07.png|반응 ㄱ~ㄷ]]",
+      "choices": [
+        "ㄱ",
+        "ㄴ",
+        "ㄱ, ㄴ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "정답: ㄱ, ㄴ, ㄷ\nㄱ. (O) 숙신산을 가열하면 분자 안에서 물이 빠져 5원 고리 무수물(숙신산 무수물)이 된다.\nㄴ. (O) 프탈산 → 가열 → 프탈산 무수물 + H₂O (마찬가지로 5원 고리라 쉽다)\nㄷ. (O) (2E,4E)-헥사-2,4-다이엔-1-올(s-cis 가능 다이엔) + 말레산 무수물(친다이엔체) → Diels–Alder(endo) → 생긴 고리 옆의 CH₂OH가 무수물을 분자 내 공격해 고리를 열면서 5원 락톤 + COOH가 생긴다(연속 반응, Smith 교재 예제).\n※ 족보에 보기가 없어 앱에서 보기를 만들었다.\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 7,
+      "question": "[2025-2 기말 8번] 말론산 에스터 합성으로 만드는 것이 가능한 물질로 옳지 않은 것을 모두 고르시오.\nㄱ. [[smi:OC(=O)Cc1ccccc1]]\nㄴ. [[smi:OC(=O)CC=C]]\nㄷ. [[smi:OC(=O)CCc1ccccc1]]\nㄹ. [[smi:OC(=O)C(C)(C)C]]",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄷ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄹ",
+      "explanation": "정답: ㄱ, ㄴ, ㄹ\n말론산 에스터 합성 = CH₂(CO₂Et)₂ → 엔올 음이온 + R–X(SN2) → 가수분해·가열(탈카복실화) → R–CH₂–COOH (또는 R,R'–CH–COOH).\n즉 생성물을 'α탄소 + 거기 붙은 R기'로 나눠, R–X가 SN2를 할 수 있어야 한다.\nㄱ. PhCH₂COOH: R = 페닐 → Ph–X(아릴 할라이드)는 SN2 불가 → X\nㄴ. CH₂=CHCH₂COOH: R = 바이닐 → 바이닐 할라이드는 SN2 불가 → X\nㄷ. PhCH₂CH₂COOH: R = 벤질 → PhCH₂Br은 SN2 아주 잘 함 → O\nㄹ. (CH₃)₃CCOOH: α탄소에 R이 3개 필요한데 말론산 에스터의 α-H는 2개뿐 → X"
+    },
+    {
+      "id": 8,
+      "question": "[2025-2 기말 9번] 다음 중 마이클 반응에서 마이클 받개로 작용할 수 있는 것을 모두 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q09.png|5개 화합물]]",
+      "choices": [
+        "①",
+        "①, ②",
+        "①, ③",
+        "①, ②, ③",
+        "①, ②, ③, ⑤"
+      ],
+      "answer": "①",
+      "explanation": "정답: ① 만\n마이클 받개는 C=C가 C=O에 바로 붙어 콘쥬게이션된 α,β-불포화 카보닐이어야 β탄소가 친전자성이 된다.\n① 헥스-3-엔-2-온 [[smi:CC(=O)/C=C/CC]] α,β-불포화 케톤 O\n② 헥스-4-엔-2-온: C=C가 C=O에서 한 칸 떨어짐(β,γ) → 콘쥬게이션 X\n③ 바이닐(프로펜일) 에스터: C=C가 C=O가 아니라 O에 붙어 있다 → 오히려 전자가 풍부한 엔올 에터형 X\n④ 포화 에스터 X  ⑤ 알릴 알코올(C=O 없음) X\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 9,
+      "question": "[2025-2 기말 10번] 다음 분자(칼콘)를 알돌 축합반응으로 합성하고자 할 때 필요한 엔올 음이온(enolate donor)과 전자받개로 알맞은 것은?\n[[smi:O=C(c1ccccc1)/C=C/c1ccccc1]]",
+      "choices": [
+        "① Enolate donor: acetaldehyde / 전자받개: benzaldehyde",
+        "② Enolate donor: phenylacetaldehyde / 전자받개: phenylacetaldehyde",
+        "③ Enolate donor: acetophenone enolate / 전자받개: benzaldehyde",
+        "④ Enolate donor: propiophenone / 전자받개: benzaldehyde",
+        "⑤ Enolate donor: acetophenone / 전자받개: benzophenone"
+      ],
+      "answer": "③ Enolate donor: acetophenone enolate / 전자받개: benzaldehyde",
+      "explanation": "정답: 아세토페논 엔올 음이온 + 벤즈알데하이드\n알돌 축합 생성물(α,β-불포화 카보닐)을 거꾸로 자르는 법: C=C를 끊어 C=O 쪽(α탄소)은 엔올 음이온, 반대쪽(β탄소)은 C=O(받개)로 되돌린다.\n• C=O 쪽: PhC(=O)CH₂⁻ → 아세토페논 [[smi:CC(=O)c1ccccc1]]\n• β 쪽: PhCH=O → 벤즈알데하이드 [[smi:O=Cc1ccccc1]]\n벤즈알데하이드는 α-H가 없어 스스로 엔올 음이온이 되지 못하므로 교차 알돌이 깨끗하게 일어난다(Claisen–Schmidt 축합)."
+    },
+    {
+      "id": 10,
+      "question": "[2025-2 기말 11번] 다음 화합물을 알돌 반응으로 합성하고자 할 때, enolate로 변환되는 화합물(enolate donor)과 공격을 받는 친전자성 화합물(carbonyl acceptor)이 옳게 짝지어진 것은?\n[[smi:CC(CO)(CO)C=O]]",
+      "choices": [
+        "① donor: propanedial / acceptor: formaldehyde",
+        "② donor: ethanal / acceptor: 1,3-propanedial",
+        "③ donor: propanal / acceptor: formaldehyde",
+        "④ donor: formaldehyde / acceptor: propanal",
+        "⑤ donor: 1,3-propanedial / acceptor: formaldehyde"
+      ],
+      "answer": "③ donor: propanal / acceptor: formaldehyde",
+      "explanation": "정답: ③ 프로판알 + 폼알데하이드(2번)\n생성물 2,2-비스(하이드록시메틸)프로판알: CHO의 α탄소에 CH₃와 CH₂OH 두 개가 붙어 있다.\n• –CH₂OH 하나 = 폼알데하이드(HCHO)가 받개로 한 번 공격받은 흔적\n• 남는 뼈대 CH₃–CH(–)–CHO = 프로판알(엔올 음이온 donor)\n프로판알의 α-H 2개가 차례로 HCHO를 공격 → 2번 알돌 → 생성물.\n폼알데하이드는 α-H가 없어 donor가 될 수 없다(④ X)."
+    },
+    {
+      "id": 11,
+      "question": "[2025-2 기말 12번] 다음 반응의 이름을 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q12.png|아세트산 에틸 → 아세토아세트산 에틸]]",
+      "choices": [
+        "① Aldol reaction",
+        "② Claisen reaction",
+        "③ Suzuki reaction",
+        "④ Dieckmann condensation",
+        "⑤ Gabriel synthesis"
+      ],
+      "answer": "② Claisen reaction",
+      "explanation": "정답: ② Claisen 축합\n에스터 두 분자: 한 분자의 엔올 음이온이 다른 에스터의 C=O를 공격 → 사면체 중간체에서 ⁻OEt가 빠짐 → β-케토 에스터(아세토아세트산 에틸).\n알돌과 차이: 알돌은 알데하이드/케톤(이탈기 없음 → β-하이드록시 카보닐), Claisen은 에스터(OEt 이탈 → β-케토 에스터).\n생성물의 산성 α-H가 염기에 떼어지는 것이 반응을 끝까지 미는 힘이라, 마지막에 H₃O⁺로 중화한다. 분자 안에서 일어나면 Dieckmann."
+    },
+    {
+      "id": 12,
+      "question": "[2025-2 기말 13번] 다음 중 chiral이 아닌 구조를 모두 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q13.png|구조 ①~⑤]]",
+      "choices": [
+        "②, ③",
+        "③",
+        "①, ②",
+        "②, ③, ④",
+        "③, ⑤"
+      ],
+      "answer": "②, ③",
+      "explanation": "정답: ②, ③\n① 펜탄-2-아민: C2에 H, CH₃, NH₂, 프로필 → 4개가 모두 달라 카이랄 O\n② C2에 메틸 두 개(쐐기·점선) → 같은 기 2개 → 카이랄 아님\n③ 4차 암모늄 N⁺에 H, 에틸, 메틸, 메틸 → 메틸이 둘이라 카이랄 아님\n④ C에 CH₃, OH, NH₂, 에틸 → 카이랄 O\n⑤ 암페타민 형태: C에 NH₂, H, CH₂Ph, CH₃ → 카이랄 O\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 13,
+      "question": "[2025-2 기말 15번] 가~라의 이름이 알맞게 짝지어진 것을 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q15.png|고리 가~라]]",
+      "choices": [
+        "① 가:piperidine 나:pyridine 다:pyrrole 라:pyrimidine",
+        "② 가:pyridine 나:piperidine 다:pyrrole 라:pyrimidine",
+        "③ 가:purine 나:piperidine 다:pyrrole 라:pyrimidine",
+        "④ 가:pyrrolidine 나:pyridine 다:furan 라:piperidine",
+        "⑤ 가:piperidine 나:pyridine 다:furan 라:pyrazine"
+      ],
+      "answer": "① 가:piperidine 나:pyridine 다:pyrrole 라:pyrimidine",
+      "explanation": "정답: ①\n가: 6원 포화, NH → 피페리딘 / 나: 6원 방향족 → 피리딘 / 다: 5원 방향족 NH → 피롤 (O가 아니므로 furan 아님)\n가·나·다만 맞는 보기는 ①뿐이다.\n⚠ 라는 그림상 N이 두 개 붙은 5원 고리(피라졸류)로 보이는데, 보기의 pyrimidine(6원, 1,3-N)·pyrazine(6원, 1,4-N) 어느 것과도 정확히 맞지 않는다. 족보 복원 과정의 오류로 보이며, 가~다로 ①을 고르면 된다."
+    },
+    {
+      "id": 14,
+      "question": "[2025-2 기말 17번] 다음 두 물질(사이클로헥산온 + 피롤리딘)을 산촉매 조건에서 반응시켰을 때 얻어지는 주 생성물 구조는?\n[[img:orgchem/images/exam-2025-2-final/q17.png|반응물과 보기 ①~⑤]]",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": "①",
+      "explanation": "정답: ① 엔아민\n[[smi:C1CCC(=CC1)N1CCCC1]]\n케톤 + 2차 아민(피롤리딘) + 산촉매(–H₂O) → 엔아민.\n1) N이 C=O에 첨가 → 카비놀아민 2) OH가 물로 빠져 이미늄 이온(C=N⁺) 3) N에 H가 없으므로(2차 아민) α-H가 빠져 C=C–N(엔아민)이 된다.\n④처럼 중성 C=N은 1차 아민(→이민)일 때만 가능하다. 2차 아민에서는 C=N⁺(이미늄)여야 한다.\n※ 그림 ①의 질소 고리는 6원처럼 그려져 있지만 피롤리딘(5원)으로 보고 엔아민 구조인 ①을 정답으로 했다.\n엔아민은 Stork 반응(알킬화·마이클)에서 엔올 음이온 대신 쓰인다.\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 15,
+      "question": "[2025-2 기말 18번] 다음 중 주생성물이 옳게 표시된 반응을 고르시오.\n[[img:orgchem/images/exam-2025-2-final/q18.png|반응 가~다]]",
+      "choices": [
+        "가",
+        "나",
+        "가, 나",
+        "나, 다",
+        "가, 다"
+      ],
+      "answer": "나",
+      "explanation": "정답: 나\n가. (X) 아민(또는 알케인)에 AlCl₃만 넣어서 알킬기가 붙지 않는다. Friedel–Crafts는 방향족 고리에서 일어나는 반응이고, 아민은 오히려 AlCl₃와 착물을 만들어 FC를 방해한다.\n나. (O) Hofmann 제거: CH₃I(과량)로 4차 암모늄염을 만들고 → Ag₂O, 가열 → E2. 이탈기가 크므로 '덜 치환된 알켄(Hofmann 생성물)'이 주생성물.\n  2-메틸사이클로펜탄아민 → 메틸이 없는 쪽 β-H가 빠져 3-메틸사이클로펜텐(덜 치환된 알켄) [[smi:CC1CCC=C1]]. 시험지에는 Ag₂O·가열이 생략되어 있다.\n※ 족보에 보기가 없어 2024년 19번과 같은 보기를 붙였다.\n다. (X) CuBr/CuCl/CuCN은 Sandmeyer 반응 시약으로, '아릴 다이아조늄염(ArN₂⁺)'을 ArBr 등으로 바꾼다. 지방족 아민이 Cu 치환체가 되는 반응은 없다."
+    },
+    {
+      "id": 16,
+      "question": "[2025-2 기말 19번] 다음 반응으로 옳은 것은?\n[[img:orgchem/images/exam-2025-2-final/q19.png|다이엔 가열 → 고리 확장 다이엔]]",
+      "choices": [
+        "① Cope rearrangement",
+        "② Claisen rearrangement",
+        "③ oxy-Cope rearrangement",
+        "④ [1,5]-sigmatropic rearrangement",
+        "⑤ [1,3]-sigmatropic rearrangement"
+      ],
+      "answer": "① Cope rearrangement",
+      "explanation": "정답: ① Cope 자리옮김\n1,5-다이엔을 가열하면 3번–4번 탄소 사이 σ 결합이 끊기고 1번–6번 사이에 새 σ 결합이 생기며 π 결합 위치가 옮겨진다([3,3] 시그마 자리옮김).\n• Claisen: 알릴 바이닐(아릴) 에터, 즉 사슬 속에 O가 있어야 한다 X\n• oxy-Cope: OH가 3번 탄소(끊기는 σ 결합의 탄소)에 붙어 있어 생성물이 엔올 → 카보닐이 된다. 여기서는 OH가 CH₂ 끝에 있어 생성물에도 OH가 그대로 남는다 → 그냥 Cope X\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 17,
+      "question": "[2025-2 기말 20번] (2E,4Z,6E)-옥타-2,4,6-트라이엔의 열적 전자고리화 반응에서 고리화 회전 방향과 생성물에서 두 메틸기의 입체 관계로 알맞은 것은?\n[[img:orgchem/images/exam-2025-2-final/q20.png|(2E,4Z,6E)-옥타트라이엔]]",
+      "choices": [
+        "① 동일방향 cis",
+        "② 동일방향 trans",
+        "③ 반대방향 cis",
+        "④ 반대방향 trans",
+        "⑤ 동일 혹은 반대방향 cis"
+      ],
+      "answer": "③ 반대방향 cis",
+      "explanation": "정답: ③ 반대방향(disrotatory), cis\n• 트라이엔 = π 전자 6개 = 전자쌍 3개(홀수) → 열적 조건에서 반대방향 회전(disrotatory)\n• (2E,4Z,6E)는 양 끝 메틸이 모두 '바깥쪽'을 향한다. 반대방향으로 돌리면 두 메틸이 고리의 같은 면으로 간다 → cis-5,6-다이메틸사이클로헥사-1,3-다이엔\n[[smi:C[C@H]1C=CC=C[C@@H]1C]]\n참고: 빛(hν)이면 동일방향 회전 → trans. (2E,4Z,6Z)를 열적으로 반응시키면 trans."
+    },
+    {
+      "id": 18,
+      "question": "[2025-2 기말 21번] 고리화첨가반응(cycloaddition)에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        "① 파이(π) 결합을 가지는 두 화합물이 반응하여 고리를 형성한다.",
+        "② 반응은 입체특이적이며 협동적으로 진행된다.",
+        "③ 반응 경로는 반응물 분자 오비탈의 대칭성에 의해 결정된다.",
+        "④ 열 또는 빛에 의해 개시될 수 있다.",
+        "⑤ 열적 [2+2] 고리화첨가반응으로 사이클로뷰테인을 생성한다."
+      ],
+      "answer": "⑤ 열적 [2+2] 고리화첨가반응으로 사이클로뷰테인을 생성한다.",
+      "explanation": "정답: ⑤\n한 분자의 HOMO와 다른 분자의 LUMO가 같은 위상으로 겹쳐야(동일면) 반응이 허용된다.\n• [4+2](Diels–Alder): 열적으로 허용\n• [2+2]: 열적으로는 HOMO/LUMO 위상이 맞지 않아 '금지', 빛(hν)을 쪼여야 진행 → 광화학적 [2+2]로 사이클로뷰테인 생성\n①~④는 모두 맞는 설명이다(협동적·입체특이적, 오비탈 대칭이 결정)."
+    },
+    {
+      "id": 19,
+      "question": "[2025-2 기말 22번] 다음 반응의 주 생성물의 이름을 쓰시오. (그리기 문제 — 답을 쓴 뒤 해설과 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)\n[[img:orgchem/images/exam-2025-2-final/q22.png|LDA(1eq.), THF, −78 °C]]",
+      "answer": [
+        "2-phenylcyclohexanone",
+        "2-페닐사이클로헥산온",
+        "2-페닐시클로헥사논",
+        "2-phenylcyclohexan-1-one"
+      ],
+      "explanation": "정답: 2-페닐사이클로헥산온 (29번과 같은 문제, 시험지에 정답 표시됨)\n[[smi:O=C1CCCCC1c1ccccc1]]\n1) LDA, −78 °C → 덜 치환된 쪽(CH₃)의 수소를 떼는 속도론적 엔올 음이온\n2) 그 탄소가 같은 분자 끝의 C–Br을 분자 내 SN2 공격 → 고리 형성\n고리 원자 세기: CH₂(전 CH₃)–C(=O)–CH(Ph)–CH₂–CH₂–CH₂ → 6원 고리. Ph는 C=O 옆 → 2-페닐사이클로헥산온.\n(만약 Ph 쪽 탄소에서 반응하면 4원 고리라 불리하다.)"
+    },
+    {
+      "id": 20,
+      "question": "[2025-2 기말 23번] 다음 반응물(사이클로노나-1,3,5-트라이엔)이 열적 조건에서 전자고리화반응을 할 때, 생성물에서 고리 접합 위치 두 수소의 입체 관계는? (cis 또는 trans)\n[[smi:C1=C\\C=C/C=C/CCC1]]",
+      "answer": [
+        "trans",
+        "트랜스"
+      ],
+      "explanation": "정답: trans\n생성물: 트랜스-바이사이클로[4.3.0]노나-2,4-다이엔 [[smi:[H][C@@]12CCC[C@]1([H])C=CC=C2]]\n• 6π 전자(전자쌍 3개, 홀수) → 열적 조건 반대방향 회전(disrotatory)\n• 고리 안 트라이엔의 끝 C=C 중 하나가 E, 하나가 Z라서 끝의 두 수소 중 하나는 안쪽, 하나는 바깥쪽을 향한다. 이를 반대방향으로 돌리면 두 H가 반대 면 → trans\n(시험지 정답 그림과 같음)"
+    },
+    {
+      "id": 21,
+      "question": "[2025-2 기말 24번] 다음의 기질에 대해 [3,3] 시그마 결합 자리옮김 반응이 일어날 때 생성되는 주 생성물의 이름을 쓰시오. (그리기 문제 — 답을 쓴 뒤 해설과 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)\n[[img:orgchem/images/exam-2025-2-final/q24.png|p-메틸페닐 알릴 에터]]",
+      "answer": [
+        "2-allyl-4-methylphenol",
+        "2-알릴-4-메틸페놀",
+        "2-알릴-4-메틸펜올",
+        "4-methyl-2-allylphenol",
+        "2-(prop-2-en-1-yl)-4-methylphenol"
+      ],
+      "explanation": "정답: 2-알릴-4-메틸페놀\n[[smi:Cc1ccc(O)c(CC=C)c1]]\n알릴 아릴 에터의 Claisen 자리옮김([3,3]):\n1) O–CH₂ 결합이 끊기면서 알릴기의 끝 탄소(=CH₂)가 벤젠 고리의 ortho 탄소와 새 C–C 결합을 만든다(6원 고리 전이상태, 협동적).\n2) 고리는 잠시 사이클로헥사다이엔온(케톤)이 된다.\n3) 토토머화로 방향족이 회복되어 페놀(OH)이 된다.\n→ 알릴기는 O의 ortho 자리로, 메틸(para)은 그대로."
+    },
+    {
+      "id": 22,
+      "question": "[2025-2 기말 25번] 다음 반응의 생성물(이름)을 쓰시오. (그리기 문제 — 답을 쓴 뒤 해설과 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)\n[[img:orgchem/images/exam-2025-2-final/q25.png|바이닐 아이오다이드 + 바이닐 보론산 에스터]]",
+      "answer": [
+        "3-methylocta-3,5-diene",
+        "3-메틸옥타-3,5-다이엔",
+        "(3E,5E)-3-methylocta-3,5-diene",
+        "(3E,5E)-3-메틸옥타-3,5-다이엔",
+        "3-메틸-3,5-옥타다이엔"
+      ],
+      "explanation": "정답: (3E,5E)-3-메틸옥타-3,5-다이엔\n[[smi:CC/C(C)=C/C=C/CC]]\nSuzuki 반응: 바이닐(또는 아릴) 할라이드 + 유기붕소 화합물 → Pd 촉매 + 염기 → 두 탄소가 직접 C–C 결합.\n• I가 붙어 있던 탄소와 B가 붙어 있던 탄소가 서로 연결된다.\n• 두 C=C의 입체(E/Z)는 그대로 유지된다(입체특이적).\n※ 시험지 그림에는 Pd 촉매·염기가 생략되어 있다."
+    },
+    {
+      "id": 23,
+      "question": "[2025-2 기말 26번] 고리 닫힘 상호교환 반응(RCM)으로 다음 화합물을 합성하기 위한 출발물질은? (원래 그리기 문제 → 보기로 바꿈)\n[[img:orgchem/images/exam-2025-2-final/q26.png|락톤 이환 화합물]]",
+      "choices": [
+        "① [[smi:O=C1OCCC(C=C)C1C(C=C)CCCCC]]",
+        "② [[smi:O=C1OCCC2C=CC(CCCCC)C12]]",
+        "③ [[smi:O=C1OCCC(CC=C)C1C(C=C)CCCCC]]",
+        "④ [[smi:C=CCOC(=O)C(C=C)CCCCC]]"
+      ],
+      "answer": "① [[smi:O=C1OCCC(C=C)C1C(C=C)CCCCC]]",
+      "explanation": "정답: ①\nRCM(Grubbs 촉매): 분자 안의 두 말단 알켄(–CH=CH₂ 두 개)이 만나 고리 C=C를 만들고 에틸렌(CH₂=CH₂)이 빠져나간다.\n거꾸로 풀기: 생성물 고리의 C=C를 끊고, 끊긴 양쪽 탄소에 각각 =CH₂를 붙인다.\n→ 락톤 고리의 두 이웃 탄소에 바이닐기가 하나씩 달린 다이엔 ①\n② 생성물 자체 ③ 알릴기라서 고리가 6원이 됨 ④ 락톤 고리가 없다\n※ 2025년 시험지 그림에는 5원 고리의 C=C가 빠져 있지만 RCM 생성물이므로 C=C가 있어야 한다."
+    },
+    {
+      "id": 24,
+      "question": "[2025-2 기말 27번] 사이클로헥센에 CH₂I₂, Zn(Cu)를 에터 용매에서 반응시켰을 때 주생성물의 이름은? (그리기 문제 — 답을 쓴 뒤 해설과 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)",
+      "answer": [
+        "bicyclo[4.1.0]heptane",
+        "바이사이클로[4.1.0]헵테인",
+        "norcarane",
+        "노르카레인",
+        "바이사이클로[4.1.0]헵탄",
+        "비시클로[4.1.0]헵탄"
+      ],
+      "explanation": "정답: 바이사이클로[4.1.0]헵테인 (노르카레인)\n[[smi:C1CCC2CC2C1]]\nSimmons–Smith 반응: CH₂I₂ + Zn(Cu) → ICH₂ZnI(카베노이드). 알켄에 CH₂를 동일면(syn)으로 한 번에 붙여 사이클로프로페인을 만든다.\n• 입체특이적: 알켄의 cis/trans 관계가 그대로 유지된다.\n• 자유 카벤(:CH₂)과 달리 C–H 삽입 같은 부반응이 적다."
+    },
+    {
+      "id": 25,
+      "question": "[2025-2 기말 28번] 다음 출발물질로부터 생성되는 Robinson annulation(로빈슨 고리만듦) 반응의 주 생성물은? (원래 그리기 문제 → 보기로 바꿈)\n[[img:orgchem/images/exam-2025-2-final/q28.png|2-옥소사이클로펜테인카복실산 에틸 + 펜트-1-엔-3-온, NaOEt/EtOH]]",
+      "choices": [
+        "① [[smi:CCOC(=O)C12CCCC1=C(C)C(=O)CC2]]",
+        "② [[smi:CCOC(=O)C12CCCC1=CC(=O)CC2]]",
+        "③ [[smi:CCOC(=O)C1CCC(=O)C1CCC(=O)CC]]",
+        "④ [[smi:CCOC(=O)C12CCCC1(O)C(C)C(=O)CC2]]"
+      ],
+      "answer": "① [[smi:CCOC(=O)C12CCCC1=C(C)C(=O)CC2]]",
+      "explanation": "정답: ①\nRobinson 고리만듦 = 마이클 첨가 + 분자 내 알돌 축합 → 새 사이클로헥센온 고리.\n1) 마이클: β-케토 에스터의 가장 산성인 α-H(두 C=O 사이, 고리 접합이 될 탄소)가 떨어져 바이닐 케톤의 =CH₂(β탄소)를 공격 → ③(1,5-다이카보닐 중간체)\n2) 알돌: 에틸 케톤 쪽 CH₂(α)가 엔올 음이온이 되어 고리의 C=O를 공격 → 6원 고리\n3) 탈수 → α,β-불포화 케톤(C=C에 메틸이 붙음), 에스터는 고리 접합 탄소에 남는다.\n② 메틸이 없음(메틸 바이닐 케톤을 썼을 때) ④ 탈수 전 알돌 생성물\n⚠ 족보에 정답이 없어 교재(Smith 유기화학) 기준으로 판단한 추정 정답입니다. 강의 내용과 다르면 알려주세요."
+    },
+    {
+      "id": 26,
+      "question": "[2025-2 기말 29번] 다음 반응을 통해 가장 우세하게 얻어질 것으로 기대되는 주 생성물을 고르시오. (22번과 같은 반응)\n[[img:orgchem/images/exam-2025-2-final/q22.png|LDA(1eq.), THF, −78 °C]]",
+      "choices": [
+        "① [[smi:O=C1CCCCC1c1ccccc1]]",
+        "② [[smi:CC(=O)C1(c2ccccc2)CCC1]]",
+        "③ [[smi:O=C1CCCCCC1c1ccccc1]]",
+        "④ [[smi:CC(=O)C(CCCO)c1ccccc1]]"
+      ],
+      "answer": "① [[smi:O=C1CCCCC1c1ccccc1]]",
+      "explanation": "정답: ① 2-페닐사이클로헥산온 (시험지 정답 표시와 같음)\nLDA(−78 °C) → 덜 치환된 CH₃ 쪽 속도론적 엔올 음이온 → 분자 내 SN2로 C–Br 탄소 공격 → 6원 고리.\n② Ph 쪽(더 치환된 쪽, 열역학적) 엔올 음이온이 반응한 경우 → 4원 고리라 불리\n③ 7원 고리: 탄소 수가 맞지 않음\n④ Br이 OH로 치환된 것(엔올 음이온 반응 아님)"
+    },
+    {
+      "id": 27,
+      "question": "[2025-2 기말 30번] 올레핀 상호교환반응(metathesis)에는 탄소-금속 사이에 이중결합을 가지는 촉매가 필요하다. 루테늄(Ru)을 사용한 유기금속촉매를 설계한 사람의 이름을 따서 지어진 이 촉매의 이름은 무엇인가?\n[[img:orgchem/images/exam-2025-2-final/q30.png|Ru 카벤 촉매 구조]]",
+      "answer": [
+        "Grubbs catalyst",
+        "그럽스 촉매",
+        "Grubbs",
+        "그럽스",
+        "그럽스촉매",
+        "Grubbs 촉매"
+      ],
+      "explanation": "정답: Grubbs 촉매(그럽스 촉매)\n구조: Cl₂(PCy₃)₂Ru=CHPh — Ru=C 이중결합(금속 카벤)이 알켄과 [2+2]로 메탈라사이클로뷰테인을 만들었다가 다시 깨지며 알켄 조각을 바꾼다.\nGrubbs, Schrock, Chauvin이 2005년 노벨 화학상을 받았다.\n종류: 교차 상호교환(cross), 고리 닫힘(RCM), 고리 열림 중합(ROMP)."
+    }
+  ]
+}
