@@ -1,0 +1,128 @@
+{
+  "deckId": "orgchem-smith-ch26",
+  "subject": "유기약화학",
+  "title": "Smith Ch26 유기 합성에서의 C–C 결합 형성",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch26] 유기구리(Gilman) 시약 R₂CuLi에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        "알데하이드·케톤의 C=O에 1,2-첨가를 잘 한다.",
+        "α,β-불포화 카보닐에 1,4-첨가한다.",
+        "유기 할라이드와 짝지음해 C–C 결합을 만든다.",
+        "RLi 2당량과 CuI로 만든다."
+      ],
+      "answer": "알데하이드·케톤의 C=O에 1,2-첨가를 잘 한다.",
+      "explanation": "정답: ①\nR₂CuLi는 순한 친핵체라 케톤 C=O에는 거의 첨가하지 않고, 콘쥬게이트(1,4) 첨가와 R'–X와의 짝지음(R–R')을 한다."
+    },
+    {
+      "id": 2,
+      "question": "[Ch26] Suzuki 반응에 필요한 조합은?",
+      "choices": [
+        "유기 할라이드 + 유기붕소 화합물 + Pd 촉매 + 염기",
+        "알켄 + 할라이드 + Pd + 염기 (붕소 없음)",
+        "CH₂I₂ + Zn(Cu)",
+        "Ru 카벤 촉매"
+      ],
+      "answer": "유기 할라이드 + 유기붕소 화합물 + Pd 촉매 + 염기",
+      "explanation": "정답: ①\nR–X + R'–B(OR)₂ → [Pd(0), NaOH] → R–R'. 바이닐·아릴 결합의 입체는 유지.\n② Heck 반응 ③ Simmons–Smith ④ 올레핀 상호교환."
+    },
+    {
+      "id": 3,
+      "question": "[Ch26] Heck 반응에서 브로모벤젠과 아크릴산 메틸 [[smi:C=CC(=O)OC]]의 생성물은?",
+      "choices": [
+        "[[smi:COC(=O)/C=C/c1ccccc1]]",
+        "[[smi:COC(=O)C(=C)c1ccccc1]]",
+        "[[smi:COC(=O)CCc1ccccc1]]",
+        "[[smi:c1ccc(cc1)-c1ccccc1]]"
+      ],
+      "answer": "[[smi:COC(=O)/C=C/c1ccccc1]]",
+      "explanation": "정답: (E)-신남산 메틸\nPd 촉매: 아릴 할라이드의 아릴기가 알켄의 덜 치환된 말단 탄소에 붙고(H 대신), 주로 trans(E) 알켄이 생긴다."
+    },
+    {
+      "id": 4,
+      "question": "[Ch26] Simmons–Smith 반응을 cis-2-뷰텐에 했을 때 생성물은?",
+      "choices": [
+        "cis-1,2-다이메틸사이클로프로페인",
+        "trans-1,2-다이메틸사이클로프로페인",
+        "cis와 trans 1:1 혼합물",
+        "1-메틸사이클로뷰테인"
+      ],
+      "answer": "cis-1,2-다이메틸사이클로프로페인",
+      "explanation": "정답: cis [[smi:C[C@H]1C[C@@H]1C]]\n카베노이드가 C=C의 한 면에 동시에 CH₂를 붙이는 협동 반응 → 입체특이적, 알켄의 cis/trans가 유지."
+    },
+    {
+      "id": 5,
+      "question": "[Ch26] CHCl₃ + KOC(CH₃)₃와 사이클로헥센의 반응 생성물은?",
+      "choices": [
+        "7,7-다이클로로바이사이클로[4.1.0]헵테인",
+        "클로로사이클로헥세인",
+        "사이클로헥산올",
+        "1,2-다이클로로사이클로헥세인"
+      ],
+      "answer": "7,7-다이클로로바이사이클로[4.1.0]헵테인",
+      "explanation": "정답: ① [[smi:ClC1(Cl)C2CCCCC12]]\n강염기가 CHCl₃의 H를 떼고 Cl⁻가 빠지는 α-제거 → 다이클로로카벤 :CCl₂ → 알켄에 첨가해 다이할로사이클로프로페인."
+    },
+    {
+      "id": 6,
+      "question": "[Ch26] Grubbs 촉매를 이용한 올레핀 상호교환(metathesis)에서 고리 닫힘(RCM) 시 함께 생기는 작은 분자는?",
+      "choices": [
+        "에틸렌",
+        "메테인",
+        "물",
+        "이산화탄소"
+      ],
+      "answer": "에틸렌",
+      "explanation": "정답: 에틸렌 CH₂=CH₂\n두 말단 알켄 R–CH=CH₂가 만나 R–CH=CH–R'(고리)가 되고 CH₂=CH₂가 날아가 평형이 생성물 쪽으로 간다."
+    },
+    {
+      "id": 7,
+      "question": "[Ch26] 두 분자의 프로펜 [[smi:C=CC]]이 교차 상호교환(Grubbs)되었을 때 생성되는 것은?",
+      "choices": [
+        "2-뷰텐 + 에틸렌",
+        "1-뷰텐 + 에틸렌",
+        "사이클로프로페인",
+        "프로페인"
+      ],
+      "answer": "2-뷰텐 + 에틸렌",
+      "explanation": "정답: CH₃CH=CHCH₃ + CH₂=CH₂\n상호교환은 C=C의 양쪽 조각(=CHCH₃, =CH₂)을 서로 바꾼다."
+    },
+    {
+      "id": 8,
+      "question": "[Ch26] 다이엔 [[smi:C=CCCCCC=C]](1,7-옥타다이엔)을 Grubbs 촉매로 RCM하면 생기는 고리는?",
+      "choices": [
+        "사이클로헥센",
+        "사이클로펜텐",
+        "사이클로옥텐",
+        "사이클로헵텐"
+      ],
+      "answer": "사이클로헥센",
+      "explanation": "정답: 사이클로헥센 + 에틸렌\n탄소 8개 중 양 끝 CH₂ 두 개가 에틸렌으로 빠지고 남은 6개 탄소가 고리를 이룬다."
+    },
+    {
+      "id": 9,
+      "question": "[Ch26] Pd 짝지음 반응의 촉매 순환 단계 순서로 옳은 것은? (Suzuki 기준)",
+      "choices": [
+        "산화성 첨가 → 금속교환 → 환원성 제거",
+        "환원성 제거 → 산화성 첨가 → 금속교환",
+        "금속교환 → 환원성 제거 → 산화성 첨가",
+        "β-수소 제거 → 산화성 첨가 → 환원성 제거"
+      ],
+      "answer": "산화성 첨가 → 금속교환 → 환원성 제거",
+      "explanation": "정답: ①\nPd(0)가 R–X에 끼어들어 R–Pd(II)–X(산화성 첨가) → 붕소의 R'이 Pd로 옮겨감(금속교환) → R–R'이 떨어지며 Pd(0) 재생(환원성 제거). Heck은 금속교환 대신 알켄 삽입 + β-수소 제거."
+    },
+    {
+      "id": 10,
+      "question": "[Ch26] CH₂I₂와 Zn(Cu)로 알켄을 사이클로프로페인으로 바꾸는 반응의 이름은?",
+      "answer": [
+        "Simmons-Smith",
+        "Simmons–Smith",
+        "시먼스-스미스",
+        "Simmons-Smith reaction",
+        "시몬스-스미스",
+        "시먼스 스미스"
+      ],
+      "explanation": "정답: Simmons–Smith 반응\n활성 시약은 ICH₂ZnI(카베노이드)."
+    }
+  ]
+}
