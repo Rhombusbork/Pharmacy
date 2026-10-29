@@ -1,0 +1,19 @@
+# main이 아닌 브랜치(시험 브랜치)에 push하면 main의 배포 워크플로(pages.yml)를 실행시킨다.
+# 배포 권한은 main에만 있으므로 main에서 실행되게 넘겨주는 역할이다.
+# 실제로 배포되는 브랜치는 main의 .github/pages-branch 에 적힌 브랜치다.
+name: Trigger Pages deploy
+
+on:
+  push:
+    branches-ignore: [main]
+
+permissions:
+  actions: write
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}

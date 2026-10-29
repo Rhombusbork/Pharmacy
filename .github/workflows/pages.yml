@@ -1,10 +1,13 @@
-# main에 push하면: 덱 검사 → 통과 시 GitHub Pages에 배포
+# GitHub Pages 배포
+# main에는 앱 틀(코드)만 두고, 실제 덱은 학기·시험별 브랜치(예: 2026-2-final)에 둔다.
+# 배포할 브랜치 이름은 .github/pages-branch 파일 한 줄로 정한다(main 기준).
+# 실행 시점: main에 push / 시험 브랜치에 push(trigger-pages.yml이 이 워크플로를 호출) / Actions 탭에서 수동 실행
 name: Deploy to GitHub Pages
 
 on:
   push:
     branches: [main]
-  workflow_dispatch: # Actions 탭에서 수동 실행도 가능
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -24,14 +27,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: 배포할 브랜치 읽기
+        id: target
+        run: echo "branch=$(head -n1 .github/pages-branch | tr -d '[:space:]')" >> "$GITHUB_OUTPUT"
+
+      - name: 시험 브랜치 내용 가져오기
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.target.outputs.branch }}
+          path: site
+
       - name: 덱 검사
+        working-directory: site
         run: python3 .github/scripts/check_decks.py
 
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: site
 
       - id: deployment
         uses: actions/deploy-pages@v4
