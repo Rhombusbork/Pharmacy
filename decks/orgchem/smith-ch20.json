@@ -1,0 +1,427 @@
+{
+  "deckId": "orgchem-smith-ch20",
+  "subject": "유기약화학",
+  "title": "Smith Ch20 카보닐 화학 입문: 유기금속 시약, 산화와 환원",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch20] 카보닐 탄소의 혼성과 주변 결합각으로 옳은 것은?",
+      "choices": [
+        "sp², 약 120°(삼각평면)",
+        "sp³, 약 109.5°",
+        "sp, 180°",
+        "sp², 약 90°"
+      ],
+      "answer": "sp², 약 120°(삼각평면)",
+      "explanation": "정답: sp², 120°\nC=O의 탄소는 σ 결합 3개 + π 결합 1개 → sp² 삼각평면. 친핵체는 평면의 위·아래 어느 쪽에서든 접근할 수 있다(그래서 새 입체중심은 라세미)."
+    },
+    {
+      "id": 2,
+      "question": "[Ch20] 카보닐기에서 친핵체가 공격하는 원자와 그 이유는?",
+      "choices": [
+        "탄소 — O가 전자를 끌어 탄소가 δ+이기 때문",
+        "산소 — 비공유 전자쌍이 있기 때문",
+        "탄소 — 탄소가 δ−이기 때문",
+        "산소 — 산소가 δ+이기 때문"
+      ],
+      "answer": "탄소 — O가 전자를 끌어 탄소가 δ+이기 때문",
+      "explanation": "정답: 카보닐 탄소(δ+)\nO의 전기음성도가 커서 C=O가 C^δ+–O^δ−로 분극된다. 친핵체는 C를, 친전자체(H⁺, 루이스 산)는 O를 공격한다."
+    },
+    {
+      "id": 3,
+      "question": "[Ch20] 알데하이드·케톤은 친핵성 '첨가', 카복실산 유도체는 친핵성 '치환'을 하는 이유는?",
+      "choices": [
+        "유도체에는 C=O에 좋은 이탈기(Cl, OR 등)가 붙어 있지만 알데하이드·케톤의 H⁻, R⁻는 이탈기가 될 수 없기 때문",
+        "알데하이드·케톤은 sp³ 탄소이기 때문",
+        "유도체는 친핵체와 반응하지 않기 때문",
+        "알데하이드·케톤에는 산소가 없기 때문"
+      ],
+      "answer": "유도체에는 C=O에 좋은 이탈기(Cl, OR 등)가 붙어 있지만 알데하이드·케톤의 H⁻, R⁻는 이탈기가 될 수 없기 때문",
+      "explanation": "정답: ①\n사면체 중간체가 생긴 뒤 ① 이탈기가 있으면 C=O가 다시 생기며 이탈(치환) ② 없으면 양성자화되어 알코올(첨가)."
+    },
+    {
+      "id": 4,
+      "question": "[Ch20] NaBH₄(CH₃OH)로 환원되지 않는 것은?",
+      "choices": [
+        "[[smi:CCOC(=O)c1ccccc1]]",
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:CC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCOC(=O)c1ccccc1]]",
+      "explanation": "정답: 벤조산 에틸(에스터)\nNaBH₄는 순한 환원제라 알데하이드·케톤(그리고 산 염화물)만 환원한다. 에스터·카복실산·아마이드는 LiAlH₄가 필요하다."
+    },
+    {
+      "id": 5,
+      "question": "[Ch20] LiAlH₄가 NaBH₄보다 훨씬 강한 환원제인 이유는?",
+      "choices": [
+        "Al이 B보다 전기음성도가 작아 Al–H 결합이 더 분극되어 H⁻를 잘 내주기 때문",
+        "LiAlH₄에는 수소가 더 많기 때문",
+        "Li가 Na보다 크기 때문",
+        "LiAlH₄는 물에 잘 녹기 때문"
+      ],
+      "answer": "Al이 B보다 전기음성도가 작아 Al–H 결합이 더 분극되어 H⁻를 잘 내주기 때문",
+      "explanation": "정답: ①\nAl(1.6) < B(2.0): Al–H의 H가 더 δ−. 그래서 LiAlH₄는 물·알코올과 격렬히 반응해 에터(THF)에서 쓰고 나중에 H₂O로 처리한다. NaBH₄는 메탄올·물에서도 쓸 수 있다."
+    },
+    {
+      "id": 6,
+      "question": "[Ch20] 2-뷰탄온을 NaBH₄로 환원했을 때 생성물에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "2-뷰탄올이 라세미 혼합물로 생긴다.",
+        "(R)-2-뷰탄올만 생긴다.",
+        "1-뷰탄올이 생긴다.",
+        "뷰테인이 생긴다."
+      ],
+      "answer": "2-뷰탄올이 라세미 혼합물로 생긴다.",
+      "explanation": "정답: ①\n평면 C=O의 양쪽 면에서 H⁻가 같은 확률로 첨가 → 새 입체중심이 R:S = 1:1.\n한쪽만 얻으려면 카이랄 환원제(CBS 시약)를 쓴다."
+    },
+    {
+      "id": 7,
+      "question": "[Ch20] 케톤을 한쪽 거울상이성질체 알코올로 환원할 때 쓰는 시약은?",
+      "choices": [
+        "(S)- 또는 (R)-CBS 시약 + BH₃",
+        "NaBH₄",
+        "LiAlH₄",
+        "H₂, Pd-C"
+      ],
+      "answer": "(S)- 또는 (R)-CBS 시약 + BH₃",
+      "explanation": "정답: CBS 시약(옥사자보롤리딘 촉매) + BH₃\n카이랄 촉매가 한쪽 면으로만 H를 전달 → 거울상 선택적 환원(예: 약물 합성)."
+    },
+    {
+      "id": 8,
+      "question": "[Ch20] 사이클로헥스-2-엔온을 H₂(1당량), Pd-C로 환원한 주생성물은?",
+      "choices": [
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:OC1C=CCCC1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:C1=CCCCC1]]"
+      ],
+      "answer": "[[smi:O=C1CCCCC1]]",
+      "explanation": "정답: 사이클로헥산온\n촉매 수소화는 C=C를 C=O보다 훨씬 빨리 환원한다. 반대로 NaBH₄는 C=O만 환원한다(→ 사이클로헥스-2-엔올)."
+    },
+    {
+      "id": 9,
+      "question": "[Ch20] 사이클로헥스-2-엔온을 NaBH₄, CH₃OH로 환원한 주생성물은?",
+      "choices": [
+        "[[smi:OC1C=CCCC1]]",
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:O=C1C=CCCC1O]]"
+      ],
+      "answer": "[[smi:OC1C=CCCC1]]",
+      "explanation": "정답: 사이클로헥스-2-엔-1-올\nNaBH₄는 C=O(극성 π 결합)를 환원하고 비극성 C=C는 건드리지 않는다. → 환원제 선택으로 어느 결합을 환원할지 고를 수 있다(화학선택성)."
+    },
+    {
+      "id": 10,
+      "question": "[Ch20] 4-옥소펜탄산 메틸 [[smi:CC(=O)CCC(=O)OC]]을 NaBH₄로 처리했을 때 생성물은?",
+      "choices": [
+        "[[smi:CC(O)CCC(=O)OC]]",
+        "[[smi:CC(O)CCCO]]",
+        "[[smi:CC(=O)CCCO]]",
+        "[[smi:CC(=O)CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CC(O)CCC(=O)OC]]",
+      "explanation": "정답: 케톤만 2차 알코올로 환원된 ①\nNaBH₄는 에스터를 환원하지 못한다. LiAlH₄라면 둘 다 환원 → 펜테인-1,4-다이올(②)."
+    },
+    {
+      "id": 11,
+      "question": "[Ch20] 프로판산 메틸 CH₃CH₂COOCH₃를 LiAlH₄로 환원한 뒤 H₂O 처리하면 생기는 것은?",
+      "choices": [
+        "1-프로판올 + 메탄올",
+        "프로판알 + 메탄올",
+        "프로판산 + 메탄올",
+        "2-프로판올 + 메탄올"
+      ],
+      "answer": "1-프로판올 + 메탄올",
+      "explanation": "정답: ①\n에스터 + LiAlH₄: H⁻ 첨가 → 사면체 중간체 → CH₃O⁻ 이탈 → 알데하이드 → H⁻ 한 번 더 → 1차 알콕사이드 → H₂O → 1차 알코올. OR' 부분은 알코올(메탄올)로 떨어져 나온다."
+    },
+    {
+      "id": 12,
+      "question": "[Ch20] 에스터를 LiAlH₄로 환원하는 도중 잠시 생기는 카보닐 화합물은?",
+      "choices": [
+        "알데하이드",
+        "케톤",
+        "카복실산",
+        "산 염화물"
+      ],
+      "answer": "알데하이드",
+      "explanation": "정답: 알데하이드\n알데하이드는 에스터보다 반응성이 커서 LiAlH₄와 바로 반응 → 따로 얻을 수 없다. 알데하이드에서 멈추려면 DIBAL-H(−78 °C)."
+    },
+    {
+      "id": 13,
+      "question": "[Ch20] 산 염화물을 알데하이드로 환원할 때 적합한 시약은?",
+      "choices": [
+        "LiAlH[OC(CH₃)₃]₃",
+        "LiAlH₄",
+        "NaBH₄ 과량",
+        "H₂, Pd-C 고압"
+      ],
+      "answer": "LiAlH[OC(CH₃)₃]₃",
+      "explanation": "정답: 리튬 트라이-tert-뷰톡시알루미늄 하이드라이드\n부피 큰 알콕시기 3개로 H⁻가 하나뿐이고 반응성이 약해 산 염화물 → 알데하이드에서 멈춘다. 에스터 → 알데하이드는 DIBAL-H."
+    },
+    {
+      "id": 14,
+      "question": "[Ch20] 카복실산을 1차 알코올로 환원할 수 있는 시약은?",
+      "choices": [
+        "LiAlH₄",
+        "NaBH₄",
+        "Ag₂O",
+        "DIBAL-H(−78 °C, 1당량)로 알데하이드에서 멈춤"
+      ],
+      "answer": "LiAlH₄",
+      "explanation": "정답: LiAlH₄\nNaBH₄는 카복실산을 환원하지 못한다(먼저 산-염기 반응으로 카복실산 음이온이 되어 반응성이 사라짐)."
+    },
+    {
+      "id": 15,
+      "question": "[Ch20] 아세톤을 NaBD₄로 환원하고 H₂O로 처리하면 얻는 것은?",
+      "choices": [
+        "(CH₃)₂CD–OH",
+        "(CH₃)₂CH–OD",
+        "(CH₃)₂CD–OD",
+        "(CH₃)₂CH–OH"
+      ],
+      "answer": "(CH₃)₂CD–OH",
+      "explanation": "정답: (CH₃)₂CD–OH\n하이드라이드(D⁻)는 탄소에 붙고, 산소의 양성자는 나중에 넣은 물(H₂O)에서 온다 → 두 단계가 분리되어 있다는 증거."
+    },
+    {
+      "id": 16,
+      "question": "[Ch20] 알데하이드를 Tollens 시약(Ag₂O, NH₄OH)으로 처리했을 때에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "카복실산(음이온)으로 산화되고 은거울이 생긴다.",
+        "1차 알코올로 환원된다.",
+        "케톤도 같은 반응을 한다.",
+        "C=C도 함께 산화된다."
+      ],
+      "answer": "카복실산(음이온)으로 산화되고 은거울이 생긴다.",
+      "explanation": "정답: ①\nAg⁺ → Ag(0)(은거울), RCHO → RCOO⁻. 케톤은 산화되지 않는다(알데하이드 확인 시험). Ag₂O는 C=C·OH 등 다른 작용기를 건드리지 않는 순한 산화제다."
+    },
+    {
+      "id": 17,
+      "question": "[Ch20] 1차 알코올을 CrO₃, H₂SO₄, H₂O(존스 시약)로 산화하면?",
+      "choices": [
+        "카복실산",
+        "알데하이드에서 멈춤",
+        "케톤",
+        "알켄"
+      ],
+      "answer": "카복실산",
+      "explanation": "정답: 카복실산\n물이 있으면 알데하이드가 수화물을 거쳐 한 번 더 산화된다. 알데하이드에서 멈추려면 PCC(CH₂Cl₂, 물 없음). 2차 알코올 → 케톤, 3차는 산화되지 않는다."
+    },
+    {
+      "id": 18,
+      "question": "[Ch20] 유기금속 시약(R–MgX, R–Li)의 탄소에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "δ−로 강한 친핵체이자 강한 염기다.",
+        "δ+로 친전자체다.",
+        "라디칼이다.",
+        "중성이라 반응하지 않는다."
+      ],
+      "answer": "δ−로 강한 친핵체이자 강한 염기다.",
+      "explanation": "정답: ①\n금속(Mg 1.3, Li 1.0)이 탄소(2.5)보다 전기음성도가 작아 C^δ−. 할로알케인의 C^δ+가 유기금속에서 C^δ−로 뒤바뀐다(극성 역전)."
+    },
+    {
+      "id": 19,
+      "question": "[Ch20] 그리냐르 시약을 만들 때 용매로 쓰는 것은?",
+      "choices": [
+        "다이에틸 에터 또는 THF",
+        "물",
+        "메탄올",
+        "아세톤"
+      ],
+      "answer": "다이에틸 에터 또는 THF",
+      "explanation": "정답: 에터(Et₂O, THF)\nR–X + Mg → R–MgX. 에터 산소가 Mg에 배위해 시약을 안정화한다. 물·알코올(산성 H)은 시약을 RH로 파괴하고, 아세톤(C=O)은 시약과 반응한다."
+    },
+    {
+      "id": 20,
+      "question": "[Ch20] CH₃CH₂MgBr에 물을 넣으면 생기는 것은?",
+      "choices": [
+        "에테인",
+        "에탄올",
+        "브로모에테인",
+        "에틸렌"
+      ],
+      "answer": "에테인",
+      "explanation": "정답: CH₃CH₃ + HOMgBr\n유기금속은 강한 염기라 O–H, N–H, 말단 알카인 C–H에서 양성자를 뗀다. D₂O를 쓰면 CH₃CH₂D(동위원소 표지)."
+    },
+    {
+      "id": 21,
+      "question": "[Ch20] 다음 중 그 자체로 그리냐르 시약을 만들 수 없는(분자 안에서 스스로 파괴되는) 할라이드는?",
+      "choices": [
+        "[[smi:OCCCCBr]]",
+        "[[smi:BrCCCC]]",
+        "[[smi:Brc1ccccc1]]",
+        "[[smi:COCCBr]]"
+      ],
+      "answer": "[[smi:OCCCCBr]]",
+      "explanation": "정답: 4-브로모-1-뷰탄올\n생긴 C–MgBr가 같은 분자의 O–H 양성자를 떼어 버린다. OH를 TBDMS 에터로 보호한 뒤 만들어야 한다."
+    },
+    {
+      "id": 22,
+      "question": "[Ch20] PhMgBr를 아세톤과 반응시킨 뒤 H₃O⁺ 처리한 생성물은?",
+      "choices": [
+        "[[smi:CC(C)(O)c1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]",
+        "[[smi:CC(C)c1ccccc1]]",
+        "[[smi:OC(c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(C)(O)c1ccccc1]]",
+      "explanation": "정답: 2-페닐-2-프로판올(3차 알코올)\n그리냐르 + 케톤 → 3차, + 알데하이드 → 2차, + 폼알데하이드 → 1차 알코올."
+    },
+    {
+      "id": 23,
+      "question": "[Ch20] CH₃CH₂MgBr + 폼알데하이드(CH₂O) → H₃O⁺ 의 생성물은?",
+      "choices": [
+        "1-프로판올",
+        "2-프로판올",
+        "에탄올",
+        "프로판알"
+      ],
+      "answer": "1-프로판올",
+      "explanation": "정답: CH₃CH₂CH₂OH(1차 알코올, 탄소 1개 증가)"
+    },
+    {
+      "id": 24,
+      "question": "[Ch20] 2-페닐-2-뷰탄올 [[smi:CCC(C)(O)c1ccccc1]]을 그리냐르 반응으로 만드는 조합으로 옳지 않은 것은?",
+      "choices": [
+        "PhMgBr + 뷰탄알",
+        "PhMgBr + 2-뷰탄온",
+        "CH₃CH₂MgBr + 아세토페논",
+        "CH₃MgBr + 1-페닐-1-프로판온"
+      ],
+      "answer": "PhMgBr + 뷰탄알",
+      "explanation": "정답: ①\n3차 알코올은 탄소에 붙은 세 기(Ph, CH₃, CH₂CH₃) 중 하나를 그리냐르로, 나머지 둘을 케톤으로 쪼갠다(3가지 가능). 뷰탄알(알데하이드)에 PhMgBr를 넣으면 2차 알코올 1-페닐-1-뷰탄올이 된다."
+    },
+    {
+      "id": 25,
+      "question": "[Ch20] 벤조산 메틸에 PhMgBr 과량을 넣고 H₃O⁺ 처리한 생성물은?",
+      "choices": [
+        "[[smi:OC(c1ccccc1)(c1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(c1ccccc1)c1ccccc1]]",
+        "[[smi:OC(c1ccccc1)c1ccccc1]]",
+        "[[smi:OC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:OC(c1ccccc1)(c1ccccc1)c1ccccc1]]",
+      "explanation": "정답: 트라이페닐메탄올\n1당량째 → 아실 치환(CH₃O⁻ 이탈) → 벤조페논 → 2당량째 → 3차 알콕사이드. 케톤이 에스터보다 반응성이 커서 중간에서 멈추지 않는다."
+    },
+    {
+      "id": 26,
+      "question": "[Ch20] PhMgBr에 CO₂(드라이아이스)를 넣고 H₃O⁺ 처리하면?",
+      "choices": [
+        "벤조산",
+        "벤즈알데하이드",
+        "페놀",
+        "벤젠"
+      ],
+      "answer": "벤조산",
+      "explanation": "정답: 벤조산 PhCOOH\nR⁻가 O=C=O의 탄소를 공격 → RCOO⁻MgBr⁺ → 산 처리 → RCOOH (탄소 1개 증가). 나이트릴 가수분해와 함께 카복실산을 만드는 대표 방법."
+    },
+    {
+      "id": 27,
+      "question": "[Ch20] CH₃MgBr를 2-메틸옥시레인(프로필렌 옥사이드)과 반응시키고 H₃O⁺ 처리한 생성물은?",
+      "choices": [
+        "2-뷰탄올",
+        "2-메틸-1-프로판올",
+        "1-뷰탄올",
+        "2-메틸-2-프로판올"
+      ],
+      "answer": "2-뷰탄올",
+      "explanation": "정답: 2-뷰탄올 [[smi:CCC(C)O]]\n강한 친핵체는 에폭사이드의 덜 치환된 탄소(CH₂)를 SN2로 공격 → CH₃–CH₂–CH(OH)–CH₃. 에틸렌 옥사이드 + RMgX → RCH₂CH₂OH(탄소 2개 증가)."
+    },
+    {
+      "id": 28,
+      "question": "[Ch20] 소듐 아세틸라이드(HC≡C⁻Na⁺)를 사이클로헥산온과 반응시키고 H₂O 처리한 생성물은?",
+      "choices": [
+        "[[smi:C#CC1(O)CCCCC1]]",
+        "[[smi:C#CC1CCCCC1=O]]",
+        "[[smi:C=CC1(O)CCCCC1]]",
+        "[[smi:OC1CCCCC1]]"
+      ],
+      "answer": "[[smi:C#CC1(O)CCCCC1]]",
+      "explanation": "정답: 1-에타인일사이클로헥산올\n아세틸라이드도 탄소 친핵체로 C=O에 첨가해 프로파질 알코올을 만든다."
+    },
+    {
+      "id": 29,
+      "question": "[Ch20] 사이클로헥스-2-엔온에 (CH₃)₂CuLi를 넣고 H₂O 처리한 주생성물은?",
+      "choices": [
+        "[[smi:CC1CCCC(=O)C1]]",
+        "[[smi:CC1(O)C=CCCC1]]",
+        "[[smi:CC1=CC(=O)CCC1]]",
+        "[[smi:CC1CCCCC1=O]]"
+      ],
+      "answer": "[[smi:CC1CCCC(=O)C1]]",
+      "explanation": "정답: 3-메틸사이클로헥산온\n유기구리는 α,β-불포화 카보닐에 1,4-첨가(β탄소). 엔올레이트가 생긴 뒤 양성자화 → 케톤."
+    },
+    {
+      "id": 30,
+      "question": "[Ch20] 사이클로헥스-2-엔온에 CH₃MgBr를 넣고 H₃O⁺ 처리한 주생성물은?",
+      "choices": [
+        "[[smi:CC1(O)C=CCCC1]]",
+        "[[smi:CC1CCCC(=O)C1]]",
+        "[[smi:CC1CCCCC1O]]",
+        "[[smi:CC1=CCCCC1]]"
+      ],
+      "answer": "[[smi:CC1(O)C=CCCC1]]",
+      "explanation": "정답: 1-메틸사이클로헥스-2-엔올(1,2-첨가)\n그리냐르·유기리튬(강하고 단단한 친핵체) → C=O에 직접 1,2-첨가. 유기구리(R₂CuLi) → 1,4-첨가."
+    },
+    {
+      "id": 31,
+      "question": "[Ch20] 유기리튬 시약을 만드는 방법은?",
+      "choices": [
+        "R–X + 2 Li → R–Li + LiX",
+        "R–X + Mg → RLi",
+        "RLi + CuI → R₂CuLi",
+        "R–H + LiAlH₄"
+      ],
+      "answer": "R–X + 2 Li → R–Li + LiX",
+      "explanation": "정답: ①\nR₂CuLi(Gilman)는 2 RLi + CuI로 만든다."
+    },
+    {
+      "id": 32,
+      "question": "[Ch20] OH가 있는 할라이드로 그리냐르 반응을 할 때 OH를 보호하는 데 쓰는 보호기와 제거 시약은?",
+      "choices": [
+        "TBDMS(tert-뷰틸다이메틸실릴) 에터 / Bu₄N⁺F⁻",
+        "아세탈 / NaOH",
+        "메틸 에스터 / LiAlH₄",
+        "Boc / Pd-C"
+      ],
+      "answer": "TBDMS(tert-뷰틸다이메틸실릴) 에터 / Bu₄N⁺F⁻",
+      "explanation": "정답: ①\nR–OH + TBDMS–Cl, 이미다졸 → R–O–TBDMS(산성 H 없음). 그리냐르 반응 후 TBAF(F⁻, Si–F 결합이 매우 강함)로 제거."
+    },
+    {
+      "id": 33,
+      "question": "[Ch20] 4-브로모-1-뷰탄올로부터 HOCH₂CH₂CH₂CH₂C(OH)(CH₃)₂를 만드는 순서로 옳은 것은?",
+      "choices": [
+        "TBDMSCl 보호 → Mg → 아세톤 → H₃O⁺ → Bu₄N⁺F⁻",
+        "Mg → 아세톤 → H₃O⁺",
+        "아세톤 → Mg → TBDMSCl",
+        "Bu₄N⁺F⁻ → Mg → 아세톤 → TBDMSCl"
+      ],
+      "answer": "TBDMSCl 보호 → Mg → 아세톤 → H₃O⁺ → Bu₄N⁺F⁻",
+      "explanation": "정답: ① 보호 → 그리냐르 형성 → 반응 → 탈보호\n보호하지 않으면 그리냐르 시약이 자기 OH에 의해 파괴된다."
+    },
+    {
+      "id": 34,
+      "question": "[Ch20] 다음 중 하이드라이드(H⁻) 환원제가 아닌 것은?",
+      "choices": [
+        "Ag₂O",
+        "NaBH₄",
+        "LiAlH₄",
+        "DIBAL-H"
+      ],
+      "answer": "Ag₂O",
+      "explanation": "정답: Ag₂O(산화제, Tollens)"
+    },
+    {
+      "id": 35,
+      "question": "[Ch20] CH₃MgBr와 반응시켰을 때 '산-염기 반응'만 일어나 C–C 결합이 생기지 않는 것은?",
+      "choices": [
+        "아세트산",
+        "아세톤",
+        "아세트알데하이드",
+        "CO₂"
+      ],
+      "answer": "아세트산",
+      "explanation": "정답: 아세트산\nCH₃MgBr가 COOH의 H⁺를 떼어 메테인 + 카복실산 음이온(RCOO⁻)이 된다. 음이온은 더 이상 공격받지 않는다."
+    }
+  ]
+}
