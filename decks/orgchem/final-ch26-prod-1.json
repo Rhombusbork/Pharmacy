@@ -1,0 +1,223 @@
+{
+  "deckId": "orgchem-final-ch26-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch26 생성물 고르기: 유기구리·Suzuki·Heck·카벤·상호교환",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch26 · 유기구리 짝지음(알킬 할라이드)] 다음 반응의 주생성물은?\n[[rxn:CCCCCBr>>?|(C₆H₅)₂CuLi|]]",
+      "choices": [
+        "[[smi:CCCCCc1ccccc1]]",
+        "[[smi:CCCCCCCCCC]]",
+        "[[smi:c1ccc(cc1)-c1ccccc1]]",
+        "[[smi:CCCC=C]]"
+      ],
+      "answer": "[[smi:CCCCCc1ccccc1]]",
+      "explanation": "정답: [[smi:CCCCCc1ccccc1]]\nPPT 3~4쪽: R'–X + R₂CuLi → R'–R + RCu + LiX. 메틸·1차·고리 2차·바이닐·아릴 할라이드 가능, 3차는 입체장애로 안 된다.\n\n오답 분석:\n• [[smi:CCCCCCCCCC]] — R–X끼리 짝지어진 구조 — 유기구리의 R 하나가 X 자리로 들어간다\n• [[smi:c1ccc(cc1)-c1ccccc1]] — 유기구리의 두 페닐이 서로 결합한 구조 — R 하나만 전달되고 나머지는 RCu로 남는다\n• [[smi:CCCC=C]] — E2와 혼동 — 1차 할라이드는 짝지음"
+    },
+    {
+      "id": 2,
+      "question": "[Ch26 · 유기구리 짝지음(아릴 할라이드)] 다음 반응의 주생성물은?\n[[rxn:Clc1ccccc1>>?|(CH₃CH₂)₂CuLi|]]",
+      "choices": [
+        "[[smi:CCc1ccccc1]]",
+        "[[smi:Clc1ccc(CC)cc1]]",
+        "[[smi:CCCC]]",
+        "[[smi:c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCc1ccccc1]]",
+      "explanation": "정답: [[smi:CCc1ccccc1]]\nPPT 4쪽 [2]: 아릴 할라이드도 유기구리와 짝지음 → 새 C(아릴)–C 결합.\n\n오답 분석:\n• [[smi:Clc1ccc(CC)cc1]] — 고리 C–H 자리에 에틸(Friedel–Crafts와 혼동) — Cl 자리에 들어간다\n• [[smi:CCCC]] — 에틸끼리 결합한 뷰테인\n• [[smi:c1ccccc1]] — Cl만 빠진 벤젠"
+    },
+    {
+      "id": 3,
+      "question": "[Ch26 · 유기구리 짝지음(바이닐, 입체특이적)] 다음 반응의 주생성물은?\n[[rxn:CCCC/C=C/Br>>?|(CH₃)₂CuLi|]]",
+      "choices": [
+        "[[smi:CCCC/C=C/C]]",
+        "[[smi:CCCC/C=C\\C]]",
+        "[[smi:CCCCC(C)=C]]",
+        "[[smi:CCCCCCC]]"
+      ],
+      "answer": "[[smi:CCCC/C=C/C]]",
+      "explanation": "정답: [[smi:CCCC/C=C/C]]\nPPT 4쪽 [3]: trans-1-브로모-1-헥센 + (CH₃)₂CuLi → trans-2-헵텐. 바이닐 할라이드 짝지음은 입체특이적.\n\n오답 분석:\n• [[smi:CCCC/C=C\\C]] — cis로 바뀜 — 바이닐 할라이드의 입체는 그대로 유지(입체특이적)\n• [[smi:CCCCC(C)=C]] — 위치 착오 — 메틸은 Br이 있던 탄소에\n• [[smi:CCCCCCC]] — C=C까지 없어진 헵테인"
+    },
+    {
+      "id": 4,
+      "question": "[Ch26 · 카테콜보레인 수소붕소화] 다음 반응의 주생성물은?\n[[rxn:CCCCC#C>>?|카테콜보레인 (H–B(O₂C₆H₄))|]]",
+      "choices": [
+        "[[smi:CCCC/C=C/B1Oc2ccccc2O1]]",
+        "[[smi:CCCC/C=C\\B1Oc2ccccc2O1]]",
+        "[[smi:CCCCC(=C)B1Oc2ccccc2O1]]",
+        "[[smi:CCCCCCB1Oc2ccccc2O1]]"
+      ],
+      "answer": "[[smi:CCCC/C=C/B1Oc2ccccc2O1]]",
+      "explanation": "정답: [[smi:CCCC/C=C/B1Oc2ccccc2O1]]\nPPT 11쪽: 카테콜보레인의 H–B가 syn 첨가 → trans 바이닐보레인(Suzuki 반응의 붕소 성분).\n\n오답 분석:\n• [[smi:CCCC/C=C\\B1Oc2ccccc2O1]] — cis 바이닐보레인 — H와 B가 같은 쪽(syn)에 첨가되어 R과 B는 trans\n• [[smi:CCCCC(=C)B1Oc2ccccc2O1]] — B가 안쪽 탄소에 붙음 — 말단 알카인에서는 항상 덜 치환된 말단 탄소\n• [[smi:CCCCCCB1Oc2ccccc2O1]] — 두 번 첨가된 알킬보레인"
+    },
+    {
+      "id": 5,
+      "question": "[Ch26 · 아릴보레인 만들기] 다음 반응의 주생성물은?\n[[rxn:[Li]c1ccccc1>>?|B(OCH₃)₃|]]",
+      "choices": [
+        "[[smi:COB(OC)c1ccccc1]]",
+        "[[smi:COc1ccccc1]]",
+        "[[smi:Oc1ccccc1]]",
+        "[[smi:B(c1ccccc1)(c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:COB(OC)c1ccccc1]]",
+      "explanation": "정답: [[smi:COB(OC)c1ccccc1]]\nPPT 12쪽: PhLi + B(OCH₃)₃ → PhB(OCH₃)₂(아릴보레인) + LiOCH₃.\n\n오답 분석:\n• [[smi:COc1ccccc1]] — 메톡시가 페닐에 붙은 아니솔 — 페닐 음이온은 붕소(루이스 산)를 공격\n• [[smi:Oc1ccccc1]] — 페놀 — 산화 단계(H₂O₂)가 없다\n• [[smi:B(c1ccccc1)(c1ccccc1)c1ccccc1]] — 트라이페닐보레인 — 한 번 치환되고 LiOCH₃가 빠진다"
+    },
+    {
+      "id": 6,
+      "question": "[Ch26 · Suzuki 반응(아릴 + 바이닐)] 다음 반응의 주생성물은?\n[[rxn:Brc1ccccc1>>?|trans-CH₃(CH₂)₃CH=CH–B(카테콜), Pd(PPh₃)₄|NaOH]]",
+      "choices": [
+        "[[smi:CCCC/C=C/c1ccccc1]]",
+        "[[smi:CCCC/C=C\\c1ccccc1]]",
+        "[[smi:CCCCC(=C)c1ccccc1]]",
+        "[[smi:c1ccc(cc1)-c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCCC/C=C/c1ccccc1]]",
+      "explanation": "정답: [[smi:CCCC/C=C/c1ccccc1]]\nPPT 9~10쪽 [1]: R'X + RBY₂ → Pd(PPh₃)₄, 염기(NaOH) → R–R'. B 자리와 X 자리가 이어진다.\n\n오답 분석:\n• [[smi:CCCC/C=C\\c1ccccc1]] — C=C 입체가 바뀜 — Suzuki는 바이닐보레인의 trans를 유지\n• [[smi:CCCCC(=C)c1ccccc1]] — 위치 착오 — B가 있던 탄소와 Br이 있던 탄소가 결합\n• [[smi:c1ccc(cc1)-c1ccccc1]] — 브로모벤젠끼리 짝지어진 바이페닐"
+    },
+    {
+      "id": 7,
+      "question": "[Ch26 · Suzuki 반응(바이닐 + 바이닐)] 다음 반응의 주생성물은?\n[[rxn:C=C(Br)c1ccccc1>>?|trans-CH₃(CH₂)₂CH=CH–B(카테콜), Pd(PPh₃)₄|NaOH]]",
+      "choices": [
+        "[[smi:C=C(/C=C/CCC)c1ccccc1]]",
+        "[[smi:CCC/C=C/C=Cc1ccccc1]]",
+        "[[smi:C=C(c1ccccc1)c1ccccc1]]",
+        "[[smi:C=C(CC/C=C/CCC)c1ccccc1]]"
+      ],
+      "answer": "[[smi:C=C(/C=C/CCC)c1ccccc1]]",
+      "explanation": "정답: [[smi:C=C(/C=C/CCC)c1ccccc1]]\nPPT 10쪽 [2]: 바이닐 브로마이드 + 바이닐보레인 → 콘쥬게이션 다이엔.\n\n오답 분석:\n• [[smi:CCC/C=C/C=Cc1ccccc1]] — Br이 아닌 말단 탄소에 연결된 구조\n• [[smi:C=C(c1ccccc1)c1ccccc1]] — 브로마이드끼리 결합한 구조\n• [[smi:C=C(CC/C=C/CCC)c1ccccc1]] — 탄소 수 착오"
+    },
+    {
+      "id": 8,
+      "question": "[Ch26 · Suzuki 반응(입체 유지)] 다음 반응의 주생성물은?\n[[rxn:CCC/C=C\\Br>>?|trans-CH₃(CH₂)₃CH=CH–B(카테콜), Pd(PPh₃)₄|NaOCH₂CH₃]]",
+      "choices": [
+        "[[smi:CCC/C=C\\C=C\\CCCC]]",
+        "[[smi:CCC/C=C/C=C/CCCC]]",
+        "[[smi:CCC/C=C\\C=C/CCCC]]",
+        "[[smi:CCCCCCCCCC]]"
+      ],
+      "answer": "[[smi:CCC/C=C\\C=C\\CCCC]]",
+      "explanation": "정답: [[smi:CCC/C=C\\C=C\\CCCC]]\nPPT 10쪽 [3]: cis 바이닐 브로마이드 + trans 바이닐보레인 → cis, trans 다이엔. 두 C=C의 입체가 모두 유지된다(봄비콜 합성, 14쪽).\n\n오답 분석:\n• [[smi:CCC/C=C/C=C/CCCC]] — cis 바이닐 브로마이드의 입체가 trans로 바뀜\n• [[smi:CCC/C=C\\C=C/CCCC]] — trans 바이닐보레인의 입체가 cis로 바뀜\n• [[smi:CCCCCCCCCC]] — C=C가 모두 사라진 구조"
+    },
+    {
+      "id": 9,
+      "question": "[Ch26 · Heck 반응(에틸렌)] 다음 반응의 주생성물은?\n[[rxn:COc1cc(Br)cc(OC)c1>>?|CH₂=CH₂, Pd(OAc)₂, P(o-tolyl)₃|(CH₃CH₂)₃N]]",
+      "choices": [
+        "[[smi:C=Cc1cc(OC)cc(OC)c1]]",
+        "[[smi:CCc1cc(OC)cc(OC)c1]]",
+        "[[smi:COc1cc(OC)cc(C=C)c1Br]]",
+        "[[smi:COc1cccc(OC)c1]]"
+      ],
+      "answer": "[[smi:C=Cc1cc(OC)cc(OC)c1]]",
+      "explanation": "정답: [[smi:C=Cc1cc(OC)cc(OC)c1]]\nPPT 15~17쪽 [1]: 아릴(바이닐) 할라이드 + 알켄 → Pd 촉매 → 알켄의 H 하나가 R'로 바뀐 더 치환된 알켄.\n\n오답 분석:\n• [[smi:CCc1cc(OC)cc(OC)c1]] — 에틸 — 새 C=C가 남는다(β-수소 제거)\n• [[smi:COc1cc(OC)cc(C=C)c1Br]] — Br이 남고 고리 C–H에 바이닐 — Br 자리에 바이닐\n• [[smi:COc1cccc(OC)c1]] — Br만 빠진 구조"
+    },
+    {
+      "id": 10,
+      "question": "[Ch26 · Heck 반응(아크릴산 에스터)] 다음 반응의 주생성물은?\n[[rxn:Brc1ccccc1>>?|CH₂=CHCO₂CH₃, Pd(OAc)₂|(CH₃CH₂)₃N]]",
+      "choices": [
+        "[[smi:COC(=O)/C=C/c1ccccc1]]",
+        "[[smi:COC(=O)/C=C\\c1ccccc1]]",
+        "[[smi:C=C(C(=O)OC)c1ccccc1]]",
+        "[[smi:COC(=O)CCc1ccccc1]]"
+      ],
+      "answer": "[[smi:COC(=O)/C=C/c1ccccc1]]",
+      "explanation": "정답: [[smi:COC(=O)/C=C/c1ccccc1]]\nPPT 16~17쪽 [2]: CH₂=CHZ(Z = Ph, COOR, CN) → 덜 치환된 탄소에 새 C–C, trans 알켄 → (E)-신남산 메틸.\n\n오답 분석:\n• [[smi:COC(=O)/C=C\\c1ccccc1]] — cis — Heck은 trans 알켄을 준다\n• [[smi:C=C(C(=O)OC)c1ccccc1]] — 더 치환된 탄소에 결합 — Z가 있는 단일치환 알켄은 덜 치환된 탄소에\n• [[smi:COC(=O)CCc1ccccc1]] — C=C가 환원된 구조"
+    },
+    {
+      "id": 11,
+      "question": "[Ch26 · Heck 반응(바이닐 + 아크릴로나이트릴)] 다음 반응의 주생성물은?\n[[rxn:CC/C=C/I>>?|CH₂=CHCN, Pd(OAc)₂|(CH₃CH₂)₃N]]",
+      "choices": [
+        "[[smi:CC/C=C/C=C/C#N]]",
+        "[[smi:CC/C=C\\C=C/C#N]]",
+        "[[smi:C=C(C#N)/C=C/CC]]",
+        "[[smi:CCC=CC#N]]"
+      ],
+      "answer": "[[smi:CC/C=C/C=C/C#N]]",
+      "explanation": "정답: [[smi:CC/C=C/C=C/C#N]]\nPPT 16~17쪽 [3]: 바이닐 할라이드의 입체는 유지되고, 새 C=C는 trans → (2E,4E)-다이엔 나이트릴.\n\n오답 분석:\n• [[smi:CC/C=C\\C=C/C#N]] — 바이닐 아이오다이드의 trans가 cis로 바뀜\n• [[smi:C=C(C#N)/C=C/CC]] — 더 치환된 탄소에 결합\n• [[smi:CCC=CC#N]] — 새 탄소가 들어오지 않은 구조"
+    },
+    {
+      "id": 12,
+      "question": "[Ch26 · 다이클로로카벤] 다음 반응의 주생성물은?\n[[rxn:C1=CCCCC1>>?|CHCl₃|KOC(CH₃)₃]]",
+      "choices": [
+        "[[smi:ClC1(Cl)C2CCCCC12]]",
+        "[[smi:ClC1CCCCC1Cl]]",
+        "[[smi:ClC(Cl)C1CCCC=C1]]",
+        "[[smi:C1CCC2CC2C1]]"
+      ],
+      "answer": "[[smi:ClC1(Cl)C2CCCCC12]]",
+      "explanation": "정답: [[smi:ClC1(Cl)C2CCCCC12]]\nPPT 21·24쪽: CHCl₃ + KOC(CH₃)₃ → α-제거 → :CCl₂(친전자체) → C=C에 첨가 → 다이할로사이클로프로페인. 새 C–C 2개.\n\n오답 분석:\n• [[smi:ClC1CCCCC1Cl]] — Cl₂ 첨가(다이클로라이드)와 혼동 — 탄소 하나(:CCl₂)가 들어간다\n• [[smi:ClC(Cl)C1CCCC=C1]] — C–H 자리에 CHCl₂ — 카벤은 C=C에 첨가\n• [[smi:C1CCC2CC2C1]] — Cl 없는 사이클로프로페인 — Simmons–Smith(CH₂I₂)일 때"
+    },
+    {
+      "id": 13,
+      "question": "[Ch26 · 카벤 첨가의 입체특이성] 다음 반응의 주생성물은?\n[[rxn:C/C=C\\C>>?|CHBr₃|KOC(CH₃)₃]]",
+      "choices": [
+        "[[smi:C[C@H]1[C@@H](C)C1(Br)Br]]",
+        "[[smi:C[C@H]1[C@H](C)C1(Br)Br]]",
+        "[[smi:CC(Br)C(C)Br]]",
+        "[[smi:CC1CC1(Br)Br]]"
+      ],
+      "answer": "[[smi:C[C@H]1[C@@H](C)C1(Br)Br]]",
+      "explanation": "정답: [[smi:C[C@H]1[C@@H](C)C1(Br)Br]]\nPPT 22·25쪽: 카벤 첨가는 협동·syn(동일면) → 입체특이적. cis-2-뷰텐 → cis-1,1-다이브로모-2,3-다이메틸사이클로프로페인.\n\n오답 분석:\n• [[smi:C[C@H]1[C@H](C)C1(Br)Br]] — trans — cis 알켄에서는 cis만 생긴다\n• [[smi:CC(Br)C(C)Br]] — Br₂ 첨가와 혼동\n• [[smi:CC1CC1(Br)Br]] — 탄소 수 착오"
+    },
+    {
+      "id": 14,
+      "question": "[Ch26 · 다이아조메테인과 메틸렌] 다음 반응의 결과로 옳은 것은?\n[[rxn:C=CCC>>?|CH₂N₂|빛 또는 가열]]",
+      "choices": [
+        "C=C 첨가와 C–H 삽입이 함께 일어나 여러 생성물의 복잡한 혼합물",
+        "메틸사이클로프로페인 하나만 깨끗이 생긴다",
+        "다이아조 화합물이 C=C와 결합해 그대로 남는다",
+        "반응하지 않는다"
+      ],
+      "answer": "C=C 첨가와 C–H 삽입이 함께 일어나 여러 생성물의 복잡한 혼합물",
+      "explanation": "정답: C=C 첨가와 C–H 삽입이 함께 일어나 여러 생성물의 복잡한 혼합물\nPPT 26쪽: 다이아조메테인을 가열 → N₂ 손실 → 메틸렌 :CH₂. 알켄과의 반응은 복잡한 혼합물이라 합성에 쓰기 어렵다.\n\n오답 분석:\n• 메틸사이클로프로페인 하나만 깨끗이 생긴다 — 자유 메틸렌(:CH₂)은 반응성이 지나쳐 선택성이 없다 — 깨끗한 사이클로프로페인은 Simmons–Smith\n• 다이아조 화합물이 C=C와 결합해 그대로 남는다 — 다이아조메테인은 N₂를 잃고 :CH₂가 된다\n• 반응하지 않는다 — 가열하면 분해되어 메틸렌이 생긴다"
+    },
+    {
+      "id": 15,
+      "question": "[Ch26 · Simmons–Smith 반응] 다음 반응의 주생성물은?\n[[rxn:CC/C=C\\CC>>?|CH₂I₂|Zn(Cu)]]",
+      "choices": [
+        "[[smi:CC[C@H]1C[C@H]1CC]]",
+        "[[smi:CC[C@H]1C[C@@H]1CC]]",
+        "[[smi:CCC(I)C(I)CC]]",
+        "[[smi:ClC1(Cl)C(CC)C1CC]]"
+      ],
+      "answer": "[[smi:CC[C@H]1C[C@H]1CC]]",
+      "explanation": "정답: [[smi:CC[C@H]1C[C@H]1CC]]\nPPT 27~29쪽: CH₂I₂ + Zn(Cu) → ICH₂ZnI(카베노이드, 자유 카벤 아님) → 알켄에 CH₂를 한 번에 전달. 입체특이적: cis-3-헥센 → cis-1,2-다이에틸사이클로프로페인.\n\n오답 분석:\n• [[smi:CC[C@H]1C[C@@H]1CC]] — trans — 알켄의 cis 관계가 그대로 유지된다\n• [[smi:CCC(I)C(I)CC]] — I₂ 첨가와 혼동\n• [[smi:ClC1(Cl)C(CC)C1CC]] — 다이할로카벤(CHCl₃)과 혼동"
+    },
+    {
+      "id": 16,
+      "question": "[Ch26 · 올레핀 상호교환] 1-펜텐 두 분자의 상호교환 생성물로 옳은 것은?\n[[rxn:CCCC=C>>?|Cl₂(Cy₃P)₂Ru=CHPh (Grubbs)|]]",
+      "choices": [
+        "[[smi:CCCC=CCCC]] (E와 Z) + CH₂=CH₂",
+        "[[smi:CCCC=CCCC]] (E만) + CH₂=CH₂",
+        "[[smi:CCCCC=CCCCC]] + 탄소 없음",
+        "[[smi:C1CCC1]]형 사이클로뷰테인"
+      ],
+      "answer": "[[smi:CCCC=CCCC]] (E와 Z) + CH₂=CH₂",
+      "explanation": "정답: [[smi:CCCC=CCCC]] (E와 Z) + CH₂=CH₂\nPPT 30~34쪽: 두 알켄의 C=C 탄소가 서로 자리를 바꾼다. 말단 알켄이면 에틸렌 기체가 빠져나가 평형이 생성물 쪽 → 2 1-펜텐 → 4-옥텐 + 에틸렌.\n\n오답 분석:\n• [[smi:CCCC=CCCC]] (E만) + CH₂=CH₂ — 상호교환은 E·Z 혼합물을 준다\n• [[smi:CCCCC=CCCCC]] + 탄소 없음 — 탄소 배분 착오 — 두 =CH₂ 조각이 에틸렌으로 빠진다\n• [[smi:C1CCC1]]형 사이클로뷰테인 — 메탈라사이클로뷰테인은 중간체일 뿐, 생성물은 알켄"
+    },
+    {
+      "id": 17,
+      "question": "[Ch26 · 고리 닫힘 상호교환(RCM)] 다음 반응의 주생성물은?\n[[rxn:C=CCN(CC=C)S(=O)(=O)c1ccc(C)cc1>>?|Grubbs 촉매|묽은 용액]]",
+      "choices": [
+        "[[smi:Cc1ccc(S(=O)(=O)N2CC=CC2)cc1]]",
+        "[[smi:Cc1ccc(S(=O)(=O)N2CCCC2)cc1]]",
+        "[[smi:Cc1ccc(S(=O)(=O)N2CC=CCC2)cc1]]",
+        "[[smi:C=CCN(CC=CCN(CC=C)S(=O)(=O)c1ccc(C)cc1)S(=O)(=O)c1ccc(C)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(S(=O)(=O)N2CC=CC2)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(S(=O)(=O)N2CC=CC2)cc1]]\nPPT 36쪽: 다이엔 + Grubbs → 고리 닫힘 + CH₂=CH₂. N-토실 다이알릴아민 → N-토실-2,5-다이하이드로피롤.\n\n오답 분석:\n• [[smi:Cc1ccc(S(=O)(=O)N2CCCC2)cc1]] — C=C가 없는 피롤리딘 — 새 C=C가 고리에 남는다\n• [[smi:Cc1ccc(S(=O)(=O)N2CC=CCC2)cc1]] — 6원 고리 — 에틸렌이 빠지므로 N + CH₂ 2개 + CH 2개 = 5원 고리\n• [[smi:C=CCN(CC=CCN(CC=C)S(=O)(=O)c1ccc(C)cc1)S(=O)(=O)c1ccc(C)cc1]] — 두 분자가 연결된 구조 — 묽은 용액은 분자 내 반응을 유리하게 한다"
+    },
+    {
+      "id": 18,
+      "question": "[Ch26 · RCM(탄소 고리)] 다음 반응의 주생성물은?\n[[rxn:C=CCCCCC=C>>?|Grubbs 촉매|묽은 용액]]",
+      "choices": [
+        "[[smi:C1=CCCCC1]]",
+        "[[smi:C1=CCCCCCC1]]",
+        "[[smi:C1CCCCC1]]",
+        "[[smi:C=CCCCC=C]]"
+      ],
+      "answer": "[[smi:C1=CCCCC1]]",
+      "explanation": "정답: [[smi:C1=CCCCC1]]\nPPT 36쪽: 1,7-옥타다이엔 → 양 끝 =CH₂ 두 개가 에틸렌으로 빠지고 → 사이클로헥센.\n\n오답 분석:\n• [[smi:C1=CCCCCCC1]] — 에틸렌을 빼지 않은 8원 고리\n• [[smi:C1CCCCC1]] — C=C까지 없어진 사이클로헥세인\n• [[smi:C=CCCCC=C]] — 탄소 수 착오"
+    }
+  ]
+}
