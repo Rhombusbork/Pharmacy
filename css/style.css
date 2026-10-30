@@ -298,6 +298,30 @@ h2 {
   width: fit-content;
 }
 
+/* 생성물 자리가 "?"인 반응식: 반응물 + 화살표 + ?를 가로로 놓고, 좁으면 다음 줄로 넘긴다 */
+.structure.reaction-question {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  max-width: 100%;
+}
+
+.structure.reaction-question svg {
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
+.reaction-sign {
+  font-size: 1.4rem;
+  padding: 0 0.2rem;
+}
+
+.reaction-unknown {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 /* 그림 파일도 한 줄을 차지하고, 화면보다 크면 줄어든다 */
 .structure.figure {
   display: block;
