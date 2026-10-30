@@ -1,0 +1,187 @@
+{
+  "deckId": "orgchem-final-ch27-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch27 생성물 고르기: 전자고리화·고리화첨가·시그마 자리옮김",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch27 · 전자고리화 고리 닫힘] 다음 반응의 주생성물은?\n[[rxn:C=CC=CC=C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C1=CCCC=C1]]",
+        "[[smi:C1=CC=CCC1]]",
+        "[[smi:C1CCCCC1]]",
+        "[[smi:C1=CC=CC=C1]]"
+      ],
+      "answer": "[[smi:C1=CCCC=C1]]",
+      "explanation": "정답: [[smi:C1=CCCC=C1]]\nPPT 3쪽: 콘쥬게이션 폴리엔의 양 끝이 σ 결합으로 이어진다 → σ 하나 증가, π 하나 감소. 1,3,5-헥사트라이엔 → 1,3-사이클로헥사다이엔(평형).\n\n오답 분석:\n• [[smi:C1=CC=CCC1]] — 같은 분자 다른 표기가 아닌 1,4-다이엔 — 고리 닫힘 후 π 결합은 C2=C3, C4=C5(콘쥬게이션 유지)\n• [[smi:C1CCCCC1]] — π 결합이 모두 사라진 구조 — π 결합이 하나만 줄고 σ 결합이 하나 는다\n• [[smi:C1=CC=CC=C1]] — 벤젠 — 산화(H₂ 손실) 단계가 없다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch27 · 전자고리화 고리 열림] 다음 반응의 주생성물은?\n[[rxn:C1=CCC1>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C=CC=C]]",
+        "[[smi:C1CCC1]]",
+        "[[smi:C=C=CC]]",
+        "[[smi:C#CCC]]"
+      ],
+      "answer": "[[smi:C=CC=C]]",
+      "explanation": "정답: [[smi:C=CC=C]]\nPPT 3쪽: 고리의 σ 결합이 끊어지며 π 결합이 하나 늘어난 콘쥬게이션 생성물 → 사이클로뷰텐 → 1,3-뷰타다이엔.\n\n오답 분석:\n• [[smi:C1CCC1]] — σ 결합이 끊어지지 않은 사이클로뷰테인\n• [[smi:C=C=CC]] — 누적 다이엔 — 콘쥬게이션 다이엔이 생긴다\n• [[smi:C#CCC]] — 알카인 — π 결합 하나가 늘어 C=C 두 개"
+    },
+    {
+      "id": 3,
+      "question": "[Ch27 · 열적 6π 전자고리화] 다음 반응의 주생성물은?\n[[rxn:C/C=C/C=C\\C=C\\C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C[C@H]1C=CC=C[C@H]1C]]",
+        "[[smi:C[C@H]1C=CC=C[C@@H]1C]]",
+        "[[smi:CC1=CC=CCC1C]]",
+        "[[smi:CC1C=CC=CC1]]"
+      ],
+      "answer": "[[smi:C[C@H]1C=CC=C[C@H]1C]]",
+      "explanation": "정답: [[smi:C[C@H]1C=CC=C[C@H]1C]]\nPPT 14·18쪽: (2E,4Z,6E)-2,4,6-옥타트라이엔 → 열 → cis-5,6-다이메틸-1,3-사이클로헥사다이엔만(cis product only). 전자고리화는 완전히 입체특이적.\n\n오답 분석:\n• [[smi:C[C@H]1C=CC=C[C@@H]1C]] — trans — 열적 6π(π 결합 3개, 홀수)는 반대방향 회전(disrotatory) → cis만\n• [[smi:CC1=CC=CCC1C]] — 이중결합 위치 착오\n• [[smi:CC1C=CC=CC1]] — 메틸 하나가 빠진 구조"
+    },
+    {
+      "id": 4,
+      "question": "[Ch27 · 열적 고리 열림(4π)] 다음 반응의 주생성물은?\n[[rxn:C[C@H]1C=C[C@H]1C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C/C=C/C=C\\C]]",
+        "[[smi:C/C=C/C=C/C]]",
+        "[[smi:C/C=C\\C=C\\C]]",
+        "[[smi:CC=CCC=C]]"
+      ],
+      "answer": "[[smi:C/C=C/C=C\\C]]",
+      "explanation": "정답: [[smi:C/C=C/C=C\\C]]\nPPT 14·20쪽: 고리 열림도 같은 규칙(가역 반응). π 결합 짝수(2개)를 만드는 열적 고리 열림 → 동일방향(conrotatory) → cis-3,4-다이메틸사이클로뷰텐 → (2E,4Z)-2,4-헥사다이엔만.\n\n오답 분석:\n• [[smi:C/C=C/C=C/C]] — (2E,4E) — 열적 4π(짝수)는 동일방향 회전: cis-다이메틸은 하나는 바깥(E), 하나는 안쪽(Z)\n• [[smi:C/C=C\\C=C\\C]] — (2Z,4Z) — 두 메틸이 모두 안쪽으로 가는 것은 반대방향 회전일 때\n• [[smi:CC=CCC=C]] — 콘쥬게이션되지 않은 다이엔"
+    },
+    {
+      "id": 5,
+      "question": "[Ch27 · 열적 4π 고리 닫힘] 다음 반응의 주생성물은?\n[[rxn:C/C=C/C=C/C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C[C@H]1C=C[C@@H]1C]]",
+        "[[smi:C[C@H]1C=C[C@H]1C]]",
+        "[[smi:CC1CC=C1C]]",
+        "[[smi:C[C@H]1CC[C@H]1C]]"
+      ],
+      "answer": "[[smi:C[C@H]1C=C[C@@H]1C]]",
+      "explanation": "정답: [[smi:C[C@H]1C=C[C@@H]1C]]\nPPT 15·19쪽: (2E,4E)-2,4-헥사다이엔 → 열 → 동일방향 회전 → trans-3,4-다이메틸사이클로뷰텐(+ 거울상)만.\n\n오답 분석:\n• [[smi:C[C@H]1C=C[C@H]1C]] — cis — 빛(hν)일 때의 결과\n• [[smi:CC1CC=C1C]] — 이중결합 위치 착오\n• [[smi:C[C@H]1CC[C@H]1C]] — C=C가 없는 사이클로뷰테인"
+    },
+    {
+      "id": 6,
+      "question": "[Ch27 · 광화학 4π 고리 닫힘] 다음 반응의 주생성물은?\n[[rxn:C/C=C/C=C/C>>?|hν|]]",
+      "choices": [
+        "[[smi:C[C@H]1C=C[C@H]1C]]",
+        "[[smi:C[C@H]1C=C[C@@H]1C]]",
+        "[[smi:C/C=C/C=C\\C]]",
+        "[[smi:C1CCC1]]"
+      ],
+      "answer": "[[smi:C[C@H]1C=C[C@H]1C]]",
+      "explanation": "정답: [[smi:C[C@H]1C=C[C@H]1C]]\nPPT 15·21~22쪽: 빛 → 들뜬상태 HOMO(바닥상태 LUMO)의 대칭이 반대 → 짝수 π 결합이 반대방향 회전 → cis 생성물만. 표 27.1: 짝수 — 열 conrotatory / 빛 disrotatory, 홀수 — 열 disrotatory / 빛 conrotatory.\n\n오답 분석:\n• [[smi:C[C@H]1C=C[C@@H]1C]] — trans — 열(Δ)일 때의 결과\n• [[smi:C/C=C/C=C\\C]] — E/Z 이성질화만 일어난 다이엔\n• [[smi:C1CCC1]] — 메틸이 빠진 구조"
+    },
+    {
+      "id": 7,
+      "question": "[Ch27 · Diels–Alder 입체(E,E-다이엔)] 다음 반응의 주생성물은?\n[[rxn:C/C=C/C=C/C.C=C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C[C@H]1C=C[C@@H](C)CC1]]",
+        "[[smi:C[C@H]1C=C[C@H](C)CC1]]",
+        "[[smi:CC1=CC(C)CCC1]]",
+        "[[smi:C[C@H]1CC[C@@H]1C]]"
+      ],
+      "answer": "[[smi:C[C@H]1C=C[C@@H](C)CC1]]",
+      "explanation": "정답: [[smi:C[C@H]1C=C[C@@H](C)CC1]]\nPPT 23·28쪽: Diels–Alder = 열적 [4+2] 고리화첨가, 협동·동일면(suprafacial) → 다이엔의 입체가 유지된다. (2E,4E)-헥사다이엔 + 에틸렌 → cis-3,6-다이메틸사이클로헥센만.\n\n오답 분석:\n• [[smi:C[C@H]1C=C[C@H](C)CC1]] — trans — (2E,4Z)-다이엔이었을 때\n• [[smi:CC1=CC(C)CCC1]] — 이중결합 위치 착오 — 새 C=C는 다이엔의 가운데 두 탄소 사이\n• [[smi:C[C@H]1CC[C@@H]1C]] — [2+2] 사이클로뷰테인 — 열적 [2+2]는 일어나지 않는다"
+    },
+    {
+      "id": 8,
+      "question": "[Ch27 · Diels–Alder 입체(E,Z-다이엔)] 다음 반응의 주생성물은?\n[[rxn:C/C=C/C=C\\C.C=C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C[C@H]1C=C[C@H](C)CC1]]",
+        "[[smi:C[C@H]1C=C[C@@H](C)CC1]]",
+        "[[smi:CC1C=CCCC1]]",
+        "[[smi:CC1=CCC(C)CC1]]"
+      ],
+      "answer": "[[smi:C[C@H]1C=C[C@H](C)CC1]]",
+      "explanation": "정답: [[smi:C[C@H]1C=C[C@H](C)CC1]]\nPPT 28쪽 [2]: (2E,4Z)-2,4-헥사다이엔 → trans-3,6-다이메틸사이클로헥센(+ 거울상)만.\n\n오답 분석:\n• [[smi:C[C@H]1C=C[C@@H](C)CC1]] — cis — (2E,4E)-다이엔이었을 때\n• [[smi:CC1C=CCCC1]] — 메틸 하나가 빠진 구조\n• [[smi:CC1=CCC(C)CC1]] — 이중결합 위치 착오"
+    },
+    {
+      "id": 9,
+      "question": "[Ch27 · 광화학 [2+2] 고리화첨가] 다음 반응의 주생성물은?\n[[rxn:C1=CCCCC1.C=C>>?|hν|]]",
+      "choices": [
+        "[[smi:C1CCC2CCC2C1]]",
+        "[[smi:C1=CC2CCC2CC1]]",
+        "[[smi:CCC1CCCCC1]]",
+        "[[smi:C1=CCCCC1]]"
+      ],
+      "answer": "[[smi:C1CCC2CCC2C1]]",
+      "explanation": "정답: [[smi:C1CCC2CCC2C1]]\nPPT 24·29~30쪽: 두 알켄(각 2π)의 [2+2] → 사이클로뷰테인. 열적으로는 금지(한쪽 끝 위상 불일치), 빛으로 들뜬 HOMO와 다른 알켄 LUMO가 맞아 진행.\n\n오답 분석:\n• [[smi:C1=CC2CCC2CC1]] — C=C가 남은 구조 — 두 π 결합이 모두 σ 결합 두 개로 바뀐다\n• [[smi:CCC1CCCCC1]] — 에틸이 붙은 구조(첨가가 아닌 치환)\n• [[smi:C1=CCCCC1]] — 반응하지 않는다고 착각 — 열에서는 안 되지만 빛에서는 된다"
+    },
+    {
+      "id": 10,
+      "question": "[Ch27 · [1,5]-수소 이동] 다음 반응의 주생성물은?\n[[rxn:CC1C=CC=C1>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:CC1=CCC=C1]]",
+        "[[smi:CC1C=CCC1]]",
+        "[[smi:C=C1CC=CC1]]",
+        "[[smi:Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:CC1=CCC=C1]]",
+      "explanation": "정답: [[smi:CC1=CCC=C1]]\nPPT 32~35쪽: [1,5] 시그마 자리옮김 = 전자쌍 3개(σ 1 + π 2) → 열적 동일면. 5-메틸사이클로펜타다이엔의 H가 이동해 1-메틸사이클로펜타다이엔(더 치환된 C=C).\n\n오답 분석:\n• [[smi:CC1C=CCC1]] — H₂가 더해진 구조 — 이동일 뿐 원자 수는 같다\n• [[smi:C=C1CC=CC1]] — 고리 밖 C=C — 콘쥬게이션 고리 다이엔이 유지된다\n• [[smi:Cc1ccccc1]] — 고리 확장 — 탄소 수가 다르다"
+    },
+    {
+      "id": 11,
+      "question": "[Ch27 · Cope 자리옮김] 다음 반응의 주생성물은?\n[[rxn:C=CC(C)CC=C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C/C=C/CCC=C]]",
+        "[[smi:C=CC(C)CC=C]]",
+        "[[smi:CC1CC=CCC1]]",
+        "[[smi:C=CC=CC(C)C]]"
+      ],
+      "answer": "[[smi:C/C=C/CCC=C]]",
+      "explanation": "정답: [[smi:C/C=C/CCC=C]]\nPPT 36쪽: Cope = 1,5-다이엔 → 이성질 1,5-다이엔. C3–C4 σ 결합이 끊어지고 C1–C6 σ 결합이 생기며 π 결합이 옮겨 간다 → 3-메틸-1,5-헥사다이엔 → 1,5-헵타다이엔.\n\n오답 분석:\n• [[smi:C=CC(C)CC=C]] — 출발물 그대로 — Cope는 이성질 1,5-다이엔으로 바뀐다(더 치환된 C=C 쪽으로 평형)\n• [[smi:CC1CC=CCC1]] — 고리화 — [3,3]은 고리를 만들지 않는다\n• [[smi:C=CC=CC(C)C]] — 콘쥬게이션 다이엔 — 생성물도 1,5-다이엔"
+    },
+    {
+      "id": 12,
+      "question": "[Ch27 · oxy-Cope 자리옮김] 다음 반응의 주생성물은?\n[[rxn:C=CC(O)CC=C>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C=CCCCC=O]]",
+        "[[smi:OC=CCCC=C]]",
+        "[[smi:C=CC(O)CC=C]]",
+        "[[smi:OC1CCC=CC1]]"
+      ],
+      "answer": "[[smi:C=CCCCC=O]]",
+      "explanation": "정답: [[smi:C=CCCCC=O]]\nPPT 37쪽: C3에 OH가 있는 1,5-다이엔 → [3,3] → 엔올 → 토토머화 → 카보닐(5-헥센알). 카보닐 형성이 구동력.\n\n오답 분석:\n• [[smi:OC=CCCC=C]] — 엔올 중간체에서 멈춤 — 곧 토토머화해 카보닐\n• [[smi:C=CC(O)CC=C]] — 출발물 그대로\n• [[smi:OC1CCC=CC1]] — 고리형 알코올 — [3,3]은 고리를 만들지 않는다"
+    },
+    {
+      "id": 13,
+      "question": "[Ch27 · 음이온 oxy-Cope] 다음 반응의 주생성물은?\n[[rxn:C=CC(C)(O)CC=C>>?|1) KH|2) H₂O]]",
+      "choices": [
+        "[[smi:C=CCCCC(C)=O]]",
+        "[[smi:CC(=CCC=C)O]]",
+        "[[smi:C=CC(C)(OC)CC=C]]",
+        "[[smi:C=CC(C)=CCC]]"
+      ],
+      "answer": "[[smi:C=CCCCC(C)=O]]",
+      "explanation": "정답: [[smi:C=CCCCC(C)=O]]\nPPT 38쪽: 강염기(KH)로 알콕사이드 → 아주 온화한 조건에서 [3,3] → 공명 안정화된 엔올레이트 → 양성자화 → 카보닐(6-헵텐-2-온). 높은 수율.\n\n오답 분석:\n• [[smi:CC(=CCC=C)O]] — 엔올·엔올레이트에서 멈춤\n• [[smi:C=CC(C)(OC)CC=C]] — 알콕사이드가 알킬화된 에터 — KH는 OH의 H를 떼는 염기\n• [[smi:C=CC(C)=CCC]] — 탈수와 혼동"
+    },
+    {
+      "id": 14,
+      "question": "[Ch27 · Claisen 자리옮김(알릴 바이닐 에터)] 다음 반응의 주생성물은?\n[[rxn:C=CCOC1=CCCCC1>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C=CCC1CCCCC1=O]]",
+        "[[smi:C=CCC1=C(O)CCCC1]]",
+        "[[smi:C=CCOC1CCCCC1]]",
+        "[[smi:C=CCC1CCCC1=O]]"
+      ],
+      "answer": "[[smi:C=CCC1CCCCC1=O]]",
+      "explanation": "정답: [[smi:C=CCC1CCCCC1=O]]\nPPT 36·39쪽: 알릴 바이닐 에터 → [3,3] → γ,δ-불포화 카보닐(2-알릴사이클로헥산온).\n\n오답 분석:\n• [[smi:C=CCC1=C(O)CCCC1]] — 엔올 — 알릴 바이닐 에터에서는 γ,δ-불포화 카보닐이 바로 생긴다\n• [[smi:C=CCOC1CCCCC1]] — C=C만 없어진 에터\n• [[smi:C=CCC1CCCC1=O]] — 고리 크기 착오"
+    },
+    {
+      "id": 15,
+      "question": "[Ch27 · Claisen 자리옮김(알릴 아릴 에터)] 다음 반응의 주생성물은?\n[[rxn:C=CCOc1ccccc1>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:C=CCc1ccccc1O]]",
+        "[[smi:C=CCC1C=CC=CC1=O]]",
+        "[[smi:C=CCc1ccc(O)cc1]]",
+        "[[smi:Oc1ccccc1]]"
+      ],
+      "answer": "[[smi:C=CCc1ccccc1O]]",
+      "explanation": "정답: [[smi:C=CCc1ccccc1O]]\nPPT 39쪽: 알릴 아릴 에터 → [3,3] → 사이클로헥사다이엔온 → 토토머화 → OH의 ortho에 알릴기가 있는 페놀(2-알릴페놀).\n\n오답 분석:\n• [[smi:C=CCC1C=CC=CC1=O]] — 사이클로헥사다이엔온 중간체에서 멈춤 — 토토머화로 방향족 페놀 회복\n• [[smi:C=CCc1ccc(O)cc1]] — para — 알릴기는 O의 ortho로 옮겨 간다\n• [[smi:Oc1ccccc1]] — 알릴기가 떨어져 나간 페놀"
+    }
+  ]
+}
