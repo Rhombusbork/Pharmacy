@@ -1,0 +1,223 @@
+{
+  "deckId": "orgchem-final-s4a-multistep",
+  "subject": "유기약화학",
+  "title": "4단계 (a) 다단계 결과 예측",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch26 · 수소붕소화 → Suzuki] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCCC#C>>?|1) 카테콜보레인 2) PhBr, Pd(PPh₃)₄|NaOH]]",
+      "choices": [
+        "[[smi:CCC/C=C/c1ccccc1]]",
+        "[[smi:CCC/C=C\\c1ccccc1]]",
+        "[[smi:CCCC(=C)c1ccccc1]]",
+        "[[smi:CCC/C=C/B1Oc2ccccc2O1]]"
+      ],
+      "answer": "[[smi:CCC/C=C/c1ccccc1]]",
+      "explanation": "정답: [[smi:CCC/C=C/c1ccccc1]]\n2023 기말 12번 형식: [1] 말단 알카인 + 카테콜보레인 → (E)-바이닐보레인 [2] 아릴 할라이드와 Suzuki → (E)-1-페닐펜트-1-엔.\n\n오답 분석:\n• [[smi:CCC/C=C\\c1ccccc1]] — cis — 카테콜보레인은 syn 첨가로 trans 바이닐보레인을 만들고 Suzuki가 그 입체를 유지\n• [[smi:CCCC(=C)c1ccccc1]] — B가 안쪽 탄소에 붙었다고 본 구조 — B는 말단 탄소\n• [[smi:CCC/C=C/B1Oc2ccccc2O1]] — 1단계 바이닐보레인에서 멈춤"
+    },
+    {
+      "id": 2,
+      "question": "[Ch20·22 · 카복실화 → 산 염화물 → 유기구리] 다음 연속 반응의 최종 생성물은?\n[[rxn:Brc1ccccc1>>?|1) Mg 2) CO₂ 3) H₃O⁺|4) SOCl₂ 5) (CH₃)₂CuLi]]",
+      "choices": [
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:O=C(Cl)c1ccccc1]]",
+        "[[smi:CC(C)(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CC(=O)c1ccccc1]]\nPhMgBr → 벤조산(+1C) → 산 염화물 → 유기구리로 메틸 하나만 → 아세토페논.\n\n오답 분석:\n• [[smi:OC(=O)c1ccccc1]] — 3단계 벤조산에서 멈춤\n• [[smi:O=C(Cl)c1ccccc1]] — 4단계 벤조일 클로라이드에서 멈춤\n• [[smi:CC(C)(O)c1ccccc1]] — 5단계에 그리냐르를 쓴 것처럼 두 번 첨가 — 유기구리는 케톤에서 멈춘다"
+    },
+    {
+      "id": 3,
+      "question": "[Ch22 · 나이트릴 → 케톤] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCCCBr>>?|1) NaCN|2) CH₃MgBr 3) H₂O]]",
+      "choices": [
+        "[[smi:CCCCC(C)=O]]",
+        "[[smi:CCCCC#N]]",
+        "[[smi:CCCCC(C)=N]]",
+        "[[smi:CCCC(C)=O]]"
+      ],
+      "answer": "[[smi:CCCCC(C)=O]]",
+      "explanation": "정답: [[smi:CCCCC(C)=O]]\nR–Br → R–CN(+1C) → 그리냐르 첨가·가수분해 → 케톤.\n\n오답 분석:\n• [[smi:CCCCC#N]] — 1단계 나이트릴에서 멈춤\n• [[smi:CCCCC(C)=N]] — 이민 단계에서 멈춤 — 물이 가수분해\n• [[smi:CCCC(C)=O]] — 탄소 수 착오 — CN 탄소 1개 + 메틸 1개가 더해져 2-헥산온"
+    },
+    {
+      "id": 4,
+      "question": "[Ch20·21 · 그리냐르 → 탈수 → 오존 분해] 다음 연속 반응의 최종 생성물은?\n[[rxn:O=C1CCCCC1>>?|1) CH₃MgBr 2) H₃O⁺ 3) H₂SO₄, Δ|4) O₃ 5) Zn, H₂O]]",
+      "choices": [
+        "[[smi:CC(=O)CCCCC=O]]",
+        "[[smi:CC1=CCCCC1]]",
+        "[[smi:CC(=O)CCCCC(=O)O]]",
+        "[[smi:O=C1CCCCC1]]"
+      ],
+      "answer": "[[smi:CC(=O)CCCCC=O]]",
+      "explanation": "정답: [[smi:CC(=O)CCCCC=O]]\n3차 알코올 → Zaitsev 탈수(삼치환 고리 C=C) → 오존 분해로 고리가 열려 6-옥소헵탄알.\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 3단계 1-메틸사이클로헥센에서 멈춤\n• [[smi:CC(=O)CCCCC(=O)O]] — 산화성 후처리(H₂O₂)를 했을 때\n• [[smi:O=C1CCCCC1]] — 출발물로 되돌아감 — 고리 C=C가 끊어지면 사슬형 케토 알데하이드"
+    },
+    {
+      "id": 5,
+      "question": "[Ch23 · 아세토아세트산 에스터 합성(알릴)] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCOC(=O)CC(C)=O>>?|1) NaOEt 2) CH₂=CHCH₂Br|3) H₃O⁺, Δ]]",
+      "choices": [
+        "[[smi:C=CCCC(C)=O]]",
+        "[[smi:C=CCC(C(C)=O)C(=O)OCC]]",
+        "[[smi:C=CCCC(=O)O]]",
+        "[[smi:CC(=O)CCCCC]]"
+      ],
+      "answer": "[[smi:C=CCCC(C)=O]]",
+      "explanation": "정답: [[smi:C=CCCC(C)=O]]\n알릴 브로마이드는 SN2를 잘 한다 → 5-헥센-2-온.\n\n오답 분석:\n• [[smi:C=CCC(C(C)=O)C(=O)OCC]] — 가수분해·탈카복실화 전\n• [[smi:C=CCCC(=O)O]] — 카복실산 — 말론산 에스터 합성과 혼동\n• [[smi:CC(=O)CCCCC]] — C=C가 사라진 구조 — 환원 단계가 없다"
+    },
+    {
+      "id": 6,
+      "question": "[Ch23·20 · 말론산 이중 알킬화 → 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCOC(=O)CC(=O)OCC>>?|1) NaOEt, CH₃I 2) NaOEt, CH₃I|3) H₃O⁺, Δ 4) LiAlH₄ 5) H₂O]]",
+      "choices": [
+        "[[smi:CC(C)CO]]",
+        "[[smi:CC(C)C(=O)O]]",
+        "[[smi:CC(C)(CO)CO]]",
+        "[[smi:CCCCO]]"
+      ],
+      "answer": "[[smi:CC(C)CO]]",
+      "explanation": "정답: [[smi:CC(C)CO]]\n다이메틸 말로네이트 → 2-메틸프로판산 → LiAlH₄ → 2-메틸-1-프로판올.\n\n오답 분석:\n• [[smi:CC(C)C(=O)O]] — 4단계 환원 전(2-메틸프로판산)\n• [[smi:CC(C)(CO)CO]] — 탈카복실화 없이 두 에스터를 모두 환원한 다이올\n• [[smi:CCCCO]] — 탄소 배치 착오(가지 없음)"
+    },
+    {
+      "id": 7,
+      "question": "[Ch23·20 · 알킬화 → 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:O=C1CCCCC1>>?|1) LDA, THF, −78 °C 2) CH₂=CHCH₂Br|3) NaBH₄, CH₃OH]]",
+      "choices": [
+        "[[smi:C=CCC1CCCCC1O]]",
+        "[[smi:C=CCC1CCCCC1=O]]",
+        "[[smi:CCCC1CCCCC1O]]",
+        "[[smi:C=CCOC1=CCCCC1]]"
+      ],
+      "answer": "[[smi:C=CCC1CCCCC1O]]",
+      "explanation": "정답: [[smi:C=CCC1CCCCC1O]]\n엔올 음이온 α-알릴화 → 케톤만 NaBH₄로 환원 → 2-알릴사이클로헥산올.\n\n오답 분석:\n• [[smi:C=CCC1CCCCC1=O]] — 3단계 환원 전\n• [[smi:CCCC1CCCCC1O]] — C=C까지 환원 — NaBH₄는 고립된 C=C를 건드리지 않는다\n• [[smi:C=CCOC1=CCCCC1]] — 산소 쪽 알킬화"
+    },
+    {
+      "id": 8,
+      "question": "[Ch21·20 · 아세탈 보호 → 에스터 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCOC(=O)C1CCC(=O)CC1>>?|1) HOCH₂CH₂OH, TsOH 2) LiAlH₄|3) H₂O 4) H₃O⁺]]",
+      "choices": [
+        "[[smi:OCC1CCC(=O)CC1]]",
+        "[[smi:OCC1CCC(O)CC1]]",
+        "[[smi:OCC1CCC2(CC1)OCCO2]]",
+        "[[smi:CCOC(=O)C1CCC(O)CC1]]"
+      ],
+      "answer": "[[smi:OCC1CCC(=O)CC1]]",
+      "explanation": "정답: [[smi:OCC1CCC(=O)CC1]]\nCh21 PPT 69~70쪽 전략: 케톤 보호 → 에스터만 LiAlH₄ → 탈보호 → 4-(하이드록시메틸)사이클로헥산온.\n\n오답 분석:\n• [[smi:OCC1CCC(O)CC1]] — 보호하지 않았을 때(둘 다 환원)\n• [[smi:OCC1CCC2(CC1)OCCO2]] — 탈보호(4단계) 전\n• [[smi:CCOC(=O)C1CCC(O)CC1]] — 보호 대상을 반대로 생각 — 케톤이 보호되어 남는다"
+    },
+    {
+      "id": 9,
+      "question": "[Ch21·26 · Wittig → Simmons–Smith] 다음 연속 반응의 최종 생성물은?\n[[rxn:O=C1CCCCC1>>?|1) Ph₃P=CH₂|2) CH₂I₂, Zn(Cu)]]",
+      "choices": [
+        "[[smi:C1CCC2(CC1)CC2]]",
+        "[[smi:C=C1CCCCC1]]",
+        "[[smi:CC1CCCCC1]]",
+        "[[smi:C1CCC2CC2C1]]"
+      ],
+      "answer": "[[smi:C1CCC2(CC1)CC2]]",
+      "explanation": "정답: [[smi:C1CCC2(CC1)CC2]]\n메틸렌사이클로헥세인의 고리 밖 C=C에 CH₂ → 스파이로[2.5]옥테인.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 1단계 알켄에서 멈춤\n• [[smi:CC1CCCCC1]] — C=C 수소화와 혼동\n• [[smi:C1CCC2CC2C1]] — 고리 안 C=C에 첨가된 구조 — Wittig이 만든 C=C는 고리 밖"
+    },
+    {
+      "id": 10,
+      "question": "[Ch24·20 · Robinson → 선택적 수소화] 다음 연속 반응의 최종 생성물은?\n[[rxn:O=C1CCCCC1>>?|1) CH₂=CHCOCH₃, NaOEt|2) H₂ (1당량), Pd-C]]",
+      "choices": [
+        "[[smi:O=C1CCC2CCCCC2C1]]",
+        "[[smi:O=C1CCC2CCCCC2=C1]]",
+        "[[smi:OC1CCC2CCCCC2C1]]",
+        "[[smi:O=C1CCCCC1CCC(C)=O]]"
+      ],
+      "answer": "[[smi:O=C1CCC2CCCCC2C1]]",
+      "explanation": "정답: [[smi:O=C1CCC2CCCCC2C1]]\nRobinson(옥탈렌온) → C=C 선택 수소화 → 포화 데칼론.\n\n오답 분석:\n• [[smi:O=C1CCC2CCCCC2=C1]] — 2단계 전(엔온)\n• [[smi:OC1CCC2CCCCC2C1]] — C=O까지 환원 — H₂ 1당량은 C=C만\n• [[smi:O=C1CCCCC1CCC(C)=O]] — Robinson이 마이클 단계에서 멈춤"
+    },
+    {
+      "id": 11,
+      "question": "[Ch25 · 아마이드 보호 → 브로민화] 다음 연속 반응의 최종 생성물은?\n[[rxn:c1ccccc1>>?|1) HNO₃, H₂SO₄ 2) Sn, HCl 3) CH₃COCl|4) Br₂, FeBr₃ 5) H₃O⁺]]",
+      "choices": [
+        "[[smi:Nc1ccc(Br)cc1]]",
+        "[[smi:Nc1c(Br)cc(Br)cc1Br]]",
+        "[[smi:Nc1cccc(Br)c1]]",
+        "[[smi:CC(=O)Nc1ccc(Br)cc1]]"
+      ],
+      "answer": "[[smi:Nc1ccc(Br)cc1]]",
+      "explanation": "정답: [[smi:Nc1ccc(Br)cc1]]\n아닐린의 NH₂는 너무 강한 활성화기라 다중 브로민화 → 아세틸로 보호해 반응성을 낮추고 para 일치환 → 가수분해 → p-브로모아닐린(Ch25 PPT 63~64쪽 전략).\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — 보호 없이 아닐린을 브로민화했을 때(세 자리 모두)\n• [[smi:Nc1cccc(Br)c1]] — meta — 아세트아마이도기는 o,p 지향(부피가 커서 para 우세)\n• [[smi:CC(=O)Nc1ccc(Br)cc1]] — 탈보호(5단계) 전"
+    },
+    {
+      "id": 12,
+      "question": "[Ch25·22 · 다이아조늄 → 나이트릴 → 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:Nc1ccccc1>>?|1) NaNO₂, HCl 2) CuCN|3) LiAlH₄ 4) H₂O]]",
+      "choices": [
+        "[[smi:NCc1ccccc1]]",
+        "[[smi:N#Cc1ccccc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:Nc1ccccc1]]"
+      ],
+      "answer": "[[smi:NCc1ccccc1]]",
+      "explanation": "정답: [[smi:NCc1ccccc1]]\n아닐린 → 벤조나이트릴 → 벤질아민(탄소 1개 증가).\n\n오답 분석:\n• [[smi:N#Cc1ccccc1]] — 2단계 나이트릴에서 멈춤\n• [[smi:O=Cc1ccccc1]] — 3단계에 DIBAL-H를 썼을 때\n• [[smi:Nc1ccccc1]] — 출발물로 되돌아감"
+    },
+    {
+      "id": 13,
+      "question": "[Ch26 · RCM → 다이브로모카벤] 다음 연속 반응의 최종 생성물은?\n[[rxn:C=CCCCCC=C>>?|1) Grubbs 촉매|2) CHBr₃, KOC(CH₃)₃]]",
+      "choices": [
+        "[[smi:BrC1(Br)C2CCCCC12]]",
+        "[[smi:C1=CCCCC1]]",
+        "[[smi:BrC1CCCCC1Br]]",
+        "[[smi:BrC(Br)CCCCCC(Br)Br]]"
+      ],
+      "answer": "[[smi:BrC1(Br)C2CCCCC12]]",
+      "explanation": "정답: [[smi:BrC1(Br)C2CCCCC12]]\n1,7-옥타다이엔 → 사이클로헥센(+ 에틸렌) → :CBr₂ 첨가 → 7,7-다이브로모바이사이클로[4.1.0]헵테인.\n\n오답 분석:\n• [[smi:C1=CCCCC1]] — 1단계 사이클로헥센에서 멈춤\n• [[smi:BrC1CCCCC1Br]] — Br₂ 첨가와 혼동\n• [[smi:BrC(Br)CCCCCC(Br)Br]] — RCM 없이 양 끝에 첨가된 구조(탄소 배치 착오)"
+    },
+    {
+      "id": 14,
+      "question": "[Ch27·21 · Claisen 자리옮김 → 오존 분해] 다음 연속 반응의 최종 생성물은?\n[[rxn:C=CCOc1ccccc1>>?|1) 가열(Δ)|2) O₃ 3) Zn, H₂O]]",
+      "choices": [
+        "[[smi:O=CCc1ccccc1O]]",
+        "[[smi:C=CCc1ccccc1O]]",
+        "[[smi:O=CCOc1ccccc1]]",
+        "[[smi:O=CCc1ccc(O)cc1]]"
+      ],
+      "answer": "[[smi:O=CCc1ccccc1O]]",
+      "explanation": "정답: [[smi:O=CCc1ccccc1O]]\nClaisen → ortho-알릴페놀 → 말단 C=C 오존 분해 → (2-하이드록시페닐)아세트알데하이드 + HCHO.\n\n오답 분석:\n• [[smi:C=CCc1ccccc1O]] — 2단계 전(2-알릴페놀)\n• [[smi:O=CCOc1ccccc1]] — 자리옮김 없이 에터의 C=C만 오존 분해\n• [[smi:O=CCc1ccc(O)cc1]] — para — 알릴기는 ortho로 옮겨 간다"
+    },
+    {
+      "id": 15,
+      "question": "[Ch27·20 · oxy-Cope → 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:C=CC(O)CC=C>>?|1) 가열(Δ)|2) NaBH₄, CH₃OH]]",
+      "choices": [
+        "[[smi:C=CCCCCO]]",
+        "[[smi:C=CCCCC=O]]",
+        "[[smi:C=CC(O)CC=C]]",
+        "[[smi:CCCCCCO]]"
+      ],
+      "answer": "[[smi:C=CCCCCO]]",
+      "explanation": "정답: [[smi:C=CCCCCO]]\noxy-Cope → 엔올 → 5-헥센알 → NaBH₄로 CHO만 환원 → 5-헥센-1-올.\n\n오답 분석:\n• [[smi:C=CCCCC=O]] — 2단계 전(5-헥센알)\n• [[smi:C=CC(O)CC=C]] — 출발물 — oxy-Cope로 이성질화\n• [[smi:CCCCCCO]] — C=C까지 환원"
+    },
+    {
+      "id": 16,
+      "question": "[Ch27·20 · Diels–Alder → 에스터 환원] 다음 연속 반응의 최종 생성물은?\n[[rxn:C=CC=C>>?|1) CH₂=CHCO₂CH₃, Δ|2) LiAlH₄ 3) H₂O]]",
+      "choices": [
+        "[[smi:OCC1CC=CCC1]]",
+        "[[smi:COC(=O)C1CC=CCC1]]",
+        "[[smi:OCC1CCCCC1]]",
+        "[[smi:OCC1CCC=C1]]"
+      ],
+      "answer": "[[smi:OCC1CC=CCC1]]",
+      "explanation": "정답: [[smi:OCC1CC=CCC1]]\nDiels–Alder → 사이클로헥스-3-엔카복실산 메틸 → LiAlH₄ → (사이클로헥스-3-엔일)메탄올.\n\n오답 분석:\n• [[smi:COC(=O)C1CC=CCC1]] — 2단계 전\n• [[smi:OCC1CCCCC1]] — C=C까지 환원 — LiAlH₄는 고립된 C=C를 환원하지 않는다\n• [[smi:OCC1CCC=C1]] — 5원 고리 — [4+2]는 6원 고리"
+    },
+    {
+      "id": 17,
+      "question": "[Ch25 · Gabriel → 환원성 아민화] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCBr>>?|1) 프탈이미드 음이온 2) ⁻OH, H₂O|3) 사이클로헥산온, NaBH₃CN]]",
+      "choices": [
+        "[[smi:CCNC1CCCCC1]]",
+        "[[smi:CCN]]",
+        "[[smi:CCN=C1CCCCC1]]",
+        "[[smi:CCN(CC)C1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCNC1CCCCC1]]",
+      "explanation": "정답: [[smi:CCNC1CCCCC1]]\n1차 아민(에틸아민) → 케톤과 환원성 아민화 → 2차 아민 N-에틸사이클로헥실아민.\n\n오답 분석:\n• [[smi:CCN]] — 2단계 에틸아민에서 멈춤\n• [[smi:CCN=C1CCCCC1]] — 이민에서 멈춤\n• [[smi:CCN(CC)C1CCCCC1]] — 에틸이 두 개 — Gabriel은 1차 아민만"
+    },
+    {
+      "id": 18,
+      "question": "[Ch24·23 · Dieckmann → 알킬화 → 탈카복실화] 다음 연속 반응의 최종 생성물은?\n[[rxn:CCOC(=O)CCCCC(=O)OCC>>?|1) NaOEt 2) CH₃I|3) H₃O⁺, Δ]]",
+      "choices": [
+        "[[smi:CC1CCCC1=O]]",
+        "[[smi:CCOC(=O)C1(C)CCCC1=O]]",
+        "[[smi:O=C1CCCC1]]",
+        "[[smi:CC1CCCCC1=O]]"
+      ],
+      "answer": "[[smi:CC1CCCC1=O]]",
+      "explanation": "정답: [[smi:CC1CCCC1=O]]\nDieckmann(5원 β-케토 에스터) → 두 C=O 사이 탄소 메틸화 → 가수분해·탈카복실화 → 2-메틸사이클로펜탄온.\n\n오답 분석:\n• [[smi:CCOC(=O)C1(C)CCCC1=O]] — 3단계 전(알킬화된 β-케토 에스터)\n• [[smi:O=C1CCCC1]] — 알킬화가 빠진 사이클로펜탄온\n• [[smi:CC1CCCCC1=O]] — 6원 고리 — 1,6-다이에스터는 5원 고리"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "deckId": "orgchem-final-s4b-retro",
+  "subject": "유기약화학",
+  "title": "4단계 (b) 역합성: 출발물질·시약·경로",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[역합성 · 합성 경로 설계] 벤젠으로부터 m-클로로페놀 [[smi:Oc1cccc(Cl)c1]] 을 합성하는 경로로 옳은 것은?",
+      "choices": [
+        "HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열",
+        "Cl₂/FeCl₃ → HNO₃/H₂SO₄ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열",
+        "HNO₃/H₂SO₄ → H₂, Pd-C → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열",
+        "HNO₃/H₂SO₄ → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열"
+      ],
+      "answer": "HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열",
+      "explanation": "정답: HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열\n2023·2024 기말 서술형(4점) 그대로. Cl과 OH는 둘 다 o,p 지향이라 서로 meta로 직접 넣을 수 없다 → meta 지향 NO₂로 자리를 잡고 → NH₂ → N₂⁺ → OH로 바꾼다(Ch25 PPT 83쪽 4단계 경로).\n\n오답 분석:\n• Cl₂/FeCl₃ → HNO₃/H₂SO₄ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열 — Cl(o,p 지향)을 먼저 넣으면 NO₂가 o·p로 → p-클로로페놀이 주로 생긴다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — 환원 후 NH₂(강한 o,p 지향)가 있을 때 염소화 → o·p, 다중 치환\n• HNO₃/H₂SO₄ → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — NO₂를 NH₂로 환원하는 단계가 빠졌다(다이아조화는 아민에서만)"
+    },
+    {
+      "id": 2,
+      "question": "[역합성 · 합성 경로 설계] 벤젠으로부터 1,3,5-트라이브로모벤젠을 합성하는 경로로 옳은 것은?",
+      "choices": [
+        "HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂",
+        "Br₂(과량), FeBr₃ 한 단계",
+        "HNO₃/H₂SO₄ → Br₂(과량), FeBr₃ → H₂, Pd-C → NaNO₂, HCl → H₃PO₂",
+        "HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₂O, 가열"
+      ],
+      "answer": "HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂",
+      "explanation": "정답: HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂\nCh25 PPT 80~82쪽: NH₂의 강한 o,p 지향으로 2,4,6-트라이브로모아닐린 → 다이아조화 → H₃PO₂로 NH₂를 H로 지운다.\n\n오답 분석:\n• Br₂(과량), FeBr₃ 한 단계 — Br은 o,p 지향 → 서로 meta인 1,3,5 배치는 생기지 않는다\n• HNO₃/H₂SO₄ → Br₂(과량), FeBr₃ → H₂, Pd-C → NaNO₂, HCl → H₃PO₂ — NO₂는 강한 불활성화 meta 지향 → 다중 브로민화가 어렵고 배치도 맞지 않는다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₂O, 가열 — 마지막을 물·가열로 하면 2,4,6-트라이브로모페놀"
+    },
+    {
+      "id": 3,
+      "question": "[역합성 · 그리냐르] 3-메틸-3-펜탄올 [[smi:CCC(C)(O)CC]] 을 그리냐르 반응으로 만드는 조합으로 옳지 않은 것은?",
+      "choices": [
+        "CH₃CH₂MgBr + 뷰탄알",
+        "CH₃CH₂MgBr + 2-뷰탄온",
+        "CH₃MgBr + 3-펜탄온",
+        "CH₃CH₂MgBr(2당량) + 아세트산 에틸"
+      ],
+      "answer": "CH₃CH₂MgBr + 뷰탄알",
+      "explanation": "정답: CH₃CH₂MgBr + 뷰탄알\nCh20 PPT 57~59쪽: 3차 알코올의 탄소에 붙은 세 기(CH₃, C₂H₅, C₂H₅) 중 하나를 그리냐르로 떼어 낸다. 뷰탄알(알데하이드)에서는 2차 알코올(3-헥산올)이 생긴다.\n\n오답 분석:\n• CH₃CH₂MgBr + 2-뷰탄온 — 에틸 + (메틸·에틸 케톤) → 가능\n• CH₃MgBr + 3-펜탄온 — 메틸 + (다이에틸 케톤) → 가능\n• CH₃CH₂MgBr(2당량) + 아세트산 에틸 — 에스터 + 같은 R 두 개 → 가능"
+    },
+    {
+      "id": 4,
+      "question": "[역합성 · Wittig] 에틸리덴사이클로펜테인 [[smi:CC=C1CCCC1]] 을 Wittig 반응으로 만들 때 가장 바람직한 조합은?",
+      "choices": [
+        "사이클로펜탄온 + Ph₃P=CHCH₃",
+        "아세트알데하이드 + Ph₃P=(사이클로펜틸리덴)",
+        "사이클로펜탄온 + CH₃CH₂MgBr",
+        "사이클로펜테인카브알데하이드 + Ph₃P=CH₂"
+      ],
+      "answer": "사이클로펜탄온 + Ph₃P=CHCH₃",
+      "explanation": "정답: 사이클로펜탄온 + Ph₃P=CHCH₃\nCh21 PPT 44~45쪽: C=C를 끊어 한쪽은 C=O, 한쪽은 일라이드. 일라이드는 덜 막힌 메틸·1차 할라이드에서 만드는 쪽이 바람직.\n\n오답 분석:\n• 아세트알데하이드 + Ph₃P=(사이클로펜틸리덴) — 가능은 하지만 일라이드를 2차 할라이드(브로모사이클로펜테인)로 만들어야 해서 SN2가 불리\n• 사이클로펜탄온 + CH₃CH₂MgBr — 그리냐르는 알코올을 주고, 탈수하면 고리 안 C=C(삼치환)가 주로 생긴다\n• 사이클로펜테인카브알데하이드 + Ph₃P=CH₂ — 생성물은 바이닐사이클로펜테인(다른 알켄)"
+    },
+    {
+      "id": 5,
+      "question": "[역합성 · 말론산 에스터] 다이에틸 말로네이트로부터 2-에틸펜탄산 [[smi:CCCC(CC)C(=O)O]] 을 만들 때 필요한 할라이드는?",
+      "choices": [
+        "CH₃CH₂Br와 CH₃CH₂CH₂Br (각각 한 번씩)",
+        "CH₃CH₂CH₂CH₂Br 하나",
+        "(CH₃CH₂)₂CHBr 하나",
+        "CH₃CH₂Br 두 번"
+      ],
+      "answer": "CH₃CH₂Br와 CH₃CH₂CH₂Br (각각 한 번씩)",
+      "explanation": "정답: CH₃CH₂Br와 CH₃CH₂CH₂Br (각각 한 번씩)\nCh23 PPT 52쪽: COOH 옆 α탄소를 찾고, 거기 붙은 R기들이 할라이드에서 온다.\n\n오답 분석:\n• CH₃CH₂CH₂CH₂Br 하나 — α탄소에 붙은 두 기(에틸, 프로필)를 모두 넣어야 한다\n• (CH₃CH₂)₂CHBr 하나 — 2차 할라이드 한 번이 아니라 α탄소에 두 번 알킬화\n• CH₃CH₂Br 두 번 — 프로필 대신 에틸이 두 개 → 2-에틸뷰탄산"
+    },
+    {
+      "id": 6,
+      "question": "[역합성 · 아세토아세트산 에스터] 아세토아세트산 에틸로부터 4-페닐-2-뷰탄온 [[smi:CC(=O)CCc1ccccc1]] 을 만들 때 필요한 할라이드는?",
+      "choices": [
+        "C₆H₅CH₂Br",
+        "C₆H₅Br",
+        "C₆H₅CH₂CH₂Br",
+        "CH₃CH₂Br"
+      ],
+      "answer": "C₆H₅CH₂Br",
+      "explanation": "정답: C₆H₅CH₂Br\nCh23 PPT 56쪽: 메틸 케톤 CH₃CO–CH₂–R에서 R을 할라이드로.\n\n오답 분석:\n• C₆H₅Br — 아릴 할라이드는 SN2 불가, 탄소 수도 맞지 않는다\n• C₆H₅CH₂CH₂Br — 탄소 하나가 많다 — CH₃CO–CH₂–(R)에서 R = CH₂Ph\n• CH₃CH₂Br — 페닐이 들어가지 않는다"
+    },
+    {
+      "id": 7,
+      "question": "[역합성 · 알돌] 다음 화합물을 알돌 축합으로 만들기 위한 출발물질은?\n[[smi:CCCCC=C(CCC)C=O]]",
+      "choices": [
+        "[[smi:CCCCC=O]] 두 분자(펜탄알)",
+        "[[smi:CCCC=O]] + [[smi:CCCCC=O]]",
+        "[[smi:CCC=O]] + [[smi:CCCCCC=O]]",
+        "[[smi:CCCCC=O]] + [[smi:C=O]]"
+      ],
+      "answer": "[[smi:CCCCC=O]] 두 분자(펜탄알)",
+      "explanation": "정답: [[smi:CCCCC=O]] 두 분자(펜탄알)\nCh24 PPT 13~14쪽: C=C를 끊어 C=O 쪽 α탄소(프로필 가지)와 반대쪽 탄소(=CH–뷰틸)를 각각 C=O로 되돌린다 → 둘 다 펜탄알 → 2-프로필헵트-2-엔알.\n\n오답 분석:\n• [[smi:CCCC=O]] + [[smi:CCCCC=O]] — 탄소 수 착오 — 생성물은 C₁₀, 같은 알데하이드 두 분자\n• [[smi:CCC=O]] + [[smi:CCCCCC=O]] — C=C를 끊는 자리 착오\n• [[smi:CCCCC=O]] + [[smi:C=O]] — 폼알데하이드로는 이 골격이 생기지 않는다"
+    },
+    {
+      "id": 8,
+      "question": "[역합성 · 교차 알돌] 벤잘아세톤 [[smi:CC(=O)/C=C/c1ccccc1]] 을 알돌 축합으로 만들 때 엔올 음이온 주개와 받개로 옳은 것은?",
+      "choices": [
+        "주개: 아세톤 / 받개: 벤즈알데하이드",
+        "주개: 벤즈알데하이드 / 받개: 아세톤",
+        "주개: 아세트알데하이드 / 받개: 아세토페논",
+        "주개: 아세토페논 / 받개: 아세트알데하이드"
+      ],
+      "answer": "주개: 아세톤 / 받개: 벤즈알데하이드",
+      "explanation": "정답: 주개: 아세톤 / 받개: 벤즈알데하이드\n족보 25-2 10·11번 형식: C=O 쪽(α탄소) = 엔올 음이온 주개, C=C 반대쪽(β탄소) = 카보닐 받개.\n\n오답 분석:\n• 주개: 벤즈알데하이드 / 받개: 아세톤 — 벤즈알데하이드는 α-H가 없어 주개가 될 수 없다\n• 주개: 아세트알데하이드 / 받개: 아세토페논 — C=O 위치가 다른 생성물(신남알데하이드 유도체)\n• 주개: 아세토페논 / 받개: 아세트알데하이드 — 벤조일기가 생기는 다른 골격"
+    },
+    {
+      "id": 9,
+      "question": "[역합성 · Robinson] 다음 화합물을 Robinson 고리만듦으로 합성하기 위한 출발물질 2종은?\n[[smi:CC12CCCCC1=CC(=O)CC2]]",
+      "choices": [
+        "[[smi:CC1CCCCC1=O]] + [[smi:C=CC(C)=O]]",
+        "[[smi:O=C1CCCCC1]] + [[smi:C=CC(C)=O]]",
+        "[[smi:CC1CCCCC1=O]] + [[smi:C=CC=O]]",
+        "[[smi:CC1=CCCCC1]] + [[smi:C=CC(C)=O]]"
+      ],
+      "answer": "[[smi:CC1CCCCC1=O]] + [[smi:C=CC(C)=O]]",
+      "explanation": "정답: [[smi:CC1CCCCC1=O]] + [[smi:C=CC(C)=O]]\n2023 기말 8번 형식(Ch24 PPT 48쪽): ① 사이클로헥센온의 C=C를 끊어 C=O로 ② 고리 접합 탄소–사슬 결합(마이클 결합)을 끊어 케톤 + α,β-불포화 케톤.\n\n오답 분석:\n• [[smi:O=C1CCCCC1]] + [[smi:C=CC(C)=O]] — 메틸이 고리 접합에 있으려면 엔올 음이온 탄소에 메틸이 있어야 한다\n• [[smi:CC1CCCCC1=O]] + [[smi:C=CC=O]] — 새 고리의 C=O 옆 CH₃ 부분이 맞지 않는다 — 받개는 메틸 바이닐 케톤\n• [[smi:CC1=CCCCC1]] + [[smi:C=CC(C)=O]] — 케톤이 아닌 알켄은 엔올 음이온을 만들 수 없다"
+    },
+    {
+      "id": 10,
+      "question": "[역합성 · Claisen] 2-메틸-3-옥소펜탄산 에틸 [[smi:CCC(=O)C(C)C(=O)OCC]] 을 Claisen 반응으로 만드는 출발물질은?",
+      "choices": [
+        "프로판산 에틸 두 분자 [[smi:CCC(=O)OCC]]",
+        "아세트산 에틸 두 분자",
+        "프로판산 에틸 + 아세트산 에틸",
+        "2-메틸프로판산 에틸 두 분자"
+      ],
+      "answer": "프로판산 에틸 두 분자 [[smi:CCC(=O)OCC]]",
+      "explanation": "정답: 프로판산 에틸 두 분자 [[smi:CCC(=O)OCC]]\nβ-케토 에스터의 α–β(C=O) 결합을 끊는다: CO₂Et가 붙은 α탄소 쪽 = 엔올 음이온(프로판산 에틸), 케톤 C=O 쪽 = 다른 프로판산 에틸.\n\n오답 분석:\n• 아세트산 에틸 두 분자 — 생성물이 아세토아세트산 에틸이 된다\n• 프로판산 에틸 + 아세트산 에틸 — 교차 Claisen 혼합물, 골격도 맞지 않는다\n• 2-메틸프로판산 에틸 두 분자 — α-H가 하나뿐이라 Claisen이 잘 안 되고 골격도 다르다"
+    },
+    {
+      "id": 11,
+      "question": "[역합성 · Dieckmann] 2-옥소사이클로헥세인카복실산 에틸 [[smi:CCOC(=O)C1CCCCC1=O]] 을 Dieckmann 반응으로 만드는 출발물질은?",
+      "choices": [
+        "[[smi:CCOC(=O)CCCCCC(=O)OCC]] (1,7-다이에스터)",
+        "[[smi:CCOC(=O)CCCCC(=O)OCC]] (1,6-다이에스터)",
+        "[[smi:CCOC(=O)CCCCCCC(=O)OCC]] (1,8-다이에스터)",
+        "[[smi:CCOC(=O)C1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCOC(=O)CCCCCC(=O)OCC]] (1,7-다이에스터)",
+      "explanation": "정답: [[smi:CCOC(=O)CCCCCC(=O)OCC]] (1,7-다이에스터)\nCh24 PPT 35쪽: 6원 고리 β-케토 에스터 ← 1,7-다이에스터.\n\n오답 분석:\n• [[smi:CCOC(=O)CCCCC(=O)OCC]] (1,6-다이에스터) — 5원 고리가 생긴다\n• [[smi:CCOC(=O)CCCCCCC(=O)OCC]] (1,8-다이에스터) — 7원 고리가 생긴다\n• [[smi:CCOC(=O)C1CCCCC1]] — Dieckmann이 아니라 이미 고리인 에스터"
+    },
+    {
+      "id": 12,
+      "question": "[역합성 · 고리 닫힘 상호교환] 고리 닫힘 상호교환(RCM)으로 [[smi:CC1(C)CC=CCC1]] 을 만들기 위한 출발물질은?",
+      "choices": [
+        "[[smi:C=CCCC(C)(C)CC=C]]",
+        "[[smi:C=CCC(C)(C)CC=C]]",
+        "[[smi:CC(C)(CC=C)CCCC=C]]",
+        "[[smi:CC1(C)CCCCC1]]"
+      ],
+      "answer": "[[smi:C=CCCC(C)(C)CC=C]]",
+      "explanation": "정답: [[smi:C=CCCC(C)(C)CC=C]]\n2024·2025 기말 26번 형식: 생성물 고리의 C=C를 끊고 양쪽 탄소에 =CH₂를 하나씩 붙인다 → 4,4-다이메틸옥타-1,7-다이엔(+ 에틸렌이 빠짐).\n\n오답 분석:\n• [[smi:C=CCC(C)(C)CC=C]] — 탄소 하나가 모자라 5원 고리가 생긴다\n• [[smi:CC(C)(CC=C)CCCC=C]] — 탄소 하나가 많아 7원 고리가 생긴다\n• [[smi:CC1(C)CCCCC1]] — C=C가 없는 사이클로헥세인 — RCM의 출발물은 다이엔"
+    },
+    {
+      "id": 13,
+      "question": "[역합성 · Diels–Alder] 사이클로헥스-3-엔카보나이트릴 [[smi:N#CC1CC=CCC1]] 의 Diels–Alder 출발물질은?",
+      "choices": [
+        "[[smi:C=CC=C]] + [[smi:C=CC#N]]",
+        "[[smi:C=CC=CC#N]] + [[smi:C=C]]",
+        "[[smi:C1=CCCCC1]] + HCN",
+        "[[smi:C=CC=C]] + [[smi:CC#N]]"
+      ],
+      "answer": "[[smi:C=CC=C]] + [[smi:C=CC#N]]",
+      "explanation": "정답: [[smi:C=CC=C]] + [[smi:C=CC#N]]\n사이클로헥센 고리의 C=C 반대편 두 σ 결합을 끊는다 → 다이엔(4C) + 친다이엔체(2C, 치환기 포함).\n\n오답 분석:\n• [[smi:C=CC=CC#N]] + [[smi:C=C]] — CN이 다이엔 끝에 있으면 생성물에서 CN이 C=C 옆 탄소(다른 위치)\n• [[smi:C1=CCCCC1]] + HCN — Diels–Alder가 아니다\n• [[smi:C=CC=C]] + [[smi:CC#N]] — 아세토나이트릴에는 친다이엔체 C=C가 없다"
+    },
+    {
+      "id": 14,
+      "question": "[역합성 · 환원성 아민화] N-메틸사이클로헥실아민 [[smi:CNC1CCCCC1]] 을 환원성 아민화(NaBH₃CN)로 만드는 조합으로 옳은 것은?",
+      "choices": [
+        "사이클로헥산온 + CH₃NH₂",
+        "사이클로헥산올 + CH₃NH₂",
+        "사이클로헥산온 + NH₃",
+        "사이클로헥산온 + (CH₃)₂NH"
+      ],
+      "answer": "사이클로헥산온 + CH₃NH₂",
+      "explanation": "정답: 사이클로헥산온 + CH₃NH₂\nCh25 PPT 37~38쪽: C–N 결합 하나를 끊어 탄소 쪽을 C=O로. (폼알데하이드 + 사이클로헥실아민도 가능한 다른 경로.)\n\n오답 분석:\n• 사이클로헥산올 + CH₃NH₂ — 알코올은 이민을 만들지 않는다\n• 사이클로헥산온 + NH₃ — 생성물은 1차 아민(사이클로헥실아민)\n• 사이클로헥산온 + (CH₃)₂NH — 생성물은 3차 아민"
+    },
+    {
+      "id": 15,
+      "question": "[역합성 · Suzuki] (E)-1-페닐-1-뷰텐 [[smi:CC/C=C/c1ccccc1]] 을 Suzuki 반응으로 만드는 방법으로 옳은 것은?",
+      "choices": [
+        "1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH",
+        "2-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH",
+        "1-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(OAc)₂, Et₃N(염기 없이 붕소 생략)",
+        "1-뷰텐 + 브로모벤젠, Grubbs 촉매"
+      ],
+      "answer": "1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH",
+      "explanation": "정답: 1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH\nCh26 PPT 9~11쪽: 말단 알카인 → syn 수소붕소화 → trans 바이닐보레인 → 아릴 할라이드와 Suzuki(입체 유지).\n\n오답 분석:\n• 2-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH — 내부 알카인이면 B가 안쪽 탄소에 붙어 다른 골격\n• 1-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(OAc)₂, Et₃N(염기 없이 붕소 생략) — Heck 조건과 혼동 — Suzuki는 Pd(PPh₃)₄ + 염기\n• 1-뷰텐 + 브로모벤젠, Grubbs 촉매 — 상호교환은 C–C(아릴) 결합을 만들지 않는다"
+    },
+    {
+      "id": 16,
+      "question": "[역합성 · 빠진 시약] 다음 2단계 변환의 (가)에 들어갈 시약은?\n[[smi:CCOC(=O)c1ccccc1]] —(가)→ [[smi:O=Cc1ccccc1]] —(Ph₃P=CH₂)→ [[smi:C=Cc1ccccc1]]",
+      "choices": [
+        "DIBAL-H, −78 °C → H₂O",
+        "LiAlH₄ → H₂O",
+        "NaBH₄, CH₃OH",
+        "LiAlH[OC(CH₃)₃]₃"
+      ],
+      "answer": "DIBAL-H, −78 °C → H₂O",
+      "explanation": "정답: DIBAL-H, −78 °C → H₂O\nCh20 PPT 표 20.1: 에스터 → 알데하이드는 DIBAL-H(저온).\n\n오답 분석:\n• LiAlH₄ → H₂O — 1차 알코올(벤질 알코올)까지 환원 — Wittig 받개가 될 수 없다\n• NaBH₄, CH₃OH — NaBH₄는 에스터를 환원하지 못한다\n• LiAlH[OC(CH₃)₃]₃ — 이 시약은 산 염화물 → 알데하이드용"
+    },
+    {
+      "id": 17,
+      "question": "[역합성 · 빠진 시약] 사이클로헥산온을 2-사이클로헥센온 [[smi:O=C1C=CCCC1]] 으로 바꾸는 2단계 시약으로 옳은 것은?",
+      "choices": [
+        "① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF",
+        "① Br₂, ⁻OH ② Li₂CO₃, LiBr, DMF",
+        "① H₂, Pd-C ② Li₂CO₃, LiBr, DMF",
+        "① LDA ② CH₃I"
+      ],
+      "answer": "① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF",
+      "explanation": "정답: ① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF\nCh23 PPT 36쪽: α-할로젠화(산, 일치환) → E2 제거.\n\n오답 분석:\n• ① Br₂, ⁻OH ② Li₂CO₃, LiBr, DMF — 염기 조건 할로젠화는 다중 브로민화\n• ① H₂, Pd-C ② Li₂CO₃, LiBr, DMF — 수소화는 C=O를 환원할 뿐 이탈기를 만들지 않는다\n• ① LDA ② CH₃I — 알킬화 — C=C를 만들지 않는다"
+    },
+    {
+      "id": 18,
+      "question": "[역합성 · 중간체] 다음 Robinson 고리만듦에서 분자 내 알돌 직전에 생기는 중간체(마이클 생성물)는?\n[[smi:O=C1CCCCC1]] + [[smi:C=CC(C)=O]] (NaOEt)",
+      "choices": [
+        "[[smi:CC(=O)CCC1CCCCC1=O]]",
+        "[[smi:CC(=O)C=CC1CCCCC1=O]]",
+        "[[smi:CC(O)(C=C)C1CCCCC1=O]]",
+        "[[smi:O=C1CCC2CCCCC2=C1]]"
+      ],
+      "answer": "[[smi:CC(=O)CCC1CCCCC1=O]]",
+      "explanation": "정답: [[smi:CC(=O)CCC1CCCCC1=O]]\nCh24 PPT 42~45쪽: 마이클 → 1,5-다이케톤 → 분자 내 알돌 → 탈수.\n\n오답 분석:\n• [[smi:CC(=O)C=CC1CCCCC1=O]] — C=C가 남은 구조 — 마이클 첨가 뒤 엔올 음이온이 양성자화되어 포화 사슬\n• [[smi:CC(O)(C=C)C1CCCCC1=O]] — 1,2-첨가 구조 — 엔올 음이온은 β탄소에 1,4-첨가\n• [[smi:O=C1CCC2CCCCC2=C1]] — 최종 Robinson 생성물"
+    }
+  ]
+}
