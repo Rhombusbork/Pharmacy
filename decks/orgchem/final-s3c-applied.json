@@ -1,0 +1,211 @@
+{
+  "deckId": "orgchem-final-s3c-applied",
+  "subject": "유기약화학",
+  "title": "3단계 (c) 응용 기질 생성물: 화학·위치·입체 선택성",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch20 · 화학선택적 환원] 다음 반응의 주생성물은?\n[[rxn:COC(=O)c1ccc(C=O)cc1>>?|NaBH₄|CH₃OH]]",
+      "choices": [
+        "[[smi:COC(=O)c1ccc(CO)cc1]]",
+        "[[smi:OCc1ccc(CO)cc1]]",
+        "[[smi:COC(=O)c1ccc(C(=O)O)cc1]]",
+        "[[smi:OC(=O)c1ccc(CO)cc1]]"
+      ],
+      "answer": "[[smi:COC(=O)c1ccc(CO)cc1]]",
+      "explanation": "정답: [[smi:COC(=O)c1ccc(CO)cc1]]\nNaBH₄는 알데하이드만 환원하고 에스터는 남긴다 → 4-(하이드록시메틸)벤조산 메틸.\n\n오답 분석:\n• [[smi:OCc1ccc(CO)cc1]] — LiAlH₄를 썼을 때(에스터도 환원)\n• [[smi:COC(=O)c1ccc(C(=O)O)cc1]] — 산화와 혼동\n• [[smi:OC(=O)c1ccc(CO)cc1]] — 에스터가 가수분해된 구조 — 조건에 물·산이 없다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch20 · 산 염화물만 알데하이드로] 다음 반응의 주생성물은?\n[[rxn:COC(=O)CCC(=O)Cl>>?|1) LiAlH[OC(CH₃)₃]₃, −78 °C|2) H₂O]]",
+      "choices": [
+        "[[smi:COC(=O)CCC=O]]",
+        "[[smi:OCCCCO]]",
+        "[[smi:COC(=O)CCCO]]",
+        "[[smi:O=CCCC=O]]"
+      ],
+      "answer": "[[smi:COC(=O)CCC=O]]",
+      "explanation": "정답: [[smi:COC(=O)CCC=O]]\n반응성 큰 산 염화물만 반응하고 생긴 알데하이드는 저온에서 더 환원되지 않는다 → 4-옥소뷰탄산 메틸.\n\n오답 분석:\n• [[smi:OCCCCO]] — LiAlH₄를 썼을 때(둘 다 1차 알코올)\n• [[smi:COC(=O)CCCO]] — 산 염화물이 알코올까지 환원 — 약한 하이드라이드는 알데하이드에서 멈춘다\n• [[smi:O=CCCC=O]] — 에스터까지 환원 — 이 시약은 에스터를 환원하지 않는다"
+    },
+    {
+      "id": 3,
+      "question": "[Ch20 · 보호 없는 그리냐르] 다음 반응의 주생성물은?\n[[rxn:OCCCC(C)=O>>?|1) CH₃MgBr (1당량)|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:OCCCC(C)=O]]",
+        "[[smi:CC(C)(O)CCCO]]",
+        "[[smi:CCCCCO]]",
+        "[[smi:CC(=O)CCCOC]]"
+      ],
+      "answer": "[[smi:OCCCC(C)=O]]",
+      "explanation": "정답: [[smi:OCCCC(C)=O]]\n1당량의 CH₃MgBr는 OH 양성자를 떼는 산–염기 반응에 모두 소모되어 CH₄가 되고, 산 처리 후 출발물(5-하이드록시-2-펜탄온)이 그대로 돌아온다 → 그래서 TBDMS 보호가 필요(PPT 60~64쪽).\n\n오답 분석:\n• [[smi:CC(C)(O)CCCO]] — 보호기를 썼거나 그리냐르가 충분할 때의 결과\n• [[smi:CCCCCO]] — 메틸 치환과 혼동\n• [[smi:CC(=O)CCCOC]] — O-메틸화 — 그리냐르는 OH의 양성자만 뗀다"
+    },
+    {
+      "id": 4,
+      "question": "[Ch21 · 알데하이드 선택 보호] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCC=O>>?|HOCH₂CH₂OH (1당량)|TsOH]]",
+      "choices": [
+        "[[smi:CC(=O)CCC1OCCO1]]",
+        "[[smi:CC1(CCC=O)OCCO1]]",
+        "[[smi:CC1(CCC2OCCO2)OCCO1]]",
+        "[[smi:CC(O)CCCO]]"
+      ],
+      "answer": "[[smi:CC(=O)CCC1OCCO1]]",
+      "explanation": "정답: [[smi:CC(=O)CCC1OCCO1]]\n알데하이드가 케톤보다 친핵성 첨가 반응성이 커서(입체·전자) 먼저 고리형 아세탈이 된다(PPT 3쪽).\n\n오답 분석:\n• [[smi:CC1(CCC=O)OCCO1]] — 케톤이 보호됨 — 알데하이드가 더 반응성이 크다\n• [[smi:CC1(CCC2OCCO2)OCCO1]] — 둘 다 보호 — 다이올 1당량\n• [[smi:CC(O)CCCO]] — 환원과 혼동"
+    },
+    {
+      "id": 5,
+      "question": "[Ch21 · 5원 고리 헤미아세탈] 다음 반응의 주생성물은?\n[[rxn:O=CCCCO>>?|H⁺ (촉매)|]]",
+      "choices": [
+        "[[smi:OC1CCCO1]]",
+        "[[smi:O=C1CCCO1]]",
+        "[[smi:OC1CCCCO1]]",
+        "[[smi:C1CCOC1]]"
+      ],
+      "answer": "[[smi:OC1CCCO1]]",
+      "explanation": "정답: [[smi:OC1CCCO1]]\n4-하이드록시뷰탄알 → 2-하이드록시테트라하이드로퓨란(5원 고리 헤미아세탈).\n\n오답 분석:\n• [[smi:O=C1CCCO1]] — 락톤 — 산화가 아니다\n• [[smi:OC1CCCCO1]] — 6원 고리 — 4-하이드록시뷰탄알은 탄소 4개 + O = 5원 고리\n• [[smi:C1CCOC1]] — OH가 빠진 THF"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · 그리냐르 vs Wittig] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|1) CH₃CH₂MgBr 2) H₂O|3) H₂SO₄, 가열]]",
+      "choices": [
+        "[[smi:CCC1=CCCCC1]]",
+        "[[smi:CC=C1CCCCC1]]",
+        "[[smi:CCC1(O)CCCCC1]]",
+        "[[smi:CCC1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCC1=CCCCC1]]",
+      "explanation": "정답: [[smi:CCC1=CCCCC1]]\nPPT 47쪽 원리: 탈수는 더 치환된(Zaitsev) 알켄 → 1-에틸사이클로헥센이 주생성물.\n\n오답 분석:\n• [[smi:CC=C1CCCCC1]] — 소량 생성물(이치환 고리 밖 C=C) — Wittig(Ph₃P=CHCH₃)일 때의 생성물\n• [[smi:CCC1(O)CCCCC1]] — 탈수 전 3차 알코올\n• [[smi:CCC1CCCCC1]] — 환원과 혼동"
+    },
+    {
+      "id": 7,
+      "question": "[Ch22 · N 선택 아실화] 다음 반응의 주생성물은?\n[[rxn:NCCO>>?|(CH₃CO)₂O (1당량)|]]",
+      "choices": [
+        "[[smi:CC(=O)NCCO]]",
+        "[[smi:CC(=O)OCCN]]",
+        "[[smi:CC(=O)NCCOC(C)=O]]",
+        "[[smi:CCNCCO]]"
+      ],
+      "answer": "[[smi:CC(=O)NCCO]]",
+      "explanation": "정답: [[smi:CC(=O)NCCO]]\n아세트아미노펜 합성과 같은 원리(PPT 42쪽): 아민 N이 먼저 아세틸화 → N-(2-하이드록시에틸)아세트아마이드.\n\n오답 분석:\n• [[smi:CC(=O)OCCN]] — O-아세틸화 — NH₂가 OH보다 강한 친핵체\n• [[smi:CC(=O)NCCOC(C)=O]] — 둘 다 아세틸화 — 1당량\n• [[smi:CCNCCO]] — 환원된 N-에틸"
+    },
+    {
+      "id": 8,
+      "question": "[Ch22 · 락탐 가수분해] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCN1>>?|NaOH, H₂O|가열]]",
+      "choices": [
+        "[[smi:NCCCC(=O)[O-]]]",
+        "[[smi:C1CCNC1]]",
+        "[[smi:NCCCC(=O)O]]",
+        "[[smi:[NH3+]CCCC(=O)O]]"
+      ],
+      "answer": "[[smi:NCCCC(=O)[O-]]]",
+      "explanation": "정답: [[smi:NCCCC(=O)[O-]]]\n락탐(고리형 아마이드) 염기 가수분해 → 고리가 열린 아미노산 음이온(4-아미노뷰타노에이트, GABA 음이온).\n\n오답 분석:\n• [[smi:C1CCNC1]] — LiAlH₄ 환원(피롤리딘)\n• [[smi:NCCCC(=O)O]] — 산 처리 전에는 카복실산 음이온\n• [[smi:[NH3+]CCCC(=O)O]] — 산 가수분해 생성물"
+    },
+    {
+      "id": 9,
+      "question": "[Ch23 · 비대칭 케톤의 속도론적 알킬화] 다음 반응의 주생성물은?\n[[rxn:CCCC(C)=O>>?|1) LDA, THF, −78 °C|2) CH₃I]]",
+      "choices": [
+        "[[smi:CCCC(=O)CC]]",
+        "[[smi:CCC(C)C(C)=O]]",
+        "[[smi:CCCC(C)(C)O]]",
+        "[[smi:CCCC(C)=O]]"
+      ],
+      "answer": "[[smi:CCCC(=O)CC]]",
+      "explanation": "정답: [[smi:CCCC(=O)CC]]\n2-펜탄온: LDA는 덜 막힌 CH₃의 H를 먼저 뗀다 → CH₃ 쪽에 메틸 → 3-헥산온.\n\n오답 분석:\n• [[smi:CCC(C)C(C)=O]] — 더 치환된 CH₂ 쪽 알킬화(열역학적, NaOEt 조건)\n• [[smi:CCCC(C)(C)O]] — C=O에 메틸 첨가(그리냐르와 혼동)\n• [[smi:CCCC(C)=O]] — 반응 안 함 — LDA는 엔올 음이온을 완전히 만든다"
+    },
+    {
+      "id": 10,
+      "question": "[Ch23 · 분자 내 말론산 에스터(4원 고리)] 다음 반응의 주생성물은?\n[[rxn:CCOC(=O)CC(=O)OCC>>?|1) NaOEt, Br(CH₂)₃Br 2) NaOEt|3) H₃O⁺, Δ]]",
+      "choices": [
+        "[[smi:OC(=O)C1CCC1]]",
+        "[[smi:OC(=O)C1CCCC1]]",
+        "[[smi:OC(=O)CCCCBr]]",
+        "[[smi:OC(=O)C1(C(=O)O)CCC1]]"
+      ],
+      "answer": "[[smi:OC(=O)C1CCC1]]",
+      "explanation": "정답: [[smi:OC(=O)C1CCC1]]\nPPT 51쪽: 3~6원 고리 가능 → 1,3-다이브로모프로페인 → 사이클로뷰테인카복실산.\n\n오답 분석:\n• [[smi:OC(=O)C1CCCC1]] — 고리 크기 착오 — 말로네이트 C 1개 + CH₂ 3개 = 4원 고리\n• [[smi:OC(=O)CCCCBr]] — 한 번만 알킬화\n• [[smi:OC(=O)C1(C(=O)O)CCC1]] — 탈카복실화 전"
+    },
+    {
+      "id": 11,
+      "question": "[Ch24 · 분자 내 알돌(케토 알데하이드)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCCC=O>>?|⁻OH|가열]]",
+      "choices": [
+        "[[smi:O=C1C=CCCC1]]",
+        "[[smi:CC(=O)C1=CCCC1]]",
+        "[[smi:O=CC1=CCCC1]]",
+        "[[smi:CC1(O)CCCC1C=O]]"
+      ],
+      "answer": "[[smi:O=C1C=CCCC1]]",
+      "explanation": "정답: [[smi:O=C1C=CCCC1]]\n5-옥소헥산알: CH₃의 엔올 음이온 → 알데하이드 C 공격 → 6원 고리 → 탈수 → 2-사이클로헥센온.\n\n오답 분석:\n• [[smi:CC(=O)C1=CCCC1]] — 알데하이드 α-C가 케톤을 공격한 5원 고리 — 6원 고리를 만드는 메틸 케톤 엔올 음이온 + 알데하이드(더 좋은 받개) 경로가 우세\n• [[smi:O=CC1=CCCC1]] — 고리·작용기 배치 착오\n• [[smi:CC1(O)CCCC1C=O]] — 탈수 전·다른 고리"
+    },
+    {
+      "id": 12,
+      "question": "[Ch24 · Wieland–Miescher 케톤] 다음 반응의 주생성물은?\n[[rxn:CC1C(=O)CCCC1=O>>?|CH₂=CHCOCH₃|염기]]",
+      "choices": [
+        "[[smi:CC12CCC(=O)C=C1CCCC2=O]]",
+        "[[smi:CC1(CCC(C)=O)C(=O)CCCC1=O]]",
+        "[[smi:O=C1CCC2=CC(=O)CCC2C1]]",
+        "[[smi:CC1(C(=O)CCC(C)=O)CCCC1=O]]"
+      ],
+      "answer": "[[smi:CC12CCC(=O)C=C1CCCC2=O]]",
+      "explanation": "정답: [[smi:CC12CCC(=O)C=C1CCCC2=O]]\n2-메틸사이클로헥세인-1,3-다이온의 가장 산성인 C2(두 C=O 사이)가 마이클 주개 → 분자 내 알돌·탈수 → 이환 엔다이온(스테로이드 합성 중간체).\n\n오답 분석:\n• [[smi:CC1(CCC(C)=O)C(=O)CCCC1=O]] — 마이클 생성물에서 멈춤\n• [[smi:O=C1CCC2=CC(=O)CCC2C1]] — 메틸이 빠진 구조\n• [[smi:CC1(C(=O)CCC(C)=O)CCCC1=O]] — 엉뚱한 자리 결합"
+    },
+    {
+      "id": 13,
+      "question": "[Ch25 · 환원성 아민화(2차 아민)] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|PhCH₂NH₂|NaBH₃CN]]",
+      "choices": [
+        "[[smi:C1CCC(CC1)NCc1ccccc1]]",
+        "[[smi:C(=NC1CCCCC1)c1ccccc1]]",
+        "[[smi:C1CCC(=NCc2ccccc2)CC1]]",
+        "[[smi:OC1CCCCC1]]"
+      ],
+      "answer": "[[smi:C1CCC(CC1)NCc1ccccc1]]",
+      "explanation": "정답: [[smi:C1CCC(CC1)NCc1ccccc1]]\n1차 아민(벤질아민) + 케톤 → 이민 → NaBH₃CN → 2차 아민 N-벤질사이클로헥실아민.\n\n오답 분석:\n• [[smi:C(=NC1CCCCC1)c1ccccc1]] — 결합 자리 착오 이민\n• [[smi:C1CCC(=NCc2ccccc2)CC1]] — 이민에서 멈춤\n• [[smi:OC1CCCCC1]] — 케톤만 환원"
+    },
+    {
+      "id": 14,
+      "question": "[Ch25 · 다이아조 경로 조합] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+](=O)[O-])cc1>>?|1) H₂, Pd-C 2) NaNO₂, HCl|3) CuBr]]",
+      "choices": [
+        "[[smi:Cc1ccc(Br)cc1]]",
+        "[[smi:Cc1ccc(N)cc1]]",
+        "[[smi:Cc1ccc(O)cc1]]",
+        "[[smi:Cc1ccc([N+](=O)[O-])cc1Br]]"
+      ],
+      "answer": "[[smi:Cc1ccc(Br)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(Br)cc1]]\n환원 → 다이아조화 → Sandmeyer → p-브로모톨루엔(PPT 83쪽 4단계 경로의 응용).\n\n오답 분석:\n• [[smi:Cc1ccc(N)cc1]] — 1단계에서 멈춤\n• [[smi:Cc1ccc(O)cc1]] — 3단계에서 H₂O·가열\n• [[smi:Cc1ccc([N+](=O)[O-])cc1Br]] — 고리 브로민화(EAS)와 혼동"
+    },
+    {
+      "id": 15,
+      "question": "[Ch26 · 작용기를 견디는 Suzuki] 다음 반응의 주생성물은?\n[[rxn:COC(=O)c1ccc(Br)cc1>>?|PhB(OH)₂, Pd(PPh₃)₄|NaOH]]",
+      "choices": [
+        "[[smi:COC(=O)c1ccc(-c2ccccc2)cc1]]",
+        "[[smi:COC(=O)c1ccccc1]]",
+        "[[smi:O=C(c1ccccc1)c1ccc(Br)cc1]]",
+        "[[smi:COC(=O)c1ccc(cc1)-c1ccc(cc1)C(=O)OC]]"
+      ],
+      "answer": "[[smi:COC(=O)c1ccc(-c2ccccc2)cc1]]",
+      "explanation": "정답: [[smi:COC(=O)c1ccc(-c2ccccc2)cc1]]\nSuzuki는 에스터 같은 다른 작용기를 건드리지 않고 C–Br 자리만 C–C로 바꾼다 → 바이페닐-4-카복실산 메틸.\n\n오답 분석:\n• [[smi:COC(=O)c1ccccc1]] — Br만 빠진 구조\n• [[smi:O=C(c1ccccc1)c1ccc(Br)cc1]] — 에스터 자리에 페닐 — 붕소의 Ph는 Br 자리로\n• [[smi:COC(=O)c1ccc(cc1)-c1ccc(cc1)C(=O)OC]] — 할라이드끼리 결합"
+    },
+    {
+      "id": 16,
+      "question": "[Ch26 · RCM(다이에틸 다이알릴말로네이트)] 다음 반응의 주생성물은?\n[[rxn:C=CCC(CC=C)(C(=O)OCC)C(=O)OCC>>?|Grubbs 촉매|묽은 용액]]",
+      "choices": [
+        "[[smi:CCOC(=O)C1(C(=O)OCC)CC=CC1]]",
+        "[[smi:CCOC(=O)C1(C(=O)OCC)CCCC1]]",
+        "[[smi:CCOC(=O)C1(C(=O)OCC)CC=CCC1]]",
+        "[[smi:C=CCC(C(=O)OCC)C(=O)OCC]]"
+      ],
+      "answer": "[[smi:CCOC(=O)C1(C(=O)OCC)CC=CC1]]",
+      "explanation": "정답: [[smi:CCOC(=O)C1(C(=O)OCC)CC=CC1]]\n말로네이트 탄소 + CH₂ 2개 + CH 2개 = 5원 고리 → 사이클로펜트-3-엔-1,1-다이카복실산 다이에틸 + 에틸렌.\n\n오답 분석:\n• [[smi:CCOC(=O)C1(C(=O)OCC)CCCC1]] — C=C까지 사라진 구조\n• [[smi:CCOC(=O)C1(C(=O)OCC)CC=CCC1]] — 6원 고리 — 에틸렌이 빠지므로 5원 고리\n• [[smi:C=CCC(C(=O)OCC)C(=O)OCC]] — 알릴기 하나가 떨어진 구조"
+    },
+    {
+      "id": 17,
+      "question": "[Ch27 · Diels–Alder 친다이엔체 입체] 다음 반응의 주생성물은?\n[[rxn:C=CC=C.COC(=O)/C=C\\C(=O)OC>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:COC(=O)[C@H]1CC=CC[C@H]1C(=O)OC]]",
+        "[[smi:COC(=O)[C@H]1CC=CC[C@@H]1C(=O)OC]]",
+        "[[smi:COC(=O)C1CC=CC1C(=O)OC]]",
+        "[[smi:COC(=O)C1CCC1C(=O)OC]]"
+      ],
+      "answer": "[[smi:COC(=O)[C@H]1CC=CC[C@H]1C(=O)OC]]",
+      "explanation": "정답: [[smi:COC(=O)[C@H]1CC=CC[C@H]1C(=O)OC]]\n동일면·협동 반응 → 친다이엔체의 cis 관계가 생성물에 그대로(PPT 28쪽의 원리를 친다이엔체에 적용).\n\n오답 분석:\n• [[smi:COC(=O)[C@H]1CC=CC[C@@H]1C(=O)OC]] — trans — cis 친다이엔체(말레산 다이메틸)의 입체가 유지되어 cis\n• [[smi:COC(=O)C1CC=CC1C(=O)OC]] — 5원 고리 — [4+2]는 6원 고리\n• [[smi:COC(=O)C1CCC1C(=O)OC]] — [2+2] 사이클로뷰테인"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "deckId": "orgchem-final-s3b-judge-1",
+  "subject": "유기약화학",
+  "title": "3단계 (b) 반응식 정오 판정 ①: Ch20~23",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch20 · 환원] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CC(=O)c1ccccc1>>CC(O)c1ccccc1|NaBH₄|CH₃OH]]\nㄴ. [[rxn:CCOC(=O)c1ccccc1>>OCc1ccccc1|NaBH₄|CH₃OH]]\nㄷ. [[rxn:O=C1C=CCCC1>>O=C1CCCCC1|H₂ (1당량)|Pd-C]]\nㄹ. [[rxn:CCCC(=O)OC>>CCCC=O|1) LiAlH₄|2) H₂O]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\n환원제마다 범위와 멈추는 단계가 다르다(PPT 표 20.1).\n\n• ㄱ (O) 케톤 → 2차 알코올\n• ㄴ (X) NaBH₄는 에스터를 환원하지 못한다(LiAlH₄ 필요)\n• ㄷ (O) C=C가 C=O보다 먼저 수소화\n• ㄹ (X) LiAlH₄는 알데하이드에서 멈추지 않고 1-뷰탄올까지(알데하이드는 DIBAL-H, −78 °C)"
+    },
+    {
+      "id": 2,
+      "question": "[Ch20 · 유기금속] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1CCCCC1>>CC1(O)CCCCC1|1) CH₃MgBr|2) H₃O⁺]]\nㄴ. [[rxn:CCOC(C)=O>>CC(=O)c1ccccc1|1) PhMgBr (과량)|2) H₃O⁺]]\nㄷ. [[rxn:Brc1ccccc1>>OC(=O)c1ccccc1|1) Mg 2) CO₂|3) H₃O⁺]]\nㄹ. [[rxn:C1CO1>>CCCO|1) CH₃CH₂MgBr|2) H₃O⁺]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\n그리냐르: 카보닐 첨가, 에스터 2당량, CO₂ → 산(+1C), 에폭사이드 → 알코올(+2C).\n\n• ㄱ (O) 케톤 → 3차 알코올\n• ㄴ (X) 케톤에서 멈추지 않고 1,1-다이페닐에탄올(3차 알코올)\n• ㄷ (O) 카복실화(탄소 1개 증가)\n• ㄹ (X) 에틸렌 옥사이드는 탄소 2개를 더한다 → 1-뷰탄올(CCCCO)"
+    },
+    {
+      "id": 3,
+      "question": "[Ch20 · 유기구리·아세틸라이드] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1C=CCCC1>>CC1CCCC(=O)C1|1) (CH₃)₂CuLi|2) H₂O]]\nㄴ. [[rxn:O=C(Cl)C1CCCCC1>>CC(C)(O)C1CCCCC1|(CH₃)₂CuLi|]]\nㄷ. [[rxn:CCOC(=O)C1CCCCC1>>CC(=O)C1CCCCC1|(CH₃)₂CuLi|]]\nㄹ. [[rxn:CCCCC#C>>CCCCC#CC|CH₃Li|]]",
+      "choices": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄷ",
+        "ㄹ"
+      ],
+      "answer": "ㄱ",
+      "explanation": "정답: ㄱ\nR₂CuLi: 산 염화물 → 케톤, 에스터 ✗, α,β-불포화 → 1,4.\n\n• ㄱ (O) 1,4-첨가\n• ㄴ (X) 유기구리는 산 염화물과 케톤에서 멈춘다(CC(=O)C₆H₁₁)\n• ㄷ (X) 유기구리는 에스터와 반응하지 않는다\n• ㄹ (X) CH₃Li는 염기로 작용해 리튬 아세틸라이드 + CH₄"
+    },
+    {
+      "id": 4,
+      "question": "[Ch21 · 질소·탄소 친핵체] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1CCCCC1>>CNC1=CCCCC1|CH₃NH₂|약산]]\nㄴ. [[rxn:O=C1CCCCC1>>C1CCC(=CC1)N1CCCC1|피롤리딘|약산, −H₂O]]\nㄷ. [[rxn:O=C1CCCCC1>>C=C1CCCCC1|Ph₃P=CH₂|]]\nㄹ. [[rxn:O=Cc1ccccc1>>N#CC(O)c1ccccc1|NaCN|HCl]]",
+      "choices": [
+        "ㄴ, ㄷ, ㄹ",
+        "ㄷ, ㄹ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄷ, ㄹ",
+      "explanation": "정답: ㄴ, ㄷ, ㄹ\nPPT 그림 21.7의 친핵성 첨가 정리.\n\n• ㄱ (X) 1차 아민은 엔아민이 아니라 이민(CN=C₆H₁₀)\n• ㄴ (O) 2차 아민 → 엔아민\n• ㄷ (O) Wittig\n• ㄹ (O) 사이아노하이드린"
+    },
+    {
+      "id": 5,
+      "question": "[Ch21 · 산소 친핵체] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCC=O>>CCC(O)OC|CH₃OH (2당량)|TsOH]]\nㄴ. [[rxn:CC1(C)OCCO1>>CC(C)=O.OCCO|H₃O⁺|H₂O 과량]]\nㄷ. [[rxn:O=CCCCCO>>OC1CCCCO1|H⁺ (촉매)|]]\nㄹ. [[rxn:O=CC(Cl)(Cl)Cl>>OC(=O)C(Cl)(Cl)Cl|H₂O|]]",
+      "choices": [
+        "ㄴ, ㄷ",
+        "ㄷ",
+        "ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ"
+      ],
+      "answer": "ㄴ, ㄷ",
+      "explanation": "정답: ㄴ, ㄷ\n아세탈은 산·물 과량에서 가수분해, 5·6원 고리 헤미아세탈은 안정, EWG가 있으면 수화물이 많다.\n\n• ㄱ (X) 헤미아세탈에서 멈추지 않고 아세탈 CCC(OC)OC\n• ㄴ (O) 아세탈 가수분해\n• ㄷ (O) 6원 고리 헤미아세탈\n• ㄹ (X) 물은 산화하지 않는다 → 수화물 OC(O)CCl₃"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · 카보닐 만들기] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCCCC#C>>CCCCCC=O|H₂O, H₂SO₄|HgSO₄]]\nㄴ. [[rxn:CCCCC#C>>CCCCCC=O|1) BH₃|2) H₂O₂, ⁻OH]]\nㄷ. [[rxn:CCCCCO>>CCCCC=O|CrO₃|H₂SO₄, H₂O]]\nㄹ. [[rxn:CC=C(C)C>>CC=O.CC(C)=O|1) O₃|2) Zn, H₂O]]",
+      "choices": [
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄴ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "정답: ㄴ, ㄹ\nPPT 21~23쪽.\n\n• ㄱ (X) 수화는 Markovnikov → 2-헥산온(CCCCC(C)=O)\n• ㄴ (O) 수소붕소화 → 알데하이드\n• ㄷ (X) 물이 있으면 카복실산까지 → 펜탄산(알데하이드는 PCC)\n• ㄹ (O) 오존 분해"
+    },
+    {
+      "id": 7,
+      "question": "[Ch22 · 유도체 변환] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCC(=O)Cl>>CCC(=O)OC|CH₃OH|피리딘]]\nㄴ. [[rxn:CCOC(C)=O>>CC(N)=O|NH₃|]]\nㄷ. [[rxn:CC(N)=O>>CC(=O)OC|CH₃OH|H⁺]]\nㄹ. [[rxn:CC(=O)O>>CC(N)=O|NH₃|실온]]",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "정답: ㄱ, ㄴ\n반응성 큰 유도체 → 작은 유도체만 가능(PPT 표 22.5).\n\n• ㄱ (O) 산 염화물 → 에스터(내리막)\n• ㄴ (O) 에스터 → 아마이드(내리막)\n• ㄷ (X) 아마이드 → 에스터는 오르막이라 일어나지 않는다\n• ㄹ (X) 실온에서는 산–염기 반응으로 암모늄염(가열 또는 DCC 필요)"
+    },
+    {
+      "id": 8,
+      "question": "[Ch22 · 나이트릴] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:N#Cc1ccccc1>>CC(=O)c1ccccc1|1) CH₃MgBr|2) H₂O]]\nㄴ. [[rxn:CCC#N>>CCC=O|1) LiAlH₄|2) H₂O]]\nㄷ. [[rxn:N#CCc1ccccc1>>OC(=O)Cc1ccccc1|H₃O⁺|가열]]\nㄹ. [[rxn:CCCCBr>>CCCC#N|NaCN|]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nPPT 78~88쪽.\n\n• ㄱ (O) 이민을 거쳐 케톤\n• ㄴ (X) LiAlH₄는 1차 아민(CCCN), 알데하이드는 DIBAL-H\n• ㄷ (O) 가수분해 → 카복실산\n• ㄹ (X) CN 탄소가 더해져 펜테인나이트릴(CCCCC#N)"
+    },
+    {
+      "id": 9,
+      "question": "[Ch22 · 고리 생성·아실화 (족보형)] 다음 세 반응 중 옳은 것을 모두 고르시오.\nㄱ. [[rxn:OC(=O)CCC(=O)O>>O=C1CCC(=O)O1|가열(Δ)|]]\nㄴ. [[rxn:OCCCC(=O)O>>O=C1CCCO1|H₂SO₄|]]\nㄷ. [[rxn:OC(=O)c1ccccc1O>>CC(=O)Oc1ccccc1C(=O)O|(CH₃CO)₂O|]]\nㄹ. [[rxn:CC(=O)O>>CC(=O)OC|CH₃OH|NaOH]]",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "정답: ㄱ, ㄴ, ㄷ\n족보 25-2 7번처럼 여러 반응식을 한꺼번에 판정하는 형식.\n\n• ㄱ (O) 숙신산 → 숙신산 무수물 + H₂O\n• ㄴ (O) 분자 내 Fischer → γ-뷰티로락톤\n• ㄷ (O) 아스피린\n• ㄹ (X) 염기에서는 카복실산 음이온이 되어 에스터화되지 않는다"
+    },
+    {
+      "id": 10,
+      "question": "[Ch23 · 엔올 음이온 알킬화·할로젠화] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CC1CCCCC1=O>>CC1(C)CCCCC1=O|1) LDA, THF, −78 °C|2) CH₃I]]\nㄴ. [[rxn:CC1CCCCC1=O>>CC1(C)CCCCC1=O|1) NaOEt, EtOH, 실온|2) CH₃I]]\nㄷ. [[rxn:O=C1CCCCC1>>O=C1CCCCC1(Br)Br|Br₂|CH₃COOH]]\nㄹ. [[rxn:CC(=O)c1ccccc1>>[O-]C(=O)c1ccccc1|I₂ (과량)|NaOH]]",
+      "choices": [
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄴ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "정답: ㄴ, ㄹ\nPPT 27~35·42~43쪽.\n\n• ㄱ (X) LDA(속도론적) → 2,6-다이메틸(CC1CCCC(C)C1=O)\n• ㄴ (O) 열역학적 → 2,2-다이메틸\n• ㄷ (X) 산 조건은 일치환 → 2-브로모사이클로헥산온\n• ㄹ (O) 할로폼 반응(+ CHI₃)"
+    },
+    {
+      "id": 11,
+      "question": "[Ch23 · 말론산·아세토아세트산] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCOC(=O)CC(=O)OCC>>OC(=O)CCc1ccccc1|1) NaOEt 2) PhCH₂Br|3) H₃O⁺, Δ]]\nㄴ. [[rxn:CCOC(=O)CC(C)=O>>CCCC(C)=O|1) NaOEt 2) CH₃CH₂Br|3) H₃O⁺, Δ]]\nㄷ. [[rxn:CCOC(=O)CC(=O)OCC>>OC(=O)Cc1ccccc1|1) NaOEt 2) PhBr|3) H₃O⁺, Δ]]\nㄹ. [[rxn:CCOC(=O)CC(=O)OCC>>CC(C)(C)CC(=O)O|1) NaOEt 2) (CH₃)₃CBr|3) H₃O⁺, Δ]]",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "정답: ㄱ, ㄴ\nPPT 45~56쪽 / 족보 '말론산 에스터 합성이 가능한 물질' 문항과 같은 판단.\n\n• ㄱ (O) 3-페닐프로판산\n• ㄴ (O) 2-펜탄온(메틸 케톤)\n• ㄷ (X) 아릴 할라이드는 SN2 불가\n• ㄹ (X) 3차 할라이드는 E2(아이소뷰틸렌)"
+    },
+    {
+      "id": 12,
+      "question": "[Ch23 · α-탄소의 기타 반응] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1CCCCC1Br>>O=C1C=CCCC1|Li₂CO₃, LiBr|DMF]]\nㄴ. [[rxn:CC(=O)CC(=O)O>>CC(C)=O|가열(Δ)|]]\nㄷ. [[rxn:CC[C@@H](C)C(=O)c1ccccc1>>CC[C@@H](C)C(=O)c1ccccc1|NaOH|H₂O]]\nㄹ. [[rxn:O=C1CCCCC1>>[2H]C1([2H])CCCC([2H])([2H])C1=O|NaOD|D₂O]]",
+      "choices": [
+        "ㄱ, ㄴ, ㄹ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄹ",
+      "explanation": "정답: ㄱ, ㄴ, ㄹ\nPPT 25·36·46쪽 / 족보 '가장 많은 수소가 중수소로 치환' 문항과 같은 원리.\n\n• ㄱ (O) 제거 → 2-사이클로헥센온\n• ㄴ (O) β-케토산 탈카복실화\n• ㄷ (X) α 입체중심은 라세미화된다\n• ㄹ (O) α-H 4개 모두 D로 교환"
+    }
+  ]
+}

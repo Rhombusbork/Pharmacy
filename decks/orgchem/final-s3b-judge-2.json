@@ -1,0 +1,150 @@
+{
+  "deckId": "orgchem-final-s3b-judge-2",
+  "subject": "유기약화학",
+  "title": "3단계 (b) 반응식 정오 판정 ②: Ch24~27",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch24 · 알돌] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CC=O>>CC(O)CC=O|⁻OH|H₂O (저온)]]\nㄴ. [[rxn:CCC=O>>CCC(O)CCC=O|⁻OH|H₂O]]\nㄷ. [[rxn:O=Cc1ccccc1>>CC(=O)/C=C/c1ccccc1|CH₃COCH₃, ⁻OH|H₂O]]\nㄹ. [[rxn:CC(=O)CCC(C)=O>>CC1=CC(=O)CCC1|NaOEt|가열]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nPPT 3~26쪽.\n\n• ㄱ (O) 3-하이드록시뷰탄알\n• ㄴ (X) 결합은 α탄소에서 → 3-하이드록시-2-메틸펜탄알(가지)\n• ㄷ (O) 교차 알돌 축합(벤잘아세톤)\n• ㄹ (X) 1,4-다이카보닐은 5원 고리(CC1=CC(=O)CC1)"
+    },
+    {
+      "id": 2,
+      "question": "[Ch24 · Claisen·Dieckmann] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCOC(C)=O>>CCOC(=O)CC(C)=O|1) NaOEt|2) H₃O⁺]]\nㄴ. [[rxn:CCOC(=O)CCCCCC(=O)OCC>>CCOC(=O)C1CCCCC1=O|1) NaOEt|2) H₃O⁺]]\nㄷ. [[rxn:O=C1CCCCC1>>O=C(C1CCCCC1=O)c1ccccc1|1) PhCOOEt, NaOEt|2) H₃O⁺]]\nㄹ. [[rxn:CCOC(C)=O>>CCOC(=O)CC(C)=O|NaOH|H₂O]]",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "정답: ㄱ, ㄴ, ㄷ\nPPT 28~36쪽.\n\n• ㄱ (O) 아세토아세트산 에틸\n• ㄴ (O) 1,7-다이에스터 → 6원 고리\n• ㄷ (O) 케톤 + 에스터 → β-다이케톤\n• ㄹ (X) NaOH는 에스터를 비누화한다(아세트산 음이온)"
+    },
+    {
+      "id": 3,
+      "question": "[Ch24 · 마이클·Robinson] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1C=CCCC1>>CCOC(=O)C(C(=O)OCC)C1CCCC(=O)C1|CH₂(CO₂Et)₂|NaOEt]]\nㄴ. [[rxn:O=C1C=CCCC1>>CC1CCCC(=O)C1|1) CH₃MgBr|2) H₃O⁺]]\nㄷ. [[rxn:CC1CCCCC1=O>>CC12CCCCC1=CC(=O)CC2|CH₂=CHCOCH₃|NaOEt]]\nㄹ. [[rxn:O=C1CCCCC1>>O=C1CCC2CCCCC2=C1|CH₂=CHCOCH₃|NaOEt]]",
+      "choices": [
+        "ㄱ, ㄷ, ㄹ",
+        "ㄷ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ, ㄹ",
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 37~47쪽.\n\n• ㄱ (O) 1,4-첨가(마이클)\n• ㄴ (X) 그리냐르는 1,2-첨가(1-메틸사이클로헥스-2-엔올)\n• ㄷ (O) Robinson(메틸이 고리 접합)\n• ㄹ (O) Robinson(옥탈렌온)"
+    },
+    {
+      "id": 4,
+      "question": "[Ch25 · 아민 만들기·Hofmann] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:O=C1CCCCC1>>NC1CCCCC1|NH₃|NaBH₃CN]]\nㄴ. [[rxn:CC(=O)Cc1ccccc1>>NC(C)Cc1ccccc1|CH₃NH₂|NaBH₃CN]]\nㄷ. [[rxn:CCCN>>C=CC|1) CH₃I (과량) 2) Ag₂O|3) Δ]]\nㄹ. [[rxn:CCC(C)N>>C/C=C/C|1) CH₃I (과량) 2) Ag₂O|3) Δ]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nPPT 33~36·65~69쪽 / 족보 '주생성물로 옳은 것(가나다)' 형식.\n\n• ㄱ (O) 환원성 아민화 → 1차 아민\n• ㄴ (X) 메틸아민 → N-메틸 2차 아민(메스암페타민)\n• ㄷ (O) Hofmann 제거\n• ㄹ (X) Hofmann은 덜 치환된 1-뷰텐이 주생성물"
+    },
+    {
+      "id": 5,
+      "question": "[Ch25 · 다이아조늄·아조] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:Nc1ccccc1>>N#Cc1ccccc1|1) NaNO₂, HCl|2) CuCN]]\nㄴ. [[rxn:[N+](#N)c1ccccc1>>Oc1ccccc1|H₃PO₂|]]\nㄷ. [[rxn:[N+](#N)c1ccccc1>>Oc1ccc(N=Nc2ccccc2)cc1|페놀|NaOH]]\nㄹ. [[rxn:CNC>>CN(C)N=O|NaNO₂|HCl]]",
+      "choices": [
+        "ㄱ, ㄷ, ㄹ",
+        "ㄷ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ, ㄹ",
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 70~86쪽.\n\n• ㄱ (O) 다이아조화 → 벤조나이트릴\n• ㄴ (X) H₃PO₂는 H로 치환(벤젠). 페놀은 H₂O·가열\n• ㄷ (O) 아조 짝지음(para)\n• ㄹ (O) 2차 아민 → N-나이트로소아민"
+    },
+    {
+      "id": 6,
+      "question": "[Ch25 · 아마이드·Gabriel·나이트릴] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:Nc1ccccc1>>Cc1ccc(N)cc1|CH₃Cl|AlCl₃]]\nㄴ. [[rxn:Nc1ccccc1>>CC(=O)Nc1ccccc1|CH₃COCl|피리딘]]\nㄷ. [[rxn:CCBr>>CCN|1) 프탈이미드 음이온|2) ⁻OH, H₂O]]\nㄹ. [[rxn:CCCCBr>>CCCCN|1) NaCN 2) LiAlH₄|3) H₂O]]",
+      "choices": [
+        "ㄴ, ㄷ",
+        "ㄷ",
+        "ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ"
+      ],
+      "answer": "ㄴ, ㄷ",
+      "explanation": "정답: ㄴ, ㄷ\nPPT 27~31·62~64쪽.\n\n• ㄱ (X) 아닐린은 AlCl₃와 착물을 만들어 FC 불가(아마이드 보호 필요)\n• ㄴ (O) 아세트아닐라이드\n• ㄷ (O) Gabriel\n• ㄹ (X) 탄소 1개 증가 → 펜틸아민(CCCCCN)"
+    },
+    {
+      "id": 7,
+      "question": "[Ch26 · 짝지음 반응] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:CCCC/C=C/Br>>CCCC/C=C\\C|(CH₃)₂CuLi|]]\nㄴ. [[rxn:Brc1ccccc1>>CCCC/C=C/c1ccccc1|trans-CH₃(CH₂)₃CH=CH–B(카테콜)|Pd(PPh₃)₄, NaOH]]\nㄷ. [[rxn:Brc1ccccc1>>COC(=O)/C=C/c1ccccc1|CH₂=CHCO₂CH₃|Pd(OAc)₂, Et₃N]]\nㄹ. [[rxn:CC(C)(C)Br>>CC(C)(C)C|(CH₃)₂CuLi|]]",
+      "choices": [
+        "ㄴ, ㄷ",
+        "ㄷ",
+        "ㄴ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ"
+      ],
+      "answer": "ㄴ, ㄷ",
+      "explanation": "정답: ㄴ, ㄷ\nCh26 PPT 3~19쪽.\n\n• ㄱ (X) 바이닐 할라이드의 입체 유지 → trans-2-헵텐\n• ㄴ (O) Suzuki\n• ㄷ (O) Heck(trans)\n• ㄹ (X) 3차 할라이드는 짝지음 불가"
+    },
+    {
+      "id": 8,
+      "question": "[Ch26 · 카벤·상호교환] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:C1=CCCCC1>>ClC1(Cl)C2CCCCC12|CHCl₃|KOC(CH₃)₃]]\nㄴ. [[rxn:C/C=C\\C>>C[C@H]1C[C@@H]1C|CH₂I₂|Zn(Cu)]]\nㄷ. [[rxn:C=CCCCCC=C>>C1=CCCCC1.C=C|Grubbs 촉매|묽은 용액]]\nㄹ. [[rxn:CCCC=C>>CCCC=CCCC.C=C|Grubbs 촉매|]]",
+      "choices": [
+        "ㄱ, ㄷ, ㄹ",
+        "ㄷ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ, ㄹ",
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nCh26 PPT 20~36쪽.\n\n• ㄱ (O) 다이클로로카벤 첨가\n• ㄴ (X) cis 알켄 → cis-1,2-다이메틸사이클로프로페인(입체특이적)\n• ㄷ (O) RCM + 에틸렌\n• ㄹ (O) 교차 상호교환(4-옥텐 E·Z + 에틸렌)"
+    },
+    {
+      "id": 9,
+      "question": "[Ch27 · 전자고리화] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:C/C=C/C=C/C>>C[C@H]1C=C[C@@H]1C|가열(Δ)|]]\nㄴ. [[rxn:C/C=C/C=C/C>>C[C@H]1C=C[C@@H]1C|hν|]]\nㄷ. [[rxn:C/C=C/C=C\\C=C\\C>>C[C@H]1C=CC=C[C@H]1C|가열(Δ)|]]\nㄹ. [[rxn:C[C@H]1C=C[C@H]1C>>C/C=C/C=C/C|가열(Δ)|]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nPPT 14~22쪽.\n\n• ㄱ (O) 4π 열적 동일방향 → trans\n• ㄴ (X) 빛은 반대방향 → cis(C[C@H]1C=C[C@H]1C)\n• ㄷ (O) 6π 열적 반대방향 → cis\n• ㄹ (X) cis-다이메틸사이클로뷰텐 → (2E,4Z)-헥사다이엔"
+    },
+    {
+      "id": 10,
+      "question": "[Ch27 · 시그마 자리옮김] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:C=CC(C)CC=C>>C/C=C/CCC=C|가열(Δ)|]]\nㄴ. [[rxn:C=CC(O)CC=C>>C=CCCCC=O|가열(Δ)|]]\nㄷ. [[rxn:C=CCOc1ccccc1>>C=CCc1ccc(O)cc1|가열(Δ)|]]\nㄹ. [[rxn:C=CCOC1=CCCCC1>>C=CCC1CCCCC1=O|가열(Δ)|]]",
+      "choices": [
+        "ㄱ, ㄴ, ㄹ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄹ",
+      "explanation": "정답: ㄱ, ㄴ, ㄹ\nPPT 32~39쪽.\n\n• ㄱ (O) Cope\n• ㄴ (O) oxy-Cope → 카보닐\n• ㄷ (X) 알릴기는 ortho로 → 2-알릴페놀\n• ㄹ (O) Claisen(알릴 바이닐 에터)"
+    },
+    {
+      "id": 11,
+      "question": "[Ch27 · 고리화첨가] 다음 반응 중 주생성물이 옳게 표시된 것을 모두 고르시오.\nㄱ. [[rxn:C/C=C/C=C/C.C=C>>C[C@H]1C=C[C@@H](C)CC1|가열(Δ)|]]\nㄴ. [[rxn:C=C.C=C>>C1CCC1|가열(Δ)|]]\nㄷ. [[rxn:C1=CCCCC1.C=C>>C1CCC2CCC2C1|hν|]]\nㄹ. [[rxn:C/C=C/C=C\\C.C=C>>C[C@H]1C=C[C@@H](C)CC1|가열(Δ)|]]",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "정답: ㄱ, ㄷ\nPPT 23~31쪽 / 족보 고리화첨가 진술 문항과 같은 판단.\n\n• ㄱ (O) Diels–Alder, 다이엔 입체 유지 → cis\n• ㄴ (X) 열적 [2+2]는 일어나지 않는다(빛 필요)\n• ㄷ (O) 광화학 [2+2]\n• ㄹ (X) (2E,4Z)-다이엔 → trans 생성물"
+    }
+  ]
+}
