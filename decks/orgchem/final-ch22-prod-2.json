@@ -1,0 +1,211 @@
+{
+  "deckId": "orgchem-final-ch22-prod-2",
+  "subject": "유기약화학",
+  "title": "Ch22 ② 생성물 고르기: 에스터·아마이드·나이트릴·생체·고분자",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch22 · 에스터 산 가수분해] 다음 반응의 주생성물은?\n[[rxn:CCOC(=O)c1ccccc1>>?|H₂O, H⁺|가열]]",
+      "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:OCc1ccccc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:Oc1ccccc1]]"
+      ],
+      "answer": "[[smi:OC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:OC(=O)c1ccccc1]]\nPPT 57~58쪽: 에스터 + H₂O(H⁺) → 카복실산 + R'OH. Fischer 에스터화의 역반응(평형).\n\n오답 분석:\n• [[smi:OCc1ccccc1]] — 환원과 혼동\n• [[smi:O=Cc1ccccc1]] — 알데하이드 — 산화 상태는 그대로(카복실산)\n• [[smi:Oc1ccccc1]] — 탄소가 빠진 페놀"
+    },
+    {
+      "id": 2,
+      "question": "[Ch22 · 에스터 비누화] 다음 반응의 주생성물은?\n[[rxn:CCCC(=O)OC>>?|NaOH|H₂O]]",
+      "choices": [
+        "[[smi:CCCC(=O)[O-]]]",
+        "[[smi:CCCC(=O)O]]",
+        "[[smi:CCCC(O)(O)OC]]",
+        "[[smi:CCCC=O]]"
+      ],
+      "answer": "[[smi:CCCC(=O)[O-]]]",
+      "explanation": "정답: [[smi:CCCC(=O)[O-]]]\nPPT 59~60쪽: 비누화 = 염기 '촉진'(촉매 아님, OH⁻가 소모됨). 공명 안정화된 카복실산 음이온이 생겨 평형이 생성물 쪽.\n\n오답 분석:\n• [[smi:CCCC(=O)O]] — 산 처리 전에는 카복실산 음이온 — 산을 넣어야 중성 카복실산이 된다\n• [[smi:CCCC(O)(O)OC]] — 사면체 중간체에서 멈춤\n• [[smi:CCCC=O]] — 환원과 혼동"
+    },
+    {
+      "id": 3,
+      "question": "[Ch22 · 락톤 비누화] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCO1>>?|NaOH|H₂O]]",
+      "choices": [
+        "[[smi:OCCCC(=O)[O-]]]",
+        "[[smi:OCCCCO]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:C=CCC(=O)[O-]]]"
+      ],
+      "answer": "[[smi:OCCCC(=O)[O-]]]",
+      "explanation": "정답: [[smi:OCCCC(=O)[O-]]]\n락톤도 에스터처럼 비누화되어 고리가 열린 하이드록시 카복실산 음이온(4-하이드록시뷰타노에이트)이 된다.\n\n오답 분석:\n• [[smi:OCCCCO]] — LiAlH₄ 환원의 결과(다이올)\n• [[smi:C1CCOC1]] — 고리형 에터\n• [[smi:C=CCC(=O)[O-]]] — 제거 반응과 혼동"
+    },
+    {
+      "id": 4,
+      "question": "[Ch22 · 에스터 + 아민] 다음 반응의 주생성물은?\n[[rxn:CCOC(C)=O>>?|CH₃CH₂NH₂|]]",
+      "choices": [
+        "[[smi:CCNC(C)=O]]",
+        "[[smi:CCN=C(C)OCC]]",
+        "[[smi:CCOC(=O)NCC]]",
+        "[[smi:CC(=O)O]]"
+      ],
+      "answer": "[[smi:CCNC(C)=O]]",
+      "explanation": "정답: [[smi:CCNC(C)=O]]\nPPT 57쪽: 에스터 + NH₃·1차·2차 아민 → 1°·2°·3° 아마이드 + R'OH.\n\n오답 분석:\n• [[smi:CCN=C(C)OCC]] — 이미데이트 — 아마이드 C=O는 유지된다\n• [[smi:CCOC(=O)NCC]] — 카바메이트 — EtO⁻가 이탈기로 떨어져 나간다\n• [[smi:CC(=O)O]] — 가수분해 생성물 — 친핵체는 아민"
+    },
+    {
+      "id": 5,
+      "question": "[Ch22 · 지방(트라이아실글리세롤) 비누화] 다음 반응의 결과로 옳은 것은?\n[[rxn:CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC>>?|NaOH (과량)|H₂O, 가열]]",
+      "choices": [
+        "글리세롤 + 지방산 소듐염(비누) 3분자",
+        "글리세롤 + 지방산 에틸 에스터 3분자",
+        "다이아실글리세롤 + 지방산 소듐염 1분자",
+        "글리세롤의 소듐염(알콕사이드) + 지방산 3분자"
+      ],
+      "answer": "글리세롤 + 지방산 소듐염(비누) 3분자",
+      "explanation": "정답: 글리세롤 + 지방산 소듐염(비누) 3분자\nPPT 61~65쪽: 동물성 지방·식물성 기름 + 염기 수용액 → 글리세롤 + 지방산 소듐염(비누). 생체에서는 리파제가 같은 가수분해를 촉매.\n\n오답 분석:\n• 글리세롤 + 지방산 에틸 에스터 3분자 — 에스터교환(EtOH/H⁺)과 혼동\n• 다이아실글리세롤 + 지방산 소듐염 1분자 — 과량의 염기에서는 세 에스터가 모두 가수분해된다\n• 글리세롤의 소듐염(알콕사이드) + 지방산 3분자 — 음이온이 되는 쪽은 산성인 지방산(RCOOH, pKa 약 5)"
+    },
+    {
+      "id": 6,
+      "question": "[Ch22 · 아마이드 산 가수분해] 다음 반응의 생성물로 옳은 것은?\n[[rxn:CC(N)=O>>?|H₃O⁺|가열]]",
+      "choices": [
+        "[[smi:CC(=O)O]] + [[smi:[NH4+]]]",
+        "[[smi:CC(=O)[O-]]] + [[smi:N]]",
+        "[[smi:CC#N]] + H₂O",
+        "[[smi:CCN]]"
+      ],
+      "answer": "[[smi:CC(=O)O]] + [[smi:[NH4+]]]",
+      "explanation": "정답: [[smi:CC(=O)O]] + [[smi:[NH4+]]]\nPPT 66쪽: 아마이드(가장 반응성 낮은 유도체)는 산·염기와 가열해야 가수분해. 산 → RCOOH + R'₂NH₂⁺.\n\n오답 분석:\n• [[smi:CC(=O)[O-]]] + [[smi:N]] — 염기 가수분해의 생성물 — 산에서는 아민 부산물이 암모늄으로 양성자화\n• [[smi:CC#N]] + H₂O — 탈수와 혼동\n• [[smi:CCN]] — 환원과 혼동"
+    },
+    {
+      "id": 7,
+      "question": "[Ch22 · 아마이드 염기 가수분해] 다음 반응의 생성물로 옳은 것은?\n[[rxn:CNC(=O)c1ccccc1>>?|NaOH, H₂O|가열]]",
+      "choices": [
+        "[[smi:[O-]C(=O)c1ccccc1]] + [[smi:CN]]",
+        "[[smi:OC(=O)c1ccccc1]] + [[smi:C[NH3+]]]",
+        "[[smi:CNCc1ccccc1]]",
+        "변화 없음 — 아마이드는 가수분해되지 않는다"
+      ],
+      "answer": "[[smi:[O-]C(=O)c1ccccc1]] + [[smi:CN]]",
+      "explanation": "정답: [[smi:[O-]C(=O)c1ccccc1]] + [[smi:CN]]\nPPT 66~67쪽: 염기 → 카복실산 음이온 + 중성 아민(CH₃NH₂).\n\n오답 분석:\n• [[smi:OC(=O)c1ccccc1]] + [[smi:C[NH3+]]] — 산 가수분해의 생성물\n• [[smi:CNCc1ccccc1]] — LiAlH₄ 환원과 혼동\n• 변화 없음 — 아마이드는 가수분해되지 않는다 — 반응성이 가장 낮을 뿐, 가열하면 가수분해된다"
+    },
+    {
+      "id": 8,
+      "question": "[Ch22 · β-락탐과 효소] 페니실린 G가 세균 효소를 막는 반응은?\n[[rxn:CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O>>?|트랜스펩티데이스의 Ser–OH|]]",
+      "choices": [
+        "β-락탐 고리가 열리며 효소 OH가 아실화된다(효소–O–C(=O)– 에스터, 효소 비활성)",
+        "효소가 페니실린의 곁사슬 아마이드를 가수분해해 페니실린만 분해된다",
+        "효소 OH가 카복실산과 Fischer 에스터화한다",
+        "고리가 열리지 않고 효소와 이민을 만든다"
+      ],
+      "answer": "β-락탐 고리가 열리며 효소 OH가 아실화된다(효소–O–C(=O)– 에스터, 효소 비활성)",
+      "explanation": "정답: β-락탐 고리가 열리며 효소 OH가 아실화된다(효소–O–C(=O)– 에스터, 효소 비활성)\nPPT 68~69쪽: 4원 고리 무리로 반응성이 큰 β-락탐 C=O를 효소의 OH가 친핵성 아실 치환 → 효소가 공유 결합으로 변형되어 비활성 → 세포벽(펩타이드 가교) 합성 차단.\n\n오답 분석:\n• 효소가 페니실린의 곁사슬 아마이드를 가수분해해 페니실린만 분해된다 — 반응하는 것은 무리가 큰 4원 고리 β-락탐 아마이드\n• 효소 OH가 카복실산과 Fischer 에스터화한다 — 산 촉매 에스터화와 혼동 — 아실 치환이 일어나는 곳은 β-락탐 C=O\n• 고리가 열리지 않고 효소와 이민을 만든다 — 아마이드 C=O는 이민을 만들지 않는다"
+    },
+    {
+      "id": 9,
+      "question": "[Ch22 · 나일론 6,6] 다음 중합 반응의 생성물은?\n[[rxn:ClC(=O)CCCCC(=O)Cl>>?|H₂N(CH₂)₆NH₂|]]",
+      "choices": [
+        "–[C(=O)(CH₂)₄C(=O)NH(CH₂)₆NH]– 폴리아마이드 + HCl",
+        "–[C(=O)(CH₂)₄C(=O)O(CH₂)₆O]– 폴리에스터 + HCl",
+        "–[CH₂(CH₂)₄CH₂NH(CH₂)₆NH]– 폴리아민",
+        "–[C(=O)(CH₂)₄C(=O)NH(CH₂)₆NH]– 폴리아마이드 + H₂O"
+      ],
+      "answer": "–[C(=O)(CH₂)₄C(=O)NH(CH₂)₆NH]– 폴리아마이드 + HCl",
+      "explanation": "정답: –[C(=O)(CH₂)₄C(=O)NH(CH₂)₆NH]– 폴리아마이드 + HCl\nPPT 72쪽: 6탄소 단량체 두 개(아디포일 클로라이드 + 헥사메틸렌다이아민) → 나일론 6,6(축합 중합, HCl 제거).\n\n오답 분석:\n• –[C(=O)(CH₂)₄C(=O)O(CH₂)₆O]– 폴리에스터 + HCl — 다이올이 아니라 다이아민 → 아마이드 결합\n• –[CH₂(CH₂)₄CH₂NH(CH₂)₆NH]– 폴리아민 — C=O가 남는다(환원 아님)\n• –[C(=O)(CH₂)₄C(=O)NH(CH₂)₆NH]– 폴리아마이드 + H₂O — 산 염화물에서는 작은 분자 HCl이 빠진다(축합 고분자)"
+    },
+    {
+      "id": 10,
+      "question": "[Ch22 · 폴리에스터(PET)] 다음 중합 반응의 생성물은?\n[[rxn:OC(=O)c1ccc(C(=O)O)cc1>>?|HOCH₂CH₂OH|H⁺]]",
+      "choices": [
+        "–[C(=O)C₆H₄C(=O)OCH₂CH₂O]– 폴리에스터 + H₂O",
+        "–[C(=O)C₆H₄C(=O)NHCH₂CH₂NH]– 폴리아마이드 + H₂O",
+        "–[C₆H₄CH₂OCH₂CH₂O]– 폴리에터",
+        "반응하지 않는다(카복실산은 에스터를 만들 수 없다)"
+      ],
+      "answer": "–[C(=O)C₆H₄C(=O)OCH₂CH₂O]– 폴리에스터 + H₂O",
+      "explanation": "정답: –[C(=O)C₆H₄C(=O)OCH₂CH₂O]– 폴리에스터 + H₂O\nPPT 73~74쪽: 테레프탈산 + 에틸렌 글라이콜 → 산 촉매 Fischer 에스터화 → 폴리에틸렌 테레프탈레이트(PET, 데이크론·마일라).\n\n오답 분석:\n• –[C(=O)C₆H₄C(=O)NHCH₂CH₂NH]– 폴리아마이드 + H₂O — 다이아민이 아니라 다이올\n• –[C₆H₄CH₂OCH₂CH₂O]– 폴리에터 — C=O가 남는 에스터 결합\n• 반응하지 않는다(카복실산은 에스터를 만들 수 없다) — 산 촉매 Fischer 에스터화로 가능"
+    },
+    {
+      "id": 11,
+      "question": "[Ch22 · 생체 아실 전달(아세틸콜린)] 다음 반응의 주생성물은?\n[[rxn:OCC[N+](C)(C)C>>?|아세틸 CoA (CH₃COSCoA)|효소]]",
+      "choices": [
+        "[[smi:CC(=O)OCC[N+](C)(C)C]]",
+        "[[smi:CC(=O)[N+](C)(C)CCO]]",
+        "[[smi:CC(=O)SCC[N+](C)(C)C]]",
+        "[[smi:CC(=O)O]]"
+      ],
+      "answer": "[[smi:CC(=O)OCC[N+](C)(C)C]]",
+      "explanation": "정답: [[smi:CC(=O)OCC[N+](C)(C)C]]\nPPT 75~76쪽: 세포의 아실화는 싸이오에스터(아세틸 CoA)가 담당. 콜린의 OH + 아세틸 CoA → 아세틸콜린(신경전달물질) + CoA–SH.\n\n오답 분석:\n• [[smi:CC(=O)[N+](C)(C)CCO]] — N에 아세틸 — 4차 암모늄 N은 비공유 전자쌍이 없어 친핵체가 아니다\n• [[smi:CC(=O)SCC[N+](C)(C)C]] — 싸이오에스터가 생김 — CoA–S⁻가 이탈기로 떨어진다\n• [[smi:CC(=O)O]] — 가수분해 생성물"
+    },
+    {
+      "id": 12,
+      "question": "[Ch22 · 나이트릴 만들기] 다음 반응의 주생성물은?\n[[rxn:CCCCBr>>?|NaCN|DMSO]]",
+      "choices": [
+        "[[smi:CCCCC#N]]",
+        "[[smi:CCCC[N+]#[C-]]]",
+        "[[smi:CCCC#N]]",
+        "[[smi:C=CCC]]"
+      ],
+      "answer": "[[smi:CCCCC#N]]",
+      "explanation": "정답: [[smi:CCCCC#N]]\nPPT 78쪽: 메틸·1차 할라이드 + ⁻CN → SN2 → 나이트릴. 이름은 CN 탄소까지 세어 펜테인나이트릴.\n\n오답 분석:\n• [[smi:CCCC[N+]#[C-]]] — N 쪽으로 붙은 아이소나이트릴 — SN2는 주로 탄소 쪽\n• [[smi:CCCC#N]] — 탄소 수 착오 — CN 탄소가 하나 더해져 펜테인나이트릴\n• [[smi:C=CCC]] — E2 — 1차 할라이드 + CN⁻은 SN2"
+    },
+    {
+      "id": 13,
+      "question": "[Ch22 · 나이트릴 산 가수분해] 다음 반응의 주생성물은?\n[[rxn:N#CCc1ccccc1>>?|H₃O⁺|가열]]",
+      "choices": [
+        "[[smi:OC(=O)Cc1ccccc1]]",
+        "[[smi:NC(=O)Cc1ccccc1]]",
+        "[[smi:N=C(O)Cc1ccccc1]]",
+        "[[smi:NCCc1ccccc1]]"
+      ],
+      "answer": "[[smi:OC(=O)Cc1ccccc1]]",
+      "explanation": "정답: [[smi:OC(=O)Cc1ccccc1]]\nPPT 80~82쪽: C≡N의 C–N 결합 세 개가 C–O 세 개로 바뀐다. 이미드산 → (토토머화) → 아마이드 → 카복실산.\n\n오답 분석:\n• [[smi:NC(=O)Cc1ccccc1]] — 아마이드 중간체에서 멈춤\n• [[smi:N=C(O)Cc1ccccc1]] — 이미드산(아마이드의 토토머) 중간체\n• [[smi:NCCc1ccccc1]] — LiAlH₄ 환원의 결과"
+    },
+    {
+      "id": 14,
+      "question": "[Ch22 · 나이트릴 염기 가수분해] 다음 반응의 주생성물은?\n[[rxn:CCC#N>>?|NaOH, H₂O|가열]]",
+      "choices": [
+        "[[smi:CCC(=O)[O-]]]",
+        "[[smi:CCC(N)=O]]",
+        "[[smi:CCCN]]",
+        "[[smi:CCC=O]]"
+      ],
+      "answer": "[[smi:CCC(=O)[O-]]]",
+      "explanation": "정답: [[smi:CCC(=O)[O-]]]\nPPT 80·83쪽: 염기 → 카복실산 음이온 + NH₃.\n\n오답 분석:\n• [[smi:CCC(N)=O]] — 아마이드 중간체에서 멈춤\n• [[smi:CCCN]] — 환원과 혼동\n• [[smi:CCC=O]] — DIBAL-H 환원의 결과"
+    },
+    {
+      "id": 15,
+      "question": "[Ch22 · 나이트릴 LiAlH₄ 환원] 다음 반응의 주생성물은?\n[[rxn:CCCC#N>>?|1) LiAlH₄|2) H₂O]]",
+      "choices": [
+        "[[smi:CCCCN]]",
+        "[[smi:CCCC=O]]",
+        "[[smi:CCCC=N]]",
+        "[[smi:CCCC(N)=O]]"
+      ],
+      "answer": "[[smi:CCCCN]]",
+      "explanation": "정답: [[smi:CCCCN]]\nPPT 84~85쪽: H⁻ 2당량이 차례로 첨가 → 다이음이온 → H₂O → 1차 아민 RCH₂NH₂.\n\n오답 분석:\n• [[smi:CCCC=O]] — DIBAL-H의 결과(알데하이드)\n• [[smi:CCCC=N]] — 이민 중간체 — LiAlH₄는 H⁻를 두 번 준다\n• [[smi:CCCC(N)=O]] — 가수분해와 혼동"
+    },
+    {
+      "id": 16,
+      "question": "[Ch22 · 나이트릴 DIBAL-H 환원] 다음 반응의 주생성물은?\n[[rxn:N#Cc1ccccc1>>?|1) DIBAL-H|2) H₂O]]",
+      "choices": [
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:NCc1ccccc1]]",
+        "[[smi:N=Cc1ccccc1]]",
+        "[[smi:NC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=Cc1ccccc1]]",
+      "explanation": "정답: [[smi:O=Cc1ccccc1]]\nPPT 84·86쪽: H⁻ 1당량 → 음이온 → H₂O로 이민 → 이민 가수분해 → 알데하이드.\n\n오답 분석:\n• [[smi:NCc1ccccc1]] — LiAlH₄의 결과\n• [[smi:N=Cc1ccccc1]] — 이민 단계에서 멈춤 — 물에서 가수분해되어 알데하이드\n• [[smi:NC(=O)c1ccccc1]] — 가수분해(아마이드)와 혼동"
+    },
+    {
+      "id": 17,
+      "question": "[Ch22 · 나이트릴 + 그리냐르] 다음 반응의 주생성물은?\n[[rxn:N#Cc1ccccc1>>?|1) CH₃CH₂MgBr|2) H₂O]]",
+      "choices": [
+        "[[smi:CCC(=O)c1ccccc1]]",
+        "[[smi:CCC(=N)c1ccccc1]]",
+        "[[smi:CCC(N)c1ccccc1]]",
+        "[[smi:CCC(O)(CC)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CCC(=O)c1ccccc1]]\nPPT 87~88쪽: RMgX·RLi가 C≡N 탄소에 첨가 → 음이온 → H₂O → 이민 → 가수분해 → 새 C–C 결합을 가진 케톤.\n\n오답 분석:\n• [[smi:CCC(=N)c1ccccc1]] — 이민 단계에서 멈춤 — 물이 C=N을 C=O로 가수분해\n• [[smi:CCC(N)c1ccccc1]] — 아민 — 환원 반응이 아니다\n• [[smi:CCC(O)(CC)c1ccccc1]] — 두 번 첨가된 3차 알코올(에스터일 때) — 나이트릴은 음이온 중간체가 더 반응하지 않아 한 번만"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "deckId": "orgchem-final-ch22-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch22 ① 생성물 고르기: 산 염화물·무수물·카복실산",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch22 · 산 염화물 + 카복실산 음이온] 다음 반응의 주생성물은?\n[[rxn:CC(=O)Cl>>?|CH₃CH₂COO⁻ Na⁺|]]",
+      "choices": [
+        "[[smi:CCC(=O)OC(C)=O]]",
+        "[[smi:CCC(=O)C(C)=O]]",
+        "[[smi:CC(=O)OC(C)=O]]",
+        "[[smi:CCC(=O)Cl]]"
+      ],
+      "answer": "[[smi:CCC(=O)OC(C)=O]]",
+      "explanation": "정답: [[smi:CCC(=O)OC(C)=O]]\nPPT 35쪽 [1]: RCOCl + R'COO⁻ → 무수물 + Cl⁻. 반응성 큰 유도체 → 작은 유도체(내리막).\n\n오답 분석:\n• [[smi:CCC(=O)C(C)=O]] — 탄소끼리 결합한 1,2-다이케톤 — 친핵체는 카복실산 음이온의 O\n• [[smi:CC(=O)OC(C)=O]] — 대칭 아세트산 무수물 — 서로 다른 두 아실기가 연결된 혼합 무수물이 생긴다\n• [[smi:CCC(=O)Cl]] — Cl이 옮겨 간 산 염화물 — Cl⁻가 이탈기"
+    },
+    {
+      "id": 2,
+      "question": "[Ch22 · 산 염화물 + 물] 다음 반응의 주생성물은?\n[[rxn:O=C(Cl)c1ccccc1>>?|H₂O|피리딘]]",
+      "choices": [
+        "[[smi:OC(=O)c1ccccc1]]",
+        "[[smi:O=C(c1ccccc1)[n+]1ccccc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:Oc1ccccc1]]"
+      ],
+      "answer": "[[smi:OC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:OC(=O)c1ccccc1]]\nPPT 34~35쪽: RCOCl + H₂O → RCOOH + HCl. 피리딘(약염기)이 HCl을 피리디늄 염으로 제거.\n\n오답 분석:\n• [[smi:O=C(c1ccccc1)[n+]1ccccc1]] — 아실피리디늄 — 피리딘은 HCl을 흡수하는 염기 역할이고 최종 생성물에 남지 않는다\n• [[smi:O=Cc1ccccc1]] — 환원과 혼동\n• [[smi:Oc1ccccc1]] — 탄소 하나가 빠진 페놀"
+    },
+    {
+      "id": 3,
+      "question": "[Ch22 · 산 염화물 + 알코올] 다음 반응의 주생성물은?\n[[rxn:CCC(=O)Cl>>?|사이클로헥산올|피리딘]]",
+      "choices": [
+        "[[smi:CCC(=O)OC1CCCCC1]]",
+        "[[smi:CCCOC1CCCCC1]]",
+        "[[smi:CCC(=O)C1CCCCC1]]",
+        "[[smi:ClC1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCC(=O)OC1CCCCC1]]",
+      "explanation": "정답: [[smi:CCC(=O)OC1CCCCC1]]\nPPT 35쪽 [3]: RCOCl + R'OH(피리딘) → 에스터 RCOOR'.\n\n오답 분석:\n• [[smi:CCCOC1CCCCC1]] — 에터 — 에스터의 C=O는 그대로 남는다\n• [[smi:CCC(=O)C1CCCCC1]] — 케톤 — 알코올의 O가 친핵체이므로 C–O 결합이 생긴다\n• [[smi:ClC1CCCCC1]] — 알코올이 염소화된 구조(SOCl₂ 반응과 혼동)"
+    },
+    {
+      "id": 4,
+      "question": "[Ch22 · 산 염화물 + 암모니아] 다음 반응의 주생성물은?\n[[rxn:CC(C)C(=O)Cl>>?|NH₃ (2당량)|]]",
+      "choices": [
+        "[[smi:CC(C)C(N)=O]]",
+        "[[smi:CC(C)CN]]",
+        "[[smi:CC(C)C#N]]",
+        "[[smi:CC(C)C(=O)O]]"
+      ],
+      "answer": "[[smi:CC(C)C(N)=O]]",
+      "explanation": "정답: [[smi:CC(C)C(N)=O]]\nPPT 36쪽: NH₃·1차·2차 아민 → 1°·2°·3° 아마이드. 2당량: 하나는 친핵체, 하나는 HCl을 받는 염기(NH₄⁺Cl⁻).\n\n오답 분석:\n• [[smi:CC(C)CN]] — 아민 — 환원 단계가 없다(C=O 유지)\n• [[smi:CC(C)C#N]] — 나이트릴 — 탈수 조건이 아니다\n• [[smi:CC(C)C(=O)O]] — 가수분해 생성물"
+    },
+    {
+      "id": 5,
+      "question": "[Ch22 · 산 염화물 + 2차 아민 (DEET)] 다음 반응의 주생성물은?\n[[rxn:Cc1cccc(C(=O)Cl)c1>>?|HN(CH₂CH₃)₂ (과량)|]]",
+      "choices": [
+        "[[smi:CCN(CC)C(=O)c1cccc(C)c1]]",
+        "[[smi:CCNC(=O)c1cccc(C)c1]]",
+        "[[smi:CCN(CC)Cc1cccc(C)c1]]",
+        "[[smi:Cc1cccc(C(=O)O)c1]]"
+      ],
+      "answer": "[[smi:CCN(CC)C(=O)c1cccc(C)c1]]",
+      "explanation": "정답: [[smi:CCN(CC)C(=O)c1cccc(C)c1]]\nPPT 37쪽: m-톨루오일 클로라이드 + 다이에틸아민 → N,N-다이에틸-m-톨루아마이드(DEET, 모기 기피제).\n\n오답 분석:\n• [[smi:CCNC(=O)c1cccc(C)c1]] — 2차 아마이드 — 2차 아민은 N에 에틸 두 개를 가진 3차 아마이드를 만든다\n• [[smi:CCN(CC)Cc1cccc(C)c1]] — 아민 — C=O가 CH₂로 환원되지 않는다\n• [[smi:Cc1cccc(C(=O)O)c1]] — 가수분해 생성물"
+    },
+    {
+      "id": 6,
+      "question": "[Ch22 · 고리형 무수물 + 알코올] 다음 반응의 주생성물은?\n[[rxn:O=C1CCC(=O)O1>>?|CH₃OH|]]",
+      "choices": [
+        "[[smi:COC(=O)CCC(=O)O]]",
+        "[[smi:COC(=O)CCC(=O)OC]]",
+        "[[smi:OC(=O)CCC(=O)O]]",
+        "[[smi:O=C1CCCO1]]"
+      ],
+      "answer": "[[smi:COC(=O)CCC(=O)O]]",
+      "explanation": "정답: [[smi:COC(=O)CCC(=O)O]]\nPPT 39~40쪽: 무수물 + R'OH → 에스터 + 카복실산. 고리형 무수물에서는 두 부분이 한 분자에 남아 '반에스터'(모노메틸 숙시네이트)가 된다.\n\n오답 분석:\n• [[smi:COC(=O)CCC(=O)OC]] — 다이에스터 — 무수물 한 분자는 아실기 하나만 전달하고 나머지는 COOH로 남는다\n• [[smi:OC(=O)CCC(=O)O]] — 가수분해 생성물(물이 친핵체일 때)\n• [[smi:O=C1CCCO1]] — 락톤 — 탄소·산소 배치가 다르다"
+    },
+    {
+      "id": 7,
+      "question": "[Ch22 · 무수물 + 아민] 다음 반응의 주생성물은?\n[[rxn:CC(=O)OC(C)=O>>?|PhCH₂NH₂ (2당량)|]]",
+      "choices": [
+        "[[smi:CC(=O)NCc1ccccc1]]",
+        "[[smi:CC(=O)N(Cc1ccccc1)C(C)=O]]",
+        "[[smi:CC(=O)OCc1ccccc1]]",
+        "[[smi:CCNCc1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)NCc1ccccc1]]",
+      "explanation": "정답: [[smi:CC(=O)NCc1ccccc1]]\nPPT 40쪽: 무수물 + NH₃·아민(2당량) → 아마이드 + RCOO⁻ ⁺H₃NR'(부산물).\n\n오답 분석:\n• [[smi:CC(=O)N(Cc1ccccc1)C(C)=O]] — 아실기 두 개가 붙은 이미드 — 한 번 아실화된 아마이드 N은 친핵성이 약하다\n• [[smi:CC(=O)OCc1ccccc1]] — 에스터 — 친핵체는 아민의 N\n• [[smi:CCNCc1ccccc1]] — 환원된 아민"
+    },
+    {
+      "id": 8,
+      "question": "[Ch22 · 아세틸화(아스피린)] 다음 반응의 주생성물은?\n[[rxn:OC(=O)c1ccccc1O>>?|(CH₃CO)₂O|]]",
+      "choices": [
+        "[[smi:CC(=O)Oc1ccccc1C(=O)O]]",
+        "[[smi:CC(=O)OC(=O)c1ccccc1O]]",
+        "[[smi:COC(=O)c1ccccc1O]]",
+        "[[smi:CC(=O)c1ccc(O)c(C(=O)O)c1]]"
+      ],
+      "answer": "[[smi:CC(=O)Oc1ccccc1C(=O)O]]",
+      "explanation": "정답: [[smi:CC(=O)Oc1ccccc1C(=O)O]]\nPPT 42쪽: 살리실산의 페놀 OH + 아세트산 무수물 → 아세틸살리실산(아스피린). 아세틸기 전달 = 아세틸화.\n\n오답 분석:\n• [[smi:CC(=O)OC(=O)c1ccccc1O]] — COOH 쪽 혼합 무수물 — 아세틸화되는 것은 페놀 OH\n• [[smi:COC(=O)c1ccccc1O]] — 메틸 살리실레이트(Fischer 에스터화 결과)와 혼동\n• [[smi:CC(=O)c1ccc(O)c(C(=O)O)c1]] — 고리 탄소에 아세틸(Friedel–Crafts)과 혼동"
+    },
+    {
+      "id": 9,
+      "question": "[Ch22 · 아세틸화(아세트아미노펜)] 다음 반응의 주생성물은?\n[[rxn:Nc1ccc(O)cc1>>?|(CH₃CO)₂O (1당량)|]]",
+      "choices": [
+        "[[smi:CC(=O)Nc1ccc(O)cc1]]",
+        "[[smi:CC(=O)Oc1ccc(N)cc1]]",
+        "[[smi:CC(=O)Nc1ccc(OC(C)=O)cc1]]",
+        "[[smi:CCNc1ccc(O)cc1]]"
+      ],
+      "answer": "[[smi:CC(=O)Nc1ccc(O)cc1]]",
+      "explanation": "정답: [[smi:CC(=O)Nc1ccc(O)cc1]]\nPPT 42쪽: p-아미노페놀 → 아세트아미노펜(타이레놀 성분).\n\n오답 분석:\n• [[smi:CC(=O)Oc1ccc(N)cc1]] — O-아세틸화 — 아민 N이 페놀 O보다 강한 친핵체라 N이 먼저 반응\n• [[smi:CC(=O)Nc1ccc(OC(C)=O)cc1]] — 둘 다 아세틸화 — 1당량이면 더 친핵성인 N만\n• [[smi:CCNc1ccc(O)cc1]] — 환원된 N-에틸 아민"
+    },
+    {
+      "id": 10,
+      "question": "[Ch22 · 아세틸화(모르핀 → 헤로인)] 다음 반응의 주생성물은?\n[[rxn:CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O>>?|(CH₃CO)₂O (과량)|]]",
+      "choices": [
+        "[[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)OC(C)=O)OC3C(C=C4)OC(C)=O]]",
+        "[[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)OC(C)=O)OC3C(C=C4)O]]",
+        "[[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)OC(C)=O]]",
+        "[[smi:CC(=O)[N+]1(C)CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O]]"
+      ],
+      "answer": "[[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)OC(C)=O)OC3C(C=C4)OC(C)=O]]",
+      "explanation": "정답: [[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)OC(C)=O)OC3C(C=C4)OC(C)=O]]\nPPT 42쪽: 모르핀의 OH 두 개(페놀·2차 알코올) 모두 아세틸화 → 헤로인(다이아세틸모르핀).\n\n오답 분석:\n• [[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)OC(C)=O)OC3C(C=C4)O]] — 페놀 OH만 아세틸화 — 과량이면 두 OH 모두\n• [[smi:CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)OC(C)=O]] — 알코올 OH만 아세틸화\n• [[smi:CC(=O)[N+]1(C)CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O]] — 3차 아민 N에 아세틸 — 3차 아민은 N–H가 없어 아마이드를 만들 수 없다"
+    },
+    {
+      "id": 11,
+      "question": "[Ch22 · 카복실산 → 산 염화물] 다음 반응의 주생성물은?\n[[rxn:OC(=O)Cc1ccccc1>>?|SOCl₂|]]",
+      "choices": [
+        "[[smi:O=C(Cl)Cc1ccccc1]]",
+        "[[smi:ClCc1ccccc1]]",
+        "[[smi:O=C(Cc1ccccc1)OS(Cl)=O]]",
+        "[[smi:O=C(Cc1ccccc1)OC(=O)Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C(Cl)Cc1ccccc1]]",
+      "explanation": "정답: [[smi:O=C(Cl)Cc1ccccc1]]\nPPT 45~46쪽: SOCl₂가 OH를 좋은 이탈기로 바꾸고 친핵체 Cl⁻도 공급 → RCOCl + SO₂ + HCl.\n\n오답 분석:\n• [[smi:ClCc1ccccc1]] — 탄소가 빠진 벤질 클로라이드 — COOH의 OH만 Cl로 바뀐다\n• [[smi:O=C(Cc1ccccc1)OS(Cl)=O]] — 중간체(OH가 좋은 이탈기로 바뀐 상태)에서 멈춤 — Cl⁻가 공격해 SO₂ + Cl⁻가 빠진다\n• [[smi:O=C(Cc1ccccc1)OC(=O)Cc1ccccc1]] — 무수물 — SOCl₂는 Cl⁻를 공급한다"
+    },
+    {
+      "id": 12,
+      "question": "[Ch22 · 다이카복실산 탈수] 다음 반응의 주생성물은?\n[[rxn:OC(=O)CCCC(=O)O>>?|가열(Δ)|]]",
+      "choices": [
+        "[[smi:O=C1CCCC(=O)O1]]",
+        "[[smi:O=C1CCCCO1]]",
+        "[[smi:O=C1CCCC1]]",
+        "[[smi:O=C1CCC(=O)O1]]"
+      ],
+      "answer": "[[smi:O=C1CCCC(=O)O1]]",
+      "explanation": "정답: [[smi:O=C1CCCC(=O)O1]]\nPPT 47쪽: 보통 카복실산은 무수물로 직접 바꾸기 어렵지만, 다이카복실산은 가열로 5·6원 고리 무수물이 된다(탈수).\n\n오답 분석:\n• [[smi:O=C1CCCCO1]] — δ-발레로락톤 — C=O 하나가 사라진 구조(산화 상태 착오)\n• [[smi:O=C1CCCC1]] — 사이클로펜탄온 — CO₂가 빠지는 반응이 아니다\n• [[smi:O=C1CCC(=O)O1]] — 숙신산 무수물 — 고리 크기 착오(글루타르산은 6원 고리 무수물)"
+    },
+    {
+      "id": 13,
+      "question": "[Ch22 · Fischer 에스터화(동위원소)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)O>>?|CH₃¹⁸OH|H₂SO₄]]",
+      "choices": [
+        "[[smi:CC(=O)[18O]C]]",
+        "[[smi:COC(C)=[18O]]]",
+        "[[smi:CC(=O)OC]]",
+        "[[smi:[18OH]C(C)=O]]"
+      ],
+      "answer": "[[smi:CC(=O)[18O]C]]",
+      "explanation": "정답: [[smi:CC(=O)[18O]C]]\nPPT 48~49쪽: 산 촉매로 C=O 양성자화 → 알코올이 카보닐 탄소 공격 → OH가 물로 이탈. 평형이므로 알코올 과량·물 제거로 생성물 쪽으로.\n\n오답 분석:\n• [[smi:COC(C)=[18O]]] — ¹⁸O가 C=O 자리로 감 — 알코올 산소는 에스터의 O–R 자리로 들어간다\n• [[smi:CC(=O)OC]] — 표지가 사라짐 — 빠지는 물의 산소는 카복실산 OH에서 온다\n• [[smi:[18OH]C(C)=O]] — 카복실산이 표지된 채 남음 — 에스터가 생긴다"
+    },
+    {
+      "id": 14,
+      "question": "[Ch22 · Fischer 에스터화와 염기] 다음 반응의 결과로 옳은 것은?\n[[rxn:CC(=O)O>>?|CH₃OH|NaOH]]",
+      "choices": [
+        "에스터가 생기지 않는다(카복실산 음이온이 됨)",
+        "[[smi:CC(=O)OC]] (아세트산 메틸)",
+        "[[smi:COC]] (다이메틸 에터)",
+        "[[smi:CC(=O)OC(C)=O]] (아세트산 무수물)"
+      ],
+      "answer": "에스터가 생기지 않는다(카복실산 음이온이 됨)",
+      "explanation": "정답: 에스터가 생기지 않는다(카복실산 음이온이 됨)\nPPT 50쪽: 에스터화는 산 촉매에서만 된다. 염기는 카복실산 음이온 RCOO⁻를 만들고, 음전하를 띤 탄소에는 전자가 풍부한 친핵체가 공격하지 않는다.\n\n오답 분석:\n• [[smi:CC(=O)OC]] (아세트산 메틸) — 산 촉매일 때의 결과 — 염기는 COOH의 H⁺를 떼어 음이온을 만든다\n• [[smi:COC]] (다이메틸 에터) — 알코올끼리 반응한다고 착각\n• [[smi:CC(=O)OC(C)=O]] (아세트산 무수물) — 탈수 반응과 혼동"
+    },
+    {
+      "id": 15,
+      "question": "[Ch22 · 분자 내 Fischer 에스터화] 다음 반응의 주생성물은?\n[[rxn:OCCCC(=O)O>>?|H₂SO₄|]]",
+      "choices": [
+        "[[smi:O=C1CCCO1]]",
+        "[[smi:C1CCOC1]]",
+        "[[smi:O=C1CCCOC(=O)CCCO1]]",
+        "[[smi:C=CCC(=O)O]]"
+      ],
+      "answer": "[[smi:O=C1CCCO1]]",
+      "explanation": "정답: [[smi:O=C1CCCO1]]\nPPT 51쪽: γ-·δ-하이드록시 카복실산 → 분자 내 에스터화 → 5·6원 고리 락톤(γ-뷰티로락톤).\n\n오답 분석:\n• [[smi:C1CCOC1]] — 고리형 에터 — C=O가 남는 락톤이 된다\n• [[smi:O=C1CCCOC(=O)CCCO1]] — 두 분자가 이어진 고리 — 5원 고리가 가능하면 분자 내 반응이 훨씬 빠르다\n• [[smi:C=CCC(=O)O]] — 탈수(알켄)와 혼동"
+    },
+    {
+      "id": 16,
+      "question": "[Ch22 · 카복실산 → 아마이드(가열)] 다음 반응의 주생성물은?\n[[rxn:OC(=O)c1ccccc1>>?|1) NH₃|2) 가열 (>100 °C)]]",
+      "choices": [
+        "[[smi:NC(=O)c1ccccc1]]",
+        "[[smi:[NH4+].[O-]C(=O)c1ccccc1]]",
+        "[[smi:N#Cc1ccccc1]]",
+        "[[smi:Nc1ccccc1]]"
+      ],
+      "answer": "[[smi:NC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:NC(=O)c1ccccc1]]\nPPT 52~53쪽: RCOOH + NH₃ → 먼저 암모늄 카복실레이트(산–염기) → 100 °C 이상 가열로 탈수 → 아마이드(수율 낮을 수 있음).\n\n오답 분석:\n• [[smi:[NH4+].[O-]C(=O)c1ccccc1]] — 1단계 산–염기 반응의 암모늄염에서 멈춤 — 가열로 물이 빠진다\n• [[smi:N#Cc1ccccc1]] — 물이 하나 더 빠진 나이트릴\n• [[smi:Nc1ccccc1]] — 탄소가 빠진 아닐린"
+    },
+    {
+      "id": 17,
+      "question": "[Ch22 · DCC 아마이드 형성] 다음 반응의 주생성물은?\n[[rxn:CCC(=O)O>>?|CH₃NH₂|DCC]]",
+      "choices": [
+        "[[smi:CCC(=O)NC]]",
+        "[[smi:C[NH3+].CCC(=O)[O-]]]",
+        "[[smi:CCC(=O)OC]]",
+        "[[smi:CCC(=O)N(C1CCCCC1)C(=O)NC1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCC(=O)NC]]",
+      "explanation": "정답: [[smi:CCC(=O)NC]]\nPPT 54~56쪽: DCC(탈수제)가 COOH의 OH를 좋은 이탈기로 바꿈 → 아민 공격 → 아마이드 + 다이사이클로헥실유레아(DCC + H₂O).\n\n오답 분석:\n• [[smi:C[NH3+].CCC(=O)[O-]]] — DCC 없이 섞었을 때의 산–염기 생성물\n• [[smi:CCC(=O)OC]] — 에스터 — 친핵체는 아민\n• [[smi:CCC(=O)N(C1CCCCC1)C(=O)NC1CCCCC1]] — 아실기가 DCC 쪽에 붙은 채 남은 부산물 — 아민이 활성 중간체를 공격해 아마이드 + 다이사이클로헥실유레아"
+    }
+  ]
+}
