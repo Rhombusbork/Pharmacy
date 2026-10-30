@@ -1,6 +1,7 @@
 // 문제 문장·선지·해설 안의 구조식 표시를 그림으로 바꿔 그린다.
 //   [[smi:SMILES]]                         → 분자 구조식
 //   [[rxn:반응물>>생성물|화살표 위|화살표 아래]] → 반응식 (위·아래 글자는 생략 가능)
+//   [[rxn:반응물>>?|화살표 위|화살표 아래]]     → 생성물 자리에 "?"를 그린 반응식(생성물 고르기 문제용)
 //   [[img:경로|설명]]                        → 그림 파일 (경로는 decks/ 기준, 설명은 생략 가능)
 // 그림은 외부 라이브러리 SmilesDrawer(js/vendor/smiles-drawer.min.js, MIT)가 그리며,
 // index.html에서 일반 <script>로 먼저 읽어 window.SmilesDrawer로 쓸 수 있다.
@@ -19,6 +20,14 @@ export function findStructures(text) {
 function splitReaction(value) {
   const [smiles, above, below] = value.split("|");
   return { smiles: smiles.trim(), above: above ?? "{reagents}", below: below ?? "" };
+}
+
+// 생성물 자리가 "?"인 반응식인지 확인하고, 맞으면 반응물 SMILES 목록을 돌려준다(아니면 null).
+// 예: "CC(=O)C>>?" → ["CC(=O)C"], "CCO.CC(=O)O>>?" → ["CCO", "CC(=O)O"]
+function questionReactants(smiles) {
+  const parts = smiles.split(">");
+  if (parts.length !== 3 || parts[2].trim() !== "?") return null;
+  return parts[0].split(".").map((s) => s.trim()).filter(Boolean);
 }
 
 // 그림 표시 "경로|설명"을 나눈다.
@@ -51,7 +60,13 @@ export function checkStructure(kind, value) {
     } else {
       const { smiles } = splitReaction(value);
       if (!smiles.includes(">")) return "반응식에 > 기호가 없음";
-      lib.ReactionParser.parse(smiles);
+      const reactants = questionReactants(smiles);
+      if (reactants) {
+        if (reactants.length === 0) return "반응물이 없음";
+        reactants.forEach((r) => lib.Parser.parse(r));
+      } else {
+        lib.ReactionParser.parse(smiles);
+      }
     }
     return null;
   } catch {
@@ -80,6 +95,11 @@ export function renderRichText(el, text) {
 // 앱이 멈추지 않도록, 실패하면 원래 글자를 대신 보여준다.
 function createStructure(kind, value) {
   if (kind === "img") return createImage(value);
+  if (kind === "rxn" && window.SmilesDrawer && !checkStructure(kind, value)) {
+    const { smiles, above, below } = splitReaction(value);
+    const reactants = questionReactants(smiles);
+    if (reactants) return createQuestionReaction(reactants, above, below);
+  }
   const wrap = document.createElement("span");
   wrap.className = kind === "rxn" ? "structure reaction" : "structure";
   wrap.title = value;
@@ -119,6 +139,76 @@ function createStructure(kind, value) {
     showFallback(wrap, value);
   }
   return wrap;
+}
+
+// 분자 하나를 새 SVG에 그려 돌려준다.
+function drawMolecule(smiles) {
+  const lib = window.SmilesDrawer;
+  const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  const drawer = new lib.SvgDrawer({ width: 240, height: 180, ...DRAW_OPTIONS });
+  drawer.draw(lib.Parser.parse(smiles), svg, "light");
+  svg.setAttribute("width", "240");
+  svg.setAttribute("height", "180");
+  return svg;
+}
+
+// 생성물 자리가 "?"인 반응식: 반응물 구조식(+로 연결) → 화살표(위·아래 글자) → "?"
+// SmilesDrawer의 반응식 그리기는 생성물이 꼭 있어야 하므로, 이 경우만 직접 조립한다.
+function createQuestionReaction(reactants, above, below) {
+  const wrap = document.createElement("span");
+  wrap.className = "structure reaction reaction-question";
+  wrap.title = reactants.join(" + ") + " → ?";
+  reactants.forEach((smiles, i) => {
+    if (i > 0) {
+      const plus = document.createElement("span");
+      plus.className = "reaction-sign";
+      plus.textContent = "+";
+      wrap.appendChild(plus);
+    }
+    try {
+      wrap.appendChild(drawMolecule(smiles));
+    } catch (err) {
+      console.warn("구조식 그리기 실패:", smiles, err);
+      const span = document.createElement("span");
+      showFallback(span, smiles);
+      wrap.appendChild(span);
+    }
+  });
+  wrap.appendChild(createArrow(above === "{reagents}" ? "" : above, below));
+  const q = document.createElement("span");
+  q.className = "reaction-sign reaction-unknown";
+  q.textContent = "?";
+  wrap.appendChild(q);
+  return wrap;
+}
+
+// 위·아래에 글자가 있는 반응 화살표 SVG. 폭은 글자 길이에 맞춘다.
+function createArrow(above, below) {
+  const NS = "http://www.w3.org/2000/svg";
+  const width = Math.max(90, 9 * Math.max(above.length, below.length) + 30);
+  const svg = document.createElementNS(NS, "svg");
+  svg.setAttribute("width", width);
+  svg.setAttribute("height", "70");
+  svg.setAttribute("viewBox", `0 0 ${width} 70`);
+  svg.setAttribute("class", "reaction-arrow");
+  const line = document.createElementNS(NS, "path");
+  line.setAttribute("d", `M5 35 H${width - 8} M${width - 16} 29 L${width - 5} 35 L${width - 16} 41`);
+  line.setAttribute("stroke", "#222");
+  line.setAttribute("stroke-width", "1.6");
+  line.setAttribute("fill", "none");
+  svg.appendChild(line);
+  [[above, 26], [below, 56]].forEach(([label, y]) => {
+    if (!label) return;
+    const t = document.createElementNS(NS, "text");
+    t.setAttribute("x", width / 2);
+    t.setAttribute("y", y);
+    t.setAttribute("text-anchor", "middle");
+    t.setAttribute("font-size", "13");
+    t.setAttribute("fill", "#222");
+    t.textContent = label;
+    svg.appendChild(t);
+  });
+  return svg;
 }
 
 // 그림 파일 하나를 만든다. 경로가 잘못됐거나 파일을 못 읽으면 [그림 없음: 경로]를 보여준다.
