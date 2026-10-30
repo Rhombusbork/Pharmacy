@@ -1,0 +1,235 @@
+{
+  "deckId": "orgchem-final-ch25-prod-2",
+  "subject": "유기약화학",
+  "title": "Ch25 ② 생성물 고르기: 아마이드화·Hofmann·다이아조늄",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch25 · 아민 아실화(아세트아닐라이드)] 다음 반응의 주생성물은?\n[[rxn:Nc1ccccc1>>?|CH₃COCl|피리딘]]",
+      "choices": [
+        "[[smi:CC(=O)Nc1ccccc1]]",
+        "[[smi:CC(=O)N(C(C)=O)c1ccccc1]]",
+        "[[smi:CC(=O)c1ccc(N)cc1]]",
+        "[[smi:[NH3+]c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)Nc1ccccc1]]",
+      "explanation": "정답: [[smi:CC(=O)Nc1ccccc1]]\nPPT 62쪽: NH₃·1차·2차 아민 + 산 염화물·무수물 → 1°·2°·3° 아마이드.\n\n오답 분석:\n• [[smi:CC(=O)N(C(C)=O)c1ccccc1]] — 두 번 아실화 — 아마이드 N은 친핵성이 약하다\n• [[smi:CC(=O)c1ccc(N)cc1]] — 고리 아실화(Friedel–Crafts)와 혼동\n• [[smi:[NH3+]c1ccccc1]] — 산–염기 반응만 — 아민은 산 염화물과 아마이드를 만든다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch25 · 아마이드 보호기와 Friedel–Crafts] 다음 반응의 주생성물은?\n[[rxn:Nc1ccccc1>>?|1) CH₃COCl 2) CH₃Cl, AlCl₃|3) H₃O⁺]]",
+      "choices": [
+        "[[smi:Cc1ccc(N)cc1]]",
+        "[[smi:Cc1cccc(N)c1]]",
+        "[[smi:CNc1ccccc1]]",
+        "[[smi:CC(=O)Nc1ccc(C)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(N)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(N)cc1]]\nPPT 63~64쪽(그림 25.10): 아닐린은 N이 AlCl₃와 착물을 만들어 FC가 안 된다 → [1] 아세트아닐라이드로 보호(N 염기성↓) [2] FC 알킬화(o,p 혼합, para 주) [3] 가수분해 → p-톨루이딘(+ ortho).\n\n오답 분석:\n• [[smi:Cc1cccc(N)c1]] — meta — 아세트아마이도기는 o,p 지향\n• [[smi:CNc1ccccc1]] — N-메틸화 — 아마이드 N은 친핵성이 약하고, 알킬화는 고리에서\n• [[smi:CC(=O)Nc1ccc(C)cc1]] — 3단계(탈보호, 아마이드 가수분해)를 빠뜨림"
+    },
+    {
+      "id": 3,
+      "question": "[Ch25 · 아닐린의 Friedel–Crafts] 다음 반응의 결과로 옳은 것은?\n[[rxn:Nc1ccccc1>>?|CH₃Cl|AlCl₃]]",
+      "choices": [
+        "고리 알킬화가 일어나지 않는다(N이 AlCl₃와 착물을 만들어 고리가 불활성화)",
+        "p-톨루이딘이 주로 생긴다",
+        "m-톨루이딘이 주로 생긴다",
+        "N-메틸아닐린이 생긴다"
+      ],
+      "answer": "고리 알킬화가 일어나지 않는다(N이 AlCl₃와 착물을 만들어 고리가 불활성화)",
+      "explanation": "정답: 고리 알킬화가 일어나지 않는다(N이 AlCl₃와 착물을 만들어 고리가 불활성화)\nPPT 63쪽: 아닐린 N의 비공유 전자쌍이 루이스 산 AlCl₃와 반응 → 불활성화된 착물 → FC 반응 불가.\n\n오답 분석:\n• p-톨루이딘이 주로 생긴다 — 보호기(아세틸) 없이는 불가 — PPT: 'Not possible in one step'\n• m-톨루이딘이 주로 생긴다 — 착물 형성으로 반응 자체가 막힌다\n• N-메틸아닐린이 생긴다 — 루이스 산 조건에서의 N-알킬화를 묻는 것이 아니다"
+    },
+    {
+      "id": 4,
+      "question": "[Ch25 · Hofmann 제거] 다음 반응의 주생성물은?\n[[rxn:CCCN>>?|1) CH₃I (과량) 2) Ag₂O|3) 가열(Δ)]]",
+      "choices": [
+        "[[smi:C=CC]]",
+        "[[smi:CCC[N+](C)(C)C]]",
+        "[[smi:CCCO]]",
+        "[[smi:CCCN(C)C]]"
+      ],
+      "answer": "[[smi:C=CC]]",
+      "explanation": "정답: [[smi:C=CC]]\nPPT 65~66쪽: [1] CH₃I 과량 → 4차 암모늄염(좋은 이탈기) [2] Ag₂O → I⁻를 ⁻OH로 교환 [3] 가열 → E2. α–β 탄소 사이에 새 π 결합, 부산물 N(CH₃)₃.\n\n오답 분석:\n• [[smi:CCC[N+](C)(C)C]] — 1단계 4차 암모늄염에서 멈춤\n• [[smi:CCCO]] — OH⁻의 SN2 치환 생성물 — 가열하면 E2\n• [[smi:CCCN(C)C]] — 메틸화가 덜 된 3차 아민 — CH₃I 과량"
+    },
+    {
+      "id": 5,
+      "question": "[Ch25 · Hofmann 제거(벤질 자리)] 다음 반응의 주생성물은?\n[[rxn:NCCc1ccccc1>>?|1) CH₃I (과량) 2) Ag₂O|3) Δ]]",
+      "choices": [
+        "[[smi:C=Cc1ccccc1]]",
+        "[[smi:OCCc1ccccc1]]",
+        "[[smi:CCc1ccccc1]]",
+        "[[smi:CN(C)CCc1ccccc1]]"
+      ],
+      "answer": "[[smi:C=Cc1ccccc1]]",
+      "explanation": "정답: [[smi:C=Cc1ccccc1]]\nPPT 67쪽: 2-페닐에틸아민 → 스타이렌.\n\n오답 분석:\n• [[smi:OCCc1ccccc1]] — 치환과 혼동\n• [[smi:CCc1ccccc1]] — 환원과 혼동\n• [[smi:CN(C)CCc1ccccc1]] — 메틸화가 덜 된 구조"
+    },
+    {
+      "id": 6,
+      "question": "[Ch25 · Hofmann 제거의 위치선택성] 다음 반응의 주생성물은?\n[[rxn:CCC(C)N>>?|1) CH₃I (과량) 2) Ag₂O|3) Δ]]",
+      "choices": [
+        "[[smi:C=CCC]]",
+        "[[smi:C/C=C/C]]",
+        "[[smi:CCC(C)O]]",
+        "[[smi:CCC(C)[N+](C)(C)C]]"
+      ],
+      "answer": "[[smi:C=CCC]]",
+      "explanation": "정답: [[smi:C=CCC]]\nPPT 68~69쪽(그림 25.11): 이탈기 N(CH₃)₃가 커서 염기가 덜 막힌 β-H를 뗀다 → 덜 치환된 알켄(1-뷰텐). 보통 E2(할라이드)와 반대.\n\n오답 분석:\n• [[smi:C/C=C/C]] — Zaitsev 생성물(더 치환된 알켄) — Hofmann은 덜 치환된 알켄이 주생성물\n• [[smi:CCC(C)O]] — 치환과 혼동\n• [[smi:CCC(C)[N+](C)(C)C]] — 4차 암모늄염에서 멈춤"
+    },
+    {
+      "id": 7,
+      "question": "[Ch25 · Hofmann 제거(고리)] 다음 반응의 주생성물은?\n[[rxn:CC1CCCCC1N>>?|1) CH₃I (과량) 2) Ag₂O|3) Δ]]",
+      "choices": [
+        "[[smi:CC1CCCC=C1]]",
+        "[[smi:CC1=CCCCC1]]",
+        "[[smi:C1=CCCCC1]]",
+        "[[smi:CC1CCCCC1O]]"
+      ],
+      "answer": "[[smi:CC1CCCC=C1]]",
+      "explanation": "정답: [[smi:CC1CCCC=C1]]\n메틸 달린 쪽 β-H(3차)보다 반대쪽 CH₂의 β-H가 덜 막혀 있어 3-메틸사이클로헥센이 주생성물. (2025 족보 18번 '나'와 같은 원리)\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 더 치환된 1-메틸사이클로헥센(Zaitsev)\n• [[smi:C1=CCCCC1]] — 메틸이 빠진 사이클로헥센\n• [[smi:CC1CCCCC1O]] — 치환 생성물"
+    },
+    {
+      "id": 8,
+      "question": "[Ch25 · 1차 알킬아민 + 아질산] 다음 반응의 결과로 옳은 것은?\n[[rxn:CCCCN>>?|NaNO₂|HCl]]",
+      "choices": [
+        "알킬 다이아조늄이 바로 N₂를 잃고 카보양이온 → 치환·제거 생성물의 혼합물",
+        "안정한 알킬 다이아조늄염을 얻는다",
+        "N-나이트로소아민이 최종 생성물로 남는다",
+        "반응하지 않는다"
+      ],
+      "answer": "알킬 다이아조늄이 바로 N₂를 잃고 카보양이온 → 치환·제거 생성물의 혼합물",
+      "explanation": "정답: 알킬 다이아조늄이 바로 N₂를 잃고 카보양이온 → 치환·제거 생성물의 혼합물\nPPT 70~73쪽: HNO₂(NaNO₂ + 강산) → ⁺NO → 1차 아민과 다이아조화. 알킬 다이아조늄은 N₂(아주 좋은 이탈기)를 잃고 카보양이온 → 복잡한 혼합물이라 쓸모가 적다.\n\n오답 분석:\n• 안정한 알킬 다이아조늄염을 얻는다 — 알킬 다이아조늄은 실온 아래에서도 분해된다(아릴 다이아조늄만 0 °C에서 안정)\n• N-나이트로소아민이 최종 생성물로 남는다 — N-나이트로소아민은 2차 아민의 생성물\n• 반응하지 않는다 — 1차 아민은 ⁺NO를 공격해 다이아조늄이 된다"
+    },
+    {
+      "id": 9,
+      "question": "[Ch25 · 2차 아민 + 아질산] 다음 반응의 주생성물은?\n[[rxn:CNC>>?|NaNO₂|HCl]]",
+      "choices": [
+        "[[smi:CN(C)N=O]]",
+        "[[smi:CN(C)[N+](=O)[O-]]]",
+        "[[smi:C[N+](C)=N]]",
+        "[[smi:C=NC]]"
+      ],
+      "answer": "[[smi:CN(C)N=O]]",
+      "explanation": "정답: [[smi:CN(C)N=O]]\nPPT 74쪽: 2차 알킬아민(·아릴아민) + HNO₂ → N-나이트로소아민(N-나이트로소다이메틸아민, 발암물질).\n\n오답 분석:\n• [[smi:CN(C)[N+](=O)[O-]]] — 나이트로화(N–NO₂)와 혼동 — ⁺NO가 들어간다\n• [[smi:C[N+](C)=N]] — 다이아조늄형 구조 — 2차 아민은 N에 H가 하나뿐이라 N-나이트로소아민에서 멈춘다\n• [[smi:C=NC]] — 이민과 혼동"
+    },
+    {
+      "id": 10,
+      "question": "[Ch25 · 다이아조화] 다음 반응의 주생성물은?\n[[rxn:Nc1ccccc1>>?|NaNO₂, HCl|0 °C]]",
+      "choices": [
+        "[[smi:[N+](#N)c1ccccc1]]",
+        "[[smi:O=NNc1ccccc1]]",
+        "[[smi:O=[N+]([O-])c1ccccc1]]",
+        "[[smi:Oc1ccccc1]]"
+      ],
+      "answer": "[[smi:[N+](#N)c1ccccc1]]",
+      "explanation": "정답: [[smi:[N+](#N)c1ccccc1]]\nPPT 71~72쪽: 1차 아릴아민 + HNO₂ → 아릴 다이아조늄염(ArN₂⁺Cl⁻), 0 °C에서 안정.\n\n오답 분석:\n• [[smi:O=NNc1ccccc1]] — N-나이트로소 중간체에서 멈춤 — 1차 아민은 양성자 이동·물 이탈을 거쳐 다이아조늄\n• [[smi:O=[N+]([O-])c1ccccc1]] — 나이트로벤젠 — 산화가 아니다\n• [[smi:Oc1ccccc1]] — 가열해 물과 반응했을 때(페놀)"
+    },
+    {
+      "id": 11,
+      "question": "[Ch25 · 다이아조늄 + 물] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|H₂O|가열]]",
+      "choices": [
+        "[[smi:Cc1ccc(O)cc1]]",
+        "[[smi:Cc1ccccc1]]",
+        "[[smi:Cc1ccc(N)cc1]]",
+        "[[smi:Cc1ccc(Cl)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(O)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(O)cc1]]\nPPT 75쪽: ArN₂⁺ + H₂O(가열) → ArOH(페놀) + N₂.\n\n오답 분석:\n• [[smi:Cc1ccccc1]] — H₃PO₂를 썼을 때(H로 치환)\n• [[smi:Cc1ccc(N)cc1]] — 다이아조화의 역반응 — 일어나지 않는다\n• [[smi:Cc1ccc(Cl)cc1]] — CuCl(Sandmeyer)을 썼을 때"
+    },
+    {
+      "id": 12,
+      "question": "[Ch25 · Sandmeyer 반응(CuBr)] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|CuBr|]]",
+      "choices": [
+        "[[smi:Cc1ccc(Br)cc1]]",
+        "[[smi:Cc1cccc(Br)c1]]",
+        "[[smi:BrCc1ccccc1]]",
+        "[[smi:Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(Br)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(Br)cc1]]\nPPT 76쪽: ArN₂⁺ + CuCl/CuBr → ArCl/ArBr(Sandmeyer). 직접 할로젠화의 대안 — 다이아조늄이 있던 자리에 정확히.\n\n오답 분석:\n• [[smi:Cc1cccc(Br)c1]] — 위치 착오 — Br은 N₂가 있던 자리에 들어간다\n• [[smi:BrCc1ccccc1]] — 곁사슬(벤질) 브로민화와 혼동\n• [[smi:Cc1ccccc1]] — H₃PO₂를 썼을 때"
+    },
+    {
+      "id": 13,
+      "question": "[Ch25 · 다이아조늄 + CuCN] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|CuCN|]]",
+      "choices": [
+        "[[smi:Cc1ccc(C#N)cc1]]",
+        "[[smi:Cc1ccc([N+]#[C-])cc1]]",
+        "[[smi:Cc1ccc(C(N)=O)cc1]]",
+        "[[smi:Cc1ccc(CN)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(C#N)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(C#N)cc1]]\nPPT 78쪽: ArN₂⁺ + CuCN → ArCN(벤조나이트릴). CN은 COOH·CH₂NH₂·CHO 등으로 바꿀 수 있어 다양한 벤젠 유도체로 이어진다.\n\n오답 분석:\n• [[smi:Cc1ccc([N+]#[C-])cc1]] — N 쪽으로 붙은 아이소나이트릴\n• [[smi:Cc1ccc(C(N)=O)cc1]] — 가수분해된 아마이드 — 추가 반응 없음\n• [[smi:Cc1ccc(CN)cc1]] — 환원된 벤질아민"
+    },
+    {
+      "id": 14,
+      "question": "[Ch25 · 다이아조늄 + HBF₄] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|HBF₄|가열]]",
+      "choices": [
+        "[[smi:Cc1ccc(F)cc1]]",
+        "[[smi:Cc1ccc(Cl)cc1]]",
+        "[[smi:Cc1ccc(O)cc1]]",
+        "[[smi:Cc1ccc(B(O)O)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(F)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(F)cc1]]\nPPT 77쪽: ArN₂⁺ + HBF₄ → ArF. 아릴 플루오라이드는 직접 플루오린화로 만들기 어렵다.\n\n오답 분석:\n• [[smi:Cc1ccc(Cl)cc1]] — CuCl을 썼을 때\n• [[smi:Cc1ccc(O)cc1]] — 물(가열)을 썼을 때\n• [[smi:Cc1ccc(B(O)O)cc1]] — 붕소가 붙은 구조 — BF₄⁻는 F⁻ 공급원"
+    },
+    {
+      "id": 15,
+      "question": "[Ch25 · 다이아조늄 + KI] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|KI (또는 NaI)|]]",
+      "choices": [
+        "[[smi:Cc1ccc(I)cc1]]",
+        "[[smi:Cc1ccc(O)cc1]]",
+        "[[smi:Cc1ccc(N=Nc2ccc(C)cc2)cc1]]",
+        "[[smi:ICc1ccccc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(I)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(I)cc1]]\nPPT 77쪽: ArN₂⁺ + NaI/KI → ArI(구리 촉매 불필요). 아릴 아이오다이드도 직접 아이오딘화로 만들기 어렵다.\n\n오답 분석:\n• [[smi:Cc1ccc(O)cc1]] — 물(가열)을 썼을 때\n• [[smi:Cc1ccc(N=Nc2ccc(C)cc2)cc1]] — 아조 짝지음과 혼동 — 활성화된 방향족이 없다\n• [[smi:ICc1ccccc1]] — 곁사슬 치환"
+    },
+    {
+      "id": 16,
+      "question": "[Ch25 · 다이아조늄 + H₃PO₂] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+]#N)cc1>>?|H₃PO₂|]]",
+      "choices": [
+        "[[smi:Cc1ccccc1]]",
+        "[[smi:Cc1ccc(O)cc1]]",
+        "[[smi:Cc1ccc(N)cc1]]",
+        "[[smi:c1ccccc1]]"
+      ],
+      "answer": "[[smi:Cc1ccccc1]]",
+      "explanation": "정답: [[smi:Cc1ccccc1]]\nPPT 79쪽: ArN₂⁺ + H₃PO₂ → ArH. NH₂를 '위치 지정용'으로 썼다가 지울 때 사용.\n\n오답 분석:\n• [[smi:Cc1ccc(O)cc1]] — 물(가열)을 썼을 때\n• [[smi:Cc1ccc(N)cc1]] — 아민으로 되돌아감 — 일어나지 않는다\n• [[smi:c1ccccc1]] — 메틸까지 빠진 벤젠"
+    },
+    {
+      "id": 17,
+      "question": "[Ch25 · 1,3,5-트라이브로모벤젠 합성] 다음 반응의 주생성물은?\n[[rxn:Nc1ccccc1>>?|1) Br₂, H₂O 2) NaNO₂, HCl|3) H₃PO₂]]",
+      "choices": [
+        "[[smi:Brc1cc(Br)cc(Br)c1]]",
+        "[[smi:Nc1c(Br)cc(Br)cc1Br]]",
+        "[[smi:Oc1c(Br)cc(Br)cc1Br]]",
+        "[[smi:Brc1ccc(Br)c(Br)c1]]"
+      ],
+      "answer": "[[smi:Brc1cc(Br)cc(Br)c1]]",
+      "explanation": "정답: [[smi:Brc1cc(Br)cc(Br)c1]]\nPPT 80~82쪽(그림 25.12): Br은 o,p 지향이라 벤젠에서 서로 meta인 Br 3개를 넣을 수 없다 → 강한 o,p 지향기 NH₂로 2,4,6-자리에 Br 3개 → 다이아조화 → H₃PO₂로 NH₂ 제거.\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — NH₂를 제거하는 단계(2·3단계) 전\n• [[smi:Oc1c(Br)cc(Br)cc1Br]] — 3단계에서 물(가열)을 썼을 때\n• [[smi:Brc1ccc(Br)c(Br)c1]] — o,p 지향기로 벤젠을 직접 브로민화했을 때 생길 배치"
+    },
+    {
+      "id": 18,
+      "question": "[Ch25 · 4단계 다이아조 경로] 다음 반응의 주생성물은?\n[[rxn:c1ccccc1>>?|1) HNO₃, H₂SO₄ 2) H₂, Pd-C|3) NaNO₂, HCl 4) CuCN]]",
+      "choices": [
+        "[[smi:N#Cc1ccccc1]]",
+        "[[smi:Nc1ccccc1]]",
+        "[[smi:NCc1ccccc1]]",
+        "[[smi:Oc1ccccc1]]"
+      ],
+      "answer": "[[smi:N#Cc1ccccc1]]",
+      "explanation": "정답: [[smi:N#Cc1ccccc1]]\nPPT 83쪽: 나이트로화 → 환원 → 다이아조화 → 치환. 많은 치환 벤젠 합성에 쓰는 기본 경로(족보 m-클로로페놀 합성도 이 틀).\n\n오답 분석:\n• [[smi:Nc1ccccc1]] — 2단계(환원)에서 멈춘 아닐린\n• [[smi:NCc1ccccc1]] — 벤질아민 — CN이 환원되는 단계는 없다\n• [[smi:Oc1ccccc1]] — 4단계에서 물을 썼을 때"
+    },
+    {
+      "id": 19,
+      "question": "[Ch25 · 아조 짝지음] 다음 반응의 주생성물은?\n[[rxn:[N+](#N)c1ccccc1>>?|페놀|NaOH]]",
+      "choices": [
+        "[[smi:Oc1ccc(N=Nc2ccccc2)cc1]]",
+        "[[smi:Oc1ccccc1N=Nc1ccccc1]]",
+        "[[smi:c1ccc(Oc2ccccc2)cc1]]",
+        "[[smi:Oc1ccc(-c2ccccc2)cc1]]"
+      ],
+      "answer": "[[smi:Oc1ccc(N=Nc2ccccc2)cc1]]",
+      "explanation": "정답: [[smi:Oc1ccc(N=Nc2ccccc2)cc1]]\nPPT 84~86쪽: 다이아조늄은 약한 친전자체 → NH₂, NHR, NR₂, OH 같은 강한 전자 주개가 있는 고리와만 반응, 주로 para → 색을 띠는 아조 화합물(염료).\n\n오답 분석:\n• [[smi:Oc1ccccc1N=Nc1ccccc1]] — ortho — para 자리가 비어 있으면 para가 주\n• [[smi:c1ccc(Oc2ccccc2)cc1]] — 산소 쪽 결합(다이페닐 에터) — N=N이 남는다\n• [[smi:Oc1ccc(-c2ccccc2)cc1]] — N₂가 빠진 바이페닐 — 아조 짝지음은 N₂를 잃지 않는다"
+    }
+  ]
+}

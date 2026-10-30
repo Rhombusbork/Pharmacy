@@ -1,0 +1,139 @@
+{
+  "deckId": "orgchem-final-ch25-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch25 ① 생성물 고르기: 아민 만들기",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch25 · 할로알케인 + 암모니아(과량)] 다음 반응의 주생성물은?\n[[rxn:CCCBr>>?|NH₃ (과량)|]]",
+      "choices": [
+        "[[smi:CCCN]]",
+        "[[smi:CCCNCCC]]",
+        "[[smi:CCCO]]",
+        "[[smi:C=CC]]"
+      ],
+      "answer": "[[smi:CCCN]]",
+      "explanation": "정답: [[smi:CCCN]]\nPPT 25~26쪽: R–X + NH₃(SN2) → 1차 아민. 과알킬화를 막으려고 NH₃를 크게 과량 쓴다.\n\n오답 분석:\n• [[smi:CCCNCCC]] — 2차 아민 — NH₃를 과량 쓰면 생긴 1차 아민이 다시 알킬화될 기회가 줄어든다\n• [[smi:CCCO]] — 가수분해(알코올)와 혼동\n• [[smi:C=CC]] — E2 — 1차 할라이드 + NH₃는 SN2"
+    },
+    {
+      "id": 2,
+      "question": "[Ch25 · 직접 알킬화의 한계] 다음 반응의 결과로 옳은 것은?\n[[rxn:CCCBr>>?|NH₃ (1당량)|]]",
+      "choices": [
+        "1차·2차·3차 아민과 4차 암모늄염의 혼합물",
+        "1차 아민(프로필아민)만",
+        "4차 암모늄염만",
+        "반응하지 않는다"
+      ],
+      "answer": "1차·2차·3차 아민과 4차 암모늄염의 혼합물",
+      "explanation": "정답: 1차·2차·3차 아민과 4차 암모늄염의 혼합물\nPPT 26쪽: 과알킬화 → 혼합물. 그래서 1차 아민은 NH₃ 과량, Gabriel, 환원 방법으로 만든다.\n\n오답 분석:\n• 1차 아민(프로필아민)만 — 생긴 아민도 비공유 전자쌍이 있는 친핵체라 계속 알킬화된다\n• 4차 암모늄염만 — 알킬 할라이드가 충분하지 않으면 여러 단계가 섞인다\n• 반응하지 않는다 — NH₃는 1차 할라이드와 SN2를 한다"
+    },
+    {
+      "id": 3,
+      "question": "[Ch25 · 4차 암모늄염 만들기] 다음 반응의 주생성물은?\n[[rxn:CN(C)C1CCCCC1>>?|CH₃Br|]]",
+      "choices": [
+        "[[smi:C[N+](C)(C)C1CCCCC1]]",
+        "[[smi:CN(C)C1CCCCC1C]]",
+        "[[smi:CNC1CCCCC1]]",
+        "[[smi:CN(C)C1=CCCCC1]]"
+      ],
+      "answer": "[[smi:C[N+](C)(C)C1CCCCC1]]",
+      "explanation": "정답: [[smi:C[N+](C)(C)C1CCCCC1]]\nPPT 25~26쪽 [4]: 3차 아민 + R–X → 4차 암모늄염(Br⁻). 알킬 할라이드를 1당량 이상 쓰면 4차 암모늄염 제조에 유용.\n\n오답 분석:\n• [[smi:CN(C)C1CCCCC1C]] — 고리 탄소 알킬화 — 친핵체는 N의 비공유 전자쌍\n• [[smi:CNC1CCCCC1]] — 메틸이 떨어진 2차 아민\n• [[smi:CN(C)C1=CCCCC1]] — 제거 반응과 혼동"
+    },
+    {
+      "id": 4,
+      "question": "[Ch25 · Gabriel 합성] 다음 반응의 주생성물은?\n[[rxn:CCBr>>?|1) 프탈이미드 음이온(SN2)|2) ⁻OH, H₂O]]",
+      "choices": [
+        "[[smi:CCN]]",
+        "[[smi:CCNCC]]",
+        "[[smi:CCN1C(=O)c2ccccc2C1=O]]",
+        "[[smi:CCNC(=O)c1ccccc1C(=O)O]]"
+      ],
+      "answer": "[[smi:CCN]]",
+      "explanation": "정답: [[smi:CCN]]\nPPT 27~29쪽: 프탈이미드 N–H는 두 C=O 사이라 산성 → 음이온이 SN2 → 알킬 이미드 → 염기 가수분해 → 1차 아민 + 프탈산 이음이온. 전체적으로 Br이 NH₂로 치환.\n\n오답 분석:\n• [[smi:CCNCC]] — 2차 아민 — Gabriel은 한 번만 알킬화된다\n• [[smi:CCN1C(=O)c2ccccc2C1=O]] — 2단계(가수분해)를 빠뜨린 N-에틸프탈이미드\n• [[smi:CCNC(=O)c1ccccc1C(=O)O]] — 부분 가수분해 중간체"
+    },
+    {
+      "id": 5,
+      "question": "[Ch25 · 나이트로 환원] 다음 반응의 주생성물은?\n[[rxn:Cc1ccc([N+](=O)[O-])cc1>>?|H₂, Pd-C|(또는 Fe, HCl / Sn, HCl)]]",
+      "choices": [
+        "[[smi:Cc1ccc(N)cc1]]",
+        "[[smi:Cc1ccc(NO)cc1]]",
+        "[[smi:CC1CCC(N)CC1]]",
+        "[[smi:Cc1ccc(N=Nc2ccc(C)cc2)cc1]]"
+      ],
+      "answer": "[[smi:Cc1ccc(N)cc1]]",
+      "explanation": "정답: [[smi:Cc1ccc(N)cc1]]\nPPT 30쪽 [1]: 나이트로기 → 1차 아민(H₂/Pd-C, Fe/HCl, Sn/HCl). meta 지향 NO₂를 o,p 지향 NH₂로 바꾸는 핵심 단계.\n\n오답 분석:\n• [[smi:Cc1ccc(NO)cc1]] — 하이드록실아민 중간체에서 멈춤\n• [[smi:CC1CCC(N)CC1]] — 벤젠 고리까지 환원\n• [[smi:Cc1ccc(N=Nc2ccc(C)cc2)cc1]] — 아조 화합물 — 두 고리가 연결되지 않는다"
+    },
+    {
+      "id": 6,
+      "question": "[Ch25 · 나이트릴 경유 2단계 아민 합성] 다음 반응의 주생성물은?\n[[rxn:CCCBr>>?|1) NaCN 2) LiAlH₄|3) H₂O]]",
+      "choices": [
+        "[[smi:CCCCN]]",
+        "[[smi:CCCN]]",
+        "[[smi:CCCC=O]]",
+        "[[smi:CCCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCCCN]]",
+      "explanation": "정답: [[smi:CCCCN]]\nPPT 30~31쪽: R–X → (SN2, ⁻CN) R–CN → (LiAlH₄) R–CH₂NH₂: 탄소가 하나 더 많은 1차 아민.\n\n오답 분석:\n• [[smi:CCCN]] — 탄소 수 착오 — CN 탄소가 하나 늘어난다\n• [[smi:CCCC=O]] — DIBAL-H를 썼을 때(알데하이드)\n• [[smi:CCCC(=O)O]] — 가수분해와 혼동"
+    },
+    {
+      "id": 7,
+      "question": "[Ch25 · 아마이드 환원] 다음 반응의 주생성물은?\n[[rxn:CCCC(=O)NC>>?|1) LiAlH₄|2) H₂O]]",
+      "choices": [
+        "[[smi:CCCCNC]]",
+        "[[smi:CCCCN]]",
+        "[[smi:CCCC(O)NC]]",
+        "[[smi:CCCCO]]"
+      ],
+      "answer": "[[smi:CCCCNC]]",
+      "explanation": "정답: [[smi:CCCCNC]]\nPPT 32쪽: 1°·2°·3° 아마이드 → (LiAlH₄) 1°·2°·3° 아민. C=O가 CH₂로.\n\n오답 분석:\n• [[smi:CCCCN]] — N–CH₃가 떨어진 1차 아민 — N에 붙은 기는 그대로\n• [[smi:CCCC(O)NC]] — 카비놀아민 중간체\n• [[smi:CCCCO]] — 에스터처럼 생각해 알코올이 됨"
+    },
+    {
+      "id": 8,
+      "question": "[Ch25 · 환원성 아민화(NH₃)] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|NH₃|NaBH₃CN]]",
+      "choices": [
+        "[[smi:NC1CCCCC1]]",
+        "[[smi:N=C1CCCCC1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:C1CCC(CC1)NC1CCCCC1]]"
+      ],
+      "answer": "[[smi:NC1CCCCC1]]",
+      "explanation": "정답: [[smi:NC1CCCCC1]]\nPPT 33~34쪽: [1] NH₃가 C=O를 공격해 이민 [2] NaBH₃CN이 이민 환원 → 1차 아민.\n\n오답 분석:\n• [[smi:N=C1CCCCC1]] — 1단계 이민에서 멈춤 — NaBH₃CN이 C=N을 환원\n• [[smi:OC1CCCCC1]] — 케톤이 먼저 환원된 구조 — NaBH₃CN은 약해서 C=O보다 C=N(이미늄)을 환원\n• [[smi:C1CCC(CC1)NC1CCCCC1]] — 2차 아민 — NH₃에서는 1차 아민"
+    },
+    {
+      "id": 9,
+      "question": "[Ch25 · 환원성 아민화(메스암페타민)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)Cc1ccccc1>>?|CH₃NH₂|NaBH₃CN]]",
+      "choices": [
+        "[[smi:CNC(C)Cc1ccccc1]]",
+        "[[smi:CN=C(C)Cc1ccccc1]]",
+        "[[smi:NC(C)Cc1ccccc1]]",
+        "[[smi:CN(C)C(C)Cc1ccccc1]]"
+      ],
+      "answer": "[[smi:CNC(C)Cc1ccccc1]]",
+      "explanation": "정답: [[smi:CNC(C)Cc1ccccc1]]\nPPT 35~36쪽(그림 25.7): 1차 아민 → 2차 아민. 페닐아세톤 + 메틸아민 → 메스암페타민. C=O가 C–H와 C–N으로 바뀐다.\n\n오답 분석:\n• [[smi:CN=C(C)Cc1ccccc1]] — 이민 단계에서 멈춤\n• [[smi:NC(C)Cc1ccccc1]] — N-메틸이 없는 암페타민 — NH₃를 썼을 때\n• [[smi:CN(C)C(C)Cc1ccccc1]] — 3차 아민 — 2차 아민(다이메틸아민)을 썼을 때"
+    },
+    {
+      "id": 10,
+      "question": "[Ch25 · 환원성 아민화(2차 → 3차)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|(CH₃)₂NH|NaBH₃CN]]",
+      "choices": [
+        "[[smi:CN(C)Cc1ccccc1]]",
+        "[[smi:CNCc1ccccc1]]",
+        "[[smi:OCc1ccccc1]]",
+        "[[smi:CN(C)C(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CN(C)Cc1ccccc1]]",
+      "explanation": "정답: [[smi:CN(C)Cc1ccccc1]]\nPPT 35쪽: 2차 아민 + 알데하이드 → 이미늄 → NaBH₃CN → 3차 아민 PhCH₂N(CH₃)₂.\n\n오답 분석:\n• [[smi:CNCc1ccccc1]] — 메틸 하나가 빠진 2차 아민\n• [[smi:OCc1ccccc1]] — 알데하이드만 환원된 벤질 알코올\n• [[smi:CN(C)C(O)c1ccccc1]] — 카비놀아민 중간체"
+    },
+    {
+      "id": 11,
+      "question": "[Ch25 · 산–염기 추출] 사이클로헥실아민과 사이클로헥산올을 분리하는 다음 조작의 결과는?\n[[rxn:NC1CCCCC1.OC1CCCCC1>>?|에터 용액 + HCl 수용액|흔들어 층 분리]]",
+      "choices": [
+        "아민은 암모늄염이 되어 수층으로, 알코올은 에터층에 남는다",
+        "둘 다 에터층에 남는다",
+        "알코올이 수층으로, 아민은 에터층에 남는다",
+        "둘 다 수층으로 옮겨 간다"
+      ],
+      "answer": "아민은 암모늄염이 되어 수층으로, 알코올은 에터층에 남는다",
+      "explanation": "정답: 아민은 암모늄염이 되어 수층으로, 알코올은 에터층에 남는다\nPPT 42~43쪽(그림 25.8): 아민 + 산 수용액 → RNH₃⁺Cl⁻(수층). 이후 NaOH로 염기화하면 아민이 다시 유기층으로. 물에 안 녹는 약물을 염산염으로 파는 이유(44쪽).\n\n오답 분석:\n• 둘 다 에터층에 남는다 — 아민은 HCl과 반응해 이온성 암모늄염(물에 녹음)이 된다\n• 알코올이 수층으로, 아민은 에터층에 남는다 — 양성자를 받는 염기는 아민\n• 둘 다 수층으로 옮겨 간다 — 알코올은 HCl 수용액에 양성자화되지 않아 유기층에 남는다"
+    }
+  ]
+}
