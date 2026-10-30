@@ -1,0 +1,207 @@
+{
+  "deckId": "orgchem-final-s5-trend-2",
+  "subject": "유기약화학",
+  "title": "5단계 경향성·비교·조건 대비 ②: Ch24~27",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch24 · 교차 알돌 생성물 수] 아세트알데하이드와 프로판알을 NaOH로 섞었을 때 생길 수 있는 알돌(β-하이드록시 알데하이드) 생성물의 종류 수는? (입체이성질체 무시)",
+      "choices": [
+        "4가지",
+        "1가지",
+        "2가지",
+        "3가지",
+        "6가지"
+      ],
+      "answer": "4가지",
+      "explanation": "정답: 4가지\nCh24 PPT 15쪽: A+A, B+B, A주개+B받개, B주개+A받개 → 4가지. 그래서 교차 알돌은 α-H 없는 받개나 LDA(방향성)를 쓴다.\n\n오답 분석:\n• 1가지 — 둘 다 α-H가 있어 주개·받개가 모두 될 수 있다\n• 2가지 — 자기 알돌 2가지만 센 것\n• 3가지 — 교차 생성물 하나를 빠뜨림\n• 6가지 — 2 × 2 = 4"
+    },
+    {
+      "id": 2,
+      "question": "[Ch24 · 분자 내 알돌 경쟁] 2,7-옥테인다이온 [[smi:CC(=O)CCCCC(C)=O]]을 NaOH로 가열했을 때 주생성물은?",
+      "choices": [
+        "[[smi:CC(=O)C1=C(C)CCC1]]",
+        "[[smi:CC1=CC(=O)CCCC1]]",
+        "[[smi:CC1=CC(=O)CCC1]]",
+        "[[smi:CC(=O)C1CCCC1(C)O]]"
+      ],
+      "answer": "[[smi:CC(=O)C1=C(C)CCC1]]",
+      "explanation": "정답: [[smi:CC(=O)C1=C(C)CCC1]]\n1,6-다이카보닐: 안쪽 C3의 엔올 음이온이 C7 공격 → 5원 고리(1-아세틸-2-메틸사이클로펜텐). 무리 없는 5·6원 고리를 만드는 경로가 우세(PPT 23~26쪽).\n\n오답 분석:\n• [[smi:CC1=CC(=O)CCCC1]] — 말단 CH₃의 엔올 음이온 → 7원 고리(불리)\n• [[smi:CC1=CC(=O)CCC1]] — 탄소 수가 맞지 않는 6원 고리\n• [[smi:CC(=O)C1CCCC1(C)O]] — 탈수 전 알돌 생성물 — NaOH·가열이면 콘쥬게이션 엔온까지 탈수"
+    },
+    {
+      "id": 3,
+      "question": "[Ch24 · 조건 대비(알돌 vs Claisen)] (가) 아세트알데하이드 + ⁻OH(저온), (나) 아세트산 에틸 + NaOEt → H₃O⁺ 의 생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) [[smi:CC(O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)=O]]",
+        "(가) [[smi:CC(=O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)O]]",
+        "(가) [[smi:CC(O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)(O)OCC]]",
+        "(가) [[smi:CC=CC=O]] / (나) [[smi:CCOC(=O)CC(C)=O]]"
+      ],
+      "answer": "(가) [[smi:CC(O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)=O]]",
+      "explanation": "정답: (가) [[smi:CC(O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)=O]]\nCh24 PPT 3·28~30쪽: 알데하이드·케톤 받개 → 첨가(β-하이드록시), 에스터 받개 → 치환(β-케토).\n\n오답 분석:\n• (가) [[smi:CC(=O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)O]] — 알돌은 β-하이드록시, Claisen은 β-케토\n• (가) [[smi:CC(O)CC=O]] / (나) [[smi:CCOC(=O)CC(C)(O)OCC]] — Claisen은 ⁻OEt가 빠지는 치환\n• (가) [[smi:CC=CC=O]] / (나) [[smi:CCOC(=O)CC(C)=O]] — 저온 조건이면 탈수 전 알돌"
+    },
+    {
+      "id": 4,
+      "question": "[Ch24 · 교차 Claisen의 엔올 음이온] 사이클로헥산온과 벤조산 에틸의 교차 Claisen에서 엔올 음이온이 되는 쪽과 그 이유로 옳은 것은?",
+      "choices": [
+        "사이클로헥산온 — 케톤 α-H(pKa 약 20)가 에스터 α-H(약 25)보다 산성",
+        "벤조산 에틸 — 에스터가 더 반응성이 크다",
+        "사이클로헥산온 — 케톤의 C=O가 받개로 더 좋다",
+        "둘 다 같은 비율 — 혼합물"
+      ],
+      "answer": "사이클로헥산온 — 케톤 α-H(pKa 약 20)가 에스터 α-H(약 25)보다 산성",
+      "explanation": "정답: 사이클로헥산온 — 케톤 α-H(pKa 약 20)가 에스터 α-H(약 25)보다 산성\nCh24 PPT 32쪽.\n\n오답 분석:\n• 벤조산 에틸 — 에스터가 더 반응성이 크다 — 벤조산 에틸은 α-H가 없다\n• 사이클로헥산온 — 케톤의 C=O가 받개로 더 좋다 — 이유 착오 — 엔올 음이온은 더 산성인 쪽\n• 둘 다 같은 비율 — 혼합물 — 케톤 엔올 음이온 → 에스터 받개로 정해진다"
+    },
+    {
+      "id": 5,
+      "question": "[Ch25 · 염기도] 염기도가 큰 순서로 옳게 나열한 것은?\n가. [[smi:CCN]]\n나. NH₃\n다. [[smi:c1ccncc1]]\n라. [[smi:Nc1ccccc1]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\n짝산 pKa: 에틸아민 10.8 > NH₃ 9.3 > 피리딘 5.2 > 아닐린 4.6. 알킬 전자 주기 > 수소 > sp² N > 공명으로 전자쌍 비편재(Ch25 PPT 45~60쪽)."
+    },
+    {
+      "id": 6,
+      "question": "[Ch25 · 치환 아닐린 염기도] 염기도가 큰 순서로 옳게 나열한 것은?\n가. [[smi:COc1ccc(N)cc1]]\n나. [[smi:Cc1ccc(N)cc1]]\n다. [[smi:Nc1ccccc1]]\n라. [[smi:Nc1ccc([N+](=O)[O-])cc1]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\nCh25 PPT 50~52쪽: 전자 주는 기(OCH₃ > CH₃)는 N 전자밀도를 높이고, NO₂는 공명으로 크게 낮춘다(짝산 pKa 5.3 > 5.1 > 4.6 > 1.0)."
+    },
+    {
+      "id": 7,
+      "question": "[Ch25 · 가장 약한 염기] 다음 중 염기도가 가장 작은 것은?",
+      "choices": [
+        "[[smi:CC(N)=O]]",
+        "[[smi:CN]]",
+        "[[smi:Nc1ccccc1]]",
+        "[[smi:c1ccncc1]]",
+        "[[smi:C1CCNCC1]]"
+      ],
+      "answer": "[[smi:CC(N)=O]]",
+      "explanation": "정답: [[smi:CC(N)=O]]\n아마이드 N 전자쌍은 C=O와 공명 → 거의 염기성 없음(짝산 pKa 약 0), 양성자화는 산소에서(Ch25 PPT 53~54쪽).\n\n오답 분석:\n• [[smi:CN]] — 알킬아민 — 강한 염기\n• [[smi:Nc1ccccc1]] — 아릴아민 — 약하지만 아마이드보다는 강하다\n• [[smi:c1ccncc1]] — sp² N, 전자쌍이 따로 있어 염기성 있음\n• [[smi:C1CCNCC1]] — sp³ N — 강한 염기"
+    },
+    {
+      "id": 8,
+      "question": "[Ch25 · 끓는점] 끓는점이 높은 순서로 옳게 나열한 것은? (분자량 같음)\n가. [[smi:CCCN]]\n나. [[smi:CCNC]]\n다. [[smi:CN(C)C]]",
+      "choices": [
+        "가 > 나 > 다",
+        "다 > 나 > 가",
+        "나 > 가 > 다",
+        "가 > 다 > 나",
+        "다 > 가 > 나"
+      ],
+      "answer": "가 > 나 > 다",
+      "explanation": "정답: 가 > 나 > 다\nN–H 수가 많을수록 분자 간 수소결합이 많다: 1차(프로필아민 48 °C) > 2차(에틸메틸아민 36 °C) > 3차(트라이메틸아민 3 °C)."
+    },
+    {
+      "id": 9,
+      "question": "[Ch25 · 조건 대비(Zaitsev vs Hofmann)] (가) 2-브로모뷰테인 + NaOEt(가열), (나) 2-뷰탄아민 + CH₃I(과량) → Ag₂O → 가열 의 주생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) 2-뷰텐 / (나) 1-뷰텐",
+        "(가) 1-뷰텐 / (나) 2-뷰텐",
+        "(가) 2-뷰텐 / (나) 2-뷰텐",
+        "(가) 1-뷰텐 / (나) 1-뷰텐"
+      ],
+      "answer": "(가) 2-뷰텐 / (나) 1-뷰텐",
+      "explanation": "정답: (가) 2-뷰텐 / (나) 1-뷰텐\nCh25 PPT 68~69쪽(그림 25.11): 작은 이탈기 → 더 치환된 알켄, 부피 큰 N(CH₃)₃ 이탈기 → 덜 치환된 알켄.\n\n오답 분석:\n• (가) 1-뷰텐 / (나) 2-뷰텐 — 맞바꿈\n• (가) 2-뷰텐 / (나) 2-뷰텐 — Hofmann은 덜 치환된 알켄\n• (가) 1-뷰텐 / (나) 1-뷰텐 — 작은 이탈기·염기의 E2는 Zaitsev"
+    },
+    {
+      "id": 10,
+      "question": "[Ch26 · 반응과 촉매 짝] 반응과 금속 시약(촉매)의 짝이 모두 옳은 것은?",
+      "choices": [
+        "Suzuki–Pd(PPh₃)₄ / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Ru(Grubbs)",
+        "Suzuki–Ru / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Pd(PPh₃)₄",
+        "Suzuki–Pd(PPh₃)₄ / Heck–Zn(Cu) / Simmons–Smith–Pd(OAc)₂ / 상호교환–Ru",
+        "Suzuki–Cu / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Ru"
+      ],
+      "answer": "Suzuki–Pd(PPh₃)₄ / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Ru(Grubbs)",
+      "explanation": "정답: Suzuki–Pd(PPh₃)₄ / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Ru(Grubbs)\nCh26 PPT 9·15·27·31쪽.\n\n오답 분석:\n• Suzuki–Ru / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Pd(PPh₃)₄ — Suzuki와 상호교환 촉매 맞바꿈\n• Suzuki–Pd(PPh₃)₄ / Heck–Zn(Cu) / Simmons–Smith–Pd(OAc)₂ / 상호교환–Ru — Heck와 Simmons–Smith 맞바꿈\n• Suzuki–Cu / Heck–Pd(OAc)₂ / Simmons–Smith–Zn(Cu) / 상호교환–Ru — Cu는 유기구리 짝지음"
+    },
+    {
+      "id": 11,
+      "question": "[Ch26 · 조건 대비(입체특이성)] (가) cis-2-뷰텐, (나) trans-2-뷰텐을 각각 CH₂I₂/Zn(Cu)와 반응시킨 생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) [[smi:C[C@H]1C[C@H]1C]] / (나) [[smi:C[C@H]1C[C@@H]1C]]",
+        "(가) [[smi:C[C@H]1C[C@@H]1C]] / (나) [[smi:C[C@H]1C[C@H]1C]]",
+        "(가) [[smi:C[C@H]1C[C@H]1C]] / (나) [[smi:C[C@H]1C[C@H]1C]]",
+        "(가) cis·trans 1:1 / (나) cis·trans 1:1"
+      ],
+      "answer": "(가) [[smi:C[C@H]1C[C@H]1C]] / (나) [[smi:C[C@H]1C[C@@H]1C]]",
+      "explanation": "정답: (가) [[smi:C[C@H]1C[C@H]1C]] / (나) [[smi:C[C@H]1C[C@@H]1C]]\nCh26 PPT 28쪽: 알켄의 입체가 사이클로프로페인에 그대로 유지(cis = 메소 S,R).\n\n오답 분석:\n• (가) [[smi:C[C@H]1C[C@@H]1C]] / (나) [[smi:C[C@H]1C[C@H]1C]] — 맞바꿈\n• (가) [[smi:C[C@H]1C[C@H]1C]] / (나) [[smi:C[C@H]1C[C@H]1C]] — trans 알켄은 trans 생성물\n• (가) cis·trans 1:1 / (나) cis·trans 1:1 — 협동 syn 첨가 → 입체특이적"
+    },
+    {
+      "id": 12,
+      "question": "[Ch27 · 조건 대비(4π)] (2E,4E)-2,4-헥사다이엔을 (가) 가열, (나) 빛 조건에서 고리화한 생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) trans-3,4-다이메틸사이클로뷰텐 / (나) cis-3,4-다이메틸사이클로뷰텐",
+        "(가) cis / (나) trans",
+        "(가) trans / (나) trans",
+        "(가) cis / (나) cis"
+      ],
+      "answer": "(가) trans-3,4-다이메틸사이클로뷰텐 / (나) cis-3,4-다이메틸사이클로뷰텐",
+      "explanation": "정답: (가) trans-3,4-다이메틸사이클로뷰텐 / (나) cis-3,4-다이메틸사이클로뷰텐\nCh27 PPT 15쪽.\n\n오답 분석:\n• (가) cis / (나) trans — 열·빛 맞바꿈\n• (가) trans / (나) trans — 빛은 반대방향 회전\n• (가) cis / (나) cis — 열(4π)은 동일방향 회전"
+    },
+    {
+      "id": 13,
+      "question": "[Ch27 · 조건 대비(6π)] (2E,4Z,6E)-2,4,6-옥타트라이엔을 (가) 가열, (나) 빛 조건에서 고리화할 때 회전 방향과 생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) 반대방향 – cis / (나) 동일방향 – trans",
+        "(가) 동일방향 – trans / (나) 반대방향 – cis",
+        "(가) 반대방향 – trans / (나) 동일방향 – cis",
+        "(가) 동일방향 – cis / (나) 동일방향 – trans"
+      ],
+      "answer": "(가) 반대방향 – cis / (나) 동일방향 – trans",
+      "explanation": "정답: (가) 반대방향 – cis / (나) 동일방향 – trans\n족보 20번을 열/빛 대비로 확장. 전자쌍 3(홀수): 열 → disrotatory(cis), 빛 → conrotatory(trans).\n\n오답 분석:\n• (가) 동일방향 – trans / (나) 반대방향 – cis — 열·빛 맞바꿈\n• (가) 반대방향 – trans / (나) 동일방향 – cis — 회전 방향과 입체 연결 착오\n• (가) 동일방향 – cis / (나) 동일방향 – trans — 6π 열적은 반대방향"
+    },
+    {
+      "id": 14,
+      "question": "[Ch27 · 열적으로 허용되는 반응] 열적 조건에서 협동적으로 일어날 수 있는(허용) 반응을 모두 고르시오.\nㄱ. [4+2] 고리화첨가(Diels–Alder)\nㄴ. [2+2] 고리화첨가\nㄷ. [3,3] 시그마 자리옮김(Cope)\nㄹ. [1,5]-수소 이동(동일면)\nㅁ. [1,3]-수소 이동(동일면)",
+      "choices": [
+        "ㄱ, ㄷ, ㄹ",
+        "ㄷ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ, ㄹ",
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nTECA: 열 + 짝수 → 반대면(작은 고리에선 기하적으로 어려움), 열 + 홀수 → 동일면 허용(Ch27 PPT 35·40쪽).\n\n• ㄱ (O) 전자쌍 3(홀수) → 열적 동일면 허용\n• ㄴ (X) 전자쌍 2(짝수) → 열적 동일면 금지(빛 필요)\n• ㄷ (O) 전자쌍 3 → 열적 허용\n• ㄹ (O) 전자쌍 3 → 열적 동일면 허용\n• ㅁ (X) 전자쌍 2 → 열적 동일면 금지"
+    },
+    {
+      "id": 15,
+      "question": "[Ch27 · 들뜬상태 HOMO] 1,3,5-헥사트라이엔에 빛을 쪼였을 때 들뜬상태의 HOMO는?",
+      "choices": [
+        "ψ₄",
+        "ψ₃",
+        "ψ₂",
+        "ψ₅",
+        "ψ₆"
+      ],
+      "answer": "ψ₄",
+      "explanation": "정답: ψ₄\nCh27 PPT 12·21쪽: 전자 6개 → ψ₁~ψ₃ 채움(HOMO ψ₃, LUMO ψ₄). 빛 → ψ₃ 전자 하나가 ψ₄로 → 들뜬상태 HOMO = ψ₄.\n\n오답 분석:\n• ψ₃ — 바닥상태 HOMO\n• ψ₂ — 결합성 오비탈\n• ψ₅ — 전자가 한 칸만 올라간다\n• ψ₆ — 가장 높은 반결합성 오비탈"
+    },
+    {
+      "id": 16,
+      "question": "[Ch27 · 자리옮김 표기] 5-메틸-1,3-사이클로펜타다이엔의 수소가 이웃 탄소로 옮겨 1-메틸-1,3-사이클로펜타다이엔이 되는 열적 반응의 표기는?",
+      "choices": [
+        "[1,5] 시그마 자리옮김",
+        "[3,3] 시그마 자리옮김",
+        "[1,3] 시그마 자리옮김",
+        "[4+2] 고리화첨가",
+        "[2+2] 고리화첨가"
+      ],
+      "answer": "[1,5] 시그마 자리옮김",
+      "explanation": "정답: [1,5] 시그마 자리옮김\nCh27 PPT 33~35쪽: 끊어지는 σ(C–H)의 H를 1, 새 σ 결합이 생기는 탄소까지 세면 5 → [1,5], 전자쌍 3개로 열적 동일면 허용.\n\n오답 분석:\n• [3,3] 시그마 자리옮김 — C–C σ 결합이 끊어지는 Cope·Claisen의 표기\n• [1,3] 시그마 자리옮김 — 열적 동일면 [1,3]-H 이동은 금지\n• [4+2] 고리화첨가 — 분자 두 개가 결합하는 반응\n• [2+2] 고리화첨가 — 분자 두 개가 결합하는 반응"
+    }
+  ]
+}

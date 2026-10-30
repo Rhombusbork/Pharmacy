@@ -1,0 +1,224 @@
+{
+  "deckId": "orgchem-final-s5-trend-1",
+  "subject": "유기약화학",
+  "title": "5단계 경향성·비교·조건 대비 ①: Ch20~23",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch20 · 환원제 범위(개수)] 다음 중 NaBH₄(CH₃OH)로 환원되는 것의 개수는?\n[[smi:CCC=O]] [[smi:CC(C)=O]] [[smi:CCOC(C)=O]] [[smi:CC(=O)O]] [[smi:CC(N)=O]] [[smi:O=C1C=CCCC1]]",
+      "choices": [
+        "3개",
+        "2개",
+        "4개",
+        "6개",
+        "1개"
+      ],
+      "answer": "3개",
+      "explanation": "정답: 3개\nNaBH₄: 알데하이드·케톤(엔온의 C=O 포함) → 3개. 에스터·카복실산·아마이드는 LiAlH₄ 필요(PPT 표 20.1).\n\n오답 분석:\n• 2개 — α,β-불포화 케톤(2-사이클로헥센온)의 C=O도 NaBH₄로 환원된다\n• 4개 — 에스터는 환원되지 않는다\n• 6개 — LiAlH₄일 때의 개수\n• 1개 — 케톤도 환원된다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch20 · 친핵성 첨가 반응성] 친핵성 첨가 반응성이 큰 순서로 옳게 나열한 것은?\n가. [[smi:C=O]]\n나. [[smi:CC=O]]\n다. [[smi:CC(C)=O]]\n라. [[smi:O=C(c1ccccc1)c1ccccc1]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\nR기가 많을수록(전자 주기·입체장애) 반응성 감소. 아릴기는 공명으로 전자를 주고 부피도 커서 벤조페논이 가장 낮다(Ch21 PPT 3쪽)."
+    },
+    {
+      "id": 3,
+      "question": "[Ch20 · 탄소–금속 결합 극성] 탄소–금속 결합의 극성(탄소의 δ⁻)이 큰 순서로 옳게 나열한 것은?\n가. CH₃–Li\n나. CH₃–MgBr\n다. (CH₃)₂Cu–Li 의 C–Cu",
+      "choices": [
+        "가 > 나 > 다",
+        "다 > 나 > 가",
+        "나 > 가 > 다",
+        "가 > 다 > 나",
+        "다 > 가 > 나"
+      ],
+      "answer": "가 > 나 > 다",
+      "explanation": "정답: 가 > 나 > 다\n금속 전기음성도 Li(1.0) < Mg(1.3) < Cu(1.9) → C–Li가 가장 극성, C–Cu가 가장 덜 극성 → 유기구리의 반응성이 가장 약하다(Ch20 PPT 40쪽)."
+    },
+    {
+      "id": 4,
+      "question": "[Ch20 · 조건 대비(1,2 vs 1,4)] 2-사이클로헥센온을 (가) CH₃MgBr, (나) (CH₃)₂CuLi로 각각 처리한 뒤 물로 처리했을 때 주생성물의 짝으로 옳은 것은?",
+      "choices": [
+        "(가) [[smi:CC1(O)C=CCCC1]] / (나) [[smi:CC1CCCC(=O)C1]]",
+        "(가) [[smi:CC1CCCC(=O)C1]] / (나) [[smi:CC1(O)C=CCCC1]]",
+        "(가) [[smi:CC1(O)C=CCCC1]] / (나) [[smi:CC1(O)C=CCCC1]]",
+        "(가) [[smi:CC1CCCC(=O)C1]] / (나) [[smi:CC1CCCC(=O)C1]]"
+      ],
+      "answer": "(가) [[smi:CC1(O)C=CCCC1]] / (나) [[smi:CC1CCCC(=O)C1]]",
+      "explanation": "정답: (가) [[smi:CC1(O)C=CCCC1]] / (나) [[smi:CC1CCCC(=O)C1]]\n반응성 큰 RMgX·RLi → C=O에 직접(1,2), 순한 R₂CuLi → β탄소(1,4)(Ch20 PPT 75쪽).\n\n오답 분석:\n• (가) [[smi:CC1CCCC(=O)C1]] / (나) [[smi:CC1(O)C=CCCC1]] — 두 시약의 결과를 맞바꿈\n• (가) [[smi:CC1(O)C=CCCC1]] / (나) [[smi:CC1(O)C=CCCC1]] — 유기구리는 1,4-첨가\n• (가) [[smi:CC1CCCC(=O)C1]] / (나) [[smi:CC1CCCC(=O)C1]] — 그리냐르는 1,2-첨가"
+    },
+    {
+      "id": 5,
+      "question": "[Ch20 · 조건 대비(환원)] 2-사이클로헥센온을 (가) NaBH₄, (나) H₂(1당량)/Pd-C, (다) H₂(과량)/Pd-C로 환원한 주생성물의 짝으로 옳은 것은?",
+      "choices": [
+        "(가) 알릴 알코올 / (나) 사이클로헥산온 / (다) 사이클로헥산올",
+        "(가) 사이클로헥산온 / (나) 알릴 알코올 / (다) 사이클로헥산올",
+        "(가) 사이클로헥산올 / (나) 사이클로헥산온 / (다) 알릴 알코올",
+        "(가) 알릴 알코올 / (나) 알릴 알코올 / (다) 사이클로헥산온"
+      ],
+      "answer": "(가) 알릴 알코올 / (나) 사이클로헥산온 / (다) 사이클로헥산올",
+      "explanation": "정답: (가) 알릴 알코올 / (나) 사이클로헥산온 / (다) 사이클로헥산올\nCh20 PPT 17쪽 그대로.\n\n오답 분석:\n• (가) 사이클로헥산온 / (나) 알릴 알코올 / (다) 사이클로헥산올 — (가)·(나) 맞바꿈\n• (가) 사이클로헥산올 / (나) 사이클로헥산온 / (다) 알릴 알코올 — NaBH₄는 C=C를 환원하지 않는다\n• (가) 알릴 알코올 / (나) 알릴 알코올 / (다) 사이클로헥산온 — H₂는 C=C를 먼저 환원"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · 수화 평형] 물에서 수화물(gem-다이올)로 존재하는 비율이 큰 순서로 옳게 나열한 것은?\n가. [[smi:C=O]]\n나. [[smi:CC=O]]\n다. [[smi:CC(C)=O]]",
+      "choices": [
+        "가 > 나 > 다",
+        "다 > 나 > 가",
+        "나 > 가 > 다",
+        "가 > 다 > 나",
+        "다 > 가 > 나"
+      ],
+      "answer": "가 > 나 > 다",
+      "explanation": "정답: 가 > 나 > 다\nCh21 PPT 59쪽: 알킬기가 많을수록 카보닐이 안정해져 수화물이 줄어든다(HCHO 99.9% > CH₃CHO 약 50% > 아세톤 0.1%). 전자 끄는 기(클로랄)는 반대로 수화물을 늘린다."
+    },
+    {
+      "id": 7,
+      "question": "[Ch21·22 · IR C=O 파수] C=O 신축 흡수 파수(cm⁻¹)가 큰 순서로 옳게 나열한 것은?\n가. [[smi:O=C1CCCC1]]\n나. [[smi:CCCC=O]]\n다. [[smi:O=C1CCCCC1]]\n라. [[smi:CC(=O)c1ccccc1]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\nCh21 PPT 12~13쪽: 5원 고리 케톤(~1745, 고리 무리) > 알데하이드(~1730) > 보통 케톤(~1715) > 콘쥬게이션 케톤(~1690)."
+    },
+    {
+      "id": 8,
+      "question": "[Ch21 · 이민 형성과 pH] 1차 아민과 케톤의 이민 형성 속도가 가장 빠른 조건은?",
+      "choices": [
+        "pH 4~5의 약산",
+        "pH 1 이하의 강산",
+        "pH 7 중성",
+        "pH 12 이상의 강염기",
+        "pH와 관계없다"
+      ],
+      "answer": "pH 4~5의 약산",
+      "explanation": "정답: pH 4~5의 약산\nCh21 PPT 49·51쪽.\n\n오답 분석:\n• pH 1 이하의 강산 — 아민이 양성자화되어 친핵성을 잃는다\n• pH 7 중성 — OH를 양성자화해 물로 빼낼 산이 부족\n• pH 12 이상의 강염기 — OH가 이탈기가 되지 못한다\n• pH와 관계없다 — 산이 두 가지 반대 역할에 관여"
+    },
+    {
+      "id": 9,
+      "question": "[Ch22 · 유도체 반응성] 친핵성 아실 치환 반응성이 큰 순서로 옳게 나열한 것은?\n가. [[smi:CC(=O)Cl]]\n나. [[smi:CC(=O)OC(C)=O]]\n다. [[smi:CC(=O)OC]]\n라. [[smi:CC(N)=O]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\n이탈기가 약한 염기일수록 반응성 큼: Cl⁻ > CH₃COO⁻ > CH₃O⁻ > NH₂⁻(Ch22 PPT 8·32쪽). 안정성은 정반대."
+    },
+    {
+      "id": 10,
+      "question": "[Ch22 · IR C=O 파수] C=O 신축 흡수 파수가 큰 순서로 옳게 나열한 것은?\n가. [[smi:CC(=O)Cl]]\n나. [[smi:CC(=O)OCC]]\n다. [[smi:CC(=O)O]]\n라. [[smi:CC(N)=O]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\nCh22 PPT 22~23쪽: C=O의 이중결합성이 클수록(공명 기여 작을수록) 높은 파수. 산 염화물 ~1800 > 에스터 ~1740 > 카복실산 ~1710 > 아마이드 ~1650."
+    },
+    {
+      "id": 11,
+      "question": "[Ch22 · 카복실산 산성도] 산성도가 큰 순서로 옳게 나열한 것은?\n가. [[smi:CCC(Cl)C(=O)O]]\n나. [[smi:CC(Cl)CC(=O)O]]\n다. [[smi:ClCCCC(=O)O]]\n라. [[smi:CCCC(=O)O]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\n전자 끄는 기(Cl)가 COOH에 가까울수록 짝염기를 더 안정화 → 2-클로로 > 3-클로로 > 4-클로로 > 뷰탄산."
+    },
+    {
+      "id": 12,
+      "question": "[Ch22 · 변환 가능한 생성물 종류] 다음 카복실산 유도체 중 한 단계 친핵성 아실 치환으로 만들 수 있는 다른 유도체의 종류가 가장 적은 것은?",
+      "choices": [
+        "[[smi:CC(=O)N(C)C]] (아마이드)",
+        "[[smi:CC(=O)Cl]] (산 염화물)",
+        "[[smi:CC(=O)OC(C)=O]] (무수물)",
+        "[[smi:CC(=O)OC]] (에스터)",
+        "[[smi:CC(=O)O]] (카복실산)"
+      ],
+      "answer": "[[smi:CC(=O)N(C)C]] (아마이드)",
+      "explanation": "정답: [[smi:CC(=O)N(C)C]] (아마이드)\nCh22 PPT 표 22.5: 아마이드는 가수분해로 카복실산만(2024 중간 1번과 같은 개념).\n\n오답 분석:\n• [[smi:CC(=O)Cl]] (산 염화물) — 가장 반응성이 커서 무수물·산·에스터·아마이드 모두 가능\n• [[smi:CC(=O)OC(C)=O]] (무수물) — 산·에스터·아마이드 가능\n• [[smi:CC(=O)OC]] (에스터) — 산·아마이드 가능\n• [[smi:CC(=O)O]] (카복실산) — 산 염화물·무수물(다이산)·에스터·아마이드 가능"
+    },
+    {
+      "id": 13,
+      "question": "[Ch23 · α-H 산성도] α-수소의 산성도가 큰(pKa가 작은) 순서로 옳게 나열한 것은?\n가. [[smi:CC(=O)CC(C)=O]]\n나. [[smi:CCOC(=O)CC(C)=O]]\n다. [[smi:CCOC(=O)CC(=O)OCC]]\n라. [[smi:CC(C)=O]]",
+      "choices": [
+        "가 > 나 > 다 > 라",
+        "라 > 다 > 나 > 가",
+        "나 > 가 > 다 > 라",
+        "가 > 다 > 나 > 라",
+        "가 > 나 > 라 > 다"
+      ],
+      "answer": "가 > 나 > 다 > 라",
+      "explanation": "정답: 가 > 나 > 다 > 라\nCh23 PPT 13쪽: 2,4-펜테인다이온(9) > 아세토아세트산 에틸(11) > 말론산 다이에틸(13) > 아세톤(19~20). 에스터 C=O는 OR의 공명 때문에 음이온 안정화가 약하다."
+    },
+    {
+      "id": 14,
+      "question": "[Ch23 · D 치환 개수(최대)] 각 화합물을 NaOD/D₂O에 충분히 두었을 때, 중수소로 치환되는 수소가 가장 많은 것은?",
+      "choices": [
+        "[[smi:O=C1CCCC(=O)C1]]",
+        "[[smi:CC1CCCC1=O]]",
+        "[[smi:CC1CCC(=O)CC1]]",
+        "[[smi:CC1CCCC(C)(C)C1=O]]",
+        "[[smi:CC(C)C(C)=O]]"
+      ],
+      "answer": "[[smi:O=C1CCCC(=O)C1]]",
+      "explanation": "정답: [[smi:O=C1CCCC(=O)C1]]\n사이클로헥세인-1,3-다이온: C2(2) + C4(2) + C6(2) = 6개. α-H만 엔올 음이온을 거쳐 교환된다(족보 25-2 4번 형식).\n\n오답 분석:\n• [[smi:CC1CCCC1=O]] — α-H: C2 1개 + C5 2개 = 3개\n• [[smi:CC1CCC(=O)CC1]] — α-H: C2 2개 + C6 2개 = 4개\n• [[smi:CC1CCCC(C)(C)C1=O]] — α-H: C6 1개뿐\n• [[smi:CC(C)C(C)=O]] — α-H: CH₃ 3개 + CH 1개 = 4개"
+    },
+    {
+      "id": 15,
+      "question": "[Ch23 · 염기와 엔올 음이온] 케톤(pKa 약 20)의 엔올 음이온을 거의 100% 만들 수 있는 염기를 모두 고르시오.\nㄱ. NaOH (짝산 H₂O, pKa 15.7)\nㄴ. NaOCH₂CH₃ (짝산 EtOH, pKa 16)\nㄷ. KOC(CH₃)₃ (짝산 t-BuOH, pKa 18)\nㄹ. NaH (짝산 H₂, pKa 35)\nㅁ. LDA (짝산 HN(iPr)₂, pKa 40)",
+      "choices": [
+        "ㄹ, ㅁ",
+        "ㅁ",
+        "ㄹ",
+        "ㄱ, ㄹ, ㅁ",
+        "ㄱ, ㅁ"
+      ],
+      "answer": "ㄹ, ㅁ",
+      "explanation": "정답: ㄹ, ㅁ\nCh23 PPT 표 23.3: 평형은 약한 산 쪽으로 → 짝산 pKa가 케톤(20)보다 훨씬 커야 완결.\n\n• ㄱ (X) 1% 미만\n• ㄴ (X) 1% 미만\n• ㄷ (X) 1~10%\n• ㄹ (O) 100%\n• ㅁ (O) 100%"
+    },
+    {
+      "id": 16,
+      "question": "[Ch23 · 조건 대비(엔올 음이온)] 2-메틸사이클로헥산온을 (가) LDA, THF, −78 °C 후 CH₃I, (나) NaOEt, EtOH, 실온 후 CH₃I로 처리한 주생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) [[smi:CC1CCCC(C)C1=O]] / (나) [[smi:CC1(C)CCCCC1=O]]",
+        "(가) [[smi:CC1(C)CCCCC1=O]] / (나) [[smi:CC1CCCC(C)C1=O]]",
+        "(가) [[smi:CC1CCCC(C)C1=O]] / (나) [[smi:CC1CCCC(C)C1=O]]",
+        "(가) [[smi:CC1(C)CCCCC1=O]] / (나) [[smi:CC1(C)CCCCC1=O]]"
+      ],
+      "answer": "(가) [[smi:CC1CCCC(C)C1=O]] / (나) [[smi:CC1(C)CCCCC1=O]]",
+      "explanation": "정답: (가) [[smi:CC1CCCC(C)C1=O]] / (나) [[smi:CC1(C)CCCCC1=O]]\nCh23 PPT 42~43쪽: (가) 속도론적 A, (나) 열역학적 B.\n\n오답 분석:\n• (가) [[smi:CC1(C)CCCCC1=O]] / (나) [[smi:CC1CCCC(C)C1=O]] — 속도론적·열역학적 맞바꿈\n• (가) [[smi:CC1CCCC(C)C1=O]] / (나) [[smi:CC1CCCC(C)C1=O]] — NaOEt(평형)는 더 치환된 엔올 음이온\n• (가) [[smi:CC1(C)CCCCC1=O]] / (나) [[smi:CC1(C)CCCCC1=O]] — LDA(저온)는 덜 치환된 엔올 음이온"
+    },
+    {
+      "id": 17,
+      "question": "[Ch23 · 조건 대비(할로젠화)] 프로피오페논을 (가) Br₂/CH₃COOH, (나) Br₂/⁻OH로 처리한 주생성물 짝으로 옳은 것은?",
+      "choices": [
+        "(가) [[smi:CC(Br)C(=O)c1ccccc1]] / (나) [[smi:CC(Br)(Br)C(=O)c1ccccc1]]",
+        "(가) [[smi:CC(Br)(Br)C(=O)c1ccccc1]] / (나) [[smi:CC(Br)C(=O)c1ccccc1]]",
+        "(가) [[smi:CC(Br)C(=O)c1ccccc1]] / (나) [[smi:[O-]C(=O)c1ccccc1]]",
+        "(가) [[smi:CCC(=O)c1ccc(Br)cc1]] / (나) [[smi:CC(Br)(Br)C(=O)c1ccccc1]]"
+      ],
+      "answer": "(가) [[smi:CC(Br)C(=O)c1ccccc1]] / (나) [[smi:CC(Br)(Br)C(=O)c1ccccc1]]",
+      "explanation": "정답: (가) [[smi:CC(Br)C(=O)c1ccccc1]] / (나) [[smi:CC(Br)(Br)C(=O)c1ccccc1]]\nCh23 PPT 27~32·35쪽: 산 → 일치환, 염기 → 다중 치환.\n\n오답 분석:\n• (가) [[smi:CC(Br)(Br)C(=O)c1ccccc1]] / (나) [[smi:CC(Br)C(=O)c1ccccc1]] — 산/염기 맞바꿈\n• (가) [[smi:CC(Br)C(=O)c1ccccc1]] / (나) [[smi:[O-]C(=O)c1ccccc1]] — 메틸 케톤이 아니라 할로폼 반응은 일어나지 않는다\n• (가) [[smi:CCC(=O)c1ccc(Br)cc1]] / (나) [[smi:CC(Br)(Br)C(=O)c1ccccc1]] — 산 조건도 α탄소 반응(고리 브로민화 아님)"
+    }
+  ]
+}
