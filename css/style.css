@@ -123,6 +123,7 @@ h2 {
   font-size: 1.1rem;
   font-weight: 600;
   margin: 0 0 1rem;
+  white-space: pre-line; /* 덱 파일의 줄바꿈(\n)을 그대로 보여 준다(보기 목록 ㄱ·ㄴ·ㄷ 등) */
 }
 
 .choice-list {
@@ -167,6 +168,7 @@ h2 {
   border-top: 1px dashed #ddd;
   color: #444;
   font-size: 0.95rem;
+  white-space: pre-line; /* 해설의 줄바꿈(\n)을 그대로 보여 준다 */
 }
 
 .short-form {
