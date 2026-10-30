@@ -1,0 +1,175 @@
+{
+  "deckId": "orgchem-final-ch21-prod-2",
+  "subject": "유기약화학",
+  "title": "Ch21 ② 생성물 고르기: 이민·엔아민·수화·아세탈",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch21 · 1차 아민 → 이민] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|CH₃CH₂NH₂|약산 (pH 4~5)]]",
+      "choices": [
+        "[[smi:CCN=C1CCCCC1]]",
+        "[[smi:CCNC1=CCCCC1]]",
+        "[[smi:CCNC1(O)CCCCC1]]",
+        "[[smi:CCNC1CCCCC1]]"
+      ],
+      "answer": "[[smi:CCN=C1CCCCC1]]",
+      "explanation": "정답: [[smi:CCN=C1CCCCC1]]\nPPT 48~50쪽: 1차 아민 → 카비놀아민 → (OH 양성자화, −H₂O) → 이미늄 → N–H 탈양성자화 → 이민(Schiff 염기). N은 sp², C–N–R 약 120°.\n\n오답 분석:\n• [[smi:CCNC1=CCCCC1]] — 엔아민 — 2차 아민일 때의 결과(1차 아민은 N–H가 남아 C=N)\n• [[smi:CCNC1(O)CCCCC1]] — 카비놀아민 중간체에서 멈춤 — 약산이 OH를 물로 빠지게 한다\n• [[smi:CCNC1CCCCC1]] — 환원된 아민 — 환원제(NaBH₃CN)가 없다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch21 · 1차 아민 → 이민(알데하이드)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|PhNH₂|약산]]",
+      "choices": [
+        "[[smi:C(=Nc1ccccc1)c1ccccc1]]",
+        "[[smi:C(Nc1ccccc1)c1ccccc1]]",
+        "[[smi:O=C(Nc1ccccc1)c1ccccc1]]",
+        "[[smi:OC(Nc1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:C(=Nc1ccccc1)c1ccccc1]]",
+      "explanation": "정답: [[smi:C(=Nc1ccccc1)c1ccccc1]]\n알데하이드도 같은 경로로 이민 PhCH=NPh가 된다.\n\n오답 분석:\n• [[smi:C(Nc1ccccc1)c1ccccc1]] — 환원된 2차 아민\n• [[smi:O=C(Nc1ccccc1)c1ccccc1]] — 아마이드 — 알데하이드 + 아민은 산화 상태가 그대로인 이민을 만든다\n• [[smi:OC(Nc1ccccc1)c1ccccc1]] — 카비놀아민 중간체에서 멈춤"
+    },
+    {
+      "id": 3,
+      "question": "[Ch21 · 2차 아민 → 엔아민] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCC1>>?|(CH₃CH₂)₂NH|약산]]",
+      "choices": [
+        "[[smi:CCN(CC)C1=CCCC1]]",
+        "[[smi:CC[N+](CC)=C1CCCC1]]",
+        "[[smi:CCN=C1CCCC1]]",
+        "[[smi:CCN(CC)C1(O)CCCC1]]"
+      ],
+      "answer": "[[smi:CCN(CC)C1=CCCC1]]",
+      "explanation": "정답: [[smi:CCN(CC)C1=CCCC1]]\nPPT 54~56쪽: 2차 아민의 이미늄 이온은 N–H가 없으므로 이웃 C–H의 양성자가 빠져 C=C–N(엔아민).\n\n오답 분석:\n• [[smi:CC[N+](CC)=C1CCCC1]] — 이미늄 중간체에서 멈춤 — N에 H가 없어 α-C–H가 빠진다\n• [[smi:CCN=C1CCCC1]] — 이민 — 에틸 하나가 떨어져야 가능하므로 불가능\n• [[smi:CCN(CC)C1(O)CCCC1]] — 카비놀아민 중간체"
+    },
+    {
+      "id": 4,
+      "question": "[Ch21 · 이민 vs 엔아민] 다음 반응의 주생성물은?\n[[rxn:CC(C)=O>>?|(CH₃)₂NH|약산]]",
+      "choices": [
+        "[[smi:C=C(C)N(C)C]]",
+        "[[smi:CN=C(C)C]]",
+        "[[smi:CC(C)(O)N(C)C]]",
+        "[[smi:CC(C)=[N+](C)C]]"
+      ],
+      "answer": "[[smi:C=C(C)N(C)C]]",
+      "explanation": "정답: [[smi:C=C(C)N(C)C]]\nPPT 그림 21.10: 1차 아민 → 이민(C=N), 2차 아민 → 엔아민(C=C–N). 갈림길은 이미늄의 N에 H가 있느냐.\n\n오답 분석:\n• [[smi:CN=C(C)C]] — 1차 아민(CH₃NH₂)이었다면 생기는 이민\n• [[smi:CC(C)(O)N(C)C]] — 카비놀아민 중간체\n• [[smi:CC(C)=[N+](C)C]] — 이미늄 중간체"
+    },
+    {
+      "id": 5,
+      "question": "[Ch21 · 생체 이민(시각)] 11-cis-레티날이 단백질 옵신과 결합하는 방식은?\n[[rxn:CC1=C(/C=C/C(C)=C/C=C\\C(C)=C\\C=O)C(C)(C)CCC1>>?|옵신의 리신 –NH₂|]]",
+      "choices": [
+        "옵신과 C=N(이민, Schiff 염기)으로 연결된 로돕신",
+        "옵신과 C=C–N(엔아민)으로 연결",
+        "옵신과 아마이드(C(=O)–N)로 연결",
+        "옵신과 아세탈로 연결"
+      ],
+      "answer": "옵신과 C=N(이민, Schiff 염기)으로 연결된 로돕신",
+      "explanation": "정답: 옵신과 C=N(이민, Schiff 염기)으로 연결된 로돕신\nPPT 52~53쪽(그림 21.9): 막대세포에서 11-cis-레티날의 CHO + 옵신의 1차 아민 → 콘쥬게이션된 이민 로돕신. 빛을 받으면 11-cis → all-trans 이성질화.\n\n오답 분석:\n• 옵신과 C=C–N(엔아민)으로 연결 — 리신 NH₂는 1차 아민 → 이민\n• 옵신과 아마이드(C(=O)–N)로 연결 — 알데하이드 + 아민은 아마이드를 만들지 않는다(산화 상태 착오)\n• 옵신과 아세탈로 연결 — 아세탈은 알코올 2당량과의 반응"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · 이민 가수분해] 다음 반응의 주생성물은?\n[[rxn:CN=C1CCCCC1>>?|H₃O⁺|(H₂O 과량)]]",
+      "choices": [
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:CNC1CCCCC1]]",
+        "[[smi:NC1CCCCC1]]"
+      ],
+      "answer": "[[smi:O=C1CCCCC1]]",
+      "explanation": "정답: [[smi:O=C1CCCCC1]]\nPPT 57쪽: 이민·엔아민 형성은 가역 → 묽은 산(물 과량)에서 정확히 역반응으로 카보닐 + 아민(CH₃NH₃⁺).\n\n오답 분석:\n• [[smi:OC1CCCCC1]] — 환원과 혼동\n• [[smi:CNC1CCCCC1]] — C=N이 환원된 아민\n• [[smi:NC1CCCCC1]] — N–CH₃가 끊어진 아민 — 가수분해는 C=N이 끊어진다"
+    },
+    {
+      "id": 7,
+      "question": "[Ch21 · 엔아민 가수분해] 다음 반응의 주생성물은?\n[[rxn:CN(C)C1=CCCCC1>>?|H₃O⁺|]]",
+      "choices": [
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:CN(C)C1CCCCC1=O]]",
+        "[[smi:C1=CCCCC1]]",
+        "[[smi:CN(C)C1CCCCC1]]"
+      ],
+      "answer": "[[smi:O=C1CCCCC1]]",
+      "explanation": "정답: [[smi:O=C1CCCCC1]]\n엔아민 + H₃O⁺ → 케톤 + 2차 아민. 엔아민은 이 성질 때문에 Stork 반응(Ch23·24)에서 '숨은 케톤'으로 쓰인다.\n\n오답 분석:\n• [[smi:CN(C)C1CCCCC1=O]] — α-아미노 케톤 — N이 붙은 탄소가 C=O가 되고 아민은 떨어진다\n• [[smi:C1=CCCCC1]] — 아민만 떨어진 알켄\n• [[smi:CN(C)C1CCCCC1]] — 환원된 아민"
+    },
+    {
+      "id": 8,
+      "question": "[Ch21 · 수화(gem-다이올)] 다음 반응의 주생성물은?\n[[rxn:O=CC(Cl)(Cl)Cl>>?|H₂O|]]",
+      "choices": [
+        "[[smi:OC(O)C(Cl)(Cl)Cl]]",
+        "[[smi:OC(=O)C(Cl)(Cl)Cl]]",
+        "[[smi:OCC(Cl)(Cl)Cl]]",
+        "[[smi:O=CC(Cl)Cl]]"
+      ],
+      "answer": "[[smi:OC(O)C(Cl)(Cl)Cl]]",
+      "explanation": "정답: [[smi:OC(O)C(Cl)(Cl)Cl]]\nPPT 58~60쪽: H₂O 첨가 → gem-다이올(수화물). Cl 세 개(EWG)가 카보닐을 불안정하게 해 수화물이 많이 생긴다 → 클로랄 수화물.\n\n오답 분석:\n• [[smi:OC(=O)C(Cl)(Cl)Cl]] — 산화(트라이클로로아세트산)와 혼동\n• [[smi:OCC(Cl)(Cl)Cl]] — 환원과 혼동\n• [[smi:O=CC(Cl)Cl]] — Cl이 빠진 구조"
+    },
+    {
+      "id": 9,
+      "question": "[Ch21 · 아세탈 형성] 다음 반응의 주생성물은?\n[[rxn:CCC=O>>?|CH₃OH (2당량)|TsOH]]",
+      "choices": [
+        "[[smi:CCC(OC)OC]]",
+        "[[smi:CCC(O)OC]]",
+        "[[smi:CCC(=O)OC]]",
+        "[[smi:CCCOC]]"
+      ],
+      "answer": "[[smi:CCC(OC)OC]]",
+      "explanation": "정답: [[smi:CCC(OC)OC]]\nPPT 63쪽: 알데하이드·케톤 + ROH 2당량 + 산 촉매(TsOH) → 헤미아세탈 → 아세탈 + H₂O.\n\n오답 분석:\n• [[smi:CCC(O)OC]] — 헤미아세탈 중간체에서 멈춤\n• [[smi:CCC(=O)OC]] — 에스터 — 산화 상태가 다르다\n• [[smi:CCCOC]] — 에터 — PPT: 아세탈은 에터가 아니다(한 탄소에 OR 두 개)"
+    },
+    {
+      "id": 10,
+      "question": "[Ch21 · 고리형 아세탈] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|HOCH₂CH₂OH|TsOH (물 제거)]]",
+      "choices": [
+        "[[smi:C1CCC2(CC1)OCCO2]]",
+        "[[smi:OCCOC1CCCCC1]]",
+        "[[smi:OCCOC1(O)CCCCC1]]",
+        "[[smi:OCCOC1=CCCCC1]]"
+      ],
+      "answer": "[[smi:C1CCC2(CC1)OCCO2]]",
+      "explanation": "정답: [[smi:C1CCC2(CC1)OCCO2]]\nPPT 64~65쪽: 에틸렌 글라이콜 → 고리형 아세탈(1,3-다이옥솔레인). 평형이라 Dean–Stark 장치로 물을 빼낸다(르 샤틀리에).\n\n오답 분석:\n• [[smi:OCCOC1CCCCC1]] — C=O가 OCH₂CH₂OH 하나로 바뀐 에터 — 두 산소가 모두 같은 탄소에 붙는다\n• [[smi:OCCOC1(O)CCCCC1]] — 헤미아세탈 중간체\n• [[smi:OCCOC1=CCCCC1]] — 엔올 에터 — 물이 빠지며 C=C가 생기지 않는다"
+    },
+    {
+      "id": 11,
+      "question": "[Ch21 · 아세탈 가수분해] 다음 반응의 생성물로 옳은 것은?\n[[rxn:CC1(C)OCCO1>>?|H₃O⁺|H₂O (과량)]]",
+      "choices": [
+        "[[smi:CC(C)=O]] + [[smi:OCCO]]",
+        "변화 없음 — 아세탈은 산에 안정하다",
+        "[[smi:CC(C)(O)OCCO]]",
+        "[[smi:CC(C)O]] + [[smi:OCCO]]"
+      ],
+      "answer": "[[smi:CC(C)=O]] + [[smi:OCCO]]",
+      "explanation": "정답: [[smi:CC(C)=O]] + [[smi:OCCO]]\nPPT 68쪽: 아세탈 + 산 수용액(물 과량) → 원래 카보닐 + 알코올(평형을 물로 민다).\n\n오답 분석:\n• 변화 없음 — 아세탈은 산에 안정하다 — 반대: 아세탈은 염기·친핵체에 안정하고 산 수용액에서 분해된다\n• [[smi:CC(C)(O)OCCO]] — 헤미아세탈 중간체에서 멈춤 — 물이 과량이면 끝까지 간다\n• [[smi:CC(C)O]] + [[smi:OCCO]] — 환원과 혼동"
+    },
+    {
+      "id": 12,
+      "question": "[Ch21 · 아세탈 보호기] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCCC(=O)OC>>?|1) HOCH₂CH₂OH, TsOH 2) LiAlH₄|3) H₂O 4) H₂O, H⁺]]",
+      "choices": [
+        "[[smi:CC(=O)CCCCO]]",
+        "[[smi:CC(O)CCCC(=O)OC]]",
+        "[[smi:CC(O)CCCCO]]",
+        "[[smi:CC1(CCCCO)OCCO1]]"
+      ],
+      "answer": "[[smi:CC(=O)CCCCO]]",
+      "explanation": "정답: [[smi:CC(=O)CCCCO]]\nPPT 69~70쪽: 케토 에스터 A의 에스터만 환원하려면 ① 케톤을 고리형 아세탈로 보호 ② LiAlH₄로 에스터 환원 ③ H₂O, H⁺로 탈보호 → 6-하이드록시-2-헥산온.\n\n오답 분석:\n• [[smi:CC(O)CCCC(=O)OC]] — 보호하지 않았을 때 실제로 일어나는 반응(더 반응성 큰 케톤이 환원)\n• [[smi:CC(O)CCCCO]] — 둘 다 환원 — 아세탈은 LiAlH₄에 안정\n• [[smi:CC1(CCCCO)OCCO1]] — 탈보호(4단계 산 수용액) 전에서 멈춤"
+    },
+    {
+      "id": 13,
+      "question": "[Ch21 · 고리형 헤미아세탈] 다음 반응의 주생성물은?\n[[rxn:O=CCCCCO>>?|H⁺ (촉매)|]]",
+      "choices": [
+        "[[smi:OC1CCCCO1]]",
+        "[[smi:O=C1CCCCO1]]",
+        "[[smi:C1CCOCC1]]",
+        "[[smi:COC1CCCCO1]]"
+      ],
+      "answer": "[[smi:OC1CCCCO1]]",
+      "explanation": "정답: [[smi:OC1CCCCO1]]\nPPT 71~74쪽: 5·6원 고리를 만들 수 있는 하이드록시 알데하이드는 분자 내 고리형 헤미아세탈이 안정. 새 입체중심이 생기며 두 거울상이 같은 양.\n\n오답 분석:\n• [[smi:O=C1CCCCO1]] — 락톤 — 산화 단계가 없다\n• [[smi:C1CCOCC1]] — OH가 빠진 고리형 에터\n• [[smi:COC1CCCCO1]] — 아세탈 — 알코올(CH₃OH)을 따로 넣어야 생긴다"
+    },
+    {
+      "id": 14,
+      "question": "[Ch21 · 헤미아세탈 → 아세탈] 다음 반응의 주생성물은?\n[[rxn:OC1CCOC(O)C1>>?|CH₃OH|H⁺]]",
+      "choices": [
+        "[[smi:COC1CC(O)CCO1]]",
+        "[[smi:COC1CCOC(OC)C1]]",
+        "[[smi:COC1CCOC(O)C1]]",
+        "[[smi:O=CCC(O)CCO]]"
+      ],
+      "answer": "[[smi:COC1CC(O)CCO1]]",
+      "explanation": "정답: [[smi:COC1CC(O)CCO1]]\nPPT 77쪽: 헤미아세탈 OH만 OCH₃로 바뀐다. 2단계에서 생기는 탄소 양이온이 이웃 고리 O의 공명으로 안정화되기 때문.\n\n오답 분석:\n• [[smi:COC1CCOC(OC)C1]] — 두 OH 모두 메틸화 — 고리 밖 보통 OH는 반응하지 않는다\n• [[smi:COC1CCOC(O)C1]] — 보통 알코올 OH만 반응 — 반대\n• [[smi:O=CCC(O)CCO]] — 고리가 열린 알데하이드"
+    }
+  ]
+}

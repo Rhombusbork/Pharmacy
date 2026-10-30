@@ -53,15 +53,15 @@
     },
     {
       "id": 5,
-      "question": "[Ch20 · 거울상 선택적 환원(CBS)] 다음 반응의 결과로 옳은 것은?\n[[rxn:CC(=O)c1ccccc1>>?|(S)-CBS 시약|BH₃, THF → H₂O]]",
+      "question": "[Ch20 · 거울상 선택적 환원(CBS)] 다음 반응의 주생성물은?\n[[rxn:CCC(=O)c1ccccc1>>?|1) (S)-CBS 시약|2) H₂O]]",
       "choices": [
-        "한쪽 거울상이성질체가 크게 우세한 1-페닐에탄올",
-        "R와 S가 1:1인 라세미 1-페닐에탄올",
-        "반응하지 않고 아세토페논이 남는다",
-        "에틸벤젠"
+        "[[smi:CC[C@@H](O)c1ccccc1]]",
+        "[[smi:CC[C@H](O)c1ccccc1]]",
+        "[[smi:CCC(O)c1ccccc1]]",
+        "[[smi:CCCc1ccccc1]]"
       ],
-      "answer": "한쪽 거울상이성질체가 크게 우세한 1-페닐에탄올",
-      "explanation": "정답: 한쪽 거울상이성질체가 크게 우세한 1-페닐에탄올\nCBS 시약(카이랄 옥사자보롤리딘) + BH₃ → 거울상 선택적 환원. (S)-시약과 (R)-시약은 서로 반대 거울상의 알코올을 준다.\n\n오답 분석:\n• R와 S가 1:1인 라세미 1-페닐에탄올 — NaBH₄의 결과. 카이랄 촉매(CBS)가 한쪽 면으로만 H를 전달하는 것이 핵심\n• 반응하지 않고 아세토페논이 남는다 — BH₃는 CBS 촉매와 함께 C=O를 환원하는 하이드라이드 공급원이다\n• 에틸벤젠 — C=O → CH₂ 환원과 혼동"
+      "answer": "[[smi:CC[C@@H](O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CC[C@@H](O)c1ccccc1]]\nPPT 예제: 프로피오페논 + (S)-CBS → (R)-1-페닐프로판-1-올(97% ee). CBS = Corey·Bakshi·Shibata, B–H 하나가 하이드라이드 공급원. (S)-CBS → R, (R)-CBS → S 알코올이 주로 생긴다(일반적 경향).\n\n오답 분석:\n• [[smi:CC[C@H](O)c1ccccc1]] — (R)-CBS 시약의 결과(S 알코올) — (S)-CBS는 C=O의 앞면으로 H⁻를 전달해 R 알코올을 준다\n• [[smi:CCC(O)c1ccccc1]] — 입체 표시 없는 라세미 — NaBH₄처럼 카이랄이 아닌 환원제의 결과\n• [[smi:CCCc1ccccc1]] — C=O → CH₂ 환원과 혼동"
     },
     {
       "id": 6,
@@ -218,6 +218,66 @@
       ],
       "answer": "[[smi:OC(=O)/C=C/c1ccccc1]]",
       "explanation": "정답: [[smi:OC(=O)/C=C/c1ccccc1]]\nAg₂O는 순한 산화제라 다른 작용기(C=C, OH)가 있어도 CHO만 COOH로 바꾼다. CrO₃/H₂SO₄·KMnO₄는 더 강한 산화제.\n\n오답 분석:\n• [[smi:OC(=O)c1ccccc1]] — C=C가 끊어진 생성물(KMnO₄ 가열·오존 분해 결과) — Ag₂O는 C=C를 건드리지 않는다\n• [[smi:OC/C=C/c1ccccc1]] — 환원과 혼동\n• [[smi:OC(=O)CCc1ccccc1]] — C=C가 환원된 구조 — 산화 조건이다"
+    },
+    {
+      "id": 19,
+      "question": "[Ch20 · α,β-불포화 카보닐 완전 환원] 다음 반응의 주생성물은?\n[[rxn:O=C1C=CCCC1>>?|H₂ (과량)|Pd-C]]",
+      "choices": [
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:OC1C=CCCC1]]",
+        "[[smi:C1CCCCC1]]"
+      ],
+      "answer": "[[smi:OC1CCCCC1]]",
+      "explanation": "정답: [[smi:OC1CCCCC1]]\nPPT: 2-사이클로헥센온은 시약에 따라 세 가지로 환원된다 — NaBH₄ → 알릴 알코올, H₂(1당량) → 케톤, H₂(과량) → 사이클로헥산올.\n\n오답 분석:\n• [[smi:O=C1CCCCC1]] — H₂ 1당량일 때의 결과(C=C만)\n• [[smi:OC1C=CCCC1]] — NaBH₄일 때의 결과(C=O만)\n• [[smi:C1CCCCC1]] — C–O까지 끊어진 알케인 — 수소화는 C=O를 C–OH로만 만든다"
+    },
+    {
+      "id": 20,
+      "question": "[Ch20 · NaBH₄ 환원(이부프로펜 합성)] 다음 반응의 주생성물은?\n[[rxn:CC(C)Cc1ccc(C(C)=O)cc1>>?|NaBH₄|CH₃OH]]",
+      "choices": [
+        "[[smi:CC(C)Cc1ccc(C(C)O)cc1]]",
+        "[[smi:CC(C)Cc1ccc(CC)cc1]]",
+        "[[smi:CC(C)Cc1ccc(C(C)C(=O)O)cc1]]",
+        "[[smi:CC(C)Cc1ccc(C(C)O)cc1C]]"
+      ],
+      "answer": "[[smi:CC(C)Cc1ccc(C(C)O)cc1]]",
+      "explanation": "정답: [[smi:CC(C)Cc1ccc(C(C)O)cc1]]\nPPT 그림 20.2: 케톤 A → NaBH₄ → 2차 알코올 B → (3단계 더) → 이부프로펜.\n\n오답 분석:\n• [[smi:CC(C)Cc1ccc(CC)cc1]] — C=O → CH₂ 환원과 혼동\n• [[smi:CC(C)Cc1ccc(C(C)C(=O)O)cc1]] — 최종 목표물(이부프로펜) — NaBH₄ 한 단계로는 2차 알코올까지만\n• [[smi:CC(C)Cc1ccc(C(C)O)cc1C]] — 고리에 메틸이 더 붙음(탄소 수 착오)"
+    },
+    {
+      "id": 21,
+      "question": "[Ch20 · 생체 환원(NADH)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)C(=O)O>>?|NADH (H⁺ 공급)|젖산 탈수소효소]]",
+      "choices": [
+        "[[smi:C[C@H](O)C(=O)O]]",
+        "[[smi:CC(O)C(=O)O]]",
+        "[[smi:C[C@@H](O)C(=O)O]]",
+        "[[smi:CC(=O)CO]]"
+      ],
+      "answer": "[[smi:C[C@H](O)C(=O)O]]",
+      "explanation": "정답: [[smi:C[C@H](O)C(=O)O]]\nPPT: 피루브산 + NADH(젖산 탈수소효소) → (S)-젖산만. 생성물의 R/S는 어떤 효소가 촉매하느냐에 따라 정해진다.\n\n오답 분석:\n• [[smi:CC(O)C(=O)O]] — 라세미 — 효소 반응은 한 거울상만 만든다(완전한 거울상 선택성)\n• [[smi:C[C@@H](O)C(=O)O]] — (R)-젖산 — PPT: 이 효소로는 생기지 않는다(not formed)\n• [[smi:CC(=O)CO]] — 카복실산이 환원된 구조 — NADH는 케톤 C=O에 H⁻를 준다"
+    },
+    {
+      "id": 22,
+      "question": "[Ch20 · 생체 산화(NAD⁺)] 다음 반응의 주생성물은?\n[[rxn:CCO>>?|NAD⁺|알코올 탈수소효소]]",
+      "choices": [
+        "[[smi:CC=O]]",
+        "[[smi:CC(=O)O]]",
+        "[[smi:C=C]]",
+        "[[smi:COC]]"
+      ],
+      "answer": "[[smi:CC=O]]",
+      "explanation": "정답: [[smi:CC=O]]\nPPT: NAD⁺(NADH의 산화형, 비타민 나이아신에서 합성)는 생체 산화제 — 알코올 → 카보닐, 자신은 NADH가 된다.\n\n오답 분석:\n• [[smi:CC(=O)O]] — 카복실산까지 산화 — NAD⁺는 알코올을 카보닐로 산화한다(한 단계)\n• [[smi:C=C]] — 탈수와 혼동\n• [[smi:COC]] — 작용기 착오(에터)"
+    },
+    {
+      "id": 23,
+      "question": "[Ch20 · 알데하이드 산화(크로뮴)] 다음 반응의 주생성물은?\n[[rxn:CCCCC=O>>?|Na₂Cr₂O₇|H₂SO₄, H₂O]]",
+      "choices": [
+        "[[smi:CCCCC(=O)O]]",
+        "[[smi:CCCCCO]]",
+        "[[smi:CCCC(=O)O]]",
+        "[[smi:CCCC(C)=O]]"
+      ],
+      "answer": "[[smi:CCCCC(=O)O]]",
+      "explanation": "정답: [[smi:CCCCC(=O)O]]\n알데하이드 산화제: CrO₃, Na₂Cr₂O₇, K₂Cr₂O₇, KMnO₄(강함), Ag₂O(Tollens, 선택적). 케톤은 C=O 탄소에 H가 없어 산화되지 않는다.\n\n오답 분석:\n• [[smi:CCCCCO]] — 환원과 혼동\n• [[smi:CCCC(=O)O]] — 탄소 하나가 빠짐\n• [[smi:CCCC(C)=O]] — 케톤으로 바뀐다고 착각 — CHO의 C–H가 C–OH로 바뀐다"
     }
   ]
 }

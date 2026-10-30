@@ -209,15 +209,63 @@
     },
     {
       "id": 18,
-      "question": "[Ch20 · 보호기와 그리냐르] 다음 반응의 주생성물은?\n[[rxn:OCCCBr>>?|1) TBDMSCl, 이미다졸 2) Mg 3) CH₃CHO|4) H₃O⁺ 5) Bu₄N⁺F⁻]]",
+      "question": "[Ch20 · 보호기와 그리냐르] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCCO>>?|1) TBDMSCl, 이미다졸 2) CH₃MgCl|3) H₂O 4) Bu₄N⁺F⁻]]",
       "choices": [
-        "[[smi:CC(O)CCCO]]",
-        "[[smi:CC(O)CCCO[Si](C)(C)C(C)(C)C]]",
-        "[[smi:CCCO]]",
-        "[[smi:CC(=O)CCCO]]"
+        "[[smi:CC(C)(O)CCCO]]",
+        "[[smi:CC(C)(O)CCCO[Si](C)(C)C(C)(C)C]]",
+        "[[smi:CC(=O)CCCO]]",
+        "[[smi:CC(O)CCCO]]"
       ],
-      "answer": "[[smi:CC(O)CCCO]]",
-      "explanation": "정답: [[smi:CC(O)CCCO]]\nOH 보호(TBDMS 에터) → 그리냐르 형성·반응 → F⁻로 Si–O를 끊어 OH 복원 → 펜테인-1,4-다이올.\n\n오답 분석:\n• [[smi:CC(O)CCCO[Si](C)(C)C(C)(C)C]] — 탈보호(5단계 F⁻)를 빠뜨림\n• [[smi:CCCO]] — 보호하지 않았을 때의 결과(그리냐르가 자기 OH에 파괴됨)\n• [[smi:CC(=O)CCCO]] — 케톤 — 그리냐르 첨가 후 알코올이 된다"
+      "answer": "[[smi:CC(C)(O)CCCO]]",
+      "explanation": "정답: [[smi:CC(C)(O)CCCO]]\nPPT 예제(그림 20.7): 5-하이드록시-2-펜탄온 → OH를 TBDMS 에터로 보호(이미다졸은 HCl 흡수) → CH₃MgCl 첨가 → H₂O → TBAF로 탈보호 → 4-메틸펜테인-1,4-다이올.\n\n오답 분석:\n• [[smi:CC(C)(O)CCCO[Si](C)(C)C(C)(C)C]] — 탈보호(4단계 TBAF)를 빠뜨림\n• [[smi:CC(=O)CCCO]] — 보호하지 않았을 때: CH₃MgCl이 OH의 H⁺를 떼는 산–염기 반응만 일어나 케톤이 그대로 남는다\n• [[smi:CC(O)CCCO]] — 환원과 혼동 — 그리냐르는 메틸을 붙인다"
+    },
+    {
+      "id": 19,
+      "question": "[Ch20 · 리튬 아세틸라이드 만들기] 다음 반응의 주생성물은?\n[[rxn:CCCCC#C>>?|CH₃Li|]]",
+      "choices": [
+        "[[smi:CCCCC#C[Li]]]",
+        "[[smi:CCCCC#CC]]",
+        "[[smi:CCCCC(C)=C]]",
+        "[[smi:CCCCC=C]]"
+      ],
+      "answer": "[[smi:CCCCC#C[Li]]]",
+      "explanation": "정답: [[smi:CCCCC#C[Li]]]\nPPT: 말단 알카인 + CH₃Li → 리튬 아세틸라이드 + CH₄. sp C–H(pKa 25)가 CH₄(pKa 50)보다 훨씬 산성이라 평형이 생성물 쪽.\n\n오답 분석:\n• [[smi:CCCCC#CC]] — 메틸이 붙는다고 착각 — CH₃Li는 여기서 친핵체가 아니라 염기\n• [[smi:CCCCC(C)=C]] — 메틸이 삼중결합에 첨가된다고 착각\n• [[smi:CCCCC=C]] — 환원과 혼동"
+    },
+    {
+      "id": 20,
+      "question": "[Ch20 · 유기구리 + 에스터] 다음 반응의 결과는?\n[[rxn:CCOC(=O)C1CCCCC1>>?|(CH₃)₂CuLi|]]",
+      "choices": [
+        "반응하지 않는다(에스터가 그대로 남음)",
+        "[[smi:CC(=O)C1CCCCC1]]",
+        "[[smi:CC(C)(O)C1CCCCC1]]",
+        "[[smi:OCC1CCCCC1]]"
+      ],
+      "answer": "반응하지 않는다(에스터가 그대로 남음)",
+      "explanation": "정답: 반응하지 않는다(에스터가 그대로 남음)\nPPT: R₂CuLi는 반응성이 약해 산 염화물(가장 좋은 이탈기 Cl⁻)과만 케톤을 만들고, 에스터와는 반응하지 않는다.\n\n오답 분석:\n• [[smi:CC(=O)C1CCCCC1]] — 산 염화물일 때의 결과 — 에스터의 이탈기(⁻OR)는 Cl⁻보다 나빠 R₂CuLi와 반응하지 않는다\n• [[smi:CC(C)(O)C1CCCCC1]] — 그리냐르(2당량)일 때의 결과\n• [[smi:OCC1CCCCC1]] — 환원과 혼동"
+    },
+    {
+      "id": 21,
+      "question": "[Ch20 · 유기구리 + 에폭사이드] 다음 반응의 주생성물은?\n[[rxn:CC1CO1>>?|1) (CH₃CH₂)₂CuLi|2) H₂O]]",
+      "choices": [
+        "[[smi:CCCC(C)O]]",
+        "[[smi:CCC(C)CO]]",
+        "[[smi:CCC(=O)C]]",
+        "[[smi:CC(O)CO]]"
+      ],
+      "answer": "[[smi:CCCC(C)O]]",
+      "explanation": "정답: [[smi:CCCC(C)O]]\nPPT: RLi, RMgX, R₂CuLi 모두 에폭사이드를 연다. 뒤쪽에서 덜 치환된 탄소를 SN2 공격 → 양성자화 → 2-펜탄올.\n\n오답 분석:\n• [[smi:CCC(C)CO]] — 더 치환된 탄소를 공격한 결과\n• [[smi:CCC(=O)C]] — 케톤 — 에폭사이드 개환은 알코올을 준다\n• [[smi:CC(O)CO]] — 물이 고리를 연 다이올"
+    },
+    {
+      "id": 22,
+      "question": "[Ch20 · 아세틸라이드 첨가(에티닐에스트라다이올)] 다음 반응의 주생성물은?\n[[rxn:CC12CCC3C(CCc4cc(O)ccc34)C1CCC2=O>>?|1) HC≡C⁻ Li⁺ (과량)|2) H₂O]]",
+      "choices": [
+        "[[smi:C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C]]",
+        "[[smi:CC12CCC3C(CCc4cc(O)ccc34)C1CCC2O]]",
+        "[[smi:C#COc1ccc2c(c1)CCC1C2CCC2(C)C(=O)CCC12]]",
+        "[[smi:C#CC12CCC3C(CCc4cc(O)ccc34)C1CCC2=O]]"
+      ],
+      "answer": "[[smi:C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C]]",
+      "explanation": "정답: [[smi:C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C]]\nPPT 그림 20.5: 에스트론의 케톤에 아세틸라이드가 첨가 → 에티닐에스트라다이올(경구 피임약 성분). 아세틸라이드를 과량 쓰는 이유: 첫 당량은 페놀 OH와 산–염기 반응.\n\n오답 분석:\n• [[smi:CC12CCC3C(CCc4cc(O)ccc34)C1CCC2O]] — 환원과 혼동(에티닐이 붙지 않음)\n• [[smi:C#COc1ccc2c(c1)CCC1C2CCC2(C)C(=O)CCC12]] — 페놀 O에 붙음 — 페놀 OH는 아세틸라이드에 양성자만 빼앗기고(산–염기), 물 처리로 OH가 돌아온다\n• [[smi:C#CC12CCC3C(CCc4cc(O)ccc34)C1CCC2=O]] — 고리 탄소에 붙고 C=O가 남음 — 친핵체는 C=O 탄소에 첨가한다"
     }
   ]
 }

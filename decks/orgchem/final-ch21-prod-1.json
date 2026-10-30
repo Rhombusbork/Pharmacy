@@ -1,0 +1,175 @@
+{
+  "deckId": "orgchem-final-ch21-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch21 ① 생성물 고르기: 카보닐 만들기·탄소 친핵체·Wittig",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch21 · 1차 알코올 → 알데하이드] 다음 반응의 주생성물은?\n[[rxn:CCCCCO>>?|PCC|CH₂Cl₂]]",
+      "choices": [
+        "[[smi:CCCCC=O]]",
+        "[[smi:CCCCC(=O)O]]",
+        "[[smi:CCCC(C)=O]]",
+        "[[smi:CCCC=C]]"
+      ],
+      "answer": "[[smi:CCCCC=O]]",
+      "explanation": "정답: [[smi:CCCCC=O]]\nPPT 21쪽: 1차 알코올 + PCC → 알데하이드(Section 12.12B 복습).\n\n오답 분석:\n• [[smi:CCCCC(=O)O]] — CrO₃/H₂SO₄/H₂O(물 있음)일 때의 결과 — PCC는 물이 없어 알데하이드에서 멈춘다\n• [[smi:CCCC(C)=O]] — 케톤 — 1차 알코올은 알데하이드가 된다(C=O 위치 착오)\n• [[smi:CCCC=C]] — 탈수와 혼동"
+    },
+    {
+      "id": 2,
+      "question": "[Ch21 · 2차 알코올 → 케톤] 다음 반응의 주생성물은?\n[[rxn:OC1CCCCC1>>?|Na₂Cr₂O₇|H₂SO₄, H₂O]]",
+      "choices": [
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:C1=CCCCC1]]",
+        "[[smi:OC(=O)CCCCC(=O)O]]",
+        "[[smi:O=CC1CCCC1]]"
+      ],
+      "answer": "[[smi:O=C1CCCCC1]]",
+      "explanation": "정답: [[smi:O=C1CCCCC1]]\nPPT 22쪽: 2차 알코올 + CrO₃·Na₂Cr₂O₇·K₂Cr₂O₇·PCC → 케톤. 케톤은 C=O 탄소에 H가 없어 더 산화되지 않는다.\n\n오답 분석:\n• [[smi:C1=CCCCC1]] — 산 조건이라 탈수된다고 착각 — 크로뮴 시약은 산화제\n• [[smi:OC(=O)CCCCC(=O)O]] — 고리가 끊어진 다이카복실산 — 2차 알코올은 케톤에서 멈춘다\n• [[smi:O=CC1CCCC1]] — 고리 축소 알데하이드(탄소 배치 착오)"
+    },
+    {
+      "id": 3,
+      "question": "[Ch21 · 알카인 수소붕소화–산화] 다음 반응의 주생성물은?\n[[rxn:CCCCC#C>>?|1) BH₃|2) H₂O₂, ⁻OH]]",
+      "choices": [
+        "[[smi:CCCCCC=O]]",
+        "[[smi:CCCCC(C)=O]]",
+        "[[smi:CCCCCCO]]",
+        "[[smi:CCCC/C=C/O]]"
+      ],
+      "answer": "[[smi:CCCCCC=O]]",
+      "explanation": "정답: [[smi:CCCCCC=O]]\nPPT 21쪽: 말단 알카인 + BH₃ → (anti-Markovnikov) → 엔올 → 알데하이드 RCH₂CHO.\n\n오답 분석:\n• [[smi:CCCCC(C)=O]] — H₂SO₄/HgSO₄ 수화(Markovnikov)의 결과\n• [[smi:CCCCCCO]] — 알코올 — 알카인에서는 엔올이 생겨 카보닐로 토토머화된다\n• [[smi:CCCC/C=C/O]] — 엔올 중간체에서 멈춤 — 엔올은 곧 알데하이드로 토토머화"
+    },
+    {
+      "id": 4,
+      "question": "[Ch21 · 알카인 수화] 다음 반응의 주생성물은?\n[[rxn:CCCCC#C>>?|H₂O, H₂SO₄|HgSO₄]]",
+      "choices": [
+        "[[smi:CCCCC(C)=O]]",
+        "[[smi:CCCCCC=O]]",
+        "[[smi:CCCCC(O)=C]]",
+        "[[smi:CCCCC(C)O]]"
+      ],
+      "answer": "[[smi:CCCCC(C)=O]]",
+      "explanation": "정답: [[smi:CCCCC(C)=O]]\nPPT 22쪽: 말단 알카인 + H₂O/H₂SO₄/HgSO₄ → Markovnikov 엔올 → 메틸 케톤.\n\n오답 분석:\n• [[smi:CCCCCC=O]] — 수소붕소화–산화(anti-Markovnikov)의 결과\n• [[smi:CCCCC(O)=C]] — 엔올 중간체에서 멈춤\n• [[smi:CCCCC(C)O]] — 알코올 — 알카인 수화는 엔올을 거쳐 케톤이 된다"
+    },
+    {
+      "id": 5,
+      "question": "[Ch21 · 알켄 오존 분해] 다음 반응의 생성물로 옳은 것은?\n[[rxn:CCC=C(C)C>>?|1) O₃|2) Zn, H₂O 또는 CH₃SCH₃]]",
+      "choices": [
+        "[[smi:CCC=O]] + [[smi:CC(C)=O]]",
+        "[[smi:CCC(=O)O]] + [[smi:CC(C)=O]]",
+        "[[smi:CCC(O)C(C)(C)O]]",
+        "[[smi:CC=O]] + [[smi:CCC(C)=O]]"
+      ],
+      "answer": "[[smi:CCC=O]] + [[smi:CC(C)=O]]",
+      "explanation": "정답: [[smi:CCC=O]] + [[smi:CC(C)=O]]\nPPT 23쪽: C=C가 끊어지고 각 탄소에 =O가 붙는다. H가 있는 쪽 → 알데하이드, 알킬 두 개 쪽 → 케톤.\n\n오답 분석:\n• [[smi:CCC(=O)O]] + [[smi:CC(C)=O]] — 산화성 후처리(H₂O₂)일 때의 결과 — Zn/H₂O·DMS는 알데하이드를 그대로 둔다\n• [[smi:CCC(O)C(C)(C)O]] — 다이올 — OsO₄/KMnO₄ 다이하이드록시화와 혼동(C=C가 끊어지지 않음)\n• [[smi:CC=O]] + [[smi:CCC(C)=O]] — C=C가 아닌 다른 결합이 끊어진 조각(탄소 배분 착오)"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · Friedel–Crafts 아실화] 다음 반응의 주생성물은?\n[[rxn:c1ccccc1>>?|CH₃CH₂COCl|AlCl₃]]",
+      "choices": [
+        "[[smi:CCC(=O)c1ccccc1]]",
+        "[[smi:CCCc1ccccc1]]",
+        "[[smi:CCC(=O)c1ccc(C(=O)CC)cc1]]",
+        "[[smi:CCC(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CCC(=O)c1ccccc1]]\nPPT 22쪽: 벤젠 + RCOCl, AlCl₃ → 아실륨 이온(친전자체) → 아릴 케톤(Section 18.5 복습).\n\n오답 분석:\n• [[smi:CCCc1ccccc1]] — 알킬화(+ 환원)와 혼동 — 아실화는 C=O가 남는다\n• [[smi:CCC(=O)c1ccc(C(=O)CC)cc1]] — 두 번 아실화 — 아실기는 고리를 불활성화해 한 번에서 멈춘다\n• [[smi:CCC(O)c1ccccc1]] — 알코올 — 환원 단계가 없다"
+    },
+    {
+      "id": 7,
+      "question": "[Ch21 · 사이아노하이드린 형성] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|NaCN|HCl]]",
+      "choices": [
+        "[[smi:N#CC1(O)CCCCC1]]",
+        "[[smi:N#CC1CCCCC1=O]]",
+        "[[smi:N#COC1CCCCC1]]",
+        "[[smi:N#CC1CCCCC1]]"
+      ],
+      "answer": "[[smi:N#CC1(O)CCCCC1]]",
+      "explanation": "정답: [[smi:N#CC1(O)CCCCC1]]\nPPT 33~34쪽: NaCN + HCl(약산 HCN 생성) → CN⁻ 첨가 → 양성자화 → 사이아노하이드린. HCN만으로는 안 되고 강한 친핵체 ⁻CN이 필요. C–C 결합 형성 반응.\n\n오답 분석:\n• [[smi:N#CC1CCCCC1=O]] — α-탄소 치환과 혼동 — CN⁻은 C=O 탄소에 첨가한다\n• [[smi:N#COC1CCCCC1]] — 산소에 CN이 붙음 — 친핵체는 카보닐 탄소를 공격\n• [[smi:N#CC1CCCCC1]] — OH가 없는 구조 — C=O의 O는 양성자화되어 OH로 남는다"
+    },
+    {
+      "id": 8,
+      "question": "[Ch21 · 사이아노하이드린 + 염기] 다음 반응의 주생성물은?\n[[rxn:CC(C)(O)C#N>>?|NaOH|H₂O]]",
+      "choices": [
+        "[[smi:CC(C)=O]]",
+        "[[smi:CC(C)(O)C(N)=O]]",
+        "[[smi:CC(C)(O)C(=O)O]]",
+        "[[smi:CC(=C)C#N]]"
+      ],
+      "answer": "[[smi:CC(C)=O]]",
+      "explanation": "정답: [[smi:CC(C)=O]]\nPPT 35쪽: 사이아노하이드린 + 염기 → OH 탈양성자화 → ⁻CN 이탈 → 원래 카보닐(HCN 첨가의 역반응).\n\n오답 분석:\n• [[smi:CC(C)(O)C(N)=O]] — 부분 가수분해(아마이드) — 실온 염기에서는 역반응(⁻CN 이탈)이 먼저 일어난다\n• [[smi:CC(C)(O)C(=O)O]] — 가열 가수분해의 결과 — 조건이 다르다\n• [[smi:CC(=C)C#N]] — 탈수와 혼동"
+    },
+    {
+      "id": 9,
+      "question": "[Ch21 · 사이아노하이드린 가수분해] 다음 반응의 주생성물은?\n[[rxn:N#CC(O)c1ccccc1>>?|H₃O⁺|가열]]",
+      "choices": [
+        "[[smi:OC(=O)C(O)c1ccccc1]]",
+        "[[smi:NC(=O)C(O)c1ccccc1]]",
+        "[[smi:O=Cc1ccccc1]]",
+        "[[smi:NCC(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:OC(=O)C(O)c1ccccc1]]",
+      "explanation": "정답: [[smi:OC(=O)C(O)c1ccccc1]]\nPPT 35쪽: C≡N → (아마이드) → COOH. 벤즈알데하이드 사이아노하이드린 → 만델산(α-하이드록시산).\n\n오답 분석:\n• [[smi:NC(=O)C(O)c1ccccc1]] — 아마이드 중간체에서 멈춤 — 가열하면 카복실산까지 간다\n• [[smi:O=Cc1ccccc1]] — 염기에서의 역반응 결과 — 산·가열은 CN을 COOH로 가수분해한다\n• [[smi:NCC(O)c1ccccc1]] — LiAlH₄ 환원의 결과(β-아미노 알코올)"
+    },
+    {
+      "id": 10,
+      "question": "[Ch21 · Wittig 시약 만들기] 다음 반응의 주생성물은?\n[[rxn:c1ccc(cc1)P(c1ccccc1)c1ccccc1>>?|1) CH₃CH₂Br|2) BuLi]]",
+      "choices": [
+        "[[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]",
+        "[[smi:CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1]]",
+        "[[smi:O=P(c1ccccc1)(c1ccccc1)c1ccccc1]]",
+        "[[smi:C=C[P+](c1ccccc1)(c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]",
+      "explanation": "정답: [[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]\nPPT 40~41쪽: Ph₃P: + RCH₂X(SN2, 메틸·1차 할라이드) → 포스포늄염 → BuLi(강염기) → 일라이드 Ph₃P=CHR (포스포레인).\n\n오답 분석:\n• [[smi:CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — 1단계(SN2) 포스포늄염에서 멈춤 — BuLi가 P⁺ 옆 C–H를 떼어 일라이드가 된다\n• [[smi:O=P(c1ccccc1)(c1ccccc1)c1ccccc1]] — Wittig 반응의 부산물(Ph₃P=O)과 혼동\n• [[smi:C=C[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — E2로 바이닐이 생긴다고 착각"
+    },
+    {
+      "id": 11,
+      "question": "[Ch21 · Wittig 반응] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|Ph₃P=CHCH₃|]]",
+      "choices": [
+        "[[smi:CC=C1CCCCC1]]",
+        "[[smi:CCC1=CCCCC1]]",
+        "[[smi:CCC1(O)CCCCC1]]",
+        "[[smi:CC1C2(CCCCC2)OP1(c1ccccc1)(c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC=C1CCCCC1]]",
+      "explanation": "정답: [[smi:CC=C1CCCCC1]]\nPPT 42쪽: 일라이드 탄소가 C=O 탄소 공격 → 옥사포스페테인(4원 고리) → 알켄 + Ph₃P=O(강한 P=O가 구동력).\n\n오답 분석:\n• [[smi:CCC1=CCCCC1]] — C=C가 고리 안으로 옮겨감 — Wittig은 C=O 자리에 정확히 C=C를 만든다\n• [[smi:CCC1(O)CCCCC1]] — 그리냐르 첨가 결과와 혼동\n• [[smi:CC1C2(CCCCC2)OP1(c1ccccc1)(c1ccccc1)c1ccccc1]] — 옥사포스페테인 중간체에서 멈춤 — 쪼개져 알켄 + Ph₃P=O"
+    },
+    {
+      "id": 12,
+      "question": "[Ch21 · Wittig 반응(알데하이드)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|Ph₃P=CH₂|]]",
+      "choices": [
+        "[[smi:C=Cc1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]",
+        "[[smi:C(=Cc1ccccc1)c1ccccc1]]",
+        "[[smi:O=CCc1ccccc1]]"
+      ],
+      "answer": "[[smi:C=Cc1ccccc1]]",
+      "explanation": "정답: [[smi:C=Cc1ccccc1]]\nC=O의 O 자리에 일라이드 탄소(=CH₂)가 들어간다 → 스타이렌.\n\n오답 분석:\n• [[smi:CC(O)c1ccccc1]] — 그리냐르(CH₃MgBr) 결과와 혼동\n• [[smi:C(=Cc1ccccc1)c1ccccc1]] — 벤즈알데하이드 두 분자가 이어진 구조(스틸벤) — 일라이드의 CH₂가 들어간다\n• [[smi:O=CCc1ccccc1]] — 탄소가 하나 늘어난 알데하이드 — C=O의 O가 =CH₂로 바뀐다"
+    },
+    {
+      "id": 13,
+      "question": "[Ch21 · 그리냐르 + 탈수 (Wittig과 비교)] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|1) CH₃MgBr 2) H₂O|3) H₂SO₄]]",
+      "choices": [
+        "[[smi:CC1=CCCCC1]]",
+        "[[smi:C=C1CCCCC1]]",
+        "[[smi:CC1(O)CCCCC1]]",
+        "[[smi:CC1CCCCC1]]"
+      ],
+      "answer": "[[smi:CC1=CCCCC1]]",
+      "explanation": "정답: [[smi:CC1=CCCCC1]]\nPPT 47쪽: 그리냐르 + 탈수 → 1-메틸사이클로헥센(삼치환, 주) + 메틸렌사이클로헥세인(이치환, 소량)의 혼합물.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 소량 생성물(이치환 C=C) — 탈수는 더 치환된(Zaitsev) 알켄이 주생성물\n• [[smi:CC1(O)CCCCC1]] — 3단계 탈수 전 3차 알코올에서 멈춤\n• [[smi:CC1CCCCC1]] — 환원된 알케인 — H₂SO₄는 탈수 촉매"
+    },
+    {
+      "id": 14,
+      "question": "[Ch21 · Wittig으로 C=C 위치 정하기] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|Ph₃P=CH₂|]]",
+      "choices": [
+        "[[smi:C=C1CCCCC1]]",
+        "[[smi:CC1=CCCCC1]]",
+        "[[smi:CC1(O)CCCCC1]]",
+        "[[smi:C1=CCCCC1]]"
+      ],
+      "answer": "[[smi:C=C1CCCCC1]]",
+      "explanation": "정답: [[smi:C=C1CCCCC1]]\nPPT 46~47쪽: Wittig은 C=O가 있던 자리에만 C=C를 만들어 메틸렌사이클로헥세인 B만 생긴다(only product).\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 그리냐르 + 탈수의 주생성물 — Wittig은 구조이성질체 하나만 준다\n• [[smi:CC1(O)CCCCC1]] — 그리냐르 첨가와 혼동\n• [[smi:C1=CCCCC1]] — 탄소가 들어가지 않은 구조"
+    }
+  ]
+}
