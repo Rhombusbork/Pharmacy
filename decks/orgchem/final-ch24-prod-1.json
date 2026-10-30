@@ -1,0 +1,247 @@
+{
+  "deckId": "orgchem-final-ch24-prod-1",
+  "subject": "유기약화학",
+  "title": "Ch24 생성물 고르기: 알돌·Claisen·Dieckmann·마이클·Robinson",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch24 · 알돌 반응] 다음 반응의 주생성물은?\n[[rxn:CC=O>>?|⁻OH|H₂O (저온)]]",
+      "choices": [
+        "[[smi:CC(O)CC=O]]",
+        "[[smi:CC=CC=O]]",
+        "[[smi:CC(O)C(C)=O]]",
+        "[[smi:CC(=O)CC=O]]"
+      ],
+      "answer": "[[smi:CC(O)CC=O]]",
+      "explanation": "정답: [[smi:CC(O)CC=O]]\nPPT 3~4쪽: 알데하이드 2분자 + ⁻OH → β-하이드록시 카보닐(3-하이드록시뷰탄알). 한 분자는 엔올 음이온(친핵체), 다른 분자는 카보닐(친전자체).\n\n오답 분석:\n• [[smi:CC=CC=O]] — 탈수(축합)까지 간 크로톤알데하이드 — 가열하지 않으면 β-하이드록시 알데하이드(알돌)\n• [[smi:CC(O)C(C)=O]] — OH 위치 착오 — 새 C–C는 한 분자의 α탄소와 다른 분자의 카보닐 탄소 사이\n• [[smi:CC(=O)CC=O]] — 산화 상태 착오(β-다이카보닐)"
+    },
+    {
+      "id": 2,
+      "question": "[Ch24 · 알돌 반응(프로판알)] 다음 반응의 주생성물은?\n[[rxn:CCC=O>>?|⁻OH|H₂O]]",
+      "choices": [
+        "[[smi:CCC(O)C(C)C=O]]",
+        "[[smi:CCC(O)CCC=O]]",
+        "[[smi:CCC=C(C)C=O]]",
+        "[[smi:CCC(=O)C(C)C=O]]"
+      ],
+      "answer": "[[smi:CCC(O)C(C)C=O]]",
+      "explanation": "정답: [[smi:CCC(O)C(C)C=O]]\nPPT 7~8쪽: 한 분자의 α탄소가 다른 분자의 카보닐 탄소와 결합 → 3-하이드록시-2-메틸펜탄알.\n\n오답 분석:\n• [[smi:CCC(O)CCC=O]] — 말단 CH₃가 결합한 구조 — 결합하는 것은 α탄소(CH₂)이므로 가지(메틸)가 생긴다\n• [[smi:CCC=C(C)C=O]] — 탈수 생성물(가열 조건)\n• [[smi:CCC(=O)C(C)C=O]] — 산화 상태 착오"
+    },
+    {
+      "id": 3,
+      "question": "[Ch24 · 알돌 축합(탈수)] 다음 반응의 주생성물은?\n[[rxn:CCC=O>>?|⁻OH, H₂O|가열(Δ)]]",
+      "choices": [
+        "[[smi:CCC=C(C)C=O]]",
+        "[[smi:CCC(O)C(C)C=O]]",
+        "[[smi:CC=CC(C)C=O]]",
+        "[[smi:CCC=CC=O]]"
+      ],
+      "answer": "[[smi:CCC=C(C)C=O]]",
+      "explanation": "정답: [[smi:CCC=C(C)C=O]]\nPPT 9~12쪽: 염기 조건에서 알돌은 α·β에서 H₂O가 빠져(E1cB: 엔올 음이온 형성 → ⁻OH 이탈) 콘쥬게이션된 α,β-불포화 카보닐 → 2-메틸펜트-2-엔알. 작은 분자가 빠지므로 '알돌 축합'.\n\n오답 분석:\n• [[smi:CCC(O)C(C)C=O]] — 탈수 전 알돌에서 멈춤\n• [[smi:CC=CC(C)C=O]] — C=O와 콘쥬게이션되지 않은 β,γ-불포화 — 물은 α·β 탄소에서 빠진다\n• [[smi:CCC=CC=O]] — 탄소 수 착오(메틸 가지 누락)"
+    },
+    {
+      "id": 4,
+      "question": "[Ch24 · 교차 알돌(α-H 없는 받개)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|CH₃CHO, ⁻OH, H₂O|]]",
+      "choices": [
+        "[[smi:O=C/C=C/c1ccccc1]]",
+        "[[smi:OC(CC=O)c1ccccc1]]",
+        "[[smi:CC=CC=O]]",
+        "[[smi:C=CC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:O=C/C=C/c1ccccc1]]",
+      "explanation": "정답: [[smi:O=C/C=C/c1ccccc1]]\nPPT 16쪽 [1]: 한쪽만 α-H를 가지면 생성물 하나 → 신남알데하이드(계피 성분).\n\n오답 분석:\n• [[smi:OC(CC=O)c1ccccc1]] — 탈수 전 알돌 — PPT: 괄호 속 중간체로 남지 않고 콘쥬게이션 생성물이 된다\n• [[smi:CC=CC=O]] — 아세트알데하이드끼리의 자기 알돌 — 벤즈알데하이드가 반응성 큰 받개로 작용\n• [[smi:C=CC(=O)c1ccccc1]] — 벤즈알데하이드가 엔올 음이온이 된 구조 — α-H가 없어 불가능"
+    },
+    {
+      "id": 5,
+      "question": "[Ch24 · 교차 알돌(벤즈알데하이드 + 아세톤)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|CH₃COCH₃, ⁻OH, H₂O|]]",
+      "choices": [
+        "[[smi:CC(=O)/C=C/c1ccccc1]]",
+        "[[smi:CC(C)=CC(C)=O]]",
+        "[[smi:CC(=O)CC(O)c1ccccc1]]",
+        "[[smi:O=C(/C=C/c1ccccc1)/C=C/c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(=O)/C=C/c1ccccc1]]",
+      "explanation": "정답: [[smi:CC(=O)/C=C/c1ccccc1]]\nPPT 16쪽 [2]: 케톤(아세톤)만 엔올 음이온이 됨 → 벤잘아세톤(4-페닐뷰트-3-엔-2-온).\n\n오답 분석:\n• [[smi:CC(C)=CC(C)=O]] — 아세톤 자기 알돌(메시틸 옥사이드) — 받개는 더 반응성 큰 알데하이드\n• [[smi:CC(=O)CC(O)c1ccccc1]] — 탈수 전 알돌\n• [[smi:O=C(/C=C/c1ccccc1)/C=C/c1ccccc1]] — 양쪽 모두 축합된 구조 — 벤즈알데하이드를 과량 넣었을 때"
+    },
+    {
+      "id": 6,
+      "question": "[Ch24 · 교차 알돌(활성 메틸렌)] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|CH₂(COOEt)₂|NaOEt, EtOH]]",
+      "choices": [
+        "[[smi:CCOC(=O)C(=Cc1ccccc1)C(=O)OCC]]",
+        "[[smi:CCOC(=O)C(C(=O)OCC)C(O)c1ccccc1]]",
+        "[[smi:CCOC(=O)C(Cc1ccccc1)C(=O)OCC]]",
+        "[[smi:CCOC(=O)CC(=O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCOC(=O)C(=Cc1ccccc1)C(=O)OCC]]",
+      "explanation": "정답: [[smi:CCOC(=O)C(=Cc1ccccc1)C(=O)OCC]]\nPPT 17~19쪽(그림 24.2): β-다이카보닐(활성 메틸렌, pKa 약 13)의 H가 가장 쉽게 떨어져 항상 엔올 음이온 쪽 → 매우 콘쥬게이션된 생성물.\n\n오답 분석:\n• [[smi:CCOC(=O)C(C(=O)OCC)C(O)c1ccccc1]] — 탈수 전 β-하이드록시 화합물 — 분리되지 않고 바로 물이 빠진다(not isolated)\n• [[smi:CCOC(=O)C(Cc1ccccc1)C(=O)OCC]] — C=C가 환원된 알킬화 생성물\n• [[smi:CCOC(=O)CC(=O)c1ccccc1]] — Claisen형 아실화와 혼동 — 받개는 알데하이드"
+    },
+    {
+      "id": 7,
+      "question": "[Ch24 · 폼알데하이드와의 교차 알돌] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|CH₂=O|⁻OH, H₂O]]",
+      "choices": [
+        "[[smi:OCC1CCCCC1=O]]",
+        "[[smi:C=C1CCCCC1]]",
+        "[[smi:OCC1(O)CCCCC1]]",
+        "[[smi:O=C1CCCCC1C1(O)CCCCC1]]"
+      ],
+      "answer": "[[smi:OCC1CCCCC1=O]]",
+      "explanation": "정답: [[smi:OCC1CCCCC1=O]]\nPPT 20쪽(그림 24.3) 1단계: 사이클로헥산온 + HCHO → β-하이드록시 카보닐(2-하이드록시메틸사이클로헥산온).\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — Wittig과 혼동\n• [[smi:OCC1(O)CCCCC1]] — 폼알데하이드가 C=O 탄소에 붙음 — 사이클로헥산온의 α탄소(엔올 음이온)가 HCHO 탄소를 공격\n• [[smi:O=C1CCCCC1C1(O)CCCCC1]] — 사이클로헥산온 자기 알돌 — 받개는 더 반응성 큰 HCHO"
+    },
+    {
+      "id": 8,
+      "question": "[Ch24 · 알돌 생성물의 활용] 다음 반응의 주생성물은?\n[[rxn:C=C1CCCCC1=O>>?|1) (CH₃)₂CuLi|2) H₂O]]",
+      "choices": [
+        "[[smi:CCC1CCCCC1=O]]",
+        "[[smi:C=C1CCCCC1(C)O]]",
+        "[[smi:CC1CCCCC1=O]]",
+        "[[smi:C=C1CCCCC1O]]"
+      ],
+      "answer": "[[smi:CCC1CCCCC1=O]]",
+      "explanation": "정답: [[smi:CCC1CCCCC1=O]]\nPPT 20쪽(그림 24.3): 알돌 → 탈수로 얻은 α,β-불포화 카보닐은 NaBH₄(알릴 알코올), H₂(케톤), RMgX(1,2), R₂CuLi(1,4)로 다양하게 변환된다. 여기서는 1,4-첨가 → 2-에틸사이클로헥산온.\n\n오답 분석:\n• [[smi:C=C1CCCCC1(C)O]] — 1,2-첨가 — 그리냐르(RMgX)를 썼을 때\n• [[smi:CC1CCCCC1=O]] — 환원(H₂, Pd-C 1당량)과 혼동\n• [[smi:C=C1CCCCC1O]] — NaBH₄ 환원과 혼동(알릴 알코올)"
+    },
+    {
+      "id": 9,
+      "question": "[Ch24 · 방향성 알돌] 다음 반응의 주생성물은?\n[[rxn:CC1CCCCC1=O>>?|1) LDA, THF, −78 °C 2) CH₃CHO|3) H₂O]]",
+      "choices": [
+        "[[smi:CC(O)C1CCCC(C)C1=O]]",
+        "[[smi:CC(O)C1(C)CCCCC1=O]]",
+        "[[smi:CC(O)CC=O]]",
+        "[[smi:CC(C)(O)C1CCCCC1=O]]"
+      ],
+      "answer": "[[smi:CC(O)C1CCCC(C)C1=O]]",
+      "explanation": "정답: [[smi:CC(O)C1CCCC(C)C1=O]]\nPPT 21쪽: 방향성 알돌 = ① LDA로 한쪽의 엔올 음이온을 먼저 완전히 만든다 ② 다른 카보닐(친전자체)을 넣는다. 두 화합물 모두 α-H가 있어도 생성물 하나.\n\n오답 분석:\n• [[smi:CC(O)C1(C)CCCCC1=O]] — 더 치환된 자리(열역학적 엔올 음이온)에서 반응 — LDA는 덜 치환된 속도론적 엔올 음이온\n• [[smi:CC(O)CC=O]] — 아세트알데하이드 자기 알돌 — LDA로 케톤 엔올 음이온을 먼저 다 만든 뒤 넣으므로 일어나지 않음\n• [[smi:CC(C)(O)C1CCCCC1=O]] — 엔올 음이온·받개 역할 착오"
+    },
+    {
+      "id": 10,
+      "question": "[Ch24 · 분자 내 알돌(1,4-다이카보닐)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCC(C)=O>>?|NaOEt, EtOH|가열]]",
+      "choices": [
+        "[[smi:CC1=CC(=O)CC1]]",
+        "[[smi:CC1(O)CCC(=O)C1]]",
+        "[[smi:CC1=CC(=O)CCC1]]",
+        "[[smi:CC1=CCC(=O)C1]]"
+      ],
+      "answer": "[[smi:CC1=CC(=O)CC1]]",
+      "explanation": "정답: [[smi:CC1=CC(=O)CC1]]\nPPT 23~25쪽: 2,5-헥세인다이온 → 말단 CH₃의 엔올 음이온(A)이 반대쪽 C=O 공격 → 5원 고리(3-메틸사이클로펜트-2-엔온). 안쪽 CH₂의 엔올 음이온(B)은 무리한 3원 고리라 불리.\n\n오답 분석:\n• [[smi:CC1(O)CCC(=O)C1]] — 탈수 전 알돌\n• [[smi:CC1=CC(=O)CCC1]] — 6원 고리 — 1,5-다이카보닐일 때\n• [[smi:CC1=CCC(=O)C1]] — C=O와 콘쥬게이션되지 않은 β,γ-불포화"
+    },
+    {
+      "id": 11,
+      "question": "[Ch24 · 분자 내 알돌(1,5-다이카보닐)] 다음 반응의 주생성물은?\n[[rxn:CC(=O)CCCC(C)=O>>?|NaOEt, EtOH|가열]]",
+      "choices": [
+        "[[smi:CC1=CC(=O)CCC1]]",
+        "[[smi:CC1=CC(=O)CC1]]",
+        "[[smi:CC1(O)CCCC(=O)C1]]",
+        "[[smi:CC(=O)C1=C(C)CCC1]]"
+      ],
+      "answer": "[[smi:CC1=CC(=O)CCC1]]",
+      "explanation": "정답: [[smi:CC1=CC(=O)CCC1]]\nPPT 26쪽: 1,5-다이카보닐 → 6원 고리 → 3-메틸사이클로헥스-2-엔온(프로게스테론 합성에도 사용, 27쪽).\n\n오답 분석:\n• [[smi:CC1=CC(=O)CC1]] — 5원 고리 — 1,4-다이카보닐일 때\n• [[smi:CC1(O)CCCC(=O)C1]] — 탈수 전 알돌\n• [[smi:CC(=O)C1=C(C)CCC1]] — 안쪽 CH₂가 엔올 음이온이 되어 생긴 고리 — 6원 고리를 만드는 말단 CH₃ 쪽이 유리"
+    },
+    {
+      "id": 12,
+      "question": "[Ch24 · Claisen 반응] 다음 반응의 주생성물은?\n[[rxn:CCC(=O)OCC>>?|1) NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCC(=O)C(C)C(=O)OCC]]",
+        "[[smi:CCC(=O)CC(=O)OCC]]",
+        "[[smi:CCC(O)(OCC)C(C)C(=O)OCC]]",
+        "[[smi:CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCC(=O)C(C)C(=O)OCC]]",
+      "explanation": "정답: [[smi:CCC(=O)C(C)C(=O)OCC]]\nPPT 28~30쪽: 에스터 2분자 + 알콕사이드 → β-케토 에스터(2-메틸-3-옥소펜탄산 에틸). 알돌(첨가)과 달리 친핵성 아실 '치환'. 생성물의 산성 H를 떼느라 염기 1당량이 필요하고 마지막에 산 처리.\n\n오답 분석:\n• [[smi:CCC(=O)CC(=O)OCC]] — 말단 탄소가 결합한 구조 — 결합은 α탄소(메틸 달린 탄소)\n• [[smi:CCC(O)(OCC)C(C)C(=O)OCC]] — 사면체 중간체에서 멈춤 — ⁻OEt가 이탈(치환)\n• [[smi:CCC(=O)O]] — 비누화와 혼동"
+    },
+    {
+      "id": 13,
+      "question": "[Ch24 · 교차 Claisen(에스터 + 에스터)] 다음 반응의 주생성물은?\n[[rxn:CCOC(=O)c1ccccc1>>?|1) CH₃COOEt, NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCOC(=O)CC(=O)c1ccccc1]]",
+        "[[smi:CCOC(=O)CC(C)=O]]",
+        "[[smi:CCOC(=O)C(C(=O)c1ccccc1)C(=O)c1ccccc1]]",
+        "[[smi:O=C(CC(=O)c1ccccc1)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCOC(=O)CC(=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CCOC(=O)CC(=O)c1ccccc1]]\nPPT 31쪽 [1]: α-H가 한쪽 에스터에만 있으면 생성물 하나 → 벤조일아세트산 에틸(β-케토 에스터).\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen(아세토아세트산 에틸)\n• [[smi:CCOC(=O)C(C(=O)c1ccccc1)C(=O)c1ccccc1]] — 두 번 아실화\n• [[smi:O=C(CC(=O)c1ccccc1)c1ccccc1]] — 벤조산 에틸이 엔올 음이온이 된 구조 — α-H가 없어 받개만 가능"
+    },
+    {
+      "id": 14,
+      "question": "[Ch24 · 교차 Claisen(케톤 + 에스터)] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|1) PhCOOEt, NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:O=C(C1CCCCC1=O)c1ccccc1]]",
+        "[[smi:CCOC(=O)C1CCCCC1=O]]",
+        "[[smi:O=C1CCCCC1C(O)c1ccccc1]]",
+        "[[smi:OC1(c2ccccc2)CCCCC1]]"
+      ],
+      "answer": "[[smi:O=C(C1CCCCC1=O)c1ccccc1]]",
+      "explanation": "정답: [[smi:O=C(C1CCCCC1=O)c1ccccc1]]\nPPT 32쪽 [2]: 케톤과 에스터 → 엔올 음이온은 항상 케톤(더 산성)에서, 에스터는 α-H가 없을 때 가장 좋다 → β-다이카보닐(β-다이케톤).\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCCC1=O]] — 에스터 쪽이 들어간 β-케토 에스터 — 이탈하는 것은 ⁻OEt, 남는 아실기는 벤조일\n• [[smi:O=C1CCCCC1C(O)c1ccccc1]] — 알돌형 첨가 생성물 — 에스터 받개는 치환(⁻OEt 이탈)\n• [[smi:OC1(c2ccccc2)CCCCC1]] — C=O에 페닐이 첨가된 구조(그리냐르와 혼동)"
+    },
+    {
+      "id": 15,
+      "question": "[Ch24 · 클로로폼산 에틸로 β-케토 에스터] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|1) NaOEt|2) ClCOOEt]]",
+      "choices": [
+        "[[smi:CCOC(=O)C1CCCCC1=O]]",
+        "[[smi:O=C(Cl)C1CCCCC1=O]]",
+        "[[smi:CCOC(=O)OC1=CCCCC1]]",
+        "[[smi:O=C1CCCCC1Cl]]"
+      ],
+      "answer": "[[smi:CCOC(=O)C1CCCCC1=O]]",
+      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\nPPT 33~34쪽 [2]: 엔올 음이온 + 클로로폼산 에틸 → Cl⁻ 이탈 → β-케토 에스터(2-옥소사이클로헥세인카복실산 에틸). 아세토아세트산 에스터 합성의 출발물로 유용.\n\n오답 분석:\n• [[smi:O=C(Cl)C1CCCCC1=O]] — Cl이 남은 산 염화물 — Cl⁻가 ⁻OEt보다 좋은 이탈기라 Cl이 빠진다\n• [[smi:CCOC(=O)OC1=CCCCC1]] — 산소 쪽 아실화(엔올 카보네이트)\n• [[smi:O=C1CCCCC1Cl]] — α-염소화와 혼동"
+    },
+    {
+      "id": 16,
+      "question": "[Ch24 · 탄산 다이에틸로 말론산 에스터] 다음 반응의 주생성물은?\n[[rxn:CCOC(C)=O>>?|1) NaOEt|2) (EtO)₂C=O]]",
+      "choices": [
+        "[[smi:CCOC(=O)CC(=O)OCC]]",
+        "[[smi:CCOC(=O)CC(C)=O]]",
+        "[[smi:CCOC(=O)C(C(=O)OCC)C(=O)OCC]]",
+        "[[smi:CCOC(=O)OCC]]"
+      ],
+      "answer": "[[smi:CCOC(=O)CC(=O)OCC]]",
+      "explanation": "정답: [[smi:CCOC(=O)CC(=O)OCC]]\nPPT 33쪽 [1]: 아세트산 에틸 엔올 음이온 + 탄산 다이에틸 → ⁻OEt 이탈 → 다이에틸 말로네이트.\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen\n• [[smi:CCOC(=O)C(C(=O)OCC)C(=O)OCC]] — 두 번 아실화\n• [[smi:CCOC(=O)OCC]] — 출발물(탄산 다이에틸)"
+    },
+    {
+      "id": 17,
+      "question": "[Ch24 · Dieckmann 반응] 다음 반응의 주생성물은?\n[[rxn:CCOC(=O)CCCCCC(=O)OCC>>?|1) NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCOC(=O)C1CCCCC1=O]]",
+        "[[smi:CCOC(=O)C1CCCC1=O]]",
+        "[[smi:O=C1CCCCC1]]",
+        "[[smi:CCOC(=O)CCCCCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCOC(=O)C1CCCCC1=O]]",
+      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\nPPT 35~36쪽: 분자 내 Claisen = Dieckmann. 1,6-다이에스터 → 5원, 1,7-다이에스터(헵테인다이오산 다이에틸) → 6원 고리 β-케토 에스터.\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCC1=O]] — 5원 고리 — 1,6-다이에스터일 때\n• [[smi:O=C1CCCCC1]] — 탈카복실화까지 간 구조 — H₃O⁺ 처리만 하고 가열(가수분해·탈카복실화)은 안 함\n• [[smi:CCOC(=O)CCCCCC(=O)O]] — 가수분해와 혼동"
+    },
+    {
+      "id": 18,
+      "question": "[Ch24 · 마이클 반응] 다음 반응의 주생성물은?\n[[rxn:O=C1C=CCCC1>>?|CH₃COCH₂COOEt|NaOEt, EtOH]]",
+      "choices": [
+        "[[smi:CCOC(=O)C(C(C)=O)C1CCCC(=O)C1]]",
+        "[[smi:CCOC(=O)C(C(C)=O)C1(O)C=CCCC1]]",
+        "[[smi:CCOC(=O)C(C(C)=O)C1CCCCC1=O]]",
+        "[[smi:CCOC(=O)CC(=O)CC1CCCC(=O)C1]]"
+      ],
+      "answer": "[[smi:CCOC(=O)C(C(C)=O)C1CCCC(=O)C1]]",
+      "explanation": "정답: [[smi:CCOC(=O)C(C(C)=O)C1CCCC(=O)C1]]\nPPT 37~39쪽: 마이클 = 엔올 음이온(주개) + α,β-불포화 카보닐(받개, β탄소 공격) → 1,4-첨가 → 엔올 음이온 양성자화.\n\n오답 분석:\n• [[smi:CCOC(=O)C(C(C)=O)C1(O)C=CCCC1]] — 1,2-첨가 — 안정화된 엔올 음이온은 β탄소에 1,4-첨가\n• [[smi:CCOC(=O)C(C(C)=O)C1CCCCC1=O]] — α탄소에 붙음 — 친핵체는 β탄소\n• [[smi:CCOC(=O)CC(=O)CC1CCCC(=O)C1]] — 메틸 쪽이 결합한 구조 — 가장 산성인 두 C=O 사이 탄소가 엔올 음이온"
+    },
+    {
+      "id": 19,
+      "question": "[Ch24 · 마이클 생성물 → 1,5-다이카보닐] 다음 반응의 주생성물은?\n[[rxn:CCOC(=O)C(C(C)=O)C1CCCC(=O)C1>>?|H₃O⁺|가열(Δ)]]",
+      "choices": [
+        "[[smi:CC(=O)CC1CCCC(=O)C1]]",
+        "[[smi:CC(=O)C(C(=O)O)C1CCCC(=O)C1]]",
+        "[[smi:CCOC(=O)CC1CCCC(=O)C1]]",
+        "[[smi:CC(O)CC1CCCC(=O)C1]]"
+      ],
+      "answer": "[[smi:CC(=O)CC1CCCC(=O)C1]]",
+      "explanation": "정답: [[smi:CC(=O)CC1CCCC(=O)C1]]\nPPT 40쪽: 마이클 생성물이 β-케토 에스터면 산 가수분해·탈카복실화 → 1,5-다이카보닐 → 분자 내 알돌의 출발물(Robinson으로 이어짐).\n\n오답 분석:\n• [[smi:CC(=O)C(C(=O)O)C1CCCC(=O)C1]] — 가수분해만 되고 탈카복실화 전\n• [[smi:CCOC(=O)CC1CCCC(=O)C1]] — 잘못된 쪽이 떨어짐 — CO₂로 빠지는 것은 에스터 탄소\n• [[smi:CC(O)CC1CCCC(=O)C1]] — 환원과 혼동"
+    },
+    {
+      "id": 20,
+      "question": "[Ch24 · Robinson 고리만듦] 다음 반응의 주생성물은?\n[[rxn:CC1CCCCC1=O>>?|CH₂=CHCOCH₃|NaOEt, EtOH]]",
+      "choices": [
+        "[[smi:CC12CCCCC1=CC(=O)CC2]]",
+        "[[smi:CC1(CCC(C)=O)CCCCC1=O]]",
+        "[[smi:O=C1CCC2CCCCC2=C1]]",
+        "[[smi:CC1CCCC2=CC(=O)CCC12]]"
+      ],
+      "answer": "[[smi:CC12CCCCC1=CC(=O)CC2]]",
+      "explanation": "정답: [[smi:CC12CCCCC1=CC(=O)CC2]]\nPPT 42~47쪽: Robinson = 마이클 + 분자 내 알돌(+ 탈수) → 새 6원 고리, 2-사이클로헥센온. C–C 결합 3개(σ 2, π 1).\n\n오답 분석:\n• [[smi:CC1(CCC(C)=O)CCCCC1=O]] — 마이클 생성물에서 멈춤 — 이어서 분자 내 알돌·탈수\n• [[smi:O=C1CCC2CCCCC2=C1]] — 메틸이 빠진 구조 — 2-메틸사이클로헥산온의 메틸이 고리 접합에 남는다\n• [[smi:CC1CCCC2=CC(=O)CCC12]] — 덜 치환된 α탄소에서 반응한 구조 — NaOEt(평형)는 더 치환된 엔올 음이온"
+    }
+  ]
+}
