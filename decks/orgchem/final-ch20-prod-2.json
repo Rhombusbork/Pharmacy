@@ -1,0 +1,223 @@
+{
+  "deckId": "orgchem-final-ch20-prod-2",
+  "subject": "유기약화학",
+  "title": "Ch20 ② 생성물 고르기: 유기금속 시약",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch20 · 그리냐르 시약 + D₂O] 다음 반응의 주생성물은?\n[[rxn:Brc1ccccc1>>?|1) Mg, (CH₃CH₂)₂O|2) D₂O]]",
+      "choices": [
+        "[[smi:[2H]c1ccccc1]]",
+        "[[smi:c1ccccc1]]",
+        "[[smi:Oc1ccccc1]]",
+        "[[smi:c1ccc(cc1)-c1ccccc1]]"
+      ],
+      "answer": "[[smi:[2H]c1ccccc1]]",
+      "explanation": "정답: [[smi:[2H]c1ccccc1]]\nR–MgX는 강한 염기: D₂O의 D⁺를 받아 R–D. 동위원소 표지에 쓴다.\n\n오답 분석:\n• [[smi:c1ccccc1]] — H와 D 구별: 양성자(중수소)는 넣어 준 D₂O에서 온다\n• [[smi:Oc1ccccc1]] — OH가 붙는다고 착각 — 그리냐르 탄소는 염기로서 D⁺만 받는다\n• [[smi:c1ccc(cc1)-c1ccccc1]] — 짝지음(바이페닐) — 그리냐르 + 물은 양성자 이동만 일어난다"
+    },
+    {
+      "id": 2,
+      "question": "[Ch20 · 그리냐르 시약 + 물] 다음 반응의 주생성물은?\n[[rxn:CCCBr>>?|1) Mg, (CH₃CH₂)₂O|2) H₂O]]",
+      "choices": [
+        "[[smi:CCC]]",
+        "[[smi:CCCO]]",
+        "[[smi:C=CC]]",
+        "[[smi:CCCCCC]]"
+      ],
+      "answer": "[[smi:CCC]]",
+      "explanation": "정답: [[smi:CCC]]\n그리냐르 시약은 O–H, N–H, 말단 C≡C–H, COOH의 H⁺를 떼어 스스로 파괴된다 → 반드시 건조 에터.\n\n오답 분석:\n• [[smi:CCCO]] — 가장 흔한 착각: R–MgX + H₂O는 알코올이 아니라 알케인(RH)\n• [[smi:C=CC]] — 제거 반응과 혼동\n• [[smi:CCCCCC]] — 두 알킬기가 짝지어진 구조 — 일어나지 않는다"
+    },
+    {
+      "id": 3,
+      "question": "[Ch20 · 유기리튬 + 알데하이드] 다음 반응의 주생성물은?\n[[rxn:CCCCBr>>?|1) 2 Li 2) CH₃CHO|3) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCCCC(C)O]]",
+        "[[smi:CCCCC(C)=O]]",
+        "[[smi:CCCCO]]",
+        "[[smi:CCCCCC]]"
+      ],
+      "answer": "[[smi:CCCCC(C)O]]",
+      "explanation": "정답: [[smi:CCCCC(C)O]]\nR–X + 2 Li → R–Li + LiX. R⁻가 CH₃CHO의 C=O 탄소를 공격 → 2차 알코올 헥산-2-올.\n\n오답 분석:\n• [[smi:CCCCC(C)=O]] — 케톤 — 첨가 후 산화되지 않는다(알콕사이드 → 알코올)\n• [[smi:CCCCO]] — 뷰틸리튬이 산소화된다고 착각\n• [[smi:CCCCCC]] — 산소가 빠진 구조 — C=O 산소는 OH로 남는다"
+    },
+    {
+      "id": 4,
+      "question": "[Ch20 · 아세틸라이드 + 케톤] 다음 반응의 주생성물은?\n[[rxn:CC(C)=O>>?|1) HC≡C⁻ Na⁺|2) H₂O]]",
+      "choices": [
+        "[[smi:C#CC(C)(C)O]]",
+        "[[smi:C=CC(C)(C)O]]",
+        "[[smi:CC(C)(O)CC#C]]",
+        "[[smi:C#COC(C)C]]"
+      ],
+      "answer": "[[smi:C#CC(C)(C)O]]",
+      "explanation": "정답: [[smi:C#CC(C)(C)O]]\n아세틸라이드 음이온도 탄소 친핵체 → 3차 프로파질 알코올 2-메틸뷰트-3-인-2-올.\n\n오답 분석:\n• [[smi:C=CC(C)(C)O]] — 삼중결합이 이중결합으로 바뀜 — 환원 조건이 아니다\n• [[smi:CC(C)(O)CC#C]] — 탄소가 하나 더 낀 구조(탄소 수 착오)\n• [[smi:C#COC(C)C]] — 산소 쪽으로 결합 — 친핵체 탄소는 C=O의 '탄소'에 붙는다"
+    },
+    {
+      "id": 5,
+      "question": "[Ch20 · 그리냐르 + 폼알데하이드] 다음 반응의 주생성물은?\n[[rxn:BrC1CCCCC1>>?|1) Mg 2) HCHO|3) H₃O⁺]]",
+      "choices": [
+        "[[smi:OCC1CCCCC1]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:CC1CCCCC1]]",
+        "[[smi:O=CC1CCCCC1]]"
+      ],
+      "answer": "[[smi:OCC1CCCCC1]]",
+      "explanation": "정답: [[smi:OCC1CCCCC1]]\nRMgX + HCHO → 1차 알코올(탄소 1개 증가). + RCHO → 2차, + R₂CO → 3차.\n\n오답 분석:\n• [[smi:OC1CCCCC1]] — 탄소 수 착오: HCHO의 탄소가 하나 더해진다\n• [[smi:CC1CCCCC1]] — 산소가 빠진 구조\n• [[smi:O=CC1CCCCC1]] — 알콕사이드가 산화된다고 착각"
+    },
+    {
+      "id": 6,
+      "question": "[Ch20 · 그리냐르 + 알데하이드] 다음 반응의 주생성물은?\n[[rxn:O=Cc1ccccc1>>?|1) CH₃CH₂MgBr|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCC(O)c1ccccc1]]",
+        "[[smi:CCC(=O)c1ccccc1]]",
+        "[[smi:OCCCc1ccccc1]]",
+        "[[smi:CCC(O)(CC)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CCC(O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CCC(O)c1ccccc1]]\n알데하이드 + RMgX → 2차 알코올 1-페닐프로판-1-올.\n\n오답 분석:\n• [[smi:CCC(=O)c1ccccc1]] — 케톤으로 착각\n• [[smi:OCCCc1ccccc1]] — OH 위치 착오: OH는 원래 C=O 탄소(벤질 자리)에 생긴다\n• [[smi:CCC(O)(CC)c1ccccc1]] — 두 번 첨가 — 알데하이드에는 이탈기가 없어 한 번만 첨가된다"
+    },
+    {
+      "id": 7,
+      "question": "[Ch20 · 그리냐르 + 케톤] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCCC1>>?|1) CH₃MgBr|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CC1(O)CCCCC1]]",
+        "[[smi:CC1CCCCC1=O]]",
+        "[[smi:OC1CCCCC1]]",
+        "[[smi:CC1=CCCCC1]]"
+      ],
+      "answer": "[[smi:CC1(O)CCCCC1]]",
+      "explanation": "정답: [[smi:CC1(O)CCCCC1]]\n케톤 + RMgX → 3차 알코올 1-메틸사이클로헥산올.\n\n오답 분석:\n• [[smi:CC1CCCCC1=O]] — α-알킬화와 혼동 — 그리냐르는 C=O 탄소에 첨가한다\n• [[smi:OC1CCCCC1]] — 환원과 혼동\n• [[smi:CC1=CCCCC1]] — 탈수 생성물 — 산 처리는 양성자화만(가열 X)"
+    },
+    {
+      "id": 8,
+      "question": "[Ch20 · 그리냐르 + 케톤] 다음 반응의 주생성물은?\n[[rxn:CCC(C)=O>>?|1) CH₃CH₂MgBr|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCC(C)(O)CC]]",
+        "[[smi:CCCCC(C)O]]",
+        "[[smi:CCC(C)O]]",
+        "[[smi:CCC(C)(CC)CC]]"
+      ],
+      "answer": "[[smi:CCC(C)(O)CC]]",
+      "explanation": "정답: [[smi:CCC(C)(O)CC]]\n2-뷰탄온 + EtMgBr → 3-메틸펜탄-3-올.\n\n오답 분석:\n• [[smi:CCCCC(C)O]] — OH 위치 착오 — 새 C–C는 C=O 탄소에 생기고 OH도 그 탄소에 있다\n• [[smi:CCC(C)O]] — 환원과 혼동(에틸기가 붙지 않음)\n• [[smi:CCC(C)(CC)CC]] — 산소가 없어진 구조 — 탄소 수도 틀림"
+    },
+    {
+      "id": 9,
+      "question": "[Ch20 · 그리냐르 + 에스터] 다음 반응의 주생성물은?\n[[rxn:CCOC(C)=O>>?|1) PhMgBr (과량)|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CC(O)(c1ccccc1)c1ccccc1]]",
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]",
+        "[[smi:CCOC(C)(O)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(O)(c1ccccc1)c1ccccc1]]",
+      "explanation": "정답: [[smi:CC(O)(c1ccccc1)c1ccccc1]]\n에스터 + RMgX(2당량) → 같은 R 두 개가 붙은 3차 알코올 1,1-다이페닐에탄올.\n\n오답 분석:\n• [[smi:CC(=O)c1ccccc1]] — 1당량째 생긴 케톤에서 멈춤 — 케톤이 에스터보다 반응성이 커서 바로 한 번 더 첨가\n• [[smi:CC(O)c1ccccc1]] — 환원과 혼동\n• [[smi:CCOC(C)(O)c1ccccc1]] — 사면체 중간체에서 멈춤: EtO⁻가 이탈한다"
+    },
+    {
+      "id": 10,
+      "question": "[Ch20 · 그리냐르 + 락톤] 다음 반응의 주생성물은?\n[[rxn:O=C1CCCO1>>?|1) CH₃MgBr (과량)|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CC(C)(O)CCCO]]",
+        "[[smi:CC(=O)CCCO]]",
+        "[[smi:CC1(C)CCCO1]]",
+        "[[smi:CC(O)CCCO]]"
+      ],
+      "answer": "[[smi:CC(C)(O)CCCO]]",
+      "explanation": "정답: [[smi:CC(C)(O)CCCO]]\n락톤 + RMgX(2당량) → 다이올 4-메틸펜테인-1,4-다이올.\n\n오답 분석:\n• [[smi:CC(=O)CCCO]] — 1당량째 케톤에서 멈춤\n• [[smi:CC1(C)CCCO1]] — 고리가 유지된 에터로 착각 — 고리 C–O가 끊어져 OH가 된다\n• [[smi:CC(O)CCCO]] — 메틸 하나 + 환원 — 그리냐르는 하이드라이드를 주지 않는다"
+    },
+    {
+      "id": 11,
+      "question": "[Ch20 · 그리냐르 + 산 염화물] 다음 반응의 주생성물은?\n[[rxn:O=C(Cl)c1ccccc1>>?|1) CH₃MgBr (2당량)|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CC(C)(O)c1ccccc1]]",
+        "[[smi:CC(=O)c1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]",
+        "[[smi:CC(C)c1ccccc1]]"
+      ],
+      "answer": "[[smi:CC(C)(O)c1ccccc1]]",
+      "explanation": "정답: [[smi:CC(C)(O)c1ccccc1]]\n산 염화물 + RMgX(2당량) → 3차 알코올 2-페닐프로판-2-올.\n\n오답 분석:\n• [[smi:CC(=O)c1ccccc1]] — 케톤에서 멈춤 — 케톤에서 멈추려면 R₂CuLi\n• [[smi:CC(O)c1ccccc1]] — 환원과 혼동\n• [[smi:CC(C)c1ccccc1]] — 산소가 빠짐"
+    },
+    {
+      "id": 12,
+      "question": "[Ch20 · 유기구리 + 산 염화물] 다음 반응의 주생성물은?\n[[rxn:O=C(Cl)C1CCCCC1>>?|(CH₃)₂CuLi|]]",
+      "choices": [
+        "[[smi:CC(=O)C1CCCCC1]]",
+        "[[smi:CC(C)(O)C1CCCCC1]]",
+        "[[smi:O=CC1CCCCC1]]",
+        "[[smi:CC(O)C1CCCCC1]]"
+      ],
+      "answer": "[[smi:CC(=O)C1CCCCC1]]",
+      "explanation": "정답: [[smi:CC(=O)C1CCCCC1]]\nR₂CuLi(순한 친핵체)는 산 염화물과만 반응해 케톤에서 멈춘다 → 사이클로헥실 메틸 케톤.\n\n오답 분석:\n• [[smi:CC(C)(O)C1CCCCC1]] — 그리냐르처럼 두 번 첨가 — 유기구리는 케톤과 반응하지 않는다\n• [[smi:O=CC1CCCCC1]] — 환원과 혼동\n• [[smi:CC(O)C1CCCCC1]] — 케톤이 다시 환원된 구조"
+    },
+    {
+      "id": 13,
+      "question": "[Ch20 · 그리냐르 + CO₂] 다음 반응의 주생성물은?\n[[rxn:CC(C)Br>>?|1) Mg 2) CO₂|3) H₃O⁺]]",
+      "choices": [
+        "[[smi:CC(C)C(=O)O]]",
+        "[[smi:CCCC(=O)O]]",
+        "[[smi:CC(C)O]]",
+        "[[smi:CC(C)C=O]]"
+      ],
+      "answer": "[[smi:CC(C)C(=O)O]]",
+      "explanation": "정답: [[smi:CC(C)C(=O)O]]\nR–MgX + O=C=O → RCOO⁻ → H₃O⁺ → RCOOH(탄소 1개 증가) → 2-메틸프로판산.\n\n오답 분석:\n• [[smi:CCCC(=O)O]] — 탄소 위치 착오: COOH는 Br가 있던 탄소에 붙는다\n• [[smi:CC(C)O]] — 산소화와 혼동\n• [[smi:CC(C)C=O]] — 알데하이드 — CO₂ 첨가는 카복실산 음이온이 된다"
+    },
+    {
+      "id": 14,
+      "question": "[Ch20 · 그리냐르 + 에폭사이드] 다음 반응의 주생성물은?\n[[rxn:C1CO1>>?|1) PhMgBr|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:OCCc1ccccc1]]",
+        "[[smi:CC(O)c1ccccc1]]",
+        "[[smi:CCOc1ccccc1]]",
+        "[[smi:OCc1ccccc1]]"
+      ],
+      "answer": "[[smi:OCCc1ccccc1]]",
+      "explanation": "정답: [[smi:OCCc1ccccc1]]\nRMgX + 에틸렌 옥사이드 → RCH₂CH₂OH(탄소 2개 증가). SN2로 고리를 연다.\n\n오답 분석:\n• [[smi:CC(O)c1ccccc1]] — OH 위치 착오 — 공격한 탄소가 아니라 그 옆 탄소에 OH\n• [[smi:CCOc1ccccc1]] — 산소 쪽 공격 — 친핵체는 에폭사이드 탄소를 공격한다\n• [[smi:OCc1ccccc1]] — 탄소 수 착오 — 에틸렌 옥사이드는 탄소 2개를 더한다"
+    },
+    {
+      "id": 15,
+      "question": "[Ch20 · 그리냐르 + 치환 에폭사이드] 다음 반응의 주생성물은?\n[[rxn:CC1CO1>>?|1) CH₃MgBr|2) H₃O⁺]]",
+      "choices": [
+        "[[smi:CCC(C)O]]",
+        "[[smi:CC(C)CO]]",
+        "[[smi:CC(O)CO]]",
+        "[[smi:CCC(C)OC]]"
+      ],
+      "answer": "[[smi:CCC(C)O]]",
+      "explanation": "정답: [[smi:CCC(C)O]]\n강한 친핵체는 덜 치환된(덜 막힌) 에폭사이드 탄소를 SN2 공격 → 2-뷰탄올.\n\n오답 분석:\n• [[smi:CC(C)CO]] — 위치 착오: 더 치환된 탄소를 공격한 결과(산 촉매 개환일 때의 경향)\n• [[smi:CC(O)CO]] — 물이 고리를 연 다이올 — 그리냐르의 탄소가 붙어야 한다\n• [[smi:CCC(C)OC]] — 산소에 메틸이 붙은 에터 — 친핵체는 탄소를 공격"
+    },
+    {
+      "id": 16,
+      "question": "[Ch20 · 유기구리의 1,4-첨가] 다음 반응의 주생성물은?\n[[rxn:O=C1C=CCCC1>>?|1) (CH₃)₂CuLi|2) H₂O]]",
+      "choices": [
+        "[[smi:CC1CCCC(=O)C1]]",
+        "[[smi:CC1(O)C=CCCC1]]",
+        "[[smi:CC1=CC(=O)CCC1]]",
+        "[[smi:CC1CCCCC1=O]]"
+      ],
+      "answer": "[[smi:CC1CCCC(=O)C1]]",
+      "explanation": "정답: [[smi:CC1CCCC(=O)C1]]\nR₂CuLi → α,β-불포화 카보닐의 β탄소에 1,4-(콘쥬게이트) 첨가 → 3-메틸사이클로헥산온.\n\n오답 분석:\n• [[smi:CC1(O)C=CCCC1]] — 1,2-첨가(그리냐르·유기리튬의 결과)\n• [[smi:CC1=CC(=O)CCC1]] — 메틸이 붙고 C=C가 남은 구조 — 1,4-첨가 뒤 엔올레이트가 양성자화되어 C=C가 사라진다\n• [[smi:CC1CCCCC1=O]] — α탄소에 붙음(위치 착오) — 친핵체는 β탄소에 붙는다"
+    },
+    {
+      "id": 17,
+      "question": "[Ch20 · 유기리튬의 1,2-첨가] 다음 반응의 주생성물은?\n[[rxn:O=C1C=CCCC1>>?|1) CH₃Li|2) H₂O]]",
+      "choices": [
+        "[[smi:CC1(O)C=CCCC1]]",
+        "[[smi:CC1CCCC(=O)C1]]",
+        "[[smi:CC1C=CCCC1=O]]",
+        "[[smi:OC1C=CCCC1]]"
+      ],
+      "answer": "[[smi:CC1(O)C=CCCC1]]",
+      "explanation": "정답: [[smi:CC1(O)C=CCCC1]]\nRLi·RMgX(강한 친핵체) → C=O에 직접 1,2-첨가 → 1-메틸사이클로헥스-2-엔-1-올.\n\n오답 분석:\n• [[smi:CC1CCCC(=O)C1]] — 1,4-첨가(유기구리의 결과)\n• [[smi:CC1C=CCCC1=O]] — α-알킬화와 혼동\n• [[smi:OC1C=CCCC1]] — 환원과 혼동"
+    },
+    {
+      "id": 18,
+      "question": "[Ch20 · 보호기와 그리냐르] 다음 반응의 주생성물은?\n[[rxn:OCCCBr>>?|1) TBDMSCl, 이미다졸 2) Mg 3) CH₃CHO|4) H₃O⁺ 5) Bu₄N⁺F⁻]]",
+      "choices": [
+        "[[smi:CC(O)CCCO]]",
+        "[[smi:CC(O)CCCO[Si](C)(C)C(C)(C)C]]",
+        "[[smi:CCCO]]",
+        "[[smi:CC(=O)CCCO]]"
+      ],
+      "answer": "[[smi:CC(O)CCCO]]",
+      "explanation": "정답: [[smi:CC(O)CCCO]]\nOH 보호(TBDMS 에터) → 그리냐르 형성·반응 → F⁻로 Si–O를 끊어 OH 복원 → 펜테인-1,4-다이올.\n\n오답 분석:\n• [[smi:CC(O)CCCO[Si](C)(C)C(C)(C)C]] — 탈보호(5단계 F⁻)를 빠뜨림\n• [[smi:CCCO]] — 보호하지 않았을 때의 결과(그리냐르가 자기 OH에 파괴됨)\n• [[smi:CC(=O)CCCO]] — 케톤 — 그리냐르 첨가 후 알코올이 된다"
+    }
+  ]
+}
