@@ -14,7 +14,7 @@
         "ㄴ, ㄷ"
       ],
       "answer": "ㄱ, ㄷ",
-      "explanation": "정답: ㄱ, ㄷ\n환원제마다 범위와 멈추는 단계가 다르다(PPT 표 20.1).\n\n• ㄱ (O) 케톤 → 2차 알코올\n• ㄴ (X) NaBH₄는 에스터를 환원하지 못한다(LiAlH₄ 필요)\n• ㄷ (O) C=C가 C=O보다 먼저 수소화\n• ㄹ (X) LiAlH₄는 알데하이드에서 멈추지 않고 1-뷰탄올까지(알데하이드는 DIBAL-H, −78 °C)"
+      "explanation": "정답: ㄱ, ㄷ\n환원제마다 범위와 멈추는 단계가 다르다(PPT 표 20.1).\n\n• ㄱ (O) 케톤 → 2차 알코올\n• ㄴ (X) NaBH₄는 에스터를 환원하지 못한다(LiAlH₄ 필요)\n• ㄷ (O) C=C가 C=O보다 먼저 수소화\n• ㄹ (X) LiAlH₄는 알데하이드에서 멈추지 않고 1-뷰탄올까지(알데하이드는 DIBAL-H, −78 °C)\n   ↳ 1) LiAlH₄ (첫 H⁻) — 알데하이드가 생기지만 바로 다시 환원된다\n[[rxn:CCCC(=O)OC>>CCCC=O|1) LiAlH₄ (첫 H⁻)]]\n   ↳ 1) LiAlH₄ (두 번째 H⁻) — 알콕사이드\n[[rxn:CCCC=O>>CCCC[O-]|1) LiAlH₄ (두 번째 H⁻)]]\n   ↳ 2) H₂O — 1-뷰탄올\n[[rxn:CCCC[O-]>>CCCCO|2) H₂O]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "ㄴ, ㄷ"
       ],
       "answer": "ㄱ, ㄷ",
-      "explanation": "정답: ㄱ, ㄷ\n그리냐르: 카보닐 첨가, 에스터 2당량, CO₂ → 산(+1C), 에폭사이드 → 알코올(+2C).\n\n• ㄱ (O) 케톤 → 3차 알코올\n• ㄴ (X) 케톤에서 멈추지 않고 1,1-다이페닐에탄올(3차 알코올)\n• ㄷ (O) 카복실화(탄소 1개 증가)\n• ㄹ (X) 에틸렌 옥사이드는 탄소 2개를 더한다 → 1-뷰탄올(CCCCO)"
+      "explanation": "정답: ㄱ, ㄷ\n그리냐르: 카보닐 첨가, 에스터 2당량, CO₂ → 산(+1C), 에폭사이드 → 알코올(+2C).\n\n• ㄱ (O) 케톤 → 3차 알코올\n   ↳ 1) CH₃MgBr — 알콕사이드\n[[rxn:O=C1CCCCC1>>CC1([O-])CCCCC1|1) CH₃MgBr]]\n   ↳ 2) H₃O⁺ — 3차 알코올\n[[rxn:CC1([O-])CCCCC1>>CC1(O)CCCCC1|2) H₃O⁺]]\n• ㄴ (X) 케톤에서 멈추지 않고 1,1-다이페닐에탄올(3차 알코올)\n   ↳ 1) PhMgBr (1당량째) — 케톤(중간체)\n[[rxn:CCOC(C)=O>>CC(=O)c1ccccc1|1) PhMgBr (1당량째)]]\n   ↳ 1) PhMgBr (2당량째) — 케톤에 한 번 더\n[[rxn:CC(=O)c1ccccc1>>CC([O-])(c1ccccc1)c1ccccc1|1) PhMgBr (2당량째)]]\n   ↳ 2) H₃O⁺ — 3차 알코올\n[[rxn:CC([O-])(c1ccccc1)c1ccccc1>>CC(O)(c1ccccc1)c1ccccc1|2) H₃O⁺]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다\n• ㄷ (O) 카복실화(탄소 1개 증가)\n   ↳ 1) Mg — 그리냐르\n[[rxn:Brc1ccccc1>>Br[Mg]c1ccccc1|1) Mg]]\n   ↳ 2) CO₂ — 카복실산 음이온\n[[rxn:Br[Mg]c1ccccc1>>[O-]C(=O)c1ccccc1|2) CO₂]]\n   ↳ 3) H₃O⁺ — 벤조산\n[[rxn:[O-]C(=O)c1ccccc1>>OC(=O)c1ccccc1|3) H₃O⁺]]\n• ㄹ (X) 에틸렌 옥사이드는 탄소 2개를 더한다 → 1-뷰탄올(CCCCO)\n   ↳ 1) CH₃CH₂MgBr — 에틸렌 옥사이드 개환(+2C)\n[[rxn:C1CO1>>CCCC[O-]|1) CH₃CH₂MgBr]]\n   ↳ 2) H₃O⁺ — 1-뷰탄올\n[[rxn:CCCC[O-]>>CCCCO|2) H₃O⁺]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "ㄹ"
       ],
       "answer": "ㄱ",
-      "explanation": "정답: ㄱ\nR₂CuLi: 산 염화물 → 케톤, 에스터 ✗, α,β-불포화 → 1,4.\n\n• ㄱ (O) 1,4-첨가\n• ㄴ (X) 유기구리는 산 염화물과 케톤에서 멈춘다(CC(=O)C₆H₁₁)\n• ㄷ (X) 유기구리는 에스터와 반응하지 않는다\n• ㄹ (X) CH₃Li는 염기로 작용해 리튬 아세틸라이드 + CH₄"
+      "explanation": "정답: ㄱ\nR₂CuLi: 산 염화물 → 케톤, 에스터 ✗, α,β-불포화 → 1,4.\n\n• ㄱ (O) 1,4-첨가\n   ↳ 1) (CH₃)₂CuLi — 1,4-첨가 → 엔올 음이온\n[[rxn:O=C1C=CCCC1>>CC1CCCC([O-])=C1|1) (CH₃)₂CuLi]]\n   ↳ 2) H₂O — 3-메틸사이클로헥산온\n[[rxn:CC1CCCC([O-])=C1>>CC1CCCC(=O)C1|2) H₂O]]\n• ㄴ (X) 유기구리는 산 염화물과 케톤에서 멈춘다(CC(=O)C₆H₁₁)\n• ㄷ (X) 유기구리는 에스터와 반응하지 않는다\n• ㄹ (X) CH₃Li는 염기로 작용해 리튬 아세틸라이드 + CH₄"
     },
     {
       "id": 4,
@@ -79,7 +79,7 @@
         "ㄱ, ㄹ"
       ],
       "answer": "ㄴ, ㄹ",
-      "explanation": "정답: ㄴ, ㄹ\nPPT 21~23쪽.\n\n• ㄱ (X) 수화는 Markovnikov → 2-헥산온(CCCCC(C)=O)\n• ㄴ (O) 수소붕소화 → 알데하이드\n• ㄷ (X) 물이 있으면 카복실산까지 → 펜탄산(알데하이드는 PCC)\n• ㄹ (O) 오존 분해"
+      "explanation": "정답: ㄴ, ㄹ\nPPT 21~23쪽.\n\n• ㄱ (X) 수화는 Markovnikov → 2-헥산온(CCCCC(C)=O)\n• ㄴ (O) 수소붕소화 → 알데하이드\n   ↳ 1) BH₃ — 바이닐보레인\n[[rxn:CCCCC#C>>CCCC/C=C/B|1) BH₃]]\n   ↳ 2) H₂O₂, ⁻OH — 엔올\n[[rxn:CCCC/C=C/B>>CCCC/C=C/O|2) H₂O₂, ⁻OH]]\n   ↳ 2) (토토머화) — 헥산알\n[[rxn:CCCC/C=C/O>>CCCCCC=O|2) (토토머화)]]\n• ㄷ (X) 물이 있으면 카복실산까지 → 펜탄산(알데하이드는 PCC)\n• ㄹ (O) 오존 분해\n   ↳ 1) O₃ — 오조나이드\n[[rxn:CC=C(C)C>>CC1OC(C)(C)OO1|1) O₃]]\n   ↳ 2) Zn, H₂O — 아세트알데하이드 + 아세톤\n[[rxn:CC1OC(C)(C)OO1>>CC=O.CC(C)=O|2) Zn, H₂O]]"
     },
     {
       "id": 7,
@@ -105,7 +105,7 @@
         "ㄴ, ㄷ"
       ],
       "answer": "ㄱ, ㄷ",
-      "explanation": "정답: ㄱ, ㄷ\nPPT 78~88쪽.\n\n• ㄱ (O) 이민을 거쳐 케톤\n• ㄴ (X) LiAlH₄는 1차 아민(CCCN), 알데하이드는 DIBAL-H\n• ㄷ (O) 가수분해 → 카복실산\n• ㄹ (X) CN 탄소가 더해져 펜테인나이트릴(CCCCC#N)"
+      "explanation": "정답: ㄱ, ㄷ\nPPT 78~88쪽.\n\n• ㄱ (O) 이민을 거쳐 케톤\n   ↳ 1) CH₃MgBr — 이민 음이온\n[[rxn:N#Cc1ccccc1>>CC(=[N-])c1ccccc1|1) CH₃MgBr]]\n   ↳ 2) H₂O — 이민\n[[rxn:CC(=[N-])c1ccccc1>>CC(=N)c1ccccc1|2) H₂O]]\n   ↳ 2) (가수분해) — 아세토페논\n[[rxn:CC(=N)c1ccccc1>>CC(=O)c1ccccc1|2) (가수분해)]]\n• ㄴ (X) LiAlH₄는 1차 아민(CCCN), 알데하이드는 DIBAL-H\n   ↳ 1) LiAlH₄ (첫 H⁻) — 이민 음이온\n[[rxn:CCC#N>>CCC=[N-]|1) LiAlH₄ (첫 H⁻)]]\n   ↳ 1) LiAlH₄ (두 번째 H⁻) 2) H₂O — 1차 아민(프로필아민)\n[[rxn:CCC=[N-]>>CCCN|1) LiAlH₄ (두 번째 H⁻) 2) H₂O]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다\n• ㄷ (O) 가수분해 → 카복실산\n• ㄹ (X) CN 탄소가 더해져 펜테인나이트릴(CCCCC#N)"
     },
     {
       "id": 9,
@@ -131,7 +131,7 @@
         "ㄱ, ㄹ"
       ],
       "answer": "ㄴ, ㄹ",
-      "explanation": "정답: ㄴ, ㄹ\nPPT 27~35·42~43쪽.\n\n• ㄱ (X) LDA(속도론적) → 2,6-다이메틸(CC1CCCC(C)C1=O)\n• ㄴ (O) 열역학적 → 2,2-다이메틸\n• ㄷ (X) 산 조건은 일치환 → 2-브로모사이클로헥산온\n• ㄹ (O) 할로폼 반응(+ CHI₃)"
+      "explanation": "정답: ㄴ, ㄹ\nPPT 27~35·42~43쪽.\n\n• ㄱ (X) LDA(속도론적) → 2,6-다이메틸(CC1CCCC(C)C1=O)\n   ↳ 1) LDA, THF, −78 °C — 속도론적 엔올 음이온\n[[rxn:CC1CCCCC1=O>>[O-]C1=CCCCC1C|1) LDA, THF, −78 °C]]\n   ↳ 2) CH₃I — 2,6-다이메틸\n[[rxn:[O-]C1=CCCCC1C>>CC1CCCC(C)C1=O|2) CH₃I]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다\n• ㄴ (O) 열역학적 → 2,2-다이메틸\n   ↳ 1) NaOEt, EtOH, 실온 — 열역학적 엔올 음이온\n[[rxn:CC1CCCCC1=O>>CC1=C([O-])CCCC1|1) NaOEt, EtOH, 실온]]\n   ↳ 2) CH₃I — 2,2-다이메틸\n[[rxn:CC1=C([O-])CCCC1>>CC1(C)CCCCC1=O|2) CH₃I]]\n• ㄷ (X) 산 조건은 일치환 → 2-브로모사이클로헥산온\n• ㄹ (O) 할로폼 반응(+ CHI₃)"
     },
     {
       "id": 11,
@@ -144,7 +144,7 @@
         "ㄴ, ㄷ"
       ],
       "answer": "ㄱ, ㄴ",
-      "explanation": "정답: ㄱ, ㄴ\nPPT 45~56쪽 / 족보 '말론산 에스터 합성이 가능한 물질' 문항과 같은 판단.\n\n• ㄱ (O) 3-페닐프로판산\n• ㄴ (O) 2-펜탄온(메틸 케톤)\n• ㄷ (X) 아릴 할라이드는 SN2 불가\n• ㄹ (X) 3차 할라이드는 E2(아이소뷰틸렌)"
+      "explanation": "정답: ㄱ, ㄴ\nPPT 45~56쪽 / 족보 '말론산 에스터 합성이 가능한 물질' 문항과 같은 판단.\n\n• ㄱ (O) 3-페닐프로판산\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(=O)OCC>>CCOC(=O)[CH-]C(=O)OCC|1) NaOEt]]\n   ↳ 2) PhCH₂Br — SN2\n[[rxn:CCOC(=O)[CH-]C(=O)OCC>>CCOC(=O)C(Cc1ccccc1)C(=O)OCC|2) PhCH₂Br]]\n   ↳ 3) H₃O⁺ — β-다이산\n[[rxn:CCOC(=O)C(Cc1ccccc1)C(=O)OCC>>OC(=O)C(Cc1ccccc1)C(=O)O|3) H₃O⁺]]\n   ↳ 3) Δ — 탈카복실화\n[[rxn:OC(=O)C(Cc1ccccc1)C(=O)O>>OC(=O)CCc1ccccc1|3) Δ]]\n• ㄴ (O) 2-펜탄온(메틸 케톤)\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(C)=O>>CCOC(=O)[CH-]C(C)=O|1) NaOEt]]\n   ↳ 2) CH₃CH₂Br — SN2\n[[rxn:CCOC(=O)[CH-]C(C)=O>>CCC(C(C)=O)C(=O)OCC|2) CH₃CH₂Br]]\n   ↳ 3) H₃O⁺ — β-케토산\n[[rxn:CCC(C(C)=O)C(=O)OCC>>CCC(C(C)=O)C(=O)O|3) H₃O⁺]]\n   ↳ 3) Δ — 2-펜탄온\n[[rxn:CCC(C(C)=O)C(=O)O>>CCCC(C)=O|3) Δ]]\n• ㄷ (X) 아릴 할라이드는 SN2 불가\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(=O)OCC>>CCOC(=O)[CH-]C(=O)OCC|1) NaOEt]]\n   ↳ 2) PhBr — 아릴 할라이드 SN2 불가 → 반응 없음(물 처리 시 말로네이트로)\n[[rxn:CCOC(=O)[CH-]C(=O)OCC>>CCOC(=O)CC(=O)OCC|2) PhBr]]\n   ↳ 3) H₃O⁺ — 말론산\n[[rxn:CCOC(=O)CC(=O)OCC>>OC(=O)CC(=O)O|3) H₃O⁺]]\n   ↳ 3) Δ — 아세트산\n[[rxn:OC(=O)CC(=O)O>>CC(=O)O|3) Δ]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다\n• ㄹ (X) 3차 할라이드는 E2(아이소뷰틸렌)\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(=O)OCC>>CCOC(=O)[CH-]C(=O)OCC|1) NaOEt]]\n   ↳ 2) (CH₃)₃CBr — E2(아이소뷰틸렌 생성), 말로네이트는 그대로\n[[rxn:CCOC(=O)[CH-]C(=O)OCC>>CCOC(=O)CC(=O)OCC|2) (CH₃)₃CBr]]\n   ↳ 3) H₃O⁺ — 말론산\n[[rxn:CCOC(=O)CC(=O)OCC>>OC(=O)CC(=O)O|3) H₃O⁺]]\n   ↳ 3) Δ — 아세트산\n[[rxn:OC(=O)CC(=O)O>>CC(=O)O|3) Δ]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다"
     },
     {
       "id": 12,

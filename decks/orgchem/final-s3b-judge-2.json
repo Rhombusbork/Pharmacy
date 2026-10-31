@@ -27,7 +27,7 @@
         "ㄴ, ㄷ, ㄹ"
       ],
       "answer": "ㄱ, ㄴ, ㄷ",
-      "explanation": "정답: ㄱ, ㄴ, ㄷ\nPPT 28~36쪽.\n\n• ㄱ (O) 아세토아세트산 에틸\n• ㄴ (O) 1,7-다이에스터 → 6원 고리\n• ㄷ (O) 케톤 + 에스터 → β-다이케톤\n• ㄹ (X) NaOH는 에스터를 비누화한다(아세트산 음이온)"
+      "explanation": "정답: ㄱ, ㄴ, ㄷ\nPPT 28~36쪽.\n\n• ㄱ (O) 아세토아세트산 에틸\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(C)=O>>C=C([O-])OCC|1) NaOEt]]\n   ↳ 1) (첨가–제거·탈양성자화) — β-케토 에스터 음이온\n[[rxn:C=C([O-])OCC>>CCOC(=O)[CH-]C(C)=O|1) (첨가–제거·탈양성자화)]]\n   ↳ 2) H₃O⁺ — 아세토아세트산 에틸\n[[rxn:CCOC(=O)[CH-]C(C)=O>>CCOC(=O)CC(C)=O|2) H₃O⁺]]\n• ㄴ (O) 1,7-다이에스터 → 6원 고리\n   ↳ 1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CCCCCC(=O)OCC>>CCOC(=O)CCCCC=C([O-])OCC|1) NaOEt]]\n   ↳ 1) (분자 내 첨가–제거) — 6원 고리 β-케토 에스터 음이온\n[[rxn:CCOC(=O)CCCCC=C([O-])OCC>>CCOC(=O)[C-]1CCCCC1=O|1) (분자 내 첨가–제거)]]\n   ↳ 2) H₃O⁺ — 중화\n[[rxn:CCOC(=O)[C-]1CCCCC1=O>>CCOC(=O)C1CCCCC1=O|2) H₃O⁺]]\n• ㄷ (O) 케톤 + 에스터 → β-다이케톤\n   ↳ 1) PhCOOEt, NaOEt — 케톤 엔올 음이온\n[[rxn:O=C1CCCCC1>>[O-]C1=CCCCC1|1) PhCOOEt, NaOEt]]\n   ↳ 1) (첨가–제거·탈양성자화) — β-다이케톤 음이온\n[[rxn:[O-]C1=CCCCC1>>O=C([C-]1CCCCC1=O)c1ccccc1|1) (첨가–제거·탈양성자화)]]\n   ↳ 2) H₃O⁺ — 중화\n[[rxn:O=C([C-]1CCCCC1=O)c1ccccc1>>O=C(C1CCCCC1=O)c1ccccc1|2) H₃O⁺]]\n• ㄹ (X) NaOH는 에스터를 비누화한다(아세트산 음이온)"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "ㄴ, ㄷ, ㄹ"
       ],
       "answer": "ㄱ, ㄷ, ㄹ",
-      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 37~47쪽.\n\n• ㄱ (O) 1,4-첨가(마이클)\n• ㄴ (X) 그리냐르는 1,2-첨가(1-메틸사이클로헥스-2-엔올)\n• ㄷ (O) Robinson(메틸이 고리 접합)\n• ㄹ (O) Robinson(옥탈렌온)"
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 37~47쪽.\n\n• ㄱ (O) 1,4-첨가(마이클)\n• ㄴ (X) 그리냐르는 1,2-첨가(1-메틸사이클로헥스-2-엔올)\n   ↳ 1) CH₃MgBr — C=O에 1,2-첨가\n[[rxn:O=C1C=CCCC1>>CC1([O-])C=CCCC1|1) CH₃MgBr]]\n   ↳ 2) H₃O⁺ — 1-메틸사이클로헥스-2-엔올\n[[rxn:CC1([O-])C=CCCC1>>CC1(O)C=CCCC1|2) H₃O⁺]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다\n• ㄷ (O) Robinson(메틸이 고리 접합)\n• ㄹ (O) Robinson(옥탈렌온)"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
         "ㄴ, ㄷ"
       ],
       "answer": "ㄱ, ㄷ",
-      "explanation": "정답: ㄱ, ㄷ\nPPT 33~36·65~69쪽 / 족보 '주생성물로 옳은 것(가나다)' 형식.\n\n• ㄱ (O) 환원성 아민화 → 1차 아민\n• ㄴ (X) 메틸아민 → N-메틸 2차 아민(메스암페타민)\n• ㄷ (O) Hofmann 제거\n• ㄹ (X) Hofmann은 덜 치환된 1-뷰텐이 주생성물"
+      "explanation": "정답: ㄱ, ㄷ\nPPT 33~36·65~69쪽 / 족보 '주생성물로 옳은 것(가나다)' 형식.\n\n• ㄱ (O) 환원성 아민화 → 1차 아민\n• ㄴ (X) 메틸아민 → N-메틸 2차 아민(메스암페타민)\n• ㄷ (O) Hofmann 제거\n   ↳ 1) CH₃I (과량) — 4차 암모늄염\n[[rxn:CCCN>>CCC[N+](C)(C)C|1) CH₃I (과량)]]\n   ↳ 2) Ag₂O — ⁻OH로 교환\n[[rxn:CCC[N+](C)(C)C>>CCC[N+](C)(C)C.[OH-]|2) Ag₂O]]\n   ↳ 3) Δ — E2 → 프로펜\n[[rxn:CCC[N+](C)(C)C.[OH-]>>C=CC|3) Δ]]\n• ㄹ (X) Hofmann은 덜 치환된 1-뷰텐이 주생성물\n   ↳ 1) CH₃I (과량) — 4차 암모늄염\n[[rxn:CCC(C)N>>CCC(C)[N+](C)(C)C|1) CH₃I (과량)]]\n   ↳ 2) Ag₂O — ⁻OH로 교환\n[[rxn:CCC(C)[N+](C)(C)C>>CCC(C)[N+](C)(C)C.[OH-]|2) Ag₂O]]\n   ↳ 3) Δ — 덜 치환된 1-뷰텐(Hofmann)\n[[rxn:CCC(C)[N+](C)(C)C.[OH-]>>C=CCC|3) Δ]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다"
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
         "ㄴ, ㄷ, ㄹ"
       ],
       "answer": "ㄱ, ㄷ, ㄹ",
-      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 70~86쪽.\n\n• ㄱ (O) 다이아조화 → 벤조나이트릴\n• ㄴ (X) H₃PO₂는 H로 치환(벤젠). 페놀은 H₂O·가열\n• ㄷ (O) 아조 짝지음(para)\n• ㄹ (O) 2차 아민 → N-나이트로소아민"
+      "explanation": "정답: ㄱ, ㄷ, ㄹ\nPPT 70~86쪽.\n\n• ㄱ (O) 다이아조화 → 벤조나이트릴\n   ↳ 1) NaNO₂, HCl — 다이아조늄\n[[rxn:Nc1ccccc1>>[N+](#N)c1ccccc1|1) NaNO₂, HCl]]\n   ↳ 2) CuCN — 벤조나이트릴\n[[rxn:[N+](#N)c1ccccc1>>N#Cc1ccccc1|2) CuCN]]\n• ㄴ (X) H₃PO₂는 H로 치환(벤젠). 페놀은 H₂O·가열\n• ㄷ (O) 아조 짝지음(para)\n• ㄹ (O) 2차 아민 → N-나이트로소아민"
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
         "ㄱ, ㄷ"
       ],
       "answer": "ㄴ, ㄷ",
-      "explanation": "정답: ㄴ, ㄷ\nPPT 27~31·62~64쪽.\n\n• ㄱ (X) 아닐린은 AlCl₃와 착물을 만들어 FC 불가(아마이드 보호 필요)\n• ㄴ (O) 아세트아닐라이드\n• ㄷ (O) Gabriel\n• ㄹ (X) 탄소 1개 증가 → 펜틸아민(CCCCCN)"
+      "explanation": "정답: ㄴ, ㄷ\nPPT 27~31·62~64쪽.\n\n• ㄱ (X) 아닐린은 AlCl₃와 착물을 만들어 FC 불가(아마이드 보호 필요)\n• ㄴ (O) 아세트아닐라이드\n• ㄷ (O) Gabriel\n   ↳ 1) 프탈이미드 음이온 — SN2\n[[rxn:CCBr>>CCN1C(=O)c2ccccc2C1=O|1) 프탈이미드 음이온]]\n   ↳ 2) ⁻OH, H₂O — 에틸아민\n[[rxn:CCN1C(=O)c2ccccc2C1=O>>CCN|2) ⁻OH, H₂O]]\n• ㄹ (X) 탄소 1개 증가 → 펜틸아민(CCCCCN)\n   ↳ 1) NaCN — SN2(+1C)\n[[rxn:CCCCBr>>CCCCC#N|1) NaCN]]\n   ↳ 2) LiAlH₄ 3) H₂O — 펜틸아민\n[[rxn:CCCCC#N>>CCCCCN|2) LiAlH₄ 3) H₂O]]\n   ↳ 실제 생성물은 위와 같아 표시된 생성물과 다르다"
     },
     {
       "id": 7,
