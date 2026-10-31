@@ -30,6 +30,9 @@
     "orgchem/final-s4a-multistep.json",
     "orgchem/final-s4b-retro.json",
     "orgchem/final-s5-trend-1.json",
-    "orgchem/final-s5-trend-2.json"
+    "orgchem/final-s5-trend-2.json",
+    "orgchem/final-s6a-names-rxn.json",
+    "orgchem/final-s6b-names-reagent.json",
+    "orgchem/final-s6c-names-compound.json"
   ]
 }

@@ -1,0 +1,375 @@
+{
+  "deckId": "orgchem-final-s6a-names-rxn",
+  "subject": "유기약화학",
+  "title": "6단계 이름 ①: 인명반응",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch24 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCOC(C)=O>>CCOC(=O)CC(C)=O|1) NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "Claisen 축합(Claisen condensation)",
+        "알돌 반응",
+        "Dieckmann 반응",
+        "Claisen 자리옮김",
+        "마이클 반응"
+      ],
+      "answer": "Claisen 축합(Claisen condensation)",
+      "explanation": "정답: Claisen 축합(Claisen condensation)\n에스터 두 분자 → β-케토 에스터(족보 25-2 12번).\n\n오답 분석:\n• 알돌 반응 — 알돌은 알데하이드·케톤 → β-하이드록시 카보닐\n• Dieckmann 반응 — 분자 내 Claisen(고리 생성)\n• Claisen 자리옮김 — 이름은 같지만 알릴 바이닐 에터의 [3,3] 시그마 자리옮김\n• 마이클 반응 — α,β-불포화 카보닐에 1,4-첨가"
+    },
+    {
+      "id": 2,
+      "question": "[Ch24 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCOC(=O)CCCCC(=O)OCC>>CCOC(=O)C1CCCC1=O|1) NaOEt|2) H₃O⁺]]",
+      "choices": [
+        "Dieckmann 반응",
+        "Claisen 축합",
+        "분자 내 알돌 반응",
+        "Robinson 고리만듦",
+        "Michael 반응"
+      ],
+      "answer": "Dieckmann 반응",
+      "explanation": "정답: Dieckmann 반응\n분자 내 Claisen = Dieckmann(족보 24-2 12번).\n\n오답 분석:\n• Claisen 축합 — 분자 사이 반응일 때의 이름\n• 분자 내 알돌 반응 — 알데하이드·케톤 받개(β-하이드록시)일 때\n• Robinson 고리만듦 — 마이클 + 알돌로 6원 고리 엔온\n• Michael 반응 — 1,4-첨가"
+    },
+    {
+      "id": 3,
+      "question": "[Ch24 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:O=Cc1ccccc1>>CC(=O)/C=C/c1ccccc1|CH₃COCH₃|⁻OH, H₂O]]",
+      "choices": [
+        "교차 알돌 축합(crossed aldol)",
+        "Claisen 축합",
+        "Wittig 반응",
+        "Michael 반응",
+        "Friedel–Crafts 아실화"
+      ],
+      "answer": "교차 알돌 축합(crossed aldol)",
+      "explanation": "정답: 교차 알돌 축합(crossed aldol)\n케톤 엔올 음이온 + α-H 없는 알데하이드 → 탈수된 α,β-불포화 케톤.\n\n오답 분석:\n• Claisen 축합 — 에스터 받개일 때\n• Wittig 반응 — C=O → C=C이지만 일라이드를 쓰는 반응\n• Michael 반응 — α,β-불포화 카보닐을 '받개'로 쓰는 반응\n• Friedel–Crafts 아실화 — 방향족 고리에 아실기"
+    },
+    {
+      "id": 4,
+      "question": "[Ch24 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:O=C1C=CCCC1>>CCOC(=O)C(C(=O)OCC)C1CCCC(=O)C1|CH₂(CO₂Et)₂|NaOEt]]",
+      "choices": [
+        "Michael 반응",
+        "Robinson 고리만듦",
+        "알돌 반응",
+        "Claisen 축합",
+        "Diels–Alder 반응"
+      ],
+      "answer": "Michael 반응",
+      "explanation": "정답: Michael 반응\n엔올 음이온이 α,β-불포화 카보닐의 β탄소에 1,4-첨가(족보 9번 '마이클 받개').\n\n오답 분석:\n• Robinson 고리만듦 — 마이클 뒤 분자 내 알돌로 고리가 생겨야 함\n• 알돌 반응 — C=O에 첨가\n• Claisen 축합 — 에스터 아실 치환\n• Diels–Alder 반응 — 고리화첨가"
+    },
+    {
+      "id": 5,
+      "question": "[Ch24 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CC1CCCCC1=O>>CC12CCCCC1=CC(=O)CC2|CH₂=CHCOCH₃|NaOEt]]",
+      "choices": [
+        "Robinson 고리만듦(Robinson annulation)",
+        "Michael 반응",
+        "Diels–Alder 반응",
+        "Dieckmann 반응",
+        "분자 내 알돌 반응"
+      ],
+      "answer": "Robinson 고리만듦(Robinson annulation)",
+      "explanation": "정답: Robinson 고리만듦(Robinson annulation)\n마이클 + 분자 내 알돌 → 2-사이클로헥센온(족보 23·25 28번).\n\n오답 분석:\n• Michael 반응 — 마이클 단계만이면 고리가 생기지 않는다\n• Diels–Alder 반응 — 6원 고리를 만들지만 다이엔 + 친다이엔체의 [4+2]\n• Dieckmann 반응 — 다이에스터의 고리화\n• 분자 내 알돌 반응 — Robinson의 두 번째 단계일 뿐"
+    },
+    {
+      "id": 6,
+      "question": "[Ch21 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:O=C1CCCCC1>>C=C1CCCCC1|Ph₃P=CH₂|]]",
+      "choices": [
+        "Wittig 반응",
+        "Grignard 반응",
+        "Simmons–Smith 반응",
+        "Heck 반응",
+        "Hofmann 제거"
+      ],
+      "answer": "Wittig 반응",
+      "explanation": "정답: Wittig 반응\n인 일라이드 + 카보닐 → 알켄 + Ph₃P=O.\n\n오답 분석:\n• Grignard 반응 — C=O에 R이 붙어 알코올\n• Simmons–Smith 반응 — C=C에 CH₂를 붙여 사이클로프로페인\n• Heck 반응 — 할라이드 + 알켄 짝지음\n• Hofmann 제거 — 아민 → 알켄"
+    },
+    {
+      "id": 7,
+      "question": "[Ch25 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCBr>>CCN|1) 프탈이미드 음이온|2) ⁻OH, H₂O]]",
+      "choices": [
+        "Gabriel 합성",
+        "Hofmann 제거",
+        "환원성 아민화",
+        "Sandmeyer 반응",
+        "Simmons–Smith 반응"
+      ],
+      "answer": "Gabriel 합성",
+      "explanation": "정답: Gabriel 합성\n프탈이미드 음이온 SN2 → 가수분해 → 1차 아민(2023 10번 '가브리엘 합성').\n\n오답 분석:\n• Hofmann 제거 — 아민 → 알켄\n• 환원성 아민화 — 카보닐 + 아민 + NaBH₃CN\n• Sandmeyer 반응 — 다이아조늄 → ArX\n• Simmons–Smith 반응 — 사이클로프로페인 합성"
+    },
+    {
+      "id": 8,
+      "question": "[Ch25 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCCN>>C=CC|1) CH₃I (과량) 2) Ag₂O|3) Δ]]",
+      "choices": [
+        "Hofmann 제거",
+        "Gabriel 합성",
+        "Zaitsev 탈수",
+        "Sandmeyer 반응",
+        "Claisen 자리옮김"
+      ],
+      "answer": "Hofmann 제거",
+      "explanation": "정답: Hofmann 제거\n4차 암모늄 수산화물의 E2 → 덜 치환된 알켄.\n\n오답 분석:\n• Gabriel 합성 — 1차 아민을 만드는 반응\n• Zaitsev 탈수 — 산 촉매 알코올 탈수(더 치환된 알켄)\n• Sandmeyer 반응 — 다이아조늄 치환\n• Claisen 자리옮김 — [3,3] 시그마 자리옮김"
+    },
+    {
+      "id": 9,
+      "question": "[Ch25 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:Cc1ccc([N+]#N)cc1>>Cc1ccc(Br)cc1|CuBr|]]",
+      "choices": [
+        "Sandmeyer 반응",
+        "Suzuki 반응",
+        "아조 짝지음",
+        "Friedel–Crafts 반응",
+        "Gabriel 합성"
+      ],
+      "answer": "Sandmeyer 반응",
+      "explanation": "정답: Sandmeyer 반응\nArN₂⁺ + CuCl/CuBr → ArCl/ArBr.\n\n오답 분석:\n• Suzuki 반응 — Pd 촉매 C–C 짝지음\n• 아조 짝지음 — 다이아조늄 + 활성화 방향족 → Ar–N=N–Ar\n• Friedel–Crafts 반응 — AlCl₃와 RX/RCOCl\n• Gabriel 합성 — 1차 아민 합성"
+    },
+    {
+      "id": 10,
+      "question": "[Ch25 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:[N+](#N)c1ccccc1>>Oc1ccc(N=Nc2ccccc2)cc1|페놀|NaOH]]",
+      "choices": [
+        "아조 짝지음(azo coupling)",
+        "Sandmeyer 반응",
+        "Suzuki 반응",
+        "Heck 반응",
+        "Friedel–Crafts 알킬화"
+      ],
+      "answer": "아조 짝지음(azo coupling)",
+      "explanation": "정답: 아조 짝지음(azo coupling)\nN=N이 남는 짝지음 → 아조 염료.\n\n오답 분석:\n• Sandmeyer 반응 — N₂가 빠지고 Cl·Br·CN으로 치환\n• Suzuki 반응 — Pd 촉매, 붕소 화합물\n• Heck 반응 — Pd 촉매, 알켄\n• Friedel–Crafts 알킬화 — 탄소 친전자체"
+    },
+    {
+      "id": 11,
+      "question": "[Ch26 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:Brc1ccccc1>>CCCC/C=C/c1ccccc1|trans-CH₃(CH₂)₃CH=CH–B(카테콜), Pd(PPh₃)₄|NaOH]]",
+      "choices": [
+        "Suzuki 반응",
+        "Heck 반응",
+        "유기구리 짝지음",
+        "Grignard 반응",
+        "올레핀 상호교환"
+      ],
+      "answer": "Suzuki 반응",
+      "explanation": "정답: Suzuki 반응\n유기 할라이드 + 유기보레인 + Pd(0) + 염기(2023 13번 '스즈키 반응').\n\n오답 분석:\n• Heck 반응 — 붕소 없이 알켄과 직접\n• 유기구리 짝지음 — R₂CuLi 사용\n• Grignard 반응 — 카보닐 첨가\n• 올레핀 상호교환 — Ru 촉매로 C=C 교환"
+    },
+    {
+      "id": 12,
+      "question": "[Ch26 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:Brc1ccccc1>>COC(=O)/C=C/c1ccccc1|CH₂=CHCO₂CH₃, Pd(OAc)₂|(CH₃CH₂)₃N]]",
+      "choices": [
+        "Heck 반응",
+        "Suzuki 반응",
+        "Michael 반응",
+        "Wittig 반응",
+        "올레핀 상호교환"
+      ],
+      "answer": "Heck 반응",
+      "explanation": "정답: Heck 반응\n아릴·바이닐 할라이드 + 알켄 → 더 치환된 trans 알켄.\n\n오답 분석:\n• Suzuki 반응 — 유기보레인 필요\n• Michael 반응 — 엔올 음이온의 1,4-첨가\n• Wittig 반응 — 카보닐 → 알켄\n• 올레핀 상호교환 — Ru 촉매"
+    },
+    {
+      "id": 13,
+      "question": "[Ch26 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C1=CCCCC1>>C1CCC2CC2C1|CH₂I₂|Zn(Cu)]]",
+      "choices": [
+        "Simmons–Smith 반응",
+        "다이할로카벤 첨가",
+        "Diels–Alder 반응",
+        "Wittig 반응",
+        "Heck 반응"
+      ],
+      "answer": "Simmons–Smith 반응",
+      "explanation": "정답: Simmons–Smith 반응\n카베노이드 ICH₂ZnI가 CH₂를 전달 → 사이클로프로페인.\n\n오답 분석:\n• 다이할로카벤 첨가 — CHX₃ + 강염기 → :CX₂ (할로젠이 남는다)\n• Diels–Alder 반응 — [4+2]\n• Wittig 반응 — C=O → C=C\n• Heck 반응 — Pd 짝지음"
+    },
+    {
+      "id": 14,
+      "question": "[Ch26 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C=CCCCCC=C>>C1=CCCCC1.C=C|Grubbs 촉매|]]",
+      "choices": [
+        "고리 닫힘 상호교환(RCM)",
+        "Diels–Alder 반응",
+        "Dieckmann 반응",
+        "분자 내 알돌 반응",
+        "Heck 반응"
+      ],
+      "answer": "고리 닫힘 상호교환(RCM)",
+      "explanation": "정답: 고리 닫힘 상호교환(RCM)\n다이엔 + Grubbs 촉매 → 고리 알켄 + 에틸렌(족보 26번 '고리 닫힘 상호교환').\n\n오답 분석:\n• Diels–Alder 반응 — 6원 고리를 만들지만 [4+2]\n• Dieckmann 반응 — 다이에스터 고리화\n• 분자 내 알돌 반응 — 다이카보닐 고리화\n• Heck 반응 — Pd 짝지음"
+    },
+    {
+      "id": 15,
+      "question": "[Ch27 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C=CC=C.C=CC#N>>N#CC1CC=CCC1|가열(Δ)|]]",
+      "choices": [
+        "Diels–Alder 반응",
+        "Robinson 고리만듦",
+        "[2+2] 고리화첨가",
+        "Cope 자리옮김",
+        "Claisen 자리옮김"
+      ],
+      "answer": "Diels–Alder 반응",
+      "explanation": "정답: Diels–Alder 반응\n다이엔(4π) + 친다이엔체(2π) → 사이클로헥센([4+2]).\n\n오답 분석:\n• Robinson 고리만듦 — 카보닐 축합으로 6원 고리\n• [2+2] 고리화첨가 — 4원 고리\n• Cope 자리옮김 — 분자 내 [3,3]\n• Claisen 자리옮김 — 에터의 [3,3]"
+    },
+    {
+      "id": 16,
+      "question": "[Ch27 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C=CC(C)CC=C>>C/C=C/CCC=C|가열(Δ)|]]",
+      "choices": [
+        "Cope 자리옮김",
+        "oxy-Cope 자리옮김",
+        "Claisen 자리옮김",
+        "[1,5] 시그마 자리옮김",
+        "Diels–Alder 반응"
+      ],
+      "answer": "Cope 자리옮김",
+      "explanation": "정답: Cope 자리옮김\n1,5-다이엔 → 이성질 1,5-다이엔([3,3], 족보 25-2 19번 보기).\n\n오답 분석:\n• oxy-Cope 자리옮김 — C3에 OH가 있어 카보닐이 생겨야 함\n• Claisen 자리옮김 — 사슬에 O가 있는 알릴 바이닐 에터\n• [1,5] 시그마 자리옮김 — H가 이동\n• Diels–Alder 반응 — 고리 생성"
+    },
+    {
+      "id": 17,
+      "question": "[Ch27 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C=CC(O)CC=C>>C=CCCCC=O|가열(Δ)|]]",
+      "choices": [
+        "oxy-Cope 자리옮김",
+        "Cope 자리옮김",
+        "Claisen 자리옮김",
+        "알돌 반응",
+        "[1,3] 시그마 자리옮김"
+      ],
+      "answer": "oxy-Cope 자리옮김",
+      "explanation": "정답: oxy-Cope 자리옮김\nC3-OH 1,5-다이엔 → 엔올 → 카보닐(2023 18번 '옥시 코프 자리옮김').\n\n오답 분석:\n• Cope 자리옮김 — OH가 없는 1,5-다이엔\n• Claisen 자리옮김 — 알릴 바이닐 에터\n• 알돌 반응 — 카보닐 축합\n• [1,3] 시그마 자리옮김 — 열적으로 금지"
+    },
+    {
+      "id": 18,
+      "question": "[Ch27 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:C=CCOc1ccccc1>>C=CCc1ccccc1O|가열(Δ)|]]",
+      "choices": [
+        "Claisen 자리옮김",
+        "Claisen 축합",
+        "Cope 자리옮김",
+        "Friedel–Crafts 알킬화",
+        "oxy-Cope 자리옮김"
+      ],
+      "answer": "Claisen 자리옮김",
+      "explanation": "정답: Claisen 자리옮김\n알릴 아릴 에터 → ortho-알릴페놀([3,3]). 'Claisen'이 붙은 반응이 둘이라는 점이 함정.\n\n오답 분석:\n• Claisen 축합 — 이름이 같은 에스터 축합(β-케토 에스터)\n• Cope 자리옮김 — 탄소만으로 된 1,5-다이엔\n• Friedel–Crafts 알킬화 — AlCl₃와 RX\n• oxy-Cope 자리옮김 — C3에 OH"
+    },
+    {
+      "id": 19,
+      "question": "[Ch22 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CC(=O)O>>CCOC(C)=O|CH₃CH₂OH|H₂SO₄]]",
+      "choices": [
+        "Fischer 에스터화",
+        "비누화",
+        "Claisen 축합",
+        "Williamson 에터 합성",
+        "아세탈화"
+      ],
+      "answer": "Fischer 에스터화",
+      "explanation": "정답: Fischer 에스터화\n카복실산 + 알코올 + 산 촉매 → 에스터(평형).\n\n오답 분석:\n• 비누화 — 에스터 → 카복실산 음이온(반대 방향, 염기)\n• Claisen 축합 — 에스터 두 분자 축합\n• Williamson 에터 합성 — 알콕사이드 + RX → 에터\n• 아세탈화 — 카보닐 + 알코올 2당량"
+    },
+    {
+      "id": 20,
+      "question": "[Ch23 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CC(=O)c1ccccc1>>[O-]C(=O)c1ccccc1|I₂ (과량)|NaOH]]",
+      "choices": [
+        "할로폼(아이오도폼) 반응",
+        "Sandmeyer 반응",
+        "Hofmann 제거",
+        "Tollens 반응",
+        "산 촉매 α-할로젠화"
+      ],
+      "answer": "할로폼(아이오도폼) 반응",
+      "explanation": "정답: 할로폼(아이오도폼) 반응\n메틸 케톤 + 과량 X₂/⁻OH → 카복실산 음이온 + CHX₃.\n\n오답 분석:\n• Sandmeyer 반응 — 다이아조늄 치환\n• Hofmann 제거 — 아민 → 알켄\n• Tollens 반응 — 알데하이드 산화(은거울)\n• 산 촉매 α-할로젠화 — 일치환에서 멈춤"
+    },
+    {
+      "id": 21,
+      "question": "[Ch23 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCOC(=O)CC(=O)OCC>>CCCC(=O)O|1) NaOEt 2) CH₃CH₂Br|3) H₃O⁺, Δ]]",
+      "choices": [
+        "말론산 에스터 합성",
+        "아세토아세트산 에스터 합성",
+        "Gabriel 합성",
+        "Claisen 축합",
+        "Dieckmann 반응"
+      ],
+      "answer": "말론산 에스터 합성",
+      "explanation": "정답: 말론산 에스터 합성\n다이에틸 말로네이트 → 알킬화 → 가수분해·탈카복실화 → 카복실산.\n\n오답 분석:\n• 아세토아세트산 에스터 합성 — 메틸 케톤을 만든다\n• Gabriel 합성 — 1차 아민\n• Claisen 축합 — β-케토 에스터\n• Dieckmann 반응 — 고리형 β-케토 에스터"
+    },
+    {
+      "id": 22,
+      "question": "[Ch23 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCOC(=O)CC(C)=O>>CCC(C)=O|1) NaOEt 2) CH₃I|3) H₃O⁺, Δ]]",
+      "choices": [
+        "아세토아세트산 에스터 합성",
+        "말론산 에스터 합성",
+        "Claisen 축합",
+        "할로폼 반응",
+        "Michael 반응"
+      ],
+      "answer": "아세토아세트산 에스터 합성",
+      "explanation": "정답: 아세토아세트산 에스터 합성\nβ-케토 에스터 → 알킬화 → 가수분해·탈카복실화 → 메틸 케톤.\n\n오답 분석:\n• 말론산 에스터 합성 — 카복실산을 만든다\n• Claisen 축합 — 출발물 아세토아세트산 에틸을 만드는 반응\n• 할로폼 반응 — 메틸 케톤을 '깨는' 반응\n• Michael 반응 — 1,4-첨가"
+    },
+    {
+      "id": 23,
+      "question": "[Ch20 · 인명반응] 다음 반응의 이름으로 옳은 것은?\n[[rxn:CCC(=O)c1ccccc1>>CC[C@@H](O)c1ccccc1|1) (S)-CBS 시약|2) H₂O]]",
+      "choices": [
+        "CBS 환원(거울상 선택적 환원)",
+        "Tollens 반응",
+        "Wolff–Kishner 환원",
+        "DIBAL-H 환원",
+        "Fischer 에스터화"
+      ],
+      "answer": "CBS 환원(거울상 선택적 환원)",
+      "explanation": "정답: CBS 환원(거울상 선택적 환원)\nCorey·Bakshi·Shibata 카이랄 옥사자보롤리딘 + BH₃ → 한 거울상 알코올.\n\n오답 분석:\n• Tollens 반응 — 알데하이드 산화\n• Wolff–Kishner 환원 — C=O → CH₂\n• DIBAL-H 환원 — 에스터 → 알데하이드\n• Fischer 에스터화 — 에스터 합성"
+    },
+    {
+      "id": 24,
+      "question": "[Ch25 · 이름 쓰기] 다음 반응의 이름(인명반응)을 쓰시오. (한글·영문 모두 인정)\n[[rxn:O=C1NC(=O)c2ccccc21>>CC(C)CN|[1] KOH [2] (CH₃)₂CHCH₂Cl|[3] OH⁻, H₂O]]",
+      "answer": [
+        "Gabriel synthesis",
+        "가브리엘 합성",
+        "Gabriel",
+        "가브리엘",
+        "Gabriel 합성",
+        "가브리엘합성"
+      ],
+      "explanation": "정답: Gabriel synthesis / 가브리엘 합성\n2023 기말 10번 그대로(영문 철자 오타도 정답 인정되던 문항)."
+    },
+    {
+      "id": 25,
+      "question": "[Ch26 · 이름 쓰기] 다음 반응의 이름(인명반응)을 쓰시오. (한글·영문 모두 인정)\n[[rxn:CCC#C>>CC/C=C/C=C(C)/CC|[1] 카테콜보레인|[2] 바이닐 브로마이드, Pd(PPh₃)₄, NaOH]]",
+      "answer": [
+        "Suzuki reaction",
+        "스즈키 반응",
+        "Suzuki",
+        "스즈키",
+        "Suzuki coupling",
+        "스즈키 커플링",
+        "스즈키반응"
+      ],
+      "explanation": "정답: Suzuki reaction / 스즈키 반응\n2023 기말 12·13번."
+    },
+    {
+      "id": 26,
+      "question": "[Ch27 · 이름 쓰기] 다음 반응의 이름(인명반응)을 쓰시오. (한글·영문 모두 인정)\n[[rxn:C=CC(O)CC=C>>C=CCCCC=O|[3,3], 가열|]]",
+      "answer": [
+        "oxy-Cope rearrangement",
+        "옥시 코프 자리옮김",
+        "oxy-Cope",
+        "옥시코프",
+        "옥시 코프",
+        "옥시-코프 자리옮김",
+        "oxycope"
+      ],
+      "explanation": "정답: oxy-Cope rearrangement / 옥시 코프 자리옮김\n2023 기말 17·18번."
+    },
+    {
+      "id": 27,
+      "question": "[Ch24 · 이름 쓰기] 다음 반응의 이름(인명반응)을 쓰시오. (한글·영문 모두 인정)\n[[rxn:CCOC(=O)CCCCCC(=O)OCC>>CCOC(=O)C1CCCCC1=O|1) NaOEt|2) H₃O⁺]]",
+      "answer": [
+        "Dieckmann reaction",
+        "디크만 반응",
+        "Dieckmann",
+        "디크만",
+        "디이크만",
+        "디이크만 반응",
+        "Dieckmann condensation",
+        "디크만반응"
+      ],
+      "explanation": "정답: Dieckmann reaction / 디크만 반응\n분자 내 Claisen."
+    },
+    {
+      "id": 28,
+      "question": "[Ch24 · 이름 쓰기] 다음 반응의 이름(인명반응)을 쓰시오. (한글·영문 모두 인정)\n[[rxn:O=C1CCCCC1>>O=C1CCC2CCCCC2=C1|CH₂=CHCOCH₃|NaOEt]]",
+      "answer": [
+        "Robinson annulation",
+        "로빈슨 고리만듦",
+        "Robinson",
+        "로빈슨",
+        "로빈슨 고리화",
+        "로빈슨고리만듦"
+      ],
+      "explanation": "정답: Robinson annulation / 로빈슨 고리만듦\n마이클 + 분자 내 알돌."
+    }
+  ]
+}
