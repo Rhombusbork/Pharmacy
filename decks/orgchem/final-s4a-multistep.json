@@ -13,7 +13,7 @@
         "[[smi:CCC/C=C/B1Oc2ccccc2O1]]"
       ],
       "answer": "[[smi:CCC/C=C/c1ccccc1]]",
-      "explanation": "정답: [[smi:CCC/C=C/c1ccccc1]]\n2023 기말 12번 형식: [1] 말단 알카인 + 카테콜보레인 → (E)-바이닐보레인 [2] 아릴 할라이드와 Suzuki → (E)-1-페닐펜트-1-엔.\n\n오답 분석:\n• [[smi:CCC/C=C\\c1ccccc1]] — cis — 카테콜보레인은 syn 첨가로 trans 바이닐보레인을 만들고 Suzuki가 그 입체를 유지\n• [[smi:CCCC(=C)c1ccccc1]] — B가 안쪽 탄소에 붙었다고 본 구조 — B는 말단 탄소\n• [[smi:CCC/C=C/B1Oc2ccccc2O1]] — 1단계 바이닐보레인에서 멈춤"
+      "explanation": "정답: [[smi:CCC/C=C/c1ccccc1]]\n🔎 단계별 과정\n1) 카테콜보레인 — H–B가 syn 첨가, B는 말단 탄소 → trans 바이닐보레인  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCCC#C>>CCC/C=C/B1Oc2ccccc2O1|1) 카테콜보레인]]\n2) PhBr, Pd(PPh₃)₄, NaOH — Suzuki: B 자리와 Br 자리가 연결, 입체 유지\n[[rxn:CCC/C=C/B1Oc2ccccc2O1>>CCC/C=C/c1ccccc1|2) PhBr, Pd(PPh₃)₄, NaOH]]\n\n2023 기말 12번 형식: [1] 말단 알카인 + 카테콜보레인 → (E)-바이닐보레인 [2] 아릴 할라이드와 Suzuki → (E)-1-페닐펜트-1-엔.\n\n오답 분석:\n• [[smi:CCC/C=C\\c1ccccc1]] — cis — 카테콜보레인은 syn 첨가로 trans 바이닐보레인을 만들고 Suzuki가 그 입체를 유지\n• [[smi:CCCC(=C)c1ccccc1]] — B가 안쪽 탄소에 붙었다고 본 구조 — B는 말단 탄소\n• [[smi:CCC/C=C/B1Oc2ccccc2O1]] — 1단계 바이닐보레인에서 멈춤"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "[[smi:CC(C)(O)c1ccccc1]]"
       ],
       "answer": "[[smi:CC(=O)c1ccccc1]]",
-      "explanation": "정답: [[smi:CC(=O)c1ccccc1]]\nPhMgBr → 벤조산(+1C) → 산 염화물 → 유기구리로 메틸 하나만 → 아세토페논.\n\n오답 분석:\n• [[smi:OC(=O)c1ccccc1]] — 3단계 벤조산에서 멈춤\n• [[smi:O=C(Cl)c1ccccc1]] — 4단계 벤조일 클로라이드에서 멈춤\n• [[smi:CC(C)(O)c1ccccc1]] — 5단계에 그리냐르를 쓴 것처럼 두 번 첨가 — 유기구리는 케톤에서 멈춘다"
+      "explanation": "정답: [[smi:CC(=O)c1ccccc1]]\n🔎 단계별 과정\n1) Mg, 에터 — 그리냐르 시약 PhMgBr\n[[rxn:Brc1ccccc1>>Br[Mg]c1ccccc1|1) Mg, 에터]]\n2) CO₂ — 카복실산 음이온(MgBr⁺ 생략), 탄소 1개 증가\n[[rxn:Br[Mg]c1ccccc1>>[O-]C(=O)c1ccccc1|2) CO₂]]\n3) H₃O⁺ — 양성자화 → 벤조산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:[O-]C(=O)c1ccccc1>>OC(=O)c1ccccc1|3) H₃O⁺]]\n4) SOCl₂ — OH → Cl, 산 염화물  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:OC(=O)c1ccccc1>>O=C(Cl)c1ccccc1|4) SOCl₂]]\n5) (CH₃)₂CuLi — 유기구리는 산 염화물과 케톤에서 멈춘다\n[[rxn:O=C(Cl)c1ccccc1>>CC(=O)c1ccccc1|5) (CH₃)₂CuLi]]\n\nPhMgBr → 벤조산(+1C) → 산 염화물 → 유기구리로 메틸 하나만 → 아세토페논.\n\n오답 분석:\n• [[smi:OC(=O)c1ccccc1]] — 3단계 벤조산에서 멈춤\n• [[smi:O=C(Cl)c1ccccc1]] — 4단계 벤조일 클로라이드에서 멈춤\n• [[smi:CC(C)(O)c1ccccc1]] — 5단계에 그리냐르를 쓴 것처럼 두 번 첨가 — 유기구리는 케톤에서 멈춘다"
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "[[smi:CCCC(C)=O]]"
       ],
       "answer": "[[smi:CCCCC(C)=O]]",
-      "explanation": "정답: [[smi:CCCCC(C)=O]]\nR–Br → R–CN(+1C) → 그리냐르 첨가·가수분해 → 케톤.\n\n오답 분석:\n• [[smi:CCCCC#N]] — 1단계 나이트릴에서 멈춤\n• [[smi:CCCCC(C)=N]] — 이민 단계에서 멈춤 — 물이 가수분해\n• [[smi:CCCC(C)=O]] — 탄소 수 착오 — CN 탄소 1개 + 메틸 1개가 더해져 2-헥산온"
+      "explanation": "정답: [[smi:CCCCC(C)=O]]\n🔎 단계별 과정\n1) NaCN — SN2, 탄소 1개 증가(펜테인나이트릴)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCCCBr>>CCCCC#N|1) NaCN]]\n2) CH₃MgBr — C≡N 탄소에 메틸 첨가 → 이민 음이온(MgBr⁺ 생략), 더 반응하지 않음\n[[rxn:CCCCC#N>>CCCCC(C)=[N-]|2) CH₃MgBr]]\n3) H₂O (양성자화) — 이민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCCCC(C)=[N-]>>CCCCC(C)=N|3) H₂O (양성자화)]]\n3) H₂O (가수분해) — C=N → C=O, 2-헥산온\n[[rxn:CCCCC(C)=N>>CCCCC(C)=O|3) H₂O (가수분해)]]\n\nR–Br → R–CN(+1C) → 그리냐르 첨가·가수분해 → 케톤.\n\n오답 분석:\n• [[smi:CCCCC#N]] — 1단계 나이트릴에서 멈춤\n• [[smi:CCCCC(C)=N]] — 이민 단계에서 멈춤 — 물이 가수분해\n• [[smi:CCCC(C)=O]] — 탄소 수 착오 — CN 탄소 1개 + 메틸 1개가 더해져 2-헥산온"
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
         "[[smi:O=C1CCCCC1]]"
       ],
       "answer": "[[smi:CC(=O)CCCCC=O]]",
-      "explanation": "정답: [[smi:CC(=O)CCCCC=O]]\n3차 알코올 → Zaitsev 탈수(삼치환 고리 C=C) → 오존 분해로 고리가 열려 6-옥소헵탄알.\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 3단계 1-메틸사이클로헥센에서 멈춤\n• [[smi:CC(=O)CCCCC(=O)O]] — 산화성 후처리(H₂O₂)를 했을 때\n• [[smi:O=C1CCCCC1]] — 출발물로 되돌아감 — 고리 C=C가 끊어지면 사슬형 케토 알데하이드"
+      "explanation": "정답: [[smi:CC(=O)CCCCC=O]]\n🔎 단계별 과정\n1) CH₃MgBr — C=O 첨가 → 알콕사이드(MgBr⁺ 생략)\n[[rxn:O=C1CCCCC1>>CC1([O-])CCCCC1|1) CH₃MgBr]]\n2) H₃O⁺ — 3차 알코올\n[[rxn:CC1([O-])CCCCC1>>CC1(O)CCCCC1|2) H₃O⁺]]\n3) H₂SO₄, Δ — 탈수(Zaitsev, 삼치환 고리 C=C)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC1(O)CCCCC1>>CC1=CCCCC1|3) H₂SO₄, Δ]]\n4) O₃ 5) Zn, H₂O — 고리 C=C 절단(오조나이드 생략) → 케토 알데하이드\n[[rxn:CC1=CCCCC1>>CC(=O)CCCCC=O|4) O₃ 5) Zn, H₂O]]\n\n3차 알코올 → Zaitsev 탈수(삼치환 고리 C=C) → 오존 분해로 고리가 열려 6-옥소헵탄알.\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 3단계 1-메틸사이클로헥센에서 멈춤\n• [[smi:CC(=O)CCCCC(=O)O]] — 산화성 후처리(H₂O₂)를 했을 때\n• [[smi:O=C1CCCCC1]] — 출발물로 되돌아감 — 고리 C=C가 끊어지면 사슬형 케토 알데하이드"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "[[smi:CC(=O)CCCCC]]"
       ],
       "answer": "[[smi:C=CCCC(C)=O]]",
-      "explanation": "정답: [[smi:C=CCCC(C)=O]]\n알릴 브로마이드는 SN2를 잘 한다 → 5-헥센-2-온.\n\n오답 분석:\n• [[smi:C=CCC(C(C)=O)C(=O)OCC]] — 가수분해·탈카복실화 전\n• [[smi:C=CCCC(=O)O]] — 카복실산 — 말론산 에스터 합성과 혼동\n• [[smi:CC(=O)CCCCC]] — C=C가 사라진 구조 — 환원 단계가 없다"
+      "explanation": "정답: [[smi:C=CCCC(C)=O]]\n🔎 단계별 과정\n1) NaOEt — 두 C=O 사이 H를 떼어 엔올 음이온(Na⁺ 생략)\n[[rxn:CCOC(=O)CC(C)=O>>CCOC(=O)[CH-]C(C)=O|1) NaOEt]]\n2) CH₂=CHCH₂Br — SN2 알릴화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)[CH-]C(C)=O>>C=CCC(C(C)=O)C(=O)OCC|2) CH₂=CHCH₂Br]]\n3) H₃O⁺ (가수분해) — 에스터 → β-케토산\n[[rxn:C=CCC(C(C)=O)C(=O)OCC>>C=CCC(C(C)=O)C(=O)O|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — CO₂ 손실 → 메틸 케톤\n[[rxn:C=CCC(C(C)=O)C(=O)O>>C=CCCC(C)=O|3) Δ (탈카복실화)]]\n\n알릴 브로마이드는 SN2를 잘 한다 → 5-헥센-2-온.\n\n오답 분석:\n• [[smi:C=CCC(C(C)=O)C(=O)OCC]] — 가수분해·탈카복실화 전\n• [[smi:C=CCCC(=O)O]] — 카복실산 — 말론산 에스터 합성과 혼동\n• [[smi:CC(=O)CCCCC]] — C=C가 사라진 구조 — 환원 단계가 없다"
     },
     {
       "id": 6,
@@ -73,7 +73,7 @@
         "[[smi:CCCCO]]"
       ],
       "answer": "[[smi:CC(C)CO]]",
-      "explanation": "정답: [[smi:CC(C)CO]]\n다이메틸 말로네이트 → 2-메틸프로판산 → LiAlH₄ → 2-메틸-1-프로판올.\n\n오답 분석:\n• [[smi:CC(C)C(=O)O]] — 4단계 환원 전(2-메틸프로판산)\n• [[smi:CC(C)(CO)CO]] — 탈카복실화 없이 두 에스터를 모두 환원한 다이올\n• [[smi:CCCCO]] — 탄소 배치 착오(가지 없음)"
+      "explanation": "정답: [[smi:CC(C)CO]]\n🔎 단계별 과정\n1) NaOEt, CH₃I — 첫 번째 메틸화\n[[rxn:CCOC(=O)CC(=O)OCC>>CC(C(=O)OCC)C(=O)OCC|1) NaOEt, CH₃I]]\n2) NaOEt, CH₃I — 두 번째 메틸화\n[[rxn:CC(C(=O)OCC)C(=O)OCC>>CC(C)(C(=O)OCC)C(=O)OCC|2) NaOEt, CH₃I]]\n3) H₃O⁺ (가수분해) — β-다이산\n[[rxn:CC(C)(C(=O)OCC)C(=O)OCC>>CC(C)(C(=O)O)C(=O)O|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — CO₂ 손실 → 2-메틸프로판산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC(C)(C(=O)O)C(=O)O>>CC(C)C(=O)O|3) Δ (탈카복실화)]]\n4) LiAlH₄ — COOH → 1차 알콕사이드(Li⁺·Al 생략)\n[[rxn:CC(C)C(=O)O>>CC(C)C[O-]|4) LiAlH₄]]\n5) H₂O — 2-메틸-1-프로판올\n[[rxn:CC(C)C[O-]>>CC(C)CO|5) H₂O]]\n\n다이메틸 말로네이트 → 2-메틸프로판산 → LiAlH₄ → 2-메틸-1-프로판올.\n\n오답 분석:\n• [[smi:CC(C)C(=O)O]] — 4단계 환원 전(2-메틸프로판산)\n• [[smi:CC(C)(CO)CO]] — 탈카복실화 없이 두 에스터를 모두 환원한 다이올\n• [[smi:CCCCO]] — 탄소 배치 착오(가지 없음)"
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
         "[[smi:C=CCOC1=CCCCC1]]"
       ],
       "answer": "[[smi:C=CCC1CCCCC1O]]",
-      "explanation": "정답: [[smi:C=CCC1CCCCC1O]]\n엔올 음이온 α-알릴화 → 케톤만 NaBH₄로 환원 → 2-알릴사이클로헥산올.\n\n오답 분석:\n• [[smi:C=CCC1CCCCC1=O]] — 3단계 환원 전\n• [[smi:CCCC1CCCCC1O]] — C=C까지 환원 — NaBH₄는 고립된 C=C를 건드리지 않는다\n• [[smi:C=CCOC1=CCCCC1]] — 산소 쪽 알킬화"
+      "explanation": "정답: [[smi:C=CCC1CCCCC1O]]\n🔎 단계별 과정\n1) LDA, THF, −78 °C — 엔올 음이온(Li⁺ 생략)\n[[rxn:O=C1CCCCC1>>[O-]C1=CCCCC1|1) LDA, THF, −78 °C]]\n2) CH₂=CHCH₂Br — α-알릴화(SN2)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:[O-]C1=CCCCC1>>C=CCC1CCCCC1=O|2) CH₂=CHCH₂Br]]\n3) NaBH₄, CH₃OH — C=O만 환원, 고립 C=C 유지\n[[rxn:C=CCC1CCCCC1=O>>C=CCC1CCCCC1O|3) NaBH₄, CH₃OH]]\n\n엔올 음이온 α-알릴화 → 케톤만 NaBH₄로 환원 → 2-알릴사이클로헥산올.\n\n오답 분석:\n• [[smi:C=CCC1CCCCC1=O]] — 3단계 환원 전\n• [[smi:CCCC1CCCCC1O]] — C=C까지 환원 — NaBH₄는 고립된 C=C를 건드리지 않는다\n• [[smi:C=CCOC1=CCCCC1]] — 산소 쪽 알킬화"
     },
     {
       "id": 8,
@@ -97,7 +97,7 @@
         "[[smi:CCOC(=O)C1CCC(O)CC1]]"
       ],
       "answer": "[[smi:OCC1CCC(=O)CC1]]",
-      "explanation": "정답: [[smi:OCC1CCC(=O)CC1]]\nCh21 PPT 69~70쪽 전략: 케톤 보호 → 에스터만 LiAlH₄ → 탈보호 → 4-(하이드록시메틸)사이클로헥산온.\n\n오답 분석:\n• [[smi:OCC1CCC(O)CC1]] — 보호하지 않았을 때(둘 다 환원)\n• [[smi:OCC1CCC2(CC1)OCCO2]] — 탈보호(4단계) 전\n• [[smi:CCOC(=O)C1CCC(O)CC1]] — 보호 대상을 반대로 생각 — 케톤이 보호되어 남는다"
+      "explanation": "정답: [[smi:OCC1CCC(=O)CC1]]\n🔎 단계별 과정\n1) HOCH₂CH₂OH, TsOH — 케톤만 고리형 아세탈로 보호\n[[rxn:CCOC(=O)C1CCC(=O)CC1>>CCOC(=O)C1CCC2(CC1)OCCO2|1) HOCH₂CH₂OH, TsOH]]\n2) LiAlH₄ — 에스터 → 1차 알콕사이드, 아세탈은 그대로\n[[rxn:CCOC(=O)C1CCC2(CC1)OCCO2>>[O-]CC1CCC2(CC1)OCCO2|2) LiAlH₄]]\n3) H₂O — 양성자화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:[O-]CC1CCC2(CC1)OCCO2>>OCC1CCC2(CC1)OCCO2|3) H₂O]]\n4) H₃O⁺ — 아세탈 가수분해(탈보호)\n[[rxn:OCC1CCC2(CC1)OCCO2>>OCC1CCC(=O)CC1|4) H₃O⁺]]\n\nCh21 PPT 69~70쪽 전략: 케톤 보호 → 에스터만 LiAlH₄ → 탈보호 → 4-(하이드록시메틸)사이클로헥산온.\n\n오답 분석:\n• [[smi:OCC1CCC(O)CC1]] — 보호하지 않았을 때(둘 다 환원)\n• [[smi:OCC1CCC2(CC1)OCCO2]] — 탈보호(4단계) 전\n• [[smi:CCOC(=O)C1CCC(O)CC1]] — 보호 대상을 반대로 생각 — 케톤이 보호되어 남는다"
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
         "[[smi:C1CCC2CC2C1]]"
       ],
       "answer": "[[smi:C1CCC2(CC1)CC2]]",
-      "explanation": "정답: [[smi:C1CCC2(CC1)CC2]]\n메틸렌사이클로헥세인의 고리 밖 C=C에 CH₂ → 스파이로[2.5]옥테인.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 1단계 알켄에서 멈춤\n• [[smi:CC1CCCCC1]] — C=C 수소화와 혼동\n• [[smi:C1CCC2CC2C1]] — 고리 안 C=C에 첨가된 구조 — Wittig이 만든 C=C는 고리 밖"
+      "explanation": "정답: [[smi:C1CCC2(CC1)CC2]]\n🔎 단계별 과정\n1) Ph₃P=CH₂ — Wittig: C=O 자리에 =CH₂  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=C1CCCCC1>>C=C1CCCCC1|1) Ph₃P=CH₂]]\n2) CH₂I₂, Zn(Cu) — Simmons–Smith: 고리 밖 C=C에 CH₂ → 스파이로 화합물\n[[rxn:C=C1CCCCC1>>C1CCC2(CC1)CC2|2) CH₂I₂, Zn(Cu)]]\n\n메틸렌사이클로헥세인의 고리 밖 C=C에 CH₂ → 스파이로[2.5]옥테인.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 1단계 알켄에서 멈춤\n• [[smi:CC1CCCCC1]] — C=C 수소화와 혼동\n• [[smi:C1CCC2CC2C1]] — 고리 안 C=C에 첨가된 구조 — Wittig이 만든 C=C는 고리 밖"
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
         "[[smi:O=C1CCCCC1CCC(C)=O]]"
       ],
       "answer": "[[smi:O=C1CCC2CCCCC2C1]]",
-      "explanation": "정답: [[smi:O=C1CCC2CCCCC2C1]]\nRobinson(옥탈렌온) → C=C 선택 수소화 → 포화 데칼론.\n\n오답 분석:\n• [[smi:O=C1CCC2CCCCC2=C1]] — 2단계 전(엔온)\n• [[smi:OC1CCC2CCCCC2C1]] — C=O까지 환원 — H₂ 1당량은 C=C만\n• [[smi:O=C1CCCCC1CCC(C)=O]] — Robinson이 마이클 단계에서 멈춤"
+      "explanation": "정답: [[smi:O=C1CCC2CCCCC2C1]]\n🔎 단계별 과정\n1) CH₂=CHCOCH₃, NaOEt (마이클) — β탄소에 1,4-첨가 → 1,5-다이케톤  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=C1CCCCC1>>CC(=O)CCC1CCCCC1=O|1) CH₂=CHCOCH₃, NaOEt (마이클)]]\n1) (분자 내 알돌·탈수) — Robinson 고리만듦 완료(엔온)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC(=O)CCC1CCCCC1=O>>O=C1CCC2CCCCC2=C1|1) (분자 내 알돌·탈수)]]\n2) H₂ (1당량), Pd-C — C=C만 수소화\n[[rxn:O=C1CCC2CCCCC2=C1>>O=C1CCC2CCCCC2C1|2) H₂ (1당량), Pd-C]]\n\nRobinson(옥탈렌온) → C=C 선택 수소화 → 포화 데칼론.\n\n오답 분석:\n• [[smi:O=C1CCC2CCCCC2=C1]] — 2단계 전(엔온)\n• [[smi:OC1CCC2CCCCC2C1]] — C=O까지 환원 — H₂ 1당량은 C=C만\n• [[smi:O=C1CCCCC1CCC(C)=O]] — Robinson이 마이클 단계에서 멈춤"
     },
     {
       "id": 11,
@@ -133,7 +133,7 @@
         "[[smi:CC(=O)Nc1ccc(Br)cc1]]"
       ],
       "answer": "[[smi:Nc1ccc(Br)cc1]]",
-      "explanation": "정답: [[smi:Nc1ccc(Br)cc1]]\n아닐린의 NH₂는 너무 강한 활성화기라 다중 브로민화 → 아세틸로 보호해 반응성을 낮추고 para 일치환 → 가수분해 → p-브로모아닐린(Ch25 PPT 63~64쪽 전략).\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — 보호 없이 아닐린을 브로민화했을 때(세 자리 모두)\n• [[smi:Nc1cccc(Br)c1]] — meta — 아세트아마이도기는 o,p 지향(부피가 커서 para 우세)\n• [[smi:CC(=O)Nc1ccc(Br)cc1]] — 탈보호(5단계) 전"
+      "explanation": "정답: [[smi:Nc1ccc(Br)cc1]]\n🔎 단계별 과정\n1) HNO₃, H₂SO₄ — 나이트로화\n[[rxn:c1ccccc1>>O=[N+]([O-])c1ccccc1|1) HNO₃, H₂SO₄]]\n2) Sn, HCl — NO₂ → NH₂\n[[rxn:O=[N+]([O-])c1ccccc1>>Nc1ccccc1|2) Sn, HCl]]\n3) CH₃COCl — 아마이드로 보호(활성 약화)\n[[rxn:Nc1ccccc1>>CC(=O)Nc1ccccc1|3) CH₃COCl]]\n4) Br₂, FeBr₃ — para 일치환  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC(=O)Nc1ccccc1>>CC(=O)Nc1ccc(Br)cc1|4) Br₂, FeBr₃]]\n5) H₃O⁺ — 아마이드 가수분해(탈보호)\n[[rxn:CC(=O)Nc1ccc(Br)cc1>>Nc1ccc(Br)cc1|5) H₃O⁺]]\n\n아닐린의 NH₂는 너무 강한 활성화기라 다중 브로민화 → 아세틸로 보호해 반응성을 낮추고 para 일치환 → 가수분해 → p-브로모아닐린(Ch25 PPT 63~64쪽 전략).\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — 보호 없이 아닐린을 브로민화했을 때(세 자리 모두)\n• [[smi:Nc1cccc(Br)c1]] — meta — 아세트아마이도기는 o,p 지향(부피가 커서 para 우세)\n• [[smi:CC(=O)Nc1ccc(Br)cc1]] — 탈보호(5단계) 전"
     },
     {
       "id": 12,
@@ -145,7 +145,7 @@
         "[[smi:Nc1ccccc1]]"
       ],
       "answer": "[[smi:NCc1ccccc1]]",
-      "explanation": "정답: [[smi:NCc1ccccc1]]\n아닐린 → 벤조나이트릴 → 벤질아민(탄소 1개 증가).\n\n오답 분석:\n• [[smi:N#Cc1ccccc1]] — 2단계 나이트릴에서 멈춤\n• [[smi:O=Cc1ccccc1]] — 3단계에 DIBAL-H를 썼을 때\n• [[smi:Nc1ccccc1]] — 출발물로 되돌아감"
+      "explanation": "정답: [[smi:NCc1ccccc1]]\n🔎 단계별 과정\n1) NaNO₂, HCl — 다이아조늄염(Cl⁻ 생략)\n[[rxn:Nc1ccccc1>>[N+](#N)c1ccccc1|1) NaNO₂, HCl]]\n2) CuCN — Sandmeyer형 치환 → 벤조나이트릴  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:[N+](#N)c1ccccc1>>N#Cc1ccccc1|2) CuCN]]\n3) LiAlH₄ 4) H₂O — C≡N에 H⁻ 두 번 → 1차 아민\n[[rxn:N#Cc1ccccc1>>NCc1ccccc1|3) LiAlH₄ 4) H₂O]]\n\n아닐린 → 벤조나이트릴 → 벤질아민(탄소 1개 증가).\n\n오답 분석:\n• [[smi:N#Cc1ccccc1]] — 2단계 나이트릴에서 멈춤\n• [[smi:O=Cc1ccccc1]] — 3단계에 DIBAL-H를 썼을 때\n• [[smi:Nc1ccccc1]] — 출발물로 되돌아감"
     },
     {
       "id": 13,
@@ -157,7 +157,7 @@
         "[[smi:BrC(Br)CCCCCC(Br)Br]]"
       ],
       "answer": "[[smi:BrC1(Br)C2CCCCC12]]",
-      "explanation": "정답: [[smi:BrC1(Br)C2CCCCC12]]\n1,7-옥타다이엔 → 사이클로헥센(+ 에틸렌) → :CBr₂ 첨가 → 7,7-다이브로모바이사이클로[4.1.0]헵테인.\n\n오답 분석:\n• [[smi:C1=CCCCC1]] — 1단계 사이클로헥센에서 멈춤\n• [[smi:BrC1CCCCC1Br]] — Br₂ 첨가와 혼동\n• [[smi:BrC(Br)CCCCCC(Br)Br]] — RCM 없이 양 끝에 첨가된 구조(탄소 배치 착오)"
+      "explanation": "정답: [[smi:BrC1(Br)C2CCCCC12]]\n🔎 단계별 과정\n1) Grubbs 촉매 — RCM(에틸렌 방출)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:C=CCCCCC=C>>C1=CCCCC1|1) Grubbs 촉매]]\n2) CHBr₃, KOC(CH₃)₃ — :CBr₂ 첨가\n[[rxn:C1=CCCCC1>>BrC1(Br)C2CCCCC12|2) CHBr₃, KOC(CH₃)₃]]\n\n1,7-옥타다이엔 → 사이클로헥센(+ 에틸렌) → :CBr₂ 첨가 → 7,7-다이브로모바이사이클로[4.1.0]헵테인.\n\n오답 분석:\n• [[smi:C1=CCCCC1]] — 1단계 사이클로헥센에서 멈춤\n• [[smi:BrC1CCCCC1Br]] — Br₂ 첨가와 혼동\n• [[smi:BrC(Br)CCCCCC(Br)Br]] — RCM 없이 양 끝에 첨가된 구조(탄소 배치 착오)"
     },
     {
       "id": 14,
@@ -169,7 +169,7 @@
         "[[smi:O=CCc1ccc(O)cc1]]"
       ],
       "answer": "[[smi:O=CCc1ccccc1O]]",
-      "explanation": "정답: [[smi:O=CCc1ccccc1O]]\nClaisen → ortho-알릴페놀 → 말단 C=C 오존 분해 → (2-하이드록시페닐)아세트알데하이드 + HCHO.\n\n오답 분석:\n• [[smi:C=CCc1ccccc1O]] — 2단계 전(2-알릴페놀)\n• [[smi:O=CCOc1ccccc1]] — 자리옮김 없이 에터의 C=C만 오존 분해\n• [[smi:O=CCc1ccc(O)cc1]] — para — 알릴기는 ortho로 옮겨 간다"
+      "explanation": "정답: [[smi:O=CCc1ccccc1O]]\n🔎 단계별 과정\n1) Δ ([3,3]) — 사이클로헥사다이엔온 중간체\n[[rxn:C=CCOc1ccccc1>>C=CCC1C=CC=CC1=O|1) Δ ([3,3])]]\n1) (토토머화) — 방향족 회복 → 2-알릴페놀  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:C=CCC1C=CC=CC1=O>>C=CCc1ccccc1O|1) (토토머화)]]\n2) O₃ 3) Zn, H₂O — 말단 C=C 절단(+ HCHO)\n[[rxn:C=CCc1ccccc1O>>O=CCc1ccccc1O|2) O₃ 3) Zn, H₂O]]\n\nClaisen → ortho-알릴페놀 → 말단 C=C 오존 분해 → (2-하이드록시페닐)아세트알데하이드 + HCHO.\n\n오답 분석:\n• [[smi:C=CCc1ccccc1O]] — 2단계 전(2-알릴페놀)\n• [[smi:O=CCOc1ccccc1]] — 자리옮김 없이 에터의 C=C만 오존 분해\n• [[smi:O=CCc1ccc(O)cc1]] — para — 알릴기는 ortho로 옮겨 간다"
     },
     {
       "id": 15,
@@ -181,7 +181,7 @@
         "[[smi:CCCCCCO]]"
       ],
       "answer": "[[smi:C=CCCCCO]]",
-      "explanation": "정답: [[smi:C=CCCCCO]]\noxy-Cope → 엔올 → 5-헥센알 → NaBH₄로 CHO만 환원 → 5-헥센-1-올.\n\n오답 분석:\n• [[smi:C=CCCCC=O]] — 2단계 전(5-헥센알)\n• [[smi:C=CC(O)CC=C]] — 출발물 — oxy-Cope로 이성질화\n• [[smi:CCCCCCO]] — C=C까지 환원"
+      "explanation": "정답: [[smi:C=CCCCCO]]\n🔎 단계별 과정\n1) Δ ([3,3]) — 엔올\n[[rxn:C=CC(O)CC=C>>OC=CCCC=C|1) Δ ([3,3])]]\n1) (토토머화) — 5-헥센알  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:OC=CCCC=C>>C=CCCCC=O|1) (토토머화)]]\n2) NaBH₄, CH₃OH — CHO만 환원\n[[rxn:C=CCCCC=O>>C=CCCCCO|2) NaBH₄, CH₃OH]]\n\noxy-Cope → 엔올 → 5-헥센알 → NaBH₄로 CHO만 환원 → 5-헥센-1-올.\n\n오답 분석:\n• [[smi:C=CCCCC=O]] — 2단계 전(5-헥센알)\n• [[smi:C=CC(O)CC=C]] — 출발물 — oxy-Cope로 이성질화\n• [[smi:CCCCCCO]] — C=C까지 환원"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "[[smi:OCC1CCC=C1]]"
       ],
       "answer": "[[smi:OCC1CC=CCC1]]",
-      "explanation": "정답: [[smi:OCC1CC=CCC1]]\nDiels–Alder → 사이클로헥스-3-엔카복실산 메틸 → LiAlH₄ → (사이클로헥스-3-엔일)메탄올.\n\n오답 분석:\n• [[smi:COC(=O)C1CC=CCC1]] — 2단계 전\n• [[smi:OCC1CCCCC1]] — C=C까지 환원 — LiAlH₄는 고립된 C=C를 환원하지 않는다\n• [[smi:OCC1CCC=C1]] — 5원 고리 — [4+2]는 6원 고리"
+      "explanation": "정답: [[smi:OCC1CC=CCC1]]\n🔎 단계별 과정\n1) CH₂=CHCO₂CH₃, Δ — Diels–Alder [4+2]  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:C=CC=C>>COC(=O)C1CC=CCC1|1) CH₂=CHCO₂CH₃, Δ]]\n2) LiAlH₄ 3) H₂O — 에스터 → 1차 알코올, C=C 유지\n[[rxn:COC(=O)C1CC=CCC1>>OCC1CC=CCC1|2) LiAlH₄ 3) H₂O]]\n\nDiels–Alder → 사이클로헥스-3-엔카복실산 메틸 → LiAlH₄ → (사이클로헥스-3-엔일)메탄올.\n\n오답 분석:\n• [[smi:COC(=O)C1CC=CCC1]] — 2단계 전\n• [[smi:OCC1CCCCC1]] — C=C까지 환원 — LiAlH₄는 고립된 C=C를 환원하지 않는다\n• [[smi:OCC1CCC=C1]] — 5원 고리 — [4+2]는 6원 고리"
     },
     {
       "id": 17,
@@ -205,7 +205,7 @@
         "[[smi:CCN(CC)C1CCCCC1]]"
       ],
       "answer": "[[smi:CCNC1CCCCC1]]",
-      "explanation": "정답: [[smi:CCNC1CCCCC1]]\n1차 아민(에틸아민) → 케톤과 환원성 아민화 → 2차 아민 N-에틸사이클로헥실아민.\n\n오답 분석:\n• [[smi:CCN]] — 2단계 에틸아민에서 멈춤\n• [[smi:CCN=C1CCCCC1]] — 이민에서 멈춤\n• [[smi:CCN(CC)C1CCCCC1]] — 에틸이 두 개 — Gabriel은 1차 아민만"
+      "explanation": "정답: [[smi:CCNC1CCCCC1]]\n🔎 단계별 과정\n1) 프탈이미드 음이온 — SN2 → N-에틸프탈이미드\n[[rxn:CCBr>>CCN1C(=O)c2ccccc2C1=O|1) 프탈이미드 음이온]]\n2) ⁻OH, H₂O — 가수분해 → 에틸아민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCN1C(=O)c2ccccc2C1=O>>CCN|2) ⁻OH, H₂O]]\n3) 사이클로헥산온 (이민 형성) — N-에틸 이민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCN>>CCN=C1CCCCC1|3) 사이클로헥산온 (이민 형성)]]\n3) NaBH₃CN — C=N 환원 → 2차 아민\n[[rxn:CCN=C1CCCCC1>>CCNC1CCCCC1|3) NaBH₃CN]]\n\n1차 아민(에틸아민) → 케톤과 환원성 아민화 → 2차 아민 N-에틸사이클로헥실아민.\n\n오답 분석:\n• [[smi:CCN]] — 2단계 에틸아민에서 멈춤\n• [[smi:CCN=C1CCCCC1]] — 이민에서 멈춤\n• [[smi:CCN(CC)C1CCCCC1]] — 에틸이 두 개 — Gabriel은 1차 아민만"
     },
     {
       "id": 18,
@@ -217,7 +217,7 @@
         "[[smi:CC1CCCCC1=O]]"
       ],
       "answer": "[[smi:CC1CCCC1=O]]",
-      "explanation": "정답: [[smi:CC1CCCC1=O]]\nDieckmann(5원 β-케토 에스터) → 두 C=O 사이 탄소 메틸화 → 가수분해·탈카복실화 → 2-메틸사이클로펜탄온.\n\n오답 분석:\n• [[smi:CCOC(=O)C1(C)CCCC1=O]] — 3단계 전(알킬화된 β-케토 에스터)\n• [[smi:O=C1CCCC1]] — 알킬화가 빠진 사이클로펜탄온\n• [[smi:CC1CCCCC1=O]] — 6원 고리 — 1,6-다이에스터는 5원 고리"
+      "explanation": "정답: [[smi:CC1CCCC1=O]]\n🔎 단계별 과정\n1) NaOEt (Dieckmann) — 5원 고리 β-케토 에스터(염기 속에서는 엔올 음이온)\n[[rxn:CCOC(=O)CCCCC(=O)OCC>>CCOC(=O)C1CCCC1=O|1) NaOEt (Dieckmann)]]\n2) CH₃I — 두 C=O 사이 탄소 메틸화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)C1CCCC1=O>>CCOC(=O)C1(C)CCCC1=O|2) CH₃I]]\n3) H₃O⁺ (가수분해) — β-케토산\n[[rxn:CCOC(=O)C1(C)CCCC1=O>>CC1(C(=O)O)CCCC1=O|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — CO₂ 손실 → 2-메틸사이클로펜탄온\n[[rxn:CC1(C(=O)O)CCCC1=O>>CC1CCCC1=O|3) Δ (탈카복실화)]]\n\nDieckmann(5원 β-케토 에스터) → 두 C=O 사이 탄소 메틸화 → 가수분해·탈카복실화 → 2-메틸사이클로펜탄온.\n\n오답 분석:\n• [[smi:CCOC(=O)C1(C)CCCC1=O]] — 3단계 전(알킬화된 β-케토 에스터)\n• [[smi:O=C1CCCC1]] — 알킬화가 빠진 사이클로펜탄온\n• [[smi:CC1CCCCC1=O]] — 6원 고리 — 1,6-다이에스터는 5원 고리"
     }
   ]
 }
