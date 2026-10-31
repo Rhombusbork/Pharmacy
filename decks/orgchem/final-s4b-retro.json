@@ -13,7 +13,7 @@
         "HNO₃/H₂SO₄ → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열"
       ],
       "answer": "HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열",
-      "explanation": "정답: HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열\n2023·2024 기말 서술형(4점) 그대로. Cl과 OH는 둘 다 o,p 지향이라 서로 meta로 직접 넣을 수 없다 → meta 지향 NO₂로 자리를 잡고 → NH₂ → N₂⁺ → OH로 바꾼다(Ch25 PPT 83쪽 4단계 경로).\n\n오답 분석:\n• Cl₂/FeCl₃ → HNO₃/H₂SO₄ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열 — Cl(o,p 지향)을 먼저 넣으면 NO₂가 o·p로 → p-클로로페놀이 주로 생긴다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — 환원 후 NH₂(강한 o,p 지향)가 있을 때 염소화 → o·p, 다중 치환\n• HNO₃/H₂SO₄ → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — NO₂를 NH₂로 환원하는 단계가 빠졌다(다이아조화는 아민에서만)"
+      "explanation": "정답: HNO₃/H₂SO₄ → Cl₂/FeCl₃ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열\n🔎 단계별 과정\nHNO₃/H₂SO₄ — 나이트로화(NO₂: meta 지향)\n[[rxn:c1ccccc1>>O=[N+]([O-])c1ccccc1|HNO₃/H₂SO₄]]\nCl₂/FeCl₃ — meta 염소화\n[[rxn:O=[N+]([O-])c1ccccc1>>O=[N+]([O-])c1cccc(Cl)c1|Cl₂/FeCl₃]]\nH₂, Pd-C — NO₂ → NH₂\n[[rxn:O=[N+]([O-])c1cccc(Cl)c1>>Nc1cccc(Cl)c1|H₂, Pd-C]]\nNaNO₂, HCl — 다이아조늄\n[[rxn:Nc1cccc(Cl)c1>>Clc1cccc([N+]#N)c1|NaNO₂, HCl]]\nH₂O, 가열 — N₂ → OH\n[[rxn:Clc1cccc([N+]#N)c1>>Oc1cccc(Cl)c1|H₂O, 가열]]\n\n2023·2024 기말 서술형(4점) 그대로. Cl과 OH는 둘 다 o,p 지향이라 서로 meta로 직접 넣을 수 없다 → meta 지향 NO₂로 자리를 잡고 → NH₂ → N₂⁺ → OH로 바꾼다(Ch25 PPT 83쪽 4단계 경로).\n\n오답 분석:\n• Cl₂/FeCl₃ → HNO₃/H₂SO₄ → H₂, Pd-C → NaNO₂, HCl → H₂O, 가열 — Cl(o,p 지향)을 먼저 넣으면 NO₂가 o·p로 → p-클로로페놀이 주로 생긴다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — 환원 후 NH₂(강한 o,p 지향)가 있을 때 염소화 → o·p, 다중 치환\n• HNO₃/H₂SO₄ → Cl₂/FeCl₃ → NaNO₂, HCl → H₂O, 가열 — NO₂를 NH₂로 환원하는 단계가 빠졌다(다이아조화는 아민에서만)"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₂O, 가열"
       ],
       "answer": "HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂",
-      "explanation": "정답: HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂\nCh25 PPT 80~82쪽: NH₂의 강한 o,p 지향으로 2,4,6-트라이브로모아닐린 → 다이아조화 → H₃PO₂로 NH₂를 H로 지운다.\n\n오답 분석:\n• Br₂(과량), FeBr₃ 한 단계 — Br은 o,p 지향 → 서로 meta인 1,3,5 배치는 생기지 않는다\n• HNO₃/H₂SO₄ → Br₂(과량), FeBr₃ → H₂, Pd-C → NaNO₂, HCl → H₃PO₂ — NO₂는 강한 불활성화 meta 지향 → 다중 브로민화가 어렵고 배치도 맞지 않는다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₂O, 가열 — 마지막을 물·가열로 하면 2,4,6-트라이브로모페놀"
+      "explanation": "정답: HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₃PO₂\n🔎 단계별 과정\nHNO₃/H₂SO₄ — 나이트로화\n[[rxn:c1ccccc1>>O=[N+]([O-])c1ccccc1|HNO₃/H₂SO₄]]\nH₂, Pd-C — 아닐린\n[[rxn:O=[N+]([O-])c1ccccc1>>Nc1ccccc1|H₂, Pd-C]]\nBr₂(과량), H₂O — NH₂의 o,p 자리 3곳\n[[rxn:Nc1ccccc1>>Nc1c(Br)cc(Br)cc1Br|Br₂(과량), H₂O]]\nNaNO₂, HCl — 다이아조늄\n[[rxn:Nc1c(Br)cc(Br)cc1Br>>Brc1cc(Br)c([N+]#N)c(Br)c1|NaNO₂, HCl]]\nH₃PO₂ — N₂ → H\n[[rxn:Brc1cc(Br)c([N+]#N)c(Br)c1>>Brc1cc(Br)cc(Br)c1|H₃PO₂]]\n\nCh25 PPT 80~82쪽: NH₂의 강한 o,p 지향으로 2,4,6-트라이브로모아닐린 → 다이아조화 → H₃PO₂로 NH₂를 H로 지운다.\n\n오답 분석:\n• Br₂(과량), FeBr₃ 한 단계 — Br은 o,p 지향 → 서로 meta인 1,3,5 배치는 생기지 않는다\n• HNO₃/H₂SO₄ → Br₂(과량), FeBr₃ → H₂, Pd-C → NaNO₂, HCl → H₃PO₂ — NO₂는 강한 불활성화 meta 지향 → 다중 브로민화가 어렵고 배치도 맞지 않는다\n• HNO₃/H₂SO₄ → H₂, Pd-C → Br₂(과량), H₂O → NaNO₂, HCl → H₂O, 가열 — 마지막을 물·가열로 하면 2,4,6-트라이브로모페놀"
     },
     {
       "id": 3,
@@ -181,7 +181,7 @@
         "1-뷰텐 + 브로모벤젠, Grubbs 촉매"
       ],
       "answer": "1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH",
-      "explanation": "정답: 1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH\nCh26 PPT 9~11쪽: 말단 알카인 → syn 수소붕소화 → trans 바이닐보레인 → 아릴 할라이드와 Suzuki(입체 유지).\n\n오답 분석:\n• 2-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH — 내부 알카인이면 B가 안쪽 탄소에 붙어 다른 골격\n• 1-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(OAc)₂, Et₃N(염기 없이 붕소 생략) — Heck 조건과 혼동 — Suzuki는 Pd(PPh₃)₄ + 염기\n• 1-뷰텐 + 브로모벤젠, Grubbs 촉매 — 상호교환은 C–C(아릴) 결합을 만들지 않는다"
+      "explanation": "정답: 1-뷰타인 + 카테콜보레인 → 바이닐보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH\n🔎 단계별 과정\n카테콜보레인 — 1-뷰타인의 syn 수소붕소화\n[[rxn:CCC#C>>CC/C=C/B1Oc2ccccc2O1|카테콜보레인]]\nPhBr, Pd(PPh₃)₄, NaOH — Suzuki\n[[rxn:CC/C=C/B1Oc2ccccc2O1>>CC/C=C/c1ccccc1|PhBr, Pd(PPh₃)₄, NaOH]]\n\nCh26 PPT 9~11쪽: 말단 알카인 → syn 수소붕소화 → trans 바이닐보레인 → 아릴 할라이드와 Suzuki(입체 유지).\n\n오답 분석:\n• 2-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(PPh₃)₄, NaOH — 내부 알카인이면 B가 안쪽 탄소에 붙어 다른 골격\n• 1-뷰타인 + 카테콜보레인 → 브로모벤젠, Pd(OAc)₂, Et₃N(염기 없이 붕소 생략) — Heck 조건과 혼동 — Suzuki는 Pd(PPh₃)₄ + 염기\n• 1-뷰텐 + 브로모벤젠, Grubbs 촉매 — 상호교환은 C–C(아릴) 결합을 만들지 않는다"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "LiAlH[OC(CH₃)₃]₃"
       ],
       "answer": "DIBAL-H, −78 °C → H₂O",
-      "explanation": "정답: DIBAL-H, −78 °C → H₂O\nCh20 PPT 표 20.1: 에스터 → 알데하이드는 DIBAL-H(저온).\n\n오답 분석:\n• LiAlH₄ → H₂O — 1차 알코올(벤질 알코올)까지 환원 — Wittig 받개가 될 수 없다\n• NaBH₄, CH₃OH — NaBH₄는 에스터를 환원하지 못한다\n• LiAlH[OC(CH₃)₃]₃ — 이 시약은 산 염화물 → 알데하이드용"
+      "explanation": "정답: DIBAL-H, −78 °C → H₂O\n🔎 단계별 과정\n(가) DIBAL-H, −78 °C → H₂O — 에스터 → 알데하이드\n[[rxn:CCOC(=O)c1ccccc1>>O=Cc1ccccc1|(가) DIBAL-H, −78 °C → H₂O]]\nPh₃P=CH₂ — Wittig\n[[rxn:O=Cc1ccccc1>>C=Cc1ccccc1|Ph₃P=CH₂]]\n\nCh20 PPT 표 20.1: 에스터 → 알데하이드는 DIBAL-H(저온).\n\n오답 분석:\n• LiAlH₄ → H₂O — 1차 알코올(벤질 알코올)까지 환원 — Wittig 받개가 될 수 없다\n• NaBH₄, CH₃OH — NaBH₄는 에스터를 환원하지 못한다\n• LiAlH[OC(CH₃)₃]₃ — 이 시약은 산 염화물 → 알데하이드용"
     },
     {
       "id": 17,
@@ -205,7 +205,7 @@
         "① LDA ② CH₃I"
       ],
       "answer": "① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF",
-      "explanation": "정답: ① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF\nCh23 PPT 36쪽: α-할로젠화(산, 일치환) → E2 제거.\n\n오답 분석:\n• ① Br₂, ⁻OH ② Li₂CO₃, LiBr, DMF — 염기 조건 할로젠화는 다중 브로민화\n• ① H₂, Pd-C ② Li₂CO₃, LiBr, DMF — 수소화는 C=O를 환원할 뿐 이탈기를 만들지 않는다\n• ① LDA ② CH₃I — 알킬화 — C=C를 만들지 않는다"
+      "explanation": "정답: ① Br₂, CH₃COOH ② Li₂CO₃, LiBr, DMF\n🔎 단계별 과정\n① Br₂, CH₃COOH — α-일치환\n[[rxn:O=C1CCCCC1>>O=C1CCCCC1Br|① Br₂, CH₃COOH]]\n② Li₂CO₃, LiBr, DMF — E2 제거\n[[rxn:O=C1CCCCC1Br>>O=C1C=CCCC1|② Li₂CO₃, LiBr, DMF]]\n\nCh23 PPT 36쪽: α-할로젠화(산, 일치환) → E2 제거.\n\n오답 분석:\n• ① Br₂, ⁻OH ② Li₂CO₃, LiBr, DMF — 염기 조건 할로젠화는 다중 브로민화\n• ① H₂, Pd-C ② Li₂CO₃, LiBr, DMF — 수소화는 C=O를 환원할 뿐 이탈기를 만들지 않는다\n• ① LDA ② CH₃I — 알킬화 — C=C를 만들지 않는다"
     },
     {
       "id": 18,

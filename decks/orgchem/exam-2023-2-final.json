@@ -79,7 +79,7 @@
       "answer": [
         "고리 접합에 CO2Et, C=C에 메틸이 붙은 이환 엔온"
       ],
-      "explanation": "정답: ①\nRobinson 고리만듦 = 마이클 첨가 + 분자 내 알돌 축합 → 새 사이클로헥센온 고리.\n1) 마이클: β-케토 에스터의 가장 산성인 α-H(두 C=O 사이, 고리 접합이 될 탄소)가 떨어져 바이닐 케톤의 =CH₂(β탄소)를 공격 → ③(1,5-다이카보닐 중간체)\n2) 알돌: 에틸 케톤 쪽 CH₂(α)가 엔올 음이온이 되어 고리의 C=O를 공격 → 6원 고리\n3) 탈수 → α,β-불포화 케톤(C=C에 메틸이 붙음), 에스터는 고리 접합 탄소에 남는다.\n② 메틸이 없음(메틸 바이닐 케톤을 썼을 때) ④ 탈수 전 알돌 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a07.png|이환 엔온]]"
+      "explanation": "정답: ①\n🔎 단계별 과정\nNaOEt (마이클) — 두 C=O 사이 탄소의 엔올 음이온이 β탄소에 1,4-첨가\n[[rxn:CCOC(=O)C1CCCC1=O>>CCOC(=O)C1(CCC(=O)CC)CCCC1=O|NaOEt (마이클)]]\nNaOEt (분자 내 알돌) — 에틸 케톤의 CH₂ 엔올 음이온이 고리 C=O 공격 → 6원 고리\n[[rxn:CCOC(=O)C1(CCC(=O)CC)CCCC1=O>>CCOC(=O)C12CCCC1(O)C(C)C(=O)CC2|NaOEt (분자 내 알돌)]]\n(탈수, E1cB) — 콘쥬게이션 엔온\n[[rxn:CCOC(=O)C12CCCC1(O)C(C)C(=O)CC2>>CCOC(=O)C12CCCC1=C(C)C(=O)CC2|(탈수, E1cB)]]\n\nRobinson 고리만듦 = 마이클 첨가 + 분자 내 알돌 축합 → 새 사이클로헥센온 고리.\n1) 마이클: β-케토 에스터의 가장 산성인 α-H(두 C=O 사이, 고리 접합이 될 탄소)가 떨어져 바이닐 케톤의 =CH₂(β탄소)를 공격 → ③(1,5-다이카보닐 중간체)\n2) 알돌: 에틸 케톤 쪽 CH₂(α)가 엔올 음이온이 되어 고리의 C=O를 공격 → 6원 고리\n3) 탈수 → α,β-불포화 케톤(C=C에 메틸이 붙음), 에스터는 고리 접합 탄소에 남는다.\n② 메틸이 없음(메틸 바이닐 케톤을 썼을 때) ④ 탈수 전 알돌 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a07.png|이환 엔온]]"
     },
     {
       "id": 8,
@@ -102,7 +102,7 @@
         "2-메틸프로판-1-아민",
         "2-methyl-1-propanamine"
       ],
-      "explanation": "정답: 아이소뷰틸아민 (2-메틸프로판-1-아민)\n[[smi:CC(C)CN]]\nGabriel 합성 3단계:\n[1] KOH: 프탈이미드 N–H(pKa ≈ 8, 두 C=O 사이라 산성)를 떼어 프탈이미드 음이온\n[2] 1차 할라이드와 SN2 → N-알킬프탈이미드\n[3] 염기 가수분해 → 1차 아민 + 프탈산 음이온\n→ 알킬기 (CH₃)₂CHCH₂–가 그대로 NH₂에 붙는다. 과알킬화가 없어 1차 아민만 얻는다.\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a09.png|아이소뷰틸아민]]"
+      "explanation": "정답: 아이소뷰틸아민 (2-메틸프로판-1-아민)\n🔎 단계별 과정\n[1] KOH — 두 C=O 사이 N–H(산성) 탈양성자화\n[[rxn:O=C1NC(=O)c2ccccc21>>O=C1[N-]C(=O)c2ccccc21|[1] KOH]]\n[2] (CH₃)₂CHCH₂Cl — SN2 → N-알킬프탈이미드\n[[rxn:O=C1[N-]C(=O)c2ccccc21>>CC(C)CN1C(=O)c2ccccc2C1=O|[2] (CH₃)₂CHCH₂Cl]]\n[3] OH⁻, H₂O — 가수분해 → 아이소뷰틸아민\n[[rxn:CC(C)CN1C(=O)c2ccccc2C1=O>>CC(C)CN|[3] OH⁻, H₂O]]\n\n[[smi:CC(C)CN]]\nGabriel 합성 3단계:\n[1] KOH: 프탈이미드 N–H(pKa ≈ 8, 두 C=O 사이라 산성)를 떼어 프탈이미드 음이온\n[2] 1차 할라이드와 SN2 → N-알킬프탈이미드\n[3] 염기 가수분해 → 1차 아민 + 프탈산 음이온\n→ 알킬기 (CH₃)₂CHCH₂–가 그대로 NH₂에 붙는다. 과알킬화가 없어 1차 아민만 얻는다.\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a09.png|아이소뷰틸아민]]"
     },
     {
       "id": 10,
@@ -127,7 +127,7 @@
         "④ [[smi:OC(=O)CC(C)C(=O)O]]"
       ],
       "answer": "① [[smi:NCCC(C)CN]]",
-      "explanation": "정답: ① 2-메틸뷰테인-1,4-다이아민\nLiAlH₄는 두 작용기를 모두 아민으로 환원한다.\n• 아마이드 C(=O)NH₂ → CH₂NH₂ (C=O가 CH₂로, N은 남음)\n• 나이트릴 C≡N → CH₂NH₂\n② 아마이드가 알코올이 된 것(에스터일 때의 결과) ③ 나이트릴만 환원 ④ 가수분해 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a11.png|다이아민]]"
+      "explanation": "정답: ① 2-메틸뷰테인-1,4-다이아민\n🔎 단계별 과정\n[1] LiAlH₄ — 아마이드 C=O → CH₂, C≡N → CH₂–N (Al 착물 상태)\n[[rxn:NC(=O)CC(C)C#N>>NCCC(C)CN|[1] LiAlH₄]]\n[2] H₂O — 양성자화·Al 제거 → 다이아민\n[[rxn:NCCC(C)CN>>NCCC(C)CN|[2] H₂O]]\n\nLiAlH₄는 두 작용기를 모두 아민으로 환원한다.\n• 아마이드 C(=O)NH₂ → CH₂NH₂ (C=O가 CH₂로, N은 남음)\n• 나이트릴 C≡N → CH₂NH₂\n② 아마이드가 알코올이 된 것(에스터일 때의 결과) ③ 나이트릴만 환원 ④ 가수분해 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a11.png|다이아민]]"
     },
     {
       "id": 12,
@@ -139,7 +139,7 @@
         "(3E,5E)-3-메틸옥타-3,5-다이엔",
         "3-메틸-3,5-옥타다이엔"
       ],
-      "explanation": "정답: (3E,5E)-3-메틸옥타-3,5-다이엔\n[[smi:CC/C=C/C=C(C)/CC]]\n[1] 수소붕소화: 카테콜보레인 H–B가 말단 알카인에 syn 첨가, B는 말단 탄소(anti-Markovnikov) → (E)-바이닐보레인\n[2] Suzuki: 바이닐 브로마이드 + 바이닐보레인 + Pd(0) + 염기 → Br와 B 자리끼리 C–C 결합, 두 C=C의 입체 유지\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a12.png|다이엔]]"
+      "explanation": "정답: (3E,5E)-3-메틸옥타-3,5-다이엔\n🔎 단계별 과정\n[1] 카테콜보레인 — syn 첨가 → trans 바이닐보레인\n[[rxn:CCC#C>>CC/C=C/B1Oc2ccccc2O1|[1] 카테콜보레인]]\n[2] 바이닐 브로마이드, Pd(PPh₃)₄, NaOH — Suzuki, 두 C=C 입체 유지\n[[rxn:CC/C=C/B1Oc2ccccc2O1>>CC/C=C/C=C(C)/CC|[2] 바이닐 브로마이드, Pd(PPh₃)₄, NaOH]]\n\n[[smi:CC/C=C/C=C(C)/CC]]\n[1] 수소붕소화: 카테콜보레인 H–B가 말단 알카인에 syn 첨가, B는 말단 탄소(anti-Markovnikov) → (E)-바이닐보레인\n[2] Suzuki: 바이닐 브로마이드 + 바이닐보레인 + Pd(0) + 염기 → Br와 B 자리끼리 C–C 결합, 두 C=C의 입체 유지\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a12.png|다이엔]]"
     },
     {
       "id": 13,

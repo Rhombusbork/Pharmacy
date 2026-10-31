@@ -221,7 +221,7 @@
         "④ [[smi:OC(=O)CC(C)C(=O)O]]"
       ],
       "answer": "① [[smi:NCCC(C)CN]]",
-      "explanation": "정답: ① 2-메틸뷰테인-1,4-다이아민\nLiAlH₄는 두 작용기를 모두 아민으로 환원한다.\n• 아마이드 C(=O)NH₂ → CH₂NH₂ (C=O가 CH₂로, N은 남음)\n• 나이트릴 C≡N → CH₂NH₂\n② 아마이드가 알코올이 된 것(에스터일 때의 결과) ③ 나이트릴만 환원 ④ 가수분해 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a11.png|다이아민]]\n\n[재구성] 족보 복원이 잘못되었거나 빠진 부분을 2024년 17번(=2025년 16번 자리)은 두 해 모두 복원되지 않았다. 아민 단원 자리라 2023년 원본 11번(LiAlH₄로 아마이드·나이트릴 → 아민)으로 채웠다(추정)."
+      "explanation": "정답: ① 2-메틸뷰테인-1,4-다이아민\n🔎 단계별 과정\n[1] LiAlH₄ — 아마이드 C=O → CH₂, C≡N → CH₂–N (Al 착물 상태)\n[[rxn:NC(=O)CC(C)C#N>>NCCC(C)CN|[1] LiAlH₄]]\n[2] H₂O — 양성자화·Al 제거 → 다이아민\n[[rxn:NCCC(C)CN>>NCCC(C)CN|[2] H₂O]]\n\nLiAlH₄는 두 작용기를 모두 아민으로 환원한다.\n• 아마이드 C(=O)NH₂ → CH₂NH₂ (C=O가 CH₂로, N은 남음)\n• 나이트릴 C≡N → CH₂NH₂\n② 아마이드가 알코올이 된 것(에스터일 때의 결과) ③ 나이트릴만 환원 ④ 가수분해 생성물\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a11.png|다이아민]]\n\n[재구성] 족보 복원이 잘못되었거나 빠진 부분을 2024년 17번(=2025년 16번 자리)은 두 해 모두 복원되지 않았다. 아민 단원 자리라 2023년 원본 11번(LiAlH₄로 아마이드·나이트릴 → 아민)으로 채웠다(추정)."
     },
     {
       "id": 218,
@@ -286,7 +286,7 @@
         "2-메틸프로판-1-아민",
         "2-methyl-1-propanamine"
       ],
-      "explanation": "정답: 아이소뷰틸아민 (2-메틸프로판-1-아민)\n[[smi:CC(C)CN]]\nGabriel 합성 3단계:\n[1] KOH: 프탈이미드 N–H(pKa ≈ 8, 두 C=O 사이라 산성)를 떼어 프탈이미드 음이온\n[2] 1차 할라이드와 SN2 → N-알킬프탈이미드\n[3] 염기 가수분해 → 1차 아민 + 프탈산 음이온\n→ 알킬기 (CH₃)₂CHCH₂–가 그대로 NH₂에 붙는다. 과알킬화가 없어 1차 아민만 얻는다.\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a04.png|2-페닐사이클로헥산온]]"
+      "explanation": "정답: 아이소뷰틸아민 (2-메틸프로판-1-아민)\n🔎 단계별 과정\n[1] KOH — 두 C=O 사이 N–H(산성) 탈양성자화\n[[rxn:O=C1NC(=O)c2ccccc21>>O=C1[N-]C(=O)c2ccccc21|[1] KOH]]\n[2] (CH₃)₂CHCH₂Cl — SN2 → N-알킬프탈이미드\n[[rxn:O=C1[N-]C(=O)c2ccccc21>>CC(C)CN1C(=O)c2ccccc2C1=O|[2] (CH₃)₂CHCH₂Cl]]\n[3] OH⁻, H₂O — 가수분해 → 아이소뷰틸아민\n[[rxn:CC(C)CN1C(=O)c2ccccc2C1=O>>CC(C)CN|[3] OH⁻, H₂O]]\n\n[[smi:CC(C)CN]]\nGabriel 합성 3단계:\n[1] KOH: 프탈이미드 N–H(pKa ≈ 8, 두 C=O 사이라 산성)를 떼어 프탈이미드 음이온\n[2] 1차 할라이드와 SN2 → N-알킬프탈이미드\n[3] 염기 가수분해 → 1차 아민 + 프탈산 음이온\n→ 알킬기 (CH₃)₂CHCH₂–가 그대로 NH₂에 붙는다. 과알킬화가 없어 1차 아민만 얻는다.\n[교수님 정답] [[img:orgchem/images/exam-2023-2-final/a04.png|2-페닐사이클로헥산온]]"
     },
     {
       "id": 123,
