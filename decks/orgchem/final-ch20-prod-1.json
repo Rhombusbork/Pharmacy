@@ -25,7 +25,7 @@
         "[[smi:OC(=O)C1CCCCC1]]"
       ],
       "answer": "[[smi:OCC1CCCCC1]]",
-      "explanation": "정답: [[smi:OCC1CCCCC1]]\nLiAlH₄도 알데하이드를 1차 알코올로 환원한다. 물·알코올과 격렬히 반응하므로 에터에서 반응시킨 뒤 2단계로 H₂O를 넣는다.\n\n오답 분석:\n• [[smi:OC1CCCCC1]] — 탄소 수 착오: CHO 탄소가 사라지지 않는다\n• [[smi:CC1CCCCC1]] — 과환원: C–OH까지만 환원된다\n• [[smi:OC(=O)C1CCCCC1]] — 산화로 착각"
+      "explanation": "정답: [[smi:OCC1CCCCC1]]\n🔎 단계별 과정\n1) LiAlH₄ — H⁻ 첨가 → 알콕사이드(Li⁺·Al 생략)\n[[rxn:O=CC1CCCCC1>>[O-]CC1CCCCC1|1) LiAlH₄]]\n2) H₂O — 양성자화 → 1차 알코올\n[[rxn:[O-]CC1CCCCC1>>OCC1CCCCC1|2) H₂O]]\n\nLiAlH₄도 알데하이드를 1차 알코올로 환원한다. 물·알코올과 격렬히 반응하므로 에터에서 반응시킨 뒤 2단계로 H₂O를 넣는다.\n\n오답 분석:\n• [[smi:OC1CCCCC1]] — 탄소 수 착오: CHO 탄소가 사라지지 않는다\n• [[smi:CC1CCCCC1]] — 과환원: C–OH까지만 환원된다\n• [[smi:OC(=O)C1CCCCC1]] — 산화로 착각"
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
         "[[smi:CC1=CCCC1]]"
       ],
       "answer": "[[smi:CC1CCCC1O]]",
-      "explanation": "정답: [[smi:CC1CCCC1O]]\n2-메틸사이클로펜탄온 → 2-메틸사이클로펜탄올(cis·trans 혼합). H⁻는 C=O 탄소에만 붙는다.\n\n오답 분석:\n• [[smi:CC1(O)CCCC1]] — OH가 메틸이 달린 탄소로 감(위치 착오) — 원래 C=O 탄소에 OH가 생긴다\n• [[smi:CC1CCCC1]] — 과환원(OH까지 제거)\n• [[smi:CC1=CCCC1]] — 탈수 생성물: 산·열 조건이 아니므로 알코올에서 멈춘다"
+      "explanation": "정답: [[smi:CC1CCCC1O]]\n🔎 단계별 과정\n1) LiAlH₄ — H⁻ 첨가 → 알콕사이드\n[[rxn:CC1CCCC1=O>>CC1CCCC1[O-]|1) LiAlH₄]]\n2) H₂O — 양성자화 → 2차 알코올\n[[rxn:CC1CCCC1[O-]>>CC1CCCC1O|2) H₂O]]\n\n2-메틸사이클로펜탄온 → 2-메틸사이클로펜탄올(cis·trans 혼합). H⁻는 C=O 탄소에만 붙는다.\n\n오답 분석:\n• [[smi:CC1(O)CCCC1]] — OH가 메틸이 달린 탄소로 감(위치 착오) — 원래 C=O 탄소에 OH가 생긴다\n• [[smi:CC1CCCC1]] — 과환원(OH까지 제거)\n• [[smi:CC1=CCCC1]] — 탈수 생성물: 산·열 조건이 아니므로 알코올에서 멈춘다"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "[[smi:CCCc1ccccc1]]"
       ],
       "answer": "[[smi:CC[C@@H](O)c1ccccc1]]",
-      "explanation": "정답: [[smi:CC[C@@H](O)c1ccccc1]]\nPPT 예제: 프로피오페논 + (S)-CBS → (R)-1-페닐프로판-1-올(97% ee). CBS = Corey·Bakshi·Shibata, B–H 하나가 하이드라이드 공급원. (S)-CBS → R, (R)-CBS → S 알코올이 주로 생긴다(일반적 경향).\n\n오답 분석:\n• [[smi:CC[C@H](O)c1ccccc1]] — (R)-CBS 시약의 결과(S 알코올) — (S)-CBS는 C=O의 앞면으로 H⁻를 전달해 R 알코올을 준다\n• [[smi:CCC(O)c1ccccc1]] — 입체 표시 없는 라세미 — NaBH₄처럼 카이랄이 아닌 환원제의 결과\n• [[smi:CCCc1ccccc1]] — C=O → CH₂ 환원과 혼동"
+      "explanation": "정답: [[smi:CC[C@@H](O)c1ccccc1]]\n🔎 단계별 과정\n1) (S)-CBS 시약 — 앞면으로 H⁻ 전달 → R 배열 알콕사이드(B 생략)\n[[rxn:CCC(=O)c1ccccc1>>CC[C@@H]([O-])c1ccccc1|1) (S)-CBS 시약]]\n2) H₂O — (R)-1-페닐프로판-1-올\n[[rxn:CC[C@@H]([O-])c1ccccc1>>CC[C@@H](O)c1ccccc1|2) H₂O]]\n\nPPT 예제: 프로피오페논 + (S)-CBS → (R)-1-페닐프로판-1-올(97% ee). CBS = Corey·Bakshi·Shibata, B–H 하나가 하이드라이드 공급원. (S)-CBS → R, (R)-CBS → S 알코올이 주로 생긴다(일반적 경향).\n\n오답 분석:\n• [[smi:CC[C@H](O)c1ccccc1]] — (R)-CBS 시약의 결과(S 알코올) — (S)-CBS는 C=O의 앞면으로 H⁻를 전달해 R 알코올을 준다\n• [[smi:CCC(O)c1ccccc1]] — 입체 표시 없는 라세미 — NaBH₄처럼 카이랄이 아닌 환원제의 결과\n• [[smi:CCCc1ccccc1]] — C=O → CH₂ 환원과 혼동"
     },
     {
       "id": 6,
@@ -97,7 +97,7 @@
         "[[smi:OC(=O)c1ccccc1]]"
       ],
       "answer": "[[smi:OCc1ccccc1]]",
-      "explanation": "정답: [[smi:OCc1ccccc1]]\n산 염화물 + H⁻ → 사면체 중간체 → Cl⁻ 이탈 → 알데하이드 → H⁻ → 1차 알콕사이드 → 1차 알코올.\n\n오답 분석:\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈춤: LiAlH₄는 알데하이드를 바로 한 번 더 환원한다\n• [[smi:Cc1ccccc1]] — 과환원(C–OH까지만)\n• [[smi:OC(=O)c1ccccc1]] — 가수분해 생성물: 2단계 H₂O는 알콕사이드에 양성자를 줄 뿐이다"
+      "explanation": "정답: [[smi:OCc1ccccc1]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 사면체 중간체에서 Cl⁻ 이탈 → 알데하이드  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=C(Cl)c1ccccc1>>O=Cc1ccccc1|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — 알데하이드가 더 빨리 환원 → 알콕사이드\n[[rxn:O=Cc1ccccc1>>[O-]Cc1ccccc1|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 벤질 알코올\n[[rxn:[O-]Cc1ccccc1>>OCc1ccccc1|2) H₂O]]\n\n산 염화물 + H⁻ → 사면체 중간체 → Cl⁻ 이탈 → 알데하이드 → H⁻ → 1차 알콕사이드 → 1차 알코올.\n\n오답 분석:\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈춤: LiAlH₄는 알데하이드를 바로 한 번 더 환원한다\n• [[smi:Cc1ccccc1]] — 과환원(C–OH까지만)\n• [[smi:OC(=O)c1ccccc1]] — 가수분해 생성물: 2단계 H₂O는 알콕사이드에 양성자를 줄 뿐이다"
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
         "[[smi:CC(C)(C)OC(=O)C1CCCCC1]]"
       ],
       "answer": "[[smi:O=CC1CCCCC1]]",
-      "explanation": "정답: [[smi:O=CC1CCCCC1]]\n부피 큰 알콕시 3개로 반응성이 약해진 하이드라이드가 반응성 큰 산 염화물만 환원하고, 생긴 알데하이드는 저온에서 더 환원하지 못한다.\n\n오답 분석:\n• [[smi:OCC1CCCCC1]] — LiAlH₄를 썼을 때의 결과(1차 알코올)\n• [[smi:OC(=O)C1CCCCC1]] — 가수분해와 혼동\n• [[smi:CC(C)(C)OC(=O)C1CCCCC1]] — tert-뷰톡시기가 친핵체로 들어간 에스터 — 이 시약은 H⁻만 내준다"
+      "explanation": "정답: [[smi:O=CC1CCCCC1]]\n🔎 단계별 과정\n1) LiAlH[OC(CH₃)₃]₃ — H⁻ 한 번 → Cl⁻ 이탈 → 알데하이드(약한 시약이라 더 환원 안 됨)\n[[rxn:O=C(Cl)C1CCCCC1>>O=CC1CCCCC1|1) LiAlH[OC(CH₃)₃]₃]]\n2) H₂O — 남은 시약 분해(구조 변화 없음)\n[[rxn:O=CC1CCCCC1>>O=CC1CCCCC1|2) H₂O]]\n\n부피 큰 알콕시 3개로 반응성이 약해진 하이드라이드가 반응성 큰 산 염화물만 환원하고, 생긴 알데하이드는 저온에서 더 환원하지 못한다.\n\n오답 분석:\n• [[smi:OCC1CCCCC1]] — LiAlH₄를 썼을 때의 결과(1차 알코올)\n• [[smi:OC(=O)C1CCCCC1]] — 가수분해와 혼동\n• [[smi:CC(C)(C)OC(=O)C1CCCCC1]] — tert-뷰톡시기가 친핵체로 들어간 에스터 — 이 시약은 H⁻만 내준다"
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
         "[[smi:CCOCc1ccccc1]]"
       ],
       "answer": "[[smi:OCc1ccccc1]]",
-      "explanation": "정답: [[smi:OCc1ccccc1]]\n에스터 + LiAlH₄(2당량 H⁻) → 1차 알코올 2개: 벤질 알코올 + 에탄올.\n\n오답 분석:\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈춤\n• [[smi:CCOC(O)c1ccccc1]] — 사면체 중간체(헤미아세탈)에서 멈춤: EtO⁻가 이탈한다\n• [[smi:CCOCc1ccccc1]] — C=O만 CH₂가 된 에터 — 에스터의 C–O(R) 결합이 끊어져 OR'는 에탄올로 떨어진다"
+      "explanation": "정답: [[smi:OCc1ccccc1]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — EtO⁻ 이탈 → 알데하이드  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)c1ccccc1>>O=Cc1ccccc1|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — 알콕사이드(EtO⁻는 따로 떨어져 에탄올이 됨)\n[[rxn:O=Cc1ccccc1>>[O-]Cc1ccccc1|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 벤질 알코올 + 에탄올\n[[rxn:[O-]Cc1ccccc1>>OCc1ccccc1|2) H₂O]]\n\n에스터 + LiAlH₄(2당량 H⁻) → 1차 알코올 2개: 벤질 알코올 + 에탄올.\n\n오답 분석:\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈춤\n• [[smi:CCOC(O)c1ccccc1]] — 사면체 중간체(헤미아세탈)에서 멈춤: EtO⁻가 이탈한다\n• [[smi:CCOCc1ccccc1]] — C=O만 CH₂가 된 에터 — 에스터의 C–O(R) 결합이 끊어져 OR'는 에탄올로 떨어진다"
     },
     {
       "id": 11,
@@ -133,7 +133,7 @@
         "[[smi:OC1CCCO1]]"
       ],
       "answer": "[[smi:OCCCCO]]",
-      "explanation": "정답: [[smi:OCCCCO]]\n락톤(고리형 에스터)도 에스터처럼 환원되어 고리가 열린 다이올 뷰테인-1,4-다이올이 된다.\n\n오답 분석:\n• [[smi:C1CCOC1]] — C=O만 CH₂로 바뀐 고리형 에터 — 고리 C–O가 끊어진다\n• [[smi:O=CCCCO]] — 중간체(알데하이드)에서 멈춤\n• [[smi:OC1CCCO1]] — DIBAL-H(저온)였을 때의 결과(고리형 헤미아세탈)"
+      "explanation": "정답: [[smi:OCCCCO]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 고리 C–O가 끊어져 알데하이드 + 알콕사이드\n[[rxn:O=C1CCCO1>>O=CCCC[O-]|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — 알데하이드 환원\n[[rxn:O=CCCC[O-]>>[O-]CCCC[O-]|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 뷰테인-1,4-다이올\n[[rxn:[O-]CCCC[O-]>>OCCCCO|2) H₂O]]\n\n락톤(고리형 에스터)도 에스터처럼 환원되어 고리가 열린 다이올 뷰테인-1,4-다이올이 된다.\n\n오답 분석:\n• [[smi:C1CCOC1]] — C=O만 CH₂로 바뀐 고리형 에터 — 고리 C–O가 끊어진다\n• [[smi:O=CCCCO]] — 중간체(알데하이드)에서 멈춤\n• [[smi:OC1CCCO1]] — DIBAL-H(저온)였을 때의 결과(고리형 헤미아세탈)"
     },
     {
       "id": 12,
@@ -145,7 +145,7 @@
         "[[smi:CCCCCC(O)OC]]"
       ],
       "answer": "[[smi:CCCCCC=O]]",
-      "explanation": "정답: [[smi:CCCCCC=O]]\nDIBAL-H [((CH₃)₂CHCH₂)₂AlH]: 부피가 크고 H⁻가 하나. −78 °C에서 사면체 중간체가 안정하게 머물다 물 처리 때 알데하이드가 된다.\n\n오답 분석:\n• [[smi:CCCCCCO]] — LiAlH₄를 썼을 때의 결과\n• [[smi:CCCCCC(=O)O]] — 가수분해와 혼동\n• [[smi:CCCCCC(O)OC]] — 물 처리 전의 중간체: H₂O를 넣으면 알데하이드 + CH₃OH로 분해된다"
+      "explanation": "정답: [[smi:CCCCCC=O]]\n🔎 단계별 과정\n1) DIBAL-H, −78 °C — H⁻ 한 번 → 사면체 중간체(Al 생략), 저온에서 안정하게 머묾\n[[rxn:CCCCCC(=O)OC>>CCCCCC([O-])OC|1) DIBAL-H, −78 °C]]\n2) H₂O — CH₃O⁻가 떨어져 알데하이드\n[[rxn:CCCCCC([O-])OC>>CCCCCC=O|2) H₂O]]\n\nDIBAL-H [((CH₃)₂CHCH₂)₂AlH]: 부피가 크고 H⁻가 하나. −78 °C에서 사면체 중간체가 안정하게 머물다 물 처리 때 알데하이드가 된다.\n\n오답 분석:\n• [[smi:CCCCCCO]] — LiAlH₄를 썼을 때의 결과\n• [[smi:CCCCCC(=O)O]] — 가수분해와 혼동\n• [[smi:CCCCCC(O)OC]] — 물 처리 전의 중간체: H₂O를 넣으면 알데하이드 + CH₃OH로 분해된다"
     },
     {
       "id": 13,
@@ -157,7 +157,7 @@
         "[[smi:[O-]C(=O)Cc1ccccc1]]"
       ],
       "answer": "[[smi:OCCc1ccccc1]]",
-      "explanation": "정답: [[smi:OCCc1ccccc1]]\n카복실산 → 1차 알코올은 LiAlH₄만 가능. (먼저 H⁻가 COOH의 H⁺를 떼고, 그다음 환원된다.)\n\n오답 분석:\n• [[smi:O=CCc1ccccc1]] — 중간체(알데하이드)에서 멈춤\n• [[smi:CCc1ccccc1]] — 과환원\n• [[smi:[O-]C(=O)Cc1ccccc1]] — NaBH₄였다면 산–염기 반응만 일어나 카복실산 음이온으로 남는다"
+      "explanation": "정답: [[smi:OCCc1ccccc1]]\n🔎 단계별 과정\n1) LiAlH₄ (산–염기) — 먼저 COOH의 H⁺가 떨어진다(H₂ 발생)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:OC(=O)Cc1ccccc1>>[O-]C(=O)Cc1ccccc1|1) LiAlH₄ (산–염기)]]\n1) LiAlH₄ (환원) — 알데하이드 단계를 거쳐 1차 알콕사이드\n[[rxn:[O-]C(=O)Cc1ccccc1>>[O-]CCc1ccccc1|1) LiAlH₄ (환원)]]\n2) H₂O — 2-페닐에탄올\n[[rxn:[O-]CCc1ccccc1>>OCCc1ccccc1|2) H₂O]]\n\n카복실산 → 1차 알코올은 LiAlH₄만 가능. (먼저 H⁻가 COOH의 H⁺를 떼고, 그다음 환원된다.)\n\n오답 분석:\n• [[smi:O=CCc1ccccc1]] — 중간체(알데하이드)에서 멈춤\n• [[smi:CCc1ccccc1]] — 과환원\n• [[smi:[O-]C(=O)Cc1ccccc1]] — NaBH₄였다면 산–염기 반응만 일어나 카복실산 음이온으로 남는다"
     },
     {
       "id": 14,
@@ -181,7 +181,7 @@
         "[[smi:CN(C)C(O)c1ccccc1]]"
       ],
       "answer": "[[smi:CN(C)Cc1ccccc1]]",
-      "explanation": "정답: [[smi:CN(C)Cc1ccccc1]]\n아마이드 + LiAlH₄ → 아민(C=O → CH₂). 사면체 중간체에서 O(알루미늄 결합)가 이탈하고 이미늄이 한 번 더 환원된다.\n\n오답 분석:\n• [[smi:OCc1ccccc1]] — 에스터처럼 생각한 오답: 아마이드는 N이 남고 C=O만 CH₂가 된다\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈추고 아민이 떨어진 구조 — 아마이드에서는 N이 아니라 O가 빠진다\n• [[smi:CN(C)C(O)c1ccccc1]] — 카비놀아민 중간체에서 멈춤"
+      "explanation": "정답: [[smi:CN(C)Cc1ccccc1]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 산소가 Al과 함께 떨어져 이미늄 이온\n[[rxn:CN(C)C(=O)c1ccccc1>>C[N+](C)=Cc1ccccc1|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — 이미늄 환원 → 3차 아민\n[[rxn:C[N+](C)=Cc1ccccc1>>CN(C)Cc1ccccc1|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 남은 시약 분해(구조 변화 없음)\n[[rxn:CN(C)Cc1ccccc1>>CN(C)Cc1ccccc1|2) H₂O]]\n\n아마이드 + LiAlH₄ → 아민(C=O → CH₂). 사면체 중간체에서 O(알루미늄 결합)가 이탈하고 이미늄이 한 번 더 환원된다.\n\n오답 분석:\n• [[smi:OCc1ccccc1]] — 에스터처럼 생각한 오답: 아마이드는 N이 남고 C=O만 CH₂가 된다\n• [[smi:O=Cc1ccccc1]] — 중간체(알데하이드)에서 멈추고 아민이 떨어진 구조 — 아마이드에서는 N이 아니라 O가 빠진다\n• [[smi:CN(C)C(O)c1ccccc1]] — 카비놀아민 중간체에서 멈춤"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "[[smi:C1CCN=CC1]]"
       ],
       "answer": "[[smi:C1CCNCC1]]",
-      "explanation": "정답: [[smi:C1CCNCC1]]\n락탐(고리형 아마이드) → 고리형 아민(피페리딘). 고리가 유지된다.\n\n오답 분석:\n• [[smi:NCCCCCO]] — 에스터처럼 고리가 열린 아미노 알코올 — 아마이드는 C–N이 끊어지지 않는다\n• [[smi:OC1CCCCN1]] — 카비놀아민 중간체에서 멈춤\n• [[smi:C1CCN=CC1]] — 이민(이미늄) 중간체에서 멈춤"
+      "explanation": "정답: [[smi:C1CCNCC1]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 산소가 빠져 고리형 이민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=C1CCCCN1>>C1CCN=CC1|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — C=N 환원 → 아마이드 음이온(Al 생략)\n[[rxn:C1CCN=CC1>>C1CC[N-]CC1|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 피페리딘\n[[rxn:C1CC[N-]CC1>>C1CCNCC1|2) H₂O]]\n\n락탐(고리형 아마이드) → 고리형 아민(피페리딘). 고리가 유지된다.\n\n오답 분석:\n• [[smi:NCCCCCO]] — 에스터처럼 고리가 열린 아미노 알코올 — 아마이드는 C–N이 끊어지지 않는다\n• [[smi:OC1CCCCN1]] — 카비놀아민 중간체에서 멈춤\n• [[smi:C1CCN=CC1]] — 이민(이미늄) 중간체에서 멈춤"
     },
     {
       "id": 17,
