@@ -85,7 +85,7 @@
         "[[smi:C1=CCCCC1]]"
       ],
       "answer": "[[smi:O=C1C=CCCC1]]",
-      "explanation": "정답: [[smi:O=C1C=CCCC1]]\nPPT 36쪽: 할로젠화 → 제거(E2) 2단계로 카보닐 화합물을 α,β-불포화 카보닐(2-사이클로헥센온)로 바꾼다.\n\n오답 분석:\n• [[smi:O=C1CCCCC1Br]] — 1단계 생성물에서 멈춤\n• [[smi:O=C1CC=CCC1]] — β,γ-불포화 — 제거는 α-Br과 β-H 사이에서 일어나 C=O와 콘쥬게이션\n• [[smi:C1=CCCCC1]] — C=O가 없어진 구조"
+      "explanation": "정답: [[smi:O=C1C=CCCC1]]\n🔎 단계별 과정\n1) Br₂, CH₃COOH — 엔올을 거쳐 α-일치환  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=C1CCCCC1>>O=C1CCCCC1Br|1) Br₂, CH₃COOH]]\n2) Li₂CO₃, LiBr, DMF — E2 제거 → α,β-불포화\n[[rxn:O=C1CCCCC1Br>>O=C1C=CCCC1|2) Li₂CO₃, LiBr, DMF]]\n\nPPT 36쪽: 할로젠화 → 제거(E2) 2단계로 카보닐 화합물을 α,β-불포화 카보닐(2-사이클로헥센온)로 바꾼다.\n\n오답 분석:\n• [[smi:O=C1CCCCC1Br]] — 1단계 생성물에서 멈춤\n• [[smi:O=C1CC=CCC1]] — β,γ-불포화 — 제거는 α-Br과 β-H 사이에서 일어나 C=O와 콘쥬게이션\n• [[smi:C1=CCCCC1]] — C=O가 없어진 구조"
     },
     {
       "id": 8,
@@ -109,7 +109,7 @@
         "[[smi:CCC1CCCC(CC)C1=O]]"
       ],
       "answer": "[[smi:CCC1CCCCC1=O]]",
-      "explanation": "정답: [[smi:CCC1CCCCC1=O]]\nPPT 39~40쪽: LDA로 엔올 음이온 → RX와 SN2 → α-알킬 케톤. SN2이므로 메틸·1차 할라이드만 잘 된다. 비카이랄 출발물 → 라세미 생성물.\n\n오답 분석:\n• [[smi:CCOC1=CCCCC1]] — 산소 쪽 알킬화(엔올 에터) — 엔올 음이온은 주로 더 친핵성인 탄소에서 반응\n• [[smi:CCC1(O)CCCCC1]] — 그리냐르 첨가와 혼동\n• [[smi:CCC1CCCC(CC)C1=O]] — 두 번 알킬화 — LDA 1당량으로 완전히 엔올 음이온을 만든 뒤 한 번"
+      "explanation": "정답: [[smi:CCC1CCCCC1=O]]\n🔎 단계별 과정\n1) LDA, THF, −78 °C — 엔올 음이온(Li⁺ 생략)\n[[rxn:O=C1CCCCC1>>[O-]C1=CCCCC1|1) LDA, THF, −78 °C]]\n2) CH₃CH₂I — α탄소 SN2 알킬화\n[[rxn:[O-]C1=CCCCC1>>CCC1CCCCC1=O|2) CH₃CH₂I]]\n\nPPT 39~40쪽: LDA로 엔올 음이온 → RX와 SN2 → α-알킬 케톤. SN2이므로 메틸·1차 할라이드만 잘 된다. 비카이랄 출발물 → 라세미 생성물.\n\n오답 분석:\n• [[smi:CCOC1=CCCCC1]] — 산소 쪽 알킬화(엔올 에터) — 엔올 음이온은 주로 더 친핵성인 탄소에서 반응\n• [[smi:CCC1(O)CCCCC1]] — 그리냐르 첨가와 혼동\n• [[smi:CCC1CCCC(CC)C1=O]] — 두 번 알킬화 — LDA 1당량으로 완전히 엔올 음이온을 만든 뒤 한 번"
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
         "[[smi:CCC(C)=O]]"
       ],
       "answer": "[[smi:CCOC(=O)C(C)C]]",
-      "explanation": "정답: [[smi:CCOC(=O)C(C)C]]\nPPT 40쪽: 에스터(pKa 25)·나이트릴 엔올 음이온도 LDA로 만들어 알킬화할 수 있다 → 2-메틸프로판산 에틸.\n\n오답 분석:\n• [[smi:CCC(=O)C(C)C(=O)OCC]] — Claisen 자기 축합 — NaOEt처럼 엔올 음이온이 일부만 생길 때의 부반응\n• [[smi:CCCC(=O)OCC]] — β탄소가 알킬화된 구조 — 반응 자리는 α탄소\n• [[smi:CCC(C)=O]] — 메틸이 카보닐에 붙은 케톤(그리냐르와 혼동)"
+      "explanation": "정답: [[smi:CCOC(=O)C(C)C]]\n🔎 단계별 과정\n1) LDA, THF — 에스터 엔올 음이온\n[[rxn:CCC(=O)OCC>>CC=C([O-])OCC|1) LDA, THF]]\n2) CH₃I — α-메틸화\n[[rxn:CC=C([O-])OCC>>CCOC(=O)C(C)C|2) CH₃I]]\n\nPPT 40쪽: 에스터(pKa 25)·나이트릴 엔올 음이온도 LDA로 만들어 알킬화할 수 있다 → 2-메틸프로판산 에틸.\n\n오답 분석:\n• [[smi:CCC(=O)C(C)C(=O)OCC]] — Claisen 자기 축합 — NaOEt처럼 엔올 음이온이 일부만 생길 때의 부반응\n• [[smi:CCCC(=O)OCC]] — β탄소가 알킬화된 구조 — 반응 자리는 α탄소\n• [[smi:CCC(C)=O]] — 메틸이 카보닐에 붙은 케톤(그리냐르와 혼동)"
     },
     {
       "id": 11,
@@ -133,7 +133,7 @@
         "[[smi:CC(=O)Cc1ccccc1]]"
       ],
       "answer": "[[smi:CC(C#N)c1ccccc1]]",
-      "explanation": "정답: [[smi:CC(C#N)c1ccccc1]]\nPPT 11·40쪽: 나이트릴 α-H도 산성(pKa 약 25) → 엔올 음이온 유사체 → 알킬화.\n\n오답 분석:\n• [[smi:CC(C)(C#N)c1ccccc1]] — 두 번 알킬화\n• [[smi:Cc1ccc(CC#N)cc1]] — 고리 탄소 알킬화 — 산성 H는 CN 옆 벤질 탄소\n• [[smi:CC(=O)Cc1ccccc1]] — 그리냐르 + 나이트릴(케톤)과 혼동"
+      "explanation": "정답: [[smi:CC(C#N)c1ccccc1]]\n🔎 단계별 과정\n1) LDA — 나이트릴 α 음이온\n[[rxn:N#CCc1ccccc1>>N#C[CH-]c1ccccc1|1) LDA]]\n2) CH₃I — α-메틸화\n[[rxn:N#C[CH-]c1ccccc1>>CC(C#N)c1ccccc1|2) CH₃I]]\n\nPPT 11·40쪽: 나이트릴 α-H도 산성(pKa 약 25) → 엔올 음이온 유사체 → 알킬화.\n\n오답 분석:\n• [[smi:CC(C)(C#N)c1ccccc1]] — 두 번 알킬화\n• [[smi:Cc1ccc(CC#N)cc1]] — 고리 탄소 알킬화 — 산성 H는 CN 옆 벤질 탄소\n• [[smi:CC(=O)Cc1ccccc1]] — 그리냐르 + 나이트릴(케톤)과 혼동"
     },
     {
       "id": 12,
@@ -145,7 +145,7 @@
         "[[smi:COC1=C(C)CCCC1]]"
       ],
       "answer": "[[smi:CC1CCCC(C)C1=O]]",
-      "explanation": "정답: [[smi:CC1CCCC(C)C1=O]]\nPPT 20~22·42쪽: 부피 큰 강염기(LDA) + 극성 비양성자성 용매(THF) + 저온 → 덜 막힌 2차 H가 빨리 떨어진 속도론적 엔올 음이온 → 2,6-다이메틸(A).\n\n오답 분석:\n• [[smi:CC1(C)CCCCC1=O]] — 열역학적 생성물(NaOEt, EtOH, 실온)\n• [[smi:CC1(O)CCCCC1C]] — C=O에 메틸 첨가(그리냐르와 혼동)\n• [[smi:COC1=C(C)CCCC1]] — 산소 쪽 알킬화"
+      "explanation": "정답: [[smi:CC1CCCC(C)C1=O]]\n🔎 단계별 과정\n1) LDA, THF, −78 °C — 덜 막힌 쪽(2차 H) 속도론적 엔올 음이온\n[[rxn:CC1CCCCC1=O>>[O-]C1=CCCCC1C|1) LDA, THF, −78 °C]]\n2) CH₃I — 2,6-다이메틸\n[[rxn:[O-]C1=CCCCC1C>>CC1CCCC(C)C1=O|2) CH₃I]]\n\nPPT 20~22·42쪽: 부피 큰 강염기(LDA) + 극성 비양성자성 용매(THF) + 저온 → 덜 막힌 2차 H가 빨리 떨어진 속도론적 엔올 음이온 → 2,6-다이메틸(A).\n\n오답 분석:\n• [[smi:CC1(C)CCCCC1=O]] — 열역학적 생성물(NaOEt, EtOH, 실온)\n• [[smi:CC1(O)CCCCC1C]] — C=O에 메틸 첨가(그리냐르와 혼동)\n• [[smi:COC1=C(C)CCCC1]] — 산소 쪽 알킬화"
     },
     {
       "id": 13,
@@ -157,7 +157,7 @@
         "[[smi:COC1=C(C)CCCC1]]"
       ],
       "answer": "[[smi:CC1(C)CCCCC1=O]]",
-      "explanation": "정답: [[smi:CC1(C)CCCCC1=O]]\nPPT 23·43쪽: 강염기 + 양성자성 용매 + 실온 → 엔올 음이온이 다시 양성자화되며 평형 → 더 치환된(더 안정한) 열역학적 엔올 음이온 → 2,2-다이메틸(B).\n\n오답 분석:\n• [[smi:CC1CCCC(C)C1=O]] — 속도론적 생성물(LDA, −78 °C)\n• [[smi:CC1CCCC(C)(C)C1=O]] — 세 번 알킬화된 구조 — 1당량 조건\n• [[smi:COC1=C(C)CCCC1]] — 산소 쪽 알킬화"
+      "explanation": "정답: [[smi:CC1(C)CCCCC1=O]]\n🔎 단계별 과정\n1) NaOEt, EtOH, 실온 — 평형 → 더 치환된 열역학적 엔올 음이온\n[[rxn:CC1CCCCC1=O>>CC1=C([O-])CCCC1|1) NaOEt, EtOH, 실온]]\n2) CH₃I — 2,2-다이메틸\n[[rxn:CC1=C([O-])CCCC1>>CC1(C)CCCCC1=O|2) CH₃I]]\n\nPPT 23·43쪽: 강염기 + 양성자성 용매 + 실온 → 엔올 음이온이 다시 양성자화되며 평형 → 더 치환된(더 안정한) 열역학적 엔올 음이온 → 2,2-다이메틸(B).\n\n오답 분석:\n• [[smi:CC1CCCC(C)C1=O]] — 속도론적 생성물(LDA, −78 °C)\n• [[smi:CC1CCCC(C)(C)C1=O]] — 세 번 알킬화된 구조 — 1당량 조건\n• [[smi:COC1=C(C)CCCC1]] — 산소 쪽 알킬화"
     },
     {
       "id": 14,
@@ -169,7 +169,7 @@
         "[[smi:CCC(CC)(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]]"
       ],
       "answer": "[[smi:CCC(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]]",
-      "explanation": "정답: [[smi:CCC(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]]\nPPT 44쪽: 항암제 타목시펜 합성의 한 단계. 두 아릴기 사이 CH₂의 H(케톤 α + 벤질)를 NaH로 떼고 CH₃CH₂I로 알킬화.\n\n오답 분석:\n• [[smi:CCOC(=Cc1ccc(Br)cc1)c1ccc(OC)cc1]] — 산소 쪽 알킬화(엔올 에터)\n• [[smi:CCc1ccc(CC(=O)c2ccc(OC)cc2)cc1]] — Br 자리에 에틸 — 아릴 할라이드는 SN2를 하지 않는다\n• [[smi:CCC(CC)(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]] — 두 번 알킬화"
+      "explanation": "정답: [[smi:CCC(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]]\n🔎 단계별 과정\n1) NaH — 엔올 음이온(Na⁺ 생략)\n[[rxn:COc1ccc(C(=O)Cc2ccc(Br)cc2)cc1>>COc1ccc(C([O-])=Cc2ccc(Br)cc2)cc1|1) NaH]]\n2) CH₃CH₂I — α-에틸화(아릴 Br은 그대로)\n[[rxn:COc1ccc(C([O-])=Cc2ccc(Br)cc2)cc1>>CCC(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1|2) CH₃CH₂I]]\n\nPPT 44쪽: 항암제 타목시펜 합성의 한 단계. 두 아릴기 사이 CH₂의 H(케톤 α + 벤질)를 NaH로 떼고 CH₃CH₂I로 알킬화.\n\n오답 분석:\n• [[smi:CCOC(=Cc1ccc(Br)cc1)c1ccc(OC)cc1]] — 산소 쪽 알킬화(엔올 에터)\n• [[smi:CCc1ccc(CC(=O)c2ccc(OC)cc2)cc1]] — Br 자리에 에틸 — 아릴 할라이드는 SN2를 하지 않는다\n• [[smi:CCC(CC)(C(=O)c1ccc(OC)cc1)c1ccc(Br)cc1]] — 두 번 알킬화"
     },
     {
       "id": 15,
@@ -181,7 +181,7 @@
         "[[smi:CCCCC(=O)O]]"
       ],
       "answer": "[[smi:CCCC(=O)O]]",
-      "explanation": "정답: [[smi:CCCC(=O)O]]\nPPT 45~49쪽: [1] 탈양성자화 [2] 알킬화(SN2) [3] 가수분해·탈카복실화 → 뷰탄산 CH₃CH₂CH₂COOH.\n\n오답 분석:\n• [[smi:CCC(C(=O)OCC)C(=O)OCC]] — 3단계(가수분해·탈카복실화)를 빠뜨림\n• [[smi:CCC(C(=O)O)C(=O)O]] — 가수분해만 되고 CO₂가 안 빠진 β-다이산 — 가열하면 탈카복실화\n• [[smi:CCCCC(=O)O]] — 탄소 수 착오 — 말로네이트의 CH₂ + 에틸 + COOH = 탄소 4개"
+      "explanation": "정답: [[smi:CCCC(=O)O]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(=O)OCC>>CCOC(=O)[CH-]C(=O)OCC|1) NaOEt]]\n2) CH₃CH₂Br — 알킬화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)[CH-]C(=O)OCC>>CCC(C(=O)OCC)C(=O)OCC|2) CH₃CH₂Br]]\n3) H₃O⁺ (가수분해) — β-다이산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCC(C(=O)OCC)C(=O)OCC>>CCC(C(=O)O)C(=O)O|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — CO₂ 손실 → 뷰탄산\n[[rxn:CCC(C(=O)O)C(=O)O>>CCCC(=O)O|3) Δ (탈카복실화)]]\n\nPPT 45~49쪽: [1] 탈양성자화 [2] 알킬화(SN2) [3] 가수분해·탈카복실화 → 뷰탄산 CH₃CH₂CH₂COOH.\n\n오답 분석:\n• [[smi:CCC(C(=O)OCC)C(=O)OCC]] — 3단계(가수분해·탈카복실화)를 빠뜨림\n• [[smi:CCC(C(=O)O)C(=O)O]] — 가수분해만 되고 CO₂가 안 빠진 β-다이산 — 가열하면 탈카복실화\n• [[smi:CCCCC(=O)O]] — 탄소 수 착오 — 말로네이트의 CH₂ + 에틸 + COOH = 탄소 4개"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "[[smi:CCC(C(=O)O)Cc1ccccc1Cl]]"
       ],
       "answer": "[[smi:CCC(Cc1ccccc1)C(=O)O]]",
-      "explanation": "정답: [[smi:CCC(Cc1ccccc1)C(=O)O]]\nPPT 50쪽: 1·2단계를 반복하면 α탄소에 알킬기 두 개 → 2-벤질뷰탄산.\n\n오답 분석:\n• [[smi:OC(=O)CCc1ccccc1]] — 벤질만 들어감 — 두 번째 알킬화까지 반영\n• [[smi:CCC(Cc1ccccc1)(C(=O)O)C(=O)O]] — 탈카복실화 전 다이산\n• [[smi:CCC(C(=O)O)Cc1ccccc1Cl]] — Cl이 남은 구조 — 벤질 클로라이드의 Cl이 SN2 이탈기"
+      "explanation": "정답: [[smi:CCC(Cc1ccccc1)C(=O)O]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(=O)OCC>>CCOC(=O)[CH-]C(=O)OCC|1) NaOEt]]\n2) CH₃CH₂Br — 첫 알킬화\n[[rxn:CCOC(=O)[CH-]C(=O)OCC>>CCC(C(=O)OCC)C(=O)OCC|2) CH₃CH₂Br]]\n3) NaOEt — 남은 α-H 탈양성자화\n[[rxn:CCC(C(=O)OCC)C(=O)OCC>>CC[C-](C(=O)OCC)C(=O)OCC|3) NaOEt]]\n4) C₆H₅CH₂Cl — 두 번째 알킬화\n[[rxn:CC[C-](C(=O)OCC)C(=O)OCC>>CCC(Cc1ccccc1)(C(=O)OCC)C(=O)OCC|4) C₆H₅CH₂Cl]]\n5) H₃O⁺ (가수분해) — β-다이산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCC(Cc1ccccc1)(C(=O)OCC)C(=O)OCC>>CCC(Cc1ccccc1)(C(=O)O)C(=O)O|5) H₃O⁺ (가수분해)]]\n5) Δ (탈카복실화) — 2-벤질뷰탄산\n[[rxn:CCC(Cc1ccccc1)(C(=O)O)C(=O)O>>CCC(Cc1ccccc1)C(=O)O|5) Δ (탈카복실화)]]\n\nPPT 50쪽: 1·2단계를 반복하면 α탄소에 알킬기 두 개 → 2-벤질뷰탄산.\n\n오답 분석:\n• [[smi:OC(=O)CCc1ccccc1]] — 벤질만 들어감 — 두 번째 알킬화까지 반영\n• [[smi:CCC(Cc1ccccc1)(C(=O)O)C(=O)O]] — 탈카복실화 전 다이산\n• [[smi:CCC(C(=O)O)Cc1ccccc1Cl]] — Cl이 남은 구조 — 벤질 클로라이드의 Cl이 SN2 이탈기"
     },
     {
       "id": 17,
@@ -205,7 +205,7 @@
         "[[smi:OC(=O)C1(C(=O)O)CCCC1]]"
       ],
       "answer": "[[smi:OC(=O)C1CCCC1]]",
-      "explanation": "정답: [[smi:OC(=O)C1CCCC1]]\nPPT 51쪽: 다이할라이드로 두 번째 알킬화가 분자 안에서 일어나 3~6원 고리 → 사이클로펜테인카복실산.\n\n오답 분석:\n• [[smi:OC(=O)C1CCCCC1]] — 고리 크기 착오 — 말로네이트 탄소 1개 + CH₂ 4개 = 5원 고리\n• [[smi:OC(=O)CCCCCBr]] — 한 번만 알킬화되고 고리가 닫히지 않음\n• [[smi:OC(=O)C1(C(=O)O)CCCC1]] — 탈카복실화 전 다이산"
+      "explanation": "정답: [[smi:OC(=O)C1CCCC1]]\n🔎 단계별 과정\n1) NaOEt, Br(CH₂)₄Br — 첫 SN2\n[[rxn:CCOC(=O)CC(=O)OCC>>BrCCCCC(C(=O)OCC)C(=O)OCC|1) NaOEt, Br(CH₂)₄Br]]\n2) NaOEt — 분자 내 두 번째 SN2 → 고리\n[[rxn:BrCCCCC(C(=O)OCC)C(=O)OCC>>CCOC(=O)C1(C(=O)OCC)CCCC1|2) NaOEt]]\n3) H₃O⁺ (가수분해) — β-다이산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)C1(C(=O)OCC)CCCC1>>OC(=O)C1(C(=O)O)CCCC1|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — 사이클로펜테인카복실산\n[[rxn:OC(=O)C1(C(=O)O)CCCC1>>OC(=O)C1CCCC1|3) Δ (탈카복실화)]]\n\nPPT 51쪽: 다이할라이드로 두 번째 알킬화가 분자 안에서 일어나 3~6원 고리 → 사이클로펜테인카복실산.\n\n오답 분석:\n• [[smi:OC(=O)C1CCCCC1]] — 고리 크기 착오 — 말로네이트 탄소 1개 + CH₂ 4개 = 5원 고리\n• [[smi:OC(=O)CCCCCBr]] — 한 번만 알킬화되고 고리가 닫히지 않음\n• [[smi:OC(=O)C1(C(=O)O)CCCC1]] — 탈카복실화 전 다이산"
     },
     {
       "id": 18,
@@ -229,7 +229,7 @@
         "[[smi:CC(C)=O]]"
       ],
       "answer": "[[smi:CCC(C)=O]]",
-      "explanation": "정답: [[smi:CCC(C)=O]]\nPPT 53~54쪽: 단계는 말론산 에스터 합성과 같지만 출발물이 β-케토 에스터라 최종 생성물은 메틸 케톤 → 2-뷰탄온. (아세톤 + LDA + CH₃I로도 같은 생성물, 57쪽)\n\n오답 분석:\n• [[smi:CCOC(=O)C(C)C(C)=O]] — 가수분해·탈카복실화를 빠뜨림\n• [[smi:CC(C)C(=O)O]] — 카복실산 — 말론산 에스터 합성과 혼동(β-케토 에스터는 케톤을 준다)\n• [[smi:CC(C)=O]] — 알킬화가 빠진 아세톤"
+      "explanation": "정답: [[smi:CCC(C)=O]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(C)=O>>CCOC(=O)[CH-]C(C)=O|1) NaOEt]]\n2) CH₃I — 메틸화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)[CH-]C(C)=O>>CCOC(=O)C(C)C(C)=O|2) CH₃I]]\n3) H₃O⁺ (가수분해) — β-케토산\n[[rxn:CCOC(=O)C(C)C(C)=O>>CC(=O)C(C)C(=O)O|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — 2-뷰탄온\n[[rxn:CC(=O)C(C)C(=O)O>>CCC(C)=O|3) Δ (탈카복실화)]]\n\nPPT 53~54쪽: 단계는 말론산 에스터 합성과 같지만 출발물이 β-케토 에스터라 최종 생성물은 메틸 케톤 → 2-뷰탄온. (아세톤 + LDA + CH₃I로도 같은 생성물, 57쪽)\n\n오답 분석:\n• [[smi:CCOC(=O)C(C)C(C)=O]] — 가수분해·탈카복실화를 빠뜨림\n• [[smi:CC(C)C(=O)O]] — 카복실산 — 말론산 에스터 합성과 혼동(β-케토 에스터는 케톤을 준다)\n• [[smi:CC(C)=O]] — 알킬화가 빠진 아세톤"
     },
     {
       "id": 20,
@@ -241,7 +241,7 @@
         "[[smi:CCC(C)C(=O)O]]"
       ],
       "answer": "[[smi:CCC(C)C(C)=O]]",
-      "explanation": "정답: [[smi:CCC(C)C(C)=O]]\nPPT 55~56쪽: 두 번 알킬화 → α탄소에 에틸·메틸 → 3-메틸-2-펜탄온.\n\n오답 분석:\n• [[smi:CCCC(C)=O]] — 메틸이 빠진 2-펜탄온 — 두 번째 알킬화 반영\n• [[smi:CCC(C)(C(C)=O)C(=O)OCC]] — 가수분해·탈카복실화 전\n• [[smi:CCC(C)C(=O)O]] — 카복실산으로 착각"
+      "explanation": "정답: [[smi:CCC(C)C(C)=O]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:CCOC(=O)CC(C)=O>>CCOC(=O)[CH-]C(C)=O|1) NaOEt]]\n2) CH₃CH₂Br — 에틸화\n[[rxn:CCOC(=O)[CH-]C(C)=O>>CCC(C(C)=O)C(=O)OCC|2) CH₃CH₂Br]]\n3) NaOEt — 남은 α-H 탈양성자화\n[[rxn:CCC(C(C)=O)C(=O)OCC>>CC[C-](C(C)=O)C(=O)OCC|3) NaOEt]]\n4) CH₃I — 메틸화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC[C-](C(C)=O)C(=O)OCC>>CCC(C)(C(C)=O)C(=O)OCC|4) CH₃I]]\n5) H₃O⁺ (가수분해) — β-케토산\n[[rxn:CCC(C)(C(C)=O)C(=O)OCC>>CCC(C)(C(C)=O)C(=O)O|5) H₃O⁺ (가수분해)]]\n5) Δ (탈카복실화) — 3-메틸-2-펜탄온\n[[rxn:CCC(C)(C(C)=O)C(=O)O>>CCC(C)C(C)=O|5) Δ (탈카복실화)]]\n\nPPT 55~56쪽: 두 번 알킬화 → α탄소에 에틸·메틸 → 3-메틸-2-펜탄온.\n\n오답 분석:\n• [[smi:CCCC(C)=O]] — 메틸이 빠진 2-펜탄온 — 두 번째 알킬화 반영\n• [[smi:CCC(C)(C(C)=O)C(=O)OCC]] — 가수분해·탈카복실화 전\n• [[smi:CCC(C)C(=O)O]] — 카복실산으로 착각"
     }
   ]
 }

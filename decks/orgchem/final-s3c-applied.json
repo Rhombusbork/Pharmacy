@@ -25,7 +25,7 @@
         "[[smi:O=CCCC=O]]"
       ],
       "answer": "[[smi:COC(=O)CCC=O]]",
-      "explanation": "정답: [[smi:COC(=O)CCC=O]]\n반응성 큰 산 염화물만 반응하고 생긴 알데하이드는 저온에서 더 환원되지 않는다 → 4-옥소뷰탄산 메틸.\n\n오답 분석:\n• [[smi:OCCCCO]] — LiAlH₄를 썼을 때(둘 다 1차 알코올)\n• [[smi:COC(=O)CCCO]] — 산 염화물이 알코올까지 환원 — 약한 하이드라이드는 알데하이드에서 멈춘다\n• [[smi:O=CCCC=O]] — 에스터까지 환원 — 이 시약은 에스터를 환원하지 않는다"
+      "explanation": "정답: [[smi:COC(=O)CCC=O]]\n🔎 단계별 과정\n1) LiAlH[OC(CH₃)₃]₃, −78 °C — 산 염화물만 알데하이드로(에스터는 그대로)\n[[rxn:COC(=O)CCC(=O)Cl>>COC(=O)CCC=O|1) LiAlH[OC(CH₃)₃]₃, −78 °C]]\n2) H₂O — 남은 시약 분해(구조 변화 없음)\n[[rxn:COC(=O)CCC=O>>COC(=O)CCC=O|2) H₂O]]\n\n반응성 큰 산 염화물만 반응하고 생긴 알데하이드는 저온에서 더 환원되지 않는다 → 4-옥소뷰탄산 메틸.\n\n오답 분석:\n• [[smi:OCCCCO]] — LiAlH₄를 썼을 때(둘 다 1차 알코올)\n• [[smi:COC(=O)CCCO]] — 산 염화물이 알코올까지 환원 — 약한 하이드라이드는 알데하이드에서 멈춘다\n• [[smi:O=CCCC=O]] — 에스터까지 환원 — 이 시약은 에스터를 환원하지 않는다"
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "[[smi:CC(=O)CCCOC]]"
       ],
       "answer": "[[smi:OCCCC(C)=O]]",
-      "explanation": "정답: [[smi:OCCCC(C)=O]]\n1당량의 CH₃MgBr는 OH 양성자를 떼는 산–염기 반응에 모두 소모되어 CH₄가 되고, 산 처리 후 출발물(5-하이드록시-2-펜탄온)이 그대로 돌아온다 → 그래서 TBDMS 보호가 필요(PPT 60~64쪽).\n\n오답 분석:\n• [[smi:CC(C)(O)CCCO]] — 보호기를 썼거나 그리냐르가 충분할 때의 결과\n• [[smi:CCCCCO]] — 메틸 치환과 혼동\n• [[smi:CC(=O)CCCOC]] — O-메틸화 — 그리냐르는 OH의 양성자만 뗀다"
+      "explanation": "정답: [[smi:OCCCC(C)=O]]\n🔎 단계별 과정\n1) CH₃MgBr (1당량) — OH 양성자를 떼는 산–염기 반응에 시약이 모두 소모(CH₄ 발생)\n[[rxn:OCCCC(C)=O>>[O-]CCCC(C)=O|1) CH₃MgBr (1당량)]]\n2) H₃O⁺ — 양성자화 → 출발물 그대로\n[[rxn:[O-]CCCC(C)=O>>OCCCC(C)=O|2) H₃O⁺]]\n\n1당량의 CH₃MgBr는 OH 양성자를 떼는 산–염기 반응에 모두 소모되어 CH₄가 되고, 산 처리 후 출발물(5-하이드록시-2-펜탄온)이 그대로 돌아온다 → 그래서 TBDMS 보호가 필요(PPT 60~64쪽).\n\n오답 분석:\n• [[smi:CC(C)(O)CCCO]] — 보호기를 썼거나 그리냐르가 충분할 때의 결과\n• [[smi:CCCCCO]] — 메틸 치환과 혼동\n• [[smi:CC(=O)CCCOC]] — O-메틸화 — 그리냐르는 OH의 양성자만 뗀다"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
         "[[smi:CCC1CCCCC1]]"
       ],
       "answer": "[[smi:CCC1=CCCCC1]]",
-      "explanation": "정답: [[smi:CCC1=CCCCC1]]\nPPT 47쪽 원리: 탈수는 더 치환된(Zaitsev) 알켄 → 1-에틸사이클로헥센이 주생성물.\n\n오답 분석:\n• [[smi:CC=C1CCCCC1]] — 소량 생성물(이치환 고리 밖 C=C) — Wittig(Ph₃P=CHCH₃)일 때의 생성물\n• [[smi:CCC1(O)CCCCC1]] — 탈수 전 3차 알코올\n• [[smi:CCC1CCCCC1]] — 환원과 혼동"
+      "explanation": "정답: [[smi:CCC1=CCCCC1]]\n🔎 단계별 과정\n1) CH₃CH₂MgBr — 알콕사이드\n[[rxn:O=C1CCCCC1>>CCC1([O-])CCCCC1|1) CH₃CH₂MgBr]]\n2) H₂O — 3차 알코올  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCC1([O-])CCCCC1>>CCC1(O)CCCCC1|2) H₂O]]\n3) H₂SO₄, 가열 — Zaitsev 탈수\n[[rxn:CCC1(O)CCCCC1>>CCC1=CCCCC1|3) H₂SO₄, 가열]]\n\nPPT 47쪽 원리: 탈수는 더 치환된(Zaitsev) 알켄 → 1-에틸사이클로헥센이 주생성물.\n\n오답 분석:\n• [[smi:CC=C1CCCCC1]] — 소량 생성물(이치환 고리 밖 C=C) — Wittig(Ph₃P=CHCH₃)일 때의 생성물\n• [[smi:CCC1(O)CCCCC1]] — 탈수 전 3차 알코올\n• [[smi:CCC1CCCCC1]] — 환원과 혼동"
     },
     {
       "id": 7,
@@ -109,7 +109,7 @@
         "[[smi:CCCC(C)=O]]"
       ],
       "answer": "[[smi:CCCC(=O)CC]]",
-      "explanation": "정답: [[smi:CCCC(=O)CC]]\n2-펜탄온: LDA는 덜 막힌 CH₃의 H를 먼저 뗀다 → CH₃ 쪽에 메틸 → 3-헥산온.\n\n오답 분석:\n• [[smi:CCC(C)C(C)=O]] — 더 치환된 CH₂ 쪽 알킬화(열역학적, NaOEt 조건)\n• [[smi:CCCC(C)(C)O]] — C=O에 메틸 첨가(그리냐르와 혼동)\n• [[smi:CCCC(C)=O]] — 반응 안 함 — LDA는 엔올 음이온을 완전히 만든다"
+      "explanation": "정답: [[smi:CCCC(=O)CC]]\n🔎 단계별 과정\n1) LDA, THF, −78 °C — 덜 막힌 CH₃ 쪽 엔올 음이온\n[[rxn:CCCC(C)=O>>CCCC([O-])=C|1) LDA, THF, −78 °C]]\n2) CH₃I — 3-헥산온\n[[rxn:CCCC([O-])=C>>CCCC(=O)CC|2) CH₃I]]\n\n2-펜탄온: LDA는 덜 막힌 CH₃의 H를 먼저 뗀다 → CH₃ 쪽에 메틸 → 3-헥산온.\n\n오답 분석:\n• [[smi:CCC(C)C(C)=O]] — 더 치환된 CH₂ 쪽 알킬화(열역학적, NaOEt 조건)\n• [[smi:CCCC(C)(C)O]] — C=O에 메틸 첨가(그리냐르와 혼동)\n• [[smi:CCCC(C)=O]] — 반응 안 함 — LDA는 엔올 음이온을 완전히 만든다"
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
         "[[smi:OC(=O)C1(C(=O)O)CCC1]]"
       ],
       "answer": "[[smi:OC(=O)C1CCC1]]",
-      "explanation": "정답: [[smi:OC(=O)C1CCC1]]\nPPT 51쪽: 3~6원 고리 가능 → 1,3-다이브로모프로페인 → 사이클로뷰테인카복실산.\n\n오답 분석:\n• [[smi:OC(=O)C1CCCC1]] — 고리 크기 착오 — 말로네이트 C 1개 + CH₂ 3개 = 4원 고리\n• [[smi:OC(=O)CCCCBr]] — 한 번만 알킬화\n• [[smi:OC(=O)C1(C(=O)O)CCC1]] — 탈카복실화 전"
+      "explanation": "정답: [[smi:OC(=O)C1CCC1]]\n🔎 단계별 과정\n1) NaOEt, Br(CH₂)₃Br — 첫 SN2\n[[rxn:CCOC(=O)CC(=O)OCC>>BrCCCC(C(=O)OCC)C(=O)OCC|1) NaOEt, Br(CH₂)₃Br]]\n2) NaOEt — 분자 내 SN2 → 4원 고리\n[[rxn:BrCCCC(C(=O)OCC)C(=O)OCC>>CCOC(=O)C1(C(=O)OCC)CCC1|2) NaOEt]]\n3) H₃O⁺ (가수분해) — β-다이산  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCOC(=O)C1(C(=O)OCC)CCC1>>OC(=O)C1(C(=O)O)CCC1|3) H₃O⁺ (가수분해)]]\n3) Δ (탈카복실화) — 사이클로뷰테인카복실산\n[[rxn:OC(=O)C1(C(=O)O)CCC1>>OC(=O)C1CCC1|3) Δ (탈카복실화)]]\n\nPPT 51쪽: 3~6원 고리 가능 → 1,3-다이브로모프로페인 → 사이클로뷰테인카복실산.\n\n오답 분석:\n• [[smi:OC(=O)C1CCCC1]] — 고리 크기 착오 — 말로네이트 C 1개 + CH₂ 3개 = 4원 고리\n• [[smi:OC(=O)CCCCBr]] — 한 번만 알킬화\n• [[smi:OC(=O)C1(C(=O)O)CCC1]] — 탈카복실화 전"
     },
     {
       "id": 11,
@@ -169,7 +169,7 @@
         "[[smi:Cc1ccc([N+](=O)[O-])cc1Br]]"
       ],
       "answer": "[[smi:Cc1ccc(Br)cc1]]",
-      "explanation": "정답: [[smi:Cc1ccc(Br)cc1]]\n환원 → 다이아조화 → Sandmeyer → p-브로모톨루엔(PPT 83쪽 4단계 경로의 응용).\n\n오답 분석:\n• [[smi:Cc1ccc(N)cc1]] — 1단계에서 멈춤\n• [[smi:Cc1ccc(O)cc1]] — 3단계에서 H₂O·가열\n• [[smi:Cc1ccc([N+](=O)[O-])cc1Br]] — 고리 브로민화(EAS)와 혼동"
+      "explanation": "정답: [[smi:Cc1ccc(Br)cc1]]\n🔎 단계별 과정\n1) H₂, Pd-C — NO₂ → NH₂  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:Cc1ccc([N+](=O)[O-])cc1>>Cc1ccc(N)cc1|1) H₂, Pd-C]]\n2) NaNO₂, HCl — 다이아조늄\n[[rxn:Cc1ccc(N)cc1>>Cc1ccc([N+]#N)cc1|2) NaNO₂, HCl]]\n3) CuBr — Sandmeyer\n[[rxn:Cc1ccc([N+]#N)cc1>>Cc1ccc(Br)cc1|3) CuBr]]\n\n환원 → 다이아조화 → Sandmeyer → p-브로모톨루엔(PPT 83쪽 4단계 경로의 응용).\n\n오답 분석:\n• [[smi:Cc1ccc(N)cc1]] — 1단계에서 멈춤\n• [[smi:Cc1ccc(O)cc1]] — 3단계에서 H₂O·가열\n• [[smi:Cc1ccc([N+](=O)[O-])cc1Br]] — 고리 브로민화(EAS)와 혼동"
     },
     {
       "id": 15,

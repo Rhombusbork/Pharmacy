@@ -49,7 +49,7 @@
         "[[smi:CCNC(=O)c1ccccc1C(=O)O]]"
       ],
       "answer": "[[smi:CCN]]",
-      "explanation": "정답: [[smi:CCN]]\nPPT 27~29쪽: 프탈이미드 N–H는 두 C=O 사이라 산성 → 음이온이 SN2 → 알킬 이미드 → 염기 가수분해 → 1차 아민 + 프탈산 이음이온. 전체적으로 Br이 NH₂로 치환.\n\n오답 분석:\n• [[smi:CCNCC]] — 2차 아민 — Gabriel은 한 번만 알킬화된다\n• [[smi:CCN1C(=O)c2ccccc2C1=O]] — 2단계(가수분해)를 빠뜨린 N-에틸프탈이미드\n• [[smi:CCNC(=O)c1ccccc1C(=O)O]] — 부분 가수분해 중간체"
+      "explanation": "정답: [[smi:CCN]]\n🔎 단계별 과정\n1) 프탈이미드 음이온(SN2) — N-에틸프탈이미드  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCBr>>CCN1C(=O)c2ccccc2C1=O|1) 프탈이미드 음이온(SN2)]]\n2) ⁻OH, H₂O — 가수분해 → 에틸아민(+ 프탈산 이음이온)\n[[rxn:CCN1C(=O)c2ccccc2C1=O>>CCN|2) ⁻OH, H₂O]]\n\nPPT 27~29쪽: 프탈이미드 N–H는 두 C=O 사이라 산성 → 음이온이 SN2 → 알킬 이미드 → 염기 가수분해 → 1차 아민 + 프탈산 이음이온. 전체적으로 Br이 NH₂로 치환.\n\n오답 분석:\n• [[smi:CCNCC]] — 2차 아민 — Gabriel은 한 번만 알킬화된다\n• [[smi:CCN1C(=O)c2ccccc2C1=O]] — 2단계(가수분해)를 빠뜨린 N-에틸프탈이미드\n• [[smi:CCNC(=O)c1ccccc1C(=O)O]] — 부분 가수분해 중간체"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "[[smi:CCCC(=O)O]]"
       ],
       "answer": "[[smi:CCCCN]]",
-      "explanation": "정답: [[smi:CCCCN]]\nPPT 30~31쪽: R–X → (SN2, ⁻CN) R–CN → (LiAlH₄) R–CH₂NH₂: 탄소가 하나 더 많은 1차 아민.\n\n오답 분석:\n• [[smi:CCCN]] — 탄소 수 착오 — CN 탄소가 하나 늘어난다\n• [[smi:CCCC=O]] — DIBAL-H를 썼을 때(알데하이드)\n• [[smi:CCCC(=O)O]] — 가수분해와 혼동"
+      "explanation": "정답: [[smi:CCCCN]]\n🔎 단계별 과정\n1) NaCN — SN2(+1C)\n[[rxn:CCCBr>>CCCC#N|1) NaCN]]\n2) LiAlH₄ (첫 H⁻) — 이민 음이온\n[[rxn:CCCC#N>>CCCC=[N-]|2) LiAlH₄ (첫 H⁻)]]\n2) LiAlH₄ (두 번째 H⁻) 3) H₂O — 1차 아민(뷰틸아민)\n[[rxn:CCCC=[N-]>>CCCCN|2) LiAlH₄ (두 번째 H⁻) 3) H₂O]]\n\nPPT 30~31쪽: R–X → (SN2, ⁻CN) R–CN → (LiAlH₄) R–CH₂NH₂: 탄소가 하나 더 많은 1차 아민.\n\n오답 분석:\n• [[smi:CCCN]] — 탄소 수 착오 — CN 탄소가 하나 늘어난다\n• [[smi:CCCC=O]] — DIBAL-H를 썼을 때(알데하이드)\n• [[smi:CCCC(=O)O]] — 가수분해와 혼동"
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
         "[[smi:CCCCO]]"
       ],
       "answer": "[[smi:CCCCNC]]",
-      "explanation": "정답: [[smi:CCCCNC]]\nPPT 32쪽: 1°·2°·3° 아마이드 → (LiAlH₄) 1°·2°·3° 아민. C=O가 CH₂로.\n\n오답 분석:\n• [[smi:CCCCN]] — N–CH₃가 떨어진 1차 아민 — N에 붙은 기는 그대로\n• [[smi:CCCC(O)NC]] — 카비놀아민 중간체\n• [[smi:CCCCO]] — 에스터처럼 생각해 알코올이 됨"
+      "explanation": "정답: [[smi:CCCCNC]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 산소가 빠져 이민\n[[rxn:CCCC(=O)NC>>CCCC=NC|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) — C=N 환원(Al 생략)\n[[rxn:CCCC=NC>>CCCC[N-]C|1) LiAlH₄ (두 번째 H⁻)]]\n2) H₂O — 2차 아민\n[[rxn:CCCC[N-]C>>CCCCNC|2) H₂O]]\n\nPPT 32쪽: 1°·2°·3° 아마이드 → (LiAlH₄) 1°·2°·3° 아민. C=O가 CH₂로.\n\n오답 분석:\n• [[smi:CCCCN]] — N–CH₃가 떨어진 1차 아민 — N에 붙은 기는 그대로\n• [[smi:CCCC(O)NC]] — 카비놀아민 중간체\n• [[smi:CCCCO]] — 에스터처럼 생각해 알코올이 됨"
     },
     {
       "id": 8,

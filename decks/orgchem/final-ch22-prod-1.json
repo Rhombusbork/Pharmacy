@@ -193,7 +193,7 @@
         "[[smi:Nc1ccccc1]]"
       ],
       "answer": "[[smi:NC(=O)c1ccccc1]]",
-      "explanation": "정답: [[smi:NC(=O)c1ccccc1]]\nPPT 52~53쪽: RCOOH + NH₃ → 먼저 암모늄 카복실레이트(산–염기) → 100 °C 이상 가열로 탈수 → 아마이드(수율 낮을 수 있음).\n\n오답 분석:\n• [[smi:[NH4+].[O-]C(=O)c1ccccc1]] — 1단계 산–염기 반응의 암모늄염에서 멈춤 — 가열로 물이 빠진다\n• [[smi:N#Cc1ccccc1]] — 물이 하나 더 빠진 나이트릴\n• [[smi:Nc1ccccc1]] — 탄소가 빠진 아닐린"
+      "explanation": "정답: [[smi:NC(=O)c1ccccc1]]\n🔎 단계별 과정\n1) NH₃ — 산–염기 → 암모늄 벤조에이트  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:OC(=O)c1ccccc1>>[NH4+].[O-]C(=O)c1ccccc1|1) NH₃]]\n2) 가열 — 탈수(−H₂O) → 벤즈아마이드\n[[rxn:[NH4+].[O-]C(=O)c1ccccc1>>NC(=O)c1ccccc1|2) 가열]]\n\nPPT 52~53쪽: RCOOH + NH₃ → 먼저 암모늄 카복실레이트(산–염기) → 100 °C 이상 가열로 탈수 → 아마이드(수율 낮을 수 있음).\n\n오답 분석:\n• [[smi:[NH4+].[O-]C(=O)c1ccccc1]] — 1단계 산–염기 반응의 암모늄염에서 멈춤 — 가열로 물이 빠진다\n• [[smi:N#Cc1ccccc1]] — 물이 하나 더 빠진 나이트릴\n• [[smi:Nc1ccccc1]] — 탄소가 빠진 아닐린"
     },
     {
       "id": 17,

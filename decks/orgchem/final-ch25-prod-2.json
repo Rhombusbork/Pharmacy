@@ -25,7 +25,7 @@
         "[[smi:CC(=O)Nc1ccc(C)cc1]]"
       ],
       "answer": "[[smi:Cc1ccc(N)cc1]]",
-      "explanation": "정답: [[smi:Cc1ccc(N)cc1]]\nPPT 63~64쪽(그림 25.10): 아닐린은 N이 AlCl₃와 착물을 만들어 FC가 안 된다 → [1] 아세트아닐라이드로 보호(N 염기성↓) [2] FC 알킬화(o,p 혼합, para 주) [3] 가수분해 → p-톨루이딘(+ ortho).\n\n오답 분석:\n• [[smi:Cc1cccc(N)c1]] — meta — 아세트아마이도기는 o,p 지향\n• [[smi:CNc1ccccc1]] — N-메틸화 — 아마이드 N은 친핵성이 약하고, 알킬화는 고리에서\n• [[smi:CC(=O)Nc1ccc(C)cc1]] — 3단계(탈보호, 아마이드 가수분해)를 빠뜨림"
+      "explanation": "정답: [[smi:Cc1ccc(N)cc1]]\n🔎 단계별 과정\n1) CH₃COCl — 아세트아닐라이드(보호)\n[[rxn:Nc1ccccc1>>CC(=O)Nc1ccccc1|1) CH₃COCl]]\n2) CH₃Cl, AlCl₃ — Friedel–Crafts, para 주  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC(=O)Nc1ccccc1>>CC(=O)Nc1ccc(C)cc1|2) CH₃Cl, AlCl₃]]\n3) H₃O⁺ — 탈보호 → p-톨루이딘\n[[rxn:CC(=O)Nc1ccc(C)cc1>>Cc1ccc(N)cc1|3) H₃O⁺]]\n\nPPT 63~64쪽(그림 25.10): 아닐린은 N이 AlCl₃와 착물을 만들어 FC가 안 된다 → [1] 아세트아닐라이드로 보호(N 염기성↓) [2] FC 알킬화(o,p 혼합, para 주) [3] 가수분해 → p-톨루이딘(+ ortho).\n\n오답 분석:\n• [[smi:Cc1cccc(N)c1]] — meta — 아세트아마이도기는 o,p 지향\n• [[smi:CNc1ccccc1]] — N-메틸화 — 아마이드 N은 친핵성이 약하고, 알킬화는 고리에서\n• [[smi:CC(=O)Nc1ccc(C)cc1]] — 3단계(탈보호, 아마이드 가수분해)를 빠뜨림"
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
         "[[smi:CCCN(C)C]]"
       ],
       "answer": "[[smi:C=CC]]",
-      "explanation": "정답: [[smi:C=CC]]\nPPT 65~66쪽: [1] CH₃I 과량 → 4차 암모늄염(좋은 이탈기) [2] Ag₂O → I⁻를 ⁻OH로 교환 [3] 가열 → E2. α–β 탄소 사이에 새 π 결합, 부산물 N(CH₃)₃.\n\n오답 분석:\n• [[smi:CCC[N+](C)(C)C]] — 1단계 4차 암모늄염에서 멈춤\n• [[smi:CCCO]] — OH⁻의 SN2 치환 생성물 — 가열하면 E2\n• [[smi:CCCN(C)C]] — 메틸화가 덜 된 3차 아민 — CH₃I 과량"
+      "explanation": "정답: [[smi:C=CC]]\n🔎 단계별 과정\n1) CH₃I (과량) — 4차 암모늄염(I⁻ 생략)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCCN>>CCC[N+](C)(C)C|1) CH₃I (과량)]]\n2) Ag₂O — I⁻ → ⁻OH (AgI 침전)\n[[rxn:CCC[N+](C)(C)C>>CCC[N+](C)(C)C.[OH-]|2) Ag₂O]]\n3) 가열 — E2 → 프로펜 + N(CH₃)₃\n[[rxn:CCC[N+](C)(C)C.[OH-]>>C=CC|3) 가열]]\n\nPPT 65~66쪽: [1] CH₃I 과량 → 4차 암모늄염(좋은 이탈기) [2] Ag₂O → I⁻를 ⁻OH로 교환 [3] 가열 → E2. α–β 탄소 사이에 새 π 결합, 부산물 N(CH₃)₃.\n\n오답 분석:\n• [[smi:CCC[N+](C)(C)C]] — 1단계 4차 암모늄염에서 멈춤\n• [[smi:CCCO]] — OH⁻의 SN2 치환 생성물 — 가열하면 E2\n• [[smi:CCCN(C)C]] — 메틸화가 덜 된 3차 아민 — CH₃I 과량"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "[[smi:CN(C)CCc1ccccc1]]"
       ],
       "answer": "[[smi:C=Cc1ccccc1]]",
-      "explanation": "정답: [[smi:C=Cc1ccccc1]]\nPPT 67쪽: 2-페닐에틸아민 → 스타이렌.\n\n오답 분석:\n• [[smi:OCCc1ccccc1]] — 치환과 혼동\n• [[smi:CCc1ccccc1]] — 환원과 혼동\n• [[smi:CN(C)CCc1ccccc1]] — 메틸화가 덜 된 구조"
+      "explanation": "정답: [[smi:C=Cc1ccccc1]]\n🔎 단계별 과정\n1) CH₃I (과량) — 4차 암모늄염(I⁻ 생략)\n[[rxn:NCCc1ccccc1>>c1ccccc1CC[N+](C)(C)C|1) CH₃I (과량)]]\n2) Ag₂O — I⁻ → ⁻OH (AgI 침전)\n[[rxn:c1ccccc1CC[N+](C)(C)C>>c1ccccc1CC[N+](C)(C)C.[OH-]|2) Ag₂O]]\n3) 가열 — E2 → 스타이렌 + N(CH₃)₃\n[[rxn:c1ccccc1CC[N+](C)(C)C.[OH-]>>C=Cc1ccccc1|3) 가열]]\n\nPPT 67쪽: 2-페닐에틸아민 → 스타이렌.\n\n오답 분석:\n• [[smi:OCCc1ccccc1]] — 치환과 혼동\n• [[smi:CCc1ccccc1]] — 환원과 혼동\n• [[smi:CN(C)CCc1ccccc1]] — 메틸화가 덜 된 구조"
     },
     {
       "id": 6,
@@ -73,7 +73,7 @@
         "[[smi:CCC(C)[N+](C)(C)C]]"
       ],
       "answer": "[[smi:C=CCC]]",
-      "explanation": "정답: [[smi:C=CCC]]\nPPT 68~69쪽(그림 25.11): 이탈기 N(CH₃)₃가 커서 염기가 덜 막힌 β-H를 뗀다 → 덜 치환된 알켄(1-뷰텐). 보통 E2(할라이드)와 반대.\n\n오답 분석:\n• [[smi:C/C=C/C]] — Zaitsev 생성물(더 치환된 알켄) — Hofmann은 덜 치환된 알켄이 주생성물\n• [[smi:CCC(C)O]] — 치환과 혼동\n• [[smi:CCC(C)[N+](C)(C)C]] — 4차 암모늄염에서 멈춤"
+      "explanation": "정답: [[smi:C=CCC]]\n🔎 단계별 과정\n1) CH₃I (과량) — 4차 암모늄염(I⁻ 생략)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCC(C)N>>CCC(C)[N+](C)(C)C|1) CH₃I (과량)]]\n2) Ag₂O — I⁻ → ⁻OH (AgI 침전)\n[[rxn:CCC(C)[N+](C)(C)C>>CCC(C)[N+](C)(C)C.[OH-]|2) Ag₂O]]\n3) 가열 — 덜 막힌 β-H → 1-뷰텐(Hofmann)\n[[rxn:CCC(C)[N+](C)(C)C.[OH-]>>C=CCC|3) 가열]]\n\nPPT 68~69쪽(그림 25.11): 이탈기 N(CH₃)₃가 커서 염기가 덜 막힌 β-H를 뗀다 → 덜 치환된 알켄(1-뷰텐). 보통 E2(할라이드)와 반대.\n\n오답 분석:\n• [[smi:C/C=C/C]] — Zaitsev 생성물(더 치환된 알켄) — Hofmann은 덜 치환된 알켄이 주생성물\n• [[smi:CCC(C)O]] — 치환과 혼동\n• [[smi:CCC(C)[N+](C)(C)C]] — 4차 암모늄염에서 멈춤"
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
         "[[smi:CC1CCCCC1O]]"
       ],
       "answer": "[[smi:CC1CCCC=C1]]",
-      "explanation": "정답: [[smi:CC1CCCC=C1]]\n메틸 달린 쪽 β-H(3차)보다 반대쪽 CH₂의 β-H가 덜 막혀 있어 3-메틸사이클로헥센이 주생성물. (2025 족보 18번 '나'와 같은 원리)\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 더 치환된 1-메틸사이클로헥센(Zaitsev)\n• [[smi:C1=CCCCC1]] — 메틸이 빠진 사이클로헥센\n• [[smi:CC1CCCCC1O]] — 치환 생성물"
+      "explanation": "정답: [[smi:CC1CCCC=C1]]\n🔎 단계별 과정\n1) CH₃I (과량) — 4차 암모늄염(I⁻ 생략)\n[[rxn:CC1CCCCC1N>>CC1CCCCC1[N+](C)(C)C|1) CH₃I (과량)]]\n2) Ag₂O — I⁻ → ⁻OH (AgI 침전)\n[[rxn:CC1CCCCC1[N+](C)(C)C>>CC1CCCCC1[N+](C)(C)C.[OH-]|2) Ag₂O]]\n3) 가열 — 덜 막힌 CH₂ 쪽 β-H → 3-메틸사이클로헥센\n[[rxn:CC1CCCCC1[N+](C)(C)C.[OH-]>>CC1CCCC=C1|3) 가열]]\n\n메틸 달린 쪽 β-H(3차)보다 반대쪽 CH₂의 β-H가 덜 막혀 있어 3-메틸사이클로헥센이 주생성물. (2025 족보 18번 '나'와 같은 원리)\n\n오답 분석:\n• [[smi:CC1=CCCCC1]] — 더 치환된 1-메틸사이클로헥센(Zaitsev)\n• [[smi:C1=CCCCC1]] — 메틸이 빠진 사이클로헥센\n• [[smi:CC1CCCCC1O]] — 치환 생성물"
     },
     {
       "id": 8,
@@ -205,7 +205,7 @@
         "[[smi:Brc1ccc(Br)c(Br)c1]]"
       ],
       "answer": "[[smi:Brc1cc(Br)cc(Br)c1]]",
-      "explanation": "정답: [[smi:Brc1cc(Br)cc(Br)c1]]\nPPT 80~82쪽(그림 25.12): Br은 o,p 지향이라 벤젠에서 서로 meta인 Br 3개를 넣을 수 없다 → 강한 o,p 지향기 NH₂로 2,4,6-자리에 Br 3개 → 다이아조화 → H₃PO₂로 NH₂ 제거.\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — NH₂를 제거하는 단계(2·3단계) 전\n• [[smi:Oc1c(Br)cc(Br)cc1Br]] — 3단계에서 물(가열)을 썼을 때\n• [[smi:Brc1ccc(Br)c(Br)c1]] — o,p 지향기로 벤젠을 직접 브로민화했을 때 생길 배치"
+      "explanation": "정답: [[smi:Brc1cc(Br)cc(Br)c1]]\n🔎 단계별 과정\n1) Br₂, H₂O — NH₂의 o,p 자리 모두 브로민화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:Nc1ccccc1>>Nc1c(Br)cc(Br)cc1Br|1) Br₂, H₂O]]\n2) NaNO₂, HCl — 다이아조늄염\n[[rxn:Nc1c(Br)cc(Br)cc1Br>>Brc1cc(Br)c([N+]#N)c(Br)c1|2) NaNO₂, HCl]]\n3) H₃PO₂ — N₂ → H\n[[rxn:Brc1cc(Br)c([N+]#N)c(Br)c1>>Brc1cc(Br)cc(Br)c1|3) H₃PO₂]]\n\nPPT 80~82쪽(그림 25.12): Br은 o,p 지향이라 벤젠에서 서로 meta인 Br 3개를 넣을 수 없다 → 강한 o,p 지향기 NH₂로 2,4,6-자리에 Br 3개 → 다이아조화 → H₃PO₂로 NH₂ 제거.\n\n오답 분석:\n• [[smi:Nc1c(Br)cc(Br)cc1Br]] — NH₂를 제거하는 단계(2·3단계) 전\n• [[smi:Oc1c(Br)cc(Br)cc1Br]] — 3단계에서 물(가열)을 썼을 때\n• [[smi:Brc1ccc(Br)c(Br)c1]] — o,p 지향기로 벤젠을 직접 브로민화했을 때 생길 배치"
     },
     {
       "id": 18,
@@ -217,7 +217,7 @@
         "[[smi:Oc1ccccc1]]"
       ],
       "answer": "[[smi:N#Cc1ccccc1]]",
-      "explanation": "정답: [[smi:N#Cc1ccccc1]]\nPPT 83쪽: 나이트로화 → 환원 → 다이아조화 → 치환. 많은 치환 벤젠 합성에 쓰는 기본 경로(족보 m-클로로페놀 합성도 이 틀).\n\n오답 분석:\n• [[smi:Nc1ccccc1]] — 2단계(환원)에서 멈춘 아닐린\n• [[smi:NCc1ccccc1]] — 벤질아민 — CN이 환원되는 단계는 없다\n• [[smi:Oc1ccccc1]] — 4단계에서 물을 썼을 때"
+      "explanation": "정답: [[smi:N#Cc1ccccc1]]\n🔎 단계별 과정\n1) HNO₃, H₂SO₄ — 나이트로화\n[[rxn:c1ccccc1>>O=[N+]([O-])c1ccccc1|1) HNO₃, H₂SO₄]]\n2) H₂, Pd-C — 환원  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:O=[N+]([O-])c1ccccc1>>Nc1ccccc1|2) H₂, Pd-C]]\n3) NaNO₂, HCl — 다이아조화\n[[rxn:Nc1ccccc1>>[N+](#N)c1ccccc1|3) NaNO₂, HCl]]\n4) CuCN — 치환\n[[rxn:[N+](#N)c1ccccc1>>N#Cc1ccccc1|4) CuCN]]\n\nPPT 83쪽: 나이트로화 → 환원 → 다이아조화 → 치환. 많은 치환 벤젠 합성에 쓰는 기본 경로(족보 m-클로로페놀 합성도 이 틀).\n\n오답 분석:\n• [[smi:Nc1ccccc1]] — 2단계(환원)에서 멈춘 아닐린\n• [[smi:NCc1ccccc1]] — 벤질아민 — CN이 환원되는 단계는 없다\n• [[smi:Oc1ccccc1]] — 4단계에서 물을 썼을 때"
     },
     {
       "id": 19,

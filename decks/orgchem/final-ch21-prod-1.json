@@ -37,7 +37,7 @@
         "[[smi:CCCC/C=C/O]]"
       ],
       "answer": "[[smi:CCCCCC=O]]",
-      "explanation": "정답: [[smi:CCCCCC=O]]\nPPT 21쪽: 말단 알카인 + BH₃ → (anti-Markovnikov) → 엔올 → 알데하이드 RCH₂CHO.\n\n오답 분석:\n• [[smi:CCCCC(C)=O]] — H₂SO₄/HgSO₄ 수화(Markovnikov)의 결과\n• [[smi:CCCCCCO]] — 알코올 — 알카인에서는 엔올이 생겨 카보닐로 토토머화된다\n• [[smi:CCCC/C=C/O]] — 엔올 중간체에서 멈춤 — 엔올은 곧 알데하이드로 토토머화"
+      "explanation": "정답: [[smi:CCCCCC=O]]\n🔎 단계별 과정\n1) BH₃ — H–B syn 첨가, B는 말단 탄소 → 바이닐보레인\n[[rxn:CCCCC#C>>CCCC/C=C/B|1) BH₃]]\n2) H₂O₂, ⁻OH — B가 OH로 → 엔올  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCCC/C=C/B>>CCCC/C=C/O|2) H₂O₂, ⁻OH]]\n2) (토토머화) — 헥산알\n[[rxn:CCCC/C=C/O>>CCCCCC=O|2) (토토머화)]]\n\nPPT 21쪽: 말단 알카인 + BH₃ → (anti-Markovnikov) → 엔올 → 알데하이드 RCH₂CHO.\n\n오답 분석:\n• [[smi:CCCCC(C)=O]] — H₂SO₄/HgSO₄ 수화(Markovnikov)의 결과\n• [[smi:CCCCCCO]] — 알코올 — 알카인에서는 엔올이 생겨 카보닐로 토토머화된다\n• [[smi:CCCC/C=C/O]] — 엔올 중간체에서 멈춤 — 엔올은 곧 알데하이드로 토토머화"
     },
     {
       "id": 4,
@@ -61,7 +61,7 @@
         "[[smi:CC=O]] + [[smi:CCC(C)=O]]"
       ],
       "answer": "[[smi:CCC=O]] + [[smi:CC(C)=O]]",
-      "explanation": "정답: [[smi:CCC=O]] + [[smi:CC(C)=O]]\nPPT 23쪽: C=C가 끊어지고 각 탄소에 =O가 붙는다. H가 있는 쪽 → 알데하이드, 알킬 두 개 쪽 → 케톤.\n\n오답 분석:\n• [[smi:CCC(=O)O]] + [[smi:CC(C)=O]] — 산화성 후처리(H₂O₂)일 때의 결과 — Zn/H₂O·DMS는 알데하이드를 그대로 둔다\n• [[smi:CCC(O)C(C)(C)O]] — 다이올 — OsO₄/KMnO₄ 다이하이드록시화와 혼동(C=C가 끊어지지 않음)\n• [[smi:CC=O]] + [[smi:CCC(C)=O]] — C=C가 아닌 다른 결합이 끊어진 조각(탄소 배분 착오)"
+      "explanation": "정답: [[smi:CCC=O]] + [[smi:CC(C)=O]]\n🔎 단계별 과정\n1) O₃ — 오조나이드(1,2,4-트라이옥솔레인)\n[[rxn:CCC=C(C)C>>CCC1OC(C)(C)OO1|1) O₃]]\n2) Zn, H₂O — 환원성 후처리 → 프로판알 + 아세톤\n[[rxn:CCC1OC(C)(C)OO1>>CCC=O.CC(C)=O|2) Zn, H₂O]]\n\nPPT 23쪽: C=C가 끊어지고 각 탄소에 =O가 붙는다. H가 있는 쪽 → 알데하이드, 알킬 두 개 쪽 → 케톤.\n\n오답 분석:\n• [[smi:CCC(=O)O]] + [[smi:CC(C)=O]] — 산화성 후처리(H₂O₂)일 때의 결과 — Zn/H₂O·DMS는 알데하이드를 그대로 둔다\n• [[smi:CCC(O)C(C)(C)O]] — 다이올 — OsO₄/KMnO₄ 다이하이드록시화와 혼동(C=C가 끊어지지 않음)\n• [[smi:CC=O]] + [[smi:CCC(C)=O]] — C=C가 아닌 다른 결합이 끊어진 조각(탄소 배분 착오)"
     },
     {
       "id": 6,
@@ -121,7 +121,7 @@
         "[[smi:C=C[P+](c1ccccc1)(c1ccccc1)c1ccccc1]]"
       ],
       "answer": "[[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]",
-      "explanation": "정답: [[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]\nPPT 40~41쪽: Ph₃P: + RCH₂X(SN2, 메틸·1차 할라이드) → 포스포늄염 → BuLi(강염기) → 일라이드 Ph₃P=CHR (포스포레인).\n\n오답 분석:\n• [[smi:CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — 1단계(SN2) 포스포늄염에서 멈춤 — BuLi가 P⁺ 옆 C–H를 떼어 일라이드가 된다\n• [[smi:O=P(c1ccccc1)(c1ccccc1)c1ccccc1]] — Wittig 반응의 부산물(Ph₃P=O)과 혼동\n• [[smi:C=C[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — E2로 바이닐이 생긴다고 착각"
+      "explanation": "정답: [[smi:CC=P(c1ccccc1)(c1ccccc1)c1ccccc1]]\n🔎 단계별 과정\n1) CH₃CH₂Br — SN2 → 포스포늄염(Br⁻ 생략)  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:c1ccc(cc1)P(c1ccccc1)c1ccccc1>>CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1|1) CH₃CH₂Br]]\n2) BuLi — P⁺ 옆 C–H 탈양성자화 → 일라이드\n[[rxn:CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1>>CC=P(c1ccccc1)(c1ccccc1)c1ccccc1|2) BuLi]]\n\nPPT 40~41쪽: Ph₃P: + RCH₂X(SN2, 메틸·1차 할라이드) → 포스포늄염 → BuLi(강염기) → 일라이드 Ph₃P=CHR (포스포레인).\n\n오답 분석:\n• [[smi:CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — 1단계(SN2) 포스포늄염에서 멈춤 — BuLi가 P⁺ 옆 C–H를 떼어 일라이드가 된다\n• [[smi:O=P(c1ccccc1)(c1ccccc1)c1ccccc1]] — Wittig 반응의 부산물(Ph₃P=O)과 혼동\n• [[smi:C=C[P+](c1ccccc1)(c1ccccc1)c1ccccc1]] — E2로 바이닐이 생긴다고 착각"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "[[smi:CC1CCCCC1]]"
       ],
       "answer": "[[smi:CC1=CCCCC1]]",
-      "explanation": "정답: [[smi:CC1=CCCCC1]]\nPPT 47쪽: 그리냐르 + 탈수 → 1-메틸사이클로헥센(삼치환, 주) + 메틸렌사이클로헥세인(이치환, 소량)의 혼합물.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 소량 생성물(이치환 C=C) — 탈수는 더 치환된(Zaitsev) 알켄이 주생성물\n• [[smi:CC1(O)CCCCC1]] — 3단계 탈수 전 3차 알코올에서 멈춤\n• [[smi:CC1CCCCC1]] — 환원된 알케인 — H₂SO₄는 탈수 촉매"
+      "explanation": "정답: [[smi:CC1=CCCCC1]]\n🔎 단계별 과정\n1) CH₃MgBr — 알콕사이드\n[[rxn:O=C1CCCCC1>>CC1([O-])CCCCC1|1) CH₃MgBr]]\n2) H₂O — 3차 알코올  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC1([O-])CCCCC1>>CC1(O)CCCCC1|2) H₂O]]\n3) H₂SO₄ — 탈수(Zaitsev) — 주생성물\n[[rxn:CC1(O)CCCCC1>>CC1=CCCCC1|3) H₂SO₄]]\n\nPPT 47쪽: 그리냐르 + 탈수 → 1-메틸사이클로헥센(삼치환, 주) + 메틸렌사이클로헥세인(이치환, 소량)의 혼합물.\n\n오답 분석:\n• [[smi:C=C1CCCCC1]] — 소량 생성물(이치환 C=C) — 탈수는 더 치환된(Zaitsev) 알켄이 주생성물\n• [[smi:CC1(O)CCCCC1]] — 3단계 탈수 전 3차 알코올에서 멈춤\n• [[smi:CC1CCCCC1]] — 환원된 알케인 — H₂SO₄는 탈수 촉매"
     },
     {
       "id": 14,

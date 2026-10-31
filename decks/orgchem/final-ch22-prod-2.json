@@ -181,7 +181,7 @@
         "[[smi:CCCC(N)=O]]"
       ],
       "answer": "[[smi:CCCCN]]",
-      "explanation": "정답: [[smi:CCCCN]]\nPPT 84~85쪽: H⁻ 2당량이 차례로 첨가 → 다이음이온 → H₂O → 1차 아민 RCH₂NH₂.\n\n오답 분석:\n• [[smi:CCCC=O]] — DIBAL-H의 결과(알데하이드)\n• [[smi:CCCC=N]] — 이민 중간체 — LiAlH₄는 H⁻를 두 번 준다\n• [[smi:CCCC(N)=O]] — 가수분해와 혼동"
+      "explanation": "정답: [[smi:CCCCN]]\n🔎 단계별 과정\n1) LiAlH₄ (첫 H⁻) — 이민 음이온(Al 생략)\n[[rxn:CCCC#N>>CCCC=[N-]|1) LiAlH₄ (첫 H⁻)]]\n1) LiAlH₄ (두 번째 H⁻) 2) H₂O — 다이음이온 → 양성자화 → 1차 아민\n[[rxn:CCCC=[N-]>>CCCCN|1) LiAlH₄ (두 번째 H⁻) 2) H₂O]]\n\nPPT 84~85쪽: H⁻ 2당량이 차례로 첨가 → 다이음이온 → H₂O → 1차 아민 RCH₂NH₂.\n\n오답 분석:\n• [[smi:CCCC=O]] — DIBAL-H의 결과(알데하이드)\n• [[smi:CCCC=N]] — 이민 중간체 — LiAlH₄는 H⁻를 두 번 준다\n• [[smi:CCCC(N)=O]] — 가수분해와 혼동"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "[[smi:NC(=O)c1ccccc1]]"
       ],
       "answer": "[[smi:O=Cc1ccccc1]]",
-      "explanation": "정답: [[smi:O=Cc1ccccc1]]\nPPT 84·86쪽: H⁻ 1당량 → 음이온 → H₂O로 이민 → 이민 가수분해 → 알데하이드.\n\n오답 분석:\n• [[smi:NCc1ccccc1]] — LiAlH₄의 결과\n• [[smi:N=Cc1ccccc1]] — 이민 단계에서 멈춤 — 물에서 가수분해되어 알데하이드\n• [[smi:NC(=O)c1ccccc1]] — 가수분해(아마이드)와 혼동"
+      "explanation": "정답: [[smi:O=Cc1ccccc1]]\n🔎 단계별 과정\n1) DIBAL-H — H⁻ 한 번 → 이민 음이온(Al 생략)\n[[rxn:N#Cc1ccccc1>>[N-]=Cc1ccccc1|1) DIBAL-H]]\n2) H₂O (양성자화) — 이민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:[N-]=Cc1ccccc1>>N=Cc1ccccc1|2) H₂O (양성자화)]]\n2) H₂O (가수분해) — 알데하이드\n[[rxn:N=Cc1ccccc1>>O=Cc1ccccc1|2) H₂O (가수분해)]]\n\nPPT 84·86쪽: H⁻ 1당량 → 음이온 → H₂O로 이민 → 이민 가수분해 → 알데하이드.\n\n오답 분석:\n• [[smi:NCc1ccccc1]] — LiAlH₄의 결과\n• [[smi:N=Cc1ccccc1]] — 이민 단계에서 멈춤 — 물에서 가수분해되어 알데하이드\n• [[smi:NC(=O)c1ccccc1]] — 가수분해(아마이드)와 혼동"
     },
     {
       "id": 17,
@@ -205,7 +205,7 @@
         "[[smi:CCC(O)(CC)c1ccccc1]]"
       ],
       "answer": "[[smi:CCC(=O)c1ccccc1]]",
-      "explanation": "정답: [[smi:CCC(=O)c1ccccc1]]\nPPT 87~88쪽: RMgX·RLi가 C≡N 탄소에 첨가 → 음이온 → H₂O → 이민 → 가수분해 → 새 C–C 결합을 가진 케톤.\n\n오답 분석:\n• [[smi:CCC(=N)c1ccccc1]] — 이민 단계에서 멈춤 — 물이 C=N을 C=O로 가수분해\n• [[smi:CCC(N)c1ccccc1]] — 아민 — 환원 반응이 아니다\n• [[smi:CCC(O)(CC)c1ccccc1]] — 두 번 첨가된 3차 알코올(에스터일 때) — 나이트릴은 음이온 중간체가 더 반응하지 않아 한 번만"
+      "explanation": "정답: [[smi:CCC(=O)c1ccccc1]]\n🔎 단계별 과정\n1) CH₃CH₂MgBr — C≡N 첨가 → 이민 음이온(MgBr⁺ 생략)\n[[rxn:N#Cc1ccccc1>>CCC(=[N-])c1ccccc1|1) CH₃CH₂MgBr]]\n2) H₂O (양성자화) — 이민  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CCC(=[N-])c1ccccc1>>CCC(=N)c1ccccc1|2) H₂O (양성자화)]]\n2) H₂O (가수분해) — 케톤\n[[rxn:CCC(=N)c1ccccc1>>CCC(=O)c1ccccc1|2) H₂O (가수분해)]]\n\nPPT 87~88쪽: RMgX·RLi가 C≡N 탄소에 첨가 → 음이온 → H₂O → 이민 → 가수분해 → 새 C–C 결합을 가진 케톤.\n\n오답 분석:\n• [[smi:CCC(=N)c1ccccc1]] — 이민 단계에서 멈춤 — 물이 C=N을 C=O로 가수분해\n• [[smi:CCC(N)c1ccccc1]] — 아민 — 환원 반응이 아니다\n• [[smi:CCC(O)(CC)c1ccccc1]] — 두 번 첨가된 3차 알코올(에스터일 때) — 나이트릴은 음이온 중간체가 더 반응하지 않아 한 번만"
     }
   ]
 }

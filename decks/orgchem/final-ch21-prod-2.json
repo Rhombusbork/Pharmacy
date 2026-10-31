@@ -145,7 +145,7 @@
         "[[smi:CC1(CCCCO)OCCO1]]"
       ],
       "answer": "[[smi:CC(=O)CCCCO]]",
-      "explanation": "정답: [[smi:CC(=O)CCCCO]]\nPPT 69~70쪽: 케토 에스터 A의 에스터만 환원하려면 ① 케톤을 고리형 아세탈로 보호 ② LiAlH₄로 에스터 환원 ③ H₂O, H⁺로 탈보호 → 6-하이드록시-2-헥산온.\n\n오답 분석:\n• [[smi:CC(O)CCCC(=O)OC]] — 보호하지 않았을 때 실제로 일어나는 반응(더 반응성 큰 케톤이 환원)\n• [[smi:CC(O)CCCCO]] — 둘 다 환원 — 아세탈은 LiAlH₄에 안정\n• [[smi:CC1(CCCCO)OCCO1]] — 탈보호(4단계 산 수용액) 전에서 멈춤"
+      "explanation": "정답: [[smi:CC(=O)CCCCO]]\n🔎 단계별 과정\n1) HOCH₂CH₂OH, TsOH — 케톤만 아세탈로 보호\n[[rxn:CC(=O)CCCC(=O)OC>>CC1(CCCC(=O)OC)OCCO1|1) HOCH₂CH₂OH, TsOH]]\n2) LiAlH₄ — 에스터 → 알콕사이드\n[[rxn:CC1(CCCC(=O)OC)OCCO1>>CC1(CCCC[O-])OCCO1|2) LiAlH₄]]\n3) H₂O — 양성자화  ← 오답 보기와 같은 구조(여기서 멈춘 것)\n[[rxn:CC1(CCCC[O-])OCCO1>>CC1(CCCCO)OCCO1|3) H₂O]]\n4) H₂O, H⁺ — 탈보호 → 6-하이드록시-2-헥산온\n[[rxn:CC1(CCCCO)OCCO1>>CC(=O)CCCCO|4) H₂O, H⁺]]\n\nPPT 69~70쪽: 케토 에스터 A의 에스터만 환원하려면 ① 케톤을 고리형 아세탈로 보호 ② LiAlH₄로 에스터 환원 ③ H₂O, H⁺로 탈보호 → 6-하이드록시-2-헥산온.\n\n오답 분석:\n• [[smi:CC(O)CCCC(=O)OC]] — 보호하지 않았을 때 실제로 일어나는 반응(더 반응성 큰 케톤이 환원)\n• [[smi:CC(O)CCCCO]] — 둘 다 환원 — 아세탈은 LiAlH₄에 안정\n• [[smi:CC1(CCCCO)OCCO1]] — 탈보호(4단계 산 수용액) 전에서 멈춤"
     },
     {
       "id": 13,

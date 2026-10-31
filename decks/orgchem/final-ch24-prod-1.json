@@ -97,7 +97,7 @@
         "[[smi:C=C1CCCCC1O]]"
       ],
       "answer": "[[smi:CCC1CCCCC1=O]]",
-      "explanation": "정답: [[smi:CCC1CCCCC1=O]]\nPPT 20쪽(그림 24.3): 알돌 → 탈수로 얻은 α,β-불포화 카보닐은 NaBH₄(알릴 알코올), H₂(케톤), RMgX(1,2), R₂CuLi(1,4)로 다양하게 변환된다. 여기서는 1,4-첨가 → 2-에틸사이클로헥산온.\n\n오답 분석:\n• [[smi:C=C1CCCCC1(C)O]] — 1,2-첨가 — 그리냐르(RMgX)를 썼을 때\n• [[smi:CC1CCCCC1=O]] — 환원(H₂, Pd-C 1당량)과 혼동\n• [[smi:C=C1CCCCC1O]] — NaBH₄ 환원과 혼동(알릴 알코올)"
+      "explanation": "정답: [[smi:CCC1CCCCC1=O]]\n🔎 단계별 과정\n1) (CH₃)₂CuLi — β탄소(=CH₂)에 1,4-첨가 → 엔올 음이온\n[[rxn:C=C1CCCCC1=O>>CCC1=C([O-])CCCC1|1) (CH₃)₂CuLi]]\n2) H₂O — 양성자화 → 2-에틸사이클로헥산온\n[[rxn:CCC1=C([O-])CCCC1>>CCC1CCCCC1=O|2) H₂O]]\n\nPPT 20쪽(그림 24.3): 알돌 → 탈수로 얻은 α,β-불포화 카보닐은 NaBH₄(알릴 알코올), H₂(케톤), RMgX(1,2), R₂CuLi(1,4)로 다양하게 변환된다. 여기서는 1,4-첨가 → 2-에틸사이클로헥산온.\n\n오답 분석:\n• [[smi:C=C1CCCCC1(C)O]] — 1,2-첨가 — 그리냐르(RMgX)를 썼을 때\n• [[smi:CC1CCCCC1=O]] — 환원(H₂, Pd-C 1당량)과 혼동\n• [[smi:C=C1CCCCC1O]] — NaBH₄ 환원과 혼동(알릴 알코올)"
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
         "[[smi:CC(C)(O)C1CCCCC1=O]]"
       ],
       "answer": "[[smi:CC(O)C1CCCC(C)C1=O]]",
-      "explanation": "정답: [[smi:CC(O)C1CCCC(C)C1=O]]\nPPT 21쪽: 방향성 알돌 = ① LDA로 한쪽의 엔올 음이온을 먼저 완전히 만든다 ② 다른 카보닐(친전자체)을 넣는다. 두 화합물 모두 α-H가 있어도 생성물 하나.\n\n오답 분석:\n• [[smi:CC(O)C1(C)CCCCC1=O]] — 더 치환된 자리(열역학적 엔올 음이온)에서 반응 — LDA는 덜 치환된 속도론적 엔올 음이온\n• [[smi:CC(O)CC=O]] — 아세트알데하이드 자기 알돌 — LDA로 케톤 엔올 음이온을 먼저 다 만든 뒤 넣으므로 일어나지 않음\n• [[smi:CC(C)(O)C1CCCCC1=O]] — 엔올 음이온·받개 역할 착오"
+      "explanation": "정답: [[smi:CC(O)C1CCCC(C)C1=O]]\n🔎 단계별 과정\n1) LDA, THF, −78 °C — 속도론적 엔올 음이온\n[[rxn:CC1CCCCC1=O>>[O-]C1=CCCCC1C|1) LDA, THF, −78 °C]]\n2) CH₃CHO — 알데하이드 공격 → 알콕사이드\n[[rxn:[O-]C1=CCCCC1C>>CC([O-])C1CCCC(C)C1=O|2) CH₃CHO]]\n3) H₂O — β-하이드록시 케톤\n[[rxn:CC([O-])C1CCCC(C)C1=O>>CC(O)C1CCCC(C)C1=O|3) H₂O]]\n\nPPT 21쪽: 방향성 알돌 = ① LDA로 한쪽의 엔올 음이온을 먼저 완전히 만든다 ② 다른 카보닐(친전자체)을 넣는다. 두 화합물 모두 α-H가 있어도 생성물 하나.\n\n오답 분석:\n• [[smi:CC(O)C1(C)CCCCC1=O]] — 더 치환된 자리(열역학적 엔올 음이온)에서 반응 — LDA는 덜 치환된 속도론적 엔올 음이온\n• [[smi:CC(O)CC=O]] — 아세트알데하이드 자기 알돌 — LDA로 케톤 엔올 음이온을 먼저 다 만든 뒤 넣으므로 일어나지 않음\n• [[smi:CC(C)(O)C1CCCCC1=O]] — 엔올 음이온·받개 역할 착오"
     },
     {
       "id": 10,
@@ -145,7 +145,7 @@
         "[[smi:CCC(=O)O]]"
       ],
       "answer": "[[smi:CCC(=O)C(C)C(=O)OCC]]",
-      "explanation": "정답: [[smi:CCC(=O)C(C)C(=O)OCC]]\nPPT 28~30쪽: 에스터 2분자 + 알콕사이드 → β-케토 에스터(2-메틸-3-옥소펜탄산 에틸). 알돌(첨가)과 달리 친핵성 아실 '치환'. 생성물의 산성 H를 떼느라 염기 1당량이 필요하고 마지막에 산 처리.\n\n오답 분석:\n• [[smi:CCC(=O)CC(=O)OCC]] — 말단 탄소가 결합한 구조 — 결합은 α탄소(메틸 달린 탄소)\n• [[smi:CCC(O)(OCC)C(C)C(=O)OCC]] — 사면체 중간체에서 멈춤 — ⁻OEt가 이탈(치환)\n• [[smi:CCC(=O)O]] — 비누화와 혼동"
+      "explanation": "정답: [[smi:CCC(=O)C(C)C(=O)OCC]]\n🔎 단계별 과정\n1) NaOEt (엔올 음이온) — 에스터 엔올 음이온\n[[rxn:CCC(=O)OCC>>CC=C([O-])OCC|1) NaOEt (엔올 음이온)]]\n1) NaOEt (첨가–제거) — 다른 에스터 공격 → ⁻OEt 이탈 → β-케토 에스터\n[[rxn:CC=C([O-])OCC>>CCC(=O)C(C)C(=O)OCC|1) NaOEt (첨가–제거)]]\n1) NaOEt (탈양성자화) — 산성 H를 떼어 평형을 생성물 쪽으로(구동력)\n[[rxn:CCC(=O)C(C)C(=O)OCC>>CCC(=O)[C-](C)C(=O)OCC|1) NaOEt (탈양성자화)]]\n2) H₃O⁺ — 중화\n[[rxn:CCC(=O)[C-](C)C(=O)OCC>>CCC(=O)C(C)C(=O)OCC|2) H₃O⁺]]\n\nPPT 28~30쪽: 에스터 2분자 + 알콕사이드 → β-케토 에스터(2-메틸-3-옥소펜탄산 에틸). 알돌(첨가)과 달리 친핵성 아실 '치환'. 생성물의 산성 H를 떼느라 염기 1당량이 필요하고 마지막에 산 처리.\n\n오답 분석:\n• [[smi:CCC(=O)CC(=O)OCC]] — 말단 탄소가 결합한 구조 — 결합은 α탄소(메틸 달린 탄소)\n• [[smi:CCC(O)(OCC)C(C)C(=O)OCC]] — 사면체 중간체에서 멈춤 — ⁻OEt가 이탈(치환)\n• [[smi:CCC(=O)O]] — 비누화와 혼동"
     },
     {
       "id": 13,
@@ -157,7 +157,7 @@
         "[[smi:O=C(CC(=O)c1ccccc1)c1ccccc1]]"
       ],
       "answer": "[[smi:CCOC(=O)CC(=O)c1ccccc1]]",
-      "explanation": "정답: [[smi:CCOC(=O)CC(=O)c1ccccc1]]\nPPT 31쪽 [1]: α-H가 한쪽 에스터에만 있으면 생성물 하나 → 벤조일아세트산 에틸(β-케토 에스터).\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen(아세토아세트산 에틸)\n• [[smi:CCOC(=O)C(C(=O)c1ccccc1)C(=O)c1ccccc1]] — 두 번 아실화\n• [[smi:O=C(CC(=O)c1ccccc1)c1ccccc1]] — 벤조산 에틸이 엔올 음이온이 된 구조 — α-H가 없어 받개만 가능"
+      "explanation": "정답: [[smi:CCOC(=O)CC(=O)c1ccccc1]]\n🔎 단계별 과정\n1) CH₃COOEt, NaOEt — 아세트산 에틸의 엔올 음이온\n[[rxn:CCOC(=O)c1ccccc1>>C=C([O-])OCC|1) CH₃COOEt, NaOEt]]\n1) (첨가–제거·탈양성자화) — 벤조산 에틸 공격, ⁻OEt 이탈, 산성 H 탈양성자화\n[[rxn:C=C([O-])OCC>>CCOC(=O)[CH-]C(=O)c1ccccc1|1) (첨가–제거·탈양성자화)]]\n2) H₃O⁺ — 벤조일아세트산 에틸\n[[rxn:CCOC(=O)[CH-]C(=O)c1ccccc1>>CCOC(=O)CC(=O)c1ccccc1|2) H₃O⁺]]\n\nPPT 31쪽 [1]: α-H가 한쪽 에스터에만 있으면 생성물 하나 → 벤조일아세트산 에틸(β-케토 에스터).\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen(아세토아세트산 에틸)\n• [[smi:CCOC(=O)C(C(=O)c1ccccc1)C(=O)c1ccccc1]] — 두 번 아실화\n• [[smi:O=C(CC(=O)c1ccccc1)c1ccccc1]] — 벤조산 에틸이 엔올 음이온이 된 구조 — α-H가 없어 받개만 가능"
     },
     {
       "id": 14,
@@ -169,7 +169,7 @@
         "[[smi:OC1(c2ccccc2)CCCCC1]]"
       ],
       "answer": "[[smi:O=C(C1CCCCC1=O)c1ccccc1]]",
-      "explanation": "정답: [[smi:O=C(C1CCCCC1=O)c1ccccc1]]\nPPT 32쪽 [2]: 케톤과 에스터 → 엔올 음이온은 항상 케톤(더 산성)에서, 에스터는 α-H가 없을 때 가장 좋다 → β-다이카보닐(β-다이케톤).\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCCC1=O]] — 에스터 쪽이 들어간 β-케토 에스터 — 이탈하는 것은 ⁻OEt, 남는 아실기는 벤조일\n• [[smi:O=C1CCCCC1C(O)c1ccccc1]] — 알돌형 첨가 생성물 — 에스터 받개는 치환(⁻OEt 이탈)\n• [[smi:OC1(c2ccccc2)CCCCC1]] — C=O에 페닐이 첨가된 구조(그리냐르와 혼동)"
+      "explanation": "정답: [[smi:O=C(C1CCCCC1=O)c1ccccc1]]\n🔎 단계별 과정\n1) PhCOOEt, NaOEt — 케톤 엔올 음이온(더 산성)\n[[rxn:O=C1CCCCC1>>[O-]C1=CCCCC1|1) PhCOOEt, NaOEt]]\n1) (첨가–제거·탈양성자화) — 에스터 공격, ⁻OEt 이탈, β-다이케톤 탈양성자화\n[[rxn:[O-]C1=CCCCC1>>O=C([C-]1CCCCC1=O)c1ccccc1|1) (첨가–제거·탈양성자화)]]\n2) H₃O⁺ — 2-벤조일사이클로헥산온\n[[rxn:O=C([C-]1CCCCC1=O)c1ccccc1>>O=C(C1CCCCC1=O)c1ccccc1|2) H₃O⁺]]\n\nPPT 32쪽 [2]: 케톤과 에스터 → 엔올 음이온은 항상 케톤(더 산성)에서, 에스터는 α-H가 없을 때 가장 좋다 → β-다이카보닐(β-다이케톤).\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCCC1=O]] — 에스터 쪽이 들어간 β-케토 에스터 — 이탈하는 것은 ⁻OEt, 남는 아실기는 벤조일\n• [[smi:O=C1CCCCC1C(O)c1ccccc1]] — 알돌형 첨가 생성물 — 에스터 받개는 치환(⁻OEt 이탈)\n• [[smi:OC1(c2ccccc2)CCCCC1]] — C=O에 페닐이 첨가된 구조(그리냐르와 혼동)"
     },
     {
       "id": 15,
@@ -181,7 +181,7 @@
         "[[smi:O=C1CCCCC1Cl]]"
       ],
       "answer": "[[smi:CCOC(=O)C1CCCCC1=O]]",
-      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\nPPT 33~34쪽 [2]: 엔올 음이온 + 클로로폼산 에틸 → Cl⁻ 이탈 → β-케토 에스터(2-옥소사이클로헥세인카복실산 에틸). 아세토아세트산 에스터 합성의 출발물로 유용.\n\n오답 분석:\n• [[smi:O=C(Cl)C1CCCCC1=O]] — Cl이 남은 산 염화물 — Cl⁻가 ⁻OEt보다 좋은 이탈기라 Cl이 빠진다\n• [[smi:CCOC(=O)OC1=CCCCC1]] — 산소 쪽 아실화(엔올 카보네이트)\n• [[smi:O=C1CCCCC1Cl]] — α-염소화와 혼동"
+      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:O=C1CCCCC1>>[O-]C1=CCCCC1|1) NaOEt]]\n2) ClCOOEt — 첨가 → Cl⁻ 이탈 → β-케토 에스터\n[[rxn:[O-]C1=CCCCC1>>CCOC(=O)C1CCCCC1=O|2) ClCOOEt]]\n\nPPT 33~34쪽 [2]: 엔올 음이온 + 클로로폼산 에틸 → Cl⁻ 이탈 → β-케토 에스터(2-옥소사이클로헥세인카복실산 에틸). 아세토아세트산 에스터 합성의 출발물로 유용.\n\n오답 분석:\n• [[smi:O=C(Cl)C1CCCCC1=O]] — Cl이 남은 산 염화물 — Cl⁻가 ⁻OEt보다 좋은 이탈기라 Cl이 빠진다\n• [[smi:CCOC(=O)OC1=CCCCC1]] — 산소 쪽 아실화(엔올 카보네이트)\n• [[smi:O=C1CCCCC1Cl]] — α-염소화와 혼동"
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "[[smi:CCOC(=O)OCC]]"
       ],
       "answer": "[[smi:CCOC(=O)CC(=O)OCC]]",
-      "explanation": "정답: [[smi:CCOC(=O)CC(=O)OCC]]\nPPT 33쪽 [1]: 아세트산 에틸 엔올 음이온 + 탄산 다이에틸 → ⁻OEt 이탈 → 다이에틸 말로네이트.\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen\n• [[smi:CCOC(=O)C(C(=O)OCC)C(=O)OCC]] — 두 번 아실화\n• [[smi:CCOC(=O)OCC]] — 출발물(탄산 다이에틸)"
+      "explanation": "정답: [[smi:CCOC(=O)CC(=O)OCC]]\n🔎 단계별 과정\n1) NaOEt — 엔올 음이온\n[[rxn:CCOC(C)=O>>C=C([O-])OCC|1) NaOEt]]\n2) (EtO)₂C=O — 첨가 → ⁻OEt 이탈 → 말론산 다이에틸\n[[rxn:C=C([O-])OCC>>CCOC(=O)CC(=O)OCC|2) (EtO)₂C=O]]\n\nPPT 33쪽 [1]: 아세트산 에틸 엔올 음이온 + 탄산 다이에틸 → ⁻OEt 이탈 → 다이에틸 말로네이트.\n\n오답 분석:\n• [[smi:CCOC(=O)CC(C)=O]] — 아세트산 에틸 자기 Claisen\n• [[smi:CCOC(=O)C(C(=O)OCC)C(=O)OCC]] — 두 번 아실화\n• [[smi:CCOC(=O)OCC]] — 출발물(탄산 다이에틸)"
     },
     {
       "id": 17,
@@ -205,7 +205,7 @@
         "[[smi:CCOC(=O)CCCCCC(=O)O]]"
       ],
       "answer": "[[smi:CCOC(=O)C1CCCCC1=O]]",
-      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\nPPT 35~36쪽: 분자 내 Claisen = Dieckmann. 1,6-다이에스터 → 5원, 1,7-다이에스터(헵테인다이오산 다이에틸) → 6원 고리 β-케토 에스터.\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCC1=O]] — 5원 고리 — 1,6-다이에스터일 때\n• [[smi:O=C1CCCCC1]] — 탈카복실화까지 간 구조 — H₃O⁺ 처리만 하고 가열(가수분해·탈카복실화)은 안 함\n• [[smi:CCOC(=O)CCCCCC(=O)O]] — 가수분해와 혼동"
+      "explanation": "정답: [[smi:CCOC(=O)C1CCCCC1=O]]\n🔎 단계별 과정\n1) NaOEt (엔올 음이온) — 한쪽 에스터 α탄소 탈양성자화\n[[rxn:CCOC(=O)CCCCCC(=O)OCC>>CCOC(=O)CCCCC=C([O-])OCC|1) NaOEt (엔올 음이온)]]\n1) (분자 내 첨가–제거) — 다른 에스터 공격, ⁻OEt 이탈, 생성물 탈양성자화\n[[rxn:CCOC(=O)CCCCC=C([O-])OCC>>CCOC(=O)[C-]1CCCCC1=O|1) (분자 내 첨가–제거)]]\n2) H₃O⁺ — 6원 고리 β-케토 에스터\n[[rxn:CCOC(=O)[C-]1CCCCC1=O>>CCOC(=O)C1CCCCC1=O|2) H₃O⁺]]\n\nPPT 35~36쪽: 분자 내 Claisen = Dieckmann. 1,6-다이에스터 → 5원, 1,7-다이에스터(헵테인다이오산 다이에틸) → 6원 고리 β-케토 에스터.\n\n오답 분석:\n• [[smi:CCOC(=O)C1CCCC1=O]] — 5원 고리 — 1,6-다이에스터일 때\n• [[smi:O=C1CCCCC1]] — 탈카복실화까지 간 구조 — H₃O⁺ 처리만 하고 가열(가수분해·탈카복실화)은 안 함\n• [[smi:CCOC(=O)CCCCCC(=O)O]] — 가수분해와 혼동"
     },
     {
       "id": 18,

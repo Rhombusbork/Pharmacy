@@ -157,7 +157,7 @@
         "[[smi:C=CC(C)=CCC]]"
       ],
       "answer": "[[smi:C=CCCCC(C)=O]]",
-      "explanation": "정답: [[smi:C=CCCCC(C)=O]]\nPPT 38쪽: 강염기(KH)로 알콕사이드 → 아주 온화한 조건에서 [3,3] → 공명 안정화된 엔올레이트 → 양성자화 → 카보닐(6-헵텐-2-온). 높은 수율.\n\n오답 분석:\n• [[smi:CC(=CCC=C)O]] — 엔올·엔올레이트에서 멈춤\n• [[smi:C=CC(C)(OC)CC=C]] — 알콕사이드가 알킬화된 에터 — KH는 OH의 H를 떼는 염기\n• [[smi:C=CC(C)=CCC]] — 탈수와 혼동"
+      "explanation": "정답: [[smi:C=CCCCC(C)=O]]\n🔎 단계별 과정\n1) KH — 알콕사이드(K⁺ 생략)\n[[rxn:C=CC(C)(O)CC=C>>C=CC(C)([O-])CC=C|1) KH]]\n1) ([3,3], 실온) — 음이온 oxy-Cope → 엔올레이트\n[[rxn:C=CC(C)([O-])CC=C>>C=CCCC=C(C)[O-]|1) ([3,3], 실온)]]\n2) H₂O — 양성자화 → 6-헵텐-2-온\n[[rxn:C=CCCC=C(C)[O-]>>C=CCCCC(C)=O|2) H₂O]]\n\nPPT 38쪽: 강염기(KH)로 알콕사이드 → 아주 온화한 조건에서 [3,3] → 공명 안정화된 엔올레이트 → 양성자화 → 카보닐(6-헵텐-2-온). 높은 수율.\n\n오답 분석:\n• [[smi:CC(=CCC=C)O]] — 엔올·엔올레이트에서 멈춤\n• [[smi:C=CC(C)(OC)CC=C]] — 알콕사이드가 알킬화된 에터 — KH는 OH의 H를 떼는 염기\n• [[smi:C=CC(C)=CCC]] — 탈수와 혼동"
     },
     {
       "id": 14,
