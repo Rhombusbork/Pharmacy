@@ -1,0 +1,345 @@
+{
+  "deckId": "biochem-final-ex-mcq-2021-2023",
+  "subject": "생화학",
+  "title": "기말 족보 ① 객관식 (2021-1·2022-1·2023-1)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-1 기말 1번 · 2022-1·2021-1 동일] 다음 중 nucleotide에 대한 설명 중 틀린 것을 모두 고르시오.\n① nucleotide는 nitrogenous base, pentose, phosphate로 구성되어 있다.\n② nitrogenous base는 거의 평면 구조이다.\n③ pentose ring은 260 nm에서 흡광하는 성질이 있어 DNA 정량 시 사용된다.\n④ pentose의 C1′ 위치에서 nitrogenous base와 β-N-glycosidic bond를 이루고 있다.\n⑤ C3 위치에 OH기가 있으면 ribonucleotide에 속한다.",
+      "choices": [
+        "③, ⑤",
+        "③",
+        "⑤",
+        "①, ③",
+        "③, ④, ⑤"
+      ],
+      "answer": "③, ⑤",
+      "explanation": "정답: ③, ⑤\n① (O) 염기 + 오탄당 + 인산\n② (O) 퓨린·피리미딘은 콘쥬게이션 고리라 거의 평면\n③ (X) 260 nm 흡광은 염기의 콘쥬게이션 고리 때문(오탄당은 흡광 ✗)\n④ (O) 오탄당 C1′ — 피리미딘 N-1, 퓨린 N-9와 β-N-글리코사이드 결합\n⑤ (X) 리보/디옥시리보 구분은 C2′-OH 유무. C3′-OH는 둘 다 있음\n📌 2021-1은 '뉴클레오사이드' 문제로 같은 내용(260 nm는 어떤 구조 때문인가, 디옥시리보스/리보스 차이)."
+    },
+    {
+      "id": 2,
+      "question": "[2023-1 기말 2번] DNA에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "① 1953년 왓슨과 크릭이 제안한 구조는 B-form이다.",
+        "② Z-form은 왼손 감김이다.",
+        "③ 지름의 크기는 A-form > B-form > Z-form이다.",
+        "④ A-form이 세포에 존재하는지는 아직 불확실하다.",
+        "⑤ A-form의 glycosyl bond는 syn-conformer이다."
+      ],
+      "answer": "⑤ A-form의 glycosyl bond는 syn-conformer이다.",
+      "explanation": "정답: ⑤\nA·B형의 염기는 모두 anti 형태. syn은 Z형의 퓨린(구아닌)에서 나타난다(Z형: 피리미딘 anti, 퓨린 syn 교대).\n① (O) Watson–Crick = B형\n② (O) Z형 = 왼손 나선, 지그재그 골격\n③ (O) 지름 A 26 Å > B 20 Å > Z 18 Å\n④ (O) 레닌저: 'A형이 세포 안에 있는지는 불확실, Z형은 짧은 구간이 세균·진핵생물에 있다는 증거가 있음'"
+    },
+    {
+      "id": 3,
+      "question": "[2022-1 기말 2번(변형)] DNA form에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "① 1953년 왓슨과 크릭이 제안한 DNA 구조는 B-form이다.",
+        "② Z-form은 왼손 감김이다.",
+        "③ 지름의 크기는 A-form > B-form > Z-form이다.",
+        "④ Z-form이 세포에 존재하는지는 아직 불확실하다.",
+        "⑤ A-form의 glycosyl bond는 anti-conformer이다."
+      ],
+      "answer": "④ Z-form이 세포에 존재하는지는 아직 불확실하다.",
+      "explanation": "정답: ④\n2023-1과 ④·⑤만 바뀐 문항. 세포 내 존재가 불확실한 것은 A형이고, Z형은 짧은 구간이 세균·진핵생물에 존재한다는 증거가 있다.\n⑤ (O) A형도 anti.\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 4,
+      "question": "[2023-1 기말 3번 · 2022-1·2021-1 동일] 역사적 사건에 관한 설명 중 옳은 것은?",
+      "choices": [
+        "① 1952년 Oswald Avery는 DNA가 생명정보물질임을 폐렴구균 실험을 통해 확인하였다.",
+        "② 1957년 Francis Crick은 염기 세 개가 하나의 코돈을 이루어 20개의 아미노산을 암호화하고 DNA가 RNA를 거쳐 단백질로 전사된다는 central dogma를 강론하였다.",
+        "③ 1961년 Marshall Nirenberg와 Heinrich Matthaei는 U만 가진 RNA로 알라닌으로만 구성된 폴리펩타이드를 합성하였다.",
+        "④ 1977년 Fred Sanger는 DNA 서열 시퀀싱법을 개발하였다.",
+        "⑤ 2003년 Francis Collins와 Craig Venter는 Next generation sequencing 기술을 이용해 30억 개의 인간 유전체 염기서열을 해독했다."
+      ],
+      "answer": "④ 1977년 Fred Sanger는 DNA 서열 시퀀싱법을 개발하였다.",
+      "explanation": "정답: ④ (1977 Sanger 다이데옥시 사슬 종결법)\n① (X) Avery–MacLeod–McCarty는 1944년(1952년은 Hershey–Chase 박테리오파지 실험)\n② (X) 단백질로는 '전사'가 아니라 번역. 삼중 코돈은 1961년 실험으로 확인\n③ (X) poly(U) → 페닐알라닌만으로 된 폴리펩타이드(UUU = Phe)\n⑤ (X) 인간 유전체 사업은 Sanger 법 기반(NGS는 그 뒤)\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 5,
+      "question": "[2023-1 기말 4번 · 2022-1 동일] DNA mutation에 관한 설명 중 틀린 것을 고르시오.",
+      "choices": [
+        "① 탈아미노화는 자발적 반응으로 purine보다 pyrimidine 구조에서 빈번하게 일어난다.",
+        "② cytosine이 uracil로 변환되는 반응은 포유동물 세포에서 하루에 100번 정도 발생한다.",
+        "③ 탈퓨린화는 효소 반응에 의해 포유동물 세포에서 하루에 10,000번 정도 발생한다.",
+        "④ guanine은 산화 스트레스와 알킬화제에 의해 가장 쉽게 변형되는 base이다.",
+        "⑤ 지구상의 모든 생물은 이온화 방사선의 한 형태인 우주선에 지속적으로 노출되어 DNA 손상이 유도된다."
+      ],
+      "answer": "③ 탈퓨린화는 효소 반응에 의해 포유동물 세포에서 하루에 10,000번 정도 발생한다.",
+      "explanation": "정답: ③\n탈퓨린화(N-β-글리코사이드 결합 가수분해)는 효소 없이 일어나는 자발적(비효소적) 반응. 하루 약 10,000개라는 수치는 맞다.\n① (O) A·G의 탈아미노화는 C의 약 1/100\n② (O) C→U: 시티딘 10⁷개 중 1개/24시간 ≈ 하루 100개\n④ (O) G: 8-oxoG(산화), O⁶-메틸구아닌(알킬화)\n⑤ (O) 우주선 = 이온화 방사선"
+    },
+    {
+      "id": 6,
+      "question": "[2023-1 기말 5번 · 2022-1 동일] DNA cloning에 관한 설명으로 틀린 것은?",
+      "choices": [
+        "① EcoRI는 sticky end를 만드는 제한효소이다.",
+        "② DNA ligase의 정상적 기능은 DNA repair에 관여하는 것이다.",
+        "③ Human DNA ligase는 NAD를 사용한다.",
+        "④ LB agar plate에서 single colony는 single bacteria clone이다.",
+        "⑤ YAC plasmid는 circular 형태로 제작되어 linear 형태로 작동된다."
+      ],
+      "answer": "③ Human DNA ligase는 NAD를 사용한다.",
+      "explanation": "정답: ③\nDNA 리게이스 보조인자: E. coli → NAD⁺, 사람·T4 파지 → ATP.\n① (O) EcoRI: GAATTC, 5′ 돌출 점착 말단\n② (O) 세포 안에서 복제(오카자키 절편)·수선의 틈을 이음\n④ (O) 콜로니 하나 = 세포 하나에서 자란 클론\n⑤ (O) YAC은 대장균에서 원형 플라스미드로 증폭 → 잘라 선형으로 효모에 넣음(텔로미어·센트로미어·복제 기점)"
+    },
+    {
+      "id": 7,
+      "question": "[2023-1 기말 6번 · 2022-1·2021-1 동일] 살아 있는 세포 내에서 실시간으로 단백질–단백질 interaction을 monitoring할 수 있는 실험 방법을 고르시오.",
+      "choices": [
+        "① yeast-two hybrid",
+        "② TAP-tag method",
+        "③ immunofluorescence",
+        "④ immunoprecipitation",
+        "⑤ fluorescence resonance energy transfer"
+      ],
+      "answer": "⑤ fluorescence resonance energy transfer",
+      "explanation": "정답: ⑤ FRET\n두 형광 단백질(CFP·YFP 등)이 <10 nm로 가까워지면 에너지 전달 → 살아 있는 세포에서 실시간 측정.\n① Y2H: 효모에서 리포터 유전자 발현으로 판정(실시간 ✗, 효모 핵)\n② TAP-tag·④ IP: 세포를 깨서 복합체를 끌어냄(살아 있는 세포 ✗)\n③ 면역형광: 고정한 세포에서 위치만"
+    },
+    {
+      "id": 8,
+      "question": "[2023-1 기말 7번] gene editing, silencing에 대한 설명 중 틀린 것을 고르세요.",
+      "choices": [
+        "① CRISPR/Cas9 기술은 세포의 non-homologous end joining을 통해 target 유전자를 silencing한다.",
+        "② CRISPR/Cas9은 single-strand break를 이용해 fragment recombination을 일으킨 후 homologous 반응을 통해 유전자 편집이 가능하다.",
+        "③ CRISPR는 박테리아의 innate immunity system으로써 발견되었다.",
+        "④ Cas 단백질은 guide RNA의 안내를 받아 target 유전자 서열에 작용하는 nuclease이다.",
+        "⑤ RNA interference에 작용하는 nuclease는 Dicer이다."
+      ],
+      "answer": "② CRISPR/Cas9은 single-strand break를 이용해 fragment recombination을 일으킨 후 homologous 반응을 통해 유전자 편집이 가능하다.",
+      "explanation": "정답: ②\nCas9은 이중 가닥 절단(DSB)을 만든다. 이후 NHEJ(→ 삽입·결실 → 유전자 불활성화) 또는 주형 DNA가 있으면 HDR(→ 정밀 편집).\n① (O) NHEJ로 넉아웃\n③ (O) 세균의 파지 방어 체계(레닌저는 '적응 면역'으로도 표현)\n④ (O) 족보 원문 'gDNA'는 gRNA의 오타로 보았다\n⑤ (O) Dicer = 이중가닥 RNA를 21~23 nt로 자르는 RNase III\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 9,
+      "question": "[2023-1 기말 8번 · 2022-1 동일] 다음 지방산의 물성으로 틀린 것은? (A: 올리브유, B: 버터, C: 소기름)\n[[img:biochem/images/final-ex/fatty-acids.png|올리브유·버터·소기름 지방산 조성]]",
+      "choices": [
+        "① A는 실온에서 액상으로 존재한다.",
+        "② 산패될 경우 불쾌한 맛이 나고 냄새가 지독한 것은 C이다.",
+        "③ B와 C는 상온에서 고체로 존재한다.",
+        "④ A를 수소화하면 유통기한이 연장되고 고온에서 안정성이 높은 식용유가 된다.",
+        "⑤ A의 부분적인 수소화에 의한 지방산은 심혈관계 질병의 발병률을 높인다."
+      ],
+      "answer": "② 산패될 경우 불쾌한 맛이 나고 냄새가 지독한 것은 C이다.",
+      "explanation": "정답: ②\n산패 = 불포화 지방산 C=C의 산화적 절단 → 짧은 알데하이드·카복실산(불쾌한 맛·냄새). 포화 지방이 대부분인 소기름(C)은 산패가 잘 안 된다. 불포화가 많은 A나 짧은 사슬이 많은 B가 해당.\n① (O) 올리브유: C16·C18 불포화 ~80% → 액체\n③ (O) 버터 = 연한 고체, 소기름 = 단단한 고체\n④ (O) 수소화 → 포화도↑ → 산화 안정·녹는점↑\n⑤ (O) 부분 수소화 → 트랜스 지방산 → LDL↑, HDL↓ → 심혈관 질환\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 10,
+      "question": "[2023-1 기말 9번 · 재구성] Lipid에 대한 설명 중 틀린 것을 모두 고르시오. (원문은 하나 고르기)\n① Cardiolipin은 미토콘드리아 내막에 존재한다.\n② E. coli는 포스파티딜콜린 합성이 안 된다.\n③ plasmalogen은 심장 인지질의 절반을 차지한다.\n④ E. coli는 plasmalogen을 합성한다.\n⑤ Platelet activating factor(PAF)는 ester lipid로 혈액응고를 촉진한다.",
+      "choices": [
+        "④, ⑤",
+        "⑤",
+        "④",
+        "②, ⑤",
+        "③, ④, ⑤"
+      ],
+      "answer": "④, ⑤",
+      "explanation": "정답: ④, ⑤\n⑤ (X) PAF는 C1에 알킬 에터 결합을 가진 에터 지질(C2는 아세틸 에스터) → 혈소판 응집·염증\n④ (X) 에터 지질(플라즈말로젠)은 척추동물·혐기성 세균 등에 있고 대장균은 합성하지 않는다\n① (O) 카디올리핀 = 미토콘드리아 내막(세균 막에도)\n② (O) 대장균은 PC가 없음(PE·PG·카디올리핀)\n③ (O) 척추동물 심장 인지질의 약 절반이 플라즈말로젠\n※ 원문은 '틀린 것' 하나지만 ④·⑤ 모두 틀린 진술이라 '모두 고르기'로 재구성(2022-1은 보기가 4개로 합쳐져 있음).\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 11,
+      "question": "[2022-1 기말 10번 · 2023-1 동일] Vitamin에 대한 설명 중 틀린 것을 고르시오. (2개)\n① 지용성 비타민에는 vit A, D, E, K가 있다.\n② vit D가 활성형인 calcitriol이 되기 위해 거치는 장기의 순서는 피부, 신장, 간이다.\n③ β-carotene에서 유래한 all-trans-retinoic acid(ATRA)는 백혈병 치료제로 사용된다.\n④ vit A(retinol)는 산화되어 로돕신을 구성하며 빛에 의해 trans에서 cis 구조로 바뀐다.\n⑤ warfarin은 항응고제로 vit K의 작용을 억제한다.",
+      "choices": [
+        "②, ④",
+        "②",
+        "④",
+        "②, ③",
+        "④, ⑤"
+      ],
+      "answer": "②, ④",
+      "explanation": "정답: ②, ④\n② (X) 피부(7-dehydrocholesterol → UV → 콜레칼시페롤 D₃) → 간(25-OH) → 신장(1,25-(OH)₂D₃ = 칼시트라이올)\n④ (X) 레티날은 11-cis 상태로 옵신과 결합(로돕신) → 빛 → all-trans로 바뀜(cis → trans)\n③ (O) ATRA → 급성 전골수구성 백혈병(APL) 치료\n⑤ (O) 와파린 = 비타민 K 길항(γ-카복실화 저해)"
+    },
+    {
+      "id": 12,
+      "question": "[2023-1 기말 11번 · 2022-1 동일] 소장에 존재하는 Na⁺/glucose symporter에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        "① Apical surface에 존재하는 Na⁺/glucose symporter는 2차 능동 수송체이다.",
+        "② 소장의 세포에 존재하는 Na⁺/K⁺ pump에 의해 세포 내부의 Na⁺ 농도가 유지된다.",
+        "③ Basal surface에 존재하는 GLUT는 포도당을 촉진확산시키는 uniport이다.",
+        "④ 인슐린에 의해 장에서 포도당 흡수가 촉진된다.",
+        "⑤ Na⁺/glucose symporter에서 Na⁺의 이동은 chemical potential과 electrical potential 둘 다 관여한다."
+      ],
+      "answer": "④ 인슐린에 의해 장에서 포도당 흡수가 촉진된다.",
+      "explanation": "정답: ④\n장 상피의 포도당 흡수(SGLT1 + 기저면 GLUT2)는 인슐린과 무관. 인슐린이 GLUT4를 막으로 옮기는 곳은 근육·지방 조직.\n① (O) 2Na⁺ + 포도당 공동수송 — Na⁺ 구배가 에너지원\n② (O) 기저면 Na⁺/K⁺ ATPase(1차 능동)가 세포 안 Na⁺를 낮게 유지\n③ (O) GLUT2 단일수송(촉진확산)\n⑤ (O) 전기화학적 퍼텐셜(농도 + 막전위)\n📌 2021-1 변형: '틀린 것 2개' 중 'Na⁺ 농도가 낮아짐' 보기가 있었음."
+    },
+    {
+      "id": 13,
+      "question": "[2023-1 기말 12번 · 2022-1·2021-1 동일] 혈소판의 혈전 생성에 관여하며, 노화 적혈구의 marker로서 대식세포에 의해 인식되는 막지질은?",
+      "choices": [
+        "① phosphatidylcholine",
+        "② phosphatidylethanolamine",
+        "③ cardiolipin",
+        "④ phosphatidylserine",
+        "⑤ phosphatidylinositol"
+      ],
+      "answer": "④ phosphatidylserine",
+      "explanation": "정답: ④ PS\n평소 막 안쪽(세포질 쪽) 층에 있음(flippase가 유지). 혈소판 활성화·세포 노화·apoptosis 때 scramblase로 바깥에 노출 → 응고 인자 결합(혈전), 대식세포 인식('eat me' 신호)."
+    },
+    {
+      "id": 14,
+      "question": "[2023-1 기말 13번 · 2022-1·2021-1 동일] 고세균(archaea) 막지질 특성으로 옳은 것을 모두 고르시오. (정답 3개)\n① D-glycerol\n② ester linkage\n③ monolamellar(단일층)\n④ diphytanyl group\n⑤ unbranched fatty acid",
+      "choices": [
+        "①, ③, ④",
+        "③, ④, ⑤",
+        "①, ②, ④",
+        "②, ③, ④",
+        "①, ④, ⑤"
+      ],
+      "answer": "①, ③, ④",
+      "explanation": "정답: ①, ③, ④\n• 글리세롤 배열이 세균·진핵생물과 반대(sn-글리세롤-1-인산 계열, 족보 표현 D-glycerol)\n• 지방산 대신 다이파이탄일(C20 아이소프레노이드, 가지 많은 사슬)\n• 결합은 에터(ester ✗) → 고온·저pH에 안정\n• 양쪽 끝 글리세롤을 잇는 긴 사슬(테트라에터) → 막 전체를 가로지르는 단일층\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 15,
+      "question": "[2023-1 기말 14번 · 2022-1·2021-1 동일] 아래는 240개의 아미노산으로 구성된 단백질의 hydropathy plot이다. 이에 대한 설명 중 맞는 것을 모두(2개) 고르시오.\n[[img:biochem/images/final-ex/hydropathy.png|hydropathy plot, 소수성 구간 1~7]]\n① 해당 단백질은 8개의 막횡단 분절을 가지고 있다.\n② 막횡단 영역은 β-barrel 구조를 형성한다.\n③ 친수성 영역을 구성하고 있는 아미노산은 Lys, Arg, Glu, Asp 등이다.\n④ 아미노 말단은 세포 안쪽, 카복실 말단은 세포 바깥쪽을 향한다.\n⑤ 해당 단백질은 GPCR일 가능성이 높다.",
+      "choices": [
+        "③, ⑤",
+        "⑤",
+        "①, ⑤",
+        "③, ④",
+        "②, ⑤"
+      ],
+      "answer": "③, ⑤",
+      "explanation": "정답: ③, ⑤\n• 소수성 지수 > 0인 ~20잔기 구간이 7개 → 막횡단 α나선 7개 = GPCR(① 8개 ✗)\n• hydropathy plot은 α나선 막횡단 구간을 찾는 방법(β-barrel은 소수성·친수성이 번갈아 나와 잘 안 잡힘 → ② ✗)\n• 친수성 구간 = 전하를 띤 Lys·Arg·Glu·Asp 등(③ O)\n• GPCR은 N말단 바깥, C말단 안쪽(④ ✗)\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 16,
+      "question": "[2023-1 기말 15번 · 2022-1·2021-1 동일] 배양 온도에 따라 대장균의 세포막 조성이 변한다. 배양 온도가 높아질 때 세포막에서의 분포가 높아지는 지방산은?",
+      "choices": [
+        "① palmitic acid",
+        "② palmitoleic acid",
+        "③ oleic acid",
+        "④ hydroxymyristic acid",
+        "⑤ linoleic acid"
+      ],
+      "answer": "① palmitic acid",
+      "explanation": "정답: ① 팔미트산(16:0, 포화)\n온도↑ → 막이 너무 유동적 → 포화·긴 사슬 비율을 늘려 유동성을 일정하게 유지(항상성 점성 조절). 레닌저 표: 10 °C → 40 °C에서 팔미트산 약 18% → 48%, 팔미톨레산·올레산(불포화)은 감소."
+    },
+    {
+      "id": 17,
+      "question": "[2023-1 기말 16번] P-type ATPase와 관련 없는 것을 두 개 고르시오.\n① 비가역적 인산화\n② Na⁺/K⁺ ATPase\n③ SERCA pump\n④ gastric H⁺/K⁺ ATPase\n⑤ 세포 내 수소 이온 농도 조절(소포 산성화)",
+      "choices": [
+        "①, ⑤",
+        "①",
+        "⑤",
+        "①, ③",
+        "④, ⑤"
+      ],
+      "answer": "①, ⑤",
+      "explanation": "정답: ①, ⑤\n• P형 = 수송 주기마다 Asp 잔기가 가역적으로 인산화(E1 ↔ E2), 바나데이트로 억제\n• 예: Na⁺/K⁺ ATPase, SERCA(근소포체 Ca²⁺), 위 H⁺/K⁺ ATPase, 세포막 Ca²⁺ 펌프\n• 소포·리소좀·액포 안을 산성으로 만드는 것은 V형 ATPase(인산화 중간체 ✗)\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 18,
+      "question": "[2022-1 기말 16번(변형)] P-type ATPase와 관련 없는 것을 2개 고르시오.\n① 비가역적 인산화\n② Na⁺/K⁺ ATPase\n③ H⁺ ATPase(세균·식물·곰팡이 세포막)\n④ Asp residue\n⑤ Cystic fibrosis",
+      "choices": [
+        "①, ⑤",
+        "①",
+        "⑤",
+        "③, ⑤",
+        "①, ④"
+      ],
+      "answer": "①, ⑤",
+      "explanation": "정답: ①, ⑤\n• 인산화는 가역적(Asp 잔기)\n• 낭포성 섬유증(CFTR)은 ABC 수송체(Cl⁻ 채널)\n③ 세균·식물·곰팡이 세포막의 H⁺ 펌프는 P형\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 19,
+      "question": "[2023-1 기말 17번 · 2022-1 동일] 카베올린 단백질과 관련 없는 것은?",
+      "choices": [
+        "① lipid rafts",
+        "② homodimer",
+        "③ 3 palmitoyl in N terminal",
+        "④ membrane trafficking",
+        "⑤ insulin receptor"
+      ],
+      "answer": "③ 3 palmitoyl in N terminal",
+      "explanation": "정답: ③\n카베올린 = 가운데가 막 안쪽 층에 박힌 머리핀 모양 내재 단백질, 두 구형 도메인이 모두 세포질 쪽. C말단 쪽에 팔미토일기 3개.\n① (O) 콜레스테롤·스핑고지질이 많은 뗏목 → 카베올라(동굴) 형성\n② (O) 이합체를 이룬다\n④ (O) 막 수송(엔도사이토시스)\n⑤ (O) 인슐린 수용체 등 신호 단백질이 카베올라에 모임\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 20,
+      "question": "[2023-1 기말 18번 · 2022-1·2021-1 동일] β-adrenergic receptor 신호 종결과 관련 없는 것은?",
+      "choices": [
+        "① βARK 활성",
+        "② β-arrestin 결합",
+        "③ endocytosis",
+        "④ Gsα의 GTPase 활성",
+        "⑤ Gβγ 분리"
+      ],
+      "answer": "⑤ Gβγ 분리",
+      "explanation": "정답: ⑤\nGβγ가 Gα에서 떨어지는 것은 활성화 단계(리간드 결합 → GDP/GTP 교환 → Gαs–GTP와 Gβγ 분리).\n종결 단계: ④ Gsα의 내재 GTPase가 GTP → GDP(스스로 꺼짐), 포스포다이에스터레이스가 cAMP 분해, ① βARK(GRK2)가 수용체 C말단 Ser/Thr 인산화 → ② β-arrestin 결합 → ③ 클라트린 의존 엔도사이토시스(탈감작).\n※ 레닌저는 Gβγ가 βARK를 막으로 끌어온다고도 설명해 ⑤가 간접적으로 관련된다는 견해도 있음.\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 21,
+      "question": "[2023-1 기말 19번 · 2021-1 동일] Gsα와 Ras에 대해 옳지 않은 것은? (2개)\n① 두 단백질 모두 GTP와 결합하여 신호경로 하부에 위치한 단백질과 결합한다.\n② 두 단백질 모두 내재적 GTPase 활성을 가진다.\n③ Ras는 상대적으로 크기가 작은 monomeric protein이다.\n④ 두 단백질 모두 farnesyl기를 이용하여 막에 부착하여 이동한다.\n⑤ 두 단백질 모두 GPCR 하위 신호전달에 이용된다.",
+      "choices": [
+        "④, ⑤",
+        "④",
+        "⑤",
+        "③, ④",
+        "①, ⑤"
+      ],
+      "answer": "④, ⑤",
+      "explanation": "정답: ④, ⑤\n④ (X) Ras는 파네실, Gα는 팔미토일·미리스토일(파네실은 Gγ)\n⑤ (X) Ras는 RTK(인슐린·EGF 수용체 → Grb2·Sos) 하위\n①②③ (O) 둘 다 GTP 결합 시 'on', 내재 GTPase로 'off'. Ras는 작은 단량체 G 단백질(~20 kDa), Gsα는 이종삼량체의 α"
+    },
+    {
+      "id": 22,
+      "question": "[2023-1 기말 20번 · 매년 출제] Gqα 단백질에 의한 신호전달 시 관여하는 second messenger를 모두 고르시오. (3개)\n① DAG\n② Ca²⁺\n③ cAMP\n④ IP₃\n⑤ PIP₂",
+      "choices": [
+        "①, ②, ④",
+        "①, ④, ⑤",
+        "②, ③, ④",
+        "①, ②, ⑤",
+        "③, ④, ⑤"
+      ],
+      "answer": "①, ②, ④",
+      "explanation": "정답: ①, ②, ④\nGqα → PLC(포스포리페이스 C) → PIP₂ 분해 → IP₃(소포체 Ca²⁺ 통로 열기 → Ca²⁺↑) + DAG(막에 남아 Ca²⁺와 함께 PKC 활성).\n③ cAMP = Gs·Gi(아데닐릴 고리화효소)\n⑤ PIP₂ = 2차 전달자를 만드는 전구체(막 인지질)"
+    },
+    {
+      "id": 23,
+      "question": "[2023-1 기말 21번 · 2022-1·2021-1 동일] 시각에서 빛에 의한 초기 신호전달 과정과 관련 없는 것을 고르시오.",
+      "choices": [
+        "① GPCR(로돕신) 활성화",
+        "② transducin 활성화",
+        "③ PDE 활성화",
+        "④ cGMP 증가",
+        "⑤ Ca²⁺ 감소"
+      ],
+      "answer": "④ cGMP 증가",
+      "explanation": "정답: ④\n빛 → 로돕신(11-cis → all-trans) → 트랜스듀신(Gt) → cGMP 포스포다이에스터레이스(PDE) 활성 → cGMP 감소 → cGMP 개폐 양이온 통로 닫힘 → 과분극. 통로가 닫히며 세포 안 Ca²⁺도 감소(→ 회복·적응)."
+    },
+    {
+      "id": 24,
+      "question": "[2023-1 기말 22번 · 2022-1·2021-1 동일] 인슐린 수용체가 인산화시키는 기질 단백질 3가지를 고르시오.\n① RTK(인슐린 수용체 자신)\n② PI3K\n③ GPCR\n④ GLUT4\n⑤ IRS-1",
+      "choices": [
+        "①, ②, ⑤",
+        "①, ⑤",
+        "②, ④, ⑤",
+        "①, ④, ⑤",
+        "③, ⑤"
+      ],
+      "answer": "①, ②, ⑤",
+      "explanation": "정답(추정): ①, ②, ⑤\n• ① 인슐린 결합 → 두 β 소단위가 서로의 Tyr을 자가인산화(RTK)\n• ⑤ IRS-1의 Tyr 인산화 → SH2 단백질의 결합 자리\n• ② PI3K: IRS-1의 pTyr에 SH2로 결합해 활성화(직접 인산화보다 '결합·활성화'가 정확하지만 족보 정답 3개를 맞추려면 포함)\n• ④ GLUT4는 PKB 하위에서 막으로 이동할 뿐 인산화 기질 아님 · ③ GPCR 무관\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 25,
+      "question": "[2023-1 기말 23번] 다음 중 tumor suppressor를 모두(3개) 고르시오.\n① PTEN\n② pRb\n③ p53\n④ BRAF\n⑤ PI3K",
+      "choices": [
+        "①, ②, ③",
+        "②, ③, ④",
+        "①, ③, ⑤",
+        "①, ②, ④",
+        "③, ④, ⑤"
+      ],
+      "answer": "①, ②, ③",
+      "explanation": "정답: ①, ②, ③\n• PTEN: PIP₃ → PIP₂(PI3K–Akt 경로 끄기)\n• pRb: E2F를 붙잡아 G1→S 진행 억제\n• p53: DNA 손상 시 세포주기 정지·apoptosis(‘유전체 수호자’)\n• BRAF(MAPKKK)·PI3K = 원종양유전자(활성 돌연변이 → 종양유전자)"
+    },
+    {
+      "id": 26,
+      "question": "[2022-1 기말 23번(변형)] 다음 중 tumor suppressor를 모두(3개) 고르시오.\n① p53\n② pRb\n③ p21\n④ BRAF\n⑤ PI3K",
+      "choices": [
+        "①, ②, ③",
+        "①, ②, ④",
+        "②, ③, ⑤",
+        "①, ④, ⑤",
+        "③, ④, ⑤"
+      ],
+      "answer": "①, ②, ③",
+      "explanation": "정답: ①, ②, ③\np21 = CDK 억제 단백질(p53이 발현을 유도) → 종양 억제 쪽. BRAF·PI3K는 원종양유전자."
+    }
+  ]
+}

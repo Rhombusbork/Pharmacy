@@ -33,6 +33,11 @@
     "orgchem/final-s5-trend-2.json",
     "orgchem/final-s6a-names-rxn.json",
     "orgchem/final-s6b-names-reagent.json",
-    "orgchem/final-s6c-names-compound.json"
+    "orgchem/final-s6c-names-compound.json",
+    "biochem/final-ex-2025-2.json",
+    "biochem/final-ex-2024-2.json",
+    "biochem/final-ex-2023-2.json",
+    "biochem/final-ex-short-2021-2023.json",
+    "biochem/final-ex-mcq-2021-2023.json"
   ]
 }

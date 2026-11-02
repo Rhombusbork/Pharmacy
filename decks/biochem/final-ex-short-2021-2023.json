@@ -1,0 +1,241 @@
+{
+  "deckId": "biochem-final-ex-short-2021-2023",
+  "subject": "생화학",
+  "title": "기말 족보 ② 주관식·서술형 (2021-1·2022-1·2023-1)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 1-1] 다음 구조의 full name을 쓰시오.\n[[img:biochem/images/final-ex/dcmp.png|dCMP 구조]]",
+      "answer": [
+        "2′-deoxycytidine 5′-monophosphate",
+        "2'-deoxycytidine 5'-monophosphate",
+        "deoxycytidine 5'-monophosphate",
+        "deoxycytidine monophosphate",
+        "dCMP",
+        "deoxycytidylate",
+        "2′-데옥시사이티딘 5′-일인산",
+        "데옥시사이티딘 일인산"
+      ],
+      "explanation": "모범답안:\n2′-deoxycytidine 5′-monophosphate (dCMP, deoxycytidylate)\n• 염기 사이토신 + 2′-디옥시리보스(C2′에 OH 없음) + 5′-인산 하나\n\n✅ 채점 키워드: 2′-deoxy · cytidine · 5′-monophosphate"
+    },
+    {
+      "id": 2,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 1-2] AMP를 1~4글자 약어로 세 가지 방식으로 표현하시오.",
+      "answer": [
+        "AMP, pA, A",
+        "A, pA, AMP",
+        "AMP, A, pA",
+        "AMP, pA, Ado",
+        "AMP·pA·A"
+      ],
+      "explanation": "모범답안:\nAMP(약어) · pA(5′ 인산을 앞에 p로 표시) · A(염기 한 글자). 뉴클레오사이드 자체는 Ado(아데노신)로도 쓴다.\n(디옥시면 dAMP · pdA · dA)\n\n✅ 채점 키워드: AMP · pA · A\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 3,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 1-3] dCMP에서 인산기가 제거된 물질의 명칭은?",
+      "answer": [
+        "deoxycytidine",
+        "2'-deoxycytidine",
+        "2′-deoxycytidine",
+        "데옥시사이티딘",
+        "디옥시시티딘",
+        "dC"
+      ],
+      "explanation": "모범답안:\n2′-deoxycytidine(뉴클레오사이드 = 염기 + 오탄당, 인산 없음)\n\n✅ 채점 키워드: 뉴클레오사이드 · deoxycytidine"
+    },
+    {
+      "id": 4,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 2 · 2023-2·2024-2 반복] 자외선이 DNA에 가하는 손상 두 가지를 쓰시오.",
+      "answer": [
+        "사이클로뷰테인 피리미딘 이량체, 6-4 광산물",
+        "cyclobutane pyrimidine dimer, 6-4 photoproduct",
+        "피리미딘 이량체, 6-4 광생성물",
+        "thymine dimer, 6-4 photoproduct",
+        "사이클로부탄 피리미딘 이량체, 6-4 광산물"
+      ],
+      "explanation": "모범답안:\n① 사이클로뷰테인 피리미딘 이량체(이웃한 두 피리미딘, 주로 T–T의 C5·C6이 고리 형성)\n② 6-4 광산물(한 피리미딘 C6과 다른 피리미딘 C4 사이 결합)\n• 이웃한 피리미딘끼리 생긴다 · 자외선 B(260 nm 근처)\n\n✅ 채점 키워드: 사이클로뷰테인 피리미딘 이량체 · 6-4 광산물"
+    },
+    {
+      "id": 5,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 3] Cloning vector로 사용되기 위한 세 가지 요건을 쓰시오.",
+      "answer": [
+        "복제 기점, 선택 표지, 클로닝 자리",
+        "origin of replication, selectable marker, cloning site",
+        "복제원점, 항생제 내성 유전자, 제한효소 자리",
+        "ori, 선택 마커, 다중 클로닝 자리"
+      ],
+      "explanation": "모범답안:\n① 복제 기점(ori) — 숙주 안에서 스스로 복제\n② 선택 표지(항생제 내성 유전자 등) — 벡터가 들어간 세포만 골라냄\n③ 클로닝 자리(제한효소 인식 자리, 다중 클로닝 자리) — 외래 DNA 삽입\n(+ 작은 크기, 많은 복제 수 / pBR322 예: ori, amp^R, tet^R)\n\n✅ 채점 키워드: 복제 기점 · 선택 표지 · 제한효소 자리"
+    },
+    {
+      "id": 6,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 4 · 2024-2 반복] PCR 반응을 위해 반응 튜브에 넣어야 할 물질을 모두 쓰시오.",
+      "answer": [
+        "주형 DNA, 프라이머 2개, dNTP, 열안정성 DNA 중합효소, 완충액(Mg2+)",
+        "template, primers, dNTPs, Taq polymerase, buffer",
+        "주형 DNA, 프라이머, dNTP, Taq 중합효소, MgCl2 완충액"
+      ],
+      "explanation": "모범답안:\n① 주형 DNA ② 프라이머 2개(정방향·역방향, 표적 양 끝에 상보) ③ dNTP 4종(dATP·dCTP·dGTP·dTTP) ④ 열안정성 DNA 중합효소(Taq 등) ⑤ 완충액 + Mg²⁺(중합효소 보조인자)\n\n✅ 채점 키워드: 주형 · 프라이머 2개 · dNTP 4종 · 열안정 중합효소 · Mg²⁺ 완충액"
+    },
+    {
+      "id": 7,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 5 · 정방향] 아래 single strand DNA의 밑줄 친 영역만 PCR로 증폭하려 한다. 18 nt 정방향(forward) primer를 쓰시오(5′→3′).\n5′ …<GCCTCGACTCAATCAATC>…………<TCTGGGATGGTTCGTCTG>… 3′",
+      "answer": [
+        "GCCTCGACTCAATCAATC",
+        "5'-GCCTCGACTCAATCAATC-3'",
+        "5′-GCCTCGACTCAATCAATC-3′"
+      ],
+      "explanation": "모범답안:\n정방향 primer = 앞쪽 밑줄 서열 그대로(5′→3′): 5′-GCCTCGACTCAATCAATC-3′\n• 주어진 가닥의 상보 가닥에 붙어 오른쪽(3′ 방향)으로 신장\n(레닌저 8판 한국어판 p298 13번 = 족보 출제)\n\n✅ 채점 키워드: 주어진 서열 그대로 · 5′→3′"
+    },
+    {
+      "id": 8,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 5 · 역방향] 위 서열의 뒤쪽 밑줄(5′-TCTGGGATGGTTCGTCTG-3′)을 이용한 18 nt 역방향(reverse) primer를 쓰시오(5′→3′).",
+      "answer": [
+        "CAGACGAACCATCCCAGA",
+        "5'-CAGACGAACCATCCCAGA-3'",
+        "5′-CAGACGAACCATCCCAGA-3′"
+      ],
+      "explanation": "모범답안:\n역방향 primer = 뒤쪽 밑줄 서열의 역상보(reverse complement)\nTCTGGGATGGTTCGTCTG → 상보 AGACCCTACCAAGCAGAC → 거꾸로 읽기 → 5′-CAGACGAACCATCCCAGA-3′\n• 주어진 가닥 자체에 붙어 왼쪽으로 신장\n\n✅ 채점 키워드: 역상보 · 5′→3′로 쓰기"
+    },
+    {
+      "id": 9,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 6] Erwin Neher와 Bert Sakmann이 이온 채널의 전기를 측정하는 방법을 개발한 공로로 1991년 노벨상을 받았다. 이 기술의 명칭은?",
+      "answer": [
+        "patch clamp",
+        "패치 클램프",
+        "patch-clamp",
+        "패치클램프",
+        "patch clamping"
+      ],
+      "explanation": "모범답안:\n패치 클램프(patch clamp): 유리 미세 피펫을 막에 밀착 → 막 조각 하나의 단일 채널 전류(pA 수준) 측정\n\n✅ 채점 키워드: patch clamp"
+    },
+    {
+      "id": 10,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 7] 신경세포 활동전위를 a~d 단계로 나눌 때, 1) Na⁺/K⁺ ATPase 2) K⁺ leak channel 3) voltage-gated Na⁺ channel 4) voltage-gated K⁺ channel이 주로 작동하는 단계의 짝으로 옳은 것은?\n[[img:biochem/images/final-ex/action-potential.png|활동전위 a: 휴지 b: 상승 c: 하강 d: 과분극]]",
+      "choices": [
+        "1) a  2) a  3) b  4) c",
+        "1) b  2) a  3) a  4) c",
+        "1) a  2) c  3) b  4) d",
+        "1) d  2) b  3) c  4) a",
+        "1) a  2) b  3) c  4) c"
+      ],
+      "answer": "1) a  2) a  3) b  4) c",
+      "explanation": "정답: 1) a 2) a 3) b 4) c\n• a 휴지 전위(−70 mV): Na⁺/K⁺ ATPase가 구배 유지, K⁺ 누출 채널로 K⁺가 나가며 안쪽(−) 유지\n• b 탈분극(상승): 전압 개폐 Na⁺ 채널 열림 → Na⁺ 유입\n• c 재분극(하강): Na⁺ 채널 불활성화 + 전압 개폐 K⁺ 채널 열림 → K⁺ 유출\n• d 과분극: K⁺ 채널이 늦게 닫혀 −70 mV 아래로 → 이후 펌프·누출 채널로 회복\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 11,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 8-1~8-4] 다음 분자의 1) 명칭 2) 표시한 결합을 분해하는 효소 3) 분해 산물 4) 효소 결핍 시 질환을 쓰시오.\n[[img:biochem/images/final-ex/sphingomyelin.png|스핑고미엘린, 화살표: 인산–세라마이드 결합]]",
+      "answer": [
+        "스핑고미엘린, 스핑고미엘리네이스, 세라마이드와 포스포콜린, 니만-피크병",
+        "sphingomyelin, sphingomyelinase, ceramide + phosphocholine, Niemann-Pick disease",
+        "스핑고미엘린 / 스핑고마이엘리네이스 / 세라마이드 + 포스포콜린 / Niemann-Pick"
+      ],
+      "explanation": "모범답안:\n1) 스핑고미엘린(세라마이드 + 포스포콜린 머리)\n2) 스핑고미엘리네이스(산성, 리소좀)\n3) 세라마이드 + 포스포콜린\n4) Niemann-Pick병 A/B형: 리소좀에 스핑고미엘린 축적 → 간·비장 비대, 신경 퇴행(A형) — 원인 유전자 SMPD1\n\n✅ 채점 키워드: 스핑고미엘린 · 스핑고미엘리네이스 · 세라마이드 + 포스포콜린 · Niemann-Pick · 리소좀"
+    },
+    {
+      "id": 12,
+      "question": "[2023-1·2022-1·2021-1 기말 주관식 9] 쥐 간세포의 형질막과 세포소기관 막지질 조성 그래프이다. A~E에 해당하는 막지질의 짝으로 옳은 것은?\n[[img:biochem/images/final-ex/lipid-composition.png|쥐 간세포 막지질 조성]]",
+      "choices": [
+        "A 콜레스테롤 · B 카디올리핀 · C 포스파티딜콜린 · D 포스파티딜에탄올아민 · E 스핑고지질",
+        "A 카디올리핀 · B 콜레스테롤 · C 포스파티딜콜린 · D 포스파티딜에탄올아민 · E 스핑고지질",
+        "A 콜레스테롤 · B 카디올리핀 · C 포스파티딜에탄올아민 · D 포스파티딜콜린 · E 스핑고지질",
+        "A 스핑고지질 · B 카디올리핀 · C 포스파티딜콜린 · D 포스파티딜에탄올아민 · E 콜레스테롤"
+      ],
+      "answer": "A 콜레스테롤 · B 카디올리핀 · C 포스파티딜콜린 · D 포스파티딜에탄올아민 · E 스핑고지질",
+      "explanation": "정답(추정): A 콜레스테롤 · B 카디올리핀 · C PC · D PE · E 스핑고지질\n• A: 형질막에 가장 많고(~1/3) 소기관 막엔 적음 → 콜레스테롤\n• B: 미토콘드리아 내막에만 큼 → 카디올리핀\n• C: 모든 막의 가장 큰 칸 → 포스파티딜콜린\n• D: 두 번째로 많은 인지질 → 포스파티딜에탄올아민\n• E: 형질막·리소좀·골지에 많은 칸 → 스핑고지질(스핑고미엘린)\n⚠ 족보에 정답이 없어 레닌저 생화학 8판 기준으로 판단한 추정 정답입니다. 수업 내용과 다르면 알려 주세요."
+    },
+    {
+      "id": 13,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 1 · Sanger (a)] 다음 DNA 조각을 Sanger 방법으로 분석하였다(*: 형광 표지된 primer). DNA 중합효소와 아래 뉴클레오타이드 혼합물(ddNTP는 소량)로 반응시킨 뒤 전기영동했다.\n[[img:biochem/images/final-ex/sanger-template.png|primer와 주형 3′-ATTACGCAAGGACATTAGAC-5′]]\n(a) dATP dCTP dGTP dTTP ddATP ddCTP 레인에 나타나는 띠(새로 붙은 뉴클레오타이드 수)는?",
+      "choices": [
+        "2, 3, 6, 10, 11, 15, 16, 18",
+        "2, 3, 15, 16",
+        "1",
+        "20",
+        "6, 10, 11, 18"
+      ],
+      "answer": "2, 3, 6, 10, 11, 15, 16, 18",
+      "explanation": "정답: 2, 3, 6, 10, 11, 15, 16, 18\n새로 합성되는 가닥: 5′-(primer)-TAATGCGTTCCTGTAATCTG-3′ (주형의 상보 서열, 1번 = T)\n위치: 1T 2A 3A 4T 5G 6C 7G 8T 9T 10C 11C 12T 13G 14T 15A 16A 17T 18C 19T 20G\n• dd가 들어가는 자리(A 또는 C)에서 사슬이 끝난다 → A 위치(2·3·15·16) + C 위치(6·10·11·18)\n• ddNTP는 3′-OH가 없어 다음 결합 불가 = 사슬 종결\n(레닌저 8판 한국어판 p298 18번 = 족보 출제)"
+    },
+    {
+      "id": 14,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 1 · Sanger (b)] 다음 DNA 조각을 Sanger 방법으로 분석하였다(*: 형광 표지된 primer). DNA 중합효소와 아래 뉴클레오타이드 혼합물(ddNTP는 소량)로 반응시킨 뒤 전기영동했다.\n[[img:biochem/images/final-ex/sanger-template.png|primer와 주형 3′-ATTACGCAAGGACATTAGAC-5′]]\n(b) dATP dCTP dGTP dTTP ddATP 레인의 띠는?",
+      "choices": [
+        "2, 3, 15, 16",
+        "2, 3, 6, 10, 11, 15, 16, 18",
+        "1",
+        "20",
+        "1, 4, 8, 9, 12, 14, 17, 19"
+      ],
+      "answer": "2, 3, 15, 16",
+      "explanation": "정답: 2, 3, 15, 16\n새로 합성되는 가닥: 5′-(primer)-TAATGCGTTCCTGTAATCTG-3′ (주형의 상보 서열, 1번 = T)\n위치: 1T 2A 3A 4T 5G 6C 7G 8T 9T 10C 11C 12T 13G 14T 15A 16A 17T 18C 19T 20G\n• A 위치에서만 종결"
+    },
+    {
+      "id": 15,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 1 · Sanger (c)] 다음 DNA 조각을 Sanger 방법으로 분석하였다(*: 형광 표지된 primer). DNA 중합효소와 아래 뉴클레오타이드 혼합물(ddNTP는 소량)로 반응시킨 뒤 전기영동했다.\n[[img:biochem/images/final-ex/sanger-template.png|primer와 주형 3′-ATTACGCAAGGACATTAGAC-5′]]\n(c) dATP dCTP dGTP ddTTP(dTTP 없음) 레인의 띠는?",
+      "choices": [
+        "1",
+        "1, 4, 8, 9, 12, 14, 17, 19",
+        "20",
+        "띠 없음",
+        "2, 3, 15, 16"
+      ],
+      "answer": "1",
+      "explanation": "정답: 1 (primer + 1 nt 한 줄)\n새로 합성되는 가닥: 5′-(primer)-TAATGCGTTCCTGTAATCTG-3′ (주형의 상보 서열, 1번 = T)\n위치: 1T 2A 3A 4T 5G 6C 7G 8T 9T 10C 11C 12T 13G 14T 15A 16A 17T 18C 19T 20G\n• 첫 자리가 T인데 dTTP가 없고 ddTTP만 있으므로 첫 뉴클레오타이드로 ddT가 들어가 바로 종결 → 1개짜리 띠 하나\n• 함정: T 위치 전부(1·4·8·…)라고 답하기 쉽지만 dTTP가 없어서 두 번째 T까지 갈 수 없다"
+    },
+    {
+      "id": 16,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 1 · Sanger (d)] 다음 DNA 조각을 Sanger 방법으로 분석하였다(*: 형광 표지된 primer). DNA 중합효소와 아래 뉴클레오타이드 혼합물(ddNTP는 소량)로 반응시킨 뒤 전기영동했다.\n[[img:biochem/images/final-ex/sanger-template.png|primer와 주형 3′-ATTACGCAAGGACATTAGAC-5′]]\n(d) dATP dCTP dGTP dTTP(ddNTP 없음) 레인의 띠는?",
+      "choices": [
+        "20(전체 길이 하나)",
+        "띠 없음",
+        "1, 2, … 20 모든 길이",
+        "2, 3, 15, 16",
+        "1"
+      ],
+      "answer": "20(전체 길이 하나)",
+      "explanation": "정답: 전체 길이(20 nt) 한 줄\n새로 합성되는 가닥: 5′-(primer)-TAATGCGTTCCTGTAATCTG-3′ (주형의 상보 서열, 1번 = T)\n위치: 1T 2A 3A 4T 5G 6C 7G 8T 9T 10C 11C 12T 13G 14T 15A 16A 17T 18C 19T 20G\n• 종결시키는 dd가 없으므로 주형 끝까지 합성\n• 전기영동: 짧을수록 아래(+극 쪽)로 멀리 이동"
+    },
+    {
+      "id": 17,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 2] homologue, paralogue, orthologue의 의미를 쓰시오. (서술형 — 답을 쓴 뒤 해설의 모범답안·채점 키워드와 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)",
+      "answer": [
+        "homologue: 공통 조상에서 유래한 유전자, paralogue: 같은 종 안 유전자 중복으로 생긴 상동 유전자, orthologue: 종 분화로 다른 종에 나뉜 상동 유전자"
+      ],
+      "explanation": "모범답안:\n• homolog(상동 유전자): 공통 조상 유전자에서 유래해 서열·기능이 비슷한 유전자의 총칭\n• paralog(평행 상동): 같은 종 안에서 유전자 중복으로 생긴 상동 유전자(기능이 달라질 수 있음, 예: 사람 α·β 글로빈)\n• ortholog(오솔로그): 종 분화로 서로 다른 종에 나뉘어 있는 상동 유전자(대개 같은 기능 → 다른 종의 유전자 기능 추정에 사용)\n\n✅ 채점 키워드: 공통 조상 · 같은 종·유전자 중복 = paralog · 다른 종·종 분화 = ortholog"
+    },
+    {
+      "id": 18,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 3 · 2023-2 반복] Fatty acid 20:4(ω-6)의 일반 명칭과 구조를 쓰시오.\n(구조는 종이에 그린 뒤 해설과 비교)",
+      "answer": [
+        "아라키돈산",
+        "arachidonic acid",
+        "아라키돈산(arachidonic acid)"
+      ],
+      "explanation": "모범답안:\n아라키돈산(arachidonic acid) = cis,cis,cis,cis-Δ⁵,⁸,¹¹,¹⁴-에이코사테트라엔산\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• 탄소 20개, 이중결합 4개(모두 cis), 메틸 말단(ω)에서 6번째 탄소에서 첫 이중결합\n• 카복실 탄소 = C1 → Δ5·8·11·14(메틸렌 차단형, 3개 간격)\n• 에이코사노이드(PG·TX·LT)의 전구체, 막 인지질 C2에서 PLA₂가 떼어냄\n\n✅ 채점 키워드: 아라키돈산 · 20탄소 · cis 이중결합 4개 · Δ5,8,11,14 · ω-6"
+    },
+    {
+      "id": 19,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 4] simple diffusion, 촉진확산, 능동수송의 그래프를 그리시오(x축: 농도차, y축: 속도). 각 모양을 말로 쓰시오. (서술형 — 답을 쓴 뒤 해설의 모범답안·채점 키워드와 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)",
+      "answer": [
+        "단순확산: 직선, 촉진확산: 포화 곡선(쌍곡선), 능동수송: 포화 곡선이며 농도차가 0 이하에서도 수송"
+      ],
+      "explanation": "모범답안:\n• 단순확산: 원점을 지나는 직선(농도차에 비례, 포화 ✗)\n• 촉진확산: Michaelis–Menten형 쌍곡선 → Vmax에서 포화(수송체 수 한정), Kt = Vmax/2일 때의 농도. 농도차 0이면 속도 0\n• 능동수송: 포화 곡선이며 농도차가 0 또는 음수(구배 거슬러)에서도 수송 속도 > 0(ATP 등 에너지 사용)\n\n✅ 채점 키워드: 직선 · 포화(쌍곡선)·Kt·Vmax · 구배 거슬러(농도차 ≤ 0에서도 수송)"
+    },
+    {
+      "id": 20,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 5] 칼륨 채널이 나트륨을 통과시키지 못하는 분자적 기전을 설명하시오. (서술형 — 답을 쓴 뒤 해설의 모범답안·채점 키워드와 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)",
+      "answer": [
+        "선택성 필터의 카보닐 산소가 탈수화된 K⁺에 꼭 맞게 배위해 수화 껍질을 대신하지만, 작은 Na⁺는 카보닐과 잘 맞지 않아 탈수화 에너지를 보상받지 못한다"
+      ],
+      "explanation": "모범답안:\n• 채널의 좁은 선택성 필터(TVGYG 서열)의 골격 카보닐 산소 고리들이 통로를 둘러쌈\n• K⁺는 물 분자를 떼고(탈수화) 들어가면 카보닐 산소 8개가 물의 자리를 정확히 대신해 에너지 손실이 보상됨\n• Na⁺는 더 작아(반지름 0.95 vs 1.33 Å) 카보닐 산소와 동시에 잘 배위하지 못함 → 탈수화 에너지를 보상받지 못해 통과 불리\n• 필터는 단단해서 Na⁺ 크기에 맞게 오므라들지 못함 → K⁺가 Na⁺보다 약 10⁴배 잘 통과, 그러면서도 속도는 확산에 가까움(~10⁸ 이온/s)\n\n✅ 채점 키워드: 선택성 필터 · 카보닐 산소 · 탈수화 에너지 보상 · Na⁺는 작아 맞지 않음"
+    },
+    {
+      "id": 21,
+      "question": "[2023-1·2022-1·2021-1 기말 서술형 6] Apoptosis의 intrinsic pathway와 extrinsic pathway를 설명하시오(관여 caspase, intrinsic에서 형성되는 복합체와 구성 단백질 포함). (서술형 — 답을 쓴 뒤 해설의 모범답안·채점 키워드와 비교하고, 맞았으면 '맞은 걸로 처리'를 누르세요)",
+      "answer": [
+        "외인성: 사멸 수용체(Fas)–FADD–caspase-8, 내인성: 미토콘드리아 사이토크롬 c 방출–Apaf-1–caspase-9 아팝토솜, 둘 다 실행 caspase-3"
+      ],
+      "explanation": "모범답안:\n• 외인성(extrinsic): 세포 밖 신호(FasL·TNF)가 사멸 수용체(Fas) 결합 → 어댑터 FADD → 개시 caspase-8 활성(DISC)\n• 내인성(intrinsic): DNA 손상·스트레스 → Bax/Bak가 미토콘드리아 외막에 구멍 → 사이토크롬 c 방출 → Apaf-1 + 사이토크롬 c + (d)ATP + procaspase-9 = 아팝토솜 → caspase-9 활성\n• 두 경로 모두 실행 caspase(caspase-3·7) 활성 → 단백질 분해, DNA 절편화, 세포 축소·소포화(염증 없음)\n• caspase = 활성 자리 Cys, Asp 뒤를 자르는 단백질 분해효소\n\n✅ 채점 키워드: Fas·FADD·caspase-8 · 사이토크롬 c · Apaf-1 · 아팝토솜 · caspase-9 · caspase-3"
+    }
+  ]
+}
