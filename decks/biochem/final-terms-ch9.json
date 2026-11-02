@@ -1,0 +1,391 @@
+{
+  "deckId": "biochem-final-terms-ch9",
+  "subject": "생화학",
+  "title": "Ch9 ① 핵심 용어 카드",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch9 용어 · 클로닝 도구] 다음 설명에 해당하는 것은?\n특정 회문 서열을 인식해 DNA를 자르는 효소",
+      "choices": [
+        "제한 엔도뉴클레이스",
+        "DNA 리게이스",
+        "형질전환",
+        "클로닝 벡터"
+      ],
+      "answer": "제한 엔도뉴클레이스",
+      "explanation": "정답: 제한 엔도뉴클레이스\nEcoRI: GAATTC, 점착 말단\n\n같은 묶음(클로닝 도구):\n• DNA 리게이스 — DNA 조각의 3′-OH와 5′-인산을 포스포다이에스터 결합으로 이음\n• 클로닝 벡터 — 외래 DNA를 운반해 숙주에서 복제시키는 DNA(복제 기점·선택 표지·클로닝 자리)\n• 형질전환 — 세포가 외부 DNA(플라스미드)를 받아들임"
+    },
+    {
+      "id": 2,
+      "question": "[Ch9 용어 · 클로닝 도구] 다음 설명에 해당하는 것은?\nDNA 조각의 3′-OH와 5′-인산을 포스포다이에스터 결합으로 이음",
+      "choices": [
+        "DNA 리게이스",
+        "형질전환",
+        "제한 엔도뉴클레이스",
+        "클로닝 벡터"
+      ],
+      "answer": "DNA 리게이스",
+      "explanation": "정답: DNA 리게이스\n대장균 NAD⁺, 사람·T4 ATP\n\n같은 묶음(클로닝 도구):\n• 제한 엔도뉴클레이스 — 특정 회문 서열을 인식해 DNA를 자르는 효소\n• 클로닝 벡터 — 외래 DNA를 운반해 숙주에서 복제시키는 DNA(복제 기점·선택 표지·클로닝 자리)\n• 형질전환 — 세포가 외부 DNA(플라스미드)를 받아들임"
+    },
+    {
+      "id": 3,
+      "question": "[Ch9 용어 · 클로닝 도구] 다음 설명에 해당하는 것은?\n외래 DNA를 운반해 숙주에서 복제시키는 DNA(복제 기점·선택 표지·클로닝 자리)",
+      "choices": [
+        "클로닝 벡터",
+        "DNA 리게이스",
+        "형질전환",
+        "제한 엔도뉴클레이스"
+      ],
+      "answer": "클로닝 벡터",
+      "explanation": "정답: 클로닝 벡터\n플라스미드·BAC·YAC\n\n같은 묶음(클로닝 도구):\n• 제한 엔도뉴클레이스 — 특정 회문 서열을 인식해 DNA를 자르는 효소\n• DNA 리게이스 — DNA 조각의 3′-OH와 5′-인산을 포스포다이에스터 결합으로 이음\n• 형질전환 — 세포가 외부 DNA(플라스미드)를 받아들임"
+    },
+    {
+      "id": 4,
+      "question": "[Ch9 용어 · 클로닝 도구] 다음 설명에 해당하는 것은?\n세포가 외부 DNA(플라스미드)를 받아들임",
+      "choices": [
+        "형질전환",
+        "제한 엔도뉴클레이스",
+        "클로닝 벡터",
+        "DNA 리게이스"
+      ],
+      "answer": "형질전환",
+      "explanation": "정답: 형질전환\nCaCl₂·열 충격, 전기천공\n\n같은 묶음(클로닝 도구):\n• 제한 엔도뉴클레이스 — 특정 회문 서열을 인식해 DNA를 자르는 효소\n• DNA 리게이스 — DNA 조각의 3′-OH와 5′-인산을 포스포다이에스터 결합으로 이음\n• 클로닝 벡터 — 외래 DNA를 운반해 숙주에서 복제시키는 DNA(복제 기점·선택 표지·클로닝 자리)"
+    },
+    {
+      "id": 5,
+      "question": "[Ch9 용어 · 벡터 종류] 다음 설명에 해당하는 것은?\n세균의 작은 원형 이중가닥 DNA, 독립 복제",
+      "choices": [
+        "플라스미드",
+        "YAC",
+        "BAC",
+        "발현 벡터"
+      ],
+      "answer": "플라스미드",
+      "explanation": "정답: 플라스미드\npBR322(amp^R·tet^R)\n\n같은 묶음(벡터 종류):\n• BAC — 세균 인공 염색체 — 100~300 kb 삽입\n• YAC — 효모 인공 염색체 — 텔로미어·센트로미어·복제 기점, 선형으로 작동\n• 발현 벡터 — 삽입 유전자를 숙주에서 단백질로 만들도록 프로모터·리보솜 결합 자리 포함"
+    },
+    {
+      "id": 6,
+      "question": "[Ch9 용어 · 벡터 종류] 다음 설명에 해당하는 것은?\n세균 인공 염색체 — 100~300 kb 삽입",
+      "choices": [
+        "BAC",
+        "발현 벡터",
+        "플라스미드",
+        "YAC"
+      ],
+      "answer": "BAC",
+      "explanation": "정답: BAC\nF 플라스미드 기반\n\n같은 묶음(벡터 종류):\n• 플라스미드 — 세균의 작은 원형 이중가닥 DNA, 독립 복제\n• YAC — 효모 인공 염색체 — 텔로미어·센트로미어·복제 기점, 선형으로 작동\n• 발현 벡터 — 삽입 유전자를 숙주에서 단백질로 만들도록 프로모터·리보솜 결합 자리 포함"
+    },
+    {
+      "id": 7,
+      "question": "[Ch9 용어 · 벡터 종류] 다음 설명에 해당하는 것은?\n효모 인공 염색체 — 텔로미어·센트로미어·복제 기점, 선형으로 작동",
+      "choices": [
+        "YAC",
+        "플라스미드",
+        "BAC",
+        "발현 벡터"
+      ],
+      "answer": "YAC",
+      "explanation": "정답: YAC\n수백 kb~Mb\n\n같은 묶음(벡터 종류):\n• 플라스미드 — 세균의 작은 원형 이중가닥 DNA, 독립 복제\n• BAC — 세균 인공 염색체 — 100~300 kb 삽입\n• 발현 벡터 — 삽입 유전자를 숙주에서 단백질로 만들도록 프로모터·리보솜 결합 자리 포함"
+    },
+    {
+      "id": 8,
+      "question": "[Ch9 용어 · 벡터 종류] 다음 설명에 해당하는 것은?\n삽입 유전자를 숙주에서 단백질로 만들도록 프로모터·리보솜 결합 자리 포함",
+      "choices": [
+        "발현 벡터",
+        "YAC",
+        "BAC",
+        "플라스미드"
+      ],
+      "answer": "발현 벡터",
+      "explanation": "정답: 발현 벡터\n재조합 단백질 생산\n\n같은 묶음(벡터 종류):\n• 플라스미드 — 세균의 작은 원형 이중가닥 DNA, 독립 복제\n• BAC — 세균 인공 염색체 — 100~300 kb 삽입\n• YAC — 효모 인공 염색체 — 텔로미어·센트로미어·복제 기점, 선형으로 작동"
+    },
+    {
+      "id": 9,
+      "question": "[Ch9 용어 · PCR] 다음 설명에 해당하는 것은?\n약 95 °C에서 두 가닥 분리",
+      "choices": [
+        "변성(denaturation)",
+        "결합(annealing)",
+        "신장(extension)",
+        "Ct 값"
+      ],
+      "answer": "변성(denaturation)",
+      "explanation": "정답: 변성(denaturation)\nPCR 1단계\n\n같은 묶음(PCR):\n• 결합(annealing) — 약 50~65 °C에서 프라이머가 주형에 붙음\n• 신장(extension) — 약 72 °C에서 Taq 중합효소가 합성\n• Ct 값 — qPCR에서 형광이 문턱값을 넘는 주기 수"
+    },
+    {
+      "id": 10,
+      "question": "[Ch9 용어 · PCR] 다음 설명에 해당하는 것은?\n약 50~65 °C에서 프라이머가 주형에 붙음",
+      "choices": [
+        "결합(annealing)",
+        "신장(extension)",
+        "Ct 값",
+        "변성(denaturation)"
+      ],
+      "answer": "결합(annealing)",
+      "explanation": "정답: 결합(annealing)\n프라이머 Tm 기준\n\n같은 묶음(PCR):\n• 변성(denaturation) — 약 95 °C에서 두 가닥 분리\n• 신장(extension) — 약 72 °C에서 Taq 중합효소가 합성\n• Ct 값 — qPCR에서 형광이 문턱값을 넘는 주기 수"
+    },
+    {
+      "id": 11,
+      "question": "[Ch9 용어 · PCR] 다음 설명에 해당하는 것은?\n약 72 °C에서 Taq 중합효소가 합성",
+      "choices": [
+        "신장(extension)",
+        "결합(annealing)",
+        "Ct 값",
+        "변성(denaturation)"
+      ],
+      "answer": "신장(extension)",
+      "explanation": "정답: 신장(extension)\nPCR 3단계\n\n같은 묶음(PCR):\n• 변성(denaturation) — 약 95 °C에서 두 가닥 분리\n• 결합(annealing) — 약 50~65 °C에서 프라이머가 주형에 붙음\n• Ct 값 — qPCR에서 형광이 문턱값을 넘는 주기 수"
+    },
+    {
+      "id": 12,
+      "question": "[Ch9 용어 · PCR] 다음 설명에 해당하는 것은?\nqPCR에서 형광이 문턱값을 넘는 주기 수",
+      "choices": [
+        "Ct 값",
+        "결합(annealing)",
+        "신장(extension)",
+        "변성(denaturation)"
+      ],
+      "answer": "Ct 값",
+      "explanation": "정답: Ct 값\n초기 주형 많을수록 작음\n\n같은 묶음(PCR):\n• 변성(denaturation) — 약 95 °C에서 두 가닥 분리\n• 결합(annealing) — 약 50~65 °C에서 프라이머가 주형에 붙음\n• 신장(extension) — 약 72 °C에서 Taq 중합효소가 합성"
+    },
+    {
+      "id": 13,
+      "question": "[Ch9 용어 · 유전체 비교] 다음 설명에 해당하는 것은?\n공통 조상에서 유래한 유전자",
+      "choices": [
+        "homolog",
+        "ortholog",
+        "paralog",
+        "synteny"
+      ],
+      "answer": "homolog",
+      "explanation": "정답: homolog\nparalog·ortholog를 포함\n\n같은 묶음(유전체 비교):\n• paralog — 같은 종 안에서 유전자 중복으로 생긴 상동 유전자\n• ortholog — 종 분화로 다른 종에 나뉜 상동 유전자\n• synteny — 다른 종의 염색체에서 유전자 배열 순서가 보존된 상태"
+    },
+    {
+      "id": 14,
+      "question": "[Ch9 용어 · 유전체 비교] 다음 설명에 해당하는 것은?\n같은 종 안에서 유전자 중복으로 생긴 상동 유전자",
+      "choices": [
+        "paralog",
+        "homolog",
+        "ortholog",
+        "synteny"
+      ],
+      "answer": "paralog",
+      "explanation": "정답: paralog\n기능이 갈라질 수 있음\n\n같은 묶음(유전체 비교):\n• homolog — 공통 조상에서 유래한 유전자\n• ortholog — 종 분화로 다른 종에 나뉜 상동 유전자\n• synteny — 다른 종의 염색체에서 유전자 배열 순서가 보존된 상태"
+    },
+    {
+      "id": 15,
+      "question": "[Ch9 용어 · 유전체 비교] 다음 설명에 해당하는 것은?\n종 분화로 다른 종에 나뉜 상동 유전자",
+      "choices": [
+        "ortholog",
+        "paralog",
+        "homolog",
+        "synteny"
+      ],
+      "answer": "ortholog",
+      "explanation": "정답: ortholog\n대개 같은 기능\n\n같은 묶음(유전체 비교):\n• homolog — 공통 조상에서 유래한 유전자\n• paralog — 같은 종 안에서 유전자 중복으로 생긴 상동 유전자\n• synteny — 다른 종의 염색체에서 유전자 배열 순서가 보존된 상태"
+    },
+    {
+      "id": 16,
+      "question": "[Ch9 용어 · 유전체 비교] 다음 설명에 해당하는 것은?\n다른 종의 염색체에서 유전자 배열 순서가 보존된 상태",
+      "choices": [
+        "synteny",
+        "ortholog",
+        "homolog",
+        "paralog"
+      ],
+      "answer": "synteny",
+      "explanation": "정답: synteny\n족보 2회 출제\n\n같은 묶음(유전체 비교):\n• homolog — 공통 조상에서 유래한 유전자\n• paralog — 같은 종 안에서 유전자 중복으로 생긴 상동 유전자\n• ortholog — 종 분화로 다른 종에 나뉜 상동 유전자"
+    },
+    {
+      "id": 17,
+      "question": "[Ch9 용어 · 오믹스] 다음 설명에 해당하는 것은?\n특정 조건에서 세포가 발현하는 모든 RNA",
+      "choices": [
+        "전사체(transcriptome)",
+        "마이크로어레이",
+        "단백질체(proteome)",
+        "RNA-seq"
+      ],
+      "answer": "전사체(transcriptome)",
+      "explanation": "정답: 전사체(transcriptome)\n마이크로어레이·RNA-seq\n\n같은 묶음(오믹스):\n• 단백질체(proteome) — 세포의 모든 단백질\n• 마이크로어레이 — 고정된 DNA 탐침에 형광 표지 cDNA를 혼성화해 발현 측정\n• RNA-seq — cDNA를 차세대 서열분석으로 읽어 전사체 정량"
+    },
+    {
+      "id": 18,
+      "question": "[Ch9 용어 · 오믹스] 다음 설명에 해당하는 것은?\n세포의 모든 단백질",
+      "choices": [
+        "단백질체(proteome)",
+        "전사체(transcriptome)",
+        "마이크로어레이",
+        "RNA-seq"
+      ],
+      "answer": "단백질체(proteome)",
+      "explanation": "정답: 단백질체(proteome)\n2D 전기영동·질량분석\n\n같은 묶음(오믹스):\n• 전사체(transcriptome) — 특정 조건에서 세포가 발현하는 모든 RNA\n• 마이크로어레이 — 고정된 DNA 탐침에 형광 표지 cDNA를 혼성화해 발현 측정\n• RNA-seq — cDNA를 차세대 서열분석으로 읽어 전사체 정량"
+    },
+    {
+      "id": 19,
+      "question": "[Ch9 용어 · 오믹스] 다음 설명에 해당하는 것은?\n고정된 DNA 탐침에 형광 표지 cDNA를 혼성화해 발현 측정",
+      "choices": [
+        "마이크로어레이",
+        "RNA-seq",
+        "단백질체(proteome)",
+        "전사체(transcriptome)"
+      ],
+      "answer": "마이크로어레이",
+      "explanation": "정답: 마이크로어레이\n이미 아는 서열만\n\n같은 묶음(오믹스):\n• 전사체(transcriptome) — 특정 조건에서 세포가 발현하는 모든 RNA\n• 단백질체(proteome) — 세포의 모든 단백질\n• RNA-seq — cDNA를 차세대 서열분석으로 읽어 전사체 정량"
+    },
+    {
+      "id": 20,
+      "question": "[Ch9 용어 · 오믹스] 다음 설명에 해당하는 것은?\ncDNA를 차세대 서열분석으로 읽어 전사체 정량",
+      "choices": [
+        "RNA-seq",
+        "마이크로어레이",
+        "단백질체(proteome)",
+        "전사체(transcriptome)"
+      ],
+      "answer": "RNA-seq",
+      "explanation": "정답: RNA-seq\n새 전사체 발견 가능\n\n같은 묶음(오믹스):\n• 전사체(transcriptome) — 특정 조건에서 세포가 발현하는 모든 RNA\n• 단백질체(proteome) — 세포의 모든 단백질\n• 마이크로어레이 — 고정된 DNA 탐침에 형광 표지 cDNA를 혼성화해 발현 측정"
+    },
+    {
+      "id": 21,
+      "question": "[Ch9 용어 · 단백질 상호작용] 다음 설명에 해당하는 것은?\nDNA 결합·활성화 도메인이 두 단백질 결합으로 만나 리포터 발현",
+      "choices": [
+        "효모 이중 혼성(Y2H)",
+        "TAP 태그",
+        "FRET",
+        "면역침강(IP)"
+      ],
+      "answer": "효모 이중 혼성(Y2H)",
+      "explanation": "정답: 효모 이중 혼성(Y2H)\n효모 핵 안\n\n같은 묶음(단백질 상호작용):\n• TAP 태그 — 단백질에 이중 태그를 달아 두 단계로 복합체를 정제\n• 면역침강(IP) — 항체로 표적 단백질과 결합 단백질을 끌어냄\n• FRET — 가까워진 두 형광체 사이 에너지 전달로 살아 있는 세포에서 실시간 상호작용 측정"
+    },
+    {
+      "id": 22,
+      "question": "[Ch9 용어 · 단백질 상호작용] 다음 설명에 해당하는 것은?\n단백질에 이중 태그를 달아 두 단계로 복합체를 정제",
+      "choices": [
+        "TAP 태그",
+        "면역침강(IP)",
+        "FRET",
+        "효모 이중 혼성(Y2H)"
+      ],
+      "answer": "TAP 태그",
+      "explanation": "정답: TAP 태그\n세포 파쇄 후\n\n같은 묶음(단백질 상호작용):\n• 효모 이중 혼성(Y2H) — DNA 결합·활성화 도메인이 두 단백질 결합으로 만나 리포터 발현\n• 면역침강(IP) — 항체로 표적 단백질과 결합 단백질을 끌어냄\n• FRET — 가까워진 두 형광체 사이 에너지 전달로 살아 있는 세포에서 실시간 상호작용 측정"
+    },
+    {
+      "id": 23,
+      "question": "[Ch9 용어 · 단백질 상호작용] 다음 설명에 해당하는 것은?\n항체로 표적 단백질과 결합 단백질을 끌어냄",
+      "choices": [
+        "면역침강(IP)",
+        "TAP 태그",
+        "효모 이중 혼성(Y2H)",
+        "FRET"
+      ],
+      "answer": "면역침강(IP)",
+      "explanation": "정답: 면역침강(IP)\n세포 파쇄 후\n\n같은 묶음(단백질 상호작용):\n• 효모 이중 혼성(Y2H) — DNA 결합·활성화 도메인이 두 단백질 결합으로 만나 리포터 발현\n• TAP 태그 — 단백질에 이중 태그를 달아 두 단계로 복합체를 정제\n• FRET — 가까워진 두 형광체 사이 에너지 전달로 살아 있는 세포에서 실시간 상호작용 측정"
+    },
+    {
+      "id": 24,
+      "question": "[Ch9 용어 · 단백질 상호작용] 다음 설명에 해당하는 것은?\n가까워진 두 형광체 사이 에너지 전달로 살아 있는 세포에서 실시간 상호작용 측정",
+      "choices": [
+        "FRET",
+        "면역침강(IP)",
+        "효모 이중 혼성(Y2H)",
+        "TAP 태그"
+      ],
+      "answer": "FRET",
+      "explanation": "정답: FRET\n<10 nm\n\n같은 묶음(단백질 상호작용):\n• 효모 이중 혼성(Y2H) — DNA 결합·활성화 도메인이 두 단백질 결합으로 만나 리포터 발현\n• TAP 태그 — 단백질에 이중 태그를 달아 두 단계로 복합체를 정제\n• 면역침강(IP) — 항체로 표적 단백질과 결합 단백질을 끌어냄"
+    },
+    {
+      "id": 25,
+      "question": "[Ch9 용어 · 유전자 편집·침묵] 다음 설명에 해당하는 것은?\n가이드 RNA가 Cas9을 표적 DNA로 이끌어 이중 가닥 절단",
+      "choices": [
+        "CRISPR/Cas9",
+        "NHEJ",
+        "RNAi",
+        "HDR"
+      ],
+      "answer": "CRISPR/Cas9",
+      "explanation": "정답: CRISPR/Cas9\n세균 파지 방어 체계에서 유래\n\n같은 묶음(유전자 편집·침묵):\n• NHEJ — 절단된 DNA 끝을 주형 없이 이어 붙임 → 삽입·결실\n• HDR — 주형 DNA를 이용한 정확한 수선 → 원하는 서열로 교체\n• RNAi — 이중가닥 RNA를 Dicer가 잘라 RISC가 상보 mRNA를 분해·번역 억제"
+    },
+    {
+      "id": 26,
+      "question": "[Ch9 용어 · 유전자 편집·침묵] 다음 설명에 해당하는 것은?\n절단된 DNA 끝을 주형 없이 이어 붙임 → 삽입·결실",
+      "choices": [
+        "NHEJ",
+        "HDR",
+        "RNAi",
+        "CRISPR/Cas9"
+      ],
+      "answer": "NHEJ",
+      "explanation": "정답: NHEJ\n유전자 넉아웃\n\n같은 묶음(유전자 편집·침묵):\n• CRISPR/Cas9 — 가이드 RNA가 Cas9을 표적 DNA로 이끌어 이중 가닥 절단\n• HDR — 주형 DNA를 이용한 정확한 수선 → 원하는 서열로 교체\n• RNAi — 이중가닥 RNA를 Dicer가 잘라 RISC가 상보 mRNA를 분해·번역 억제"
+    },
+    {
+      "id": 27,
+      "question": "[Ch9 용어 · 유전자 편집·침묵] 다음 설명에 해당하는 것은?\n주형 DNA를 이용한 정확한 수선 → 원하는 서열로 교체",
+      "choices": [
+        "HDR",
+        "RNAi",
+        "NHEJ",
+        "CRISPR/Cas9"
+      ],
+      "answer": "HDR",
+      "explanation": "정답: HDR\n유전자 교정\n\n같은 묶음(유전자 편집·침묵):\n• CRISPR/Cas9 — 가이드 RNA가 Cas9을 표적 DNA로 이끌어 이중 가닥 절단\n• NHEJ — 절단된 DNA 끝을 주형 없이 이어 붙임 → 삽입·결실\n• RNAi — 이중가닥 RNA를 Dicer가 잘라 RISC가 상보 mRNA를 분해·번역 억제"
+    },
+    {
+      "id": 28,
+      "question": "[Ch9 용어 · 유전자 편집·침묵] 다음 설명에 해당하는 것은?\n이중가닥 RNA를 Dicer가 잘라 RISC가 상보 mRNA를 분해·번역 억제",
+      "choices": [
+        "RNAi",
+        "NHEJ",
+        "CRISPR/Cas9",
+        "HDR"
+      ],
+      "answer": "RNAi",
+      "explanation": "정답: RNAi\nsiRNA·miRNA\n\n같은 묶음(유전자 편집·침묵):\n• CRISPR/Cas9 — 가이드 RNA가 Cas9을 표적 DNA로 이끌어 이중 가닥 절단\n• NHEJ — 절단된 DNA 끝을 주형 없이 이어 붙임 → 삽입·결실\n• HDR — 주형 DNA를 이용한 정확한 수선 → 원하는 서열로 교체"
+    },
+    {
+      "id": 29,
+      "question": "[Ch9 용어 · 역사] 다음 설명에 해당하는 것은?\n폐렴구균 형질전환 물질이 DNA임을 증명",
+      "choices": [
+        "Avery–MacLeod–McCarty(1944)",
+        "Nirenberg–Matthaei(1961)",
+        "Watson–Crick(1953)",
+        "Sanger(1977)"
+      ],
+      "answer": "Avery–MacLeod–McCarty(1944)",
+      "explanation": "정답: Avery–MacLeod–McCarty(1944)\n1952 Hershey–Chase와 구별\n\n같은 묶음(역사):\n• Watson–Crick(1953) — DNA 이중나선(B형) 모델\n• Nirenberg–Matthaei(1961) — poly(U)로 페닐알라닌 폴리펩타이드 합성 → 첫 코돈 해독\n• Sanger(1977) — 다이데옥시 사슬 종결 서열분석법"
+    },
+    {
+      "id": 30,
+      "question": "[Ch9 용어 · 역사] 다음 설명에 해당하는 것은?\nDNA 이중나선(B형) 모델",
+      "choices": [
+        "Watson–Crick(1953)",
+        "Nirenberg–Matthaei(1961)",
+        "Sanger(1977)",
+        "Avery–MacLeod–McCarty(1944)"
+      ],
+      "answer": "Watson–Crick(1953)",
+      "explanation": "정답: Watson–Crick(1953)\nFranklin X선 회절\n\n같은 묶음(역사):\n• Avery–MacLeod–McCarty(1944) — 폐렴구균 형질전환 물질이 DNA임을 증명\n• Nirenberg–Matthaei(1961) — poly(U)로 페닐알라닌 폴리펩타이드 합성 → 첫 코돈 해독\n• Sanger(1977) — 다이데옥시 사슬 종결 서열분석법"
+    },
+    {
+      "id": 31,
+      "question": "[Ch9 용어 · 역사] 다음 설명에 해당하는 것은?\npoly(U)로 페닐알라닌 폴리펩타이드 합성 → 첫 코돈 해독",
+      "choices": [
+        "Nirenberg–Matthaei(1961)",
+        "Sanger(1977)",
+        "Watson–Crick(1953)",
+        "Avery–MacLeod–McCarty(1944)"
+      ],
+      "answer": "Nirenberg–Matthaei(1961)",
+      "explanation": "정답: Nirenberg–Matthaei(1961)\nUUU = Phe\n\n같은 묶음(역사):\n• Avery–MacLeod–McCarty(1944) — 폐렴구균 형질전환 물질이 DNA임을 증명\n• Watson–Crick(1953) — DNA 이중나선(B형) 모델\n• Sanger(1977) — 다이데옥시 사슬 종결 서열분석법"
+    },
+    {
+      "id": 32,
+      "question": "[Ch9 용어 · 역사] 다음 설명에 해당하는 것은?\n다이데옥시 사슬 종결 서열분석법",
+      "choices": [
+        "Sanger(1977)",
+        "Watson–Crick(1953)",
+        "Nirenberg–Matthaei(1961)",
+        "Avery–MacLeod–McCarty(1944)"
+      ],
+      "answer": "Sanger(1977)",
+      "explanation": "정답: Sanger(1977)\n인간 유전체 사업의 기반\n\n같은 묶음(역사):\n• Avery–MacLeod–McCarty(1944) — 폐렴구균 형질전환 물질이 DNA임을 증명\n• Watson–Crick(1953) — DNA 이중나선(B형) 모델\n• Nirenberg–Matthaei(1961) — poly(U)로 페닐알라닌 폴리펩타이드 합성 → 첫 코돈 해독"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "deckId": "biochem-final-terms-ch12",
+  "subject": "생화학",
+  "title": "Ch12 ① 핵심 용어 카드",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Ch12 용어 · 신호전달 특성] 다음 설명에 해당하는 것은?\n신호 분자와 수용체의 정확한 상보적 결합",
+      "choices": [
+        "특이성",
+        "증폭",
+        "통합",
+        "탈감작"
+      ],
+      "answer": "특이성",
+      "explanation": "정답: 특이성\n분자 상보성\n\n같은 묶음(신호전달 특성):\n• 증폭 — 효소 연쇄로 신호 하나가 많은 산물을 만듦\n• 탈감작 — 신호가 계속되면 수용체 반응이 줄어듦\n• 통합 — 여러 신호가 합쳐져 하나의 반응으로 조절"
+    },
+    {
+      "id": 2,
+      "question": "[Ch12 용어 · 신호전달 특성] 다음 설명에 해당하는 것은?\n효소 연쇄로 신호 하나가 많은 산물을 만듦",
+      "choices": [
+        "증폭",
+        "특이성",
+        "탈감작",
+        "통합"
+      ],
+      "answer": "증폭",
+      "explanation": "정답: 증폭\ncAMP → PKA → 연쇄\n\n같은 묶음(신호전달 특성):\n• 특이성 — 신호 분자와 수용체의 정확한 상보적 결합\n• 탈감작 — 신호가 계속되면 수용체 반응이 줄어듦\n• 통합 — 여러 신호가 합쳐져 하나의 반응으로 조절"
+    },
+    {
+      "id": 3,
+      "question": "[Ch12 용어 · 신호전달 특성] 다음 설명에 해당하는 것은?\n신호가 계속되면 수용체 반응이 줄어듦",
+      "choices": [
+        "탈감작",
+        "통합",
+        "증폭",
+        "특이성"
+      ],
+      "answer": "탈감작",
+      "explanation": "정답: 탈감작\nβARK·β-arrestin\n\n같은 묶음(신호전달 특성):\n• 특이성 — 신호 분자와 수용체의 정확한 상보적 결합\n• 증폭 — 효소 연쇄로 신호 하나가 많은 산물을 만듦\n• 통합 — 여러 신호가 합쳐져 하나의 반응으로 조절"
+    },
+    {
+      "id": 4,
+      "question": "[Ch12 용어 · 신호전달 특성] 다음 설명에 해당하는 것은?\n여러 신호가 합쳐져 하나의 반응으로 조절",
+      "choices": [
+        "통합",
+        "탈감작",
+        "증폭",
+        "특이성"
+      ],
+      "answer": "통합",
+      "explanation": "정답: 통합\nGs와 Gi가 함께 AC 조절\n\n같은 묶음(신호전달 특성):\n• 특이성 — 신호 분자와 수용체의 정확한 상보적 결합\n• 증폭 — 효소 연쇄로 신호 하나가 많은 산물을 만듦\n• 탈감작 — 신호가 계속되면 수용체 반응이 줄어듦"
+    },
+    {
+      "id": 5,
+      "question": "[Ch12 용어 · G 단백질] 다음 설명에 해당하는 것은?\n아데닐릴 고리화효소 활성 → cAMP↑",
+      "choices": [
+        "Gs",
+        "Gi",
+        "Gt(트랜스듀신)",
+        "Gq"
+      ],
+      "answer": "Gs",
+      "explanation": "정답: Gs\nβ-아드레날린, 콜레라 독소 표적\n\n같은 묶음(G 단백질):\n• Gi — 아데닐릴 고리화효소 억제 → cAMP↓\n• Gq — 포스포리페이스 C 활성 → IP₃·DAG\n• Gt(트랜스듀신) — cGMP 포스포다이에스터레이스 활성 → cGMP↓"
+    },
+    {
+      "id": 6,
+      "question": "[Ch12 용어 · G 단백질] 다음 설명에 해당하는 것은?\n아데닐릴 고리화효소 억제 → cAMP↓",
+      "choices": [
+        "Gi",
+        "Gs",
+        "Gq",
+        "Gt(트랜스듀신)"
+      ],
+      "answer": "Gi",
+      "explanation": "정답: Gi\n백일해 독소 표적, M2\n\n같은 묶음(G 단백질):\n• Gs — 아데닐릴 고리화효소 활성 → cAMP↑\n• Gq — 포스포리페이스 C 활성 → IP₃·DAG\n• Gt(트랜스듀신) — cGMP 포스포다이에스터레이스 활성 → cGMP↓"
+    },
+    {
+      "id": 7,
+      "question": "[Ch12 용어 · G 단백질] 다음 설명에 해당하는 것은?\n포스포리페이스 C 활성 → IP₃·DAG",
+      "choices": [
+        "Gq",
+        "Gi",
+        "Gs",
+        "Gt(트랜스듀신)"
+      ],
+      "answer": "Gq",
+      "explanation": "정답: Gq\nα₁, M1/M3\n\n같은 묶음(G 단백질):\n• Gs — 아데닐릴 고리화효소 활성 → cAMP↑\n• Gi — 아데닐릴 고리화효소 억제 → cAMP↓\n• Gt(트랜스듀신) — cGMP 포스포다이에스터레이스 활성 → cGMP↓"
+    },
+    {
+      "id": 8,
+      "question": "[Ch12 용어 · G 단백질] 다음 설명에 해당하는 것은?\ncGMP 포스포다이에스터레이스 활성 → cGMP↓",
+      "choices": [
+        "Gt(트랜스듀신)",
+        "Gi",
+        "Gs",
+        "Gq"
+      ],
+      "answer": "Gt(트랜스듀신)",
+      "explanation": "정답: Gt(트랜스듀신)\n시각\n\n같은 묶음(G 단백질):\n• Gs — 아데닐릴 고리화효소 활성 → cAMP↑\n• Gi — 아데닐릴 고리화효소 억제 → cAMP↓\n• Gq — 포스포리페이스 C 활성 → IP₃·DAG"
+    },
+    {
+      "id": 9,
+      "question": "[Ch12 용어 · 2차 전달자] 다음 설명에 해당하는 것은?\nPKA를 활성화(조절 소단위에서 분리)",
+      "choices": [
+        "cAMP",
+        "DAG",
+        "IP₃",
+        "cGMP"
+      ],
+      "answer": "cAMP",
+      "explanation": "정답: cAMP\nPDE가 분해\n\n같은 묶음(2차 전달자):\n• IP₃ — 소포체 Ca²⁺ 채널을 열어 Ca²⁺ 방출\n• DAG — 막에 남아 Ca²⁺와 함께 PKC 활성\n• cGMP — PKG 활성, 시각에서 양이온 채널 개방 유지"
+    },
+    {
+      "id": 10,
+      "question": "[Ch12 용어 · 2차 전달자] 다음 설명에 해당하는 것은?\n소포체 Ca²⁺ 채널을 열어 Ca²⁺ 방출",
+      "choices": [
+        "IP₃",
+        "cAMP",
+        "cGMP",
+        "DAG"
+      ],
+      "answer": "IP₃",
+      "explanation": "정답: IP₃\n수용성\n\n같은 묶음(2차 전달자):\n• cAMP — PKA를 활성화(조절 소단위에서 분리)\n• DAG — 막에 남아 Ca²⁺와 함께 PKC 활성\n• cGMP — PKG 활성, 시각에서 양이온 채널 개방 유지"
+    },
+    {
+      "id": 11,
+      "question": "[Ch12 용어 · 2차 전달자] 다음 설명에 해당하는 것은?\n막에 남아 Ca²⁺와 함께 PKC 활성",
+      "choices": [
+        "DAG",
+        "cGMP",
+        "IP₃",
+        "cAMP"
+      ],
+      "answer": "DAG",
+      "explanation": "정답: DAG\nphorbol ester가 흉내\n\n같은 묶음(2차 전달자):\n• cAMP — PKA를 활성화(조절 소단위에서 분리)\n• IP₃ — 소포체 Ca²⁺ 채널을 열어 Ca²⁺ 방출\n• cGMP — PKG 활성, 시각에서 양이온 채널 개방 유지"
+    },
+    {
+      "id": 12,
+      "question": "[Ch12 용어 · 2차 전달자] 다음 설명에 해당하는 것은?\nPKG 활성, 시각에서 양이온 채널 개방 유지",
+      "choices": [
+        "cGMP",
+        "IP₃",
+        "DAG",
+        "cAMP"
+      ],
+      "answer": "cGMP",
+      "explanation": "정답: cGMP\nNO → 수용성 구아닐릴 고리화효소\n\n같은 묶음(2차 전달자):\n• cAMP — PKA를 활성화(조절 소단위에서 분리)\n• IP₃ — 소포체 Ca²⁺ 채널을 열어 Ca²⁺ 방출\n• DAG — 막에 남아 Ca²⁺와 함께 PKC 활성"
+    },
+    {
+      "id": 13,
+      "question": "[Ch12 용어 · 탈감작·종결] 다음 설명에 해당하는 것은?\n리간드 결합 수용체의 C말단을 인산화",
+      "choices": [
+        "βARK(GRK2)",
+        "Gα GTPase",
+        "β-arrestin",
+        "포스포다이에스터레이스(PDE)"
+      ],
+      "answer": "βARK(GRK2)",
+      "explanation": "정답: βARK(GRK2)\nGβγ가 막으로 끌어옴\n\n같은 묶음(탈감작·종결):\n• β-arrestin — 인산화된 수용체에 결합해 G 단백질 결합을 막음\n• Gα GTPase — GTP → GDP로 스스로 꺼짐\n• 포스포다이에스터레이스(PDE) — cAMP·cGMP를 분해"
+    },
+    {
+      "id": 14,
+      "question": "[Ch12 용어 · 탈감작·종결] 다음 설명에 해당하는 것은?\n인산화된 수용체에 결합해 G 단백질 결합을 막음",
+      "choices": [
+        "β-arrestin",
+        "포스포다이에스터레이스(PDE)",
+        "Gα GTPase",
+        "βARK(GRK2)"
+      ],
+      "answer": "β-arrestin",
+      "explanation": "정답: β-arrestin\n엔도사이토시스 유도\n\n같은 묶음(탈감작·종결):\n• βARK(GRK2) — 리간드 결합 수용체의 C말단을 인산화\n• Gα GTPase — GTP → GDP로 스스로 꺼짐\n• 포스포다이에스터레이스(PDE) — cAMP·cGMP를 분해"
+    },
+    {
+      "id": 15,
+      "question": "[Ch12 용어 · 탈감작·종결] 다음 설명에 해당하는 것은?\nGTP → GDP로 스스로 꺼짐",
+      "choices": [
+        "Gα GTPase",
+        "βARK(GRK2)",
+        "β-arrestin",
+        "포스포다이에스터레이스(PDE)"
+      ],
+      "answer": "Gα GTPase",
+      "explanation": "정답: Gα GTPase\n콜레라 독소가 막음\n\n같은 묶음(탈감작·종결):\n• βARK(GRK2) — 리간드 결합 수용체의 C말단을 인산화\n• β-arrestin — 인산화된 수용체에 결합해 G 단백질 결합을 막음\n• 포스포다이에스터레이스(PDE) — cAMP·cGMP를 분해"
+    },
+    {
+      "id": 16,
+      "question": "[Ch12 용어 · 탈감작·종결] 다음 설명에 해당하는 것은?\ncAMP·cGMP를 분해",
+      "choices": [
+        "포스포다이에스터레이스(PDE)",
+        "β-arrestin",
+        "Gα GTPase",
+        "βARK(GRK2)"
+      ],
+      "answer": "포스포다이에스터레이스(PDE)",
+      "explanation": "정답: 포스포다이에스터레이스(PDE)\n카페인이 억제\n\n같은 묶음(탈감작·종결):\n• βARK(GRK2) — 리간드 결합 수용체의 C말단을 인산화\n• β-arrestin — 인산화된 수용체에 결합해 G 단백질 결합을 막음\n• Gα GTPase — GTP → GDP로 스스로 꺼짐"
+    },
+    {
+      "id": 17,
+      "question": "[Ch12 용어 · 독소·약물] 다음 설명에 해당하는 것은?\nGsα를 ADP-리보실화해 GTPase 불활성 → cAMP 지속↑",
+      "choices": [
+        "콜레라 독소",
+        "보툴리눔 독소",
+        "팔보시클립",
+        "백일해 독소"
+      ],
+      "answer": "콜레라 독소",
+      "explanation": "정답: 콜레라 독소\n설사\n\n같은 묶음(독소·약물):\n• 백일해 독소 — Giα를 ADP-리보실화해 GDP 상태 고정 → 억제 불능\n• 보툴리눔 독소 — SNARE를 잘라 아세틸콜린 방출 차단\n• 팔보시클립 — CDK4/6 억제 → pRb 인산화 차단 → G1 정지"
+    },
+    {
+      "id": 18,
+      "question": "[Ch12 용어 · 독소·약물] 다음 설명에 해당하는 것은?\nGiα를 ADP-리보실화해 GDP 상태 고정 → 억제 불능",
+      "choices": [
+        "백일해 독소",
+        "팔보시클립",
+        "보툴리눔 독소",
+        "콜레라 독소"
+      ],
+      "answer": "백일해 독소",
+      "explanation": "정답: 백일해 독소\ncAMP↑\n\n같은 묶음(독소·약물):\n• 콜레라 독소 — Gsα를 ADP-리보실화해 GTPase 불활성 → cAMP 지속↑\n• 보툴리눔 독소 — SNARE를 잘라 아세틸콜린 방출 차단\n• 팔보시클립 — CDK4/6 억제 → pRb 인산화 차단 → G1 정지"
+    },
+    {
+      "id": 19,
+      "question": "[Ch12 용어 · 독소·약물] 다음 설명에 해당하는 것은?\nSNARE를 잘라 아세틸콜린 방출 차단",
+      "choices": [
+        "보툴리눔 독소",
+        "팔보시클립",
+        "콜레라 독소",
+        "백일해 독소"
+      ],
+      "answer": "보툴리눔 독소",
+      "explanation": "정답: 보툴리눔 독소\n이완성 마비\n\n같은 묶음(독소·약물):\n• 콜레라 독소 — Gsα를 ADP-리보실화해 GTPase 불활성 → cAMP 지속↑\n• 백일해 독소 — Giα를 ADP-리보실화해 GDP 상태 고정 → 억제 불능\n• 팔보시클립 — CDK4/6 억제 → pRb 인산화 차단 → G1 정지"
+    },
+    {
+      "id": 20,
+      "question": "[Ch12 용어 · 독소·약물] 다음 설명에 해당하는 것은?\nCDK4/6 억제 → pRb 인산화 차단 → G1 정지",
+      "choices": [
+        "팔보시클립",
+        "콜레라 독소",
+        "백일해 독소",
+        "보툴리눔 독소"
+      ],
+      "answer": "팔보시클립",
+      "explanation": "정답: 팔보시클립\n유방암\n\n같은 묶음(독소·약물):\n• 콜레라 독소 — Gsα를 ADP-리보실화해 GTPase 불활성 → cAMP 지속↑\n• 백일해 독소 — Giα를 ADP-리보실화해 GDP 상태 고정 → 억제 불능\n• 보툴리눔 독소 — SNARE를 잘라 아세틸콜린 방출 차단"
+    },
+    {
+      "id": 21,
+      "question": "[Ch12 용어 · 수용체 티로신 키네이스] 다음 설명에 해당하는 것은?\nα₂β₂ RTK — 자가인산화 후 IRS-1 인산화",
+      "choices": [
+        "인슐린 수용체",
+        "PKB/Akt",
+        "PI3K",
+        "IRS-1"
+      ],
+      "answer": "인슐린 수용체",
+      "explanation": "정답: 인슐린 수용체\nPI3K–PKB, Ras–MAPK\n\n같은 묶음(수용체 티로신 키네이스):\n• IRS-1 — 인슐린 수용체에 Tyr 인산화되는 결합 단백질\n• PI3K — PIP₂를 PIP₃로 인산화\n• PKB/Akt — GLUT4 이동·GSK3 억제(글리코젠 합성)"
+    },
+    {
+      "id": 22,
+      "question": "[Ch12 용어 · 수용체 티로신 키네이스] 다음 설명에 해당하는 것은?\n인슐린 수용체에 Tyr 인산화되는 결합 단백질",
+      "choices": [
+        "IRS-1",
+        "PI3K",
+        "인슐린 수용체",
+        "PKB/Akt"
+      ],
+      "answer": "IRS-1",
+      "explanation": "정답: IRS-1\nPI3K·Grb2를 모음\n\n같은 묶음(수용체 티로신 키네이스):\n• 인슐린 수용체 — α₂β₂ RTK — 자가인산화 후 IRS-1 인산화\n• PI3K — PIP₂를 PIP₃로 인산화\n• PKB/Akt — GLUT4 이동·GSK3 억제(글리코젠 합성)"
+    },
+    {
+      "id": 23,
+      "question": "[Ch12 용어 · 수용체 티로신 키네이스] 다음 설명에 해당하는 것은?\nPIP₂를 PIP₃로 인산화",
+      "choices": [
+        "PI3K",
+        "IRS-1",
+        "인슐린 수용체",
+        "PKB/Akt"
+      ],
+      "answer": "PI3K",
+      "explanation": "정답: PI3K\nPKB/Akt 활성\n\n같은 묶음(수용체 티로신 키네이스):\n• 인슐린 수용체 — α₂β₂ RTK — 자가인산화 후 IRS-1 인산화\n• IRS-1 — 인슐린 수용체에 Tyr 인산화되는 결합 단백질\n• PKB/Akt — GLUT4 이동·GSK3 억제(글리코젠 합성)"
+    },
+    {
+      "id": 24,
+      "question": "[Ch12 용어 · 수용체 티로신 키네이스] 다음 설명에 해당하는 것은?\nGLUT4 이동·GSK3 억제(글리코젠 합성)",
+      "choices": [
+        "PKB/Akt",
+        "IRS-1",
+        "인슐린 수용체",
+        "PI3K"
+      ],
+      "answer": "PKB/Akt",
+      "explanation": "정답: PKB/Akt\nPTEN이 반대\n\n같은 묶음(수용체 티로신 키네이스):\n• 인슐린 수용체 — α₂β₂ RTK — 자가인산화 후 IRS-1 인산화\n• IRS-1 — 인슐린 수용체에 Tyr 인산화되는 결합 단백질\n• PI3K — PIP₂를 PIP₃로 인산화"
+    },
+    {
+      "id": 25,
+      "question": "[Ch12 용어 · Ras–MAPK] 다음 설명에 해당하는 것은?\nSH2로 pTyr에 결합하고 Sos를 데려오는 어댑터",
+      "choices": [
+        "Grb2",
+        "Ras",
+        "Sos",
+        "MAPK(ERK)"
+      ],
+      "answer": "Grb2",
+      "explanation": "정답: Grb2\n효소 활성 없음\n\n같은 묶음(Ras–MAPK):\n• Sos — Ras의 GDP를 GTP로 바꾸는 GEF\n• Ras — 파네실로 막에 붙는 단량체 G 단백질\n• MAPK(ERK) — Raf → MEK → ERK 인산화 연쇄의 마지막 키네이스"
+    },
+    {
+      "id": 26,
+      "question": "[Ch12 용어 · Ras–MAPK] 다음 설명에 해당하는 것은?\nRas의 GDP를 GTP로 바꾸는 GEF",
+      "choices": [
+        "Sos",
+        "Grb2",
+        "MAPK(ERK)",
+        "Ras"
+      ],
+      "answer": "Sos",
+      "explanation": "정답: Sos\nRas 활성\n\n같은 묶음(Ras–MAPK):\n• Grb2 — SH2로 pTyr에 결합하고 Sos를 데려오는 어댑터\n• Ras — 파네실로 막에 붙는 단량체 G 단백질\n• MAPK(ERK) — Raf → MEK → ERK 인산화 연쇄의 마지막 키네이스"
+    },
+    {
+      "id": 27,
+      "question": "[Ch12 용어 · Ras–MAPK] 다음 설명에 해당하는 것은?\n파네실로 막에 붙는 단량체 G 단백질",
+      "choices": [
+        "Ras",
+        "Grb2",
+        "Sos",
+        "MAPK(ERK)"
+      ],
+      "answer": "Ras",
+      "explanation": "정답: Ras\n돌연변이(GTPase↓) → 암\n\n같은 묶음(Ras–MAPK):\n• Grb2 — SH2로 pTyr에 결합하고 Sos를 데려오는 어댑터\n• Sos — Ras의 GDP를 GTP로 바꾸는 GEF\n• MAPK(ERK) — Raf → MEK → ERK 인산화 연쇄의 마지막 키네이스"
+    },
+    {
+      "id": 28,
+      "question": "[Ch12 용어 · Ras–MAPK] 다음 설명에 해당하는 것은?\nRaf → MEK → ERK 인산화 연쇄의 마지막 키네이스",
+      "choices": [
+        "MAPK(ERK)",
+        "Grb2",
+        "Ras",
+        "Sos"
+      ],
+      "answer": "MAPK(ERK)",
+      "explanation": "정답: MAPK(ERK)\n핵으로 들어가 전사 조절\n\n같은 묶음(Ras–MAPK):\n• Grb2 — SH2로 pTyr에 결합하고 Sos를 데려오는 어댑터\n• Sos — Ras의 GDP를 GTP로 바꾸는 GEF\n• Ras — 파네실로 막에 붙는 단량체 G 단백질"
+    },
+    {
+      "id": 29,
+      "question": "[Ch12 용어 · 세포주기·암·세포사멸] 다음 설명에 해당하는 것은?\n잃으면 암이 생기는 유전자(p53·pRb·PTEN)",
+      "choices": [
+        "종양억제유전자",
+        "아팝토솜",
+        "원종양유전자",
+        "caspase-8"
+      ],
+      "answer": "종양억제유전자",
+      "explanation": "정답: 종양억제유전자\n두 대립유전자 모두 소실\n\n같은 묶음(세포주기·암·세포사멸):\n• 원종양유전자 — 활성 돌연변이로 종양유전자가 되는 정상 유전자(Ras·BRAF·EGFR)\n• 아팝토솜 — 사이토크롬 c + Apaf-1 + procaspase-9 복합체\n• caspase-8 — Fas–FADD 사멸 수용체 경로의 개시 caspase"
+    },
+    {
+      "id": 30,
+      "question": "[Ch12 용어 · 세포주기·암·세포사멸] 다음 설명에 해당하는 것은?\n활성 돌연변이로 종양유전자가 되는 정상 유전자(Ras·BRAF·EGFR)",
+      "choices": [
+        "원종양유전자",
+        "아팝토솜",
+        "종양억제유전자",
+        "caspase-8"
+      ],
+      "answer": "원종양유전자",
+      "explanation": "정답: 원종양유전자\n한 대립유전자로 충분\n\n같은 묶음(세포주기·암·세포사멸):\n• 종양억제유전자 — 잃으면 암이 생기는 유전자(p53·pRb·PTEN)\n• 아팝토솜 — 사이토크롬 c + Apaf-1 + procaspase-9 복합체\n• caspase-8 — Fas–FADD 사멸 수용체 경로의 개시 caspase"
+    },
+    {
+      "id": 31,
+      "question": "[Ch12 용어 · 세포주기·암·세포사멸] 다음 설명에 해당하는 것은?\n사이토크롬 c + Apaf-1 + procaspase-9 복합체",
+      "choices": [
+        "아팝토솜",
+        "caspase-8",
+        "원종양유전자",
+        "종양억제유전자"
+      ],
+      "answer": "아팝토솜",
+      "explanation": "정답: 아팝토솜\n내인성 apoptosis\n\n같은 묶음(세포주기·암·세포사멸):\n• 종양억제유전자 — 잃으면 암이 생기는 유전자(p53·pRb·PTEN)\n• 원종양유전자 — 활성 돌연변이로 종양유전자가 되는 정상 유전자(Ras·BRAF·EGFR)\n• caspase-8 — Fas–FADD 사멸 수용체 경로의 개시 caspase"
+    },
+    {
+      "id": 32,
+      "question": "[Ch12 용어 · 세포주기·암·세포사멸] 다음 설명에 해당하는 것은?\nFas–FADD 사멸 수용체 경로의 개시 caspase",
+      "choices": [
+        "caspase-8",
+        "종양억제유전자",
+        "아팝토솜",
+        "원종양유전자"
+      ],
+      "answer": "caspase-8",
+      "explanation": "정답: caspase-8\n외인성 apoptosis\n\n같은 묶음(세포주기·암·세포사멸):\n• 종양억제유전자 — 잃으면 암이 생기는 유전자(p53·pRb·PTEN)\n• 원종양유전자 — 활성 돌연변이로 종양유전자가 되는 정상 유전자(Ras·BRAF·EGFR)\n• 아팝토솜 — 사이토크롬 c + Apaf-1 + procaspase-9 복합체"
+    }
+  ]
+}
