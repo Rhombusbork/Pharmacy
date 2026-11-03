@@ -1,0 +1,154 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-short-2",
+  "subject": "생약학",
+  "title": "10주 카드 ③ 주관식 2/2: 라틴명·지표·산지 → 생약 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Rauwolfiae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "인도사목",
+        "印度蛇木"
+      ],
+      "explanation": "Rauwolfiae Radix = 인도사목(印度蛇木)\n기원: 인도사목 Rauvolfia serpentina의 뿌리 — 협죽도과 Apocynaceae\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Ginseng Radix인 생약의 한글 이름은?",
+      "answer": [
+        "인삼",
+        "人蔘"
+      ],
+      "explanation": "Ginseng Radix = 인삼(人蔘)\n기원: 인삼 Panax ginseng의 뿌리(그대로 또는 가는 뿌리와 코르크층 제거) — 두릅나무과(오갈피나무과) Araliaceae\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Ginseng Radix Rubra인 생약의 한글 이름은?",
+      "answer": [
+        "홍삼",
+        "紅蔘"
+      ],
+      "explanation": "Ginseng Radix Rubra = 홍삼(紅蔘)\n기원: 인삼 Panax ginseng의 뿌리를 찐 것 — 두릅나무과(오갈피나무과) Araliaceae\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
+    },
+    {
+      "id": 4,
+      "question": "약전에서 'oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "백지"
+      ],
+      "explanation": "백지 (Angelicae Dahuricae Radix) — 산형과(미나리과) Umbelliferae\n대표 성분: furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 5,
+      "question": "산지가 '한국, 중국'인 생약은?",
+      "answer": [
+        "백지"
+      ],
+      "explanation": "백지 (Angelicae Dahuricae Radix) — 산형과(미나리과) Umbelliferae\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 6,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "부자"
+      ],
+      "explanation": "부자 (Aconiti Lateralis Radix Preparata) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 7,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "천오"
+      ],
+      "explanation": "천오 (Aconiti Tuber) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 8,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "초오"
+      ],
+      "explanation": "초오 (Aconiti Ciliare Tuber) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid — aconitine, hypaconitine, mesaconitine"
+    },
+    {
+      "id": 9,
+      "question": "산지가 '우리나라 각지, 중국 동북·화북'인 생약은?",
+      "answer": [
+        "초오"
+      ],
+      "explanation": "초오 (Aconiti Ciliare Tuber) — 미나리아재비과 Ranunculaceae"
+    },
+    {
+      "id": 10,
+      "question": "산지가 '중국(운남·광서·사천·호북)'인 생약은?",
+      "answer": [
+        "삼칠"
+      ],
+      "explanation": "삼칠 (Notoginseng Radix et Rhizoma) — 두릅나무과 Araliaceae\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 11,
+      "question": "산지가 '북미'인 생약은?",
+      "answer": [
+        "세네가"
+      ],
+      "explanation": "세네가 (Senegae Radix) — 원지과 Polygalaceae\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 12,
+      "question": "산지가 '우리나라 전역, 중국, 일본'인 생약은?",
+      "answer": [
+        "세신"
+      ],
+      "explanation": "세신 (Asari Radix et Rhizoma) — 쥐방울덩굴과 Aristolochiaceae\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 13,
+      "question": "약전에서 'saikosaponin a 0.3% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "시호"
+      ],
+      "explanation": "시호 (Bupleuri Radix) — 산형과(미나리과) Umbelliferae\n대표 성분: triterpenoid saponin(oleanane) — saikosaponin a, b, c, d, e, f, g\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+    },
+    {
+      "id": 14,
+      "question": "산지가 '유럽'인 생약은?",
+      "answer": [
+        "겐티아나근"
+      ],
+      "explanation": "겐티아나근 (Gentianae Luteae Radix et Rhizoma) — 용담과 Gentianaceae"
+    },
+    {
+      "id": 15,
+      "question": "약전에서 '총 alkaloid(reserpine으로서) 0.8% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "인도사목"
+      ],
+      "explanation": "인도사목 (Rauwolfiae Radix) — 협죽도과 Apocynaceae\n대표 성분: indole alkaloid(0.8~1.3%) — reserpine, deserpidine, rescinnamine, ajmaline, ajmalicine, serpentine\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 16,
+      "question": "산지가 '인도(주산지), 버마, 파키스탄, 스리랑카, 태국'인 생약은?",
+      "answer": [
+        "인도사목"
+      ],
+      "explanation": "인도사목 (Rauwolfiae Radix) — 협죽도과 Apocynaceae\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 17,
+      "question": "약전에서 'ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "인삼"
+      ],
+      "explanation": "인삼 (Ginseng Radix) — 두릅나무과(오갈피나무과) Araliaceae\n대표 성분: dammarane계 saponin — protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂, Rc, Rd / protopanaxatriol(PPT): Re, Rf, Rg₁, Rg₂, Rh₁ (PPD : PPT = 3 : 1)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+    },
+    {
+      "id": 18,
+      "question": "약전에서 'ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음)'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "홍삼"
+      ],
+      "explanation": "홍삼 (Ginseng Radix Rubra) — 두릅나무과(오갈피나무과) Araliaceae\n대표 성분: 홍삼 특유 ginsenoside(찌는 과정에서 생성) — ginsenoside Rh₂, 20(R)-Rg₂, 20(S)-Rg₃, 20(R)-Rh₁, Rs₁, Rs₂\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
+    }
+  ]
+}

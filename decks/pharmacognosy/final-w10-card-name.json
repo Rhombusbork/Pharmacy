@@ -1,0 +1,293 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-name",
+  "subject": "생약학",
+  "title": "10주 카드 ① 이름 가린 카드 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n약리:\n· 해열·진통\n· 중추신경 흥분: phellopterin(benzodiazepine 수용체 결합 억제), angelic acid\n· 항염증: imperatorin(COX-2 억제), byakangelicol\n· 백반증 개선: psoralen·8-methoxypsoralen 광감각 → UVA 조사(PUVA)\n· 백내장 개선: byakangelicin(aldose reductase 저해)\n· 지방분해 촉진(furanocoumarin), 혈관확장(imperatorin)\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "시호",
+        "백지",
+        "속단",
+        "진교",
+        "세신"
+      ],
+      "answer": "백지",
+      "explanation": "정답: 백지 (Angelicae Dahuricae Radix, 白芷)\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (□□·□□ 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n약리:\n· 강심: higenamine(β-수용체 작용약 유사, diterpene alkaloid가 아님), coryneine\n· 진통: mesaconitine > aconitine > hypaconitine\n· 항염증: aconitine류, ignavine\n· 혈당강하: glycan aconitan A\n· 부정맥 작용: beiwutine > mesaconitine > aconitine > hypaconitine\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염○○(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포○○(염분 제거 후 감초·검정콩과 삶기). 가공○○: 가압·가열 → benzoylaconine",
+      "choices": [
+        "초오",
+        "오약",
+        "위령선",
+        "부자",
+        "천오"
+      ],
+      "answer": "부자",
+      "explanation": "정답: 부자 (Aconiti Lateralis Radix Preparata, 附子)\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n약리:\n· □□는 양기를 보충, 오두(○○)는 냉증 등 찬 기운으로 인한 통증·저림에\n· aconitine: 강심, 일시적 혈압강하\n· 부종 억제, κ-opioid receptor 활성 → 모르핀 의존 억제\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(□□는 소금으로 장시간 법제)",
+      "choices": [
+        "오약",
+        "위령선",
+        "초오",
+        "천오",
+        "부자"
+      ],
+      "answer": "천오",
+      "explanation": "정답: 천오 (Aconiti Tuber, 川烏)\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n약리:\n· 발모 촉진(Wnt/β-catenin 활성)\n· 진통·강심(□□ 참조)\n응용: □□와 같으나 □□만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "세신",
+        "부자",
+        "초오",
+        "위령선",
+        "천오"
+      ],
+      "answer": "초오",
+      "explanation": "정답: 초오 (Aconiti Ciliare Tuber, 草烏)\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n약리:\n· 심혈관: 관상동맥 확장 → 협심증, trilinolein(심근 보호·항혈전·항부정맥), notoginsenoside R₁(t-PA↑ → 혈전용해)\n· 지혈(알코올 추출물)\n· 간·위·신장 보호, 기억력 개선, 콜레스테롤 저하\n· Rg₁ estrogen 유사, 골형성 촉진\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광",
+      "choices": [
+        "삼칠",
+        "홍삼",
+        "인삼",
+        "위령선",
+        "세신"
+      ],
+      "answer": "삼칠",
+      "explanation": "정답: 삼칠 (Notoginseng Radix et Rhizoma, 三七)\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 위령선 — 미나리아재비과\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Polygalaceae\n산지: 북미\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n약리:\n· 진해·거담: □□와 비슷하나 더 강함, 이뇨\n· 항암, 혈관신생 억제(saponin)\n· 항남성호르몬: hydroxyxanthone(5α-DHT 결합 억제)\n· 혈당강하: senegin II·III\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "시호",
+        "속단",
+        "원지",
+        "세네가",
+        "은시호"
+      ],
+      "answer": "세네가",
+      "explanation": "정답: 세네가 (Senegae Radix)\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n약리:\n· 해열·진정·진통·국소마취·항염증, 강심·혈관확장\n· 항균, 항알러지(5-LOX 억제: elemicin 등)\n· aristolactam III 암세포독성, 살충(집파리)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "부자",
+        "세신",
+        "용담",
+        "시호",
+        "진교"
+      ],
+      "answer": "세신",
+      "explanation": "정답: 세신 (Asari Radix et Rhizoma, 細辛)\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n약리:\n· 배농·지혈·진통·유즙분비 촉진·조직재생 촉진\n· 신경보호(총 saponin), 면역조절(다당류), 항염증·항관절염\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "한속단",
+        "용담",
+        "세네가",
+        "우슬",
+        "속단"
+      ],
+      "answer": "속단",
+      "explanation": "정답: 속단 (Dipsaci Radix, 續斷)\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 한속단 — 꿀풀과, phenylethanoid: verbascoside(= acteoside), isoacteoside\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 우슬 — 비름과, ecdysteroid(곤충 탈피호르몬): inokosterone, ecdysterone(20-hydroxyecdysone)\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n약리:\n· 항알러지: histamine·IL-1β 분비 억제\n· 통증 완화·항염증\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(□□과 같은 용도)",
+      "choices": [
+        "부자",
+        "시호",
+        "천오",
+        "속단",
+        "한속단"
+      ],
+      "answer": "한속단",
+      "explanation": "정답: 한속단 (Phlomidis Radix, 韓續斷)\n기원: 한속단 Phlomis umbrosa의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n지표(약전): saikosaponin a 0.3% 이상\n성분:\n· triterpenoid saponin(oleanane) — saikosaponin a, b, c, d, e, f, g\n· polyacetylene — saikodiyne A~C\n· flavonoid — 6-C-glycosyl tetrahydroxyflavone\n· sterol — spinasterol, stigmasterol\n· 다당류 — bupleuran 2IIb\n약리:\n· 해열·진통·항경련(발열중추 억제)\n· 간세포 보호(CCl₄ 간독성 억제, saikosaponin)\n· 항염증: saikosaponin a·d(강함), 가열 추출 중 b₁·b₂로 변해 효과↑\n· 중추억제: 강한 진통(saikosaponin b·c), 진정\n· 면역증강, 항궤양(bupleuran), 암세포독성(saikosaponin d > a)\n응용: 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침\n확인시험: TLC: saikosaponin a·d 보라색 반점\n주의: 대엽○○의 근경은 독성이 있어 사용 금지",
+      "choices": [
+        "진교",
+        "백지",
+        "시호",
+        "인삼",
+        "은시호"
+      ],
+      "answer": "시호",
+      "explanation": "정답: 시호 (Bupleuri Radix, 柴胡)\n기원: 시호 Bupleurum falcatum 또는 그 변종의 뿌리 (중국: 북시호 B. chinense, 협엽시호 B. scorzonerifolium)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 백지 — 산형과(미나리과), furanocoumarin: oxypeucedanin, imperatorin\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 녹나무과 Lauraceae\n성분:\n· sesquiterpenoid — linderenol, linderene, linderane, lindenenone, lindestrene, linderalactone\n· 이량체 — bilindestenolide\n· alkaloid — higenamine, magnoflorine, norisoboldine\n약리:\n· 장 연동 촉진·건위(배기탕: ○○ + 목향 → 위장관 평활근 연동↑)\n· prolyl endopeptidase 억제(linderene 등), 혈액응고 촉진\n· 총 alkaloid 항류머티스, 미백(tyrosinase 억제), 구충\n응용: 방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증\n확인시험: ① Mayer 시액 → 흰색 혼탁 ② TLC: linderane",
+      "choices": [
+        "세신",
+        "용담",
+        "오약",
+        "진교",
+        "천오"
+      ],
+      "answer": "오약",
+      "explanation": "정답: 오약 (Linderae Radix, 烏藥)\n기원: 오약 Lindera strychnifolia의 뿌리 (중국: L. aggregata)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Gentianaceae\n성분:\n· secoiridoid glycoside(쓴맛) — gentiopicroside(= gentiopicrin, 7~10%), swertiamarin, sweroside, trifloroside\n· xanthone — gentisin\n· alkaloid — gentianine\n· phenolic acid — gentisic acid\n약리:\n· 건위(고미건위): gentiopicroside → 위액 분비 촉진, 위 운동 촉진\n· 항염증: gentiopicroside(부종 억제, 간염 억제)\n· 해열, 간 보호\n응용: 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조\n확인시험: TLC(254 nm): gentiopicroside 보라색 반점\n주의: 드물게 두통. 지황과는 배합하지 않음\n특징: 맛이 매우 쓰고 오래 남음",
+      "choices": [
+        "진교",
+        "속단",
+        "겐티아나근",
+        "세신",
+        "용담"
+      ],
+      "answer": "용담",
+      "explanation": "정답: 용담 (Gentianae Scabrae Radix et Rhizoma, 龍膽)\n기원: 용담 Gentiana scabra, 과남풀 G. triflora, 조엽용담 G. manshurica의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n★ 족보: 용담·겐티아나근 = 고미건위약(secoiridoid)"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Gentianaceae\n산지: 유럽\n성분:\n· secoiridoid glycoside(고미배당체) — gentiopicrin(약 2%), sweroside, swertiamarin, amarogentin(가장 쓴 성분)\n· xanthone — gentisin, isogentisin\n· triterpenoid\n· flavonoid — isoorientin glucoside\n약리:\n· □□과 같음 + swertiamarin 중추억제·위액 분비 촉진\n· 쓴맛 성분(amarogentin 등) → 타액·소화액 분비 촉진 → 고미제이면서 강장약\n응용: 식욕부진·헛배부름·소화불량에 고미건위약\n주의: 위궤양·십이지장궤양에는 사용하지 않음(쓴맛 → 위액↑). 드물게 두통\n특징: 처음엔 달고 나중에 쓰며 오래 남음",
+      "choices": [
+        "용담",
+        "진교",
+        "시호",
+        "은시호",
+        "겐티아나근"
+      ],
+      "answer": "겐티아나근",
+      "explanation": "정답: 겐티아나근 (Gentianae Luteae Radix et Rhizoma)\n기원: 겐티아나 Gentiana lutea의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n약리:\n· 항염증: gentianine(관절염, 부신피질 기능 항진)\n· 항진균·항세균, 혈당 증가·혈압강하(gentianine)\n· 해열·진통·진정\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "시호",
+        "세신",
+        "겐티아나근",
+        "진교",
+        "용담"
+      ],
+      "answer": "진교",
+      "explanation": "정답: 진교 (Gentianae Macrophyllae Radix, 秦艽)\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n약리:\n· 항염증(부종·육아종·관절염 억제)\n· 항종양·면역증강(다당류)\n· 자궁 수축, 피임 같은 호르몬 유사 작용\n· 혈당강하, 진통·이뇨, 모기 살충(saponin)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기\n특징: 횡단면: 유관속이 2~4 바퀴로 배열한 이상유관속",
+      "choices": [
+        "용담",
+        "세네가",
+        "은시호",
+        "우슬",
+        "속단"
+      ],
+      "answer": "우슬",
+      "explanation": "정답: 우슬 (Achyranthis Radix, 牛膝)\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n약리:\n· 이담: curcumin → 담즙 분비 촉진, 간 기능 항진\n· 건위(간 기능 장애로 인한 소화불량), 정유 → 담도결석 개선\n· 항암·항염증(curcumin: NF-κB·COX-2 억제), 간 보호\n· 자궁 수축, ar-turmerone 뱀독 중화\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: 임부는 주의",
+      "choices": [
+        "오약",
+        "겐티아나근",
+        "인삼",
+        "울금",
+        "용담"
+      ],
+      "answer": "울금",
+      "explanation": "정답: 울금 (Curcumae Radix, 鬱金)\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n약리:\n· 거담: 기관지 반사 → 기관지 점막 분비물↑(tenuigenin은 senegin 유사)\n· 뇌세포 보호·진정: onjisaponin → NGF 분비↑, 기억력 개선, cAMP PDE 억제, 수면 연장\n· 항우울(tenuifoliside A, disinapoylsucrose), 구충\n· 자궁 수축\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "세네가",
+        "시호",
+        "은시호",
+        "원지",
+        "겐티아나근"
+      ],
+      "answer": "원지",
+      "explanation": "정답: 원지 (Polygalae Radix, 遠志)\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n약리:\n· 골연화: 목구멍에 걸린 (생선)뼈를 내려가게 함 — 식초 추출물이 생선뼈를 연화\n· 항진균(피부진균), 항당뇨(β세포 보호)\n· 해열·진통·항이뇨, 요산을 녹여 통풍에 효과\n응용: 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+      "choices": [
+        "천오",
+        "부자",
+        "세신",
+        "위령선",
+        "초오"
+      ],
+      "answer": "위령선",
+      "explanation": "정답: 위령선 (Clematidis Radix et Rhizoma, 威靈仙)\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 석죽과 Caryophyllaceae\n성분:\n· cyclopeptide — dichotomin A~I, gypsophin\n· flavonoid — 6,8-di-C-galactosyl apigenin\n· triterpenoid saponin — gypsosaponin A~C, quillaic acid\n· steroid — α-spinasterol\n약리:\n· 해열·거담\n응용: 진해·거담·해열약",
+      "choices": [
+        "시호",
+        "은시호",
+        "세네가",
+        "겐티아나근",
+        "원지"
+      ],
+      "answer": "은시호",
+      "explanation": "정답: 은시호 (Stellariae seu Gypsophilae Radix, 銀柴胡)\n기원: 대나물 Gypsophila oldhamiana 또는 은시호 Stellaria dichotoma var. lanceolata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 협죽도과 Apocynaceae\n산지: 인도(주산지), 버마, 파키스탄, 스리랑카, 태국\n지표(약전): 총 alkaloid(reserpine으로서) 0.8% 이상\n성분:\n· indole alkaloid(0.8~1.3%) — reserpine, deserpidine, rescinnamine, ajmaline, ajmalicine, serpentine\n약리:\n· 혈압강하·진정·최면: reserpine → 말초 catecholamine 고갈 → 지속적 혈압강하·심박수 감소, 중추 serotonin 고갈 → 진정\n· ajmalicine(= raubasine): α-수용체 차단, 뇌혈류 증가\n· ajmaline: 항부정맥(현재 판매 안 됨)\n응용: 혈압강하제, 정신안정제, reserpine 제조 원료(동맥성 고혈압, thiazide계 이뇨제와 병용)\n확인시험: 꺾은 면에 희석 HNO₃ → 사부 방사조직 선명한 적자색\n주의: 비충혈, 우울, 피로, 성욕감퇴. reserpine 과량 → 호흡저하, 서맥, 저혈압, 경련",
+      "choices": [
+        "천오",
+        "오약",
+        "세신",
+        "인도사목",
+        "진교"
+      ],
+      "answer": "인도사목",
+      "explanation": "정답: 인도사목 (Rauwolfiae Radix, 印度蛇木)\n기원: 인도사목 Rauvolfia serpentina의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 두릅나무과(오갈피나무과) Araliaceae\n지표(약전): ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상\n성분:\n· dammarane계 saponin — protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂, Rc, Rd / protopanaxatriol(PPT): Re, Rf, Rg₁, Rg₂, Rh₁ (PPD : PPT = 3 : 1)\n· oleanane계 saponin — ginsenoside Ro\n· polyacetylene — panaxynol, panaxytriol\n· 기타 — 정유(panacene, β-elemene), alkaloid spinacine, 단백질 panaxagin, 다당류 panaxan\n약리:\n· 자양강장: ginsenoside Rb₂, Rc, Re, Rg₁(RNA·단백질 합성↑)\n· 중추: Rb군 = 중추 억제, Rg군 = 중추 흥분\n· 면역증강(다당류), 혈당강하(총 saponin, Rb₂, panaxan류), 지질대사(Rb₂)\n· 항암: protopanaxatriol, Rh₂\n· PPD계는 용혈 작용 없음(항용혈), PPT계·oleanane계는 강한 용혈\n응용: 강장·강심·건위보정·진정 — 위장쇠약에 의한 신진대사 저하, 소화불량, 구토, 식욕부진, 당뇨\n확인시험: ① 횡단면 + 묽은 요오드 시액 → 어두운 청색(전분) ② 기포 시험(saponin) ③ TLC: ginsenoside Rg₁\n주의: 음허·양항진·실열이 성한 경우 금기. 장기 복용 → 부신피질호르몬 유사 효과(하루 2 g 이하, 3개월 이상 연속 금지)",
+      "choices": [
+        "홍삼",
+        "원지",
+        "인삼",
+        "삼칠",
+        "시호"
+      ],
+      "answer": "인삼",
+      "explanation": "정답: 인삼 (Ginseng Radix, 人蔘)\n기원: 인삼 Panax ginseng의 뿌리(그대로 또는 가는 뿌리와 코르크층 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 두릅나무과(오갈피나무과) Araliaceae\n지표(약전): ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(□□과 같음)\n성분:\n· ○○ 특유 ginsenoside(찌는 과정에서 생성) — ginsenoside Rh₂, 20(R)-Rg₂, 20(S)-Rg₃, 20(R)-Rh₁, Rs₁, Rs₂\n· 수삼·건삼 특유 → ○○ 제조 중 변환 — malonyl-ginsenoside\n약리:\n· 강장: 수영 시간 연장, 스트레스 궤양 억제, 간 재생 촉진, 발기부전\n· 항암: Rh₂(종양세포 증식 억제), Rg₃(침윤·전이 억제, P-gp 다제내성 역전), panaxytriol\n· 갱년기 증상 개선, 골밀도 증가, 혈압강하\n응용: □□과 같음",
+      "choices": [
+        "겐티아나근",
+        "홍삼",
+        "시호",
+        "삼칠",
+        "인삼"
+      ],
+      "answer": "홍삼",
+      "explanation": "정답: 홍삼 (Ginseng Radix Rubra, 紅蔘)\n기원: 인삼 Panax ginseng의 뿌리를 찐 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
+    }
+  ]
+}

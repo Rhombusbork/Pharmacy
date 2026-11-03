@@ -1,0 +1,176 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-short-1",
+  "subject": "생약학",
+  "title": "10주 카드 ③ 주관식 1/2: 라틴명·지표·산지 → 생약 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Angelicae Dahuricae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "백지",
+        "白芷"
+      ],
+      "explanation": "Angelicae Dahuricae Radix = 백지(白芷)\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리 — 산형과(미나리과) Umbelliferae\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Aconiti Lateralis Radix Preparata인 생약의 한글 이름은?",
+      "answer": [
+        "부자",
+        "附子"
+      ],
+      "explanation": "Aconiti Lateralis Radix Preparata = 부자(附子)\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것 — 미나리아재비과 Ranunculaceae\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Aconiti Tuber인 생약의 한글 이름은?",
+      "answer": [
+        "천오",
+        "川烏"
+      ],
+      "explanation": "Aconiti Tuber = 천오(川烏)\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기 — 미나리아재비과 Ranunculaceae\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Aconiti Ciliare Tuber인 생약의 한글 이름은?",
+      "answer": [
+        "초오",
+        "草烏"
+      ],
+      "explanation": "Aconiti Ciliare Tuber = 초오(草烏)\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기 — 미나리아재비과 Ranunculaceae"
+    },
+    {
+      "id": 5,
+      "question": "라틴 생약명이 Notoginseng Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "삼칠",
+        "三七"
+      ],
+      "explanation": "Notoginseng Radix et Rhizoma = 삼칠(三七)\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기 — 두릅나무과 Araliaceae\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Senegae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "세네가"
+      ],
+      "explanation": "Senegae Radix = 세네가()\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리 — 원지과 Polygalaceae\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 7,
+      "question": "라틴 생약명이 Asari Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "세신",
+        "細辛"
+      ],
+      "explanation": "Asari Radix et Rhizoma = 세신(細辛)\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기 — 쥐방울덩굴과 Aristolochiaceae\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 8,
+      "question": "라틴 생약명이 Dipsaci Radix인 생약의 한글 이름은?",
+      "answer": [
+        "속단",
+        "續斷"
+      ],
+      "explanation": "Dipsaci Radix = 속단(續斷)\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못) — 산토끼꽃과 Dipsacaceae\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 9,
+      "question": "라틴 생약명이 Phlomidis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "한속단",
+        "韓續斷"
+      ],
+      "explanation": "Phlomidis Radix = 한속단(韓續斷)\n기원: 한속단 Phlomis umbrosa의 뿌리 — 꿀풀과 Labiatae"
+    },
+    {
+      "id": 10,
+      "question": "라틴 생약명이 Bupleuri Radix인 생약의 한글 이름은?",
+      "answer": [
+        "시호",
+        "柴胡"
+      ],
+      "explanation": "Bupleuri Radix = 시호(柴胡)\n기원: 시호 Bupleurum falcatum 또는 그 변종의 뿌리 (중국: 북시호 B. chinense, 협엽시호 B. scorzonerifolium) — 산형과(미나리과) Umbelliferae\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+    },
+    {
+      "id": 11,
+      "question": "라틴 생약명이 Linderae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "오약",
+        "烏藥"
+      ],
+      "explanation": "Linderae Radix = 오약(烏藥)\n기원: 오약 Lindera strychnifolia의 뿌리 (중국: L. aggregata) — 녹나무과 Lauraceae"
+    },
+    {
+      "id": 12,
+      "question": "라틴 생약명이 Gentianae Scabrae Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "용담",
+        "龍膽"
+      ],
+      "explanation": "Gentianae Scabrae Radix et Rhizoma = 용담(龍膽)\n기원: 용담 Gentiana scabra, 과남풀 G. triflora, 조엽용담 G. manshurica의 뿌리 및 뿌리줄기 — 용담과 Gentianaceae\n★ 족보: 용담·겐티아나근 = 고미건위약(secoiridoid)"
+    },
+    {
+      "id": 13,
+      "question": "라틴 생약명이 Gentianae Luteae Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "겐티아나근"
+      ],
+      "explanation": "Gentianae Luteae Radix et Rhizoma = 겐티아나근()\n기원: 겐티아나 Gentiana lutea의 뿌리 및 뿌리줄기 — 용담과 Gentianaceae"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Gentianae Macrophyllae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "진교",
+        "秦艽"
+      ],
+      "explanation": "Gentianae Macrophyllae Radix = 진교(秦艽)\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리 — 용담과 Gentianaceae"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Achyranthis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "우슬",
+        "牛膝"
+      ],
+      "explanation": "Achyranthis Radix = 우슬(牛膝)\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리 — 비름과 Amaranthaceae\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 16,
+      "question": "라틴 생약명이 Curcumae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "울금",
+        "鬱金"
+      ],
+      "explanation": "Curcumae Radix = 울금(鬱金)\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림) — 생강과 Zingiberaceae\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 17,
+      "question": "라틴 생약명이 Polygalae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "원지",
+        "遠志"
+      ],
+      "explanation": "Polygalae Radix = 원지(遠志)\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica) — 원지과 Polygalaceae\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 18,
+      "question": "라틴 생약명이 Clematidis Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "위령선",
+        "威靈仙"
+      ],
+      "explanation": "Clematidis Radix et Rhizoma = 위령선(威靈仙)\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기 — 미나리아재비과 Ranunculaceae\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+    },
+    {
+      "id": 19,
+      "question": "라틴 생약명이 Stellariae seu Gypsophilae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "은시호",
+        "銀柴胡"
+      ],
+      "explanation": "Stellariae seu Gypsophilae Radix = 은시호(銀柴胡)\n기원: 대나물 Gypsophila oldhamiana 또는 은시호 Stellaria dichotoma var. lanceolata의 뿌리 — 석죽과 Caryophyllaceae"
+    }
+  ]
+}

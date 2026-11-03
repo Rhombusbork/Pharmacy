@@ -1,0 +1,345 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-blank-1",
+  "subject": "생약학",
+  "title": "10주 카드 ② 칸 가린 카드 1/5 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n지표(약전): ( ㉠ )\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+        "총 alkaloid(aconitine으로서) 0.5% 이상",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음)",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상",
+        "총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)"
+      ],
+      "answer": "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+      "explanation": "정답: oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n\n오답 출처:\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음) → 홍삼의 약전 지표성분·함량\n· 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음) → 부자의 약전 지표성분·함량\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상 → 인삼의 약전 지표성분·함량\n· 총 alkaloid(aconitine으로서) 0.5% 이상 → 천오, 초오의 약전 지표성분·함량\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n성분:\n· furanocoumarin — ( ㉠ )\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "dichotomin A~I, gypsophin",
+        "verbascoside(= acteoside), isoacteoside, forsythoside B",
+        "methyleugenol(50%), asarylketone, safrole",
+        "gentiopicroside, sweroside, trifloroside",
+        "oxypeucedanin, imperatorin, phellopterin"
+      ],
+      "answer": "oxypeucedanin, imperatorin, phellopterin",
+      "explanation": "정답: oxypeucedanin, imperatorin, phellopterin\n\n오답 출처:\n· verbascoside(= acteoside), isoacteoside, forsythoside B → 한속단의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· dichotomin A~I, gypsophin → 은시호의 대표 성분\n· gentiopicroside, sweroside, trifloroside → 진교의 대표 성분\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· ( ㉠ ) — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "phenylethanoid",
+        "cyclopeptide",
+        "iridoid",
+        "triterpenoid saponin(oleanane)",
+        "furanocoumarin"
+      ],
+      "answer": "furanocoumarin",
+      "explanation": "정답: furanocoumarin\n\n오답 출처:\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n· phenylethanoid → 한속단의 성분 계열\n· cyclopeptide → 은시호의 성분 계열\n· iridoid → 속단의 성분 계열\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: ( ㉠ )\n산지: 한국, 중국\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "석죽과 Caryophyllaceae",
+        "산형과(미나리과) Umbelliferae",
+        "꿀풀과 Labiatae",
+        "용담과 Gentianaceae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "산형과(미나리과) Umbelliferae",
+      "explanation": "정답: 산형과(미나리과) Umbelliferae\n\n오답 출처:\n· 석죽과 Caryophyllaceae → 은시호의 과명\n· 꿀풀과 Labiatae → 한속단의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 백지 · ( ㉠ )\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "Angelicae Dahuricae Radix",
+        "Bupleuri Radix",
+        "Phlomidis Radix",
+        "Dipsaci Radix",
+        "Stellariae seu Gypsophilae Radix"
+      ],
+      "answer": "Angelicae Dahuricae Radix",
+      "explanation": "정답: Angelicae Dahuricae Radix\n\n오답 출처:\n· Phlomidis Radix → 한속단의 라틴 생약명\n· Bupleuri Radix → 시호의 라틴 생약명\n· Stellariae seu Gypsophilae Radix → 은시호의 라틴 생약명\n· Dipsaci Radix → 속단의 라틴 생약명\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 한국, 중국\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: ( ㉠ )\n확인시험: TLC(254 nm)\n주의: 대량 → 강직성 간헐성 경련 → 전신마비",
+      "choices": [
+        "강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침",
+        "해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품",
+        "진해·거담·해열약"
+      ],
+      "answer": "해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품",
+      "explanation": "정답: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n\n오답 출처:\n· 진해·거담·해열약 → 은시호의 응용(효능·적응증)\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n· 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도) → 한속단의 응용(효능·적응증)\n· 해열·진해·진통·거담·이뇨약 — 감기, 축농증 → 세신의 응용(효능·적응증)\n\n[카드 요약]\n📇 백지 · Angelicae Dahuricae Radix\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n과: 산형과(미나리과) Umbelliferae\n지표(약전): oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상\n성분:\n· furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n응용: 해열·진통약 — 치통·두통. 항미생물 → 유방염·여드름·구강청결제, 노화방지 화장품\n확인시험: TLC(254 nm)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): ( ㉠ )\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상",
+        "총 alkaloid(reserpine으로서) 0.8% 이상",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음)",
+        "총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)"
+      ],
+      "answer": "총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)",
+      "explanation": "정답: 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n\n오답 출처:\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음) → 홍삼의 약전 지표성분·함량\n· 총 alkaloid(reserpine으로서) 0.8% 이상 → 인도사목의 약전 지표성분·함량\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상 → 인삼의 약전 지표성분·함량\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 백지의 약전 지표성분·함량\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n성분:\n· diterpene alkaloid(약 0.5%) — ( ㉠ )\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "aconitine, hypaconitine, mesaconitine",
+        "gentiopicroside, sweroside, trifloroside",
+        "methyleugenol(50%), asarylketone, safrole",
+        "aconitine계(맹독성): aconitine, hypaconitine, mesaconitine",
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin"
+      ],
+      "answer": "aconitine계(맹독성): aconitine, hypaconitine, mesaconitine",
+      "explanation": "정답: aconitine계(맹독성): aconitine, hypaconitine, mesaconitine\n\n오답 출처:\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n· aconitine, hypaconitine, mesaconitine → 천오, 초오의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· gentiopicroside, sweroside, trifloroside → 진교의 대표 성분\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· ( ㉠ ) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "diterpene alkaloid(aconitine계)",
+        "diterpene alkaloid(약 0.5%)",
+        "secoiridoid glycoside",
+        "diterpene alkaloid"
+      ],
+      "answer": "diterpene alkaloid(약 0.5%)",
+      "explanation": "정답: diterpene alkaloid(약 0.5%)\n\n오답 출처:\n· secoiridoid glycoside → 진교의 성분 계열\n· diterpene alkaloid → 초오의 성분 계열\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n· diterpene alkaloid(aconitine계) → 천오의 성분 계열\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: ( ㉠ )\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "산토끼꽃과 Dipsacaceae",
+        "쥐방울덩굴과 Aristolochiaceae",
+        "협죽도과 Apocynaceae",
+        "꿀풀과 Labiatae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "미나리아재비과 Ranunculaceae",
+      "explanation": "정답: 미나리아재비과 Ranunculaceae\n\n오답 출처:\n· 산토끼꽃과 Dipsacaceae → 속단의 과명\n· 협죽도과 Apocynaceae → 인도사목의 과명\n· 쥐방울덩굴과 Aristolochiaceae → 세신의 과명\n· 꿀풀과 Labiatae → 한속단의 과명\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 부자 · ( ㉠ )\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n주의: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "Aconiti Lateralis Radix Preparata",
+        "Linderae Radix",
+        "Clematidis Radix et Rhizoma",
+        "Aconiti Ciliare Tuber",
+        "Gentianae Macrophyllae Radix"
+      ],
+      "answer": "Aconiti Lateralis Radix Preparata",
+      "explanation": "정답: Aconiti Lateralis Radix Preparata\n\n오답 출처:\n· Linderae Radix → 오약의 라틴 생약명\n· Clematidis Radix et Rhizoma → 위령선의 라틴 생약명\n· Gentianae Macrophyllae Radix → 진교의 라틴 생약명\n· Aconiti Ciliare Tuber → 초오의 라틴 생약명\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n주의: ( ㉠ )\n법제: 염부자(소금물에 담가 햇볕 건조 반복), 흑순편·백부편(간수 → 삶기 → 찌기), 포부자(염분 제거 후 감초·검정콩과 삶기). 가공부자: 가압·가열 → benzoylaconine",
+      "choices": [
+        "aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기",
+        "비충혈, 우울, 피로, 성욕감퇴. reserpine 과량 → 호흡저하, 서맥, 저혈압, 경련",
+        "두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+        "지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+        "대엽○○의 근경은 독성이 있어 사용 금지"
+      ],
+      "answer": "aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기",
+      "explanation": "정답: aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 법제(가열) → aconitine이 benzoylaconine → aconine으로 가수분해(aconine 독성 = 1/2000~1/4000). 감초·생강·원지·황기·검은콩과 달이면 독성 감소. 임부 금기\n\n오답 출처:\n· 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음 → 세신의 주의·독성·금기\n· 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용 → 초오의 주의·독성·금기\n· 대엽○○의 근경은 독성이 있어 사용 금지 → 시호의 주의·독성·금기\n· 비충혈, 우울, 피로, 성욕감퇴. reserpine 과량 → 호흡저하, 서맥, 저혈압, 경련 → 인도사목의 주의·독성·금기\n\n[카드 요약]\n📇 부자 · Aconiti Lateralis Radix Preparata\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)\n성분:\n· diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n· 기타 — higenamine(강심, benzylisoquinoline), coryneine(강심·혈압상승)\n응용: 한방: 진통·강심·강장·흥분·신진대사 항진 — 사지관절 마비, 허약체질 복통·설사\n확인시험: UV 231·274 nm 흡수극대, aconitine 한도 TLC(Dragendorff — 표준보다 진하지 않을 것)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): ( ㉠ )\n응용: 한방: 진통·진경·강장\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "총 alkaloid(reserpine으로서) 0.8% 이상",
+        "총 alkaloid(aconitine으로서) 0.5% 이상",
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+        "총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)",
+        "saikosaponin a 0.3% 이상"
+      ],
+      "answer": "총 alkaloid(aconitine으로서) 0.5% 이상",
+      "explanation": "정답: 총 alkaloid(aconitine으로서) 0.5% 이상\n\n오답 출처:\n· saikosaponin a 0.3% 이상 → 시호의 약전 지표성분·함량\n· 총 alkaloid(reserpine으로서) 0.8% 이상 → 인도사목의 약전 지표성분·함량\n· 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음) → 부자의 약전 지표성분·함량\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 백지의 약전 지표성분·함량\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n성분:\n· diterpene alkaloid(aconitine계) — ( ㉠ )\n응용: 한방: 진통·진경·강장\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "reserpine, deserpidine, rescinnamine",
+        "linderenol, linderene, linderane",
+        "gentiopicroside, sweroside, trifloroside",
+        "aconitine, hypaconitine, mesaconitine",
+        "verbascoside(= acteoside), isoacteoside, forsythoside B"
+      ],
+      "answer": "aconitine, hypaconitine, mesaconitine",
+      "explanation": "정답: aconitine, hypaconitine, mesaconitine\n\n오답 출처:\n· gentiopicroside, sweroside, trifloroside → 진교의 대표 성분\n· linderenol, linderene, linderane → 오약의 대표 성분\n· verbascoside(= acteoside), isoacteoside, forsythoside B → 한속단의 대표 성분\n· reserpine, deserpidine, rescinnamine → 인도사목의 대표 성분\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· ( ㉠ ) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "diterpene alkaloid",
+        "정유(2~3%)",
+        "secoiridoid glycoside",
+        "sesquiterpenoid",
+        "diterpene alkaloid(aconitine계)"
+      ],
+      "answer": "diterpene alkaloid(aconitine계)",
+      "explanation": "정답: diterpene alkaloid(aconitine계)\n\n오답 출처:\n· 정유(2~3%) → 세신의 성분 계열\n· sesquiterpenoid → 오약의 성분 계열\n· diterpene alkaloid → 초오의 성분 계열\n· secoiridoid glycoside → 진교의 성분 계열\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: ( ㉠ )\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "쥐방울덩굴과 Aristolochiaceae",
+        "미나리아재비과 Ranunculaceae",
+        "산토끼꽃과 Dipsacaceae",
+        "용담과 Gentianaceae",
+        "꿀풀과 Labiatae"
+      ],
+      "answer": "미나리아재비과 Ranunculaceae",
+      "explanation": "정답: 미나리아재비과 Ranunculaceae\n\n오답 출처:\n· 쥐방울덩굴과 Aristolochiaceae → 세신의 과명\n· 산토끼꽃과 Dipsacaceae → 속단의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 꿀풀과 Labiatae → 한속단의 과명\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 천오 · ( ㉠ )\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "Linderae Radix",
+        "Aconiti Lateralis Radix Preparata",
+        "Gentianae Macrophyllae Radix",
+        "Clematidis Radix et Rhizoma",
+        "Aconiti Tuber"
+      ],
+      "answer": "Aconiti Tuber",
+      "explanation": "정답: Aconiti Tuber\n\n오답 출처:\n· Gentianae Macrophyllae Radix → 진교의 라틴 생약명\n· Linderae Radix → 오약의 라틴 생약명\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n· Clematidis Radix et Rhizoma → 위령선의 라틴 생약명\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: ( ㉠ )\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n주의: 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+      "choices": [
+        "부자와 같으나 부자만큼 쓰이지 않음",
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+        "한방: 진통·진경·강장",
+        "방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증"
+      ],
+      "answer": "한방: 진통·진경·강장",
+      "explanation": "정답: 한방: 진통·진경·강장\n\n오답 출처:\n· 해열·진해·진통·거담·이뇨약 — 감기, 축농증 → 세신의 응용(효능·적응증)\n· 부자와 같으나 부자만큼 쓰이지 않음 → 초오의 응용(효능·적응증)\n· 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비 → 위령선의 응용(효능·적응증)\n· 방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증 → 오약의 응용(효능·적응증)\n\n[카드 요약]\n📇 천오 · Aconiti Tuber\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n응용: 한방: 진통·진경·강장\n확인시험: 묽은 HOAc 여액 + Mayer 시액 → 엷은 황백색 침전\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): ( ㉠ )\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+        "총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)",
+        "총 alkaloid(aconitine으로서) 0.5% 이상",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상",
+        "ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음)"
+      ],
+      "answer": "총 alkaloid(aconitine으로서) 0.5% 이상",
+      "explanation": "정답: 총 alkaloid(aconitine으로서) 0.5% 이상\n\n오답 출처:\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상 → 인삼의 약전 지표성분·함량\n· ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음) → 홍삼의 약전 지표성분·함량\n· 총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음) → 부자의 약전 지표성분·함량\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 백지의 약전 지표성분·함량\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n성분:\n· diterpene alkaloid — ( ㉠ )\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "aconitine, hypaconitine, mesaconitine",
+        "reserpine, deserpidine, rescinnamine",
+        "methyleugenol(50%), asarylketone, safrole",
+        "linderenol, linderene, linderane",
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin"
+      ],
+      "answer": "aconitine, hypaconitine, mesaconitine",
+      "explanation": "정답: aconitine, hypaconitine, mesaconitine\n\n오답 출처:\n· linderenol, linderene, linderane → 오약의 대표 성분\n· reserpine, deserpidine, rescinnamine → 인도사목의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· ( ㉠ ) — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "diterpene alkaloid(약 0.5%)",
+        "diterpene alkaloid(aconitine계)",
+        "diterpene alkaloid",
+        "정유(2~3%)"
+      ],
+      "answer": "diterpene alkaloid",
+      "explanation": "정답: diterpene alkaloid\n\n오답 출처:\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n· 정유(2~3%) → 세신의 성분 계열\n· diterpene alkaloid(약 0.5%) → 부자의 성분 계열\n· diterpene alkaloid(aconitine계) → 천오의 성분 계열\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: ( ㉠ )\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "녹나무과 Lauraceae",
+        "미나리아재비과 Ranunculaceae",
+        "용담과 Gentianaceae",
+        "쥐방울덩굴과 Aristolochiaceae"
+      ],
+      "answer": "미나리아재비과 Ranunculaceae",
+      "explanation": "정답: 미나리아재비과 Ranunculaceae\n\n오답 출처:\n· 쥐방울덩굴과 Aristolochiaceae → 세신의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 녹나무과 Lauraceae → 오약의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 초오 · ( ㉠ )\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "Gentianae Macrophyllae Radix",
+        "Aconiti Ciliare Tuber",
+        "Aconiti Tuber",
+        "Rauwolfiae Radix",
+        "Aconiti Lateralis Radix Preparata"
+      ],
+      "answer": "Aconiti Ciliare Tuber",
+      "explanation": "정답: Aconiti Ciliare Tuber\n\n오답 출처:\n· Rauwolfiae Radix → 인도사목의 라틴 생약명\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n· Aconiti Tuber → 천오의 라틴 생약명\n· Gentianae Macrophyllae Radix → 진교의 라틴 생약명\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n산지: 우리나라 각지, 중국 동북·화북\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: ( ㉠ )\n확인시험: Mayer 시액 → 황백색 침전\n주의: 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+      "choices": [
+        "혈압강하제, 정신안정제, reserpine 제조 원료(동맥성 고혈압, thiazide계 이뇨제와 병용)",
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+        "거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+        "부자와 같으나 부자만큼 쓰이지 않음"
+      ],
+      "answer": "부자와 같으나 부자만큼 쓰이지 않음",
+      "explanation": "정답: 부자와 같으나 부자만큼 쓰이지 않음\n\n오답 출처:\n· 해열·진해·진통·거담·이뇨약 — 감기, 축농증 → 세신의 응용(효능·적응증)\n· 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘 → 진교의 응용(효능·적응증)\n· 혈압강하제, 정신안정제, reserpine 제조 원료(동맥성 고혈압, thiazide계 이뇨제와 병용) → 인도사목의 응용(효능·적응증)\n· 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비 → 위령선의 응용(효능·적응증)\n\n[카드 요약]\n📇 초오 · Aconiti Ciliare Tuber\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n과: 미나리아재비과 Ranunculaceae\n지표(약전): 총 alkaloid(aconitine으로서) 0.5% 이상\n성분:\n· diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n· alkaloid — higenamine\n응용: 부자와 같으나 부자만큼 쓰이지 않음\n확인시험: Mayer 시액 → 황백색 침전"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — ( ㉠ )\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염",
+      "choices": [
+        "notoginsenoside R₁, ginsenoside Rb₁, Rg₁",
+        "aconitine계(맹독성): aconitine, hypaconitine, mesaconitine",
+        "ginsenoside Rh₂, 20(R)-Rg₂, 20(S)-Rg₃",
+        "protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂",
+        "methyleugenol(50%), asarylketone, safrole"
+      ],
+      "answer": "notoginsenoside R₁, ginsenoside Rb₁, Rg₁",
+      "explanation": "정답: notoginsenoside R₁, ginsenoside Rb₁, Rg₁\n\n오답 출처:\n· protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂ → 인삼의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· ginsenoside Rh₂, 20(R)-Rg₂, 20(S)-Rg₃ → 홍삼의 대표 성분\n· aconitine계(맹독성): aconitine, hypaconitine, mesaconitine → 부자의 대표 성분\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· ( ㉠ ) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광",
+      "choices": [
+        "정유(2~3%)",
+        "dammarane계 saponin",
+        "dammarane saponin(약 5%)",
+        "diterpene alkaloid(약 0.5%)",
+        "triterpenoid saponin(oleanane)"
+      ],
+      "answer": "dammarane saponin(약 5%)",
+      "explanation": "정답: dammarane saponin(약 5%)\n\n오답 출처:\n· 정유(2~3%) → 세신의 성분 계열\n· diterpene alkaloid(약 0.5%) → 부자의 성분 계열\n· dammarane계 saponin → 인삼의 성분 계열\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    }
+  ]
+}

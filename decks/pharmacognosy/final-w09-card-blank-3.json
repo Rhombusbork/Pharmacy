@@ -174,19 +174,6 @@
     },
     {
       "id": 14,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· ( ㉠ ) — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
-      "choices": [
-        "sesquiterpenoid",
-        "phthalide",
-        "pyranocoumarin",
-        "diterpenoid(kaurane·pimarane)",
-        "chromone"
-      ],
-      "answer": "phthalide",
-      "explanation": "정답: phthalide\n\n오답 출처:\n· chromone → 방풍의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· pyranocoumarin → 당귀의 성분 계열\n· sesquiterpenoid → 당삼의 성분 계열\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
-    },
-    {
-      "id": 15,
       "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: ( ㉠ )\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
       "choices": [
         "콩과 Leguminosae",
@@ -199,7 +186,7 @@
       "explanation": "정답: 산형과(미나리과) Umbelliferae\n\n오답 출처:\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 마타리과 Valerianaceae → 길초근의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
     },
     {
-      "id": 16,
+      "id": 15,
       "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 일당귀 · ( ㉠ )\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
       "choices": [
         "Japonicae Angelicae Radix",
@@ -212,7 +199,7 @@
       "explanation": "정답: Japonicae Angelicae Radix\n\n오답 출처:\n· Saposhnikoviae Radix → 방풍의 라틴 생약명\n· Angelicae Gigantis Radix → 당귀의 라틴 생약명\n· Osterici seu Notopterygii Radix et Rhizoma → 강활의 라틴 생약명\n· Araliae Continentalis Radix → 독활의 라틴 생약명\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
     },
     {
-      "id": 17,
+      "id": 16,
       "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: ( ㉠ )",
       "choices": [
         "감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
@@ -225,7 +212,7 @@
       "explanation": "정답: 보혈·강장·진통·진정약\n\n오답 출처:\n· 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독 → 강활의 응용(효능·적응증)\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n· 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애) → 당귀의 응용(효능·적응증)\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
     },
     {
-      "id": 18,
+      "id": 17,
       "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 일당귀 · Japonicae Angelicae Radix\n과: 산형과(미나리과) Umbelliferae\n산지: ( ㉠ )\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
       "choices": [
         "중국, 인도",
@@ -236,6 +223,19 @@
       ],
       "answer": "일본",
       "explanation": "정답: 일본\n\n오답 출처:\n· 말레이반도, 수마트라, 보르네오, 대만 → 데리스근의 산지\n· 중국, 인도 → 목향의 산지\n· 인도 → 이 범위 밖의 오답\n· 브라질 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 일당귀 · (라틴명 숨김)\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "Aralia continentalis",
+        "Ostericum koreanum",
+        "Angelica acutiloba",
+        "Saposhnikovia divaricata",
+        "Angelica gigas"
+      ],
+      "answer": "Angelica acutiloba",
+      "explanation": "정답: Angelica acutiloba\n\n오답 출처:\n· Saposhnikovia divaricata → 방풍의 기원식물 학명\n· Aralia continentalis → 독활의 기원식물 학명\n· Ostericum koreanum → 강활의 기원식물 학명\n· Angelica gigas → 당귀의 기원식물 학명\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
     },
     {
       "id": 19,

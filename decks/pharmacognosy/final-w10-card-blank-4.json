@@ -1,0 +1,345 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-blank-4",
+  "subject": "생약학",
+  "title": "10주 카드 ② 칸 가린 카드 4/5 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — ( ㉠ )\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+      "choices": [
+        "methyleugenol(50%), asarylketone, safrole",
+        "gentiopicrin(약 2%), sweroside, swertiamarin",
+        "saikosaponin a, b, c",
+        "gentiopicroside, sweroside, trifloroside",
+        "linderenol, linderene, linderane"
+      ],
+      "answer": "gentiopicroside, sweroside, trifloroside",
+      "explanation": "정답: gentiopicroside, sweroside, trifloroside\n\n오답 출처:\n· linderenol, linderene, linderane → 오약의 대표 성분\n· saikosaponin a, b, c → 시호의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· gentiopicrin(약 2%), sweroside, swertiamarin → 겐티아나근의 대표 성분\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· ( ㉠ ) — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "triterpenoid saponin(oleanane)",
+        "정유(2~3%)",
+        "indole alkaloid(0.8~1.3%)",
+        "sesquiterpenoid",
+        "secoiridoid glycoside"
+      ],
+      "answer": "secoiridoid glycoside",
+      "explanation": "정답: secoiridoid glycoside\n\n오답 출처:\n· indole alkaloid(0.8~1.3%) → 인도사목의 성분 계열\n· 정유(2~3%) → 세신의 성분 계열\n· sesquiterpenoid → 오약의 성분 계열\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: ( ㉠ )\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "협죽도과 Apocynaceae",
+        "녹나무과 Lauraceae",
+        "산형과(미나리과) Umbelliferae",
+        "미나리아재비과 Ranunculaceae",
+        "용담과 Gentianaceae"
+      ],
+      "answer": "용담과 Gentianaceae",
+      "explanation": "정답: 용담과 Gentianaceae\n\n오답 출처:\n· 녹나무과 Lauraceae → 오약의 과명\n· 협죽도과 Apocynaceae → 인도사목의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 진교 · ( ㉠ )\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "Asari Radix et Rhizoma",
+        "Gentianae Scabrae Radix et Rhizoma",
+        "Gentianae Macrophyllae Radix",
+        "Gentianae Luteae Radix et Rhizoma",
+        "Bupleuri Radix"
+      ],
+      "answer": "Gentianae Macrophyllae Radix",
+      "explanation": "정답: Gentianae Macrophyllae Radix\n\n오답 출처:\n· Bupleuri Radix → 시호의 라틴 생약명\n· Asari Radix et Rhizoma → 세신의 라틴 생약명\n· Gentianae Scabrae Radix et Rhizoma → 용담의 라틴 생약명\n· Gentianae Luteae Radix et Rhizoma → 겐티아나근의 라틴 생약명\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: ( ㉠ )\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침",
+        "방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증"
+      ],
+      "answer": "해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+      "explanation": "정답: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n\n오답 출처:\n· 해열·진해·진통·거담·이뇨약 — 감기, 축농증 → 세신의 응용(효능·적응증)\n· 방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증 → 오약의 응용(효능·적응증)\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 진교 · (라틴명 숨김)\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨",
+      "choices": [
+        "Lindera strychnifolia",
+        "Gentiana macrophylla",
+        "Gentiana scabra",
+        "Bupleurum falcatum",
+        "Asarum heterotropoides var. mandshuricum"
+      ],
+      "answer": "Gentiana macrophylla",
+      "explanation": "정답: Gentiana macrophylla\n\n오답 출처:\n· Bupleurum falcatum → 시호의 기원식물 학명\n· Lindera strychnifolia → 오약의 기원식물 학명\n· Asarum heterotropoides var. mandshuricum → 세신의 기원식물 학명\n· Gentiana scabra → 용담의 기원식물 학명\n\n[카드 요약]\n📇 진교 · Gentianae Macrophyllae Radix\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside — gentiopicroside, sweroside, trifloroside\n· alkaloid — gentianine, gentianidine\n· flavonoid — kushenol I, kurarinone\n응용: 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘\n확인시험: 순도: Aconitum 속 식물의 뿌리가 섞여 있으면 안 됨"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — ( ㉠ )\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "choices": [
+        "reserpine, deserpidine, rescinnamine",
+        "gentiopicroside, sweroside, trifloroside",
+        "senegin I~IV",
+        "dichotomin A~I, gypsophin",
+        "inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A"
+      ],
+      "answer": "inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A",
+      "explanation": "정답: inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n\n오답 출처:\n· dichotomin A~I, gypsophin → 은시호의 대표 성분\n· reserpine, deserpidine, rescinnamine → 인도사목의 대표 성분\n· senegin I~IV → 세네가의 대표 성분\n· gentiopicroside, sweroside, trifloroside → 진교의 대표 성분\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ( ㉠ ) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "triterpenoid saponin(6~10%)",
+        "ecdysteroid(곤충 탈피호르몬)",
+        "secoiridoid glycoside",
+        "cyclopeptide"
+      ],
+      "answer": "ecdysteroid(곤충 탈피호르몬)",
+      "explanation": "정답: ecdysteroid(곤충 탈피호르몬)\n\n오답 출처:\n· cyclopeptide → 은시호의 성분 계열\n· triterpenoid saponin(6~10%) → 세네가의 성분 계열\n· secoiridoid glycoside → 진교의 성분 계열\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: ( ㉠ )\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "choices": [
+        "산토끼꽃과 Dipsacaceae",
+        "비름과 Amaranthaceae",
+        "석죽과 Caryophyllaceae",
+        "용담과 Gentianaceae",
+        "원지과 Polygalaceae"
+      ],
+      "answer": "비름과 Amaranthaceae",
+      "explanation": "정답: 비름과 Amaranthaceae\n\n오답 출처:\n· 산토끼꽃과 Dipsacaceae → 속단의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 원지과 Polygalaceae → 세네가, 원지의 과명\n· 석죽과 Caryophyllaceae → 은시호의 과명\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 우슬 · ( ㉠ )\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "choices": [
+        "Rauwolfiae Radix",
+        "Dipsaci Radix",
+        "Gentianae Scabrae Radix et Rhizoma",
+        "Achyranthis Radix",
+        "Stellariae seu Gypsophilae Radix"
+      ],
+      "answer": "Achyranthis Radix",
+      "explanation": "정답: Achyranthis Radix\n\n오답 출처:\n· Stellariae seu Gypsophilae Radix → 은시호의 라틴 생약명\n· Gentianae Scabrae Radix et Rhizoma → 용담의 라틴 생약명\n· Rauwolfiae Radix → 인도사목의 라틴 생약명\n· Dipsaci Radix → 속단의 라틴 생약명\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: ( ㉠ )\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "choices": [
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "진해·거담·해열약",
+        "해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+        "거담·진해약 — 기관지염, 폐렴",
+        "구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종"
+      ],
+      "answer": "구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종",
+      "explanation": "정답: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n\n오답 출처:\n· 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘 → 진교의 응용(효능·적응증)\n· 거담·진해약 — 기관지염, 폐렴 → 세네가의 응용(효능·적응증)\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n· 진해·거담·해열약 → 은시호의 응용(효능·적응증)\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n주의: ( ㉠ )",
+      "choices": [
+        "장기 복용 시 위장관 자극, 독성은 거의 없음",
+        "드물게 두통. 지황과는 배합하지 않음",
+        "대량 → 강직성 간헐성 경련 → 전신마비",
+        "과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+        "임부는 낙태 위험(임부 금기). 월경과다인 경우 금기"
+      ],
+      "answer": "임부는 낙태 위험(임부 금기). 월경과다인 경우 금기",
+      "explanation": "정답: 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기\n\n오답 출처:\n· 장기 복용 시 위장관 자극, 독성은 거의 없음 → 세네가의 주의·독성·금기\n· 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증 → 원지의 주의·독성·금기\n· 드물게 두통. 지황과는 배합하지 않음 → 용담의 주의·독성·금기\n· 대량 → 강직성 간헐성 경련 → 전신마비 → 백지의 주의·독성·금기\n\n[카드 요약]\n📇 우슬 · Achyranthis Radix\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n과: 비름과 Amaranthaceae\n성분:\n· ecdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A\n· steroid — β-sitosterol, stigmasterol, rubrosterone\n· oleanolic acid계 saponin(소량) — achyranthoside A~F\n· acid — K-succinate, K-oxalate(다량)\n응용: 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종\n확인시험: ① 흔들면 지속성 미세 거품 ② TLC: 20-hydroxyecdysone\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — ( ㉠ )\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: 임부는 주의",
+      "choices": [
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin",
+        "curcumin I·II·III",
+        "linderenol, linderene, linderane",
+        "saikosaponin a, b, c",
+        "protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂"
+      ],
+      "answer": "curcumin I·II·III",
+      "explanation": "정답: curcumin I·II·III\n\n오답 출처:\n· linderenol, linderene, linderane → 오약의 대표 성분\n· saikosaponin a, b, c → 시호의 대표 성분\n· protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂ → 인삼의 대표 성분\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· ( ㉠ ) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: 임부는 주의",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "triterpenoid saponin(oleanane)",
+        "ecdysteroid(곤충 탈피호르몬)",
+        "황색 색소(diarylheptanoid)",
+        "sesquiterpenoid"
+      ],
+      "answer": "황색 색소(diarylheptanoid)",
+      "explanation": "정답: 황색 색소(diarylheptanoid)\n\n오답 출처:\n· ecdysteroid(곤충 탈피호르몬) → 우슬의 성분 계열\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n· sesquiterpenoid → 오약의 성분 계열\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: ( ㉠ )\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: 임부는 주의",
+      "choices": [
+        "비름과 Amaranthaceae",
+        "산형과(미나리과) Umbelliferae",
+        "녹나무과 Lauraceae",
+        "생강과 Zingiberaceae",
+        "용담과 Gentianaceae"
+      ],
+      "answer": "생강과 Zingiberaceae",
+      "explanation": "정답: 생강과 Zingiberaceae\n\n오답 출처:\n· 비름과 Amaranthaceae → 우슬의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n· 녹나무과 Lauraceae → 오약의 과명\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 울금 · ( ㉠ )\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: 임부는 주의",
+      "choices": [
+        "Gentianae Luteae Radix et Rhizoma",
+        "Curcumae Radix",
+        "Gentianae Scabrae Radix et Rhizoma",
+        "Ginseng Radix",
+        "Linderae Radix"
+      ],
+      "answer": "Curcumae Radix",
+      "explanation": "정답: Curcumae Radix\n\n오답 출처:\n· Gentianae Scabrae Radix et Rhizoma → 용담의 라틴 생약명\n· Gentianae Luteae Radix et Rhizoma → 겐티아나근의 라틴 생약명\n· Linderae Radix → 오약의 라틴 생약명\n· Ginseng Radix → 인삼의 라틴 생약명\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: ( ㉠ )\n주의: 임부는 주의",
+      "choices": [
+        "강장·강심·건위보정·진정 — 위장쇠약에 의한 신진대사 저하, 소화불량, 구토, 식욕부진, 당뇨",
+        "구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종",
+        "이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출",
+        "식욕부진·헛배부름·소화불량에 고미건위약",
+        "방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증"
+      ],
+      "answer": "이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출",
+      "explanation": "정답: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n\n오답 출처:\n· 식욕부진·헛배부름·소화불량에 고미건위약 → 겐티아나근의 응용(효능·적응증)\n· 강장·강심·건위보정·진정 — 위장쇠약에 의한 신진대사 저하, 소화불량, 구토, 식욕부진, 당뇨 → 인삼의 응용(효능·적응증)\n· 방향성 건위·진통·진경약 — 복통, 복명, 설사, 구토, 월경통. 특히 하복부 팽만감을 동반한 통증 → 오약의 응용(효능·적응증)\n· 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종 → 우슬의 응용(효능·적응증)\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n주의: ( ㉠ )",
+      "choices": [
+        "임부는 주의",
+        "음허·양항진·실열이 성한 경우 금기. 장기 복용 → 부신피질호르몬 유사 효과(하루 2 g 이하, 3개월 이상 연속 금지)",
+        "두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용",
+        "위궤양·십이지장궤양에는 사용하지 않음(쓴맛 → 위액↑). 드물게 두통",
+        "임부는 낙태 위험(임부 금기). 월경과다인 경우 금기"
+      ],
+      "answer": "임부는 주의",
+      "explanation": "정답: 임부는 주의\n\n오답 출처:\n· 위궤양·십이지장궤양에는 사용하지 않음(쓴맛 → 위액↑). 드물게 두통 → 겐티아나근의 주의·독성·금기\n· 두통·어지러움·손발저림·구토 등 중독 → 반드시 법제하여 사용 → 초오의 주의·독성·금기\n· 음허·양항진·실열이 성한 경우 금기. 장기 복용 → 부신피질호르몬 유사 효과(하루 2 g 이하, 3개월 이상 연속 금지) → 인삼의 주의·독성·금기\n· 임부는 낙태 위험(임부 금기). 월경과다인 경우 금기 → 우슬의 주의·독성·금기\n\n[카드 요약]\n📇 울금 · Curcumae Radix\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n과: 생강과 Zingiberaceae\n성분:\n· 황색 색소(diarylheptanoid) — curcumin I·II·III\n· 정유(1.5~5.5%) — turmerone, ar-turmerone, zingiberene, 1,8-cineole\n응용: 이담·방향성 건위약 — 간장염, 담도염, 담석증, 황달. 지혈·통경약. curcumin 천연 식용 색소, curry powder. turmeric paper → 붕산 이온 검출\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — ( ㉠ )\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "methyleugenol(50%), asarylketone, safrole",
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin",
+        "onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B",
+        "senegin I~IV",
+        "saikosaponin a, b, c"
+      ],
+      "answer": "onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B",
+      "explanation": "정답: onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n\n오답 출처:\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n· methyleugenol(50%), asarylketone, safrole → 세신의 대표 성분\n· saikosaponin a, b, c → 시호의 대표 성분\n· senegin I~IV → 세네가의 대표 성분\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· ( ㉠ ) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "정유(2~3%)",
+        "triterpenoid saponin(4%)",
+        "triterpenoid saponin(6~10%)",
+        "triterpenoid saponin(oleanane)",
+        "secoiridoid glycoside(고미배당체)"
+      ],
+      "answer": "triterpenoid saponin(4%)",
+      "explanation": "정답: triterpenoid saponin(4%)\n\n오답 출처:\n· triterpenoid saponin(6~10%) → 세네가의 성분 계열\n· secoiridoid glycoside(고미배당체) → 겐티아나근의 성분 계열\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n· 정유(2~3%) → 세신의 성분 계열\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: ( ㉠ )\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "원지과 Polygalaceae",
+        "두릅나무과(오갈피나무과) Araliaceae",
+        "용담과 Gentianaceae",
+        "마디풀과 Polygonaceae"
+      ],
+      "answer": "원지과 Polygalaceae",
+      "explanation": "정답: 원지과 Polygalaceae\n\n오답 출처:\n· 마디풀과 Polygonaceae → 이 범위 밖의 오답\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n· 두릅나무과(오갈피나무과) Araliaceae → 인삼, 홍삼의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 원지 · ( ㉠ )\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "Asari Radix et Rhizoma",
+        "Polygalae Radix",
+        "Bupleuri Radix",
+        "Senegae Radix",
+        "Stellariae seu Gypsophilae Radix"
+      ],
+      "answer": "Polygalae Radix",
+      "explanation": "정답: Polygalae Radix\n\n오답 출처:\n· Bupleuri Radix → 시호의 라틴 생약명\n· Asari Radix et Rhizoma → 세신의 라틴 생약명\n· Stellariae seu Gypsophilae Radix → 은시호의 라틴 생약명\n· Senegae Radix → 세네가의 라틴 생약명\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: ( ㉠ )\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침",
+        "자극성 거담약(stimulant expectorant), 진해·소염·진정약",
+        "거담·진해약 — 기관지염, 폐렴"
+      ],
+      "answer": "자극성 거담약(stimulant expectorant), 진해·소염·진정약",
+      "explanation": "정답: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n\n오답 출처:\n· 거담·진해약 — 기관지염, 폐렴 → 세네가의 응용(효능·적응증)\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n· 해열·진해·진통·거담·이뇨약 — 감기, 축농증 → 세신의 응용(효능·적응증)\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ( ㉠ )\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "choices": [
+        "Vitali 반응(발연 질산 + KOH → 자색)",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Dragendorff 시액 → 등황색 침전",
+        "자외선을 쪼이면 강한 형광",
+        "기포 시험(흔들면 지속성 거품)"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· Dragendorff 시액 → 등황색 침전 → 부자의 확인시험\n· 자외선을 쪼이면 강한 형광 → 삼칠의 확인시험\n· Vitali 반응(발연 질산 + KOH → 자색) → 이 범위 밖의 오답\n· 기포 시험(흔들면 지속성 거품) → 인삼의 확인시험\n\n[카드 요약]\n📇 원지 · Polygalae Radix\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 위령선 · Clematidis Radix et Rhizoma\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n응용: 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "쥐방울덩굴과 Aristolochiaceae",
+        "미나리아재비과 Ranunculaceae",
+        "산토끼꽃과 Dipsacaceae",
+        "두릅나무과 Araliaceae"
+      ],
+      "answer": "미나리아재비과 Ranunculaceae",
+      "explanation": "정답: 미나리아재비과 Ranunculaceae\n\n오답 출처:\n· 쥐방울덩굴과 Aristolochiaceae → 세신의 과명\n· 두릅나무과 Araliaceae → 삼칠의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n· 산토끼꽃과 Dipsacaceae → 속단의 과명\n\n[카드 요약]\n📇 위령선 · Clematidis Radix et Rhizoma\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n과: 미나리아재비과 Ranunculaceae\n응용: 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 위령선 · ( ㉠ )\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n과: 미나리아재비과 Ranunculaceae\n응용: 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+      "choices": [
+        "Clematidis Radix et Rhizoma",
+        "Aconiti Tuber",
+        "Aconiti Lateralis Radix Preparata",
+        "Aconiti Ciliare Tuber",
+        "Gentianae Macrophyllae Radix"
+      ],
+      "answer": "Clematidis Radix et Rhizoma",
+      "explanation": "정답: Clematidis Radix et Rhizoma\n\n오답 출처:\n· Gentianae Macrophyllae Radix → 진교의 라틴 생약명\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n· Aconiti Tuber → 천오의 라틴 생약명\n· Aconiti Ciliare Tuber → 초오의 라틴 생약명\n\n[카드 요약]\n📇 위령선 · Clematidis Radix et Rhizoma\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n과: 미나리아재비과 Ranunculaceae\n응용: 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+    }
+  ]
+}

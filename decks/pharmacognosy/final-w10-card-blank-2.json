@@ -1,0 +1,345 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-blank-2",
+  "subject": "생약학",
+  "title": "10주 카드 ② 칸 가린 카드 2/5 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광",
+      "choices": [
+        "두릅나무과 Araliaceae",
+        "산형과(미나리과) Umbelliferae",
+        "쥐방울덩굴과 Aristolochiaceae",
+        "미나리아재비과 Ranunculaceae",
+        "용담과 Gentianaceae"
+      ],
+      "answer": "두릅나무과 Araliaceae",
+      "explanation": "정답: 두릅나무과 Araliaceae\n\n오답 출처:\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n· 쥐방울덩굴과 Aristolochiaceae → 세신의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 삼칠 · ( ㉠ )\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광",
+      "choices": [
+        "Phlomidis Radix",
+        "Ginseng Radix Rubra",
+        "Asari Radix et Rhizoma",
+        "Ginseng Radix",
+        "Notoginseng Radix et Rhizoma"
+      ],
+      "answer": "Notoginseng Radix et Rhizoma",
+      "explanation": "정답: Notoginseng Radix et Rhizoma\n\n오답 출처:\n· Ginseng Radix → 인삼의 라틴 생약명\n· Phlomidis Radix → 한속단의 라틴 생약명\n· Ginseng Radix Rubra → 홍삼의 라틴 생약명\n· Asari Radix et Rhizoma → 세신의 라틴 생약명\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: ( ㉠ )\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광",
+      "choices": [
+        "거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비",
+        "강장·강심·건위보정·진정 — 위장쇠약에 의한 신진대사 저하, 소화불량, 구토, 식욕부진, 당뇨",
+        "지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침",
+        "인삼과 같음"
+      ],
+      "answer": "지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염",
+      "explanation": "정답: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n\n오답 출처:\n· 인삼과 같음 → 홍삼의 응용(효능·적응증)\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n· 강장·강심·건위보정·진정 — 위장쇠약에 의한 신진대사 저하, 소화불량, 구토, 식욕부진, 당뇨 → 인삼의 응용(효능·적응증)\n· 거풍습약·진통약 — 신경통, 류머티스, 통풍, 근육통, 요통. 언어장애, 수족마비 → 위령선의 응용(효능·적응증)\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n산지: 중국(운남·광서·사천·호북)\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ( ㉠ )",
+      "choices": [
+        "Dragendorff 시액 → 등황색 침전",
+        "Bornträger 반응(알칼리 → 적색)",
+        "염산을 넣으면 보라색",
+        "자외선을 쪼이면 강한 형광",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)"
+      ],
+      "answer": "자외선을 쪼이면 강한 형광",
+      "explanation": "정답: 자외선을 쪼이면 강한 형광\n\n오답 출처:\n· Dragendorff 시액 → 등황색 침전 → 부자의 확인시험\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열) → 원지의 확인시험\n· 염산을 넣으면 보라색 → 시호, 용담의 확인시험\n\n[카드 요약]\n📇 삼칠 · Notoginseng Radix et Rhizoma\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n과: 두릅나무과 Araliaceae\n성분:\n· dammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁, Rd, Re\n· 기타 — trilinolein, panaxynol, 다당류, pananotin(항진균 단백질)\n응용: 지혈·소종·진통·소염 — 관상동맥 질환, 협심증, 간염\n확인시험: ① 빙초산 → 홍색 ② 흔들면 지속성 거품(saponin) ③ HOAc + H₂SO₄ → 노랑 → 홍색 → 보라 → 녹색 ④ 자외선 → 남색 형광\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n산지: 북미\n성분:\n· triterpenoid saponin(6~10%) — ( ㉠ )\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "dichotomin A~I, gypsophin",
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin",
+        "onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B",
+        "sweroside, loganin, dipsacus A",
+        "senegin I~IV"
+      ],
+      "answer": "senegin I~IV",
+      "explanation": "정답: senegin I~IV\n\n오답 출처:\n· onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B → 원지의 대표 성분\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n· sweroside, loganin, dipsacus A → 속단의 대표 성분\n· dichotomin A~I, gypsophin → 은시호의 대표 성분\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n산지: 북미\n성분:\n· ( ㉠ ) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "ecdysteroid(곤충 탈피호르몬)",
+        "triterpenoid saponin(6~10%)",
+        "iridoid",
+        "cyclopeptide"
+      ],
+      "answer": "triterpenoid saponin(6~10%)",
+      "explanation": "정답: triterpenoid saponin(6~10%)\n\n오답 출처:\n· iridoid → 속단의 성분 계열\n· ecdysteroid(곤충 탈피호르몬) → 우슬의 성분 계열\n· cyclopeptide → 은시호의 성분 계열\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: ( ㉠ )\n산지: 북미\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "마디풀과 Polygonaceae",
+        "비름과 Amaranthaceae",
+        "석죽과 Caryophyllaceae",
+        "원지과 Polygalaceae"
+      ],
+      "answer": "원지과 Polygalaceae",
+      "explanation": "정답: 원지과 Polygalaceae\n\n오답 출처:\n· 석죽과 Caryophyllaceae → 은시호의 과명\n· 마디풀과 Polygonaceae → 이 범위 밖의 오답\n· 비름과 Amaranthaceae → 우슬의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 세네가 · ( ㉠ )\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n산지: 북미\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "Senegae Radix",
+        "Bupleuri Radix",
+        "Dipsaci Radix",
+        "Stellariae seu Gypsophilae Radix",
+        "Polygalae Radix"
+      ],
+      "answer": "Senegae Radix",
+      "explanation": "정답: Senegae Radix\n\n오답 출처:\n· Bupleuri Radix → 시호의 라틴 생약명\n· Dipsaci Radix → 속단의 라틴 생약명\n· Stellariae seu Gypsophilae Radix → 은시호의 라틴 생약명\n· Polygalae Radix → 원지의 라틴 생약명\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n산지: 북미\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: ( ㉠ )\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "진해·거담·해열약",
+        "거담·진해약 — 기관지염, 폐렴",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침",
+        "구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종"
+      ],
+      "answer": "거담·진해약 — 기관지염, 폐렴",
+      "explanation": "정답: 거담·진해약 — 기관지염, 폐렴\n\n오답 출처:\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n· 구어혈·통경·이뇨·관절통 — 월경불순, 악혈 제거, 요슬·관절 동통, 마비, 수종 → 우슬의 응용(효능·적응증)\n· 진해·거담·해열약 → 은시호의 응용(효능·적응증)\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n산지: ( ㉠ )\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n주의: 장기 복용 시 위장관 자극, 독성은 거의 없음",
+      "choices": [
+        "말레이반도, 수마트라, 보르네오, 대만",
+        "일본",
+        "브라질",
+        "북미",
+        "인도"
+      ],
+      "answer": "북미",
+      "explanation": "정답: 북미\n\n오답 출처:\n· 인도 → 이 범위 밖의 오답\n· 일본 → 이 범위 밖의 오답\n· 말레이반도, 수마트라, 보르네오, 대만 → 이 범위 밖의 오답\n· 브라질 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 세네가 · Senegae Radix\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(6~10%) — senegin I~IV\n· 특정 성분 — methyl salicylate(특유의 냄새)\n· aromatic acid — ferulic acid, sinapic acid, p-methoxycinnamic acid\n· 당류 — raffinose, stachyose, polygalitol\n· 기타 — senegose A~O(oligosaccharide ester), hydroxyxanthone\n응용: 거담·진해약 — 기관지염, 폐렴\n확인시험: ① 흔들면 지속성 거품 ② 물 여액의 흡수극대 317 nm(족보 답: p-methoxycinnamic acid 때문)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — ( ㉠ )\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "dichotomin A~I, gypsophin",
+        "aconitine, hypaconitine, mesaconitine",
+        "methyleugenol(50%), asarylketone, safrole",
+        "gentiopicroside, sweroside, trifloroside",
+        "saikosaponin a, b, c"
+      ],
+      "answer": "methyleugenol(50%), asarylketone, safrole",
+      "explanation": "정답: methyleugenol(50%), asarylketone, safrole\n\n오답 출처:\n· saikosaponin a, b, c → 시호의 대표 성분\n· gentiopicroside, sweroside, trifloroside → 진교의 대표 성분\n· dichotomin A~I, gypsophin → 은시호의 대표 성분\n· aconitine, hypaconitine, mesaconitine → 천오, 초오의 대표 성분\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· ( ㉠ ) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "diterpene alkaloid(aconitine계)",
+        "정유(2~3%)",
+        "secoiridoid glycoside",
+        "diterpene alkaloid(약 0.5%)"
+      ],
+      "answer": "정유(2~3%)",
+      "explanation": "정답: 정유(2~3%)\n\n오답 출처:\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n· secoiridoid glycoside → 진교의 성분 계열\n· diterpene alkaloid(약 0.5%) → 부자의 성분 계열\n· diterpene alkaloid(aconitine계) → 천오의 성분 계열\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "협죽도과 Apocynaceae",
+        "녹나무과 Lauraceae",
+        "쥐방울덩굴과 Aristolochiaceae",
+        "미나리아재비과 Ranunculaceae",
+        "용담과 Gentianaceae"
+      ],
+      "answer": "쥐방울덩굴과 Aristolochiaceae",
+      "explanation": "정답: 쥐방울덩굴과 Aristolochiaceae\n\n오답 출처:\n· 녹나무과 Lauraceae → 오약의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 협죽도과 Apocynaceae → 인도사목의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 세신 · ( ㉠ )\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "Aconiti Lateralis Radix Preparata",
+        "Bupleuri Radix",
+        "Aconiti Tuber",
+        "Gentianae Macrophyllae Radix",
+        "Asari Radix et Rhizoma"
+      ],
+      "answer": "Asari Radix et Rhizoma",
+      "explanation": "정답: Asari Radix et Rhizoma\n\n오답 출처:\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n· Bupleuri Radix → 시호의 라틴 생약명\n· Aconiti Tuber → 천오의 라틴 생약명\n· Gentianae Macrophyllae Radix → 진교의 라틴 생약명\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: ( ㉠ )\n주의: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "choices": [
+        "한방: 진통·진경·강장",
+        "해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘",
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+        "해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침"
+      ],
+      "answer": "해열·진해·진통·거담·이뇨약 — 감기, 축농증",
+      "explanation": "정답: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n\n오답 출처:\n· 해열·해독·진통·진해·소염약 — 감기, 급만성 기관지염, 폐렴, 기침 → 시호의 응용(효능·적응증)\n· 한방: 진통·진경·강장 → 천오의 응용(효능·적응증)\n· 해열·진통·이뇨약 — 감기·류머티즘 관절통, 사지 마비, 황달. 특히 급만성 관절류머티즘 → 진교의 응용(효능·적응증)\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n산지: 우리나라 전역, 중국, 일본\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n주의: ( ㉠ )",
+      "choices": [
+        "지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+        "감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제)",
+        "대량 → 강직성 간헐성 경련 → 전신마비",
+        "대엽○○의 근경은 독성이 있어 사용 금지",
+        "비충혈, 우울, 피로, 성욕감퇴. reserpine 과량 → 호흡저하, 서맥, 저혈압, 경련"
+      ],
+      "answer": "지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음",
+      "explanation": "정답: 지상부(잎·엽병)가 10% 이상 섞이지 않게 — 지상부의 aristolochic acid가 신장독성. 정유 장기 투여 → 간암. 여로와 함께 쓰지 않음\n\n오답 출처:\n· 비충혈, 우울, 피로, 성욕감퇴. reserpine 과량 → 호흡저하, 서맥, 저혈압, 경련 → 인도사목의 주의·독성·금기\n· 대엽○○의 근경은 독성이 있어 사용 금지 → 시호의 주의·독성·금기\n· 대량 → 강직성 간헐성 경련 → 전신마비 → 백지의 주의·독성·금기\n· 감초와 검은콩으로 5시간 이상 끓여 법제한 후에 사용(부자는 소금으로 장시간 법제) → 천오의 주의·독성·금기\n\n[카드 요약]\n📇 세신 · Asari Radix et Rhizoma\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n과: 쥐방울덩굴과 Aristolochiaceae\n성분:\n· 정유(2~3%) — methyleugenol(50%), asarylketone, safrole, elemicin, eucarvone, 1,8-cineol\n· acidamide — N-isobutyl-dodecatetraenamide, pellitorin\n· lignan — asarinin, sesamin\n· alkaloid — aristolactam III, higenamine\n· 기타 — aristolochic acid I(지상부에 많음 → 신장독성)\n응용: 해열·진해·진통·거담·이뇨약 — 감기, 축농증\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — ( ㉠ )\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안",
+      "choices": [
+        "gentiopicroside(= gentiopicrin, 7~10%), swertiamarin",
+        "senegin I~IV",
+        "verbascoside(= acteoside), isoacteoside, forsythoside B",
+        "sweroside, loganin, dipsacus A",
+        "aconitine, hypaconitine, mesaconitine"
+      ],
+      "answer": "sweroside, loganin, dipsacus A",
+      "explanation": "정답: sweroside, loganin, dipsacus A\n\n오답 출처:\n· gentiopicroside(= gentiopicrin, 7~10%), swertiamarin → 용담의 대표 성분\n· verbascoside(= acteoside), isoacteoside, forsythoside B → 한속단의 대표 성분\n· aconitine, hypaconitine, mesaconitine → 천오, 초오의 대표 성분\n· senegin I~IV → 세네가의 대표 성분\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· ( ㉠ ) — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "secoiridoid glycoside(쓴맛)",
+        "iridoid",
+        "ecdysteroid(곤충 탈피호르몬)",
+        "diterpene alkaloid(aconitine계)",
+        "phenylethanoid"
+      ],
+      "answer": "iridoid",
+      "explanation": "정답: iridoid\n\n오답 출처:\n· secoiridoid glycoside(쓴맛) → 용담의 성분 계열\n· phenylethanoid → 한속단의 성분 계열\n· ecdysteroid(곤충 탈피호르몬) → 우슬의 성분 계열\n· diterpene alkaloid(aconitine계) → 천오의 성분 계열\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: ( ㉠ )\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "산토끼꽃과 Dipsacaceae",
+        "용담과 Gentianaceae",
+        "미나리아재비과 Ranunculaceae",
+        "두릅나무과(오갈피나무과) Araliaceae",
+        "원지과 Polygalaceae"
+      ],
+      "answer": "산토끼꽃과 Dipsacaceae",
+      "explanation": "정답: 산토끼꽃과 Dipsacaceae\n\n오답 출처:\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n· 원지과 Polygalaceae → 세네가, 원지의 과명\n· 두릅나무과(오갈피나무과) Araliaceae → 인삼, 홍삼의 과명\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 속단 · ( ㉠ )\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "Aconiti Lateralis Radix Preparata",
+        "Aconiti Tuber",
+        "Dipsaci Radix",
+        "Gentianae Scabrae Radix et Rhizoma",
+        "Senegae Radix"
+      ],
+      "answer": "Dipsaci Radix",
+      "explanation": "정답: Dipsaci Radix\n\n오답 출처:\n· Senegae Radix → 세네가의 라틴 생약명\n· Aconiti Tuber → 천오의 라틴 생약명\n· Gentianae Scabrae Radix et Rhizoma → 용담의 라틴 생약명\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: ( ㉠ )\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "한방: 진통·진경·강장",
+        "거담·진해약 — 기관지염, 폐렴",
+        "강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+        "고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조",
+        "강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안"
+      ],
+      "answer": "강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안",
+      "explanation": "정답: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n\n오답 출처:\n· 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조 → 용담의 응용(효능·적응증)\n· 거담·진해약 — 기관지염, 폐렴 → 세네가의 응용(효능·적응증)\n· 한방: 진통·진경·강장 → 천오의 응용(효능·적응증)\n· 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도) → 한속단의 응용(효능·적응증)\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 속단 · (라틴명 숨김)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점",
+      "choices": [
+        "Panax ginseng",
+        "Dipsacus asperoides",
+        "Phlomis umbrosa",
+        "Gentiana scabra",
+        "Achyranthes japonica"
+      ],
+      "answer": "Dipsacus asperoides",
+      "explanation": "정답: Dipsacus asperoides\n\n오답 출처:\n· Panax ginseng → 인삼, 홍삼의 기원식물 학명\n· Gentiana scabra → 용담의 기원식물 학명\n· Achyranthes japonica → 우슬의 기원식물 학명\n· Phlomis umbrosa → 한속단의 기원식물 학명\n\n[카드 요약]\n📇 속단 · Dipsaci Radix\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n과: 산토끼꽃과 Dipsacaceae\n성분:\n· iridoid — sweroside, loganin, dipsacus A, cantleyoside\n· triterpene saponin — asperosaponin VI(= akebia saponin D), hederagenin 배당체\n· phenolic acid — caffeic acid, caffeoylquinic acid\n응용: 강장·진통·소염약 — 등·허리 동통, 타박 염증, 절상, 골절, 태동불안\n확인시험: TLC: Rf 0.4 부근 자색 반점\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — ( ㉠ )\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+      "choices": [
+        "verbascoside(= acteoside), isoacteoside, forsythoside B",
+        "sweroside, loganin, dipsacus A",
+        "linderenol, linderene, linderane",
+        "oxypeucedanin, imperatorin, phellopterin",
+        "saikosaponin a, b, c"
+      ],
+      "answer": "verbascoside(= acteoside), isoacteoside, forsythoside B",
+      "explanation": "정답: verbascoside(= acteoside), isoacteoside, forsythoside B\n\n오답 출처:\n· saikosaponin a, b, c → 시호의 대표 성분\n· sweroside, loganin, dipsacus A → 속단의 대표 성분\n· linderenol, linderene, linderane → 오약의 대표 성분\n· oxypeucedanin, imperatorin, phellopterin → 백지의 대표 성분\n\n[카드 요약]\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· ( ㉠ ) — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+      "choices": [
+        "phenylethanoid",
+        "sesquiterpenoid",
+        "diterpene alkaloid(aconitine계)",
+        "triterpenoid saponin(oleanane)",
+        "furanocoumarin"
+      ],
+      "answer": "phenylethanoid",
+      "explanation": "정답: phenylethanoid\n\n오답 출처:\n· sesquiterpenoid → 오약의 성분 계열\n· triterpenoid saponin(oleanane) → 시호의 성분 계열\n· diterpene alkaloid(aconitine계) → 천오의 성분 계열\n· furanocoumarin → 백지의 성분 계열\n\n[카드 요약]\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: ( ㉠ )\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "미나리아재비과 Ranunculaceae",
+        "용담과 Gentianaceae",
+        "녹나무과 Lauraceae",
+        "꿀풀과 Labiatae"
+      ],
+      "answer": "꿀풀과 Labiatae",
+      "explanation": "정답: 꿀풀과 Labiatae\n\n오답 출처:\n· 녹나무과 Lauraceae → 오약의 과명\n· 산형과(미나리과) Umbelliferae → 백지, 시호의 과명\n· 용담과 Gentianaceae → 용담, 겐티아나근, 진교의 과명\n· 미나리아재비과 Ranunculaceae → 부자, 천오, 초오, 위령선의 과명\n\n[카드 요약]\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 한속단 · ( ㉠ )\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)",
+      "choices": [
+        "Angelicae Dahuricae Radix",
+        "Phlomidis Radix",
+        "Linderae Radix",
+        "Dipsaci Radix",
+        "Aconiti Lateralis Radix Preparata"
+      ],
+      "answer": "Phlomidis Radix",
+      "explanation": "정답: Phlomidis Radix\n\n오답 출처:\n· Aconiti Lateralis Radix Preparata → 부자의 라틴 생약명\n· Dipsaci Radix → 속단의 라틴 생약명\n· Linderae Radix → 오약의 라틴 생약명\n· Angelicae Dahuricae Radix → 백지의 라틴 생약명\n\n[카드 요약]\n📇 한속단 · Phlomidis Radix\n기원: 한속단 Phlomis umbrosa의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· phenylethanoid — verbascoside(= acteoside), isoacteoside, forsythoside B\n· iridoid — shanzhiside methyl ester, phloyoside\n· norterpenoid — phlomisone\n· terpenoid — oleanolic acid, hederagenin\n응용: 강장·진통·소염약 — 등·허리 동통, 타박, 골절(속단과 같은 용도)"
+    }
+  ]
+}

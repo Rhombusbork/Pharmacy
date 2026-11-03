@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n약리:\n· 해열·진경(daidzein — papaverine의 1/3)\n· 순환계: 뇌·심장 혈류↑(isoflavonoid) → 편두통·협심증·고혈압\n· 혈당강하(puerarin)\n· 알코올섭취억제(daidzin·daidzein·puerarin)\n· 간세포보호, 항혈전, H. pylori 억제(irisolidone)\n응용: 해열·발한·진경 → 감기약(○○탕)\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n약리:\n· 해열·진경(daidzein — papaverine의 1/3)\n· 순환계: 뇌·심장 혈류↑(isoflavonoid) → 편두통·협심증·고혈압\n· 혈당강하(puerarin)\n· 알코올섭취억제(daidzin·daidzein·puerarin)\n· 간세포보호, 항혈전, H. pylori 억제(irisolidone)\n응용: 해열·발한·진경 → 감기약(○○탕)\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
       "choices": [
         "갈근",
         "갈화",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n약리:\n· 갈증 해소·주독(酒毒) 풀기\n· 항비만·항지방간(isoflavone)\n· 탈모억제(5α-reductase 억제)\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n약리:\n· 갈증 해소·주독(酒毒) 풀기\n· 항비만·항지방간(isoflavone)\n· 탈모억제(5α-reductase 억제)\n응용: 숙취로 인한 구토·식욕부진·장출혈",
       "choices": [
         "고삼",
         "갈근",
@@ -31,7 +31,7 @@
     },
     {
       "id": 3,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n약리:\n· glycyrrhizin·glycyrrhetic acid: 부신피질호르몬 유사, estrogen 유사, 항염증, 항알러지, 해독, 위점막 cAMP↑, 간보호, PLA₂ 억제, 항바이러스\n· 항염증: glycyrrhetic acid가 Δ⁴β-reductase·11β-HSD 억제 → cortisol 비활성화↓\n· flavonoid 분획: 항궤양·위액분비억제, isoliquiritigenin 진경\n· glycyrrhizin은 saponin이지만 기포성·용혈성이 매우 약함\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n약리:\n· glycyrrhizin·glycyrrhetic acid: 부신피질호르몬 유사, estrogen 유사, 항염증, 항알러지, 해독, 위점막 cAMP↑, 간보호, PLA₂ 억제, 항바이러스\n· 항염증: glycyrrhetic acid가 Δ⁴β-reductase·11β-HSD 억제 → cortisol 비활성화↓\n· flavonoid 분획: 항궤양·위액분비억제, isoliquiritigenin 진경\n· glycyrrhizin은 saponin이지만 기포성·용혈성이 매우 약함\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
       "choices": [
         "갈화",
         "갈근",
@@ -44,7 +44,7 @@
     },
     {
       "id": 4,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n약리:\n· 진통·항염증(notopterol), COX 억제(phenylethyl ferulate), 5-LOX 억제(falcarindiol)\n· 항알러지(histamine↓), 항암(oxypeucedanin)\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n약리:\n· 진통·항염증(notopterol), COX 억제(phenylethyl ferulate), 5-LOX 억제(falcarindiol)\n· 항알러지(histamine↓), 항암(oxypeucedanin)\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광",
       "choices": [
         "일당귀",
         "방풍",
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n약리:\n· 항부정맥(flavonoid·총 alkaloid·sophocarpine)\n· 항미생물: 여드름균 항균, matrine은 nicotine 같은 작용 → 항원충·살충(가축 피부질환 외용), 항진균(maackiain)\n· 항암(matrine·oxymatrine), 이뇨·해열(중추억제)\n· oxymatrine → 체내에서 matrine으로 대사(항천식)\n· matrine 다량 → 중추신경 마비·경련·호흡정지\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n약리:\n· 항부정맥(flavonoid·총 alkaloid·sophocarpine)\n· 항미생물: 여드름균 항균, matrine은 nicotine 같은 작용 → 항원충·살충(가축 피부질환 외용), 항진균(maackiain)\n· 항암(matrine·oxymatrine), 이뇨·해열(중추억제)\n· oxymatrine → 체내에서 matrine으로 대사(항천식)\n· matrine 다량 → 중추신경 마비·경련·호흡정지\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
       "choices": [
         "고삼",
         "대극",
@@ -70,7 +70,7 @@
     },
     {
       "id": 6,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n약리:\n· 혈당강하: glycan trichosan A~E\n· 항암: trichosanthin(리보솜 28S rRNA의 N-glycosidic 결합 절단 → 리보솜 불활성)\n· 항 HIV-1: trichosanthin, TAP 29\n· 유산유도: trichosanthin이 태반 융모에 직접 작용 → 유산·낙태, 최기형성\n· cucurbitacin: tyrosinase 저해 → 멜라닌 억제\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n약리:\n· 혈당강하: glycan trichosan A~E\n· 항암: trichosanthin(리보솜 28S rRNA의 N-glycosidic 결합 절단 → 리보솜 불활성)\n· 항 HIV-1: trichosanthin, TAP 29\n· 유산유도: trichosanthin이 태반 융모에 직접 작용 → 유산·낙태, 최기형성\n· cucurbitacin: tyrosinase 저해 → 멜라닌 억제\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
       "choices": [
         "독활",
         "갈근",
@@ -83,7 +83,7 @@
     },
     {
       "id": 7,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n약리:\n· 거담: 위점막 자극 → 기관지 분비 촉진(saponin) — NH₄Cl과 동등\n· 진통·소염: platycodin D\n· 항당뇨·항지방간, 혈당강하, 콜레스테롤 저하\n· 조 platycodin: 경구 독성 약함, 용혈·국소자극 작용\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음\n특징: 알코올에 담그면 세포 안에 inulin 구정 석출",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n약리:\n· 거담: 위점막 자극 → 기관지 분비 촉진(saponin) — NH₄Cl과 동등\n· 진통·소염: platycodin D\n· 항당뇨·항지방간, 혈당강하, 콜레스테롤 저하\n· 조 platycodin: 경구 독성 약함, 용혈·국소자극 작용\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음\n특징: 알코올에 담그면 세포 안에 inulin 구정 석출",
       "choices": [
         "갈근",
         "괄루근",
@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n약리:\n· 진정: kessylglycol diacetate(다량 → 중추 마비, 혈압강하)\n· 항불안: valerenic acid\n· 항우울: α-kessyl alcohol\n· 발레리아나근의 sesquiterpene·valepotriate → benzodiazepine 수용체 결합\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음\n특징: 특이한 냄새가 강함",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n약리:\n· 진정: kessylglycol diacetate(다량 → 중추 마비, 혈압강하)\n· 항불안: valerenic acid\n· 항우울: α-kessyl alcohol\n· 발레리아나근의 sesquiterpene·valepotriate → benzodiazepine 수용체 결합\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음\n특징: 특이한 냄새가 강함",
       "choices": [
         "단삼",
         "당삼",
@@ -109,7 +109,7 @@
     },
     {
       "id": 9,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n약리:\n· 순환계: 혈관확장·심장질환 치료 — tanshinone I·IV, cryptotanshinone(관상동맥 확장, 혈압↓, 허혈 예방)\n· 간세포보호(물추출물), 뇌세포보호(salvianic acid A, tanshinone IIA)\n· 항암: tanshinone 유도체\n· 알코올섭취억제: miltirone\n· HIV-1 integrase 억제: lithospermic acid\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n특징: 뿌리 바깥면이 적갈색",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n약리:\n· 순환계: 혈관확장·심장질환 치료 — tanshinone I·IV, cryptotanshinone(관상동맥 확장, 혈압↓, 허혈 예방)\n· 간세포보호(물추출물), 뇌세포보호(salvianic acid A, tanshinone IIA)\n· 항암: tanshinone 유도체\n· 알코올섭취억제: miltirone\n· HIV-1 integrase 억제: lithospermic acid\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n특징: 뿌리 바깥면이 적갈색",
       "choices": [
         "당귀",
         "독활",
@@ -122,7 +122,7 @@
     },
     {
       "id": 10,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n약리:\n· 진정·진통·진경: decursin, decursinol\n· 항암: decursinol, decursinol angelate\n· 뇌세포보호: decursinol\n· 항알러지, 멜라닌 생성 억제\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n약리:\n· 진정·진통·진경: decursin, decursinol\n· 항암: decursinol, decursinol angelate\n· 뇌세포보호: decursinol\n· 항알러지, 멜라닌 생성 억제\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점",
       "choices": [
         "단삼",
         "일당귀",
@@ -135,7 +135,7 @@
     },
     {
       "id": 11,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n약리:\n· 면역: 다당류 → B·T 림프구 활성, 항보체\n· 항암: 다당류(AR-4E-2, 펙틴 유사)\n· ligustilide: 항 acetylcholine, 항천식, 진정\n· falcarindiol: 뇌신경세포 보호\n응용: 보혈·강장·진통·진정약",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n약리:\n· 면역: 다당류 → B·T 림프구 활성, 항보체\n· 항암: 다당류(AR-4E-2, 펙틴 유사)\n· ligustilide: 항 acetylcholine, 항천식, 진정\n· falcarindiol: 뇌신경세포 보호\n응용: 보혈·강장·진통·진정약",
       "choices": [
         "일당귀",
         "강활",
@@ -148,7 +148,7 @@
     },
     {
       "id": 12,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n약리:\n· 강장: 조혈(적혈구·헤모글로빈↑), 강심(PDE 억제 → cAMP↑), 면역조절(다당류)\n· 건위: 위 근육 수축 강화, 위궤양 보호\n· 혈압강하\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n약리:\n· 강장: 조혈(적혈구·헤모글로빈↑), 강심(PDE 억제 → cAMP↑), 면역조절(다당류)\n· 건위: 위 근육 수축 강화, 위궤양 보호\n· 혈압강하\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
       "choices": [
         "단삼",
         "길경",
@@ -161,7 +161,7 @@
     },
     {
       "id": 13,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: ○○과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n약리:\n· 사하(ether·열탕 추출물)\n· 이뇨(신장염 수종에 임상 효과)\n· HIV-1 integrase 억제(flavonol glycoside gallate), 암세포독성(diterpenoid), 항진균(tannin)\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n약리:\n· 사하(ether·열탕 추출물)\n· 이뇨(신장염 수종에 임상 효과)\n· HIV-1 integrase 억제(flavonol glycoside gallate), 암세포독성(diterpenoid), 항진균(tannin)\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
       "choices": [
         "단삼",
         "백미",
@@ -174,7 +174,7 @@
     },
     {
       "id": 14,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n약리:\n· 살충: rotenone이 접촉·흡입으로 작용 — 미토콘드리아 호흡(NADH dehydrogenase) 저해 → 호흡중추·혈관운동중추 마비\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n약리:\n· 살충: rotenone이 접촉·흡입으로 작용 — 미토콘드리아 호흡(NADH dehydrogenase) 저해 → 호흡중추·혈관운동중추 마비\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
       "choices": [
         "갈화",
         "갈근",
@@ -187,7 +187,7 @@
     },
     {
       "id": 15,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n약리:\n· 진통·진정·혈관수축(관절통·월경불순·수족저림)\n· 항염증, 항천식(kaurenoic acid 등), 신경보호(oleanolic acid), 연골보호\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n약리:\n· 진통·진정·혈관수축(관절통·월경불순·수족저림)\n· 항염증, 항천식(kaurenoic acid 등), 신경보호(oleanolic acid), 연골보호\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
       "choices": [
         "고삼",
         "독활",
@@ -200,7 +200,7 @@
     },
     {
       "id": 16,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n약리:\n· 건위: 담즙 분비 촉진·스트레스 위궤양 예방(costunolide), 항궤양(saussureamine)\n· 항균(정유), 구충(MeOH·EtOH 추출물)\n· 항염증(sesquiterpene lactone, cynaropicrin), 항암(costunolide), 간보호\n· 항 HBV(costunolide), 혈압강하(Ca²⁺ 길항)\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n약리:\n· 건위: 담즙 분비 촉진·스트레스 위궤양 예방(costunolide), 항궤양(saussureamine)\n· 항균(정유), 구충(MeOH·EtOH 추출물)\n· 항염증(sesquiterpene lactone, cynaropicrin), 항암(costunolide), 간보호\n· 항 HBV(costunolide), 혈압강하(Ca²⁺ 길항)\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
       "choices": [
         "당삼",
         "목향",
@@ -213,7 +213,7 @@
     },
     {
       "id": 17,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n성분:\n· chromone — hamaudol, ledebouriellol, 5-O-methylvisamminol, cimifugin, divaricatol\n· coumarin(furanocoumarin) — psoralen, bergapten, imperatorin, phellopterin, deltoin\n· 산성 다당류 — saposhnikovan A·C\n· polyacetylene — panaxynol\n약리:\n· 발한·해열\n· 진통: chromone(divaricatol, ledebouriellol, hamaudol)·coumarin·polyacetylene\n· 면역증강·항바이러스: 다당류(saposhnikovan → 세망내피계 활성)\n· 항염증, 항산화, 혈소판 응집 억제, 항종양(panaxynol)\n응용: 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n성분:\n· chromone — hamaudol, ledebouriellol, 5-O-methylvisamminol, cimifugin, divaricatol\n· coumarin(furanocoumarin) — psoralen, bergapten, imperatorin, phellopterin, deltoin\n· 산성 다당류 — saposhnikovan A·C\n· polyacetylene — panaxynol\n약리:\n· 발한·해열\n· 진통: chromone(divaricatol, ledebouriellol, hamaudol)·coumarin·polyacetylene\n· 면역증강·항바이러스: 다당류(saposhnikovan → 세망내피계 활성)\n· 항염증, 항산화, 혈소판 응집 억제, 항종양(panaxynol)\n응용: 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)",
       "choices": [
         "당귀",
         "방풍",
@@ -226,7 +226,7 @@
     },
     {
       "id": 18,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n성분:\n· lignan — deoxypodophyllotoxin\n· Pulsatilla 속 공통 성분(lactone) — ranunculin → protoanemonin → anemonin\n· triterpene saponin — pulsatilloside A~C, pulsatilla saponin A~H, pulsatillic acid\n약리:\n· 항원충: 아메바성 적리균 억제(전제·saponin), 트리코모나스 살충, 톡소포자충 억제\n· 항암: deoxypodophyllotoxin(세포독성·혈관신생 억제), pulsatilla saponin D\n· anemonin = 강력한 심장독(대량 → 심장 정지)\n· 항균·항진균(tannin), 항염증, 기억력 개선\n응용: 살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈\n확인시험: EtOH 엑스 + acetone 침전 → glacial HOAc + H₂SO₄ → 접촉면 홍색~홍자색 윤대",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n성분:\n· lignan — deoxypodophyllotoxin\n· Pulsatilla 속 공통 성분(lactone) — ranunculin → protoanemonin → anemonin\n· triterpene saponin — pulsatilloside A~C, pulsatilla saponin A~H, pulsatillic acid\n약리:\n· 항원충: 아메바성 적리균 억제(전제·saponin), 트리코모나스 살충, 톡소포자충 억제\n· 항암: deoxypodophyllotoxin(세포독성·혈관신생 억제), pulsatilla saponin D\n· anemonin = 강력한 심장독(대량 → 심장 정지)\n· 항균·항진균(tannin), 항염증, 기억력 개선\n응용: 살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈\n확인시험: EtOH 엑스 + acetone 침전 → glacial HOAc + H₂SO₄ → 접촉면 홍색~홍자색 윤대",
       "choices": [
         "백부근",
         "감초",
@@ -239,7 +239,7 @@
     },
     {
       "id": 19,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 박주가리과 Asclepiadaceae\n성분:\n· steroid glycoside(C21 pregnane) — atratoside A~D, cynatratoside, glaucoside, glaucogenin, atratogenin\n· neolignan — tetramethoxy-bis(epoxyhydroxypropyl)biphenyl\n· acetophenone — acetovanillone\n약리:\n· 해열·이뇨\n· 항암·항염증(glaucogenin C 배당체, NF-κB 억제)\n· pregnane glycoside: AChE 억제 → 기억력 개선\n응용: 해열·이뇨약 — 열병 중기·말기 발열, 뇌졸중 환자의 사지 부종",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 박주가리과 Asclepiadaceae\n성분:\n· steroid glycoside(C21 pregnane) — atratoside A~D, cynatratoside, glaucoside, glaucogenin, atratogenin\n· neolignan — tetramethoxy-bis(epoxyhydroxypropyl)biphenyl\n· acetophenone — acetovanillone\n약리:\n· 해열·이뇨\n· 항암·항염증(glaucogenin C 배당체, NF-κB 억제)\n· pregnane glycoside: AChE 억제 → 기억력 개선\n응용: 해열·이뇨약 — 열병 중기·말기 발열, 뇌졸중 환자의 사지 부종",
       "choices": [
         "방풍",
         "백미",
@@ -252,7 +252,7 @@
     },
     {
       "id": 20,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요)\n\n📇 ○○\n과: 백부과 Stemonaceae\n성분:\n· alkaloid(Stemona alkaloid) — stemonine, stemonidine, stemonamine, stemofoline, tuberostemonine, protostemonine\n약리:\n· 항세균·항진균: 결핵균·적리균·대장균 등 억제, Candida 항진균(bibenzyl)\n· 살충: EtOH 추출물 — 피부 자극 없이 이에 강한 살충, alkaloid\n· 진해: alkaloid가 호흡중추 흥분성 감퇴\n· stemofoline: P-glycoprotein 저해 → 항암제 내성 감소\n응용: 진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백부과 Stemonaceae\n성분:\n· alkaloid(Stemona alkaloid) — stemonine, stemonidine, stemonamine, stemofoline, tuberostemonine, protostemonine\n약리:\n· 항세균·항진균: 결핵균·적리균·대장균 등 억제, Candida 항진균(bibenzyl)\n· 살충: EtOH 추출물 — 피부 자극 없이 이에 강한 살충, alkaloid\n· 진해: alkaloid가 호흡중추 흥분성 감퇴\n· stemofoline: P-glycoprotein 저해 → 항암제 내성 감소\n응용: 진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용",
       "choices": [
         "길초근",
         "백부근",
