@@ -1,0 +1,199 @@
+{
+  "deckId": "biochem-final-compare",
+  "subject": "생화학",
+  "title": "⑧ 비교표 (GLUT·ATPase·G 단백질·DNA 형태·비타민·질환)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[비교표 · GLUT] GLUT1·GLUT2·GLUT4 중 Kt가 가장 커서 혈당 감지에 쓰이는 것은?",
+      "choices": [
+        "GLUT2",
+        "GLUT1",
+        "GLUT4",
+        "SGLT1"
+      ],
+      "answer": "GLUT2",
+      "explanation": "정답: GLUT2\n간·췌장 β세포\n\n오답 분석:\n• GLUT1 — Kt ~1.5 mM, 항상 공급\n• GLUT4 — 인슐린 의존\n• SGLT1 — 2차 능동"
+    },
+    {
+      "id": 2,
+      "question": "[비교표 · GLUT] 인슐린에 의해 세포막으로 이동하는 포도당 수송체와 조직의 짝은?",
+      "choices": [
+        "GLUT4 — 근육·지방",
+        "GLUT2 — 간",
+        "GLUT1 — 적혈구",
+        "GLUT4 — 뇌"
+      ],
+      "answer": "GLUT4 — 근육·지방",
+      "explanation": "정답: GLUT4 — 근육·지방\n\n\n오답 분석:\n• GLUT2 — 간 — 인슐린 무관\n• GLUT1 — 적혈구 — 항상 막에\n• GLUT4 — 뇌 — 뇌는 GLUT1·3"
+    },
+    {
+      "id": 3,
+      "question": "[비교표 · ATPase] 인산화된 Asp 중간체가 있고 바나데이트에 억제되는 것은?",
+      "choices": [
+        "P형",
+        "V형",
+        "F형",
+        "ABC형"
+      ],
+      "answer": "P형",
+      "explanation": "정답: P형\n\n\n오답 분석:\n• V형 — 소포 산성화\n• F형 — ATP 합성효소\n• ABC형 — ATP 결합 카세트"
+    },
+    {
+      "id": 4,
+      "question": "[비교표 · ATPase] 미토콘드리아에서 양성자 구배로 ATP를 합성하는 것은?",
+      "choices": [
+        "F형",
+        "P형",
+        "V형",
+        "ABC형"
+      ],
+      "answer": "F형",
+      "explanation": "정답: F형\n\n\n오답 분석:\n• P형 — \n• V형 — 같은 계열이나 반대 방향(소포 산성화)\n• ABC형 — "
+    },
+    {
+      "id": 5,
+      "question": "[비교표 · ATPase] 다약제 내성(MDR1)과 CFTR이 속하는 수송체는?",
+      "choices": [
+        "ABC 수송체",
+        "P형",
+        "V형",
+        "2차 능동 공동수송체"
+      ],
+      "answer": "ABC 수송체",
+      "explanation": "정답: ABC 수송체\n\n\n오답 분석:\n• P형 — \n• V형 — \n• 2차 능동 공동수송체 — "
+    },
+    {
+      "id": 6,
+      "question": "[비교표 · G 단백질] G 단백질과 1차 효과기의 짝으로 옳은 것은?",
+      "choices": [
+        "Gt — cGMP PDE",
+        "Gs — PLC",
+        "Gq — 아데닐릴 고리화효소",
+        "Gi — PLC 활성"
+      ],
+      "answer": "Gt — cGMP PDE",
+      "explanation": "정답: Gt — cGMP PDE\nGs: AC↑ · Gi: AC↓ · Gq: PLC · Gt: PDE\n\n오답 분석:\n• Gs — PLC — Gs는 AC\n• Gq — 아데닐릴 고리화효소 — Gq는 PLC\n• Gi — PLC 활성 — Gi는 AC 억제"
+    },
+    {
+      "id": 7,
+      "question": "[비교표 · G 단백질] 독소와 표적 G 단백질의 짝으로 옳은 것은?",
+      "choices": [
+        "백일해 독소 — Giα",
+        "콜레라 독소 — Giα",
+        "백일해 독소 — Gqα",
+        "콜레라 독소 — Gt"
+      ],
+      "answer": "백일해 독소 — Giα",
+      "explanation": "정답: 백일해 독소 — Giα\n\n\n오답 분석:\n• 콜레라 독소 — Giα — Gsα\n• 백일해 독소 — Gqα — Giα\n• 콜레라 독소 — Gt — Gsα"
+    },
+    {
+      "id": 8,
+      "question": "[비교표 · 수용체] RTK와 GPCR 비교로 옳은 것은?",
+      "choices": [
+        "RTK는 리간드 결합 후 이합체화·자가인산화, GPCR은 7회 막관통·G 단백질 활성",
+        "두 수용체 모두 7회 막관통",
+        "GPCR이 자가인산화",
+        "RTK는 G 단백질을 직접 활성화"
+      ],
+      "answer": "RTK는 리간드 결합 후 이합체화·자가인산화, GPCR은 7회 막관통·G 단백질 활성",
+      "explanation": "정답: RTK는 리간드 결합 후 이합체화·자가인산화, GPCR은 7회 막관통·G 단백질 활성\n\n\n오답 분석:\n• 두 수용체 모두 7회 막관통 — \n• GPCR이 자가인산화 — \n• RTK는 G 단백질을 직접 활성화 — Ras는 Grb2–Sos 경유"
+    },
+    {
+      "id": 9,
+      "question": "[비교표 · DNA 형태] A·B·Z형 DNA 중 왼손 나선이고 가장 가는 것은?",
+      "choices": [
+        "Z형",
+        "A형",
+        "B형",
+        "A형과 Z형 모두"
+      ],
+      "answer": "Z형",
+      "explanation": "정답: Z형\n\n\n오답 분석:\n• A형 — 오른손, 가장 넓음\n• B형 — 오른손, 생리적 주형\n• A형과 Z형 모두 — A는 오른손"
+    },
+    {
+      "id": 10,
+      "question": "[비교표 · DNA 형태] A·B·Z형 중 RNA 이중나선·DNA–RNA 혼성체가 닮은 것은?",
+      "choices": [
+        "A형",
+        "B형",
+        "Z형",
+        "모두 B형"
+      ],
+      "answer": "A형",
+      "explanation": "정답: A형\n\n\n오답 분석:\n• B형 — \n• Z형 — \n• 모두 B형 — "
+    },
+    {
+      "id": 11,
+      "question": "[비교표 · 비타민] 지용성 비타민과 기능의 짝으로 옳은 것은?",
+      "choices": [
+        "비타민 E — 항산화(막 지질 과산화 방지)",
+        "비타민 K — 시각 색소",
+        "비타민 A — 혈액 응고",
+        "비타민 D — 항산화"
+      ],
+      "answer": "비타민 E — 항산화(막 지질 과산화 방지)",
+      "explanation": "정답: 비타민 E — 항산화(막 지질 과산화 방지)\n\n\n오답 분석:\n• 비타민 K — 시각 색소 — A\n• 비타민 A — 혈액 응고 — K\n• 비타민 D — 항산화 — E"
+    },
+    {
+      "id": 12,
+      "question": "[비교표 · 에이코사노이드] 에이코사노이드와 효소·작용의 짝으로 옳은 것은?",
+      "choices": [
+        "트롬복세인 — COX — 혈소판 응집",
+        "류코트라이엔 — COX — 혈관 확장",
+        "프로스타글란딘 — 리폭시제네이스",
+        "트롬복세인 — 리폭시제네이스"
+      ],
+      "answer": "트롬복세인 — COX — 혈소판 응집",
+      "explanation": "정답: 트롬복세인 — COX — 혈소판 응집\n\n\n오답 분석:\n• 류코트라이엔 — COX — 혈관 확장 — 리폭시제네이스·기관지 수축\n• 프로스타글란딘 — 리폭시제네이스 — COX\n• 트롬복세인 — 리폭시제네이스 — COX"
+    },
+    {
+      "id": 13,
+      "question": "[비교표 · 지질 질환] 스핑고지질 저장 질환과 결핍 효소의 짝으로 옳은 것은?",
+      "choices": [
+        "Tay-Sachs — 헥소사미니데이스 A(GM2 축적)",
+        "Niemann-Pick — 헥소사미니데이스 A",
+        "Tay-Sachs — 스핑고미엘리네이스",
+        "Niemann-Pick — 글루코세레브로시데이스"
+      ],
+      "answer": "Tay-Sachs — 헥소사미니데이스 A(GM2 축적)",
+      "explanation": "정답: Tay-Sachs — 헥소사미니데이스 A(GM2 축적)\n\n\n오답 분석:\n• Niemann-Pick — 헥소사미니데이스 A — 스핑고미엘리네이스\n• Tay-Sachs — 스핑고미엘리네이스 — \n• Niemann-Pick — 글루코세레브로시데이스 — Gaucher"
+    },
+    {
+      "id": 14,
+      "question": "[비교표 · 수송 방향] Cl⁻–HCO₃⁻ 교환체(적혈구 band 3)의 수송 방식은?",
+      "choices": [
+        "역수송(antiport), 전기 중성",
+        "공동수송",
+        "단일수송",
+        "1차 능동수송"
+      ],
+      "answer": "역수송(antiport), 전기 중성",
+      "explanation": "정답: 역수송(antiport), 전기 중성\n\n\n오답 분석:\n• 공동수송 — \n• 단일수송 — \n• 1차 능동수송 — "
+    },
+    {
+      "id": 15,
+      "question": "[비교표 · 세포사멸] 내인성·외인성 apoptosis의 개시 caspase 짝으로 옳은 것은?",
+      "choices": [
+        "내인성 caspase-9 · 외인성 caspase-8",
+        "내인성 caspase-8 · 외인성 caspase-9",
+        "둘 다 caspase-3",
+        "내인성 caspase-1 · 외인성 caspase-3"
+      ],
+      "answer": "내인성 caspase-9 · 외인성 caspase-8",
+      "explanation": "정답: 내인성 caspase-9 · 외인성 caspase-8\n\n\n오답 분석:\n• 내인성 caspase-8 · 외인성 caspase-9 — 맞바꿈\n• 둘 다 caspase-3 — 실행 caspase\n• 내인성 caspase-1 · 외인성 caspase-3 — "
+    },
+    {
+      "id": 16,
+      "question": "[비교표 · 뉴클레오사이드] 뉴클레오사이드와 뉴클레오타이드의 차이는?",
+      "choices": [
+        "인산기의 유무",
+        "염기의 종류",
+        "리보스와 디옥시리보스",
+        "글리코사이드 결합의 α/β"
+      ],
+      "answer": "인산기의 유무",
+      "explanation": "정답: 인산기의 유무\n\n\n오답 분석:\n• 염기의 종류 — \n• 리보스와 디옥시리보스 — \n• 글리코사이드 결합의 α/β — "
+    }
+  ]
+}

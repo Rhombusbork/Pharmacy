@@ -1,0 +1,223 @@
+{
+  "deckId": "biochem-final-predict",
+  "subject": "생화학",
+  "title": "⑦ 예측·실험 (독소·돌연변이·약물·Ct·primer·Sanger)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[예측 · 독소] 간세포에 콜레라 독소를 처리한 뒤 글루카곤 없이 두었을 때 예상되는 변화는?",
+      "choices": [
+        "cAMP가 높게 유지되어 PKA 활성·글리코젠 분해가 계속된다",
+        "cAMP가 낮아져 글리코젠 합성이 늘어난다",
+        "IP₃·Ca²⁺만 증가한다",
+        "변화 없다(호르몬이 없으므로)"
+      ],
+      "answer": "cAMP가 높게 유지되어 PKA 활성·글리코젠 분해가 계속된다",
+      "explanation": "정답: cAMP가 높게 유지되어 PKA 활성·글리코젠 분해가 계속된다\nGsα ADP-리보실화 → GTPase 상실 → 리간드 없이도 계속 활성\n\n오답 분석:\n• cAMP가 낮아져 글리코젠 합성이 늘어난다 — 방향 반대\n• IP₃·Ca²⁺만 증가한다 — Gq 경로와 혼동\n• 변화 없다(호르몬이 없으므로) — Gsα가 호르몬 없이도 켜진 채 고정"
+    },
+    {
+      "id": 2,
+      "question": "[예측 · 독소] Gi 결합 수용체 작용제를 백일해 독소 처리 세포에 넣으면 cAMP는?",
+      "choices": [
+        "작용제를 넣어도 cAMP가 감소하지 않는다(억제 불능)",
+        "cAMP가 평소보다 더 크게 감소한다",
+        "IP₃가 증가한다",
+        "PKC가 억제된다"
+      ],
+      "answer": "작용제를 넣어도 cAMP가 감소하지 않는다(억제 불능)",
+      "explanation": "정답: 작용제를 넣어도 cAMP가 감소하지 않는다(억제 불능)\n백일해 독소 → Giα ADP-리보실화 → GDP 상태 고정 → 아데닐릴 고리화효소 억제 불능\n\n오답 분석:\n• cAMP가 평소보다 더 크게 감소한다 — Gi가 막혀 억제 못 함\n• IP₃가 증가한다 — Gq와 무관\n• PKC가 억제된다 — 무관"
+    },
+    {
+      "id": 3,
+      "question": "[예측 · 유사체] Gs 결합 수용체 세포에 가수분해되지 않는 GTP 유사체(GTPγS)를 넣으면?",
+      "choices": [
+        "Gsα가 계속 활성 상태로 남아 cAMP가 지속 생성된다",
+        "Gsα가 활성화되지 못한다",
+        "Gβγ가 Gα에 다시 결합해 신호가 꺼진다",
+        "cAMP 분해가 빨라진다"
+      ],
+      "answer": "Gsα가 계속 활성 상태로 남아 cAMP가 지속 생성된다",
+      "explanation": "정답: Gsα가 계속 활성 상태로 남아 cAMP가 지속 생성된다\nGTPase로 끄는 단계가 막힘 — 콜레라 독소와 같은 결과\n\n오답 분석:\n• Gsα가 활성화되지 못한다 — GTP처럼 결합은 함\n• Gβγ가 Gα에 다시 결합해 신호가 꺼진다 — 가수분해가 안 돼 재결합 불가\n• cAMP 분해가 빨라진다 — PDE와 무관"
+    },
+    {
+      "id": 4,
+      "question": "[예측 · 유사체] 포볼 에스터(phorbol ester)를 처리하면 직접 일어나는 변화는?",
+      "choices": [
+        "DAG처럼 작용해 PKC가 활성화된다",
+        "IP₃처럼 Ca²⁺를 방출시킨다",
+        "cAMP가 증가한다",
+        "PLC를 억제한다"
+      ],
+      "answer": "DAG처럼 작용해 PKC가 활성화된다",
+      "explanation": "정답: DAG처럼 작용해 PKC가 활성화된다\nPMA = DAG 유사체(종양 촉진제)\n\n오답 분석:\n• IP₃처럼 Ca²⁺를 방출시킨다 — DAG 유사체\n• cAMP가 증가한다 — Gs 경로 아님\n• PLC를 억제한다 — 하위에서 작용"
+    },
+    {
+      "id": 5,
+      "question": "[예측 · 돌연변이] GRK(βARK) 기능 상실 돌연변이가 있을 때 β-작용제를 오래 처리하면?",
+      "choices": [
+        "탈감작이 잘 일어나지 않아 cAMP 반응이 오래 지속된다",
+        "반응이 더 빨리 꺼진다",
+        "수용체가 리간드와 결합하지 못한다",
+        "Gq 경로로 신호가 바뀐다"
+      ],
+      "answer": "탈감작이 잘 일어나지 않아 cAMP 반응이 오래 지속된다",
+      "explanation": "정답: 탈감작이 잘 일어나지 않아 cAMP 반응이 오래 지속된다\nβARK 인산화 → β-arrestin → 엔도사이토시스가 탈감작\n\n오답 분석:\n• 반응이 더 빨리 꺼진다 — 인산화가 없어 β-arrestin 결합 ✗\n• 수용체가 리간드와 결합하지 못한다 — 결합은 정상\n• Gq 경로로 신호가 바뀐다 — 무관"
+    },
+    {
+      "id": 6,
+      "question": "[예측 · 돌연변이] Gqα가 PLC와 상호작용하지 못하는 돌연변이에서 가장 먼저 손상되는 것은?",
+      "choices": [
+        "PIP₂ 분해(IP₃·DAG 생성)",
+        "수용체–리간드 결합",
+        "Gqα의 GTP 결합",
+        "소포체 Ca²⁺ 펌프(SERCA)"
+      ],
+      "answer": "PIP₂ 분해(IP₃·DAG 생성)",
+      "explanation": "정답: PIP₂ 분해(IP₃·DAG 생성)\nGqα → PLC가 끊기면 그 아래 IP₃·DAG·Ca²⁺·PKC 모두 감소\n\n오답 분석:\n• 수용체–리간드 결합 — 상위 단계는 정상\n• Gqα의 GTP 결합 — GTP 결합은 가능\n• 소포체 Ca²⁺ 펌프(SERCA) — 하위·별개"
+    },
+    {
+      "id": 7,
+      "question": "[예측 · 돌연변이] Ras의 GTPase 활성이 사라진 돌연변이(예: G12V)의 결과는?",
+      "choices": [
+        "Ras가 GTP 상태로 고정되어 MAPK 신호가 계속 켜진다(종양유전자)",
+        "Ras가 GDP에 고정되어 신호가 꺼진다",
+        "인슐린 수용체가 자가인산화되지 않는다",
+        "cAMP가 감소한다"
+      ],
+      "answer": "Ras가 GTP 상태로 고정되어 MAPK 신호가 계속 켜진다(종양유전자)",
+      "explanation": "정답: Ras가 GTP 상태로 고정되어 MAPK 신호가 계속 켜진다(종양유전자)\n사람 암의 ~30%에 Ras 활성 돌연변이\n\n오답 분석:\n• Ras가 GDP에 고정되어 신호가 꺼진다 — GTPase가 없으면 반대\n• 인슐린 수용체가 자가인산화되지 않는다 — 상위 무관\n• cAMP가 감소한다 — Ras 경로 아님"
+    },
+    {
+      "id": 8,
+      "question": "[예측 · 돌연변이] PTEN 기능 상실 시 예상되는 변화는?",
+      "choices": [
+        "PIP₃가 쌓여 PKB/Akt가 계속 활성 → 세포 생존·증식↑",
+        "PIP₃가 줄어 Akt가 꺼진다",
+        "IP₃가 증가해 Ca²⁺가 오른다",
+        "p53이 활성화된다"
+      ],
+      "answer": "PIP₃가 쌓여 PKB/Akt가 계속 활성 → 세포 생존·증식↑",
+      "explanation": "정답: PIP₃가 쌓여 PKB/Akt가 계속 활성 → 세포 생존·증식↑\nPTEN = 종양억제유전자\n\n오답 분석:\n• PIP₃가 줄어 Akt가 꺼진다 — PTEN은 PIP₃ → PIP₂\n• IP₃가 증가해 Ca²⁺가 오른다 — 무관\n• p53이 활성화된다 — 직접 관계 ✗"
+    },
+    {
+      "id": 9,
+      "question": "[예측 · 약물] 우아베인(디곡신)이 Na⁺/K⁺ ATPase를 억제하면 심근세포에서?",
+      "choices": [
+        "세포 안 Na⁺↑ → Na⁺/Ca²⁺ 교환 감소 → Ca²⁺↑ → 수축력↑",
+        "세포 안 Na⁺↓, Ca²⁺↓",
+        "K⁺가 세포 안에 쌓인다",
+        "막이 과분극된다"
+      ],
+      "answer": "세포 안 Na⁺↑ → Na⁺/Ca²⁺ 교환 감소 → Ca²⁺↑ → 수축력↑",
+      "explanation": "정답: 세포 안 Na⁺↑ → Na⁺/Ca²⁺ 교환 감소 → Ca²⁺↑ → 수축력↑\n강심배당체의 기전\n\n오답 분석:\n• 세포 안 Na⁺↓, Ca²⁺↓ — 펌프가 멈추면 Na⁺↑\n• K⁺가 세포 안에 쌓인다 — K⁺ 유입이 줄어 K⁺↓\n• 막이 과분극된다 — 탈분극 경향"
+    },
+    {
+      "id": 10,
+      "question": "[예측 · 약물] 위 벽세포에 오메프라졸(또는 바나데이트)을 처리하면?",
+      "choices": [
+        "H⁺/K⁺ ATPase가 억제되어 위산 분비가 줄어든다",
+        "Na⁺/glucose 흡수가 막힌다",
+        "Cl⁻ 분비가 늘어 설사",
+        "cAMP가 감소한다"
+      ],
+      "answer": "H⁺/K⁺ ATPase가 억제되어 위산 분비가 줄어든다",
+      "explanation": "정답: H⁺/K⁺ ATPase가 억제되어 위산 분비가 줄어든다\nP형 ATPase(2024-2 서술 9번: H⁺·K⁺)\n\n오답 분석:\n• Na⁺/glucose 흡수가 막힌다 — 장의 SGLT\n• Cl⁻ 분비가 늘어 설사 — 콜레라 독소\n• cAMP가 감소한다 — 직접 효과 아님"
+    },
+    {
+      "id": 11,
+      "question": "[예측 · 약물] 실데나필을 투여하면 평활근에서?",
+      "choices": [
+        "PDE5 억제 → cGMP↑ → PKG → 이완",
+        "cGMP 분해가 빨라진다",
+        "cAMP가 감소한다",
+        "NO 합성이 억제된다"
+      ],
+      "answer": "PDE5 억제 → cGMP↑ → PKG → 이완",
+      "explanation": "정답: PDE5 억제 → cGMP↑ → PKG → 이완\nNO–cGMP 경로\n\n오답 분석:\n• cGMP 분해가 빨라진다 — 반대\n• cAMP가 감소한다 — PDE5는 cGMP 특이\n• NO 합성이 억제된다 — 상류와 무관"
+    },
+    {
+      "id": 12,
+      "question": "[예측 · 시각] 광수용 세포에 빛을 비추면 cGMP 농도와 막전위는?",
+      "choices": [
+        "cGMP 감소 · 과분극",
+        "cGMP 증가 · 탈분극",
+        "cGMP 감소 · 탈분극",
+        "cGMP 증가 · 과분극"
+      ],
+      "answer": "cGMP 감소 · 과분극",
+      "explanation": "정답: cGMP 감소 · 과분극\n족보 21번\n\n오답 분석:\n• cGMP 증가 · 탈분극 — 어둠 상태\n• cGMP 감소 · 탈분극 — 통로가 닫혀 과분극\n• cGMP 증가 · 과분극 — 방향 반대"
+    },
+    {
+      "id": 13,
+      "question": "[실험 · Ct] 시료 A의 Ct가 20, 시료 B의 Ct가 23이면(증폭 효율 100%) 초기 주형량은?",
+      "choices": [
+        "A가 B보다 약 8배 많다",
+        "B가 A보다 약 8배 많다",
+        "A가 B보다 약 3배 많다",
+        "같다"
+      ],
+      "answer": "A가 B보다 약 8배 많다",
+      "explanation": "정답: A가 B보다 약 8배 많다\n한 주기마다 2배 → 2^(23−20) = 8\n\n오답 분석:\n• B가 A보다 약 8배 많다 — Ct 작을수록 많음\n• A가 B보다 약 3배 많다 — 2³ = 8\n• 같다 — Ct 차이 3"
+    },
+    {
+      "id": 14,
+      "question": "[실험 · hydropathy] 240개 아미노산 단백질의 hydropathy plot에서 소수성 구간이 7개라면?",
+      "choices": [
+        "7회 막관통 α나선 → GPCR 가능성이 높다",
+        "8개의 막관통 β가닥 → 포린",
+        "세포질 단백질",
+        "1회 막관통 RTK"
+      ],
+      "answer": "7회 막관통 α나선 → GPCR 가능성이 높다",
+      "explanation": "정답: 7회 막관통 α나선 → GPCR 가능성이 높다\n족보 14번\n\n오답 분석:\n• 8개의 막관통 β가닥 → 포린 — plot은 α나선 탐지\n• 세포질 단백질 — 막관통 구간 존재\n• 1회 막관통 RTK — 7개"
+    },
+    {
+      "id": 15,
+      "question": "[실험 · Sanger] primer 뒤 새 가닥이 5′-TAATG…-3′인데 반응에 dATP·dCTP·dGTP·ddTTP만 있다(dTTP 없음). 띠는?",
+      "choices": [
+        "새 뉴클레오타이드 1개짜리 띠 하나",
+        "모든 T 위치 띠",
+        "띠 없음",
+        "전체 길이 하나"
+      ],
+      "answer": "새 뉴클레오타이드 1개짜리 띠 하나",
+      "explanation": "정답: 새 뉴클레오타이드 1개짜리 띠 하나\n족보 서술형 1(c)\n\n오답 분석:\n• 모든 T 위치 띠 — dTTP가 없어 첫 T에서 끝\n• 띠 없음 — ddT가 들어감\n• 전체 길이 하나 — 종결됨"
+    },
+    {
+      "id": 16,
+      "question": "[실험 · primer] 5′-…ATGCCGTTAGCAACGGTA…-3′의 마지막 6 nt(ACGGTA)를 역방향 primer 끝으로 쓰려면 primer 서열은?",
+      "choices": [
+        "5′-TACCGT-3′",
+        "5′-ACGGTA-3′",
+        "5′-TGCCAT-3′",
+        "5′-ATGGCA-3′"
+      ],
+      "answer": "5′-TACCGT-3′",
+      "explanation": "정답: 5′-TACCGT-3′\n역방향 = 역상보(reverse complement)\n\n오답 분석:\n• 5′-ACGGTA-3′ — 그대로 쓰면 정방향\n• 5′-TGCCAT-3′ — 상보만 하고 뒤집지 않음\n• 5′-ATGGCA-3′ — 뒤집기만 함"
+    },
+    {
+      "id": 17,
+      "question": "[실험 · 수송 동역학] 포도당 수송 속도 v가 [S] = Kt일 때의 값은?",
+      "choices": [
+        "Vmax/2",
+        "Vmax",
+        "Vmax/4",
+        "0"
+      ],
+      "answer": "Vmax/2",
+      "explanation": "정답: Vmax/2\nKt = 수송 속도가 최대의 절반일 때 기질 농도(Michaelis–Menten과 같은 형식)\n\n오답 분석:\n• Vmax — [S] ≫ Kt\n• Vmax/4 — 정의 아님\n• 0 — [S] = 0일 때"
+    },
+    {
+      "id": 18,
+      "question": "[실험 · 수송 그래프] x축 농도차, y축 속도에서 원점을 지나는 직선은?",
+      "choices": [
+        "단순 확산",
+        "촉진 확산",
+        "능동 수송",
+        "이온 채널(리간드 개폐)"
+      ],
+      "answer": "단순 확산",
+      "explanation": "정답: 단순 확산\n족보 서술형 4\n\n오답 분석:\n• 촉진 확산 — 포화 곡선\n• 능동 수송 — 농도차 ≤ 0에서도 수송\n• 이온 채널(리간드 개폐) — 개폐 조건 의존"
+    }
+  ]
+}
