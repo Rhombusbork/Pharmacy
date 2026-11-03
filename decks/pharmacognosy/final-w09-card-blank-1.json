@@ -7,14 +7,14 @@
       "id": 1,
       "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 해열·발한·진경 → 감기약(갈근탕)\n주의: 장기간 복용해도 비교적 안전",
       "choices": [
+        "salvianolic acid 4.1% 이상",
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
         "kaurenoic acid + continentalic acid 0.4% 이상",
         "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
-        "salvianolic acid 4.1% 이상",
-        "oxymatrine + matrine 합 1.0% 이상",
         "puerarin 2.0% 이상, daidzin 0.3% 이상"
       ],
       "answer": "puerarin 2.0% 이상, daidzin 0.3% 이상",
-      "explanation": "정답: puerarin 2.0% 이상, daidzin 0.3% 이상\n\n오답 출처:\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+      "explanation": "정답: puerarin 2.0% 이상, daidzin 0.3% 이상\n\n오답 출처:\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 이 범위 밖의 오답\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
     },
     {
       "id": 2,
@@ -163,14 +163,14 @@
       "id": 13,
       "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
       "choices": [
-        "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
-        "oxymatrine + matrine 합 1.0% 이상",
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
+        "salvianolic acid 4.1% 이상",
         "puerarin 2.0% 이상, daidzin 0.3% 이상",
         "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
-        "salvianolic acid 4.1% 이상"
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상"
       ],
       "answer": "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
-      "explanation": "정답: glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n\n오답 출처:\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+      "explanation": "정답: glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n\n오답 출처:\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 이 범위 밖의 오답\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
     },
     {
       "id": 14,

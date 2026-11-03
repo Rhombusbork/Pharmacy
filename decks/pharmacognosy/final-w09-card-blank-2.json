@@ -8,13 +8,13 @@
       "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
       "choices": [
         "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
-        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상",
         "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
-        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
         "oxymatrine + matrine 합 1.0% 이상"
       ],
       "answer": "oxymatrine + matrine 합 1.0% 이상",
-      "explanation": "정답: oxymatrine + matrine 합 1.0% 이상\n\n오답 출처:\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+      "explanation": "정답: oxymatrine + matrine 합 1.0% 이상\n\n오답 출처:\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상 → 이 범위 밖의 오답\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
     },
     {
       "id": 2,

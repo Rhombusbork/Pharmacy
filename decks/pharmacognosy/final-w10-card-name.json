@@ -148,7 +148,7 @@
     },
     {
       "id": 12,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Gentianaceae\n성분:\n· secoiridoid glycoside(쓴맛) — gentiopicroside(= gentiopicrin, 7~10%), swertiamarin, sweroside, trifloroside\n· xanthone — gentisin\n· alkaloid — gentianine\n· phenolic acid — gentisic acid\n약리:\n· 건위(고미건위): gentiopicroside → 위액 분비 촉진, 위 운동 촉진\n· 항염증: gentiopicroside(부종 억제, 간염 억제)\n· 해열, 간 보호\n응용: 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조\n확인시험: TLC(254 nm): gentiopicroside 보라색 반점\n주의: 드물게 두통. 지황과는 배합하지 않음\n특징: 맛이 매우 쓰고 오래 남음",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 용담과 Gentianaceae\n성분:\n· secoiridoid glycoside(쓴맛) — gentiopicroside(= gentiopicrin, 7~10%), swertiamarin, sweroside, trifloroside\n· xanthone — gentisin\n· alkaloid — gentianine\n· phenolic acid — gentisic acid\n약리:\n· 건위(고미건위): gentiopicroside → 위액 분비 촉진, 위 운동 촉진\n· 항염증: gentiopicroside(부종 억제, 간염 억제)\n· 해열, 간 보호\n응용: 고미건위(겐티아나와 같은 용도), 해열, 고미팅크 제조\n확인시험: TLC(254 nm): gentiopicroside 보라색 반점\n주의: 드물게 두통. 지황과는 배합하지 않음\n특징: 맛이 매우 쓰고 오래 남음",
       "choices": [
         "진교",
         "속단",
@@ -213,7 +213,7 @@
     },
     {
       "id": 17,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n약리:\n· 거담: 기관지 반사 → 기관지 점막 분비물↑(tenuigenin은 senegin 유사)\n· 뇌세포 보호·진정: onjisaponin → NGF 분비↑, 기억력 개선, cAMP PDE 억제, 수면 연장\n· 항우울(tenuifoliside A, disinapoylsucrose), 구충\n· 자궁 수축\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 원지과 Polygalaceae\n성분:\n· triterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B\n· xanthone — polygalaxanthone, onjixanthone\n· oligosaccharide polyester — tenuifoliose A~Q, 3,6′-disinapoylsucrose\n약리:\n· 거담: 기관지 반사 → 기관지 점막 분비물↑(tenuigenin은 senegin 유사)\n· 뇌세포 보호·진정: onjisaponin → NGF 분비↑, 기억력 개선, cAMP PDE 억제, 수면 연장\n· 항우울(tenuifoliside A, disinapoylsucrose), 구충\n· 자궁 수축\n응용: 자극성 거담약(stimulant expectorant), 진해·소염·진정약\n확인시험: ① 흔들면 지속성 미세 거품 ② Liebermann-Burchard(접계면 적갈색 → 어두운 녹색) ③ TLC(365 nm)\n주의: 과량·장기 사용 → 구토, 설사, 위장관 장애, 현기증",
       "choices": [
         "세네가",
         "시호",

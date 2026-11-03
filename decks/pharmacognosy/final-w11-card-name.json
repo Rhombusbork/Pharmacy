@@ -1,0 +1,254 @@
+{
+  "deckId": "pharmacognosy-final-w11-card-name",
+  "subject": "생약학",
+  "title": "11주 카드 ① 이름 가린 카드 (자근~총백)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 지치과 Boraginaceae\n성분:\n· naphthoquinone 색소 — shikonin, acetylshikonin, isobutylshikonin, alkannin, deoxyshikonin\n· phenol성 화합물 — lithospermic acid A·B, rosmarinic acid\n· glycan — lithosperman A~C\n약리:\n· 강심·해열·혈압강하\n· 항진균(Candida — acetylshikonin, shikonin), 항 HIV-1(chemokine 수용체 억제)\n· 항암: shikonin(혈관신생 억제, 세포사멸 촉진)\n· 항염증·육아형성 촉진(shikonin, acetylshikonin), 혈당강하(lithosperman)\n응용: 소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품\n확인시험: ① 가열 → 붉은 증기, 관 벽에 적갈색 기름방울(shikonin) ② EtOH 적색액 + NaOH → 청자색, 다시 HCl → 붉은색 ③ TLC: Rf 0.75 적자색",
+      "choices": [
+        "전호",
+        "자근",
+        "천초근",
+        "황금",
+        "작약"
+      ],
+      "answer": "자근",
+      "explanation": "정답: 자근 (Lithospermi Radix, 紫根)\n기원: 지치 Lithospermum erythrorhizon, 신강자초 Arnebia euchroma, 내몽자초 A. guttata의 뿌리 (Macrotomia euchroma 뿌리 = 연자근)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 작약 — 작약과, monoterpene glycoside(benzoate): paeoniflorin, oxypaeoniflorin\n· 황금 — 꿀풀과, flavonoid(flavone): baicalin, baicalein\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n★ 족보: shikonin = naphthoquinone → 자근"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 작약과 Paeoniaceae\n지표(약전): albiflorin + paeoniflorin 2.3% 이상\n성분:\n· monoterpene glycoside(benzoate) — paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin, albiflorin\n· tannin — gallotannin, galloylpaeoniflorin, pentagalloylglucose\n· phenol — paeonol\n· 산성 다당류 — peonan PA·SB\n약리:\n· 진경·진정: paeoniflorin(진정·진경·항콜린·항염증·혈압강하·평활근 이완) — 장내세균 대사산물 paeonimetaboline이 항경련\n· 혈소판 응집 억제·구어혈\n· 혈당강하(paeoniflorin), 항알러지(benzoylpaeoniflorin)\n· paeonol: 항균·중추억제·항염증·위액분비 억제\n응용: 수렴·완화·진경·진통약\n확인시험: ① EtOH 여액 + FeCl₃ → 청자색~청녹색(tannin 등 페놀) ② TLC: paeoniflorin(Rf 0.25)\n주의: 복통과 설사가 있는 경우 주의",
+      "choices": [
+        "지유",
+        "자근",
+        "전호",
+        "작약",
+        "황금"
+      ],
+      "answer": "작약",
+      "explanation": "정답: 작약 (Paeoniae Radix, 芍藥)\n기원: 작약 Paeonia lactiflora 또는 동속 근연식물의 뿌리 (중국: 천작약 P. veitchii)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin\n· 지유 — 장미과, tannin(ellagitannin·gallotannin): sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n· 황금 — 꿀풀과, flavonoid(flavone): baicalin, baicalein\n★ 족보: paeoniflorin → 작약(지표) / 사물탕 구성 생약"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(pyranocoumarin, khellactone형) — praeruptorin A·B·C·E, qianhucoumarin D (백화○○) / decursin, nodakenin (바디나물)\n· lignan — podophyllotoxin, deoxypodophyllotoxin, bursehernin\n· polyacetylene — falcarindiol\n약리:\n· 거담·해열\n· 관상동맥 혈류량 증가(praeruptorin C·E: 관상동맥 이완)\n· 항암(deoxypodophyllotoxin, falcarindiol), 다제내성 회복(khellactone)\n· 항알러지(praeruptorin A·B — 혈소판 응집·회장 수축 억제), 진정\n응용: 해열·거담·진해·진통약 — 감기로 인한 기침, 천식, 두통\n확인시험: ether 침출액 → 자외선에서 청색 형광",
+      "choices": [
+        "황금",
+        "자근",
+        "작약",
+        "총백",
+        "전호"
+      ],
+      "answer": "전호",
+      "explanation": "정답: 전호 (Peucedani Radix, 前胡)\n기원: 백화전호 Peucedanum praeruptorum 또는 바디나물 Angelica decursiva의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 총백 — 백합과, 황함유 화합물: allicin 계열(대산과 같은 황화합물 계열)\n· 작약 — 작약과, monoterpene glycoside(benzoate): paeoniflorin, oxypaeoniflorin\n· 황금 — 꿀풀과, flavonoid(flavone): baicalin, baicalein\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 장미과 Rosaceae\n성분:\n· tannin(ellagitannin·gallotannin) — sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid, catechin\n· triterpenoid — ziyuglycoside I·II, ursolic acid, sanguisoside A\n약리:\n· 수렴: tannin → 지사, 화상 분비물 감소, 어린이 설사\n· 피부 보호(UVB 주름·색소 침착 억제), 항세균\n· 항염증(sanguiin H-11), DNA topoisomerase 억제(sanguiin H-6), anti-thrombin\n응용: 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용\n확인시험: ① 물 여액 + FeCl₃ → 어두운 보라색 ② 흔들면 지속성 거품 ③ TLC + 1% FeCl₃ → 청자색 반점",
+      "choices": [
+        "자근",
+        "작약",
+        "천초근",
+        "지유",
+        "전호"
+      ],
+      "answer": "지유",
+      "explanation": "정답: 지유 (Sanguisorbae Radix, 地楡)\n기원: 오이풀 Sanguisorba officinalis 또는 장엽지유 S. officinalis var. longifolia의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 작약 — 작약과, monoterpene glycoside(benzoate): paeoniflorin, oxypaeoniflorin\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin\n★ 족보: sanguiin H6 = tannin → 지유"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생○○에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n약리:\n· 강심·이뇨·혈당강하(catalpol)\n· 뇌세포 보호(catalpol — 기억력 개선, 신경 보호)\n· 간세포 보호(iridoid 배당체), 항알러지\n응용: (생○○) 청열·양혈. 건○○·숙○○의 원료\n특징: 건○○·숙○○은 생○○보다 stachyose·iridoid 배당체·catalpol이 적고 manninotriose가 많다",
+      "choices": [
+        "파극천",
+        "숙지황",
+        "지황",
+        "현삼",
+        "자근"
+      ],
+      "answer": "지황",
+      "explanation": "정답: 지황 (Rehmanniae Radix, 地黃)\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 숙지황 — 현삼과, furan 알데하이드(찔 때 생성): 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· 현삼 — 현삼과, iridoid: harpagide, harpagoside\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생□□보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n약리:\n· 말초혈관 순환 개선(적혈구 탄력성↑, 섬유소 분해 촉진) — 건□□·생□□에는 없음\n· 항알러지, 강심·이뇨(catalpol 이뇨·완하)\n· 골형성 촉진, 항피로(다당류)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
+      "choices": [
+        "하수오",
+        "숙지황",
+        "지황",
+        "파극천",
+        "현삼"
+      ],
+      "answer": "숙지황",
+      "explanation": "정답: 숙지황 (Rehmanniae Radix Preparata, 熟地黃)\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 지황 — 현삼과, iridoid: catalpol, aucubin\n· 현삼 — 현삼과, iridoid: harpagide, harpagoside\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 하수오 — 마디풀과, stilbene glycoside: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n약리:\n· 지혈: 혈액응고시간 단축\n· 진해·거담(전제)\n· 항세균(포도상구균), 항암(RA-700 등 bicyclic hexapeptide)\n· 항산화(rubiadin), 간세포 보호, HBV 표면항원 분비 억제(mollugin)\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
+      "choices": [
+        "파극천",
+        "황기",
+        "천초근",
+        "토근",
+        "자근"
+      ],
+      "answer": "천초근",
+      "explanation": "정답: 천초근 (Rubiae Radix, 茜草根)\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 토근 — 꼭두서니과, isoquinoline alkaloid(2~3%): emetine, cephaeline\n· 황기 — 콩과, isoflavonoid: formononetin, calycosin\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 방기과 Menispermaceae\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n약리:\n· 건위: 팅크제가 겐티아나 팅크와 같은 효력(위액 분비 촉진·위 운동 항진)\n· 항세균(황색포도상구균), 항암(columbin — 대장암)\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
+      "choices": [
+        "칼룸바",
+        "토근",
+        "생강",
+        "대산",
+        "건강"
+      ],
+      "answer": "칼룸바",
+      "explanation": "정답: 칼룸바 (Calumbae Radix)\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 토근 — 꼭두서니과, isoquinoline alkaloid(2~3%): emetine, cephaeline\n· 생강 — 생강과, 신미 성분: 6-gingerol(6-shogaol은 거의 없음)\n· 대산 — 백합과, 황함유 화합물: alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 건강 — 생강과, 신미 성분(0.8%): 6-gingerol, 6-shogaol(건조 과정에서 증가)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio ○○)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n약리:\n· 최토: cephaeline → 식도 말초신경 자극 → 구토중추(ipecac syrup)\n· 거담: emetine(기도 분비액 증가)\n· 항아메바: emetine(아메바 운동성 파괴, 단백질 합성 억제) — 세균성 적리에는 효과 없음\n· emetine: 부정맥·저혈압·근무력, 배설이 매우 느림(60일)\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·○○산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "choices": [
+        "파극천",
+        "천초근",
+        "전호",
+        "칼룸바",
+        "토근"
+      ],
+      "answer": "토근",
+      "explanation": "정답: 토근 (Ipecacuanhae Radix et Rhizoma, 吐根)\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 칼룸바 — 방기과, alkaloid(protoberberine, 2~3%): palmatine, jateorrhizine\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n약리:\n· 항우울·강장: oligosaccharide(MW-97, nystose) — 스트레스 저항↑\n· 뼈 보호: anthraquinone이 파골세포 억제\n· 혈당강하, 항균, 항염증\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "choices": [
+        "파극천",
+        "토근",
+        "천초근",
+        "숙지황",
+        "하수오"
+      ],
+      "answer": "파극천",
+      "explanation": "정답: 파극천 (Morindae Radix, 巴戟天)\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 토근 — 꼭두서니과, isoquinoline alkaloid(2~3%): emetine, cephaeline\n· 하수오 — 마디풀과, stilbene glycoside: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· 숙지황 — 현삼과, furan 알데하이드(찔 때 생성): 5-hydroxymethyl-2-furaldehyde(5-HMF)"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n약리:\n· 콜레스테롤 저하·동맥경화 예방\n· 강장·강심: lecithin(신경 강장, 혈구 신생)\n· 뇌세포 보호(학습·기억 개선)\n· 사하: anthraquinone 유도체(장관 연동 촉진)\n· 항산화: stilbene glucoside, 부신피질호르몬 유사\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n특징: 자른 면에 이형유관속 고리들이 모인 \"금문(錦紋)\" 꽃무늬",
+      "choices": [
+        "황기",
+        "하수오",
+        "천초근",
+        "파극천",
+        "숙지황"
+      ],
+      "answer": "하수오",
+      "explanation": "정답: 하수오 (Polygoni Multiflori Radix, 何首烏)\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 숙지황 — 현삼과, furan 알데하이드(찔 때 생성): 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 황기 — 콩과, isoflavonoid: formononetin, calycosin\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n약리:\n· 강심·혈압강하\n· 간세포 보호(p-methoxycinnamic acid)\n· 뇌신경 보호·기억력 개선(buergeriside, harpagoside, p-methoxycinnamic acid)\n· 말초혈관 확장(탈항·정맥염), 항독소, 항알러지\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n특징: 꺾인 면이 검은색, 설탕 타는 듯한 냄새",
+      "choices": [
+        "파극천",
+        "현삼",
+        "지황",
+        "숙지황",
+        "전호"
+      ],
+      "answer": "현삼",
+      "explanation": "정답: 현삼 (Scrophulariae Radix, 玄蔘)\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 지황 — 현삼과, iridoid: catalpol, aucubin\n· 숙지황 — 현삼과, furan 알데하이드(찔 때 생성): 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n약리:\n· 해열: baicalein\n· 항염증: baicalein, baicalin, wogonin\n· 이담: baicalin, baicalein (wogonin은 없음)\n· 죽상동맥경화 방지·혈압강하: baicalein\n· 진정(benzodiazepine 수용체: oroxylin A, wogonin)·간세포 보호: wogonin\n· 신경세포 보호: wogonin, baicalein\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
+      "choices": [
+        "자근",
+        "노근",
+        "황금",
+        "숙지황",
+        "전호"
+      ],
+      "answer": "황금",
+      "explanation": "정답: 황금 (Scutellariae Radix, 黃芩)\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n· 노근 — 벼과, 아미노산·단백질: asparagine(약 0.1%), 단백질(약 5%)\n· 숙지황 — 현삼과, furan 알데하이드(찔 때 생성): 5-hydroxymethyl-2-furaldehyde(5-HMF)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n약리:\n· 강장: 정자 운동성↑, RNA 합성 촉진, calycosin estrogen 유사\n· 면역증강(추출물)\n· 이뇨·혈압강하, 간장 보호\n· 항염증, 항암\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
+      "choices": [
+        "파극천",
+        "노근",
+        "황기",
+        "하수오",
+        "천초근"
+      ],
+      "answer": "황기",
+      "explanation": "정답: 황기 (Astragali Radix, 黃芪)\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천초근 — 꼭두서니과, anthraquinone: alizarin, purpurin\n· 파극천 — 꼭두서니과, iridoid: morindolide, monotropein\n· 하수오 — 마디풀과, stilbene glycoside: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· 노근 — 벼과, 아미노산·단백질: asparagine(약 0.1%), 단백질(약 5%)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: □□과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n약리:\n· 발한: 말리지 않은 □□이 ○○보다 강함 — □□엔 6-gingerol만, ○○엔 6-shogaol이 많음\n· 건위: 담즙 분비↑(6-gingerol), 구토 억제 — 멀미·수술 후·임신부 구토, zingiberene 항궤양\n· 항암(6-gingerol, 4-shogaol), 항염(6-shogaol)\n· 6-gingerol·6-shogaol: 진정·진통·일과성 혈압강하·위운동 억제\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n주의: 담석 환자 신중 투여, 빈 속에 다량 → 위장관 자극",
+      "choices": [
+        "생강",
+        "칼룸바",
+        "대산",
+        "건강",
+        "노근"
+      ],
+      "answer": "건강",
+      "explanation": "정답: 건강 (Zingiberis Rhizoma, 乾薑)\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 생강 — 생강과, 신미 성분: 6-gingerol(6-shogaol은 거의 없음)\n· 칼룸바 — 방기과, alkaloid(protoberberine, 2~3%): palmatine, jateorrhizine\n· 대산 — 백합과, 황함유 화합물: alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 노근 — 벼과, 아미노산·단백질: asparagine(약 0.1%), 단백질(약 5%)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n약리:\n· 발한 작용이 □□보다 강함\n· 구토 억제·건위\n응용: 발한·건위·진토 — ○○사심탕",
+      "choices": [
+        "총백",
+        "칼룸바",
+        "건강",
+        "대산",
+        "생강"
+      ],
+      "answer": "생강",
+      "explanation": "정답: 생강 (Zingiberis Rhizoma Recens, 生薑)\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 건강 — 생강과, 신미 성분(0.8%): 6-gingerol, 6-shogaol(건조 과정에서 증가)\n· 대산 — 백합과, 황함유 화합물: alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 총백 — 백합과, 황함유 화합물: allicin 계열(대산과 같은 황화합물 계열)\n· 칼룸바 — 방기과, alkaloid(protoberberine, 2~3%): palmatine, jateorrhizine\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 벼과 Gramineae\n성분:\n· 아미노산·단백질 — asparagine(약 0.1%), 단백질(약 5%)\n약리:\n· 한방에서 열을 내리는 것으로 봄(실험적 효능은 밝혀지지 않음)\n응용: 해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비",
+      "choices": [
+        "노근",
+        "전호",
+        "자근",
+        "황금",
+        "총백"
+      ],
+      "answer": "노근",
+      "explanation": "정답: 노근 (Phragmitis Rhizoma, 蘆根)\n기원: 갈대 Phragmites communis의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n· 황금 — 꿀풀과, flavonoid(flavone): baicalin, baicalein\n· 총백 — 백합과, 황함유 화합물: allicin 계열(대산과 같은 황화합물 계열)\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n산지: 서부 아시아 또는 중국 원산(한국·중국·일본 재배)\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n약리:\n· 항미생물: allicin이 효소의 thiol기와 반응 → 항세균·항진균(Candida)·항트리코모나스·구충\n· 순환계: 혈중 콜레스테롤·중성지방↓, 혈소판 응집 억제\n· 항암: S-allylcysteine, diallyl sulfide(CYP2E1 억제)\n· allicin + 비타민 B₁ → allithiamine(B₁ 분해효소에 안정, 흡수 잘 됨)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n주의: 생마늘 과량 → 위 손상. 눈병·치아·인후 질환, 유행병 후 금기",
+      "choices": [
+        "대산",
+        "건강",
+        "총백",
+        "생강",
+        "노근"
+      ],
+      "answer": "대산",
+      "explanation": "정답: 대산 (Allii Bulbus, 大蒜)\n기원: 마늘 Allium sativum의 비늘줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 총백 — 백합과, 황함유 화합물: allicin 계열(대산과 같은 황화합물 계열)\n· 생강 — 생강과, 신미 성분: 6-gingerol(6-shogaol은 거의 없음)\n· 노근 — 벼과, 아미노산·단백질: asparagine(약 0.1%), 단백질(약 5%)\n· 건강 — 생강과, 신미 성분(0.8%): 6-gingerol, 6-shogaol(건조 과정에서 증가)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — allicin 계열(□□과 같은 황화합물 계열)\n약리:\n· 발한·해표(□□의 동류 생약)\n응용: 발한·해열 — 감기 초기\n특징: ⚠ 교재에는 □□의 동류 생약으로 이름만 나옴(성분·응용은 일반 지식으로 보충)",
+      "choices": [
+        "전호",
+        "자근",
+        "대산",
+        "생강",
+        "총백"
+      ],
+      "answer": "총백",
+      "explanation": "정답: 총백 (Allii Fistulosi Bulbus, 蔥白)\n기원: 파 Allium fistulosum의 비늘줄기(흰 밑동)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 대산 — 백합과, 황함유 화합물: alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 전호 — 산형과(미나리과), coumarin(pyranocoumarin, khellactone형): praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin\n· 생강 — 생강과, 신미 성분: 6-gingerol(6-shogaol은 거의 없음)\n· 자근 — 지치과, naphthoquinone 색소: shikonin, acetylshikonin"
+    }
+  ]
+}

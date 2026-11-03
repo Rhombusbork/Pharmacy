@@ -1,0 +1,130 @@
+{
+  "deckId": "pharmacognosy-final-w11-card-short-2",
+  "subject": "생약학",
+  "title": "11주 카드 ③ 주관식 2/2: 라틴명·지표·산지 → 생약 (자근~총백)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Phragmitis Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "노근",
+        "蘆根"
+      ],
+      "explanation": "Phragmitis Rhizoma = 노근(蘆根)\n기원: 갈대 Phragmites communis의 뿌리줄기 — 벼과 Gramineae"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Allii Bulbus인 생약의 한글 이름은?",
+      "answer": [
+        "대산",
+        "大蒜"
+      ],
+      "explanation": "Allii Bulbus = 대산(大蒜)\n기원: 마늘 Allium sativum의 비늘줄기 — 백합과 Liliaceae\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Allii Fistulosi Bulbus인 생약의 한글 이름은?",
+      "answer": [
+        "총백",
+        "蔥白"
+      ],
+      "explanation": "Allii Fistulosi Bulbus = 총백(蔥白)\n기원: 파 Allium fistulosum의 비늘줄기(흰 밑동) — 백합과 Liliaceae"
+    },
+    {
+      "id": 4,
+      "question": "약전에서 'albiflorin + paeoniflorin 2.3% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "작약"
+      ],
+      "explanation": "작약 (Paeoniae Radix) — 작약과 Paeoniaceae\n대표 성분: monoterpene glycoside(benzoate) — paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin, albiflorin\n★ 족보: paeoniflorin → 작약(지표) / 사물탕 구성 생약"
+    },
+    {
+      "id": 5,
+      "question": "약전에서 '5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "숙지황"
+      ],
+      "explanation": "숙지황 (Rehmanniae Radix Preparata) — 현삼과 Scrophulariaceae\n대표 성분: furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+    },
+    {
+      "id": 6,
+      "question": "산지가 '동아프리카 모잠비크, 마다가스카르'인 생약은?",
+      "answer": [
+        "칼룸바"
+      ],
+      "explanation": "칼룸바 (Calumbae Radix) — 방기과 Menispermaceae\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+    },
+    {
+      "id": 7,
+      "question": "약전에서 '총 alkaloid(emetine + cephaeline) 2.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "토근"
+      ],
+      "explanation": "토근 (Ipecacuanhae Radix et Rhizoma) — 꼭두서니과 Rubiaceae\n대표 성분: isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 8,
+      "question": "산지가 '브라질(Matto Grosso 주, Rio 토근)'인 생약은?",
+      "answer": [
+        "토근"
+      ],
+      "explanation": "토근 (Ipecacuanhae Radix et Rhizoma) — 꼭두서니과 Rubiaceae\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 9,
+      "question": "산지가 '중국 광동·광서·사천·복건'인 생약은?",
+      "answer": [
+        "파극천"
+      ],
+      "explanation": "파극천 (Morindae Radix) — 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 10,
+      "question": "약전에서 '2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "하수오"
+      ],
+      "explanation": "하수오 (Polygoni Multiflori Radix) — 마디풀과 Polygonaceae\n대표 성분: stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 11,
+      "question": "산지가 '중국'인 생약은?",
+      "answer": [
+        "하수오"
+      ],
+      "explanation": "하수오 (Polygoni Multiflori Radix) — 마디풀과 Polygonaceae\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 12,
+      "question": "약전에서 'baicalin + baicalein + wogonin 합 10.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "황금"
+      ],
+      "explanation": "황금 (Scutellariae Radix) — 꿀풀과 Labiatae\n대표 성분: flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 13,
+      "question": "산지가 '한국, 중국, 일본'인 생약은?",
+      "answer": [
+        "황금"
+      ],
+      "explanation": "황금 (Scutellariae Radix) — 꿀풀과 Labiatae\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 14,
+      "question": "약전에서 '6-gingerol 0.4% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "건강"
+      ],
+      "explanation": "건강 (Zingiberis Rhizoma) — 생강과 Zingiberaceae\n대표 성분: 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
+    },
+    {
+      "id": 15,
+      "question": "산지가 '서부 아시아 또는 중국 원산(한국·중국·일본 재배)'인 생약은?",
+      "answer": [
+        "대산"
+      ],
+      "explanation": "대산 (Allii Bulbus) — 백합과 Liliaceae\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    }
+  ]
+}

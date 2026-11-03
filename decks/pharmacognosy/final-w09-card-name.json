@@ -161,7 +161,7 @@
     },
     {
       "id": 13,
-      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: ○○과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n약리:\n· 사하(ether·열탕 추출물)\n· 이뇨(신장염 수종에 임상 효과)\n· HIV-1 integrase 억제(flavonol glycoside gallate), 암세포독성(diterpenoid), 항진균(tannin)\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n약리:\n· 사하(ether·열탕 추출물)\n· 이뇨(신장염 수종에 임상 효과)\n· HIV-1 integrase 억제(flavonol glycoside gallate), 암세포독성(diterpenoid), 항진균(tannin)\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
       "choices": [
         "단삼",
         "백미",

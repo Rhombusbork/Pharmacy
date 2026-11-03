@@ -1,0 +1,150 @@
+{
+  "deckId": "pharmacognosy-final-w11-card-short-1",
+  "subject": "생약학",
+  "title": "11주 카드 ③ 주관식 1/2: 라틴명·지표·산지 → 생약 (자근~총백)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Lithospermi Radix인 생약의 한글 이름은?",
+      "answer": [
+        "자근",
+        "紫根"
+      ],
+      "explanation": "Lithospermi Radix = 자근(紫根)\n기원: 지치 Lithospermum erythrorhizon, 신강자초 Arnebia euchroma, 내몽자초 A. guttata의 뿌리 (Macrotomia euchroma 뿌리 = 연자근) — 지치과 Boraginaceae\n★ 족보: shikonin = naphthoquinone → 자근"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Paeoniae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "작약",
+        "芍藥"
+      ],
+      "explanation": "Paeoniae Radix = 작약(芍藥)\n기원: 작약 Paeonia lactiflora 또는 동속 근연식물의 뿌리 (중국: 천작약 P. veitchii) — 작약과 Paeoniaceae\n★ 족보: paeoniflorin → 작약(지표) / 사물탕 구성 생약"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Peucedani Radix인 생약의 한글 이름은?",
+      "answer": [
+        "전호",
+        "前胡"
+      ],
+      "explanation": "Peucedani Radix = 전호(前胡)\n기원: 백화전호 Peucedanum praeruptorum 또는 바디나물 Angelica decursiva의 뿌리 — 산형과(미나리과) Umbelliferae"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Sanguisorbae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "지유",
+        "地楡"
+      ],
+      "explanation": "Sanguisorbae Radix = 지유(地楡)\n기원: 오이풀 Sanguisorba officinalis 또는 장엽지유 S. officinalis var. longifolia의 뿌리 — 장미과 Rosaceae\n★ 족보: sanguiin H6 = tannin → 지유"
+    },
+    {
+      "id": 5,
+      "question": "라틴 생약명이 Rehmanniae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "지황",
+        "地黃"
+      ],
+      "explanation": "Rehmanniae Radix = 지황(地黃)\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것) — 현삼과 Scrophulariaceae\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Rehmanniae Radix Preparata인 생약의 한글 이름은?",
+      "answer": [
+        "숙지황",
+        "熟地黃"
+      ],
+      "explanation": "Rehmanniae Radix Preparata = 숙지황(熟地黃)\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공) — 현삼과 Scrophulariaceae\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+    },
+    {
+      "id": 7,
+      "question": "라틴 생약명이 Rubiae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "천초근",
+        "茜草根"
+      ],
+      "explanation": "Rubiae Radix = 천초근(茜草根)\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리 — 꼭두서니과 Rubiaceae\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 8,
+      "question": "라틴 생약명이 Calumbae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "칼룸바"
+      ],
+      "explanation": "Calumbae Radix = 칼룸바()\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것 — 방기과 Menispermaceae\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+    },
+    {
+      "id": 9,
+      "question": "라틴 생약명이 Ipecacuanhae Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "토근",
+        "吐根"
+      ],
+      "explanation": "Ipecacuanhae Radix et Rhizoma = 토근(吐根)\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기 — 꼭두서니과 Rubiaceae\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 10,
+      "question": "라틴 생약명이 Morindae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "파극천",
+        "巴戟天"
+      ],
+      "explanation": "Morindae Radix = 파극천(巴戟天)\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림) — 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 11,
+      "question": "라틴 생약명이 Polygoni Multiflori Radix인 생약의 한글 이름은?",
+      "answer": [
+        "하수오",
+        "何首烏"
+      ],
+      "explanation": "Polygoni Multiflori Radix = 하수오(何首烏)\n기원: 하수오 Polygonum multiflorum의 덩이뿌리 — 마디풀과 Polygonaceae\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 12,
+      "question": "라틴 생약명이 Scrophulariae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "현삼",
+        "玄蔘"
+      ],
+      "explanation": "Scrophulariae Radix = 현삼(玄蔘)\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리 — 현삼과 Scrophulariaceae"
+    },
+    {
+      "id": 13,
+      "question": "라틴 생약명이 Scutellariae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "황금",
+        "黃芩"
+      ],
+      "explanation": "Scutellariae Radix = 황금(黃芩)\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거) — 꿀풀과 Labiatae\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Astragali Radix인 생약의 한글 이름은?",
+      "answer": [
+        "황기",
+        "黃芪"
+      ],
+      "explanation": "Astragali Radix = 황기(黃芪)\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리 — 콩과 Leguminosae\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Zingiberis Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "건강",
+        "乾薑"
+      ],
+      "explanation": "Zingiberis Rhizoma = 건강(乾薑)\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조) — 생강과 Zingiberaceae\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
+    },
+    {
+      "id": 16,
+      "question": "라틴 생약명이 Zingiberis Rhizoma Recens인 생약의 한글 이름은?",
+      "answer": [
+        "생강",
+        "生薑"
+      ],
+      "explanation": "Zingiberis Rhizoma Recens = 생강(生薑)\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기 — 생강과 Zingiberaceae\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
+    }
+  ]
+}
