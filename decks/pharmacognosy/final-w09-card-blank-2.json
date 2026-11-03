@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-w09-card-blank-2",
+  "subject": "생약학",
+  "title": "9주 카드 ② 칸 가린 카드 2/5 (갈근~백부근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "oxymatrine + matrine 합 1.0% 이상"
+      ],
+      "answer": "oxymatrine + matrine 합 1.0% 이상",
+      "explanation": "정답: oxymatrine + matrine 합 1.0% 이상\n\n오답 출처:\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n성분:\n· alkaloid(quinolizidine, 1~2%) — ( ㉠ )\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "rotenone, tephrosin, toxicarol",
+        "ingol, euphpekinensin",
+        "matrine, oxymatrine, sophoranol",
+        "tectorigenin, tectoridin, irisolidone",
+        "trichosanthin(234 아미노산), karasurin"
+      ],
+      "answer": "matrine, oxymatrine, sophoranol",
+      "explanation": "정답: matrine, oxymatrine, sophoranol\n\n오답 출처:\n· tectorigenin, tectoridin, irisolidone → 갈화의 대표 성분\n· rotenone, tephrosin, toxicarol → 데리스근의 대표 성분\n· trichosanthin(234 아미노산), karasurin → 괄루근의 대표 성분\n· ingol, euphpekinensin → 대극의 대표 성분\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· ( ㉠ ) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "homoisoflavonoid(rotenoid)",
+        "alkaloid(quinolizidine, 1~2%)",
+        "triterpene glycoside(oleanane)",
+        "단백질",
+        "alkaloid(Stemona alkaloid)"
+      ],
+      "answer": "alkaloid(quinolizidine, 1~2%)",
+      "explanation": "정답: alkaloid(quinolizidine, 1~2%)\n\n오답 출처:\n· homoisoflavonoid(rotenoid) → 데리스근의 성분 계열\n· triterpene glycoside(oleanane) → 감초의 성분 계열\n· alkaloid(Stemona alkaloid) → 백부근의 성분 계열\n· 단백질 → 괄루근의 성분 계열\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: ( ㉠ )\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "박과 Cucurbitaceae",
+        "미나리아재비과 Ranunculaceae",
+        "콩과 Leguminosae",
+        "꿀풀과 Labiatae",
+        "백부과 Stemonaceae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 꿀풀과 Labiatae → 단삼의 과명\n· 백부과 Stemonaceae → 백부근의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 박과 Cucurbitaceae → 괄루근의 과명\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 고삼 · ( ㉠ )\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "Sophorae Radix",
+        "Trichosanthis Radix",
+        "Tuba Radix",
+        "Puerariae Radix",
+        "Euphorbiae Pekinensis Radix"
+      ],
+      "answer": "Sophorae Radix",
+      "explanation": "정답: Sophorae Radix\n\n오답 출처:\n· Tuba Radix → 데리스근의 라틴 생약명\n· Puerariae Radix → 갈근의 라틴 생약명\n· Trichosanthis Radix → 괄루근의 라틴 생약명\n· Euphorbiae Pekinensis Radix → 대극의 라틴 생약명\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 고삼 · (라틴명 숨김)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n주의: 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+      "choices": [
+        "Sophora flavescens",
+        "Glycyrrhiza uralensis",
+        "Pueraria lobata",
+        "Derris elliptica",
+        "Stemona japonica"
+      ],
+      "answer": "Sophora flavescens",
+      "explanation": "정답: Sophora flavescens\n\n오답 출처:\n· Stemona japonica → 백부근의 기원식물 학명\n· Glycyrrhiza uralensis → 감초의 기원식물 학명\n· Pueraria lobata → 갈근, 갈화의 기원식물 학명\n· Derris elliptica → 데리스근의 기원식물 학명\n\n[카드 요약]\n📇 고삼 · Sophorae Radix\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): oxymatrine + matrine 합 1.0% 이상\n성분:\n· alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n· flavonoid(prenylated, 0.5%) — kurarinol, kurarinone, kushenol, sophoraflavone G, maackiain\n· triterpenoid — soyasaponin I\n응용: 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충\n확인시험: ① Dragendorff 시액 → 등황색 침전(알칼로이드) ② TLC\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — ( ㉠ )\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "choices": [
+        "puerarin, daidzin, daidzein",
+        "trichosanthin(234 아미노산), karasurin",
+        "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid",
+        "matrine, oxymatrine, sophoranol",
+        "hamaudol, ledebouriellol, 5-O-methylvisamminol"
+      ],
+      "answer": "trichosanthin(234 아미노산), karasurin",
+      "explanation": "정답: trichosanthin(234 아미노산), karasurin\n\n오답 출처:\n· puerarin, daidzin, daidzein → 갈근의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· hamaudol, ledebouriellol, 5-O-methylvisamminol → 방풍의 대표 성분\n· kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid → 독활의 대표 성분\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· ( ㉠ ) — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시",
+      "choices": [
+        "steroid glycoside(C21 pregnane)",
+        "단백질",
+        "diterpenoid(kaurane·pimarane)",
+        "chromone",
+        "isoflavonoid"
+      ],
+      "answer": "단백질",
+      "explanation": "정답: 단백질\n\n오답 출처:\n· chromone → 방풍의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· steroid glycoside(C21 pregnane) → 백미의 성분 계열\n· isoflavonoid → 갈근, 갈화의 성분 계열\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: ( ㉠ )\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "choices": [
+        "박주가리과 Asclepiadaceae",
+        "박과 Cucurbitaceae",
+        "초롱꽃과 Campanulaceae",
+        "콩과 Leguminosae",
+        "두릅나무과 Araliaceae"
+      ],
+      "answer": "박과 Cucurbitaceae",
+      "explanation": "정답: 박과 Cucurbitaceae\n\n오답 출처:\n· 두릅나무과 Araliaceae → 독활의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 박주가리과 Asclepiadaceae → 백미의 과명\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 괄루근 · ( ㉠ )\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "choices": [
+        "Cynanchi Atrati Radix et Rhizoma",
+        "Platycodi Radix",
+        "Saposhnikoviae Radix",
+        "Trichosanthis Radix",
+        "Araliae Continentalis Radix"
+      ],
+      "answer": "Trichosanthis Radix",
+      "explanation": "정답: Trichosanthis Radix\n\n오답 출처:\n· Saposhnikoviae Radix → 방풍의 라틴 생약명\n· Platycodi Radix → 길경의 라틴 생약명\n· Araliae Continentalis Radix → 독활의 라틴 생약명\n· Cynanchi Atrati Radix et Rhizoma → 백미의 라틴 생약명\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: ( ㉠ )\n주의: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "choices": [
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시",
+        "발한·구풍·진통약",
+        "해열·발한·진경 → 감기약(○○탕)",
+        "해열·이뇨약 — 열병 중기·말기 발열, 뇌졸중 환자의 사지 부종"
+      ],
+      "answer": "해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시",
+      "explanation": "정답: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n\n오답 출처:\n· 발한·구풍·진통약 → 독활의 응용(효능·적응증)\n· 해열·발한·진경 → 감기약(○○탕) → 갈근의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 해열·이뇨약 — 열병 중기·말기 발열, 뇌졸중 환자의 사지 부종 → 백미의 응용(효능·적응증)\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n주의: ( ㉠ )",
+      "choices": [
+        "장기간 복용해도 비교적 안전",
+        "허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+        "임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+        "rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+        "과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의"
+      ],
+      "answer": "임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+      "explanation": "정답: 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성\n\n오답 출처:\n· rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성 → 데리스근의 주의·독성·금기\n· 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기 → 대극의 주의·독성·금기\n· 장기간 복용해도 비교적 안전 → 갈근의 주의·독성·금기\n· 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의 → 감초의 주의·독성·금기\n\n[카드 요약]\n📇 괄루근 · Trichosanthis Radix\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n과: 박과 Cucurbitaceae\n성분:\n· 단백질 — trichosanthin(234 아미노산), karasurin\n· triterpenoid — cucurbitacin I·II·B·D\n· glycan — trichosan A~E\n· 기타 — 다량의 전분\n응용: 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(천화분)은 유아 피부병 외용. 중국에서 피임약으로 유망시\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — ( ㉠ )\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "stemonine, stemonidine, stemonamine",
+        "matrine, oxymatrine, sophoranol",
+        "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid",
+        "puerarin, daidzin, daidzein",
+        "platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D"
+      ],
+      "answer": "platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D",
+      "explanation": "정답: platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n\n오답 출처:\n· kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid → 독활의 대표 성분\n· puerarin, daidzin, daidzein → 갈근의 대표 성분\n· stemonine, stemonidine, stemonamine → 백부근의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· ( ㉠ ) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "triterpenoid saponin(약 2%)",
+        "sesquiterpenoid",
+        "isoflavonoid",
+        "diterpenoid(kaurane·pimarane)",
+        "alkaloid(Stemona alkaloid)"
+      ],
+      "answer": "triterpenoid saponin(약 2%)",
+      "explanation": "정답: triterpenoid saponin(약 2%)\n\n오답 출처:\n· sesquiterpenoid → 당삼의 성분 계열\n· isoflavonoid → 갈근, 갈화의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· alkaloid(Stemona alkaloid) → 백부근의 성분 계열\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: ( ㉠ )\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "초롱꽃과(도라지과) Campanulaceae",
+        "박과 Cucurbitaceae",
+        "콩과 Leguminosae",
+        "백부과 Stemonaceae",
+        "국화과 Compositae"
+      ],
+      "answer": "초롱꽃과(도라지과) Campanulaceae",
+      "explanation": "정답: 초롱꽃과(도라지과) Campanulaceae\n\n오답 출처:\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 국화과 Compositae → 목향의 과명\n· 백부과 Stemonaceae → 백부근의 과명\n· 박과 Cucurbitaceae → 괄루근의 과명\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 길경 · ( ㉠ )\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "Platycodi Radix",
+        "Trichosanthis Radix",
+        "Sophorae Radix",
+        "Codonopsis Pilosulae Radix",
+        "Puerariae Radix"
+      ],
+      "answer": "Platycodi Radix",
+      "explanation": "정답: Platycodi Radix\n\n오답 출처:\n· Puerariae Radix → 갈근의 라틴 생약명\n· Codonopsis Pilosulae Radix → 당삼의 라틴 생약명\n· Trichosanthis Radix → 괄루근의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: ( ㉠ )\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "해열·발한·진경 → 감기약(○○탕)",
+        "진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)",
+        "발한·구풍·진통약"
+      ],
+      "answer": "거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)",
+      "explanation": "정답: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n\n오답 출처:\n· 해열·발한·진경 → 감기약(○○탕) → 갈근의 응용(효능·적응증)\n· 발한·구풍·진통약 → 독활의 응용(효능·적응증)\n· 진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용 → 백부근의 응용(효능·적응증)\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ( ㉠ )\n주의: 오래된 기침·각혈에는 쓰지 않음",
+      "choices": [
+        "자외선을 쪼이면 강한 형광",
+        "염산을 넣으면 보라색",
+        "묽은 H₂SO₄ + Zn 가루 → 황색",
+        "기포 시험(흔들면 지속성 거품)",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· 염산을 넣으면 보라색 → 목향의 확인시험\n· 자외선을 쪼이면 강한 형광 → 강활의 확인시험\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· 묽은 H₂SO₄ + Zn 가루 → 황색 → 단삼의 확인시험\n\n[카드 요약]\n📇 길경 · Platycodi Radix\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n과: 초롱꽃과(도라지과) Campanulaceae\n성분:\n· triterpenoid saponin(약 2%) — platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· lupane계 triterpenoid — betulin\n· phytosterol — α-spinasterol\n· 기타 — inulin, apiose\n응용: 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)\n확인시험: ① 기포 시험(saponin) ② Liebermann-Burchard: 접계면 붉은색~적갈색(saponin), 위층 청록~녹색(phytosterol) ③ TLC\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· ( ㉠ ) — —\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음",
+      "choices": [
+        "pyranocoumarin",
+        "diterpenoid(abietane, quinone)",
+        "정유(kesso oil, 1~8%)",
+        "sesquiterpenoid",
+        "alkaloid(Stemona alkaloid)"
+      ],
+      "answer": "정유(kesso oil, 1~8%)",
+      "explanation": "정답: 정유(kesso oil, 1~8%)\n\n오답 출처:\n· sesquiterpenoid → 당삼의 성분 계열\n· alkaloid(Stemona alkaloid) → 백부근의 성분 계열\n· diterpenoid(abietane, quinone) → 단삼의 성분 계열\n· pyranocoumarin → 당귀의 성분 계열\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "마타리과 Valerianaceae",
+        "초롱꽃과 Campanulaceae",
+        "꿀풀과 Labiatae",
+        "백부과 Stemonaceae"
+      ],
+      "answer": "마타리과 Valerianaceae",
+      "explanation": "정답: 마타리과 Valerianaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n· 꿀풀과 Labiatae → 단삼의 과명\n· 백부과 Stemonaceae → 백부근의 과명\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 길초근 · ( ㉠ )\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음",
+      "choices": [
+        "Sophorae Radix",
+        "Codonopsis Pilosulae Radix",
+        "Salviae Miltiorrhizae Radix",
+        "Aucklandiae Radix",
+        "Valerianae Radix et Rhizoma"
+      ],
+      "answer": "Valerianae Radix et Rhizoma",
+      "explanation": "정답: Valerianae Radix et Rhizoma\n\n오답 출처:\n· Sophorae Radix → 고삼의 라틴 생약명\n· Codonopsis Pilosulae Radix → 당삼의 라틴 생약명\n· Salviae Miltiorrhizae Radix → 단삼의 라틴 생약명\n· Aucklandiae Radix → 목향의 라틴 생약명\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: ( ㉠ )\n주의: 임신 중 사용하지 않음",
+      "choices": [
+        "방향성 건위약, 훈향료",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)",
+        "보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충"
+      ],
+      "answer": "진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)",
+      "explanation": "정답: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n\n오답 출처:\n· 방향성 건위약, 훈향료 → 목향의 응용(효능·적응증)\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n· 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애) → 당귀의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: ( ㉠ )",
+      "choices": [
+        "과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+        "장기간 복용해도 비교적 안전",
+        "허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+        "임신 중 사용하지 않음",
+        "rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성"
+      ],
+      "answer": "임신 중 사용하지 않음",
+      "explanation": "정답: 임신 중 사용하지 않음\n\n오답 출처:\n· rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성 → 데리스근의 주의·독성·금기\n· 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기 → 대극의 주의·독성·금기\n· 장기간 복용해도 비교적 안전 → 갈근의 주의·독성·금기\n· 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의 → 감초의 주의·독성·금기\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 길초근 · (라틴명 숨김)\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n주의: 임신 중 사용하지 않음",
+      "choices": [
+        "Salvia miltiorrhiza",
+        "Angelica gigas",
+        "Valeriana fauriei",
+        "Stemona japonica",
+        "Aucklandia lappa"
+      ],
+      "answer": "Valeriana fauriei",
+      "explanation": "정답: Valeriana fauriei\n\n오답 출처:\n· Angelica gigas → 당귀의 기원식물 학명\n· Stemona japonica → 백부근의 기원식물 학명\n· Salvia miltiorrhiza → 단삼의 기원식물 학명\n· Aucklandia lappa → 목향의 기원식물 학명\n\n[카드 요약]\n📇 길초근 · Valerianae Radix et Rhizoma\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n과: 마타리과 Valerianaceae\n성분:\n· 정유(kesso oil, 1~8%)\n· monoterpenoid — bornyl isovalerate, bornyl acetate\n· sesquiterpenoid — α-kessyl alcohol, kessylglycol diacetate, valerenic acid\n· iridoid glycoside — kanokoside A~D\n· alkaloid — chatinine, valerianine\n응용: 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    }
+  ]
+}

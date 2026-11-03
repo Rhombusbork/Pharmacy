@@ -1,0 +1,258 @@
+{
+  "deckId": "pharmacognosy-final-w09-card-short",
+  "subject": "생약학",
+  "title": "9주 카드 ③ 주관식: 라틴명·지표·산지 → 생약 (갈근~백부근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Puerariae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "갈근",
+        "葛根"
+      ],
+      "explanation": "Puerariae Radix = 갈근(葛根)\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거) — 콩과 Leguminosae\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Puerariae Flos인 생약의 한글 이름은?",
+      "answer": [
+        "갈화",
+        "葛花"
+      ],
+      "explanation": "Puerariae Flos = 갈화(葛花)\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃 — 콩과 Leguminosae\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Glycyrrhizae Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "감초",
+        "甘草"
+      ],
+      "explanation": "Glycyrrhizae Radix et Rhizoma = 감초(甘草)\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기 — 콩과 Leguminosae\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Osterici seu Notopterygii Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "강활",
+        "羌活"
+      ],
+      "explanation": "Osterici seu Notopterygii Radix et Rhizoma = 강활(羌活)\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리 — 산형과(미나리과) Umbelliferae"
+    },
+    {
+      "id": 5,
+      "question": "라틴 생약명이 Sophorae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "고삼",
+        "苦蔘"
+      ],
+      "explanation": "Sophorae Radix = 고삼(苦蔘)\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거) — 콩과 Leguminosae\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Trichosanthis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "괄루근",
+        "栝樓根"
+      ],
+      "explanation": "Trichosanthis Radix = 괄루근(栝樓根)\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거) — 박과 Cucurbitaceae\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+    },
+    {
+      "id": 7,
+      "question": "라틴 생약명이 Platycodi Radix인 생약의 한글 이름은?",
+      "answer": [
+        "길경",
+        "桔梗"
+      ],
+      "explanation": "Platycodi Radix = 길경(桔梗)\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거) — 초롱꽃과(도라지과) Campanulaceae\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+    },
+    {
+      "id": 8,
+      "question": "라틴 생약명이 Valerianae Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "길초근",
+        "吉草根"
+      ],
+      "explanation": "Valerianae Radix et Rhizoma = 길초근(吉草根)\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기 — 마타리과 Valerianaceae\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+    },
+    {
+      "id": 9,
+      "question": "라틴 생약명이 Salviae Miltiorrhizae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "단삼",
+        "丹蔘"
+      ],
+      "explanation": "Salviae Miltiorrhizae Radix = 단삼(丹蔘)\n기원: 단삼 Salvia miltiorrhiza의 뿌리 — 꿀풀과 Labiatae\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 10,
+      "question": "라틴 생약명이 Angelicae Gigantis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "당귀",
+        "當歸"
+      ],
+      "explanation": "Angelicae Gigantis Radix = 당귀(當歸)\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba) — 산형과(미나리과) Umbelliferae\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 11,
+      "question": "라틴 생약명이 Japonicae Angelicae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "일당귀",
+        "日當歸"
+      ],
+      "explanation": "Japonicae Angelicae Radix = 일당귀(日當歸)\n기원: 일본당귀 Angelica acutiloba의 뿌리 — 산형과(미나리과) Umbelliferae"
+    },
+    {
+      "id": 12,
+      "question": "라틴 생약명이 Codonopsis Pilosulae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "당삼",
+        "黨蔘"
+      ],
+      "explanation": "Codonopsis Pilosulae Radix = 당삼(黨蔘)\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리 — 초롱꽃과 Campanulaceae"
+    },
+    {
+      "id": 13,
+      "question": "라틴 생약명이 Euphorbiae Pekinensis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "대극",
+        "大戟"
+      ],
+      "explanation": "Euphorbiae Pekinensis Radix = 대극(大戟)\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides) — 대극과 Euphorbiaceae\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Tuba Radix인 생약의 한글 이름은?",
+      "answer": [
+        "데리스근"
+      ],
+      "explanation": "Tuba Radix = 데리스근()\n기원: 데리스 Derris elliptica의 뿌리 — 콩과 Leguminosae\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Araliae Continentalis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "독활",
+        "獨活"
+      ],
+      "explanation": "Araliae Continentalis Radix = 독활(獨活)\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기) — 두릅나무과 Araliaceae\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 16,
+      "question": "라틴 생약명이 Aucklandiae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "목향",
+        "木香"
+      ],
+      "explanation": "Aucklandiae Radix = 목향(木香)\n기원: 목향 Aucklandia lappa의 뿌리 — 국화과 Compositae"
+    },
+    {
+      "id": 17,
+      "question": "라틴 생약명이 Saposhnikoviae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "방풍",
+        "防風"
+      ],
+      "explanation": "Saposhnikoviae Radix = 방풍(防風)\n기원: 방풍 Saposhnikovia divaricata(= Ledebouriella seseloides)의 뿌리 — 산형과(미나리과) Umbelliferae\n★ 족보: 방풍 성분 = chromone / 방풍 ↔ 해방풍(갯방풍) 구별"
+    },
+    {
+      "id": 18,
+      "question": "라틴 생약명이 Pulsatillae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "백두옹",
+        "白頭翁"
+      ],
+      "explanation": "Pulsatillae Radix = 백두옹(白頭翁)\n기원: 할미꽃 Pulsatilla koreana 또는 백두옹 P. chinensis의 뿌리 — 미나리아재비과 Ranunculaceae"
+    },
+    {
+      "id": 19,
+      "question": "라틴 생약명이 Cynanchi Atrati Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "백미",
+        "白薇"
+      ],
+      "explanation": "Cynanchi Atrati Radix et Rhizoma = 백미(白薇)\n기원: 백미꽃 Cynanchum atratum 또는 만생백미 C. versicolor의 뿌리 및 뿌리줄기 — 박주가리과 Asclepiadaceae"
+    },
+    {
+      "id": 20,
+      "question": "라틴 생약명이 Stemonae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "백부근",
+        "百部根"
+      ],
+      "explanation": "Stemonae Radix = 백부근(百部根)\n기원: 만생백부 Stemona japonica, 직립백부 S. sessilifolia, 대엽백부 S. tuberosa의 덩이뿌리 — 백부과 Stemonaceae\n★ 족보: 구충·살충 생약 → 백부근 / 진해 → 백부근"
+    },
+    {
+      "id": 21,
+      "question": "약전에서 'puerarin 2.0% 이상, daidzin 0.3% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "갈근"
+      ],
+      "explanation": "갈근 (Puerariae Radix) — 콩과 Leguminosae\n대표 성분: isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 22,
+      "question": "약전에서 'glycyrrhizin 2.5%, liquiritigenin 0.7% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "감초"
+      ],
+      "explanation": "감초 (Glycyrrhizae Radix et Rhizoma) — 콩과 Leguminosae\n대표 성분: triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 23,
+      "question": "약전에서 'oxymatrine + matrine 합 1.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "고삼"
+      ],
+      "explanation": "고삼 (Sophorae Radix) — 콩과 Leguminosae\n대표 성분: alkaloid(quinolizidine, 1~2%) — matrine, oxymatrine, sophoranol, anagyrine, methylcytisine, sophocarpine\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+    },
+    {
+      "id": 24,
+      "question": "약전에서 'salvianolic acid 4.1% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "단삼"
+      ],
+      "explanation": "단삼 (Salviae Miltiorrhizae Radix) — 꿀풀과 Labiatae\n대표 성분: diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 25,
+      "question": "약전에서 'nodakenin + decursin + decursinol angelate 합 6.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "당귀"
+      ],
+      "explanation": "당귀 (Angelicae Gigantis Radix) — 산형과(미나리과) Umbelliferae\n대표 성분: pyranocoumarin — decursin, decursinol, decursinol angelate\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 26,
+      "question": "산지가 '일본'인 생약은?",
+      "answer": [
+        "일당귀"
+      ],
+      "explanation": "일당귀 (Japonicae Angelicae Radix) — 산형과(미나리과) Umbelliferae"
+    },
+    {
+      "id": 27,
+      "question": "산지가 '말레이반도, 수마트라, 보르네오, 대만'인 생약은?",
+      "answer": [
+        "데리스근"
+      ],
+      "explanation": "데리스근 (Tuba Radix) — 콩과 Leguminosae\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 28,
+      "question": "약전에서 'kaurenoic acid + continentalic acid 0.4% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "독활"
+      ],
+      "explanation": "독활 (Araliae Continentalis Radix) — 두릅나무과 Araliaceae\n대표 성분: diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 29,
+      "question": "산지가 '중국, 인도'인 생약은?",
+      "answer": [
+        "목향"
+      ],
+      "explanation": "목향 (Aucklandiae Radix) — 국화과 Compositae"
+    }
+  ]
+}

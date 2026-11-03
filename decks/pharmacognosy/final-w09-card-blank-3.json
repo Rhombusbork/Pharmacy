@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-w09-card-blank-3",
+  "subject": "생약학",
+  "title": "9주 카드 ② 칸 가린 카드 3/5 (갈근~백부근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): ( ㉠ )\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+      "choices": [
+        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "salvianolic acid 4.1% 이상"
+      ],
+      "answer": "salvianolic acid 4.1% 이상",
+      "explanation": "정답: salvianolic acid 4.1% 이상\n\n오답 출처:\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n성분:\n· diterpenoid(abietane, quinone) — ( ㉠ )\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+      "choices": [
+        "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid",
+        "8β-hydroxyasterolid",
+        "decursin, decursinol, decursinol angelate",
+        "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+        "ingol, euphpekinensin"
+      ],
+      "answer": "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+      "explanation": "정답: tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone\n\n오답 출처:\n· kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid → 독활의 대표 성분\n· decursin, decursinol, decursinol angelate → 당귀의 대표 성분\n· 8β-hydroxyasterolid → 당삼의 대표 성분\n· ingol, euphpekinensin → 대극의 대표 성분\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· ( ㉠ ) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색",
+      "choices": [
+        "diterpenoid(abietane, quinone)",
+        "sesquiterpenoid",
+        "pyranocoumarin",
+        "diterpenoid",
+        "alkaloid(quinolizidine, 1~2%)"
+      ],
+      "answer": "diterpenoid(abietane, quinone)",
+      "explanation": "정답: diterpenoid(abietane, quinone)\n\n오답 출처:\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n· sesquiterpenoid → 당삼의 성분 계열\n· pyranocoumarin → 당귀의 성분 계열\n· diterpenoid → 대극의 성분 계열\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: ( ㉠ )\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "콩과 Leguminosae",
+        "대극과 Euphorbiaceae",
+        "꿀풀과 Labiatae",
+        "산형과(미나리과) Umbelliferae"
+      ],
+      "answer": "꿀풀과 Labiatae",
+      "explanation": "정답: 꿀풀과 Labiatae\n\n오답 출처:\n· 산형과(미나리과) Umbelliferae → 강활, 당귀, 일당귀, 방풍의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 대극과 Euphorbiaceae → 대극의 과명\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 단삼 · ( ㉠ )\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색",
+      "choices": [
+        "Euphorbiae Pekinensis Radix",
+        "Angelicae Gigantis Radix",
+        "Salviae Miltiorrhizae Radix",
+        "Stemonae Radix",
+        "Araliae Continentalis Radix"
+      ],
+      "answer": "Salviae Miltiorrhizae Radix",
+      "explanation": "정답: Salviae Miltiorrhizae Radix\n\n오답 출처:\n· Angelicae Gigantis Radix → 당귀의 라틴 생약명\n· Araliae Continentalis Radix → 독활의 라틴 생약명\n· Euphorbiae Pekinensis Radix → 대극의 라틴 생약명\n· Stemonae Radix → 백부근의 라틴 생약명\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: ( ㉠ )\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색",
+      "choices": [
+        "이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "발한·구풍·진통약",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘"
+      ],
+      "answer": "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+      "explanation": "정답: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n\n오답 출처:\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n· 발한·구풍·진통약 → 독활의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취 → 대극의 응용(효능·적응증)\n\n[카드 요약]\n📇 단삼 · Salviae Miltiorrhizae Radix\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n과: 꿀풀과 Labiatae\n지표(약전): salvianolic acid 4.1% 이상\n성분:\n· diterpenoid(abietane, quinone) — tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone, miltirone\n· phenolic compound — rosmarinic acid, lithospermic acid A·B, salvianolic acid A·B\n· alkaloid — salviamiltamide\n응용: 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘\n확인시험: EtOH 여액은 등황색 → 묽은 H₂SO₄ + Zn 가루 → 황색\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): ( ㉠ )\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+      "choices": [
+        "salvianolic acid 4.1% 이상",
+        "oxymatrine + matrine 합 1.0% 이상",
+        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상"
+      ],
+      "answer": "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
+      "explanation": "정답: nodakenin + decursin + decursinol angelate 합 6.0% 이상\n\n오답 출처:\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n성분:\n· pyranocoumarin — ( ㉠ )\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+      "choices": [
+        "decursin, decursinol, decursinol angelate",
+        "8β-hydroxyasterolid",
+        "ligustilide, butylidenephthalide, butylphthalide",
+        "hamaudol, ledebouriellol, 5-O-methylvisamminol",
+        "nodakenin(2%), notopterol, bergaptol"
+      ],
+      "answer": "decursin, decursinol, decursinol angelate",
+      "explanation": "정답: decursin, decursinol, decursinol angelate\n\n오답 출처:\n· nodakenin(2%), notopterol, bergaptol → 강활의 대표 성분\n· ligustilide, butylidenephthalide, butylphthalide → 일당귀의 대표 성분\n· 8β-hydroxyasterolid → 당삼의 대표 성분\n· hamaudol, ledebouriellol, 5-O-methylvisamminol → 방풍의 대표 성분\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· ( ㉠ ) — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점",
+      "choices": [
+        "sesquiterpenoid",
+        "diterpenoid(abietane, quinone)",
+        "phthalide",
+        "diterpenoid(kaurane·pimarane)",
+        "pyranocoumarin"
+      ],
+      "answer": "pyranocoumarin",
+      "explanation": "정답: pyranocoumarin\n\n오답 출처:\n· sesquiterpenoid → 당삼의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· phthalide → 일당귀의 성분 계열\n· diterpenoid(abietane, quinone) → 단삼의 성분 계열\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: ( ㉠ )\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "두릅나무과 Araliaceae",
+        "미나리아재비과 Ranunculaceae",
+        "초롱꽃과 Campanulaceae",
+        "마타리과 Valerianaceae"
+      ],
+      "answer": "산형과(미나리과) Umbelliferae",
+      "explanation": "정답: 산형과(미나리과) Umbelliferae\n\n오답 출처:\n· 두릅나무과 Araliaceae → 독활의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 마타리과 Valerianaceae → 길초근의 과명\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 당귀 · ( ㉠ )\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점",
+      "choices": [
+        "Osterici seu Notopterygii Radix et Rhizoma",
+        "Codonopsis Pilosulae Radix",
+        "Salviae Miltiorrhizae Radix",
+        "Angelicae Gigantis Radix",
+        "Japonicae Angelicae Radix"
+      ],
+      "answer": "Angelicae Gigantis Radix",
+      "explanation": "정답: Angelicae Gigantis Radix\n\n오답 출처:\n· Salviae Miltiorrhizae Radix → 단삼의 라틴 생약명\n· Japonicae Angelicae Radix → 일당귀의 라틴 생약명\n· Codonopsis Pilosulae Radix → 당삼의 라틴 생약명\n· Osterici seu Notopterygii Radix et Rhizoma → 강활의 라틴 생약명\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: ( ㉠ )\n확인시험: TLC(365 nm): decursinol·decursin 반점",
+      "choices": [
+        "발한·구풍·진통약",
+        "감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
+        "보혈·강장·진통·진정약",
+        "보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘"
+      ],
+      "answer": "보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+      "explanation": "정답: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n\n오답 출처:\n· 보혈·강장·진통·진정약 → 일당귀의 응용(효능·적응증)\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n· 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독 → 강활의 응용(효능·적응증)\n· 발한·구풍·진통약 → 독활의 응용(효능·적응증)\n\n[카드 요약]\n📇 당귀 · Angelicae Gigantis Radix\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n과: 산형과(미나리과) Umbelliferae\n지표(약전): nodakenin + decursin + decursinol angelate 합 6.0% 이상\n성분:\n· pyranocoumarin — decursin, decursinol, decursinol angelate\n· coumarin — nodakenin, umbelliferone, marmesin, xanthotoxin, isoimperatorin\n· polyacetylene\n응용: 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)\n확인시험: TLC(365 nm): decursinol·decursin 반점\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ( ㉠ )\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "hamaudol, ledebouriellol, 5-O-methylvisamminol",
+        "decursin, decursinol, decursinol angelate",
+        "nodakenin(2%), notopterol, bergaptol",
+        "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+        "ligustilide, butylidenephthalide, butylphthalide"
+      ],
+      "answer": "ligustilide, butylidenephthalide, butylphthalide",
+      "explanation": "정답: ligustilide, butylidenephthalide, butylphthalide\n\n오답 출처:\n· tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone → 단삼의 대표 성분\n· nodakenin(2%), notopterol, bergaptol → 강활의 대표 성분\n· hamaudol, ledebouriellol, 5-O-methylvisamminol → 방풍의 대표 성분\n· decursin, decursinol, decursinol angelate → 당귀의 대표 성분\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· ( ㉠ ) — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "sesquiterpenoid",
+        "phthalide",
+        "pyranocoumarin",
+        "diterpenoid(kaurane·pimarane)",
+        "chromone"
+      ],
+      "answer": "phthalide",
+      "explanation": "정답: phthalide\n\n오답 출처:\n· chromone → 방풍의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· pyranocoumarin → 당귀의 성분 계열\n· sesquiterpenoid → 당삼의 성분 계열\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: ( ㉠ )\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "콩과 Leguminosae",
+        "미나리아재비과 Ranunculaceae",
+        "마타리과 Valerianaceae",
+        "산형과(미나리과) Umbelliferae",
+        "초롱꽃과 Campanulaceae"
+      ],
+      "answer": "산형과(미나리과) Umbelliferae",
+      "explanation": "정답: 산형과(미나리과) Umbelliferae\n\n오답 출처:\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 마타리과 Valerianaceae → 길초근의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 일당귀 · ( ㉠ )\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "Japonicae Angelicae Radix",
+        "Osterici seu Notopterygii Radix et Rhizoma",
+        "Angelicae Gigantis Radix",
+        "Araliae Continentalis Radix",
+        "Saposhnikoviae Radix"
+      ],
+      "answer": "Japonicae Angelicae Radix",
+      "explanation": "정답: Japonicae Angelicae Radix\n\n오답 출처:\n· Saposhnikoviae Radix → 방풍의 라틴 생약명\n· Angelicae Gigantis Radix → 당귀의 라틴 생약명\n· Osterici seu Notopterygii Radix et Rhizoma → 강활의 라틴 생약명\n· Araliae Continentalis Radix → 독활의 라틴 생약명\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n산지: 일본\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: ( ㉠ )",
+      "choices": [
+        "감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
+        "보혈·강장·진통·진정약",
+        "보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애)",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘"
+      ],
+      "answer": "보혈·강장·진통·진정약",
+      "explanation": "정답: 보혈·강장·진통·진정약\n\n오답 출처:\n· 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독 → 강활의 응용(효능·적응증)\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n· 보혈강장·구어혈·진정·진통 — 빈혈, 월경불순·월경통, 부인과 질환(냉증·갱년기장애) → 당귀의 응용(효능·적응증)\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 일당귀 · Japonicae Angelicae Radix\n과: 산형과(미나리과) Umbelliferae\n산지: ( ㉠ )\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약",
+      "choices": [
+        "중국, 인도",
+        "일본",
+        "말레이반도, 수마트라, 보르네오, 대만",
+        "브라질",
+        "인도"
+      ],
+      "answer": "일본",
+      "explanation": "정답: 일본\n\n오답 출처:\n· 말레이반도, 수마트라, 보르네오, 대만 → 데리스근의 산지\n· 중국, 인도 → 목향의 산지\n· 인도 → 이 범위 밖의 오답\n· 브라질 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 일당귀 · Japonicae Angelicae Radix\n기원: 일본당귀 Angelica acutiloba의 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· phthalide — ligustilide, butylidenephthalide, butylphthalide\n· polyacetylene — falcarindiol, falcarinol\n· coumarin — scopoletin, umbelliferone\n· 다당류 — arabinogalactan(항보체)\n응용: 보혈·강장·진통·진정약"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — ( ㉠ )\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+      "choices": [
+        "ligustilide, butylidenephthalide, butylphthalide",
+        "8β-hydroxyasterolid",
+        "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+        "platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D",
+        "matrine, oxymatrine, sophoranol"
+      ],
+      "answer": "8β-hydroxyasterolid",
+      "explanation": "정답: 8β-hydroxyasterolid\n\n오답 출처:\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D → 길경의 대표 성분\n· tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone → 단삼의 대표 성분\n· ligustilide, butylidenephthalide, butylphthalide → 일당귀의 대표 성분\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· ( ㉠ ) — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "choices": [
+        "alkaloid(Stemona alkaloid)",
+        "sesquiterpenoid",
+        "triterpenoid saponin(약 2%)",
+        "정유(kesso oil, 1~8%)",
+        "sesquiterpenoid(sesquiterpene lactone, 1~2.5%)"
+      ],
+      "answer": "sesquiterpenoid",
+      "explanation": "정답: sesquiterpenoid\n\n오답 출처:\n· alkaloid(Stemona alkaloid) → 백부근의 성분 계열\n· triterpenoid saponin(약 2%) → 길경의 성분 계열\n· 정유(kesso oil, 1~8%) → 길초근의 성분 계열\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) → 목향의 성분 계열\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: ( ㉠ )\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "choices": [
+        "마타리과 Valerianaceae",
+        "콩과 Leguminosae",
+        "초롱꽃과 Campanulaceae",
+        "백부과 Stemonaceae",
+        "박과 Cucurbitaceae"
+      ],
+      "answer": "초롱꽃과 Campanulaceae",
+      "explanation": "정답: 초롱꽃과 Campanulaceae\n\n오답 출처:\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 백부과 Stemonaceae → 백부근의 과명\n· 박과 Cucurbitaceae → 괄루근의 과명\n· 마타리과 Valerianaceae → 길초근의 과명\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 당삼 · ( ㉠ )\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "choices": [
+        "Codonopsis Pilosulae Radix",
+        "Sophorae Radix",
+        "Valerianae Radix et Rhizoma",
+        "Aucklandiae Radix",
+        "Salviae Miltiorrhizae Radix"
+      ],
+      "answer": "Codonopsis Pilosulae Radix",
+      "explanation": "정답: Codonopsis Pilosulae Radix\n\n오답 출처:\n· Salviae Miltiorrhizae Radix → 단삼의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n· Valerianae Radix et Rhizoma → 길초근의 라틴 생약명\n· Aucklandiae Radix → 목향의 라틴 생약명\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: ( ㉠ )\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "choices": [
+        "진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용",
+        "방향성 건위약, 훈향료",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충"
+      ],
+      "answer": "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+      "explanation": "정답: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n\n오답 출처:\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n· 진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용 → 백부근의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 방향성 건위약, 훈향료 → 목향의 응용(효능·적응증)\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 당삼 · (라틴명 숨김)\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)",
+      "choices": [
+        "Valeriana fauriei",
+        "Codonopsis pilosula",
+        "Sophora flavescens",
+        "Aucklandia lappa",
+        "Stemona japonica"
+      ],
+      "answer": "Codonopsis pilosula",
+      "explanation": "정답: Codonopsis pilosula\n\n오답 출처:\n· Stemona japonica → 백부근의 기원식물 학명\n· Aucklandia lappa → 목향의 기원식물 학명\n· Sophora flavescens → 고삼의 기원식물 학명\n· Valeriana fauriei → 길초근의 기원식물 학명\n\n[카드 요약]\n📇 당삼 · Codonopsis Pilosulae Radix\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n과: 초롱꽃과 Campanulaceae\n성분:\n· sesquiterpenoid — 8β-hydroxyasterolid\n· alkaloid — perlolyrine\n· 기타 — saponin, 단백질, 비타민 B₁·B₂, 5-HMF\n응용: 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈\n확인시험: 물에 끓여 흔들면 지속성 거품(saponin)"
+    }
+  ]
+}

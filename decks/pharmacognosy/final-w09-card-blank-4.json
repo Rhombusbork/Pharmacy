@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-w09-card-blank-4",
+  "subject": "생약학",
+  "title": "9주 카드 ② 칸 가린 카드 4/5 (갈근~백부근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ( ㉠ )\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "choices": [
+        "matrine, oxymatrine, sophoranol",
+        "deoxypodophyllotoxin",
+        "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+        "hamaudol, ledebouriellol, 5-O-methylvisamminol",
+        "ingol, euphpekinensin"
+      ],
+      "answer": "ingol, euphpekinensin",
+      "explanation": "정답: ingol, euphpekinensin\n\n오답 출처:\n· deoxypodophyllotoxin → 백두옹의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· hamaudol, ledebouriellol, 5-O-methylvisamminol → 방풍의 대표 성분\n· tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone → 단삼의 대표 성분\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· ( ㉠ ) — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "choices": [
+        "diterpenoid(abietane, quinone)",
+        "diterpenoid",
+        "alkaloid(quinolizidine, 1~2%)",
+        "lignan",
+        "chromone"
+      ],
+      "answer": "diterpenoid",
+      "explanation": "정답: diterpenoid\n\n오답 출처:\n· diterpenoid(abietane, quinone) → 단삼의 성분 계열\n· lignan → 백두옹의 성분 계열\n· chromone → 방풍의 성분 계열\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: ( ㉠ )\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "choices": [
+        "꿀풀과 Labiatae",
+        "대극과 Euphorbiaceae",
+        "산형과(미나리과) Umbelliferae",
+        "콩과 Leguminosae",
+        "박주가리과 Asclepiadaceae"
+      ],
+      "answer": "대극과 Euphorbiaceae",
+      "explanation": "정답: 대극과 Euphorbiaceae\n\n오답 출처:\n· 산형과(미나리과) Umbelliferae → 강활, 당귀, 일당귀, 방풍의 과명\n· 박주가리과 Asclepiadaceae → 백미의 과명\n· 꿀풀과 Labiatae → 단삼의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 대극 · ( ㉠ )\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "choices": [
+        "Sophorae Radix",
+        "Saposhnikoviae Radix",
+        "Pulsatillae Radix",
+        "Salviae Miltiorrhizae Radix",
+        "Euphorbiae Pekinensis Radix"
+      ],
+      "answer": "Euphorbiae Pekinensis Radix",
+      "explanation": "정답: Euphorbiae Pekinensis Radix\n\n오답 출처:\n· Saposhnikoviae Radix → 방풍의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n· Pulsatillae Radix → 백두옹의 라틴 생약명\n· Salviae Miltiorrhizae Radix → 단삼의 라틴 생약명\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: ( ㉠ )\n주의: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "choices": [
+        "살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈",
+        "발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+        "이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취"
+      ],
+      "answer": "이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취",
+      "explanation": "정답: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n\n오답 출처:\n· 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께) → 방풍의 응용(효능·적응증)\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈 → 백두옹의 응용(효능·적응증)\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n주의: ( ㉠ )",
+      "choices": [
+        "임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+        "과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+        "허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+        "rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+        "쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지"
+      ],
+      "answer": "허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기",
+      "explanation": "정답: 허약한 사람은 토혈. 감초와 같이 쓰면 독성이 더 세진다. 임부 금기\n\n오답 출처:\n· rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성 → 데리스근의 주의·독성·금기\n· 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의 → 감초의 주의·독성·금기\n· 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지 → 고삼의 주의·독성·금기\n· 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성 → 괄루근의 주의·독성·금기\n\n[카드 요약]\n📇 대극 · Euphorbiae Pekinensis Radix\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n과: 대극과 Euphorbiaceae\n성분:\n· diterpenoid — ingol, euphpekinensin\n· flavonoid — quercetin, kaempferol, rutin\n· tannin — gallic acid, pentagalloylglucose, corilagin, geraniin\n· 식물색소 — euphorbia A~C\n응용: 이뇨·준하약(峻下藥) — 수종, 흉만, 흉통, 담음, 적취\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — ( ㉠ )\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "deoxypodophyllotoxin",
+        "stemonine, stemonidine, stemonamine",
+        "rotenone, tephrosin, toxicarol",
+        "matrine, oxymatrine, sophoranol",
+        "puerarin, daidzin, daidzein"
+      ],
+      "answer": "rotenone, tephrosin, toxicarol",
+      "explanation": "정답: rotenone, tephrosin, toxicarol\n\n오답 출처:\n· stemonine, stemonidine, stemonamine → 백부근의 대표 성분\n· deoxypodophyllotoxin → 백두옹의 대표 성분\n· puerarin, daidzin, daidzein → 갈근의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· ( ㉠ ) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "diterpenoid(abietane, quinone)",
+        "homoisoflavonoid(rotenoid)",
+        "triterpene glycoside(oleanane)",
+        "alkaloid(quinolizidine, 1~2%)",
+        "lignan"
+      ],
+      "answer": "homoisoflavonoid(rotenoid)",
+      "explanation": "정답: homoisoflavonoid(rotenoid)\n\n오답 출처:\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n· lignan → 백두옹의 성분 계열\n· diterpenoid(abietane, quinone) → 단삼의 성분 계열\n· triterpene glycoside(oleanane) → 감초의 성분 계열\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: ( ㉠ )\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "두릅나무과 Araliaceae",
+        "꿀풀과 Labiatae",
+        "백부과 Stemonaceae",
+        "산형과(미나리과) Umbelliferae",
+        "콩과 Leguminosae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 두릅나무과 Araliaceae → 독활의 과명\n· 꿀풀과 Labiatae → 단삼의 과명\n· 백부과 Stemonaceae → 백부근의 과명\n· 산형과(미나리과) Umbelliferae → 강활, 당귀, 일당귀, 방풍의 과명\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 데리스근 · ( ㉠ )\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "Sophorae Radix",
+        "Puerariae Radix",
+        "Puerariae Flos",
+        "Pulsatillae Radix",
+        "Tuba Radix"
+      ],
+      "answer": "Tuba Radix",
+      "explanation": "정답: Tuba Radix\n\n오답 출처:\n· Pulsatillae Radix → 백두옹의 라틴 생약명\n· Puerariae Flos → 갈화의 라틴 생약명\n· Puerariae Radix → 갈근의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n산지: 말레이반도, 수마트라, 보르네오, 대만\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: ( ㉠ )\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "숙취로 인한 구토·식욕부진·장출혈",
+        "살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈",
+        "해열·발한·진경 → 감기약(○○탕)",
+        "rotenone → 농업용 살충제",
+        "진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용"
+      ],
+      "answer": "rotenone → 농업용 살충제",
+      "explanation": "정답: rotenone → 농업용 살충제\n\n오답 출처:\n· 진해·살충약 — 폐결핵, 백일해. 회충·요충 구충, 옴에 외용 → 백부근의 응용(효능·적응증)\n· 숙취로 인한 구토·식욕부진·장출혈 → 갈화의 응용(효능·적응증)\n· 해열·발한·진경 → 감기약(○○탕) → 갈근의 응용(효능·적응증)\n· 살균·살충·소염·지사약 — 열성하리(이질), 복통, 코피, 치질 출혈 → 백두옹의 응용(효능·적응증)\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n산지: ( ㉠ )\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n주의: rotenone은 임부·태아 체중 증가를 둔하게 하고 최기형성",
+      "choices": [
+        "브라질",
+        "인도",
+        "말레이반도, 수마트라, 보르네오, 대만",
+        "북아메리카",
+        "중국, 인도"
+      ],
+      "answer": "말레이반도, 수마트라, 보르네오, 대만",
+      "explanation": "정답: 말레이반도, 수마트라, 보르네오, 대만\n\n오답 출처:\n· 중국, 인도 → 목향의 산지\n· 북아메리카 → 이 범위 밖의 오답\n· 인도 → 이 범위 밖의 오답\n· 브라질 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 데리스근 · Tuba Radix\n기원: 데리스 Derris elliptica의 뿌리\n과: 콩과 Leguminosae\n성분:\n· homoisoflavonoid(rotenoid) — rotenone, tephrosin, toxicarol, elliptone, malaccol\n응용: rotenone → 농업용 살충제\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): ( ㉠ )\n응용: 발한·구풍·진통약",
+      "choices": [
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
+        "oxymatrine + matrine 합 1.0% 이상"
+      ],
+      "answer": "kaurenoic acid + continentalic acid 0.4% 이상",
+      "explanation": "정답: kaurenoic acid + continentalic acid 0.4% 이상\n\n오답 출처:\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n성분:\n· diterpenoid(kaurane·pimarane) — ( ㉠ )\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약",
+      "choices": [
+        "tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone",
+        "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid",
+        "trichosanthin(234 아미노산), karasurin",
+        "ingol, euphpekinensin",
+        "platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D"
+      ],
+      "answer": "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid",
+      "explanation": "정답: kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n\n오답 출처:\n· trichosanthin(234 아미노산), karasurin → 괄루근의 대표 성분\n· platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D → 길경의 대표 성분\n· tanshinone I·IIA·IV, cryptotanshinone, dihydrotanshinone → 단삼의 대표 성분\n· ingol, euphpekinensin → 대극의 대표 성분\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· ( ㉠ ) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
+      "choices": [
+        "diterpenoid",
+        "단백질",
+        "diterpenoid(kaurane·pimarane)",
+        "triterpenoid saponin(약 2%)",
+        "isoflavonoid"
+      ],
+      "answer": "diterpenoid(kaurane·pimarane)",
+      "explanation": "정답: diterpenoid(kaurane·pimarane)\n\n오답 출처:\n· isoflavonoid → 갈근, 갈화의 성분 계열\n· diterpenoid → 대극의 성분 계열\n· 단백질 → 괄루근의 성분 계열\n· triterpenoid saponin(약 2%) → 길경의 성분 계열\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: ( ㉠ )\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
+      "choices": [
+        "대극과 Euphorbiaceae",
+        "두릅나무과 Araliaceae",
+        "꿀풀과 Labiatae",
+        "박과 Cucurbitaceae",
+        "초롱꽃과(도라지과) Campanulaceae"
+      ],
+      "answer": "두릅나무과 Araliaceae",
+      "explanation": "정답: 두릅나무과 Araliaceae\n\n오답 출처:\n· 대극과 Euphorbiaceae → 대극의 과명\n· 꿀풀과 Labiatae → 단삼의 과명\n· 초롱꽃과(도라지과) Campanulaceae → 길경의 과명\n· 박과 Cucurbitaceae → 괄루근의 과명\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 독활 · ( ㉠ )\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
+      "choices": [
+        "Araliae Continentalis Radix",
+        "Platycodi Radix",
+        "Sophorae Radix",
+        "Puerariae Radix",
+        "Salviae Miltiorrhizae Radix"
+      ],
+      "answer": "Araliae Continentalis Radix",
+      "explanation": "정답: Araliae Continentalis Radix\n\n오답 출처:\n· Platycodi Radix → 길경의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n· Puerariae Radix → 갈근의 라틴 생약명\n· Salviae Miltiorrhizae Radix → 단삼의 라틴 생약명\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: ( ㉠ )\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC",
+      "choices": [
+        "발한·구풍·진통약",
+        "거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘",
+        "해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시"
+      ],
+      "answer": "발한·구풍·진통약",
+      "explanation": "정답: 발한·구풍·진통약\n\n오답 출처:\n· 활혈·조경·소종·진통 — 월경부조, 복통, 경폐, 산후 구토·복통, 류머티즘 → 단삼의 응용(효능·적응증)\n· 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시 → 괄루근의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통) → 길경의 응용(효능·적응증)\n\n[카드 요약]\n📇 독활 · Araliae Continentalis Radix\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n과: 두릅나무과 Araliaceae\n지표(약전): kaurenoic acid + continentalic acid 0.4% 이상\n성분:\n· diterpenoid(kaurane·pimarane) — kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid\n· triterpenoid — oleanolic acid\n응용: 발한·구풍·진통약\n확인시험: ① Liebermann-Burchard: 접계면 적색, 위층 황적색 ② TLC\n★ 족보: kaurenoic acid 0.4% → 독활"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — ( ㉠ )\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료",
+      "choices": [
+        "matrine, oxymatrine, sophoranol",
+        "costunolide, dehydrocostuslactone, alantolactone",
+        "deoxypodophyllotoxin",
+        "8β-hydroxyasterolid",
+        "rotenone, tephrosin, toxicarol"
+      ],
+      "answer": "costunolide, dehydrocostuslactone, alantolactone",
+      "explanation": "정답: costunolide, dehydrocostuslactone, alantolactone\n\n오답 출처:\n· deoxypodophyllotoxin → 백두옹의 대표 성분\n· rotenone, tephrosin, toxicarol → 데리스근의 대표 성분\n· 8β-hydroxyasterolid → 당삼의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· ( ㉠ ) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
+      "choices": [
+        "sesquiterpenoid(sesquiterpene lactone, 1~2.5%)",
+        "alkaloid(quinolizidine, 1~2%)",
+        "triterpenoid saponin(약 2%)",
+        "lignan",
+        "단백질"
+      ],
+      "answer": "sesquiterpenoid(sesquiterpene lactone, 1~2.5%)",
+      "explanation": "정답: sesquiterpenoid(sesquiterpene lactone, 1~2.5%)\n\n오답 출처:\n· triterpenoid saponin(약 2%) → 길경의 성분 계열\n· lignan → 백두옹의 성분 계열\n· 단백질 → 괄루근의 성분 계열\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: ( ㉠ )\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
+      "choices": [
+        "국화과 Compositae",
+        "콩과 Leguminosae",
+        "초롱꽃과 Campanulaceae",
+        "마타리과 Valerianaceae",
+        "박과 Cucurbitaceae"
+      ],
+      "answer": "국화과 Compositae",
+      "explanation": "정답: 국화과 Compositae\n\n오답 출처:\n· 초롱꽃과 Campanulaceae → 당삼의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 박과 Cucurbitaceae → 괄루근의 과명\n· 마타리과 Valerianaceae → 길초근의 과명\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 목향 · ( ㉠ )\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
+      "choices": [
+        "Platycodi Radix",
+        "Pulsatillae Radix",
+        "Sophorae Radix",
+        "Aucklandiae Radix",
+        "Trichosanthis Radix"
+      ],
+      "answer": "Aucklandiae Radix",
+      "explanation": "정답: Aucklandiae Radix\n\n오답 출처:\n· Sophorae Radix → 고삼의 라틴 생약명\n· Trichosanthis Radix → 괄루근의 라틴 생약명\n· Pulsatillae Radix → 백두옹의 라틴 생약명\n· Platycodi Radix → 길경의 라틴 생약명\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: ( ㉠ )\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)",
+      "choices": [
+        "거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통)",
+        "진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제)",
+        "해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시",
+        "강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈",
+        "방향성 건위약, 훈향료"
+      ],
+      "answer": "방향성 건위약, 훈향료",
+      "explanation": "정답: 방향성 건위약, 훈향료\n\n오답 출처:\n· 거담·진해약(기침·기관지염), 배농약(화농성 질환·인후통) → 길경의 응용(효능·적응증)\n· 강장약 — 비위허약, 식욕부진, 설사, 사지무력, 피로, 폐허해수, 번갈 → 당삼의 응용(효능·적응증)\n· 진정·진경·구풍약 — 히스테리, 심계항진(침제·팅크제) → 길초근의 응용(효능·적응증)\n· 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시 → 괄루근의 응용(효능·적응증)\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n산지: 중국, 인도\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ( ㉠ )",
+      "choices": [
+        "acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대",
+        "염산을 넣으면 보라색",
+        "기포 시험(흔들면 지속성 거품)",
+        "Dragendorff 시액 → 등황색 침전",
+        "묽은 H₂SO₄ + Zn 가루 → 황색"
+      ],
+      "answer": "염산을 넣으면 보라색",
+      "explanation": "정답: 염산을 넣으면 보라색\n\n오답 출처:\n· 묽은 H₂SO₄ + Zn 가루 → 황색 → 단삼의 확인시험\n· acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대 → 백두옹의 확인시험\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· Dragendorff 시액 → 등황색 침전 → 고삼의 확인시험\n\n[카드 요약]\n📇 목향 · Aucklandiae Radix\n기원: 목향 Aucklandia lappa의 뿌리\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid(sesquiterpene lactone, 1~2.5%) — costunolide, dehydrocostuslactone, alantolactone, saussurealactone, costic acid, cynaropicrin\n· amino acid–sesquiterpene 결합체 — saussureamine A~E\n· 기타 — ionone, shikokiol\n응용: 방향성 건위약, 훈향료\n확인시험: ① EtOH 여액 + 염산 → 보라색 ② TLC(dehydrocostuslactone, costunolide)"
+    }
+  ]
+}

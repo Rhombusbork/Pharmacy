@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-w09-card-blank-1",
+  "subject": "생약학",
+  "title": "9주 카드 ② 칸 가린 카드 1/5 (갈근~백부근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 해열·발한·진경 → 감기약(갈근탕)\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "kaurenoic acid + continentalic acid 0.4% 이상",
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "salvianolic acid 4.1% 이상",
+        "oxymatrine + matrine 합 1.0% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상"
+      ],
+      "answer": "puerarin 2.0% 이상, daidzin 0.3% 이상",
+      "explanation": "정답: puerarin 2.0% 이상, daidzin 0.3% 이상\n\n오답 출처:\n· glycyrrhizin 2.5%, liquiritigenin 0.7% 이상 → 감초의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· kaurenoic acid + continentalic acid 0.4% 이상 → 독활의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — ( ㉠ )\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "matrine, oxymatrine, sophoranol",
+        "trichosanthin(234 아미노산), karasurin",
+        "rotenone, tephrosin, toxicarol",
+        "puerarin, daidzin, daidzein",
+        "kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid"
+      ],
+      "answer": "puerarin, daidzin, daidzein",
+      "explanation": "정답: puerarin, daidzin, daidzein\n\n오답 출처:\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· trichosanthin(234 아미노산), karasurin → 괄루근의 대표 성분\n· rotenone, tephrosin, toxicarol → 데리스근의 대표 성분\n· kaurenoic acid, continentalic acid(pimaradienoic acid), 7-oxo-sandaracopimaric acid → 독활의 대표 성분\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· ( ㉠ ) — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "chromone",
+        "isoflavonoid",
+        "triterpene glycoside(oleanane)",
+        "homoisoflavonoid(rotenoid)",
+        "diterpenoid(kaurane·pimarane)"
+      ],
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid\n\n오답 출처:\n· triterpene glycoside(oleanane) → 감초의 성분 계열\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· homoisoflavonoid(rotenoid) → 데리스근의 성분 계열\n· chromone → 방풍의 성분 계열\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: ( ㉠ )\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "박주가리과 Asclepiadaceae",
+        "미나리아재비과 Ranunculaceae",
+        "산형과(미나리과) Umbelliferae",
+        "박과 Cucurbitaceae",
+        "콩과 Leguminosae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 박과 Cucurbitaceae → 괄루근의 과명\n· 산형과(미나리과) Umbelliferae → 강활, 당귀, 일당귀, 방풍의 과명\n· 박주가리과 Asclepiadaceae → 백미의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 갈근 · ( ㉠ )\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "Puerariae Flos",
+        "Trichosanthis Radix",
+        "Puerariae Radix",
+        "Tuba Radix",
+        "Sophorae Radix"
+      ],
+      "answer": "Puerariae Radix",
+      "explanation": "정답: Puerariae Radix\n\n오답 출처:\n· Trichosanthis Radix → 괄루근의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n· Puerariae Flos → 갈화의 라틴 생약명\n· Tuba Radix → 데리스근의 라틴 생약명\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: ( ㉠ )\n확인시험: TLC: puerarin·daidzin 반점\n주의: 장기간 복용해도 비교적 안전",
+      "choices": [
+        "해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시",
+        "숙취로 인한 구토·식욕부진·장출혈",
+        "발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)",
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "해열·발한·진경 → 감기약(○○탕)"
+      ],
+      "answer": "해열·발한·진경 → 감기약(○○탕)",
+      "explanation": "정답: 해열·발한·진경 → 감기약(○○탕)\n\n오답 출처:\n· 해열·지갈(止渴)·구갈, 소종, 인후 종통, 젖 분비. 분말(○○)은 유아 피부병 외용. 중국에서 피임약으로 유망시 → 괄루근의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께) → 방풍의 응용(효능·적응증)\n· 숙취로 인한 구토·식욕부진·장출혈 → 갈화의 응용(효능·적응증)\n\n[카드 요약]\n📇 갈근 · Puerariae Radix\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n과: 콩과 Leguminosae\n지표(약전): puerarin 2.0% 이상, daidzin 0.3% 이상\n성분:\n· isoflavonoid — puerarin, daidzin, daidzein, genistein, formononetin\n· triterpenoid saponin — soyasaponin I, kudzusaponin\n응용: 해열·발한·진경 → 감기약(갈근탕)\n확인시험: TLC: puerarin·daidzin 반점\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — ( ㉠ )\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "choices": [
+        "matrine, oxymatrine, sophoranol",
+        "glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자",
+        "nodakenin(2%), notopterol, bergaptol",
+        "rotenone, tephrosin, toxicarol",
+        "tectorigenin, tectoridin, irisolidone"
+      ],
+      "answer": "tectorigenin, tectoridin, irisolidone",
+      "explanation": "정답: tectorigenin, tectoridin, irisolidone\n\n오답 출처:\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· nodakenin(2%), notopterol, bergaptol → 강활의 대표 성분\n· rotenone, tephrosin, toxicarol → 데리스근의 대표 성분\n· glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자 → 감초의 대표 성분\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· ( ㉠ ) — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "choices": [
+        "alkaloid(quinolizidine, 1~2%)",
+        "sesquiterpenoid",
+        "isoflavonoid",
+        "homoisoflavonoid(rotenoid)",
+        "triterpene glycoside(oleanane)"
+      ],
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid\n\n오답 출처:\n· triterpene glycoside(oleanane) → 감초의 성분 계열\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n· sesquiterpenoid → 당삼의 성분 계열\n· homoisoflavonoid(rotenoid) → 데리스근의 성분 계열\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: ( ㉠ )\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "백부과 Stemonaceae",
+        "산형과(미나리과) Umbelliferae",
+        "박주가리과 Asclepiadaceae",
+        "콩과 Leguminosae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 백부과 Stemonaceae → 백부근의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 산형과(미나리과) Umbelliferae → 강활, 당귀, 일당귀, 방풍의 과명\n· 박주가리과 Asclepiadaceae → 백미의 과명\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 갈화 · ( ㉠ )\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "choices": [
+        "Sophorae Radix",
+        "Saposhnikoviae Radix",
+        "Tuba Radix",
+        "Puerariae Flos",
+        "Osterici seu Notopterygii Radix et Rhizoma"
+      ],
+      "answer": "Puerariae Flos",
+      "explanation": "정답: Puerariae Flos\n\n오답 출처:\n· Tuba Radix → 데리스근의 라틴 생약명\n· Sophorae Radix → 고삼의 라틴 생약명\n· Saposhnikoviae Radix → 방풍의 라틴 생약명\n· Osterici seu Notopterygii Radix et Rhizoma → 강활의 라틴 생약명\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: ( ㉠ )",
+      "choices": [
+        "고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충",
+        "소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화",
+        "숙취로 인한 구토·식욕부진·장출혈",
+        "rotenone → 농업용 살충제",
+        "발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)"
+      ],
+      "answer": "숙취로 인한 구토·식욕부진·장출혈",
+      "explanation": "정답: 숙취로 인한 구토·식욕부진·장출혈\n\n오답 출처:\n· 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화 → 감초의 응용(효능·적응증)\n· rotenone → 농업용 살충제 → 데리스근의 응용(효능·적응증)\n· 고미건위약, 소염지사약, 피부질환(백선·습진) 외용. 한방: 해열·이뇨·구충 → 고삼의 응용(효능·적응증)\n· 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께) → 방풍의 응용(효능·적응증)\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 갈화 · (라틴명 숨김)\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈",
+      "choices": [
+        "Glycyrrhiza uralensis",
+        "Sophora flavescens",
+        "Ostericum koreanum",
+        "Pueraria lobata",
+        "Derris elliptica"
+      ],
+      "answer": "Pueraria lobata",
+      "explanation": "정답: Pueraria lobata\n\n오답 출처:\n· Ostericum koreanum → 강활의 기원식물 학명\n· Glycyrrhiza uralensis → 감초의 기원식물 학명\n· Sophora flavescens → 고삼의 기원식물 학명\n· Derris elliptica → 데리스근의 기원식물 학명\n\n[카드 요약]\n📇 갈화 · Puerariae Flos\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — tectorigenin, tectoridin, irisolidone, kakkalide\n· saponin — kaikasaponin I~III\n응용: 숙취로 인한 구토·식욕부진·장출혈\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): ( ㉠ )\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "nodakenin + decursin + decursinol angelate 합 6.0% 이상",
+        "oxymatrine + matrine 합 1.0% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+        "salvianolic acid 4.1% 이상"
+      ],
+      "answer": "glycyrrhizin 2.5%, liquiritigenin 0.7% 이상",
+      "explanation": "정답: glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n\n오답 출처:\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 갈근의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 단삼의 약전 지표성분·함량\n· nodakenin + decursin + decursinol angelate 합 6.0% 이상 → 당귀의 약전 지표성분·함량\n· oxymatrine + matrine 합 1.0% 이상 → 고삼의 약전 지표성분·함량\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n성분:\n· triterpene glycoside(oleanane) — ( ㉠ )\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "deoxypodophyllotoxin",
+        "matrine, oxymatrine, sophoranol",
+        "glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자",
+        "tectorigenin, tectoridin, irisolidone",
+        "puerarin, daidzin, daidzein"
+      ],
+      "answer": "glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자",
+      "explanation": "정답: glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n\n오답 출처:\n· tectorigenin, tectoridin, irisolidone → 갈화의 대표 성분\n· matrine, oxymatrine, sophoranol → 고삼의 대표 성분\n· deoxypodophyllotoxin → 백두옹의 대표 성분\n· puerarin, daidzin, daidzein → 갈근의 대표 성분\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· ( ㉠ ) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "diterpenoid(kaurane·pimarane)",
+        "triterpene glycoside(oleanane)",
+        "lignan",
+        "isoflavonoid",
+        "alkaloid(quinolizidine, 1~2%)"
+      ],
+      "answer": "triterpene glycoside(oleanane)",
+      "explanation": "정답: triterpene glycoside(oleanane)\n\n오답 출처:\n· diterpenoid(kaurane·pimarane) → 독활의 성분 계열\n· alkaloid(quinolizidine, 1~2%) → 고삼의 성분 계열\n· isoflavonoid → 갈근, 갈화의 성분 계열\n· lignan → 백두옹의 성분 계열\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "박주가리과 Asclepiadaceae",
+        "꿀풀과 Labiatae",
+        "미나리아재비과 Ranunculaceae",
+        "콩과 Leguminosae",
+        "두릅나무과 Araliaceae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 두릅나무과 Araliaceae → 독활의 과명\n· 박주가리과 Asclepiadaceae → 백미의 과명\n· 꿀풀과 Labiatae → 단삼의 과명\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 감초 · ( ㉠ )\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "Tuba Radix",
+        "Glycyrrhizae Radix et Rhizoma",
+        "Araliae Continentalis Radix",
+        "Puerariae Flos",
+        "Sophorae Radix"
+      ],
+      "answer": "Glycyrrhizae Radix et Rhizoma",
+      "explanation": "정답: Glycyrrhizae Radix et Rhizoma\n\n오답 출처:\n· Sophorae Radix → 고삼의 라틴 생약명\n· Araliae Continentalis Radix → 독활의 라틴 생약명\n· Tuba Radix → 데리스근의 라틴 생약명\n· Puerariae Flos → 갈화의 라틴 생약명\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 감초 · (라틴명 숨김)\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n주의: 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의",
+      "choices": [
+        "Derris elliptica",
+        "Glycyrrhiza uralensis",
+        "Aralia continentalis",
+        "Pulsatilla koreana",
+        "Sophora flavescens"
+      ],
+      "answer": "Glycyrrhiza uralensis",
+      "explanation": "정답: Glycyrrhiza uralensis\n\n오답 출처:\n· Aralia continentalis → 독활의 기원식물 학명\n· Derris elliptica → 데리스근의 기원식물 학명\n· Sophora flavescens → 고삼의 기원식물 학명\n· Pulsatilla koreana → 백두옹의 기원식물 학명\n\n[카드 요약]\n📇 감초 · Glycyrrhizae Radix et Rhizoma\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n과: 콩과 Leguminosae\n지표(약전): glycyrrhizin 2.5%, liquiritigenin 0.7% 이상\n성분:\n· triterpene glycoside(oleanane) — glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· flavanone — liquiritin, liquiritigenin\n· chalcone — isoliquiritin, isoliquiritigenin, licochalcone\n· isoflavone·isoflavan — formononetin, glabridin\n응용: 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화\n확인시험: TLC: glycyrrhizin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — ( ㉠ )\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
+      "choices": [
+        "ingol, euphpekinensin",
+        "ligustilide, butylidenephthalide, butylphthalide",
+        "nodakenin(2%), notopterol, bergaptol",
+        "decursin, decursinol, decursinol angelate",
+        "glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자"
+      ],
+      "answer": "nodakenin(2%), notopterol, bergaptol",
+      "explanation": "정답: nodakenin(2%), notopterol, bergaptol\n\n오답 출처:\n· glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자 → 감초의 대표 성분\n· decursin, decursinol, decursinol angelate → 당귀의 대표 성분\n· ingol, euphpekinensin → 대극의 대표 성분\n· ligustilide, butylidenephthalide, butylphthalide → 일당귀의 대표 성분\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· ( ㉠ ) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광",
+      "choices": [
+        "phthalide",
+        "diterpenoid",
+        "coumarin(furanocoumarin)",
+        "triterpene glycoside(oleanane)",
+        "isoflavonoid"
+      ],
+      "answer": "coumarin(furanocoumarin)",
+      "explanation": "정답: coumarin(furanocoumarin)\n\n오답 출처:\n· diterpenoid → 대극의 성분 계열\n· triterpene glycoside(oleanane) → 감초의 성분 계열\n· phthalide → 일당귀의 성분 계열\n· isoflavonoid → 갈근, 갈화의 성분 계열\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: ( ㉠ )\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광",
+      "choices": [
+        "백부과 Stemonaceae",
+        "산형과(미나리과) Umbelliferae",
+        "미나리아재비과 Ranunculaceae",
+        "대극과 Euphorbiaceae",
+        "콩과 Leguminosae"
+      ],
+      "answer": "산형과(미나리과) Umbelliferae",
+      "explanation": "정답: 산형과(미나리과) Umbelliferae\n\n오답 출처:\n· 백부과 Stemonaceae → 백부근의 과명\n· 미나리아재비과 Ranunculaceae → 백두옹의 과명\n· 콩과 Leguminosae → 갈근, 갈화, 감초, 고삼, 데리스근의 과명\n· 대극과 Euphorbiaceae → 대극의 과명\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 강활 · ( ㉠ )\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광",
+      "choices": [
+        "Angelicae Gigantis Radix",
+        "Glycyrrhizae Radix et Rhizoma",
+        "Euphorbiae Pekinensis Radix",
+        "Osterici seu Notopterygii Radix et Rhizoma",
+        "Japonicae Angelicae Radix"
+      ],
+      "answer": "Osterici seu Notopterygii Radix et Rhizoma",
+      "explanation": "정답: Osterici seu Notopterygii Radix et Rhizoma\n\n오답 출처:\n· Angelicae Gigantis Radix → 당귀의 라틴 생약명\n· Euphorbiae Pekinensis Radix → 대극의 라틴 생약명\n· Glycyrrhizae Radix et Rhizoma → 감초의 라틴 생약명\n· Japonicae Angelicae Radix → 일당귀의 라틴 생약명\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: ( ㉠ )\n확인시험: ether 침출액이 자외선에서 강한 형광",
+      "choices": [
+        "발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께)",
+        "보혈·강장·진통·진정약",
+        "감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
+        "해열·발한·진경 → 감기약(○○탕)",
+        "소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화"
+      ],
+      "answer": "감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독",
+      "explanation": "정답: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n\n오답 출처:\n· 발한·해열·진경·진통 → 감기 두통, 관절통, 사지경련, 파상풍(백지와 함께) → 방풍의 응용(효능·적응증)\n· 해열·발한·진경 → 감기약(○○탕) → 갈근의 응용(효능·적응증)\n· 소화성 궤양, 진경약, glycyrrhizin 원료. 한방: 완화·진통·해독 — 독성 약물의 독성을 줄이고 여러 생약의 약효를 조화 → 감초의 응용(효능·적응증)\n· 보혈·강장·진통·진정약 → 일당귀의 응용(효능·적응증)\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ( ㉠ )",
+      "choices": [
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Dragendorff 시액 → 등황색 침전",
+        "자외선을 쪼이면 강한 형광",
+        "기포 시험(흔들면 지속성 거품)",
+        "묽은 H₂SO₄ + Zn 가루 → 황색"
+      ],
+      "answer": "자외선을 쪼이면 강한 형광",
+      "explanation": "정답: 자외선을 쪼이면 강한 형광\n\n오답 출처:\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· 묽은 H₂SO₄ + Zn 가루 → 황색 → 단삼의 확인시험\n· Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열) → 길경, 독활의 확인시험\n· Dragendorff 시액 → 등황색 침전 → 고삼의 확인시험\n\n[카드 요약]\n📇 강활 · Osterici seu Notopterygii Radix et Rhizoma\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n과: 산형과(미나리과) Umbelliferae\n성분:\n· coumarin(furanocoumarin) — nodakenin(2%), notopterol, bergaptol, isoimperatorin, oxypeucedanin\n· polyacetylene — falcarindiol\n· phenylpropanoid — phenylethyl ferulate\n응용: 감기로 인한 두통·몸살, 중풍 언어장애, 골절 산통, 옹저창독\n확인시험: ether 침출액이 자외선에서 강한 형광"
+    }
+  ]
+}
