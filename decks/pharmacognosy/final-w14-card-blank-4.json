@@ -1,0 +1,306 @@
+{
+  "deckId": "pharmacognosy-final-w14-card-blank-4",
+  "subject": "생약학",
+  "title": "14주 카드 ② 칸 가린 카드 4/5 (빈랑자~호미카)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 콜히쿰자 · Colchici Semen\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n과: 백합과 Liliaceae\n성분:\n· alkaloid(tropolone) — colchicine, colchicoside, demecolcine, 3-demethylcolchicine\n응용: ( ㉠ )\n주의: 독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망",
+      "choices": [
+        "통풍 치료제, 염색체 배가제(씨 없는 수박)",
+        "각성제, caffeine 제조 원료, 기호 음료",
+        "고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출",
+        "physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독",
+        "자양강장·진정·지사 — 불면, 설사, 대하"
+      ],
+      "answer": "통풍 치료제, 염색체 배가제(씨 없는 수박)",
+      "explanation": "정답: 통풍 치료제, 염색체 배가제(씨 없는 수박)\n\n오답 출처:\n· 자양강장·진정·지사 — 불면, 설사, 대하 → 연자육의 응용(효능·적응증)\n· 고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출 → 호미카의 응용(효능·적응증)\n· physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독 → 카라발두의 응용(효능·적응증)\n· 각성제, caffeine 제조 원료, 기호 음료 → 커피두의 응용(효능·적응증)\n\n[카드 요약]\n📇 콜히쿰자 · Colchici Semen\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n과: 백합과 Liliaceae\n성분:\n· alkaloid(tropolone) — colchicine, colchicoside, demecolcine, 3-demethylcolchicine\n응용: 통풍 치료제, 염색체 배가제(씨 없는 수박)"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 콜히쿰자 · Colchici Semen\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n과: 백합과 Liliaceae\n성분:\n· alkaloid(tropolone) — colchicine, colchicoside, demecolcine, 3-demethylcolchicine\n응용: 통풍 치료제, 염색체 배가제(씨 없는 수박)\n주의: ( ㉠ )",
+      "choices": [
+        "15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+        "견우자와 배합 금기",
+        "과량 → 경련 발작, 질식·피로로 사망",
+        "독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망",
+        "중독 → 심실 세동"
+      ],
+      "answer": "독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망",
+      "explanation": "정답: 독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망\n\n오답 출처:\n· 과량 → 경련 발작, 질식·피로로 사망 → 호미카의 주의·독성·금기\n· 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin) → 육두구의 주의·독성·금기\n· 중독 → 심실 세동 → 스트로판투스의 주의·독성·금기\n· 견우자와 배합 금기 → 파두의 주의·독성·금기\n\n[카드 요약]\n📇 콜히쿰자 · Colchici Semen\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n과: 백합과 Liliaceae\n성분:\n· alkaloid(tropolone) — colchicine, colchicoside, demecolcine, 3-demethylcolchicine\n응용: 통풍 치료제, 염색체 배가제(씨 없는 수박)"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — ( ㉠ )\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "choices": [
+        "armepavine, N-methylcoclaurine, roemerine",
+        "coixenolide(항암)",
+        "hyperoside, quercetin, kaempferol",
+        "amygdalin",
+        "prunuside(= multiflorin A), multiflorin B, afzelin"
+      ],
+      "answer": "hyperoside, quercetin, kaempferol",
+      "explanation": "정답: hyperoside, quercetin, kaempferol\n\n오답 출처:\n· armepavine, N-methylcoclaurine, roemerine → 연자육의 대표 성분\n· amygdalin → 도인의 대표 성분\n· coixenolide(항암) → 의이인의 대표 성분\n· prunuside(= multiflorin A), multiflorin B, afzelin → 욱리인의 대표 성분\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· ( ㉠ ) — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "choices": [
+        "청산배당체(cyanogenic glycoside)",
+        "flavonoid",
+        "지방산 ester",
+        "tigliane phorbol ester(croton resin)",
+        "cyclopeptide alkaloid"
+      ],
+      "answer": "flavonoid",
+      "explanation": "정답: flavonoid\n\n오답 출처:\n· cyclopeptide alkaloid → 산조인의 성분 계열\n· 지방산 ester → 의이인의 성분 계열\n· tigliane phorbol ester(croton resin) → 파두의 성분 계열\n· 청산배당체(cyanogenic glycoside) → 아마인, 행인의 성분 계열\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: ( ㉠ )\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "choices": [
+        "메꽃과 Convolvulaceae",
+        "갈매나무과 Rhamnaceae",
+        "벼과 Gramineae",
+        "수련과 Nymphaeaceae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "메꽃과 Convolvulaceae",
+      "explanation": "정답: 메꽃과 Convolvulaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 벼과 Gramineae → 의이인의 과명\n· 수련과 Nymphaeaceae → 연자육의 과명\n· 갈매나무과 Rhamnaceae → 산조인의 과명\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 토사자 · ( ㉠ )\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "choices": [
+        "Coicis Semen",
+        "Persicae Semen",
+        "Cuscutae Semen",
+        "Nelumbinis Semen",
+        "Crotonis Semen"
+      ],
+      "answer": "Cuscutae Semen",
+      "explanation": "정답: Cuscutae Semen\n\n오답 출처:\n· Crotonis Semen → 파두의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n· Coicis Semen → 의이인의 라틴 생약명\n· Nelumbinis Semen → 연자육의 라틴 생약명\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: ( ㉠ )",
+      "choices": [
+        "자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+        "윤장·통변·이뇨 — 변비, 부종",
+        "소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통",
+        "자양강장·진정·지사 — 불면, 설사, 대하",
+        "완고한 변비(준하제), 동상 예방(피부 자극약)"
+      ],
+      "answer": "자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "explanation": "정답: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴\n\n오답 출처:\n· 윤장·통변·이뇨 — 변비, 부종 → 욱리인의 응용(효능·적응증)\n· 자양강장·진정·지사 — 불면, 설사, 대하 → 연자육의 응용(효능·적응증)\n· 완고한 변비(준하제), 동상 예방(피부 자극약) → 파두의 응용(효능·적응증)\n· 소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통 → 도인의 응용(효능·적응증)\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 토사자 · (라틴명 숨김)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+      "choices": [
+        "Croton tiglium",
+        "Zizyphus jujuba var. spinosa",
+        "Nelumbo nucifera",
+        "Coix lacryma",
+        "Cuscuta chinensis"
+      ],
+      "answer": "Cuscuta chinensis",
+      "explanation": "정답: Cuscuta chinensis\n\n오답 출처:\n· Coix lacryma → 의이인의 기원식물 학명\n· Zizyphus jujuba var. spinosa → 산조인의 기원식물 학명\n· Nelumbo nucifera → 연자육의 기원식물 학명\n· Croton tiglium → 파두의 기원식물 학명\n\n[카드 요약]\n📇 토사자 · Cuscutae Semen\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — ( ㉠ )\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: 견우자와 배합 금기",
+      "choices": [
+        "phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate",
+        "sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A",
+        "amygdalin",
+        "physostigmine(= eserine), norphysostigmine, eseramine",
+        "coixenolide(항암)"
+      ],
+      "answer": "phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate",
+      "explanation": "정답: phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n\n오답 출처:\n· physostigmine(= eserine), norphysostigmine, eseramine → 카라발두의 대표 성분\n· amygdalin → 도인의 대표 성분\n· sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A → 산조인의 대표 성분\n· coixenolide(항암) → 의이인의 대표 성분\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· ( ㉠ ) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: 견우자와 배합 금기",
+      "choices": [
+        "indole alkaloid",
+        "tigliane phorbol ester(croton resin)",
+        "청산배당체",
+        "지방산 ester",
+        "cyclopeptide alkaloid"
+      ],
+      "answer": "tigliane phorbol ester(croton resin)",
+      "explanation": "정답: tigliane phorbol ester(croton resin)\n\n오답 출처:\n· 지방산 ester → 의이인의 성분 계열\n· 청산배당체 → 고편도, 도인의 성분 계열\n· indole alkaloid → 카라발두, 호미카의 성분 계열\n· cyclopeptide alkaloid → 산조인의 성분 계열\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: ( ㉠ )\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: 견우자와 배합 금기",
+      "choices": [
+        "벼과 Gramineae",
+        "백합과 Liliaceae",
+        "콩과 Leguminosae",
+        "장미과 Rosaceae",
+        "대극과 Euphorbiaceae"
+      ],
+      "answer": "대극과 Euphorbiaceae",
+      "explanation": "정답: 대극과 Euphorbiaceae\n\n오답 출처:\n· 백합과 Liliaceae → 콜히쿰자의 과명\n· 장미과 Rosaceae → 행인, 고편도, 도인, 욱리인의 과명\n· 콩과 Leguminosae → 카라발두의 과명\n· 벼과 Gramineae → 의이인의 과명\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 파두 · ( ㉠ )\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: 견우자와 배합 금기",
+      "choices": [
+        "Colchici Semen",
+        "Crotonis Semen",
+        "Coicis Semen",
+        "Persicae Semen",
+        "Pruni Japonicae Semen"
+      ],
+      "answer": "Crotonis Semen",
+      "explanation": "정답: Crotonis Semen\n\n오답 출처:\n· Coicis Semen → 의이인의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n· Colchici Semen → 콜히쿰자의 라틴 생약명\n· Pruni Japonicae Semen → 욱리인의 라틴 생약명\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: ( ㉠ )\n주의: 견우자와 배합 금기",
+      "choices": [
+        "통풍 치료제, 염색체 배가제(씨 없는 수박)",
+        "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+        "완고한 변비(준하제), 동상 예방(피부 자극약)",
+        "불면증, 진정, 심장질환, 신경강장 — 최면약",
+        "소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통"
+      ],
+      "answer": "완고한 변비(준하제), 동상 예방(피부 자극약)",
+      "explanation": "정답: 완고한 변비(준하제), 동상 예방(피부 자극약)\n\n오답 출처:\n· 소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통 → 도인의 응용(효능·적응증)\n· 불면증, 진정, 심장질환, 신경강장 — 최면약 → 산조인의 응용(효능·적응증)\n· 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정 → 의이인의 응용(효능·적응증)\n· 통풍 치료제, 염색체 배가제(씨 없는 수박) → 콜히쿰자의 응용(효능·적응증)\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: ( ㉠ )",
+      "choices": [
+        "임부 금기",
+        "대변이 묽은 사람 주의, 과량 금지(독성)",
+        "중독 → 심실 세동",
+        "견우자와 배합 금기",
+        "독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망"
+      ],
+      "answer": "견우자와 배합 금기",
+      "explanation": "정답: 견우자와 배합 금기\n\n오답 출처:\n· 임부 금기 → 도인의 주의·독성·금기\n· 독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망 → 콜히쿰자의 주의·독성·금기\n· 중독 → 심실 세동 → 스트로판투스의 주의·독성·금기\n· 대변이 묽은 사람 주의, 과량 금지(독성) → 행인의 주의·독성·금기\n\n[카드 요약]\n📇 파두 · Crotonis Semen\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — ( ㉠ )\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "amygdalin 2.5~4%",
+        "helveticoside, evomonoside",
+        "amygdalin, prunasin",
+        "arecoline, arecaidine, guvacine",
+        "linamarin"
+      ],
+      "answer": "amygdalin, prunasin",
+      "explanation": "정답: amygdalin, prunasin\n\n오답 출처:\n· helveticoside, evomonoside → 정력자의 대표 성분\n· arecoline, arecaidine, guvacine → 빈랑자의 대표 성분\n· amygdalin 2.5~4% → 고편도의 대표 성분\n· linamarin → 아마인의 대표 성분\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· ( ㉠ ) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "청산배당체(cyanogenic glycoside)",
+        "flavonoid",
+        "청산배당체",
+        "pyridine alkaloid",
+        "강심배당체"
+      ],
+      "answer": "청산배당체(cyanogenic glycoside)",
+      "explanation": "정답: 청산배당체(cyanogenic glycoside)\n\n오답 출처:\n· 강심배당체 → 정력자의 성분 계열\n· 청산배당체 → 고편도, 도인의 성분 계열\n· pyridine alkaloid → 빈랑자의 성분 계열\n· flavonoid → 토사자, 욱리인의 성분 계열\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: ( ㉠ )\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "질경이과 Plantaginaceae",
+        "육두구과 Myristicaceae",
+        "미나리아재비과 Ranunculaceae",
+        "아마과 Linaceae",
+        "장미과 Rosaceae"
+      ],
+      "answer": "장미과 Rosaceae",
+      "explanation": "정답: 장미과 Rosaceae\n\n오답 출처:\n· 아마과 Linaceae → 아마인의 과명\n· 질경이과 Plantaginaceae → 차전자의 과명\n· 육두구과 Myristicaceae → 육두구의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 행인 · ( ㉠ )\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "Arecae Semen",
+        "Pruni Japonicae Semen",
+        "Armeniacae Semen",
+        "Lini Semen",
+        "Persicae Semen"
+      ],
+      "answer": "Armeniacae Semen",
+      "explanation": "정답: Armeniacae Semen\n\n오답 출처:\n· Lini Semen → 아마인의 라틴 생약명\n· Arecae Semen → 빈랑자의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n· Pruni Japonicae Semen → 욱리인의 라틴 생약명\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: ( ㉠ )\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통",
+        "건위·소화·수렴·구충약(조충 구제)",
+        "진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+        "거담·진해·평천·윤장(통변)",
+        "윤장·통변·이뇨 — 변비, 부종"
+      ],
+      "answer": "거담·진해·평천·윤장(통변)",
+      "explanation": "정답: 거담·진해·평천·윤장(통변)\n\n오답 출처:\n· 진해·평천·이뇨 — 담이 많은 기침·천식, 부종 → 정력자의 응용(효능·적응증)\n· 윤장·통변·이뇨 — 변비, 부종 → 욱리인의 응용(효능·적응증)\n· 건위·소화·수렴·구충약(조충 구제) → 빈랑자의 응용(효능·적응증)\n· 소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통 → 도인의 응용(효능·적응증)\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: ( ㉠ )",
+      "choices": [
+        "견우자와 배합 금기",
+        "대변이 묽은 사람 주의, 과량 금지(독성)",
+        "중독 → 심실 세동",
+        "15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+        "임부 금기"
+      ],
+      "answer": "대변이 묽은 사람 주의, 과량 금지(독성)",
+      "explanation": "정답: 대변이 묽은 사람 주의, 과량 금지(독성)\n\n오답 출처:\n· 중독 → 심실 세동 → 스트로판투스의 주의·독성·금기\n· 견우자와 배합 금기 → 파두의 주의·독성·금기\n· 임부 금기 → 도인의 주의·독성·금기\n· 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin) → 육두구의 주의·독성·금기\n\n[카드 요약]\n📇 행인 · Armeniacae Semen\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: 장미과 Rosaceae\n산지: 이탈리아, 프랑스\n성분:\n· 청산배당체 — ( ㉠ )\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용",
+      "choices": [
+        "amygdalin 2.5~4%",
+        "hyperoside, quercetin, kaempferol",
+        "helveticoside, evomonoside",
+        "amygdalin, prunasin",
+        "amygdalin"
+      ],
+      "answer": "amygdalin 2.5~4%",
+      "explanation": "정답: amygdalin 2.5~4%\n\n오답 출처:\n· helveticoside, evomonoside → 정력자의 대표 성분\n· amygdalin, prunasin → 행인의 대표 성분\n· hyperoside, quercetin, kaempferol → 토사자의 대표 성분\n· amygdalin → 도인의 대표 성분\n\n[카드 요약]\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체 — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용\n★ 족보: amygdalin → 행인·고편도"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: 장미과 Rosaceae\n산지: 이탈리아, 프랑스\n성분:\n· ( ㉠ ) — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용",
+      "choices": [
+        "flavonoid",
+        "cyclopeptide alkaloid",
+        "mucilage",
+        "청산배당체",
+        "phenylpropene"
+      ],
+      "answer": "청산배당체",
+      "explanation": "정답: 청산배당체\n\n오답 출처:\n· mucilage → 차전자의 성분 계열\n· phenylpropene → 육두구의 성분 계열\n· flavonoid → 토사자, 욱리인의 성분 계열\n· cyclopeptide alkaloid → 산조인의 성분 계열\n\n[카드 요약]\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체 — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용\n★ 족보: amygdalin → 행인·고편도"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: ( ㉠ )\n산지: 이탈리아, 프랑스\n성분:\n· 청산배당체 — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용",
+      "choices": [
+        "육두구과 Myristicaceae",
+        "십자화과 Cruciferae",
+        "메꽃과 Convolvulaceae",
+        "미나리아재비과 Ranunculaceae",
+        "장미과 Rosaceae"
+      ],
+      "answer": "장미과 Rosaceae",
+      "explanation": "정답: 장미과 Rosaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 메꽃과 Convolvulaceae → 토사자의 과명\n· 십자화과 Cruciferae → 정력자의 과명\n· 육두구과 Myristicaceae → 육두구의 과명\n\n[카드 요약]\n📇 고편도 · Amygdali Semen Amara\n기원: Prunus amygdalus var. amara의 씨\n과: 장미과 Rosaceae\n성분:\n· 청산배당체 — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n응용: 진해·거담, 행인수 대용\n★ 족보: amygdalin → 행인·고편도"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "deckId": "pharmacognosy-final-w14-card-short",
+  "subject": "생약학",
+  "title": "14주 카드 ③ 주관식: 라틴명·지표·산지 → 생약 (빈랑자~호미카)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Arecae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "빈랑자",
+        "檳榔子"
+      ],
+      "explanation": "Arecae Semen = 빈랑자(檳榔子)\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것) — 야자과 Palmae\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Zizyphi Semen인 생약의 한글 이름은?",
+      "answer": [
+        "산조인",
+        "酸棗仁"
+      ],
+      "explanation": "Zizyphi Semen = 산조인(酸棗仁)\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨 — 갈매나무과 Rhamnaceae\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Strophanthi Semen인 생약의 한글 이름은?",
+      "answer": [
+        "스트로판투스"
+      ],
+      "explanation": "Strophanthi Semen = 스트로판투스()\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거) — 협죽도과 Apocynaceae\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Lini Semen인 생약의 한글 이름은?",
+      "answer": [
+        "아마인",
+        "亞麻仁"
+      ],
+      "explanation": "Lini Semen = 아마인(亞麻仁)\n기원: 아마 Linum usitatissimum의 씨 — 아마과 Linaceae\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 5,
+      "question": "라틴 생약명이 Nelumbinis Semen인 생약의 한글 이름은?",
+      "answer": [
+        "연자육",
+        "蓮子肉"
+      ],
+      "explanation": "Nelumbinis Semen = 연자육(蓮子肉)\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것) — 수련과 Nymphaeaceae"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Myristicae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "육두구",
+        "肉荳蔲"
+      ],
+      "explanation": "Myristicae Semen = 육두구(肉荳蔲)\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거) — 육두구과 Myristicaceae\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 7,
+      "question": "라틴 생약명이 Coicis Semen인 생약의 한글 이름은?",
+      "answer": [
+        "의이인",
+        "薏苡仁"
+      ],
+      "explanation": "Coicis Semen = 의이인(薏苡仁)\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거) — 벼과 Gramineae\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 8,
+      "question": "라틴 생약명이 Lepidii seu Descurainiae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "정력자",
+        "葶藶子"
+      ],
+      "explanation": "Lepidii seu Descurainiae Semen = 정력자(葶藶子)\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨 — 십자화과 Cruciferae"
+    },
+    {
+      "id": 9,
+      "question": "라틴 생약명이 Plantaginis Semen인 생약의 한글 이름은?",
+      "answer": [
+        "차전자",
+        "車前子"
+      ],
+      "explanation": "Plantaginis Semen = 차전자(車前子)\n기원: 질경이 Plantago asiatica 또는 털질경이 P. depressa의 잘 익은 씨 — 질경이과 Plantaginaceae"
+    },
+    {
+      "id": 10,
+      "question": "라틴 생약명이 Physostigmatis Semen인 생약의 한글 이름은?",
+      "answer": [
+        "카라발두"
+      ],
+      "explanation": "Physostigmatis Semen = 카라발두()\n기원: 카라발콩 Physostigma venenosum의 성숙 종자 — 콩과 Leguminosae\n★ 족보: 카라발두 적응증 = 초기 녹내장·근무력증·수술 후 장마비 (뇌졸중 아님) / ordeal bean = 카라발두 = Physostigma venenosum"
+    },
+    {
+      "id": 11,
+      "question": "라틴 생약명이 Coffeae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "커피두"
+      ],
+      "explanation": "Coffeae Semen = 커피두()\n기원: 커피나무 Coffea arabica, C. liberica, C. canephora의 종자 — 꼭두서니과 Rubiaceae\n★ 족보: 커피두 과명 = 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 12,
+      "question": "라틴 생약명이 Colchici Semen인 생약의 한글 이름은?",
+      "answer": [
+        "콜히쿰자"
+      ],
+      "explanation": "Colchici Semen = 콜히쿰자()\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨 — 백합과 Liliaceae"
+    },
+    {
+      "id": 13,
+      "question": "라틴 생약명이 Cuscutae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "토사자",
+        "菟絲子"
+      ],
+      "explanation": "Cuscutae Semen = 토사자(菟絲子)\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis) — 메꽃과 Convolvulaceae"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Crotonis Semen인 생약의 한글 이름은?",
+      "answer": [
+        "파두",
+        "巴豆"
+      ],
+      "explanation": "Crotonis Semen = 파두(巴豆)\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용) — 대극과 Euphorbiaceae\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Armeniacae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "행인",
+        "杏仁"
+      ],
+      "explanation": "Armeniacae Semen = 행인(杏仁)\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨 — 장미과 Rosaceae\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 16,
+      "question": "라틴 생약명이 Amygdali Semen Amara인 생약의 한글 이름은?",
+      "answer": [
+        "고편도",
+        "苦扁桃"
+      ],
+      "explanation": "Amygdali Semen Amara = 고편도(苦扁桃)\n기원: Prunus amygdalus var. amara의 씨 — 장미과 Rosaceae\n★ 족보: amygdalin → 행인·고편도"
+    },
+    {
+      "id": 17,
+      "question": "라틴 생약명이 Persicae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "도인",
+        "桃仁"
+      ],
+      "explanation": "Persicae Semen = 도인(桃仁)\n기원: 복숭아 Prunus persica 또는 산복사 P. davidiana의 잘 익은 씨 — 장미과 Rosaceae"
+    },
+    {
+      "id": 18,
+      "question": "라틴 생약명이 Pruni Japonicae Semen인 생약의 한글 이름은?",
+      "answer": [
+        "욱리인",
+        "郁李仁"
+      ],
+      "explanation": "Pruni Japonicae Semen = 욱리인(郁李仁)\n기원: 이스라지 Prunus japonica 또는 앵두나무 P. humilis의 씨 — 장미과 Rosaceae"
+    },
+    {
+      "id": 19,
+      "question": "라틴 생약명이 Strychni Semen인 생약의 한글 이름은?",
+      "answer": [
+        "호미카"
+      ],
+      "explanation": "Strychni Semen = 호미카()\n기원: 마전자나무 Strychnos nux-vomica의 잘 익은 씨 — 마전과 Loganiaceae\n★ 족보: 과량 → 경련 발작·질식 사망 → 호미카"
+    },
+    {
+      "id": 20,
+      "question": "산지가 '동아프리카·서아프리카의 늪지역'인 생약은?",
+      "answer": [
+        "스트로판투스"
+      ],
+      "explanation": "스트로판투스 (Strophanthi Semen) — 협죽도과 Apocynaceae\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 21,
+      "question": "산지가 '서아프리카'인 생약은?",
+      "answer": [
+        "카라발두"
+      ],
+      "explanation": "카라발두 (Physostigmatis Semen) — 콩과 Leguminosae\n★ 족보: 카라발두 적응증 = 초기 녹내장·근무력증·수술 후 장마비 (뇌졸중 아님) / ordeal bean = 카라발두 = Physostigma venenosum"
+    },
+    {
+      "id": 22,
+      "question": "산지가 '이탈리아, 프랑스'인 생약은?",
+      "answer": [
+        "고편도"
+      ],
+      "explanation": "고편도 (Amygdali Semen Amara) — 장미과 Rosaceae\n★ 족보: amygdalin → 행인·고편도"
+    }
+  ]
+}

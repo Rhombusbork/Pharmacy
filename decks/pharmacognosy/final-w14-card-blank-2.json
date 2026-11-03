@@ -1,0 +1,306 @@
+{
+  "deckId": "pharmacognosy-final-w14-card-blank-2",
+  "subject": "생약학",
+  "title": "14주 카드 ② 칸 가린 카드 2/5 (빈랑자~호미카)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 아마인 · (라틴명 숨김)\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유",
+      "choices": [
+        "Prunus armeniaca var. ansu",
+        "Linum usitatissimum",
+        "Prunus amygdalus var. amara",
+        "Myristica fragrans",
+        "Zizyphus jujuba var. spinosa"
+      ],
+      "answer": "Linum usitatissimum",
+      "explanation": "정답: Linum usitatissimum\n\n오답 출처:\n· Prunus armeniaca var. ansu → 행인의 기원식물 학명\n· Zizyphus jujuba var. spinosa → 산조인의 기원식물 학명\n· Prunus amygdalus var. amara → 고편도의 기원식물 학명\n· Myristica fragrans → 육두구의 기원식물 학명\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — ( ㉠ )\n응용: 자양강장·진정·지사 — 불면, 설사, 대하",
+      "choices": [
+        "coixenolide(항암)",
+        "strychnine, brucine, strychnine N-oxide",
+        "caffeine, theobromine, theophylline",
+        "armepavine, N-methylcoclaurine, roemerine",
+        "physostigmine(= eserine), norphysostigmine, eseramine"
+      ],
+      "answer": "armepavine, N-methylcoclaurine, roemerine",
+      "explanation": "정답: armepavine, N-methylcoclaurine, roemerine\n\n오답 출처:\n· physostigmine(= eserine), norphysostigmine, eseramine → 카라발두의 대표 성분\n· caffeine, theobromine, theophylline → 커피두의 대표 성분\n· strychnine, brucine, strychnine N-oxide → 호미카의 대표 성분\n· coixenolide(항암) → 의이인의 대표 성분\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· ( ㉠ ) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하",
+      "choices": [
+        "지방산 ester",
+        "alkaloid(benzylisoquinoline·aporphine)",
+        "pyridine alkaloid",
+        "purine alkaloid",
+        "cyclopeptide alkaloid"
+      ],
+      "answer": "alkaloid(benzylisoquinoline·aporphine)",
+      "explanation": "정답: alkaloid(benzylisoquinoline·aporphine)\n\n오답 출처:\n· purine alkaloid → 커피두의 성분 계열\n· 지방산 ester → 의이인의 성분 계열\n· cyclopeptide alkaloid → 산조인의 성분 계열\n· pyridine alkaloid → 빈랑자의 성분 계열\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: ( ㉠ )\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하",
+      "choices": [
+        "꼭두서니과 Rubiaceae",
+        "갈매나무과 Rhamnaceae",
+        "수련과 Nymphaeaceae",
+        "벼과 Gramineae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "수련과 Nymphaeaceae",
+      "explanation": "정답: 수련과 Nymphaeaceae\n\n오답 출처:\n· 벼과 Gramineae → 의이인의 과명\n· 갈매나무과 Rhamnaceae → 산조인의 과명\n· 꼭두서니과 Rubiaceae → 커피두의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 연자육 · ( ㉠ )\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하",
+      "choices": [
+        "Strychni Semen",
+        "Coffeae Semen",
+        "Nelumbinis Semen",
+        "Zizyphi Semen",
+        "Coicis Semen"
+      ],
+      "answer": "Nelumbinis Semen",
+      "explanation": "정답: Nelumbinis Semen\n\n오답 출처:\n· Strychni Semen → 호미카의 라틴 생약명\n· Coicis Semen → 의이인의 라틴 생약명\n· Zizyphi Semen → 산조인의 라틴 생약명\n· Coffeae Semen → 커피두의 라틴 생약명\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: ( ㉠ )",
+      "choices": [
+        "physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독",
+        "불면증, 진정, 심장질환, 신경강장 — 최면약",
+        "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+        "자양강장·진정·지사 — 불면, 설사, 대하",
+        "고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출"
+      ],
+      "answer": "자양강장·진정·지사 — 불면, 설사, 대하",
+      "explanation": "정답: 자양강장·진정·지사 — 불면, 설사, 대하\n\n오답 출처:\n· 고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출 → 호미카의 응용(효능·적응증)\n· 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정 → 의이인의 응용(효능·적응증)\n· physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독 → 카라발두의 응용(효능·적응증)\n· 불면증, 진정, 심장질환, 신경강장 — 최면약 → 산조인의 응용(효능·적응증)\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 연자육 · (라틴명 숨김)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하",
+      "choices": [
+        "Colchicum autumnale",
+        "Physostigma venenosum",
+        "Nelumbo nucifera",
+        "Coffea arabica",
+        "Strychnos nux"
+      ],
+      "answer": "Nelumbo nucifera",
+      "explanation": "정답: Nelumbo nucifera\n\n오답 출처:\n· Coffea arabica → 커피두의 기원식물 학명\n· Physostigma venenosum → 카라발두의 기원식물 학명\n· Strychnos nux → 호미카의 기원식물 학명\n· Colchicum autumnale → 콜히쿰자의 기원식물 학명\n\n[카드 요약]\n📇 연자육 · Nelumbinis Semen\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — ( ㉠ )\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "linamarin",
+        "arecoline, arecaidine, guvacine",
+        "colchicine, colchicoside, demecolcine",
+        "strychnine, brucine, strychnine N-oxide",
+        "myristicin, trans-isoelemicin, safrole"
+      ],
+      "answer": "myristicin, trans-isoelemicin, safrole",
+      "explanation": "정답: myristicin, trans-isoelemicin, safrole\n\n오답 출처:\n· linamarin → 아마인의 대표 성분\n· strychnine, brucine, strychnine N-oxide → 호미카의 대표 성분\n· arecoline, arecaidine, guvacine → 빈랑자의 대표 성분\n· colchicine, colchicoside, demecolcine → 콜히쿰자의 대표 성분\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· ( ㉠ ) — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "phenylpropene",
+        "청산배당체(cyanogenic glycoside)",
+        "강심배당체",
+        "alkaloid(tropolone)",
+        "indole alkaloid"
+      ],
+      "answer": "phenylpropene",
+      "explanation": "정답: phenylpropene\n\n오답 출처:\n· 강심배당체 → 정력자의 성분 계열\n· alkaloid(tropolone) → 콜히쿰자의 성분 계열\n· 청산배당체(cyanogenic glycoside) → 아마인, 행인의 성분 계열\n· indole alkaloid → 카라발두, 호미카의 성분 계열\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: ( ㉠ )\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "육두구과 Myristicaceae",
+        "야자과 Palmae",
+        "백합과 Liliaceae",
+        "미나리아재비과 Ranunculaceae",
+        "십자화과 Cruciferae"
+      ],
+      "answer": "육두구과 Myristicaceae",
+      "explanation": "정답: 육두구과 Myristicaceae\n\n오답 출처:\n· 야자과 Palmae → 빈랑자의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 십자화과 Cruciferae → 정력자의 과명\n· 백합과 Liliaceae → 콜히쿰자의 과명\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 육두구 · ( ㉠ )\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "Lini Semen",
+        "Myristicae Semen",
+        "Arecae Semen",
+        "Amygdali Semen Amara",
+        "Lepidii seu Descurainiae Semen"
+      ],
+      "answer": "Myristicae Semen",
+      "explanation": "정답: Myristicae Semen\n\n오답 출처:\n· Lepidii seu Descurainiae Semen → 정력자의 라틴 생약명\n· Lini Semen → 아마인의 라틴 생약명\n· Amygdali Semen Amara → 고편도의 라틴 생약명\n· Arecae Semen → 빈랑자의 라틴 생약명\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: ( ㉠ )\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "진해·거담, 행인수 대용",
+        "진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+        "건위·소화·수렴·구충약(조충 구제)",
+        "구풍제(복부 팽만), 방향성 건위제, 향미료",
+        "완하·피부 연화(습포), ○○유"
+      ],
+      "answer": "구풍제(복부 팽만), 방향성 건위제, 향미료",
+      "explanation": "정답: 구풍제(복부 팽만), 방향성 건위제, 향미료\n\n오답 출처:\n· 진해·평천·이뇨 — 담이 많은 기침·천식, 부종 → 정력자의 응용(효능·적응증)\n· 진해·거담, 행인수 대용 → 고편도의 응용(효능·적응증)\n· 완하·피부 연화(습포), ○○유 → 아마인의 응용(효능·적응증)\n· 건위·소화·수렴·구충약(조충 구제) → 빈랑자의 응용(효능·적응증)\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: ( ㉠ )",
+      "choices": [
+        "씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+        "독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망",
+        "과량 → 경련 발작, 질식·피로로 사망",
+        "15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+        "견우자와 배합 금기"
+      ],
+      "answer": "15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "explanation": "정답: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)\n\n오답 출처:\n· 견우자와 배합 금기 → 파두의 주의·독성·금기\n· 과량 → 경련 발작, 질식·피로로 사망 → 호미카의 주의·독성·금기\n· 독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망 → 콜히쿰자의 주의·독성·금기\n· 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아) → 빈랑자의 주의·독성·금기\n\n[카드 요약]\n📇 육두구 · Myristicae Semen\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — ( ㉠ )\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "choices": [
+        "plantasan, plantago-mucilage A",
+        "phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate",
+        "armepavine, N-methylcoclaurine, roemerine",
+        "coixenolide(항암)",
+        "sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A"
+      ],
+      "answer": "coixenolide(항암)",
+      "explanation": "정답: coixenolide(항암)\n\n오답 출처:\n· armepavine, N-methylcoclaurine, roemerine → 연자육의 대표 성분\n· sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A → 산조인의 대표 성분\n· phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate → 파두의 대표 성분\n· plantasan, plantago-mucilage A → 차전자의 대표 성분\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· ( ㉠ ) — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "choices": [
+        "mucilage",
+        "강심배당체",
+        "alkaloid(benzylisoquinoline·aporphine)",
+        "flavonoid",
+        "지방산 ester"
+      ],
+      "answer": "지방산 ester",
+      "explanation": "정답: 지방산 ester\n\n오답 출처:\n· 강심배당체 → 정력자의 성분 계열\n· flavonoid → 토사자, 욱리인의 성분 계열\n· alkaloid(benzylisoquinoline·aporphine) → 연자육의 성분 계열\n· mucilage → 차전자의 성분 계열\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: ( ㉠ )\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "choices": [
+        "질경이과 Plantaginaceae",
+        "벼과 Gramineae",
+        "장미과 Rosaceae",
+        "미나리아재비과 Ranunculaceae",
+        "대극과 Euphorbiaceae"
+      ],
+      "answer": "벼과 Gramineae",
+      "explanation": "정답: 벼과 Gramineae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 장미과 Rosaceae → 행인, 고편도, 도인, 욱리인의 과명\n· 질경이과 Plantaginaceae → 차전자의 과명\n· 대극과 Euphorbiaceae → 파두의 과명\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 의이인 · ( ㉠ )\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "choices": [
+        "Crotonis Semen",
+        "Coicis Semen",
+        "Zizyphi Semen",
+        "Nelumbinis Semen",
+        "Pruni Japonicae Semen"
+      ],
+      "answer": "Coicis Semen",
+      "explanation": "정답: Coicis Semen\n\n오답 출처:\n· Pruni Japonicae Semen → 욱리인의 라틴 생약명\n· Crotonis Semen → 파두의 라틴 생약명\n· Zizyphi Semen → 산조인의 라틴 생약명\n· Nelumbinis Semen → 연자육의 라틴 생약명\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: ( ㉠ )",
+      "choices": [
+        "자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴",
+        "자양강장·진정·지사 — 불면, 설사, 대하",
+        "소염·이뇨·점활·지사·진해",
+        "윤장·통변·이뇨 — 변비, 부종",
+        "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정"
+      ],
+      "answer": "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "explanation": "정답: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n\n오답 출처:\n· 소염·이뇨·점활·지사·진해 → 차전자의 응용(효능·적응증)\n· 자양강장·진정·지사 — 불면, 설사, 대하 → 연자육의 응용(효능·적응증)\n· 윤장·통변·이뇨 — 변비, 부종 → 욱리인의 응용(효능·적응증)\n· 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴 → 토사자의 응용(효능·적응증)\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 의이인 · (라틴명 숨김)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정",
+      "choices": [
+        "Nelumbo nucifera",
+        "Plantago asiatica",
+        "Coix lacryma",
+        "Croton tiglium",
+        "Cuscuta chinensis"
+      ],
+      "answer": "Coix lacryma",
+      "explanation": "정답: Coix lacryma\n\n오답 출처:\n· Croton tiglium → 파두의 기원식물 학명\n· Cuscuta chinensis → 토사자의 기원식물 학명\n· Nelumbo nucifera → 연자육의 기원식물 학명\n· Plantago asiatica → 차전자의 기원식물 학명\n\n[카드 요약]\n📇 의이인 · Coicis Semen\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — ( ㉠ )\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+      "choices": [
+        "amygdalin 2.5~4%",
+        "plantasan, plantago-mucilage A",
+        "amygdalin",
+        "amygdalin, prunasin",
+        "helveticoside, evomonoside"
+      ],
+      "answer": "helveticoside, evomonoside",
+      "explanation": "정답: helveticoside, evomonoside\n\n오답 출처:\n· amygdalin, prunasin → 행인의 대표 성분\n· amygdalin → 도인의 대표 성분\n· plantasan, plantago-mucilage A → 차전자의 대표 성분\n· amygdalin 2.5~4% → 고편도의 대표 성분\n\n[카드 요약]\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· ( ㉠ ) — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+      "choices": [
+        "강심배당체(cardiac glycoside, cardenolide)",
+        "지방산 ester",
+        "강심배당체",
+        "청산배당체(cyanogenic glycoside)",
+        "mucilage"
+      ],
+      "answer": "강심배당체",
+      "explanation": "정답: 강심배당체\n\n오답 출처:\n· 청산배당체(cyanogenic glycoside) → 아마인, 행인의 성분 계열\n· mucilage → 차전자의 성분 계열\n· 지방산 ester → 의이인의 성분 계열\n· 강심배당체(cardiac glycoside, cardenolide) → 스트로판투스의 성분 계열\n\n[카드 요약]\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: ( ㉠ )\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+      "choices": [
+        "십자화과 Cruciferae",
+        "장미과 Rosaceae",
+        "야자과 Palmae",
+        "미나리아재비과 Ranunculaceae",
+        "질경이과 Plantaginaceae"
+      ],
+      "answer": "십자화과 Cruciferae",
+      "explanation": "정답: 십자화과 Cruciferae\n\n오답 출처:\n· 장미과 Rosaceae → 행인, 고편도, 도인, 욱리인의 과명\n· 야자과 Palmae → 빈랑자의 과명\n· 질경이과 Plantaginaceae → 차전자의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n\n[카드 요약]\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 정력자 · ( ㉠ )\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종",
+      "choices": [
+        "Armeniacae Semen",
+        "Plantaginis Semen",
+        "Pruni Japonicae Semen",
+        "Amygdali Semen Amara",
+        "Lepidii seu Descurainiae Semen"
+      ],
+      "answer": "Lepidii seu Descurainiae Semen",
+      "explanation": "정답: Lepidii seu Descurainiae Semen\n\n오답 출처:\n· Amygdali Semen Amara → 고편도의 라틴 생약명\n· Pruni Japonicae Semen → 욱리인의 라틴 생약명\n· Armeniacae Semen → 행인의 라틴 생약명\n· Plantaginis Semen → 차전자의 라틴 생약명\n\n[카드 요약]\n📇 정력자 · Lepidii seu Descurainiae Semen\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종"
+    }
+  ]
+}

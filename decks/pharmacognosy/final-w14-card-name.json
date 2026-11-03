@@ -1,0 +1,254 @@
+{
+  "deckId": "pharmacognosy-final-w14-card-name",
+  "subject": "생약학",
+  "title": "14주 카드 ① 이름 가린 카드 (빈랑자~호미카)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n약리:\n· 구충(조충)\n· 건위\n· 부교감신경 흥분(arecoline — muscarinic 작용약), 중추 흥분\n· 항바이러스·항진균\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "행인",
+        "카라발두",
+        "호미카",
+        "빈랑자",
+        "산조인"
+      ],
+      "answer": "빈랑자",
+      "explanation": "정답: 빈랑자 (Arecae Semen, 檳榔子)\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n약리:\n· 진정: saponin(jujuboside A — 해마 신경 흥분 감소)·flavonoid(swertisin이 가장 강함)·지방유\n· 볶은(炒) ○○이 생 ○○보다 진정 작용이 강함\n· 면역 보강, 항알러지(jujuboside)\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "토사자",
+        "산조인",
+        "의이인",
+        "도인",
+        "연자육"
+      ],
+      "answer": "산조인",
+      "explanation": "정답: 산조인 (Zizyphi Semen, 酸棗仁)\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 토사자 — 메꽃과, flavonoid: hyperoside, quercetin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 도인 — 장미과, 청산배당체: amygdalin\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n약리:\n· 강심: 소화관에서 분해되므로 정맥주사, digitalis보다 속효성이고 체내 축적이 매우 낮음(6시간 후 거의 없음)\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: 중독 → 심실 세동",
+      "choices": [
+        "욱리인",
+        "행인",
+        "정력자",
+        "스트로판투스",
+        "의이인"
+      ],
+      "answer": "스트로판투스",
+      "explanation": "정답: 스트로판투스 (Strophanthi Semen)\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n약리:\n· 완하(점액질·지방유)\n· 콜레스테롤 저하(α-linolenic acid)\n· linamarin 가수분해 → HCN(독성)\n응용: 완하·피부 연화(습포), ○○유\n특징: ⚠ 약리는 족보(linamarin) + 일반 지식(교재 성분 쪽 미확인)",
+      "choices": [
+        "아마인",
+        "스트로판투스",
+        "육두구",
+        "행인",
+        "도인"
+      ],
+      "answer": "아마인",
+      "explanation": "정답: 아마인 (Lini Semen, 亞麻仁)\n기원: 아마 Linum usitatissimum의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 육두구 — 육두구과, phenylpropene: myristicin, trans-isoelemicin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 스트로판투스 — 협죽도과, 강심배당체(cardiac glycoside, cardenolide): G-strophanthin(= ouabain), K-strophanthoside\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 수련과 Nymphaeaceae\n성분:\n· alkaloid(benzylisoquinoline·aporphine) — armepavine, N-methylcoclaurine, roemerine, nuciferine, liriodenine, neferine(연심)\n약리:\n· 진정·수렴(한방: 양심안신, 지사)\n응용: 자양강장·진정·지사 — 불면, 설사, 대하\n특징: 연자심(가운데 녹색 배아)은 매우 쓰다. ⚠ 약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "연자육",
+        "산조인",
+        "의이인",
+        "호미카",
+        "커피두"
+      ],
+      "answer": "연자육",
+      "explanation": "정답: 연자육 (Nelumbinis Semen, 蓮子肉)\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 커피두 — 꼭두서니과, purine alkaloid: caffeine, theobromine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 육두구과 Myristicaceae\n성분:\n· phenylpropene — myristicin, trans-isoelemicin, safrole\n· lignan·neolignan — dihydroguaiaretic acid, fragransol\n· arylalkanone — malabaricone A~C\n· 정유 — α-pinene, camphene\n약리:\n· 구풍·건위: eugenol\n· 항암: dihydroguaiaretic acid\n· 항염증: myristicin, eugenol\n· 환각: myristicin(체내에서 MMDA 같은 amine으로 대사)\n응용: 구풍제(복부 팽만), 방향성 건위제, 향미료\n주의: 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+      "choices": [
+        "빈랑자",
+        "정력자",
+        "아마인",
+        "육두구",
+        "호미카"
+      ],
+      "answer": "육두구",
+      "explanation": "정답: 육두구 (Myristicae Semen, 肉荳蔲)\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 아마인 — 아마과, 청산배당체(cyanogenic glycoside): linamarin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n★ 족보: 육두구 환각 성분 = myristicin"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 벼과 Gramineae\n성분:\n· 지방산 ester — coixenolide(항암)\n· benzoxazinone — coixol\n· 다당류 — coixan A~C\n· 기타 — 전분, 단백질\n약리:\n· 항암: coixenolide\n· 혈당강하(coixan)\n· 소염·진통·진정\n응용: 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정\n특징: ⚠ 성분은 족보(coixenolide) + 일반 지식(교재 성분 쪽 미확인)",
+      "choices": [
+        "산조인",
+        "연자육",
+        "차전자",
+        "파두",
+        "의이인"
+      ],
+      "answer": "의이인",
+      "explanation": "정답: 의이인 (Coicis Semen, 薏苡仁)\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 파두 — 대극과, tigliane phorbol ester(croton resin): phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n★ 족보: 의이인 항암 성분 = coixenolide"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 십자화과 Cruciferae\n성분:\n· 강심배당체 — helveticoside, evomonoside\n· glucosinolate — sinigrin 등 → isothiocyanate\n· 기타 — 지방유\n약리:\n· 강심·이뇨\n· 진해·평천(한방)\n응용: 진해·평천·이뇨 — 담이 많은 기침·천식, 부종\n특징: ⚠ 성분·약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "욱리인",
+        "의이인",
+        "정력자",
+        "고편도",
+        "차전자"
+      ],
+      "answer": "정력자",
+      "explanation": "정답: 정력자 (Lepidii seu Descurainiae Semen, 葶藶子)\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 질경이과 Plantaginaceae\n성분:\n· mucilage — plantasan, plantago-mucilage A\n· iridoid — aucubin, catalpol\n· phenolic glycoside — acteoside, plantamajoside\n약리:\n· 종피 점액질 → 물리적 완하제(변비)\n· 이뇨(수분·요소·NaCl·요산 배설↑)\n· 진해(plantaginin)\n응용: 소염·이뇨·점활·지사·진해\n확인시험: ① 온탕 10분 → 종피가 부풀어 점액 형성 ② 팽화 시험",
+      "choices": [
+        "호미카",
+        "행인",
+        "차전자",
+        "욱리인",
+        "정력자"
+      ],
+      "answer": "차전자",
+      "explanation": "정답: 차전자 (Plantaginis Semen, 車前子)\n기원: 질경이 Plantago asiatica 또는 털질경이 P. depressa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n산지: 서아프리카\n성분:\n· indole alkaloid — physostigmine(= eserine), norphysostigmine, eseramine, geneserine\n약리:\n· 부교감신경 흥분: physostigmine(콜린에스터라제 억제) — 장운동 촉진, 동공 수축, 선분비 항진, 근무력증 개선\n응용: physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독",
+      "choices": [
+        "카라발두",
+        "호미카",
+        "빈랑자",
+        "콜히쿰자",
+        "산조인"
+      ],
+      "answer": "카라발두",
+      "explanation": "정답: 카라발두 (Physostigmatis Semen)\n기원: 카라발콩 Physostigma venenosum의 성숙 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n★ 족보: 카라발두 적응증 = 초기 녹내장·근무력증·수술 후 장마비 (뇌졸중 아님) / ordeal bean = 카라발두 = Physostigma venenosum"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 꼭두서니과 Rubiaceae\n성분:\n· purine alkaloid — caffeine, theobromine, theophylline\n· 기타 — chlorogenic acid, caffeoylquinic acid, cafestol\n약리:\n· 중추 흥분: 대뇌피질 → 졸음 제거\n· 강심·이뇨: caffeine(심근 수축력↑, 관상동맥 확장, 사구체 여과↑)\n· chlorogenic acid: 장 연동 촉진\n응용: 각성제, caffeine 제조 원료, 기호 음료",
+      "choices": [
+        "호미카",
+        "연자육",
+        "산조인",
+        "커피두",
+        "빈랑자"
+      ],
+      "answer": "커피두",
+      "explanation": "정답: 커피두 (Coffeae Semen)\n기원: 커피나무 Coffea arabica, C. liberica, C. canephora의 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n★ 족보: 커피두 과명 = 꼭두서니과 Rubiaceae"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n성분:\n· alkaloid(tropolone) — colchicine, colchicoside, demecolcine, 3-demethylcolchicine\n약리:\n· 통풍 치료: colchicine — 통풍 발작 시 백혈구의 요산 탐식·호중구 탈과립을 억제\n· 유사분열 억제: tubulin 결합 → 방추사 형성 방해\n응용: 통풍 치료제, 염색체 배가제(씨 없는 수박)\n주의: 독성이 강함 — 설사·경련·저혈압·호흡곤란, colchicine 중독량 약 10 mg, 40 mg 이상이면 3일 안에 사망",
+      "choices": [
+        "콜히쿰자",
+        "산조인",
+        "카라발두",
+        "호미카",
+        "빈랑자"
+      ],
+      "answer": "콜히쿰자",
+      "explanation": "정답: 콜히쿰자 (Colchici Semen)\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 메꽃과 Convolvulaceae\n성분:\n· flavonoid — hyperoside, quercetin, kaempferol\n· 기타 — 다당류, lignan\n약리:\n· 보신·강정(한방)\n· 항산화\n응용: 자양강장 — 양위(발기부전), 유정, 요통, 빈뇨, 시력 감퇴\n특징: ⚠ 성분·약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "욱리인",
+        "산조인",
+        "의이인",
+        "도인",
+        "토사자"
+      ],
+      "answer": "토사자",
+      "explanation": "정답: 토사자 (Cuscutae Semen, 菟絲子)\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 대극과 Euphorbiaceae\n성분:\n· tigliane phorbol ester(croton resin) — phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 독성 단백 — crotin\n· 지방유 — croton oil\n약리:\n· 준하: croton oil이 소장 평활근에 직접 작용\n· 피부 자극(croton oil)\n· phorbol ester(TPA)는 강력한 발암 촉진제, crotin은 용혈\n응용: 완고한 변비(준하제), 동상 예방(피부 자극약)\n주의: 견우자와 배합 금기",
+      "choices": [
+        "파두",
+        "카라발두",
+        "콜히쿰자",
+        "의이인",
+        "욱리인"
+      ],
+      "answer": "파두",
+      "explanation": "정답: 파두 (Crotonis Semen, 巴豆)\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 장미과 Rosaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — amygdalin, prunasin\n· steroid — estrone, α-estradiol\n· 효소 — emulsin\n약리:\n· 진해: amygdalin(가수분해 → HCN이 호흡중추 진정)\n· 거담, 통변(윤장)\n· AChE 저해\n응용: 거담·진해·평천·윤장(통변)\n확인시험: ① 물을 넣고 빻으면 benzaldehyde 냄새 ② 데우면 CuSO₄·초산 benzidine 시험지가 청색(HCN)\n주의: 대변이 묽은 사람 주의, 과량 금지(독성)",
+      "choices": [
+        "욱리인",
+        "행인",
+        "도인",
+        "빈랑자",
+        "고편도"
+      ],
+      "answer": "행인",
+      "explanation": "정답: 행인 (Armeniacae Semen, 杏仁)\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 장미과 Rosaceae\n산지: 이탈리아, 프랑스\n성분:\n· 청산배당체 — amygdalin 2.5~4%\n· 효소 — emulsin\n· 지방유(40~45%) — olein, linolein\n약리:\n· 진해(□□과 같음)\n응용: 진해·거담, □□수 대용",
+      "choices": [
+        "고편도",
+        "욱리인",
+        "정력자",
+        "행인",
+        "도인"
+      ],
+      "answer": "고편도",
+      "explanation": "정답: 고편도 (Amygdali Semen Amara, 苦扁桃)\n기원: Prunus amygdalus var. amara의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n★ 족보: amygdalin → 행인·고편도"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 장미과 Rosaceae\n성분:\n· 청산배당체 — amygdalin\n· flavonoid — multiflorin A·B, multinoside A\n약리:\n· 진해·거담\n· 혈액응고 억제(1% 알코올 추출물), 항염증, 해독, 통변\n응용: 소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통\n확인시험: TLC: amygdalin\n주의: 임부 금기",
+      "choices": [
+        "도인",
+        "산조인",
+        "욱리인",
+        "행인",
+        "고편도"
+      ],
+      "answer": "도인",
+      "explanation": "정답: 도인 (Persicae Semen, 桃仁)\n기원: 복숭아 Prunus persica 또는 산복사 P. davidiana의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 장미과 Rosaceae\n성분:\n· flavonoid — prunuside(= multiflorin A), multiflorin B, afzelin\n· 청산배당체 — amygdalin\n약리:\n· 완하·이뇨(한방)\n응용: 윤장·통변·이뇨 — 변비, 부종\n특징: ⚠ 약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "행인",
+        "고편도",
+        "욱리인",
+        "산조인",
+        "도인"
+      ],
+      "answer": "욱리인",
+      "explanation": "정답: 욱리인 (Pruni Japonicae Semen, 郁李仁)\n기원: 이스라지 Prunus japonica 또는 앵두나무 P. humilis의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 마전과 Loganiaceae\n성분:\n· indole alkaloid — strychnine, brucine, strychnine N-oxide\n· iridoid — loganin, secologanin, loganic acid\n약리:\n· 중추 흥분: strychnine → 척수 반사 흥분성↑ → 중독 시 후궁반장(opisthotonus) 경련\n· 건위: 위액 분비 촉진(strychnine, brucine)\n· 가열하면 strychnine·brucine이 크게 줄어듦\n응용: 고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출\n확인시험: ① HNO₃ → 적색(brucine) ② K₂Cr₂O₇ + H₂SO₄ → 자색 → 적색(strychnine)\n주의: 과량 → 경련 발작, 질식·피로로 사망",
+      "choices": [
+        "호미카",
+        "빈랑자",
+        "콜히쿰자",
+        "카라발두",
+        "차전자"
+      ],
+      "answer": "호미카",
+      "explanation": "정답: 호미카 (Strychni Semen)\n기원: 마전자나무 Strychnos nux-vomica의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n★ 족보: 과량 → 경련 발작·질식 사망 → 호미카"
+    }
+  ]
+}

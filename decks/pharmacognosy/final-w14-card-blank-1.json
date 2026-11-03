@@ -1,0 +1,306 @@
+{
+  "deckId": "pharmacognosy-final-w14-card-blank-1",
+  "subject": "생약학",
+  "title": "14주 카드 ② 칸 가린 카드 1/5 (빈랑자~호미카)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — ( ㉠ )\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "physostigmine(= eserine), norphysostigmine, eseramine",
+        "amygdalin, prunasin",
+        "sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A",
+        "strychnine, brucine, strychnine N-oxide",
+        "arecoline, arecaidine, guvacine"
+      ],
+      "answer": "arecoline, arecaidine, guvacine",
+      "explanation": "정답: arecoline, arecaidine, guvacine\n\n오답 출처:\n· strychnine, brucine, strychnine N-oxide → 호미카의 대표 성분\n· sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A → 산조인의 대표 성분\n· physostigmine(= eserine), norphysostigmine, eseramine → 카라발두의 대표 성분\n· amygdalin, prunasin → 행인의 대표 성분\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· ( ㉠ ) — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "pyridine alkaloid",
+        "indole alkaloid",
+        "purine alkaloid",
+        "alkaloid(tropolone)",
+        "alkaloid(benzylisoquinoline·aporphine)"
+      ],
+      "answer": "pyridine alkaloid",
+      "explanation": "정답: pyridine alkaloid\n\n오답 출처:\n· indole alkaloid → 카라발두, 호미카의 성분 계열\n· purine alkaloid → 커피두의 성분 계열\n· alkaloid(tropolone) → 콜히쿰자의 성분 계열\n· alkaloid(benzylisoquinoline·aporphine) → 연자육의 성분 계열\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: ( ㉠ )\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "백합과 Liliaceae",
+        "콩과 Leguminosae",
+        "야자과 Palmae",
+        "갈매나무과 Rhamnaceae"
+      ],
+      "answer": "야자과 Palmae",
+      "explanation": "정답: 야자과 Palmae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 콩과 Leguminosae → 카라발두의 과명\n· 갈매나무과 Rhamnaceae → 산조인의 과명\n· 백합과 Liliaceae → 콜히쿰자의 과명\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 빈랑자 · ( ㉠ )\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "Nelumbinis Semen",
+        "Arecae Semen",
+        "Strychni Semen",
+        "Colchici Semen",
+        "Armeniacae Semen"
+      ],
+      "answer": "Arecae Semen",
+      "explanation": "정답: Arecae Semen\n\n오답 출처:\n· Armeniacae Semen → 행인의 라틴 생약명\n· Colchici Semen → 콜히쿰자의 라틴 생약명\n· Nelumbinis Semen → 연자육의 라틴 생약명\n· Strychni Semen → 호미카의 라틴 생약명\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: ( ㉠ )\n확인시험: Dragendorff 시액 → 황적색\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독",
+        "건위·소화·수렴·구충약(조충 구제)",
+        "자양강장·진정·지사 — 불면, 설사, 대하",
+        "거담·진해·평천·윤장(통변)",
+        "고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출"
+      ],
+      "answer": "건위·소화·수렴·구충약(조충 구제)",
+      "explanation": "정답: 건위·소화·수렴·구충약(조충 구제)\n\n오답 출처:\n· physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독 → 카라발두의 응용(효능·적응증)\n· 거담·진해·평천·윤장(통변) → 행인의 응용(효능·적응증)\n· 자양강장·진정·지사 — 불면, 설사, 대하 → 연자육의 응용(효능·적응증)\n· 고미건위약, 위장 아토니, 소화불량. brucine은 HNO₃ 검출 → 호미카의 응용(효능·적응증)\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: ( ㉠ )\n주의: 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+      "choices": [
+        "FeCl₃ 시액 → 청흑색",
+        "자외선을 쪼이면 강한 형광",
+        "Vitali 반응(발연 질산 + KOH → 자색)",
+        "Bornträger 반응(알칼리 → 적색)",
+        "Dragendorff 시액 → 등황색 침전"
+      ],
+      "answer": "Dragendorff 시액 → 등황색 침전",
+      "explanation": "정답: Dragendorff 시액 → 등황색 침전\n\n오답 출처:\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· 자외선을 쪼이면 강한 형광 → 이 범위 밖의 오답\n· Vitali 반응(발연 질산 + KOH → 자색) → 이 범위 밖의 오답\n· FeCl₃ 시액 → 청흑색 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 빈랑자 · Arecae Semen\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n과: 야자과 Palmae\n성분:\n· pyridine alkaloid — arecoline, arecaidine, guvacine, guvacoline\n· steroid — diosgenin\n· tannin — catechin, arecatannin\n응용: 건위·소화·수렴·구충약(조충 구제)\n확인시험: Dragendorff 시액 → 황적색\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — ( ㉠ )\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약",
+      "choices": [
+        "sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A",
+        "armepavine, N-methylcoclaurine, roemerine",
+        "arecoline, arecaidine, guvacine",
+        "coixenolide(항암)",
+        "amygdalin"
+      ],
+      "answer": "sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A",
+      "explanation": "정답: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n\n오답 출처:\n· arecoline, arecaidine, guvacine → 빈랑자의 대표 성분\n· amygdalin → 도인의 대표 성분\n· coixenolide(항암) → 의이인의 대표 성분\n· armepavine, N-methylcoclaurine, roemerine → 연자육의 대표 성분\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· ( ㉠ ) — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "alkaloid(benzylisoquinoline·aporphine)",
+        "indole alkaloid",
+        "cyclopeptide alkaloid",
+        "지방산 ester",
+        "청산배당체"
+      ],
+      "answer": "cyclopeptide alkaloid",
+      "explanation": "정답: cyclopeptide alkaloid\n\n오답 출처:\n· indole alkaloid → 카라발두, 호미카의 성분 계열\n· alkaloid(benzylisoquinoline·aporphine) → 연자육의 성분 계열\n· 지방산 ester → 의이인의 성분 계열\n· 청산배당체 → 고편도, 도인의 성분 계열\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: ( ㉠ )\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "메꽃과 Convolvulaceae",
+        "장미과 Rosaceae",
+        "야자과 Palmae",
+        "갈매나무과 Rhamnaceae"
+      ],
+      "answer": "갈매나무과 Rhamnaceae",
+      "explanation": "정답: 갈매나무과 Rhamnaceae\n\n오답 출처:\n· 장미과 Rosaceae → 행인, 고편도, 도인, 욱리인의 과명\n· 야자과 Palmae → 빈랑자의 과명\n· 메꽃과 Convolvulaceae → 토사자의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 산조인 · ( ㉠ )\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "Arecae Semen",
+        "Persicae Semen",
+        "Nelumbinis Semen",
+        "Zizyphi Semen",
+        "Physostigmatis Semen"
+      ],
+      "answer": "Zizyphi Semen",
+      "explanation": "정답: Zizyphi Semen\n\n오답 출처:\n· Arecae Semen → 빈랑자의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n· Nelumbinis Semen → 연자육의 라틴 생약명\n· Physostigmatis Semen → 카라발두의 라틴 생약명\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: ( ㉠ )\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "불면증, 진정, 심장질환, 신경강장 — 최면약",
+        "physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독",
+        "자양강장·진정·지사 — 불면, 설사, 대하",
+        "소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통",
+        "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정"
+      ],
+      "answer": "불면증, 진정, 심장질환, 신경강장 — 최면약",
+      "explanation": "정답: 불면증, 진정, 심장질환, 신경강장 — 최면약\n\n오답 출처:\n· 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정 → 의이인의 응용(효능·적응증)\n· 소염성 구어혈약 — 하복부 복만, 월경불순, 타박상 동통, 산후 어혈 통증, 관절통 → 도인의 응용(효능·적응증)\n· physostigmine sulfate·salicylate — 동공 수축·안압 저하(초기 녹내장), 근무력증, 수술 후 장마비, strychnine·atropine·curare 해독 → 카라발두의 응용(효능·적응증)\n· 자양강장·진정·지사 — 불면, 설사, 대하 → 연자육의 응용(효능·적응증)\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 산조인 · (라틴명 숨김)\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색",
+      "choices": [
+        "Nelumbo nucifera",
+        "Physostigma venenosum",
+        "Areca catechu",
+        "Zizyphus jujuba var. spinosa",
+        "Coix lacryma"
+      ],
+      "answer": "Zizyphus jujuba var. spinosa",
+      "explanation": "정답: Zizyphus jujuba var. spinosa\n\n오답 출처:\n· Nelumbo nucifera → 연자육의 기원식물 학명\n· Areca catechu → 빈랑자의 기원식물 학명\n· Physostigma venenosum → 카라발두의 기원식물 학명\n· Coix lacryma → 의이인의 기원식물 학명\n\n[카드 요약]\n📇 산조인 · Zizyphi Semen\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n과: 갈매나무과 Rhamnaceae\n성분:\n· cyclopeptide alkaloid — sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁, mauritine A\n· alkaloid — zizyphusine, nuciferine, caaverine\n· flavonoid(C-glycoside) — swertisin, spinosin\n· dammarane glycoside — jujubogenin, jujuboside A~C\n응용: 불면증, 진정, 심장질환, 신경강장 — 최면약\n확인시험: ether 침출 잔류물 + glacial HOAc + H₂SO₄ → 엷은 적색 → 적자색\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — ( ㉠ )\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n주의: 중독 → 심실 세동",
+      "choices": [
+        "amygdalin, prunasin",
+        "G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β",
+        "myristicin, trans-isoelemicin, safrole",
+        "prunuside(= multiflorin A), multiflorin B, afzelin",
+        "coixenolide(항암)"
+      ],
+      "answer": "G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β",
+      "explanation": "정답: G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β\n\n오답 출처:\n· coixenolide(항암) → 의이인의 대표 성분\n· amygdalin, prunasin → 행인의 대표 성분\n· prunuside(= multiflorin A), multiflorin B, afzelin → 욱리인의 대표 성분\n· myristicin, trans-isoelemicin, safrole → 육두구의 대표 성분\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· ( ㉠ ) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: 중독 → 심실 세동",
+      "choices": [
+        "phenylpropene",
+        "지방산 ester",
+        "flavonoid",
+        "강심배당체(cardiac glycoside, cardenolide)",
+        "청산배당체"
+      ],
+      "answer": "강심배당체(cardiac glycoside, cardenolide)",
+      "explanation": "정답: 강심배당체(cardiac glycoside, cardenolide)\n\n오답 출처:\n· flavonoid → 토사자, 욱리인의 성분 계열\n· 지방산 ester → 의이인의 성분 계열\n· 청산배당체 → 고편도, 도인의 성분 계열\n· phenylpropene → 육두구의 성분 계열\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: ( ㉠ )\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: 중독 → 심실 세동",
+      "choices": [
+        "마전과 Loganiaceae",
+        "벼과 Gramineae",
+        "십자화과 Cruciferae",
+        "협죽도과 Apocynaceae",
+        "육두구과 Myristicaceae"
+      ],
+      "answer": "협죽도과 Apocynaceae",
+      "explanation": "정답: 협죽도과 Apocynaceae\n\n오답 출처:\n· 십자화과 Cruciferae → 정력자의 과명\n· 벼과 Gramineae → 의이인의 과명\n· 마전과 Loganiaceae → 호미카의 과명\n· 육두구과 Myristicaceae → 육두구의 과명\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 스트로판투스 · ( ㉠ )\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: 중독 → 심실 세동",
+      "choices": [
+        "Armeniacae Semen",
+        "Pruni Japonicae Semen",
+        "Persicae Semen",
+        "Strophanthi Semen",
+        "Lepidii seu Descurainiae Semen"
+      ],
+      "answer": "Strophanthi Semen",
+      "explanation": "정답: Strophanthi Semen\n\n오답 출처:\n· Pruni Japonicae Semen → 욱리인의 라틴 생약명\n· Armeniacae Semen → 행인의 라틴 생약명\n· Lepidii seu Descurainiae Semen → 정력자의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: ( ㉠ )\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: 중독 → 심실 세동",
+      "choices": [
+        "급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료",
+        "구풍제(복부 팽만), 방향성 건위제, 향미료",
+        "거담·진해·평천·윤장(통변)",
+        "윤장·통변·이뇨 — 변비, 부종",
+        "배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정"
+      ],
+      "answer": "급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료",
+      "explanation": "정답: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n\n오답 출처:\n· 거담·진해·평천·윤장(통변) → 행인의 응용(효능·적응증)\n· 배농·이뇨(부종·각기·방광결석)·소염·자양·강장·진통·진정 → 의이인의 응용(효능·적응증)\n· 윤장·통변·이뇨 — 변비, 부종 → 욱리인의 응용(효능·적응증)\n· 구풍제(복부 팽만), 방향성 건위제, 향미료 → 육두구의 응용(효능·적응증)\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n산지: 동아프리카·서아프리카의 늪지역\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n주의: ( ㉠ )",
+      "choices": [
+        "중독 → 심실 세동",
+        "과량 → 경련 발작, 질식·피로로 사망",
+        "15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin)",
+        "씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아)",
+        "임부 금기"
+      ],
+      "answer": "중독 → 심실 세동",
+      "explanation": "정답: 중독 → 심실 세동\n\n오답 출처:\n· 과량 → 경련 발작, 질식·피로로 사망 → 호미카의 주의·독성·금기\n· 임부 금기 → 도인의 주의·독성·금기\n· 15 g 이상 → 환각·심계항진, 더 많으면 사망(myristicin, isoelemicin) → 육두구의 주의·독성·금기\n· 씹는 습관(betel) → N-nitrosamine류로 구강점막암 의심(동남아) → 빈랑자의 주의·독성·금기\n\n[카드 요약]\n📇 스트로판투스 · Strophanthi Semen\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n과: 협죽도과 Apocynaceae\n성분:\n· 강심배당체(cardiac glycoside, cardenolide) — G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β, cymarin\n응용: 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료\n확인시험: 절편 + 80% H₂SO₄ → 배유부분·자엽 진한 녹색\n★ 족보: ouabain → 스트로판투스"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — ( ㉠ )\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유",
+      "choices": [
+        "amygdalin, prunasin",
+        "linamarin",
+        "myristicin, trans-isoelemicin, safrole",
+        "amygdalin",
+        "G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β"
+      ],
+      "answer": "linamarin",
+      "explanation": "정답: linamarin\n\n오답 출처:\n· G-strophanthin(= ouabain), K-strophanthoside, K-strophanthin-β → 스트로판투스의 대표 성분\n· myristicin, trans-isoelemicin, safrole → 육두구의 대표 성분\n· amygdalin → 도인의 대표 성분\n· amygdalin, prunasin → 행인의 대표 성분\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· ( ㉠ ) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유",
+      "choices": [
+        "강심배당체(cardiac glycoside, cardenolide)",
+        "강심배당체",
+        "청산배당체(cyanogenic glycoside)",
+        "청산배당체",
+        "cyclopeptide alkaloid"
+      ],
+      "answer": "청산배당체(cyanogenic glycoside)",
+      "explanation": "정답: 청산배당체(cyanogenic glycoside)\n\n오답 출처:\n· 강심배당체(cardiac glycoside, cardenolide) → 스트로판투스의 성분 계열\n· 강심배당체 → 정력자의 성분 계열\n· cyclopeptide alkaloid → 산조인의 성분 계열\n· 청산배당체 → 고편도, 도인의 성분 계열\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: ( ㉠ )\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유",
+      "choices": [
+        "협죽도과 Apocynaceae",
+        "갈매나무과 Rhamnaceae",
+        "십자화과 Cruciferae",
+        "아마과 Linaceae",
+        "육두구과 Myristicaceae"
+      ],
+      "answer": "아마과 Linaceae",
+      "explanation": "정답: 아마과 Linaceae\n\n오답 출처:\n· 십자화과 Cruciferae → 정력자의 과명\n· 육두구과 Myristicaceae → 육두구의 과명\n· 갈매나무과 Rhamnaceae → 산조인의 과명\n· 협죽도과 Apocynaceae → 스트로판투스의 과명\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 아마인 · ( ㉠ )\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유",
+      "choices": [
+        "Persicae Semen",
+        "Strophanthi Semen",
+        "Zizyphi Semen",
+        "Lini Semen",
+        "Myristicae Semen"
+      ],
+      "answer": "Lini Semen",
+      "explanation": "정답: Lini Semen\n\n오답 출처:\n· Strophanthi Semen → 스트로판투스의 라틴 생약명\n· Myristicae Semen → 육두구의 라틴 생약명\n· Persicae Semen → 도인의 라틴 생약명\n· Zizyphi Semen → 산조인의 라틴 생약명\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: ( ㉠ )",
+      "choices": [
+        "급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료",
+        "구풍제(복부 팽만), 방향성 건위제, 향미료",
+        "완하·피부 연화(습포), ○○유",
+        "진해·거담, 행인수 대용",
+        "불면증, 진정, 심장질환, 신경강장 — 최면약"
+      ],
+      "answer": "완하·피부 연화(습포), ○○유",
+      "explanation": "정답: 완하·피부 연화(습포), ○○유\n\n오답 출처:\n· 진해·거담, 행인수 대용 → 고편도의 응용(효능·적응증)\n· 급성 심부전·심장 천식(정맥주사), ouabain(G-strophanthin) 원료 → 스트로판투스의 응용(효능·적응증)\n· 불면증, 진정, 심장질환, 신경강장 — 최면약 → 산조인의 응용(효능·적응증)\n· 구풍제(복부 팽만), 방향성 건위제, 향미료 → 육두구의 응용(효능·적응증)\n\n[카드 요약]\n📇 아마인 · Lini Semen\n기원: 아마 Linum usitatissimum의 씨\n과: 아마과 Linaceae\n성분:\n· 청산배당체(cyanogenic glycoside) — linamarin\n· 지방유 — α-linolenic acid(건성유)\n· lignan — secoisolariciresinol diglucoside\n· 기타 — 점액질\n응용: 완하·피부 연화(습포), 아마인유\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+    }
+  ]
+}
