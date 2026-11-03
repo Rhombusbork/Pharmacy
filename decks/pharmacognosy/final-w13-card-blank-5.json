@@ -1,0 +1,306 @@
+{
+  "deckId": "pharmacognosy-final-w13-card-blank-5",
+  "subject": "생약학",
+  "title": "13주 카드 ② 칸 가린 카드 5/5 (천마~비자)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — ( ㉠ )\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비",
+      "choices": [
+        "alisol A, alisol A monoacetate, alisol B",
+        "cedrol, α-cuparenol",
+        "pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D",
+        "gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol",
+        "cyperene(주성분), α-cyperone, cyperol"
+      ],
+      "answer": "cedrol, α-cuparenol",
+      "explanation": "정답: cedrol, α-cuparenol\n\n오답 출처:\n· gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol → 천마의 대표 성분\n· pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D → 견우자의 대표 성분\n· cyperene(주성분), α-cyperone, cyperol → 향부자의 대표 성분\n· alisol A, alisol A monoacetate, alisol B → 택사의 대표 성분\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· ( ㉠ ) — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비",
+      "choices": [
+        "tetracyclic triterpenoid(protostane)",
+        "sesquiterpenoid",
+        "multiflorane계(D:C-friedo-oleanane) triterpenoid",
+        "sesquiterpenoid(정유 약 1%)",
+        "coumarin(furanocoumarin)"
+      ],
+      "answer": "sesquiterpenoid",
+      "explanation": "정답: sesquiterpenoid\n\n오답 출처:\n· multiflorane계(D:C-friedo-oleanane) triterpenoid → 괄루인의 성분 계열\n· sesquiterpenoid(정유 약 1%) → 향부자의 성분 계열\n· coumarin(furanocoumarin) → 보골지의 성분 계열\n· tetracyclic triterpenoid(protostane) → 택사의 성분 계열\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: ( ㉠ )\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비",
+      "choices": [
+        "난초과 Orchidaceae",
+        "택사과 Alismataceae",
+        "측백나무과 Cupressaceae",
+        "메꽃과 Convolvulaceae",
+        "사초과 Cyperaceae"
+      ],
+      "answer": "측백나무과 Cupressaceae",
+      "explanation": "정답: 측백나무과 Cupressaceae\n\n오답 출처:\n· 사초과 Cyperaceae → 향부자의 과명\n· 메꽃과 Convolvulaceae → 견우자의 과명\n· 택사과 Alismataceae → 택사의 과명\n· 난초과 Orchidaceae → 천마의 과명\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 백자인 · ( ㉠ )\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비",
+      "choices": [
+        "Cyperi Rhizoma",
+        "Psoraleae Semen",
+        "Gastrodiae Rhizoma",
+        "Trichosanthis Semen",
+        "Thujae Semen"
+      ],
+      "answer": "Thujae Semen",
+      "explanation": "정답: Thujae Semen\n\n오답 출처:\n· Cyperi Rhizoma → 향부자의 라틴 생약명\n· Gastrodiae Rhizoma → 천마의 라틴 생약명\n· Psoraleae Semen → 보골지의 라틴 생약명\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: ( ㉠ )",
+      "choices": [
+        "진해·거담·완하 — 마른기침, 변비",
+        "관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증",
+        "부인과(월경불순·월경통), 진통, 건위",
+        "준하제(강한 사하), 이뇨제",
+        "진정·자양·완하 — 불면, 심계, 변비"
+      ],
+      "answer": "진정·자양·완하 — 불면, 심계, 변비",
+      "explanation": "정답: 진정·자양·완하 — 불면, 심계, 변비\n\n오답 출처:\n· 준하제(강한 사하), 이뇨제 → 견우자의 응용(효능·적응증)\n· 진해·거담·완하 — 마른기침, 변비 → 괄루인의 응용(효능·적응증)\n· 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증 → 보골지의 응용(효능·적응증)\n· 부인과(월경불순·월경통), 진통, 건위 → 향부자의 응용(효능·적응증)\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 백자인 · (라틴명 숨김)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비",
+      "choices": [
+        "Pharbitis nil",
+        "Thuja orientalis",
+        "Trichosanthes kirilowii",
+        "Gastrodia elata",
+        "Alisma orientale"
+      ],
+      "answer": "Thuja orientalis",
+      "explanation": "정답: Thuja orientalis\n\n오답 출처:\n· Trichosanthes kirilowii → 괄루인의 기원식물 학명\n· Alisma orientale → 택사의 기원식물 학명\n· Pharbitis nil → 견우자의 기원식물 학명\n· Gastrodia elata → 천마의 기원식물 학명\n\n[카드 요약]\n📇 백자인 · Thujae Semen\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n응용: 진정·자양·완하 — 불면, 심계, 변비"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — ( ㉠ )\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "choices": [
+        "karounidiol, 7-oxoisomultiflorenol, bryonolol",
+        "lablab saponin I, lablaboside A~F",
+        "chrysophanol, emodin, physcion",
+        "hydnocarpic acid, chaulmoogric acid, gorlic acid",
+        "psoralen, angelicin, isopsoralen"
+      ],
+      "answer": "lablab saponin I, lablaboside A~F",
+      "explanation": "정답: lablab saponin I, lablaboside A~F\n\n오답 출처:\n· psoralen, angelicin, isopsoralen → 보골지의 대표 성분\n· karounidiol, 7-oxoisomultiflorenol, bryonolol → 괄루인의 대표 성분\n· hydnocarpic acid, chaulmoogric acid, gorlic acid → 대풍자의 대표 성분\n· chrysophanol, emodin, physcion → 결명자의 대표 성분\n\n[카드 요약]\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: ( ㉠ )\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "choices": [
+        "콩과 Leguminosae",
+        "측백나무과 Cupressaceae",
+        "미나리아재비과 Ranunculaceae",
+        "메꽃과 Convolvulaceae",
+        "박과 Cucurbitaceae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 황련, 히드라스티스근의 과명\n· 박과 Cucurbitaceae → 괄루인의 과명\n· 측백나무과 Cupressaceae → 백자인의 과명\n· 메꽃과 Convolvulaceae → 견우자의 과명\n\n[카드 요약]\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 백편두 · ( ㉠ )\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "choices": [
+        "Dolichos Semen",
+        "Thujae Semen",
+        "Psoraleae Semen",
+        "Trichosanthis Semen",
+        "Brassicae Semen"
+      ],
+      "answer": "Dolichos Semen",
+      "explanation": "정답: Dolichos Semen\n\n오답 출처:\n· Brassicae Semen → 개자의 라틴 생약명\n· Thujae Semen → 백자인의 라틴 생약명\n· Psoraleae Semen → 보골지의 라틴 생약명\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n\n[카드 요약]\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: ( ㉠ )",
+      "choices": [
+        "비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+        "진해·거담·완하 — 마른기침, 변비",
+        "완하·이뇨·명목(눈을 밝게) — 변비, 고혈압, 안질환",
+        "관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증",
+        "진정·자양·완하 — 불면, 심계, 변비"
+      ],
+      "answer": "비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "explanation": "정답: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제\n\n오답 출처:\n· 진해·거담·완하 — 마른기침, 변비 → 괄루인의 응용(효능·적응증)\n· 완하·이뇨·명목(눈을 밝게) — 변비, 고혈압, 안질환 → 결명자의 응용(효능·적응증)\n· 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증 → 보골지의 응용(효능·적응증)\n· 진정·자양·완하 — 불면, 심계, 변비 → 백자인의 응용(효능·적응증)\n\n[카드 요약]\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 백편두 · (라틴명 숨김)\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "choices": [
+        "Thuja orientalis",
+        "Dolichos lablab",
+        "Psoralea corylifolia",
+        "Hydnocarpus anthelmintica",
+        "Cassia tora"
+      ],
+      "answer": "Dolichos lablab",
+      "explanation": "정답: Dolichos lablab\n\n오답 출처:\n· Psoralea corylifolia → 보골지의 기원식물 학명\n· Cassia tora → 결명자의 기원식물 학명\n· Hydnocarpus anthelmintica → 대풍자의 기원식물 학명\n· Thuja orientalis → 백자인의 기원식물 학명\n\n[카드 요약]\n📇 백편두 · Dolichos Semen\n기원: 편두 Dolichos lablab의 씨\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — ( ㉠ )\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "karounidiol, 7-oxoisomultiflorenol, bryonolol",
+        "linoleic acid 위주",
+        "psoralen, angelicin, isopsoralen",
+        "chrysophanol, emodin, physcion",
+        "falcarindiol, panaxynol"
+      ],
+      "answer": "psoralen, angelicin, isopsoralen",
+      "explanation": "정답: psoralen, angelicin, isopsoralen\n\n오답 출처:\n· linoleic acid 위주 → 비자의 대표 성분\n· falcarindiol, panaxynol → 해방풍의 대표 성분\n· karounidiol, 7-oxoisomultiflorenol, bryonolol → 괄루인의 대표 성분\n· chrysophanol, emodin, physcion → 결명자의 대표 성분\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· ( ㉠ ) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "anthraquinone",
+        "polyacetylene",
+        "coumarin(furanocoumarin)",
+        "지방유(35%)",
+        "multiflorane계(D:C-friedo-oleanane) triterpenoid"
+      ],
+      "answer": "coumarin(furanocoumarin)",
+      "explanation": "정답: coumarin(furanocoumarin)\n\n오답 출처:\n· multiflorane계(D:C-friedo-oleanane) triterpenoid → 괄루인의 성분 계열\n· 지방유(35%) → 비자의 성분 계열\n· polyacetylene → 해방풍의 성분 계열\n· anthraquinone → 결명자의 성분 계열\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: ( ㉠ )\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "주목과 Taxaceae",
+        "박과 Cucurbitaceae",
+        "콩과 Leguminosae",
+        "십자화과 Cruciferae",
+        "측백나무과 Cupressaceae"
+      ],
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 주목과 Taxaceae → 비자의 과명\n· 측백나무과 Cupressaceae → 백자인의 과명\n· 십자화과 Cruciferae → 개자, 내복자의 과명\n· 박과 Cucurbitaceae → 괄루인의 과명\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 보골지 · ( ㉠ )\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "Psoraleae Semen",
+        "Torreyae Semen",
+        "Trichosanthis Semen",
+        "Cassiae Semen",
+        "Glehniae Radix cum Rhizoma"
+      ],
+      "answer": "Psoraleae Semen",
+      "explanation": "정답: Psoraleae Semen\n\n오답 출처:\n· Cassiae Semen → 결명자의 라틴 생약명\n· Torreyae Semen → 비자의 라틴 생약명\n· Glehniae Radix cum Rhizoma → 해방풍의 라틴 생약명\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: ( ㉠ )\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+        "구충 및 촌충 구제",
+        "관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증",
+        "발한·해열·진통·진해 — 감기, 두통, 관절통(방풍 대용)",
+        "진정·자양·완하 — 불면, 심계, 변비"
+      ],
+      "answer": "관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증",
+      "explanation": "정답: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n\n오답 출처:\n· 발한·해열·진통·진해 — 감기, 두통, 관절통(방풍 대용) → 해방풍의 응용(효능·적응증)\n· 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제 → 백편두의 응용(효능·적응증)\n· 구충 및 촌충 구제 → 비자의 응용(효능·적응증)\n· 진정·자양·완하 — 불면, 심계, 변비 → 백자인의 응용(효능·적응증)\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: ( ㉠ )",
+      "choices": [
+        "쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+        "임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성",
+        "오래된 기침·각혈에는 쓰지 않음",
+        "고환의 정자 생성 방해, 생식 장애",
+        "장기간 복용해도 비교적 안전"
+      ],
+      "answer": "고환의 정자 생성 방해, 생식 장애",
+      "explanation": "정답: 고환의 정자 생성 방해, 생식 장애\n\n오답 출처:\n· 장기간 복용해도 비교적 안전 → 이 범위 밖의 오답\n· 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지 → 이 범위 밖의 오답\n· 임신 중 금기(알코올 추출물이 유산 유발). 단, 전제(달인 것)는 무방 — 유산 일으키는 단백질이 변성 → 이 범위 밖의 오답\n· 오래된 기침·각혈에는 쓰지 않음 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 보골지 · Psoraleae Semen\n기원: 보골지 Psoralea corylifolia의 씨\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — ( ㉠ )\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "linoleic acid 위주",
+        "berberine, palmatine, coptisine",
+        "lablab saponin I, lablaboside A~F",
+        "psoralen, angelicin, isopsoralen",
+        "hydnocarpic acid, chaulmoogric acid, gorlic acid"
+      ],
+      "answer": "linoleic acid 위주",
+      "explanation": "정답: linoleic acid 위주\n\n오답 출처:\n· psoralen, angelicin, isopsoralen → 보골지의 대표 성분\n· lablab saponin I, lablaboside A~F → 백편두의 대표 성분\n· berberine, palmatine, coptisine → 황련의 대표 성분\n· hydnocarpic acid, chaulmoogric acid, gorlic acid → 대풍자의 대표 성분\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· ( ㉠ ) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "sesquiterpenoid",
+        "대풍자유(59%) — cyclopentenyl 지방산",
+        "saponin",
+        "지방유(35%)",
+        "isoquinoline alkaloid(protoberberine)"
+      ],
+      "answer": "지방유(35%)",
+      "explanation": "정답: 지방유(35%)\n\n오답 출처:\n· sesquiterpenoid → 백자인의 성분 계열\n· isoquinoline alkaloid(protoberberine) → 황련의 성분 계열\n· saponin → 백편두의 성분 계열\n· 대풍자유(59%) — cyclopentenyl 지방산 → 대풍자의 성분 계열\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: ( ㉠ )\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "측백나무과 Cupressaceae",
+        "주목과 Taxaceae",
+        "이나무과 Flacourtiaceae",
+        "메꽃과 Convolvulaceae",
+        "콩과 Leguminosae"
+      ],
+      "answer": "주목과 Taxaceae",
+      "explanation": "정답: 주목과 Taxaceae\n\n오답 출처:\n· 메꽃과 Convolvulaceae → 견우자의 과명\n· 이나무과 Flacourtiaceae → 대풍자의 과명\n· 콩과 Leguminosae → 결명자, 백편두, 보골지의 과명\n· 측백나무과 Cupressaceae → 백자인의 과명\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 비자 · ( ㉠ )\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "Psoraleae Semen",
+        "Trichosanthis Semen",
+        "Thujae Semen",
+        "Torreyae Semen",
+        "Hydnocarpi Semen"
+      ],
+      "answer": "Torreyae Semen",
+      "explanation": "정답: Torreyae Semen\n\n오답 출처:\n· Psoraleae Semen → 보골지의 라틴 생약명\n· Hydnocarpi Semen → 대풍자의 라틴 생약명\n· Thujae Semen → 백자인의 라틴 생약명\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: ( ㉠ )",
+      "choices": [
+        "세균성 설사 지사약, 소염성 고미건위약, 위장약·정장지사약 원료",
+        "구충 및 촌충 구제",
+        "진정·자양·완하 — 불면, 심계, 변비",
+        "진해·거담·완하 — 마른기침, 변비",
+        "관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증"
+      ],
+      "answer": "구충 및 촌충 구제",
+      "explanation": "정답: 구충 및 촌충 구제\n\n오답 출처:\n· 세균성 설사 지사약, 소염성 고미건위약, 위장약·정장지사약 원료 → 황련의 응용(효능·적응증)\n· 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증 → 보골지의 응용(효능·적응증)\n· 진해·거담·완하 — 마른기침, 변비 → 괄루인의 응용(효능·적응증)\n· 진정·자양·완하 — 불면, 심계, 변비 → 백자인의 응용(효능·적응증)\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 비자 · (라틴명 숨김)\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "Thuja orientalis",
+        "Coptis japonica",
+        "Torreya nucifera",
+        "Dolichos lablab",
+        "Trichosanthes kirilowii"
+      ],
+      "answer": "Torreya nucifera",
+      "explanation": "정답: Torreya nucifera\n\n오답 출처:\n· Thuja orientalis → 백자인의 기원식물 학명\n· Coptis japonica → 황련의 기원식물 학명\n· Dolichos lablab → 백편두의 기원식물 학명\n· Trichosanthes kirilowii → 괄루인의 기원식물 학명\n\n[카드 요약]\n📇 비자 · Torreyae Semen\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n응용: 구충 및 촌충 구제\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    }
+  ]
+}

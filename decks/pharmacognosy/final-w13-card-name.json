@@ -1,0 +1,267 @@
+{
+  "deckId": "pharmacognosy-final-w13-card-name",
+  "subject": "생약학",
+  "title": "13주 카드 ① 이름 가린 카드 (천마~비자)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n약리:\n· 진정·진경·진통: gastrodin, 4-hydroxybenzaldehyde, vanillyl alcohol\n· 뇌세포 보호: vanillin, p-hydroxybenzaldehyde\n· 항전간, 항진균\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "천문동",
+        "천마",
+        "현호색",
+        "택사",
+        "백자인"
+      ],
+      "answer": "천마",
+      "explanation": "정답: 천마 (Gastrodiae Rhizoma, 天麻)\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 백자인 — 측백나무과, sesquiterpenoid: cedrol, α-cuparenol\n· 택사 — 택사과, tetracyclic triterpenoid(protostane): alisol A, alisol A monoacetate\n· 현호색 — 양귀비과, isoquinoline alkaloid(protoberberine 등): corydaline, tetrahydropalmatine\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n약리:\n· 진해\n· 간세포 보호, 뇌신경세포 보호\n· 항균, 살충, 항종양\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "괄루인",
+        "토복령",
+        "해방풍",
+        "황정",
+        "천문동"
+      ],
+      "answer": "천문동",
+      "explanation": "정답: 천문동 (Asparagi Tuber, 天門冬)\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 황정 — 백합과, steroidal saponin: sibiricoside A·B, kingianoside A~D\n· 토복령 — 백합과, steroidal saponin: smilax saponin A·B, dioscin\n· 해방풍 — 산형과(미나리과), polyacetylene: falcarindiol, panaxynol\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n약리:\n· 이뇨\n· 항세균, 간세포 보호\n· alisol B: 파골세포 억제(고칼슘혈증 감소), alisol B 23-acetate: P-gp 억제(MDR 역전)\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)",
+      "choices": [
+        "택사",
+        "백자인",
+        "괄루인",
+        "천문동",
+        "향부자"
+      ],
+      "answer": "택사",
+      "explanation": "정답: 택사 (Alismatis Rhizoma, 澤瀉)\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 백자인 — 측백나무과, sesquiterpenoid: cedrol, α-cuparenol\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n약리:\n· 해독·이뇨(수은 배출 증가)\n· 통풍(요산) 억제·신장 보호: astilbin, resveratrol(xanthine oxidase 억제)\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "황정",
+        "토복령",
+        "대풍자",
+        "결명자",
+        "천문동"
+      ],
+      "answer": "토복령",
+      "explanation": "정답: 토복령 (Smilacis Rhizoma, 土茯苓)\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 황정 — 백합과, steroidal saponin: sibiricoside A·B, kingianoside A~D\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 대풍자 — 이나무과, 대풍자유(59%) — cyclopentenyl 지방산: hydnocarpic acid, chaulmoogric acid\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 산형과(미나리과) Umbelliferae\n산지: 중국 서북·화북, 한국 재배(안동·영주)\n성분:\n· polyacetylene — falcarindiol, panaxynol\n· furanocoumarin — imperatorin, bergapten, psoralen\n약리:\n· 해열·진통·진해(방풍과 비슷)\n응용: 발한·해열·진통·진해 — 감기, 두통, 관절통(방풍 대용)\n특징: ⚠ 성분은 족보(falcarindiol) + 일반 지식(교재 성분 쪽 미확인)",
+      "choices": [
+        "향부자",
+        "보골지",
+        "괄루인",
+        "천문동",
+        "해방풍"
+      ],
+      "answer": "해방풍",
+      "explanation": "정답: 해방풍 (Glehniae Radix cum Rhizoma, 海防風)\n기원: 갯방풍 Glehnia littoralis의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 보골지 — 콩과, coumarin(furanocoumarin): psoralen, angelicin\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n★ 족보: 해방풍 polyacetylene = falcarindiol"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 사초과 Cyperaceae\n성분:\n· sesquiterpenoid(정유 약 1%) — cyperene(주성분), α-cyperone, cyperol, cyperotundone, kobusone, β-selinene\n· triterpenoid — oleanolic acid\n· alkaloid — rotundine A~C\n약리:\n· 자궁 수축 억제·진통(자궁근 이완)\n· 위·복통 경감(위액·타액 분비↑, 위연동↑)\n· 항염증(α-cyperone: PG 생합성 억제)\n· 항말라리아(α-cyperone, 10,12-peroxycalamenene)\n응용: 부인과(월경불순·월경통), 진통, 건위\n확인시험: TLC(254 nm, Rf 0.7 흑갈색)",
+      "choices": [
+        "황련",
+        "히드라스티스근",
+        "현호색",
+        "향부자",
+        "택사"
+      ],
+      "answer": "향부자",
+      "explanation": "정답: 향부자 (Cyperi Rhizoma, 香附子)\n기원: 향부자 Cyperus rotundus의 가는 뿌리를 제거한 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 히드라스티스근 — 미나리아재비과, isoquinoline alkaloid: β-hydrastine(산화 → hydrastinine), canadine\n· 택사 — 택사과, tetracyclic triterpenoid(protostane): alisol A, alisol A monoacetate\n· 현호색 — 양귀비과, isoquinoline alkaloid(protoberberine 등): corydaline, tetrahydropalmatine\n· 황련 — 미나리아재비과, isoquinoline alkaloid(protoberberine): berberine, palmatine\n★ 족보: cyperene·α-cyperone(sesquiterpenoid) → 향부자"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 양귀비과 Papaveraceae\n성분:\n· isoquinoline alkaloid(protoberberine 등) — corydaline, tetrahydropalmatine, tetrahydrocoptisine, dehydrocorydaline, protopine, corybulbine\n약리:\n· 진통·진정: 가루의 진통 효과는 아편의 1/100\n· ACTH 분비 촉진\n· 항궤양(위액 분비 억제)\n· 기억력 개선, 중추성 진토\n응용: 정혈·진통·진경 — 두통, 위통, 복통, 월경통(생리불순 하복통), 항궤양약\n확인시험: Mayer 시액 → 황갈색 솜 모양 침전",
+      "choices": [
+        "히드라스티스근",
+        "향부자",
+        "해방풍",
+        "현호색",
+        "황련"
+      ],
+      "answer": "현호색",
+      "explanation": "정답: 현호색 (Corydalis Tuber, 玄胡索)\n기원: 들현호색 Corydalis ternata 또는 연호색 C. yanhusuo의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 황련 — 미나리아재비과, isoquinoline alkaloid(protoberberine): berberine, palmatine\n· 히드라스티스근 — 미나리아재비과, isoquinoline alkaloid: β-hydrastine(산화 → hydrastinine), canadine\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 해방풍 — 산형과(미나리과), polyacetylene: falcarindiol, panaxynol\n★ 족보: corydaline·tetrahydropalmatine → 현호색 / alkaloid 정색반응 → 방기·황백·현호색"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n성분:\n· isoquinoline alkaloid(protoberberine) — berberine, palmatine, coptisine, jateorrhizine, worenine\n· lignan — woorenoside, pinoresinol\n· 기타 — magnoflorine, ferulic acid\n약리:\n· 항미생물: 장내 유해균, 황색포도상구균, 적리균, 콜레라균, 칸디다\n· 항염증, 중추 억제\n· berberine: 항균·항콜레라독소·혈압강하·해열·담즙 분비·콜레스테롤 저하 (항말라리아는 아님)\n응용: 세균성 설사 지사약, 소염성 고미건위약, 위장약·정장지사약 원료\n확인시험: ① HCl + H₂O₂ → 적자색(berberine) ② TLC",
+      "choices": [
+        "향부자",
+        "황련",
+        "현호색",
+        "비자",
+        "히드라스티스근"
+      ],
+      "answer": "황련",
+      "explanation": "정답: 황련 (Coptidis Rhizoma, 黃連)\n기원: 황련 Coptis japonica, 중국황련 C. chinensis, 삼각엽황련 C. deltoidea, 운련 C. teeta의 뿌리줄기(뿌리 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 히드라스티스근 — 미나리아재비과, isoquinoline alkaloid: β-hydrastine(산화 → hydrastinine), canadine\n· 현호색 — 양귀비과, isoquinoline alkaloid(protoberberine 등): corydaline, tetrahydropalmatine\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 비자 — 주목과, 지방유(35%): linoleic acid 위주\n★ 족보: protoberberine 함유: 황련·히드라스티스근·칼룸바·황백 / berberine 약리가 아닌 것 = 항말라리아"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — sibiricoside A·B, kingianoside A~D, PO-1~PO-9(aglycone diosgenin)\n· 기타 — 점액질, 전분, 당분, polygonaquinone\n약리:\n· 자양강장(병후 허약 비장 기능 강화)\n· 혈당강하: steroidal saponin PO-2\n응용: 자양강장 — 병후 허약, 폐결핵, 당뇨\n특징: P. odoratum(둥굴레)은 옥죽(위유)의 기원 → ○○ 아님",
+      "choices": [
+        "토복령",
+        "결명자",
+        "황정",
+        "천문동",
+        "백편두"
+      ],
+      "answer": "황정",
+      "explanation": "정답: 황정 (Polygonati Rhizoma, 黃精)\n기원: 시베리아둥굴레(층층갈고리둥굴레) Polygonatum sibiricum, 진황정 P. falcatum, 전황정 P. kingianum, 다화황정 P. cyrtonema의 뿌리줄기를 찐 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 토복령 — 백합과, steroidal saponin: smilax saponin A·B, dioscin\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 백편두 — 콩과, saponin: lablab saponin I, lablaboside A~F\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n★ 족보: 약전 황정 기원 = P. sibiricum·P. falcatum·P. kingianum (P. odoratum 아님)"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 미나리아재비과 Ranunculaceae\n산지: 북아메리카\n성분:\n· isoquinoline alkaloid — β-hydrastine(산화 → hydrastinine), canadine, berberine\n약리:\n· 혈관수축: hydrastine(hydrastinine이 더 강함)\n· 지혈: hydrastine\n· 항미생물: berberine\n· 소장 연동 감소, 항부정맥, 기관지 확장\n응용: 자궁출혈·월경과다의 지혈제, 살균성 고미건위제",
+      "choices": [
+        "황련",
+        "대풍자",
+        "히드라스티스근",
+        "향부자",
+        "현호색"
+      ],
+      "answer": "히드라스티스근",
+      "explanation": "정답: 히드라스티스근 (Hydrastidis Rhizoma)\n기원: 히드라스티스 Hydrastis canadensis의 뿌리줄기 및 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 황련 — 미나리아재비과, isoquinoline alkaloid(protoberberine): berberine, palmatine\n· 현호색 — 양귀비과, isoquinoline alkaloid(protoberberine 등): corydaline, tetrahydropalmatine\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 대풍자 — 이나무과, 대풍자유(59%) — cyclopentenyl 지방산: hydnocarpic acid, chaulmoogric acid\n★ 족보: 히드라스티스근 효능 = 자궁지혈·혈관수축"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 십자화과 Cruciferae\n성분:\n· 유황 화합물(glucosinolate) — sinigrin → (myrosinase + H₂O) → allyl isothiocyanate\n· phytoalexin — brassinin, cyclobrassinin\n· 기타 — sinapine, sinapic acid\n약리:\n· 피부 자극(발적)\n· 거담\n· 항균, 미백, 항산화, 해독\n응용: 향신료, 가루를 반죽한 습포제(기관지염·폐렴·신경통)\n확인시험: ① 자극성 냄새(allyl isothiocyanate) ② 가수분해·수증기 증류액 + phenylhydrazine → 침상 결정",
+      "choices": [
+        "보골지",
+        "대풍자",
+        "개자",
+        "내복자",
+        "비자"
+      ],
+      "answer": "개자",
+      "explanation": "정답: 개자 (Brassicae Semen, 芥子)\n기원: 갓 Brassica juncea 또는 그 변종의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 내복자 — 십자화과, 지방유(30%): erucic acid, linoleic acid\n· 비자 — 주목과, 지방유(35%): linoleic acid 위주\n· 대풍자 — 이나무과, 대풍자유(59%) — cyclopentenyl 지방산: hydnocarpic acid, chaulmoogric acid\n· 보골지 — 콩과, coumarin(furanocoumarin): psoralen, angelicin\n★ 족보: allyl isothiocyanate ← sinigrin + myrosinase + H₂O → 개자"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 메꽃과 Convolvulaceae\n성분:\n· resin glycoside(수지배당체) — pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D\n약리:\n· 사하: 수지성 pharbitin — 물에 녹지 않아 ○○ 전제(달인 것)는 사하 작용이 없음\n응용: 준하제(강한 사하), 이뇨제\n주의: 과량 → 구토·복통·혈변·혼미. 임부·허약자 금기, 파두와 배합 금기",
+      "choices": [
+        "토복령",
+        "천문동",
+        "결명자",
+        "택사",
+        "견우자"
+      ],
+      "answer": "견우자",
+      "explanation": "정답: 견우자 (Pharbitidis Semen, 牽牛子)\n기원: 나팔꽃 Pharbitis nil 또는 둥근잎나팔꽃 P. purpurea의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 토복령 — 백합과, steroidal saponin: smilax saponin A·B, dioscin\n· 택사 — 택사과, tetracyclic triterpenoid(protostane): alisol A, alisol A monoacetate\n★ 족보: 견우자 한자 = 牽牛子 / 파두와 배합 금기"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· anthraquinone — chrysophanol, emodin, physcion, obtusifolin, aurantio-obtusin\n· naphthalene 유도체 — torachrysone, rubrofusarin, cassiaside\n약리:\n· 이뇨·완하·혈압강하·항염증, 콜레스테롤 저하\n· 항균(피부진균)\n· 간세포 보호(naphthalene 배당체), 눈 건강\n응용: 완하·이뇨·명목(눈을 밝게) — 변비, 고혈압, 안질환",
+      "choices": [
+        "견우자",
+        "천문동",
+        "결명자",
+        "보골지",
+        "백편두"
+      ],
+      "answer": "결명자",
+      "explanation": "정답: 결명자 (Cassiae Semen, 決明子)\n기원: 결명차 Cassia tora 또는 결명 C. obtusifolia의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 보골지 — 콩과, coumarin(furanocoumarin): psoralen, angelicin\n· 백편두 — 콩과, saponin: lablab saponin I, lablaboside A~F\n· 견우자 — 메꽃과, resin glycoside(수지배당체): pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n★ 족보: 콩과 생약: 갈근·감초·고삼·데리스근·황기·결명자·백편두·카라발두"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 박과 Cucurbitaceae\n성분:\n· multiflorane계(D:C-friedo-oleanane) triterpenoid — karounidiol, 7-oxoisomultiflorenol, bryonolol\n· 기타 — 지방유\n약리:\n· 진해·거담\n· 완하(지방유)\n· 항암(karounidiol)\n응용: 진해·거담·완하 — 마른기침, 변비",
+      "choices": [
+        "천문동",
+        "택사",
+        "향부자",
+        "괄루인",
+        "해방풍"
+      ],
+      "answer": "괄루인",
+      "explanation": "정답: 괄루인 (Trichosanthis Semen, 栝樓仁)\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 택사 — 택사과, tetracyclic triterpenoid(protostane): alisol A, alisol A monoacetate\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 천문동 — 백합과, furostan glycoside: asparagus saponin(Asp-IV~VII)\n· 해방풍 — 산형과(미나리과), polyacetylene: falcarindiol, panaxynol\n★ 족보: 박과 2개 = 괄루근·괄루인"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 십자화과 Cruciferae\n성분:\n· 지방유(30%) — erucic acid, linoleic acid\n· 항균 물질 — raphanin\n· 황 함유 stress metabolite — spirobrassinin, brassinin\n· 기타 — sulphoraphene(항암)\n약리:\n· 소화 촉진·거담(한방)\n· 항균(raphanin), 항암(sulphoraphene)\n응용: 소화불량·복부 팽만, 기침·가래\n특징: ⚠ 약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "내복자",
+        "괄루인",
+        "개자",
+        "대풍자",
+        "백편두"
+      ],
+      "answer": "내복자",
+      "explanation": "정답: 내복자 (Raphani Semen, 萊菔子)\n기원: 무 Raphanus sativus의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 개자 — 십자화과, 유황 화합물(glucosinolate): sinigrin → (myrosinase + H₂O) → allyl isothiocyanate\n· 백편두 — 콩과, saponin: lablab saponin I, lablaboside A~F\n· 대풍자 — 이나무과, 대풍자유(59%) — cyclopentenyl 지방산: hydnocarpic acid, chaulmoogric acid\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n★ 족보: 개자의 중간체가 아닌 것들(내복자·정력자·결명자·차전자)과 혼동"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 이나무과 Flacourtiaceae\n산지: 미얀마·인도(자생), 대만 재배\n성분:\n· ○○유(59%) — cyclopentenyl 지방산 — hydnocarpic acid, chaulmoogric acid, gorlic acid\n· flavolignan — hydnocarpin\n· flavonoid — apigenin, luteolin\n약리:\n· 나균(한센병균) 억제: ○○유의 cyclopentenyl 지방산\n· 살충·항균\n응용: 한센병(나병), 피부병(옴·버짐) 외용",
+      "choices": [
+        "결명자",
+        "대풍자",
+        "토복령",
+        "견우자",
+        "괄루인"
+      ],
+      "answer": "대풍자",
+      "explanation": "정답: 대풍자 (Hydnocarpi Semen, 大風子)\n기원: 대풍자 Hydnocarpus anthelmintica 또는 동속 근연식물의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 토복령 — 백합과, steroidal saponin: smilax saponin A·B, dioscin\n· 견우자 — 메꽃과, resin glycoside(수지배당체): pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n★ 족보: 한센병 → 대풍자 / 대풍자 성분 = hydnocarpic acid·chaulmoogric acid·gorlic acid (palmitic acid·myristicin 아님)"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 측백나무과 Cupressaceae\n성분:\n· sesquiterpenoid — cedrol, α-cuparenol\n· diterpenoid — pinusolide\n· 기타 — thujic acid, 지방유(약 14%), 정유, saponin\n약리:\n· 진정·안신(한방)\n· 완하(지방유)\n응용: 진정·자양·완하 — 불면, 심계, 변비\n특징: ⚠ 약리는 교재 첫 쪽만 확인(일반 지식 보충)",
+      "choices": [
+        "택사",
+        "향부자",
+        "괄루인",
+        "천마",
+        "백자인"
+      ],
+      "answer": "백자인",
+      "explanation": "정답: 백자인 (Thujae Semen, 柏子仁)\n기원: 측백나무 Thuja orientalis의 씨(씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 향부자 — 사초과, sesquiterpenoid(정유 약 1%): cyperene(주성분), α-cyperone\n· 택사 — 택사과, tetracyclic triterpenoid(protostane): alisol A, alisol A monoacetate\n· 천마 — 난초과, phenol 배당체(phenolic glycoside): gastrodin, 4-hydroxybenzyl alcohol\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· saponin — lablab saponin I, lablaboside A~F\n· steroid — dolicholide, dolichosterone\n· 기타 — phytoagglutinin A·B(적혈구 응집소), 단백질 22.7%, 탄수화물 57%\n약리:\n· 이뇨\n· phytoagglutinin A: 트립신 활성 억제 → 쥐 성장 억제(끓이면 활성 86~94% 소실)\n응용: 비위허약, 식욕부진, 조육(鳥肉) 중독·식중독의 해독제",
+      "choices": [
+        "보골지",
+        "괄루인",
+        "백편두",
+        "개자",
+        "결명자"
+      ],
+      "answer": "백편두",
+      "explanation": "정답: 백편두 (Dolichos Semen, 白扁豆)\n기원: 편두 Dolichos lablab의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n· 보골지 — 콩과, coumarin(furanocoumarin): psoralen, angelicin\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n· 개자 — 십자화과, 유황 화합물(glucosinolate): sinigrin → (myrosinase + H₂O) → allyl isothiocyanate"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 콩과 Leguminosae\n성분:\n· coumarin(furanocoumarin) — psoralen, angelicin, isopsoralen, bakuchicin\n· terpene phenylpropanoid — bakuchiol\n· coumestan — corylidin, psoralidin\n· isoflavone — psoralenol, corylin, daidzein\n약리:\n· 멜라닌 생성 촉진(psoralen 광감작 → 백반증)\n· 관상동맥 확장, 자궁출혈 억제\n· 항균, 뼈 보호(한방: 보신)\n응용: 관상동맥 확장제, 자궁출혈, 백반병, 탈모, 조갑진균증\n주의: 고환의 정자 생성 방해, 생식 장애",
+      "choices": [
+        "백편두",
+        "비자",
+        "해방풍",
+        "결명자",
+        "보골지"
+      ],
+      "answer": "보골지",
+      "explanation": "정답: 보골지 (Psoraleae Semen, 補骨脂)\n기원: 보골지 Psoralea corylifolia의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 백편두 — 콩과, saponin: lablab saponin I, lablaboside A~F\n· 결명자 — 콩과, anthraquinone: chrysophanol, emodin\n· 해방풍 — 산형과(미나리과), polyacetylene: falcarindiol, panaxynol\n· 비자 — 주목과, 지방유(35%): linoleic acid 위주\n★ 족보: 보골지 생리활성 = 멜라닌 생성 촉진"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드는 어떤 생약일까? (이름·라틴명·기원·관련 생약은 가렸어요. □□는 다른 생약 이름)\n\n📇 ○○\n과: 주목과 Taxaceae\n성분:\n· 지방유(35%) — linoleic acid 위주\n· 잎 정유 — nuciferol, torreyol\n· 줄기 lignan — arctigenin, traxillagenin\n약리:\n· 구충: 고양이 촌충을 구제하는 성분(물·에테르·알코올에 녹지 않고 페놀에 녹음) — 구충병에 유효\n· 간세포·뇌세포 보호(lignan)\n응용: 구충 및 촌충 구제",
+      "choices": [
+        "괄루인",
+        "비자",
+        "백자인",
+        "황련",
+        "대풍자"
+      ],
+      "answer": "비자",
+      "explanation": "정답: 비자 (Torreyae Semen, 榧子)\n기원: 비자나무 Torreya nucifera 또는 비 T. grandis의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 황련 — 미나리아재비과, isoquinoline alkaloid(protoberberine): berberine, palmatine\n· 괄루인 — 박과, multiflorane계(D:C-friedo-oleanane) triterpenoid: karounidiol, 7-oxoisomultiflorenol\n· 백자인 — 측백나무과, sesquiterpenoid: cedrol, α-cuparenol\n· 대풍자 — 이나무과, 대풍자유(59%) — cyclopentenyl 지방산: hydnocarpic acid, chaulmoogric acid\n★ 족보: 구충·살충 생약: 비자·빈랑자·대풍자·여로·고삼·데리스근·백부근"
+    }
+  ]
+}

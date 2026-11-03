@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-w13-card-blank-1",
+  "subject": "생약학",
+  "title": "13주 카드 ② 칸 가린 카드 1/5 (천마~비자)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — ( ㉠ )\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "alisol A, alisol A monoacetate, alisol B",
+        "cedrol, α-cuparenol",
+        "asparagus saponin(Asp-IV~VII)",
+        "cyperene(주성분), α-cyperone, cyperol",
+        "gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol"
+      ],
+      "answer": "gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol",
+      "explanation": "정답: gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol\n\n오답 출처:\n· alisol A, alisol A monoacetate, alisol B → 택사의 대표 성분\n· cyperene(주성분), α-cyperone, cyperol → 향부자의 대표 성분\n· cedrol, α-cuparenol → 백자인의 대표 성분\n· asparagus saponin(Asp-IV~VII) → 천문동의 대표 성분\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· ( ㉠ ) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "furostan glycoside",
+        "isoquinoline alkaloid(protoberberine 등)",
+        "대풍자유(59%) — cyclopentenyl 지방산",
+        "sesquiterpenoid(정유 약 1%)",
+        "phenol 배당체(phenolic glycoside)"
+      ],
+      "answer": "phenol 배당체(phenolic glycoside)",
+      "explanation": "정답: phenol 배당체(phenolic glycoside)\n\n오답 출처:\n· sesquiterpenoid(정유 약 1%) → 향부자의 성분 계열\n· furostan glycoside → 천문동의 성분 계열\n· isoquinoline alkaloid(protoberberine 등) → 현호색의 성분 계열\n· 대풍자유(59%) — cyclopentenyl 지방산 → 대풍자의 성분 계열\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: ( ㉠ )\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "양귀비과 Papaveraceae",
+        "측백나무과 Cupressaceae",
+        "택사과 Alismataceae",
+        "이나무과 Flacourtiaceae",
+        "난초과 Orchidaceae"
+      ],
+      "answer": "난초과 Orchidaceae",
+      "explanation": "정답: 난초과 Orchidaceae\n\n오답 출처:\n· 측백나무과 Cupressaceae → 백자인의 과명\n· 이나무과 Flacourtiaceae → 대풍자의 과명\n· 택사과 Alismataceae → 택사의 과명\n· 양귀비과 Papaveraceae → 현호색의 과명\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 천마 · ( ㉠ )\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "Asparagi Tuber",
+        "Gastrodiae Rhizoma",
+        "Alismatis Rhizoma",
+        "Hydnocarpi Semen",
+        "Thujae Semen"
+      ],
+      "answer": "Gastrodiae Rhizoma",
+      "explanation": "정답: Gastrodiae Rhizoma\n\n오답 출처:\n· Thujae Semen → 백자인의 라틴 생약명\n· Asparagi Tuber → 천문동의 라틴 생약명\n· Hydnocarpi Semen → 대풍자의 라틴 생약명\n· Alismatis Rhizoma → 택사의 라틴 생약명\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: ( ㉠ )",
+      "choices": [
+        "진정·자양·완하 — 불면, 심계, 변비",
+        "한센병(나병), 피부병(옴·버짐) 외용",
+        "진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+        "이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사",
+        "정혈·진통·진경 — 두통, 위통, 복통, 월경통(생리불순 하복통), 항궤양약"
+      ],
+      "answer": "진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "explanation": "정답: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n\n오답 출처:\n· 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사 → 택사의 응용(효능·적응증)\n· 진정·자양·완하 — 불면, 심계, 변비 → 백자인의 응용(효능·적응증)\n· 한센병(나병), 피부병(옴·버짐) 외용 → 대풍자의 응용(효능·적응증)\n· 정혈·진통·진경 — 두통, 위통, 복통, 월경통(생리불순 하복통), 항궤양약 → 현호색의 응용(효능·적응증)\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 천마 · (라틴명 숨김)\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+      "choices": [
+        "Gastrodia elata",
+        "Corydalis ternata",
+        "Cyperus rotundus",
+        "Thuja orientalis",
+        "Hydnocarpus anthelmintica"
+      ],
+      "answer": "Gastrodia elata",
+      "explanation": "정답: Gastrodia elata\n\n오답 출처:\n· Thuja orientalis → 백자인의 기원식물 학명\n· Cyperus rotundus → 향부자의 기원식물 학명\n· Hydnocarpus anthelmintica → 대풍자의 기원식물 학명\n· Corydalis ternata → 현호색의 기원식물 학명\n\n[카드 요약]\n📇 천마 · Gastrodiae Rhizoma\n기원: 천마 Gastrodia elata의 덩이줄기를 쪄서 말린 것\n과: 난초과 Orchidaceae\n성분:\n· phenol 배당체(phenolic glycoside) — gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol, 4-hydroxybenzaldehyde, vanillin\n· phytosterol — β-sitosterol, daucosterol\n응용: 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비\n★ 족보: gastrodin = phenol 배당체 → 천마"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — ( ㉠ )\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식",
+      "choices": [
+        "gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol",
+        "falcarindiol, panaxynol",
+        "chrysophanol, emodin, physcion",
+        "asparagus saponin(Asp-IV~VII)",
+        "karounidiol, 7-oxoisomultiflorenol, bryonolol"
+      ],
+      "answer": "asparagus saponin(Asp-IV~VII)",
+      "explanation": "정답: asparagus saponin(Asp-IV~VII)\n\n오답 출처:\n· chrysophanol, emodin, physcion → 결명자의 대표 성분\n· gastrodin, 4-hydroxybenzyl alcohol, vanillyl alcohol → 천마의 대표 성분\n· falcarindiol, panaxynol → 해방풍의 대표 성분\n· karounidiol, 7-oxoisomultiflorenol, bryonolol → 괄루인의 대표 성분\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· ( ㉠ ) — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "multiflorane계(D:C-friedo-oleanane) triterpenoid",
+        "steroidal saponin",
+        "polyacetylene",
+        "tetracyclic triterpenoid(protostane)",
+        "furostan glycoside"
+      ],
+      "answer": "furostan glycoside",
+      "explanation": "정답: furostan glycoside\n\n오답 출처:\n· steroidal saponin → 토복령, 황정의 성분 계열\n· multiflorane계(D:C-friedo-oleanane) triterpenoid → 괄루인의 성분 계열\n· tetracyclic triterpenoid(protostane) → 택사의 성분 계열\n· polyacetylene → 해방풍의 성분 계열\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: ( ㉠ )\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "난초과 Orchidaceae",
+        "백합과 Liliaceae",
+        "박과 Cucurbitaceae",
+        "산형과(미나리과) Umbelliferae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "백합과 Liliaceae",
+      "explanation": "정답: 백합과 Liliaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 황련, 히드라스티스근의 과명\n· 산형과(미나리과) Umbelliferae → 해방풍의 과명\n· 박과 Cucurbitaceae → 괄루인의 과명\n· 난초과 Orchidaceae → 천마의 과명\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 천문동 · ( ㉠ )\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "Asparagi Tuber",
+        "Trichosanthis Semen",
+        "Smilacis Rhizoma",
+        "Gastrodiae Rhizoma",
+        "Glehniae Radix cum Rhizoma"
+      ],
+      "answer": "Asparagi Tuber",
+      "explanation": "정답: Asparagi Tuber\n\n오답 출처:\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n· Gastrodiae Rhizoma → 천마의 라틴 생약명\n· Glehniae Radix cum Rhizoma → 해방풍의 라틴 생약명\n· Smilacis Rhizoma → 토복령의 라틴 생약명\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: ( ㉠ )\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비",
+        "거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식",
+        "자양강장 — 병후 허약, 폐결핵, 당뇨",
+        "해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+        "발한·해열·진통·진해 — 감기, 두통, 관절통(방풍 대용)"
+      ],
+      "answer": "거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식",
+      "explanation": "정답: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n\n오답 출처:\n· 진정·진경 — 두통, 현기증, 히스테리, 전간, 반신불수, 사지경련, 안면마비 → 천마의 응용(효능·적응증)\n· 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병 → 토복령의 응용(효능·적응증)\n· 발한·해열·진통·진해 — 감기, 두통, 관절통(방풍 대용) → 해방풍의 응용(효능·적응증)\n· 자양강장 — 병후 허약, 폐결핵, 당뇨 → 황정의 응용(효능·적응증)\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 천문동 · (라틴명 숨김)\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC",
+      "choices": [
+        "Glehnia littoralis",
+        "Asparagus cochinchinensis",
+        "Cassia tora",
+        "Polygonatum sibiricum",
+        "Smilax china"
+      ],
+      "answer": "Asparagus cochinchinensis",
+      "explanation": "정답: Asparagus cochinchinensis\n\n오답 출처:\n· Cassia tora → 결명자의 기원식물 학명\n· Glehnia littoralis → 해방풍의 기원식물 학명\n· Polygonatum sibiricum → 황정의 기원식물 학명\n· Smilax china → 토복령의 기원식물 학명\n\n[카드 요약]\n📇 천문동 · Asparagi Tuber\n기원: 천문동 Asparagus cochinchinensis의 덩이뿌리를 뜨거운 물에 삶거나 찐 뒤 겉껍질을 벗겨 말린 것\n과: 백합과 Liliaceae\n성분:\n· furostan glycoside — asparagus saponin(Asp-IV~VII)\n· spirostanol glycoside — asparacoside\n· polyacetylene — asparenydiol\n· phenol — nyasol\n· 기타 — oligosaccharide I~VII, 5-methoxymethylfurfural\n응용: 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식\n확인시험: ① Fehling 시액 → 적갈색 침전 ② TLC"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — ( ㉠ )\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사",
+      "choices": [
+        "cedrol, α-cuparenol",
+        "asparagus saponin(Asp-IV~VII)",
+        "karounidiol, 7-oxoisomultiflorenol, bryonolol",
+        "smilax saponin A·B, dioscin",
+        "alisol A, alisol A monoacetate, alisol B"
+      ],
+      "answer": "alisol A, alisol A monoacetate, alisol B",
+      "explanation": "정답: alisol A, alisol A monoacetate, alisol B\n\n오답 출처:\n· cedrol, α-cuparenol → 백자인의 대표 성분\n· asparagus saponin(Asp-IV~VII) → 천문동의 대표 성분\n· smilax saponin A·B, dioscin → 토복령의 대표 성분\n· karounidiol, 7-oxoisomultiflorenol, bryonolol → 괄루인의 대표 성분\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· ( ㉠ ) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)",
+      "choices": [
+        "tetracyclic triterpenoid(protostane)",
+        "multiflorane계(D:C-friedo-oleanane) triterpenoid",
+        "anthraquinone",
+        "furostan glycoside",
+        "sesquiterpenoid"
+      ],
+      "answer": "tetracyclic triterpenoid(protostane)",
+      "explanation": "정답: tetracyclic triterpenoid(protostane)\n\n오답 출처:\n· anthraquinone → 결명자의 성분 계열\n· sesquiterpenoid → 백자인의 성분 계열\n· multiflorane계(D:C-friedo-oleanane) triterpenoid → 괄루인의 성분 계열\n· furostan glycoside → 천문동의 성분 계열\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: ( ㉠ )\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "박과 Cucurbitaceae",
+        "사초과 Cyperaceae",
+        "택사과 Alismataceae",
+        "백합과 Liliaceae"
+      ],
+      "answer": "택사과 Alismataceae",
+      "explanation": "정답: 택사과 Alismataceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 황련, 히드라스티스근의 과명\n· 박과 Cucurbitaceae → 괄루인의 과명\n· 사초과 Cyperaceae → 향부자의 과명\n· 백합과 Liliaceae → 천문동, 토복령, 황정의 과명\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 택사 · ( ㉠ )\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)",
+      "choices": [
+        "Cassiae Semen",
+        "Cyperi Rhizoma",
+        "Alismatis Rhizoma",
+        "Trichosanthis Semen",
+        "Thujae Semen"
+      ],
+      "answer": "Alismatis Rhizoma",
+      "explanation": "정답: Alismatis Rhizoma\n\n오답 출처:\n· Cyperi Rhizoma → 향부자의 라틴 생약명\n· Cassiae Semen → 결명자의 라틴 생약명\n· Trichosanthis Semen → 괄루인의 라틴 생약명\n· Thujae Semen → 백자인의 라틴 생약명\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: ( ㉠ )\n확인시험: Liebermann-Burchard 반응(triterpenoid)",
+      "choices": [
+        "진해·거담·완하 — 마른기침, 변비",
+        "이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사",
+        "거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식",
+        "부인과(월경불순·월경통), 진통, 건위",
+        "완하·이뇨·명목(눈을 밝게) — 변비, 고혈압, 안질환"
+      ],
+      "answer": "이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사",
+      "explanation": "정답: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n\n오답 출처:\n· 완하·이뇨·명목(눈을 밝게) — 변비, 고혈압, 안질환 → 결명자의 응용(효능·적응증)\n· 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식 → 천문동의 응용(효능·적응증)\n· 진해·거담·완하 — 마른기침, 변비 → 괄루인의 응용(효능·적응증)\n· 부인과(월경불순·월경통), 진통, 건위 → 향부자의 응용(효능·적응증)\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: ( ㉠ )",
+      "choices": [
+        "Dragendorff 시액 → 등황색 침전",
+        "Mayer 시액 → 백색 침전",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Bornträger 반응(알칼리 → 적색)",
+        "FeCl₃ 시액 → 청흑색"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· FeCl₃ 시액 → 청흑색 → 이 범위 밖의 오답\n· Dragendorff 시액 → 등황색 침전 → 이 범위 밖의 오답\n· Mayer 시액 → 백색 침전 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 택사 · Alismatis Rhizoma\n기원: 질경이택사 Alisma orientale의 덩이줄기(잔뿌리·주피 제거)\n과: 택사과 Alismataceae\n성분:\n· tetracyclic triterpenoid(protostane) — alisol A, alisol A monoacetate, alisol B, alisol B 23-acetate, alisol C\n· sesquiterpenoid — alismol, alismoxide\n응용: 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사\n확인시험: Liebermann-Burchard 반응(triterpenoid)\n★ 족보: 택사 기원 = Alisma orientale"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ( ㉠ )\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "hydnocarpic acid, chaulmoogric acid, gorlic acid",
+        "asparagus saponin(Asp-IV~VII)",
+        "sibiricoside A·B, kingianoside A~D, PO-1~PO-9(aglycone diosgenin)",
+        "pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D",
+        "smilax saponin A·B, dioscin"
+      ],
+      "answer": "smilax saponin A·B, dioscin",
+      "explanation": "정답: smilax saponin A·B, dioscin\n\n오답 출처:\n· hydnocarpic acid, chaulmoogric acid, gorlic acid → 대풍자의 대표 성분\n· sibiricoside A·B, kingianoside A~D, PO-1~PO-9(aglycone diosgenin) → 황정의 대표 성분\n· asparagus saponin(Asp-IV~VII) → 천문동의 대표 성분\n· pharbitin(pharbitic acid + tiglic acid 등), pharbitic acid C·D → 견우자의 대표 성분\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· ( ㉠ ) — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "tetracyclic triterpenoid(protostane)",
+        "steroidal saponin",
+        "anthraquinone",
+        "resin glycoside(수지배당체)",
+        "isoquinoline alkaloid(protoberberine)"
+      ],
+      "answer": "steroidal saponin",
+      "explanation": "정답: steroidal saponin\n\n오답 출처:\n· resin glycoside(수지배당체) → 견우자의 성분 계열\n· anthraquinone → 결명자의 성분 계열\n· isoquinoline alkaloid(protoberberine) → 황련의 성분 계열\n· tetracyclic triterpenoid(protostane) → 택사의 성분 계열\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: ( ㉠ )\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "콩과 Leguminosae",
+        "백합과 Liliaceae",
+        "메꽃과 Convolvulaceae",
+        "이나무과 Flacourtiaceae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "백합과 Liliaceae",
+      "explanation": "정답: 백합과 Liliaceae\n\n오답 출처:\n· 이나무과 Flacourtiaceae → 대풍자의 과명\n· 콩과 Leguminosae → 결명자, 백편두, 보골지의 과명\n· 미나리아재비과 Ranunculaceae → 황련, 히드라스티스근의 과명\n· 메꽃과 Convolvulaceae → 견우자의 과명\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 토복령 · ( ㉠ )\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "Smilacis Rhizoma",
+        "Pharbitidis Semen",
+        "Asparagi Tuber",
+        "Polygonati Rhizoma",
+        "Cassiae Semen"
+      ],
+      "answer": "Smilacis Rhizoma",
+      "explanation": "정답: Smilacis Rhizoma\n\n오답 출처:\n· Polygonati Rhizoma → 황정의 라틴 생약명\n· Pharbitidis Semen → 견우자의 라틴 생약명\n· Asparagi Tuber → 천문동의 라틴 생약명\n· Cassiae Semen → 결명자의 라틴 생약명\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: ( ㉠ )",
+      "choices": [
+        "자양강장 — 병후 허약, 폐결핵, 당뇨",
+        "준하제(강한 사하), 이뇨제",
+        "이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사",
+        "해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+        "거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식"
+      ],
+      "answer": "해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "explanation": "정답: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n\n오답 출처:\n· 이뇨·지갈 — 소변불리, 구갈, 위내정수, 신염 수종, 장염 설사 → 택사의 응용(효능·적응증)\n· 준하제(강한 사하), 이뇨제 → 견우자의 응용(효능·적응증)\n· 자양강장 — 병후 허약, 폐결핵, 당뇨 → 황정의 응용(효능·적응증)\n· 거담·진해·이뇨·완화·자양강장 — 각혈, 기침, 구갈, 당뇨, 폐결핵, 천식 → 천문동의 응용(효능·적응증)\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 토복령 · (라틴명 숨김)\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병",
+      "choices": [
+        "Polygonatum sibiricum",
+        "Hydnocarpus anthelmintica",
+        "Asparagus cochinchinensis",
+        "Smilax china",
+        "Cassia tora"
+      ],
+      "answer": "Smilax china",
+      "explanation": "정답: Smilax china\n\n오답 출처:\n· Asparagus cochinchinensis → 천문동의 기원식물 학명\n· Cassia tora → 결명자의 기원식물 학명\n· Hydnocarpus anthelmintica → 대풍자의 기원식물 학명\n· Polygonatum sibiricum → 황정의 기원식물 학명\n\n[카드 요약]\n📇 토복령 · Smilacis Rhizoma\n기원: 청미래덩굴(명감나무) Smilax china 또는 광엽발계 S. glabra의 뿌리줄기\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — smilax saponin A·B, dioscin\n· flavonoid — astilbin, engeletin\n· stilbene — resveratrol, oxyresveratrol\n· 기타 — 다량의 전분\n응용: 해독·이뇨 — 매독, 수은 중독, 관절통, 피부병\n★ 족보: 매독 → 토복령"
+    }
+  ]
+}
