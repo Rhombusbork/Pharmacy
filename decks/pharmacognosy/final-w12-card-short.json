@@ -1,0 +1,250 @@
+{
+  "deckId": "pharmacognosy-final-w12-card-short",
+  "subject": "생약학",
+  "title": "12주 카드 ③ 주관식: 라틴명·지표·산지 → 생약 (대황~천남성)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "라틴 생약명이 Rhei Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "대황",
+        "大黃"
+      ],
+      "explanation": "Rhei Radix et Rhizoma = 대황(大黃)\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거) — 마디풀과(여뀌과) Polygonaceae\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Liriopis seu Ophiopogonis Tuber인 생약의 한글 이름은?",
+      "answer": [
+        "맥문동",
+        "麥門冬"
+      ],
+      "explanation": "Liriopis seu Ophiopogonis Tuber = 맥문동(麥門冬)\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부 — 백합과 Liliaceae\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 3,
+      "question": "라틴 생약명이 Imperatae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "모근",
+        "茅根"
+      ],
+      "explanation": "Imperatae Rhizoma = 모근(茅根)\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거) — 벼과 Gramineae"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Pinelliae Tuber인 생약의 한글 이름은?",
+      "answer": [
+        "반하",
+        "半夏"
+      ],
+      "explanation": "Pinelliae Tuber = 반하(半夏)\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거) — 천남성과 Araceae\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 5,
+      "question": "라틴 생약명이 Sinomeni Caulis et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "방기",
+        "防己"
+      ],
+      "explanation": "Sinomeni Caulis et Rhizoma = 방기(防己)\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기 — 방기과(새모래덩굴과) Menispermaceae\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Atractylodis Rhizoma Alba인 생약의 한글 이름은?",
+      "answer": [
+        "백출",
+        "白朮"
+      ],
+      "explanation": "Atractylodis Rhizoma Alba = 백출(白朮)\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기 — 국화과 Compositae\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 7,
+      "question": "라틴 생약명이 Atractylodis Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "창출",
+        "蒼朮"
+      ],
+      "explanation": "Atractylodis Rhizoma = 창출(蒼朮)\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기 — 국화과 Compositae\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 8,
+      "question": "라틴 생약명이 Lilii Bulbus인 생약의 한글 이름은?",
+      "answer": [
+        "백합",
+        "百合"
+      ],
+      "explanation": "Lilii Bulbus = 백합(百合)\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기 — 백합과 Liliaceae\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 9,
+      "question": "라틴 생약명이 Dioscoreae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "산약",
+        "山藥"
+      ],
+      "explanation": "Dioscoreae Rhizoma = 산약(山藥)\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것 — 마과 Dioscoreaceae\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 10,
+      "question": "라틴 생약명이 Sparganii Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "삼릉",
+        "三稜"
+      ],
+      "explanation": "Sparganii Rhizoma = 삼릉(三稜)\n기원: 흑삼릉 Sparganium stoloniferum의 덩이줄기 — 흑삼릉과 Sparganiaceae\n★ 족보: 삼릉 효능 = 통경·구어혈"
+    },
+    {
+      "id": 11,
+      "question": "라틴 생약명이 Acori Graminei Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "석창포",
+        "石菖蒲"
+      ],
+      "explanation": "Acori Graminei Rhizoma = 석창포(石菖蒲)\n기원: 석창포 Acorus gramineus의 뿌리줄기 — 천남성과 Araceae"
+    },
+    {
+      "id": 12,
+      "question": "라틴 생약명이 Scopoliae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "스코폴리아근"
+      ],
+      "explanation": "Scopoliae Rhizoma = 스코폴리아근()\n기원: 미치광이풀 Scopolia japonica 또는 S. carniolica의 뿌리줄기 — 가지과 Solanaceae\n★ 족보: Vitali 반응 → 스코폴리아근 / hyoscyamine·scopolamine → 스코폴리아근 / 가지과 3개 = 스코폴리아근·벨라돈나근·히요스엽"
+    },
+    {
+      "id": 13,
+      "question": "라틴 생약명이 Belladonnae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "벨라돈나근"
+      ],
+      "explanation": "Belladonnae Radix = 벨라돈나근()\n기원: 벨라돈나 Atropa belladonna의 뿌리 — 가지과 Solanaceae"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Daturae Folium인 생약의 한글 이름은?",
+      "answer": [
+        "다투라엽"
+      ],
+      "explanation": "Daturae Folium = 다투라엽()\n기원: 독말풀 Datura stramonium, 흰독말풀 D. metel의 꽃 필 때의 잎 — 가지과 Solanaceae"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Cimicifugae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "승마",
+        "升麻"
+      ],
+      "explanation": "Cimicifugae Rhizoma = 승마(升麻)\n기원: 승마 Cimicifuga heracleifolia, 촛대승마 C. simplex, 눈빛승마 C. dahurica, 황새승마 C. foetida의 뿌리줄기 — 미나리아재비과 Ranunculaceae\n★ 족보: 승마 과명 = 미나리아재비과 Ranunculaceae / visnagin·cimifugin·visamminol = chromone → 승마 / cycloartane 갱년기 생약 → 승마"
+    },
+    {
+      "id": 16,
+      "question": "라틴 생약명이 Curcumae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "아출",
+        "莪朮"
+      ],
+      "explanation": "Curcumae Rhizoma = 아출(莪朮)\n기원: 봉아출 Curcuma phaeocaulis, 광서아출 C. kwangsiensis, 온울금 C. wenyujin의 뿌리줄기(그대로 또는 쪄서 말림) — 생강과 Zingiberaceae\n★ 족보: 생강과 생약: 강황·생강·아출·울금"
+    },
+    {
+      "id": 17,
+      "question": "라틴 생약명이 Veratri Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "여로",
+        "藜蘆"
+      ],
+      "explanation": "Veratri Rhizoma = 여로(藜蘆)\n기원: 참여로 Veratrum nigrum var. ussuriense 또는 박새 V. oxysepalum의 뿌리줄기와 뿌리 — 백합과 Liliaceae\n★ 족보: 살충·구충 생약 → 여로 / 백합과 → 지모·여로"
+    },
+    {
+      "id": 18,
+      "question": "라틴 생약명이 Fritillariae Thunbergii Bulbus인 생약의 한글 이름은?",
+      "answer": [
+        "절패모",
+        "浙貝母"
+      ],
+      "explanation": "Fritillariae Thunbergii Bulbus = 절패모(浙貝母)\n기원: 중국패모 Fritillaria thunbergii의 비늘줄기 — 백합과 Liliaceae\n★ 족보: peimine·peiminoside → 절패모 / 법제 필수: 부자·천오·초오·절패모"
+    },
+    {
+      "id": 19,
+      "question": "라틴 생약명이 Anemarrhenae Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "지모",
+        "知母"
+      ],
+      "explanation": "Anemarrhenae Rhizoma = 지모(知母)\n기원: 지모 Anemarrhena asphodeloides의 뿌리줄기 — 백합과 Liliaceae\n★ 족보: mangiferin 0.7% → 지모 / 지모 혈당강하 성분 = anemaran A / 지모 확인시험 = LB·기포"
+    },
+    {
+      "id": 20,
+      "question": "라틴 생약명이 Nupharis Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "천골",
+        "川骨"
+      ],
+      "explanation": "Nupharis Rhizoma = 천골(川骨)\n기원: 개연꽃 Nuphar japonicum의 뿌리줄기 — 수련과 Nymphaeaceae"
+    },
+    {
+      "id": 21,
+      "question": "라틴 생약명이 Cnidii Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "천궁",
+        "川芎"
+      ],
+      "explanation": "Cnidii Rhizoma = 천궁(川芎)\n기원: 천궁 Cnidium officinale 또는 중국천궁 Ligusticum chuanxiong의 뿌리줄기(그대로 또는 끓는 물에 데침) — 산형과(미나리과) Umbelliferae\n★ 족보: 천궁 효능 = 진경·진정·혈압강하·혈류개선 / phthalide(cnidilide·ligustilide) → 천궁 / 사물탕 구성 생약"
+    },
+    {
+      "id": 22,
+      "question": "라틴 생약명이 Arisaematis Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "천남성",
+        "天南星"
+      ],
+      "explanation": "Arisaematis Rhizoma = 천남성(天南星)\n기원: 둥근잎천남성 Arisaema amurense, 천남성 A. erubescens, 두루미천남성 A. heterophyllum의 덩이줄기(주피 완전 제거) — 천남성과 Araceae\n★ 족보: 천남성 적응증 = 중풍·소아경기(각기·갑상선종 아님) / 천남성과: 반하·천남성·석창포"
+    },
+    {
+      "id": 23,
+      "question": "약전에서 'sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "대황"
+      ],
+      "explanation": "대황 (Rhei Radix et Rhizoma) — 마디풀과(여뀌과) Polygonaceae\n대표 성분: dianthrone glycoside — sennoside A~F\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 24,
+      "question": "산지가 '중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉'인 생약은?",
+      "answer": [
+        "대황"
+      ],
+      "explanation": "대황 (Rhei Radix et Rhizoma) — 마디풀과(여뀌과) Polygonaceae\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 25,
+      "question": "약전에서 'hyoscyamine + scopolamine 0.29% 이상(족보: 0.3%)'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "스코폴리아근"
+      ],
+      "explanation": "스코폴리아근 (Scopoliae Rhizoma) — 가지과 Solanaceae\n대표 성분: tropane alkaloid — (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine, apoatropine\n★ 족보: Vitali 반응 → 스코폴리아근 / hyoscyamine·scopolamine → 스코폴리아근 / 가지과 3개 = 스코폴리아근·벨라돈나근·히요스엽"
+    },
+    {
+      "id": 26,
+      "question": "산지가 '유럽'인 생약은?",
+      "answer": [
+        "벨라돈나근"
+      ],
+      "explanation": "벨라돈나근 (Belladonnae Radix) — 가지과 Solanaceae"
+    },
+    {
+      "id": 27,
+      "question": "약전에서 'mangiferin 0.7% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "지모"
+      ],
+      "explanation": "지모 (Anemarrhenae Rhizoma) — 백합과 Liliaceae\n대표 성분: steroidal saponin — timosaponin A-I~A-IV(aglycone sarsasapogenin)\n★ 족보: mangiferin 0.7% → 지모 / 지모 혈당강하 성분 = anemaran A / 지모 확인시험 = LB·기포"
+    },
+    {
+      "id": 28,
+      "question": "산지가 '한국 중부·남부, 중국, 일본'인 생약은?",
+      "answer": [
+        "천골"
+      ],
+      "explanation": "천골 (Nupharis Rhizoma) — 수련과 Nymphaeaceae"
+    }
+  ]
+}

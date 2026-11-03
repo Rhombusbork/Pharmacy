@@ -1,0 +1,358 @@
+{
+  "deckId": "pharmacognosy-final-w12-card-blank-2",
+  "subject": "생약학",
+  "title": "12주 카드 ② 칸 가린 카드 2/5 (대황~천남성)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 방기 · ( ㉠ )\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)",
+      "choices": [
+        "Sinomeni Caulis et Rhizoma",
+        "Veratri Rhizoma",
+        "Fritillariae Thunbergii Bulbus",
+        "Belladonnae Radix",
+        "Daturae Folium"
+      ],
+      "answer": "Sinomeni Caulis et Rhizoma",
+      "explanation": "정답: Sinomeni Caulis et Rhizoma\n\n오답 출처:\n· Daturae Folium → 다투라엽의 라틴 생약명\n· Belladonnae Radix → 벨라돈나근의 라틴 생약명\n· Fritillariae Thunbergii Bulbus → 절패모의 라틴 생약명\n· Veratri Rhizoma → 여로의 라틴 생약명\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: ( ㉠ )\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)",
+      "choices": [
+        "진통·진경, 스코폴리아엑스(위산과다·위경련·십이지장궤양), 황산아트로핀·브롬화수소산스코폴라민 원료",
+        "부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통",
+        "진해·거담(기관지염·상기도 감염의 기침), 배농",
+        "이뇨·지혈·강장 — 부종, 산후 출혈, 타박상",
+        "혈압강하제, 피부질환(외용), 농업용 살충제"
+      ],
+      "answer": "부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통",
+      "explanation": "정답: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n\n오답 출처:\n· 진해·거담(기관지염·상기도 감염의 기침), 배농 → 절패모의 응용(효능·적응증)\n· 이뇨·지혈·강장 — 부종, 산후 출혈, 타박상 → 천골의 응용(효능·적응증)\n· 혈압강하제, 피부질환(외용), 농업용 살충제 → 여로의 응용(효능·적응증)\n· 진통·진경, 스코폴리아엑스(위산과다·위경련·십이지장궤양), 황산아트로핀·브롬화수소산스코폴라민 원료 → 스코폴리아근의 응용(효능·적응증)\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ( ㉠ )",
+      "choices": [
+        "기포 시험(흔들면 지속성 거품)",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Bornträger 반응(알칼리 → 적색)",
+        "자외선을 쪼이면 강한 형광",
+        "Dragendorff 시액 → 등황색 침전"
+      ],
+      "answer": "Dragendorff 시액 → 등황색 침전",
+      "explanation": "정답: Dragendorff 시액 → 등황색 침전\n\n오답 출처:\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열) → 맥문동, 산약, 절패모, 지모, 천남성의 확인시험\n· 자외선을 쪼이면 강한 형광 → 대황의 확인시험\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — ( ㉠ )\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태",
+      "choices": [
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)",
+        "atractylon, atractylenolide I~III",
+        "β-eudesmol, hinesol, atractylon",
+        "curzerenone, ar-turmerone, zederone",
+        "β-asarone(주성분), α-asarone, caryophyllene"
+      ],
+      "answer": "atractylon, atractylenolide I~III",
+      "explanation": "정답: atractylon, atractylenolide I~III\n\n오답 출처:\n· β-eudesmol, hinesol, atractylon → 창출의 대표 성분\n· curzerenone, ar-turmerone, zederone → 아출의 대표 성분\n· β-asarone(주성분), α-asarone, caryophyllene → 석창포의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· ( ㉠ ) — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음",
+      "choices": [
+        "quinolizidine alkaloid",
+        "정유(1~5%) sesquiterpenoid",
+        "sesquiterpenoid",
+        "정유(0.5~0.9%, phenylpropanoid)",
+        "steroidal saponin"
+      ],
+      "answer": "sesquiterpenoid",
+      "explanation": "정답: sesquiterpenoid\n\n오답 출처:\n· quinolizidine alkaloid → 천골의 성분 계열\n· steroidal saponin → 맥문동, 산약, 지모의 성분 계열\n· 정유(0.5~0.9%, phenylpropanoid) → 석창포의 성분 계열\n· 정유(1~5%) sesquiterpenoid → 아출의 성분 계열\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: ( ㉠ )\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "국화과 Compositae",
+        "수련과 Nymphaeaceae",
+        "백합과 Liliaceae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "국화과 Compositae",
+      "explanation": "정답: 국화과 Compositae\n\n오답 출처:\n· 수련과 Nymphaeaceae → 천골의 과명\n· 백합과 Liliaceae → 맥문동, 백합, 여로, 절패모, 지모의 과명\n· 산형과(미나리과) Umbelliferae → 천궁의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 백출 · ( ㉠ )\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음",
+      "choices": [
+        "Atractylodis Rhizoma Alba",
+        "Acori Graminei Rhizoma",
+        "Cnidii Rhizoma",
+        "Anemarrhenae Rhizoma",
+        "Curcumae Rhizoma"
+      ],
+      "answer": "Atractylodis Rhizoma Alba",
+      "explanation": "정답: Atractylodis Rhizoma Alba\n\n오답 출처:\n· Anemarrhenae Rhizoma → 지모의 라틴 생약명\n· Curcumae Rhizoma → 아출의 라틴 생약명\n· Cnidii Rhizoma → 천궁의 라틴 생약명\n· Acori Graminei Rhizoma → 석창포의 라틴 생약명\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: ( ㉠ )\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음",
+      "choices": [
+        "이뇨·지혈·강장 — 부종, 산후 출혈, 타박상",
+        "건위·구어혈·통경·진통약",
+        "방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)",
+        "방향성 건위, 진정·이뇨·지한·자양·안태",
+        "해열·이뇨·진정·진해·지사 — 번열, 구갈"
+      ],
+      "answer": "방향성 건위, 진정·이뇨·지한·자양·안태",
+      "explanation": "정답: 방향성 건위, 진정·이뇨·지한·자양·안태\n\n오답 출처:\n· 이뇨·지혈·강장 — 부종, 산후 출혈, 타박상 → 천골의 응용(효능·적응증)\n· 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임) → 창출의 응용(효능·적응증)\n· 해열·이뇨·진정·진해·지사 — 번열, 구갈 → 지모의 응용(효능·적응증)\n· 건위·구어혈·통경·진통약 → 아출의 응용(효능·적응증)\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: ( ㉠ )",
+      "choices": [
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Vitali 반응(발연 질산 + KOH → 자색)",
+        "Bornträger 반응(알칼리 → 적색)",
+        "자외선을 쪼이면 강한 형광",
+        "acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대"
+      ],
+      "answer": "acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대",
+      "explanation": "정답: acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대\n\n오답 출처:\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열) → 맥문동, 산약, 절패모, 지모, 천남성의 확인시험\n· Vitali 반응(발연 질산 + KOH → 자색) → 이 범위 밖의 오답\n· 자외선을 쪼이면 강한 형광 → 대황의 확인시험\n\n[카드 요약]\n📇 백출 · Atractylodis Rhizoma Alba\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — atractylon, atractylenolide I~III\n· sesquiterpene glycoside — atractyloside A·B\n· 다당체 — atractan A~C\n응용: 방향성 건위, 진정·이뇨·지한·자양·안태\n확인시험: EtOH 온침액 + vanillin·HCl → 홍색~홍자색(지속) — 창출은 1분 안에 적색이 나타나지 않음\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — ( ㉠ )\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)",
+      "choices": [
+        "β-eudesmol, hinesol, atractylon",
+        "nupharidine, deoxynupharidine, nupharamine",
+        "β-asarone(주성분), α-asarone, caryophyllene",
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)",
+        "atractylon, atractylenolide I~III"
+      ],
+      "answer": "β-eudesmol, hinesol, atractylon",
+      "explanation": "정답: β-eudesmol, hinesol, atractylon\n\n오답 출처:\n· β-asarone(주성분), α-asarone, caryophyllene → 석창포의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n· nupharidine, deoxynupharidine, nupharamine → 천골의 대표 성분\n· atractylon, atractylenolide I~III → 백출의 대표 성분\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· ( ㉠ ) — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음",
+      "choices": [
+        "cycloartane계 triterpenoid",
+        "sesquiterpenoid",
+        "정유(0.5~0.9%, phenylpropanoid)",
+        "quinolizidine alkaloid",
+        "정유(1~5%) sesquiterpenoid"
+      ],
+      "answer": "sesquiterpenoid",
+      "explanation": "정답: sesquiterpenoid\n\n오답 출처:\n· quinolizidine alkaloid → 천골의 성분 계열\n· cycloartane계 triterpenoid → 승마의 성분 계열\n· 정유(0.5~0.9%, phenylpropanoid) → 석창포의 성분 계열\n· 정유(1~5%) sesquiterpenoid → 아출의 성분 계열\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: ( ㉠ )\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음",
+      "choices": [
+        "수련과 Nymphaeaceae",
+        "벼과 Gramineae",
+        "국화과 Compositae",
+        "백합과 Liliaceae",
+        "미나리아재비과 Ranunculaceae"
+      ],
+      "answer": "국화과 Compositae",
+      "explanation": "정답: 국화과 Compositae\n\n오답 출처:\n· 벼과 Gramineae → 모근의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n· 수련과 Nymphaeaceae → 천골의 과명\n· 백합과 Liliaceae → 맥문동, 백합, 여로, 절패모, 지모의 과명\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 창출 · ( ㉠ )\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음",
+      "choices": [
+        "Anemarrhenae Rhizoma",
+        "Curcumae Rhizoma",
+        "Atractylodis Rhizoma",
+        "Nupharis Rhizoma",
+        "Acori Graminei Rhizoma"
+      ],
+      "answer": "Atractylodis Rhizoma",
+      "explanation": "정답: Atractylodis Rhizoma\n\n오답 출처:\n· Anemarrhenae Rhizoma → 지모의 라틴 생약명\n· Nupharis Rhizoma → 천골의 라틴 생약명\n· Curcumae Rhizoma → 아출의 라틴 생약명\n· Acori Graminei Rhizoma → 석창포의 라틴 생약명\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: ( ㉠ )\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음",
+      "choices": [
+        "해열·이뇨·진정·진해·지사 — 번열, 구갈",
+        "건위·구어혈·통경·진통약",
+        "해열·해독·발한·투진 — 감기 두통, 인후통, 탈항·자궁하수, 갱년기 증상(cycloartane)",
+        "방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)",
+        "방향성 건위, 진정·이뇨·지한·자양·안태"
+      ],
+      "answer": "방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)",
+      "explanation": "정답: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n\n오답 출처:\n· 해열·해독·발한·투진 — 감기 두통, 인후통, 탈항·자궁하수, 갱년기 증상(cycloartane) → 승마의 응용(효능·적응증)\n· 방향성 건위, 진정·이뇨·지한·자양·안태 → 백출의 응용(효능·적응증)\n· 건위·구어혈·통경·진통약 → 아출의 응용(효능·적응증)\n· 해열·이뇨·진정·진해·지사 — 번열, 구갈 → 지모의 응용(효능·적응증)\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 창출 · (라틴명 숨김)\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음",
+      "choices": [
+        "Cimicifuga heracleifolia",
+        "Atractylodes japonica",
+        "Atractylodes lancea",
+        "Anemarrhena asphodeloides",
+        "Nuphar japonicum"
+      ],
+      "answer": "Atractylodes lancea",
+      "explanation": "정답: Atractylodes lancea\n\n오답 출처:\n· Atractylodes japonica → 백출의 기원식물 학명\n· Cimicifuga heracleifolia → 승마의 기원식물 학명\n· Anemarrhena asphodeloides → 지모의 기원식물 학명\n· Nuphar japonicum → 천골의 기원식물 학명\n\n[카드 요약]\n📇 창출 · Atractylodis Rhizoma\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n과: 국화과 Compositae\n성분:\n· sesquiterpenoid — β-eudesmol, hinesol, atractylon, atractylenolide\n· sesquiterpene glycoside — atractyloside A~I\n· polyacetylene — atractylodin\n응용: 방향성 건위·정장·이뇨·발한 — 위내정수(위에 물이 고임)\n확인시험: vanillin·HCl → 1분 이내에 적색~적자색이 나타나지 않음\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — ( ㉠ )\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "choices": [
+        "ophiopogonin A·B·D",
+        "homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)",
+        "lilioside A~C",
+        "jervine, veratramine, veratrosine(jeveratrum) / protoveratrine A·B",
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)"
+      ],
+      "answer": "lilioside A~C",
+      "explanation": "정답: lilioside A~C\n\n오답 출처:\n· homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside) → 반하의 대표 성분\n· jervine, veratramine, veratrosine(jeveratrum) / protoveratrine A·B → 여로의 대표 성분\n· ophiopogonin A·B·D → 맥문동의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· ( ㉠ ) — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "choices": [
+        "phthalide(정유)",
+        "steroidal saponin",
+        "steroidal alkaloid",
+        "phenol",
+        "glycerol glycoside"
+      ],
+      "answer": "glycerol glycoside",
+      "explanation": "정답: glycerol glycoside\n\n오답 출처:\n· phthalide(정유) → 천궁의 성분 계열\n· steroidal alkaloid → 여로, 절패모의 성분 계열\n· steroidal saponin → 맥문동, 산약, 지모의 성분 계열\n· phenol → 반하의 성분 계열\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: ( ㉠ )\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "백합과 Liliaceae",
+        "국화과 Compositae",
+        "벼과 Gramineae",
+        "천남성과 Araceae"
+      ],
+      "answer": "백합과 Liliaceae",
+      "explanation": "정답: 백합과 Liliaceae\n\n오답 출처:\n· 국화과 Compositae → 백출, 창출의 과명\n· 천남성과 Araceae → 반하, 석창포, 천남성의 과명\n· 벼과 Gramineae → 모근의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 백합 · ( ㉠ )\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "choices": [
+        "Fritillariae Thunbergii Bulbus",
+        "Arisaematis Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber",
+        "Veratri Rhizoma",
+        "Lilii Bulbus"
+      ],
+      "answer": "Lilii Bulbus",
+      "explanation": "정답: Lilii Bulbus\n\n오답 출처:\n· Fritillariae Thunbergii Bulbus → 절패모의 라틴 생약명\n· Liriopis seu Ophiopogonis Tuber → 맥문동의 라틴 생약명\n· Veratri Rhizoma → 여로의 라틴 생약명\n· Arisaematis Rhizoma → 천남성의 라틴 생약명\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: ( ㉠ )",
+      "choices": [
+        "진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께",
+        "진경·거담·제습약 — 중풍, 반신불수, 소아경기. 외용(창상)",
+        "진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+        "진해·거담·자양강장·이뇨·지갈, 점활성 소염",
+        "혈압강하제, 피부질환(외용), 농업용 살충제"
+      ],
+      "answer": "진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "explanation": "정답: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n\n오답 출처:\n· 진경·거담·제습약 — 중풍, 반신불수, 소아경기. 외용(창상) → 천남성의 응용(효능·적응증)\n· 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께 → 반하의 응용(효능·적응증)\n· 진해·거담·자양강장·이뇨·지갈, 점활성 소염 → 맥문동의 응용(효능·적응증)\n· 혈압강하제, 피부질환(외용), 농업용 살충제 → 여로의 응용(효능·적응증)\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 백합 · (라틴명 숨김)\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+      "choices": [
+        "Lilium lancifolium",
+        "Liriope platyphylla",
+        "Pinellia ternata",
+        "Fritillaria thunbergii",
+        "Anemarrhena asphodeloides"
+      ],
+      "answer": "Lilium lancifolium",
+      "explanation": "정답: Lilium lancifolium\n\n오답 출처:\n· Pinellia ternata → 반하의 기원식물 학명\n· Anemarrhena asphodeloides → 지모의 기원식물 학명\n· Liriope platyphylla → 맥문동의 기원식물 학명\n· Fritillaria thunbergii → 절패모의 기원식물 학명\n\n[카드 요약]\n📇 백합 · Lilii Bulbus\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· glycerol glycoside — lilioside A~C\n· carotenoid — karpoxanthin, lilixanthin\n· 기타 — 다량의 전분·지방·단백질\n응용: 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안\n★ 족보: 백합 용도 = 진해·거담·진정"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — ( ㉠ )\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)",
+      "choices": [
+        "jervine, veratramine, veratrosine(jeveratrum) / protoveratrine A·B",
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)",
+        "ligustilide, butylidenephthalide, butylphthalide",
+        "dioscin(aglycone diosgenin)",
+        "ophiopogonin A·B·D"
+      ],
+      "answer": "dioscin(aglycone diosgenin)",
+      "explanation": "정답: dioscin(aglycone diosgenin)\n\n오답 출처:\n· ligustilide, butylidenephthalide, butylphthalide → 천궁의 대표 성분\n· ophiopogonin A·B·D → 맥문동의 대표 성분\n· jervine, veratramine, veratrosine(jeveratrum) / protoveratrine A·B → 여로의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· ( ㉠ ) — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)",
+      "choices": [
+        "quinolizidine alkaloid",
+        "steroidal saponin",
+        "cycloartane계 triterpenoid",
+        "기타",
+        "phthalide(정유)"
+      ],
+      "answer": "steroidal saponin",
+      "explanation": "정답: steroidal saponin\n\n오답 출처:\n· phthalide(정유) → 천궁의 성분 계열\n· 기타 → 천남성의 성분 계열\n· quinolizidine alkaloid → 천골의 성분 계열\n· cycloartane계 triterpenoid → 승마의 성분 계열\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: ( ㉠ )\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)",
+      "choices": [
+        "산형과(미나리과) Umbelliferae",
+        "백합과 Liliaceae",
+        "수련과 Nymphaeaceae",
+        "마과 Dioscoreaceae",
+        "벼과 Gramineae"
+      ],
+      "answer": "마과 Dioscoreaceae",
+      "explanation": "정답: 마과 Dioscoreaceae\n\n오답 출처:\n· 백합과 Liliaceae → 맥문동, 백합, 여로, 절패모, 지모의 과명\n· 벼과 Gramineae → 모근의 과명\n· 수련과 Nymphaeaceae → 천골의 과명\n· 산형과(미나리과) Umbelliferae → 천궁의 과명\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 산약 · ( ㉠ )\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)",
+      "choices": [
+        "Veratri Rhizoma",
+        "Anemarrhenae Rhizoma",
+        "Fritillariae Thunbergii Bulbus",
+        "Dioscoreae Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Dioscoreae Rhizoma",
+      "explanation": "정답: Dioscoreae Rhizoma\n\n오답 출처:\n· Liriopis seu Ophiopogonis Tuber → 맥문동의 라틴 생약명\n· Fritillariae Thunbergii Bulbus → 절패모의 라틴 생약명\n· Anemarrhenae Rhizoma → 지모의 라틴 생약명\n· Veratri Rhizoma → 여로의 라틴 생약명\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: ( ㉠ )\n확인시험: Liebermann-Burchard 반응(steroidal saponin)",
+      "choices": [
+        "이뇨·지혈·강장 — 부종, 산후 출혈, 타박상",
+        "진해·거담(기관지염·상기도 감염의 기침), 배농",
+        "혈압강하제, 피부질환(외용), 농업용 살충제",
+        "자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)",
+        "진해·거담·자양강장·이뇨·지갈, 점활성 소염"
+      ],
+      "answer": "자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)",
+      "explanation": "정답: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n\n오답 출처:\n· 진해·거담·자양강장·이뇨·지갈, 점활성 소염 → 맥문동의 응용(효능·적응증)\n· 진해·거담(기관지염·상기도 감염의 기침), 배농 → 절패모의 응용(효능·적응증)\n· 이뇨·지혈·강장 — 부종, 산후 출혈, 타박상 → 천골의 응용(효능·적응증)\n· 혈압강하제, 피부질환(외용), 농업용 살충제 → 여로의 응용(효능·적응증)\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    },
+    {
+      "id": 27,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: ( ㉠ )",
+      "choices": [
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "자외선을 쪼이면 강한 형광",
+        "Bornträger 반응(알칼리 → 적색)",
+        "기포 시험(흔들면 지속성 거품)",
+        "Dragendorff 시액 → 등황색 침전"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· Dragendorff 시액 → 등황색 침전 → 방기, 스코폴리아근의 확인시험\n· Bornträger 반응(알칼리 → 적색) → 이 범위 밖의 오답\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· 자외선을 쪼이면 강한 형광 → 대황의 확인시험\n\n[카드 요약]\n📇 산약 · Dioscoreae Rhizoma\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n과: 마과 Dioscoreaceae\n성분:\n· steroidal saponin — dioscin(aglycone diosgenin)\n· 기타(마) — batatasin I~III, mannan, dioscorin(단백질)\n· 기타(참마) — mucilage, allantoin, dioscoran A~F\n응용: 자양강장·지사. diosgenin(반합성 스테로이드 호르몬 원료)\n확인시험: Liebermann-Burchard 반응(steroidal saponin)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "deckId": "pharmacognosy-final-w12-card-blank-1",
+  "subject": "생약학",
+  "title": "12주 카드 ② 칸 가린 카드 1/5 (대황~천남성)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n지표(약전): ( ㉠ )\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n주의: 임부 금기(골반 충혈)",
+      "choices": [
+        "salvianolic acid 4.1% 이상",
+        "mangiferin 0.7% 이상",
+        "sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상",
+        "hyoscyamine + scopolamine 0.29% 이상(족보: 0.3%)",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상"
+      ],
+      "answer": "sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상",
+      "explanation": "정답: sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n\n오답 출처:\n· mangiferin 0.7% 이상 → 지모의 약전 지표성분·함량\n· hyoscyamine + scopolamine 0.29% 이상(족보: 0.3%) → 스코폴리아근의 약전 지표성분·함량\n· salvianolic acid 4.1% 이상 → 이 범위 밖의 오답\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 2,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n성분:\n· dianthrone glycoside — ( ㉠ )\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n주의: 임부 금기(골반 충혈)",
+      "choices": [
+        "atractylon, atractylenolide I~III",
+        "β-asarone(주성분), α-asarone, caryophyllene",
+        "nupharidine, deoxynupharidine, nupharamine",
+        "cylindrin, arundoin, fernenol",
+        "sennoside A~F"
+      ],
+      "answer": "sennoside A~F",
+      "explanation": "정답: sennoside A~F\n\n오답 출처:\n· nupharidine, deoxynupharidine, nupharamine → 천골의 대표 성분\n· β-asarone(주성분), α-asarone, caryophyllene → 석창포의 대표 성분\n· cylindrin, arundoin, fernenol → 모근의 대표 성분\n· atractylon, atractylenolide I~III → 백출의 대표 성분\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 3,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· ( ㉠ ) — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n주의: 임부 금기(골반 충혈)",
+      "choices": [
+        "dianthrone glycoside",
+        "triterpenoid",
+        "정유(1~5%) sesquiterpenoid",
+        "quinolizidine alkaloid",
+        "sesquiterpenoid"
+      ],
+      "answer": "dianthrone glycoside",
+      "explanation": "정답: dianthrone glycoside\n\n오답 출처:\n· sesquiterpenoid → 백출, 창출의 성분 계열\n· triterpenoid → 모근, 삼릉의 성분 계열\n· quinolizidine alkaloid → 천골의 성분 계열\n· 정유(1~5%) sesquiterpenoid → 아출의 성분 계열\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 4,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: ( ㉠ )\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n주의: 임부 금기(골반 충혈)",
+      "choices": [
+        "천남성과 Araceae",
+        "마디풀과(여뀌과) Polygonaceae",
+        "생강과 Zingiberaceae",
+        "국화과 Compositae",
+        "원지과 Polygalaceae"
+      ],
+      "answer": "마디풀과(여뀌과) Polygonaceae",
+      "explanation": "정답: 마디풀과(여뀌과) Polygonaceae\n\n오답 출처:\n· 국화과 Compositae → 백출, 창출의 과명\n· 천남성과 Araceae → 반하, 석창포, 천남성의 과명\n· 원지과 Polygalaceae → 이 범위 밖의 오답\n· 생강과 Zingiberaceae → 아출의 과명\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 5,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 대황 · ( ㉠ )\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n주의: 임부 금기(골반 충혈)",
+      "choices": [
+        "Acori Graminei Rhizoma",
+        "Nupharis Rhizoma",
+        "Curcumae Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Imperatae Rhizoma"
+      ],
+      "answer": "Rhei Radix et Rhizoma",
+      "explanation": "정답: Rhei Radix et Rhizoma\n\n오답 출처:\n· Imperatae Rhizoma → 모근의 라틴 생약명\n· Curcumae Rhizoma → 아출의 라틴 생약명\n· Nupharis Rhizoma → 천골의 라틴 생약명\n· Acori Graminei Rhizoma → 석창포의 라틴 생약명\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 6,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n산지: 중국(사천·청해·감숙·서장)·티벳 고지, 장군풀(한국대황)은 백두산·관모봉\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n주의: ( ㉠ )",
+      "choices": [
+        "임부 금기(골반 충혈)",
+        "장기간 복용해도 비교적 안전",
+        "독성이 강함, alkaloid 최기형성. 세신과 함께 쓰지 않음",
+        "쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지",
+        "과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의"
+      ],
+      "answer": "임부 금기(골반 충혈)",
+      "explanation": "정답: 임부 금기(골반 충혈)\n\n오답 출처:\n· 독성이 강함, alkaloid 최기형성. 세신과 함께 쓰지 않음 → 여로의 주의·독성·금기\n· 과량·장기 복용 → 부종·저칼륨혈증·고혈압·근수축 이상 = 가성 알도스테론증(glycyrrhizin) — 고혈압·부신피질호르몬 치료 환자 주의 → 이 범위 밖의 오답\n· 쓰고 차가워 위를 상함 → 비위 허약·변이 묽은 사람 금지 → 이 범위 밖의 오답\n· 장기간 복용해도 비교적 안전 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 대황 · Rhei Radix et Rhizoma\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n과: 마디풀과(여뀌과) Polygonaceae\n지표(약전): sennoside A + anthraquinone(aloe-emodin·rhein·emodin·chrysophanol·physcion) 합 1.5% 이상\n성분:\n· dianthrone glycoside — sennoside A~F\n· anthraquinone — chrysophanol, emodin, aloe-emodin, rhein, physcion\n· tannin — rhatannin I·II\n응용: 대장성 사하제(대량), 소염성 건위약(소량), 변비에 의한 복통, 화농성 종창\n확인시험: ① Bornträger 반응(10% KOH → 적색, anthraquinone) ② 승화 시험(황색 결정) ③ TLC: sennoside A(365 nm 적색 형광)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+    },
+    {
+      "id": 7,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ( ㉠ )\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염",
+      "choices": [
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)",
+        "lilioside A~C",
+        "nupharidine, deoxynupharidine, nupharamine",
+        "ophiopogonin A·B·D",
+        "dioscin(aglycone diosgenin)"
+      ],
+      "answer": "ophiopogonin A·B·D",
+      "explanation": "정답: ophiopogonin A·B·D\n\n오답 출처:\n· dioscin(aglycone diosgenin) → 산약의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n· lilioside A~C → 백합의 대표 성분\n· nupharidine, deoxynupharidine, nupharamine → 천골의 대표 성분\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· ( ㉠ ) — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응",
+      "choices": [
+        "steroidal saponin",
+        "기타",
+        "steroidal alkaloid",
+        "glycerol glycoside",
+        "triterpenoid"
+      ],
+      "answer": "steroidal saponin",
+      "explanation": "정답: steroidal saponin\n\n오답 출처:\n· steroidal alkaloid → 여로, 절패모의 성분 계열\n· triterpenoid → 모근, 삼릉의 성분 계열\n· glycerol glycoside → 백합의 성분 계열\n· 기타 → 천남성의 성분 계열\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: ( ㉠ )\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응",
+      "choices": [
+        "수련과 Nymphaeaceae",
+        "마과 Dioscoreaceae",
+        "미나리아재비과 Ranunculaceae",
+        "국화과 Compositae",
+        "백합과 Liliaceae"
+      ],
+      "answer": "백합과 Liliaceae",
+      "explanation": "정답: 백합과 Liliaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n· 수련과 Nymphaeaceae → 천골의 과명\n· 마과 Dioscoreaceae → 산약의 과명\n· 국화과 Compositae → 백출, 창출의 과명\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 맥문동 · ( ㉠ )\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응",
+      "choices": [
+        "Liriopis seu Ophiopogonis Tuber",
+        "Veratri Rhizoma",
+        "Nupharis Rhizoma",
+        "Fritillariae Thunbergii Bulbus",
+        "Anemarrhenae Rhizoma"
+      ],
+      "answer": "Liriopis seu Ophiopogonis Tuber",
+      "explanation": "정답: Liriopis seu Ophiopogonis Tuber\n\n오답 출처:\n· Nupharis Rhizoma → 천골의 라틴 생약명\n· Anemarrhenae Rhizoma → 지모의 라틴 생약명\n· Fritillariae Thunbergii Bulbus → 절패모의 라틴 생약명\n· Veratri Rhizoma → 여로의 라틴 생약명\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: ( ㉠ )\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응",
+      "choices": [
+        "진해·거담(기관지염·상기도 감염의 기침), 배농",
+        "진해·거담·자양강장·이뇨·지갈, 점활성 소염",
+        "진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+        "이뇨·지혈·강장 — 부종, 산후 출혈, 타박상",
+        "해열·이뇨·진정·진해·지사 — 번열, 구갈"
+      ],
+      "answer": "진해·거담·자양강장·이뇨·지갈, 점활성 소염",
+      "explanation": "정답: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n\n오답 출처:\n· 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안 → 백합의 응용(효능·적응증)\n· 이뇨·지혈·강장 — 부종, 산후 출혈, 타박상 → 천골의 응용(효능·적응증)\n· 진해·거담(기관지염·상기도 감염의 기침), 배농 → 절패모의 응용(효능·적응증)\n· 해열·이뇨·진정·진해·지사 — 번열, 구갈 → 지모의 응용(효능·적응증)\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: ( ㉠ )",
+      "choices": [
+        "Vitali 반응(발연 질산 + KOH → 자색)",
+        "자외선을 쪼이면 강한 형광",
+        "acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "기포 시험(흔들면 지속성 거품)"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· Vitali 반응(발연 질산 + KOH → 자색) → 이 범위 밖의 오답\n· 기포 시험(흔들면 지속성 거품) → 이 범위 밖의 오답\n· 자외선을 쪼이면 강한 형광 → 대황의 확인시험\n· acetone 침전 + HOAc·H₂SO₄ → 홍색~홍자색 윤대 → 백출의 확인시험\n\n[카드 요약]\n📇 맥문동 · Liriopis seu Ophiopogonis Tuber\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n과: 백합과 Liliaceae\n성분:\n· steroidal saponin — ophiopogonin A·B·D\n· homoisoflavonoid — ophiopogonone A·B\n응용: 진해·거담·자양강장·이뇨·지갈, 점활성 소염\n확인시험: saponin 기포 시험 / Liebermann-Burchard 반응\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — ( ㉠ )\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "choices": [
+        "betulinic acid, betulin",
+        "nupharidine, deoxynupharidine, nupharamine",
+        "cylindrin, arundoin, fernenol",
+        "sinomenine, disinomenine, isosinomenine",
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)"
+      ],
+      "answer": "cylindrin, arundoin, fernenol",
+      "explanation": "정답: cylindrin, arundoin, fernenol\n\n오답 출처:\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n· betulinic acid, betulin → 삼릉의 대표 성분\n· sinomenine, disinomenine, isosinomenine → 방기의 대표 성분\n· nupharidine, deoxynupharidine, nupharamine → 천골의 대표 성분\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· ( ㉠ ) — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "choices": [
+        "quinolizidine alkaloid",
+        "triterpenoid",
+        "steroidal saponin",
+        "cycloartane계 triterpenoid",
+        "sesquiterpenoid"
+      ],
+      "answer": "triterpenoid",
+      "explanation": "정답: triterpenoid\n\n오답 출처:\n· quinolizidine alkaloid → 천골의 성분 계열\n· cycloartane계 triterpenoid → 승마의 성분 계열\n· sesquiterpenoid → 백출, 창출의 성분 계열\n· steroidal saponin → 맥문동, 산약, 지모의 성분 계열\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: ( ㉠ )\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "벼과 Gramineae",
+        "수련과 Nymphaeaceae",
+        "흑삼릉과 Sparganiaceae",
+        "방기과(새모래덩굴과) Menispermaceae"
+      ],
+      "answer": "벼과 Gramineae",
+      "explanation": "정답: 벼과 Gramineae\n\n오답 출처:\n· 흑삼릉과 Sparganiaceae → 삼릉의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n· 방기과(새모래덩굴과) Menispermaceae → 방기의 과명\n· 수련과 Nymphaeaceae → 천골의 과명\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 모근 · ( ㉠ )\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "choices": [
+        "Sparganii Rhizoma",
+        "Sinomeni Caulis et Rhizoma",
+        "Imperatae Rhizoma",
+        "Cimicifugae Rhizoma",
+        "Acori Graminei Rhizoma"
+      ],
+      "answer": "Imperatae Rhizoma",
+      "explanation": "정답: Imperatae Rhizoma\n\n오답 출처:\n· Acori Graminei Rhizoma → 석창포의 라틴 생약명\n· Sinomeni Caulis et Rhizoma → 방기의 라틴 생약명\n· Cimicifugae Rhizoma → 승마의 라틴 생약명\n· Sparganii Rhizoma → 삼릉의 라틴 생약명\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: ( ㉠ )",
+      "choices": [
+        "이뇨·지혈·강장 — 부종, 산후 출혈, 타박상",
+        "부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통",
+        "진정·진통·건위약",
+        "이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+        "통경·구어혈·진통약 — 월경불통, 산후 어혈 복통, 유즙불통"
+      ],
+      "answer": "이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "explanation": "정답: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피\n\n오답 출처:\n· 통경·구어혈·진통약 — 월경불통, 산후 어혈 복통, 유즙불통 → 삼릉의 응용(효능·적응증)\n· 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통 → 방기의 응용(효능·적응증)\n· 이뇨·지혈·강장 — 부종, 산후 출혈, 타박상 → 천골의 응용(효능·적응증)\n· 진정·진통·건위약 → 석창포의 응용(효능·적응증)\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 모근 · (라틴명 숨김)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피",
+      "choices": [
+        "Acorus gramineus",
+        "Imperata cylindrica var. koenigii",
+        "Anemarrhena asphodeloides",
+        "Nuphar japonicum",
+        "Cimicifuga heracleifolia"
+      ],
+      "answer": "Imperata cylindrica var. koenigii",
+      "explanation": "정답: Imperata cylindrica var. koenigii\n\n오답 출처:\n· Acorus gramineus → 석창포의 기원식물 학명\n· Nuphar japonicum → 천골의 기원식물 학명\n· Anemarrhena asphodeloides → 지모의 기원식물 학명\n· Cimicifuga heracleifolia → 승마의 기원식물 학명\n\n[카드 요약]\n📇 모근 · Imperatae Rhizoma\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n과: 벼과 Gramineae\n성분:\n· triterpenoid — cylindrin, arundoin, fernenol\n· lignan — imperanene, graminone A·B\n· chromone — flidersiachromone\n· 기타 — sucrose·K⁺염(다량 → 이뇨)\n응용: 이뇨·지혈·해열약 — 소변불리, 부종, 토혈·코피"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — ( ㉠ )\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n주의: 반드시 법제하여 사용\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "lilioside A~C",
+        "ligustilide, butylidenephthalide, butylphthalide",
+        "homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)",
+        "saponin, diacylglycerylgalactoside, cerebroside",
+        "timosaponin A-I~A-IV(aglycone sarsasapogenin)"
+      ],
+      "answer": "homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)",
+      "explanation": "정답: homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n\n오답 출처:\n· lilioside A~C → 백합의 대표 성분\n· saponin, diacylglycerylgalactoside, cerebroside → 천남성의 대표 성분\n· ligustilide, butylidenephthalide, butylphthalide → 천궁의 대표 성분\n· timosaponin A-I~A-IV(aglycone sarsasapogenin) → 지모의 대표 성분\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· ( ㉠ ) — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n주의: 반드시 법제하여 사용\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "phthalide(정유)",
+        "glycerol glycoside",
+        "기타",
+        "steroidal saponin",
+        "phenol"
+      ],
+      "answer": "phenol",
+      "explanation": "정답: phenol\n\n오답 출처:\n· steroidal saponin → 맥문동, 산약, 지모의 성분 계열\n· phthalide(정유) → 천궁의 성분 계열\n· glycerol glycoside → 백합의 성분 계열\n· 기타 → 천남성의 성분 계열\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: ( ㉠ )\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n주의: 반드시 법제하여 사용\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "가지과 Solanaceae",
+        "백합과 Liliaceae",
+        "미나리아재비과 Ranunculaceae",
+        "산형과(미나리과) Umbelliferae",
+        "천남성과 Araceae"
+      ],
+      "answer": "천남성과 Araceae",
+      "explanation": "정답: 천남성과 Araceae\n\n오답 출처:\n· 백합과 Liliaceae → 맥문동, 백합, 여로, 절패모, 지모의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n· 가지과 Solanaceae → 스코폴리아근, 벨라돈나근, 다투라엽의 과명\n· 산형과(미나리과) Umbelliferae → 천궁의 과명\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 반하 · ( ㉠ )\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n주의: 반드시 법제하여 사용\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "Fritillariae Thunbergii Bulbus",
+        "Lilii Bulbus",
+        "Arisaematis Rhizoma",
+        "Pinelliae Tuber",
+        "Acori Graminei Rhizoma"
+      ],
+      "answer": "Pinelliae Tuber",
+      "explanation": "정답: Pinelliae Tuber\n\n오답 출처:\n· Lilii Bulbus → 백합의 라틴 생약명\n· Arisaematis Rhizoma → 천남성의 라틴 생약명\n· Acori Graminei Rhizoma → 석창포의 라틴 생약명\n· Fritillariae Thunbergii Bulbus → 절패모의 라틴 생약명\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: ( ㉠ )\n주의: 반드시 법제하여 사용\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "진정·진경·진통·보혈강장·구어혈 — 부인과 질환(빈혈·월경통)",
+        "진경·거담·제습약 — 중풍, 반신불수, 소아경기. 외용(창상)",
+        "해열·이뇨·진정·진해·지사 — 번열, 구갈",
+        "진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안",
+        "진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께"
+      ],
+      "answer": "진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께",
+      "explanation": "정답: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n\n오답 출처:\n· 진경·거담·제습약 — 중풍, 반신불수, 소아경기. 외용(창상) → 천남성의 응용(효능·적응증)\n· 해열·이뇨·진정·진해·지사 — 번열, 구갈 → 지모의 응용(효능·적응증)\n· 진정·진경·진통·보혈강장·구어혈 — 부인과 질환(빈혈·월경통) → 천궁의 응용(효능·적응증)\n· 진해·거담·진정 — 기침, 천식, 종기, 혈담, 다몽, 정신불안 → 백합의 응용(효능·적응증)\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 주의·독성·금기는?\n\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n주의: ( ㉠ )\n법제: 생강·백반 법제(강반하), 석회수에 담갔다가 햇빛에 말림(법반하)",
+      "choices": [
+        "임부·생리량이 많은 경우 금기",
+        "임부 금기(골반 충혈)",
+        "반드시 법제하여 사용",
+        "독성이 강함, alkaloid 최기형성. 세신과 함께 쓰지 않음",
+        "장기간 복용해도 비교적 안전"
+      ],
+      "answer": "반드시 법제하여 사용",
+      "explanation": "정답: 반드시 법제하여 사용\n\n오답 출처:\n· 임부·생리량이 많은 경우 금기 → 삼릉의 주의·독성·금기\n· 독성이 강함, alkaloid 최기형성. 세신과 함께 쓰지 않음 → 여로의 주의·독성·금기\n· 장기간 복용해도 비교적 안전 → 이 범위 밖의 오답\n· 임부 금기(골반 충혈) → 대황의 주의·독성·금기\n\n[카드 요약]\n📇 반하 · Pinelliae Tuber\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n과: 천남성과 Araceae\n성분:\n· phenol — homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 다당류 — pinellian PA, pinellian G(glucan)\n응용: 진토·진정·거담 — 오심, 구토, 기침, 급성 위카타르, 인후종통, 임신 중 구토. 보통 생강과 함께\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — ( ㉠ )\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통",
+      "choices": [
+        "nupharidine, deoxynupharidine, nupharamine",
+        "sinomenine, disinomenine, isosinomenine",
+        "(−)-hyoscyamine, atropine, scopolamine",
+        "verticine(= peimine), verticinone(= peiminine), peiminoside",
+        "(−)-hyoscyamine, (−)-scopolamine, atropine"
+      ],
+      "answer": "sinomenine, disinomenine, isosinomenine",
+      "explanation": "정답: sinomenine, disinomenine, isosinomenine\n\n오답 출처:\n· (−)-hyoscyamine, atropine, scopolamine → 다투라엽의 대표 성분\n· nupharidine, deoxynupharidine, nupharamine → 천골의 대표 성분\n· (−)-hyoscyamine, (−)-scopolamine, atropine → 벨라돈나근의 대표 성분\n· verticine(= peimine), verticinone(= peiminine), peiminoside → 절패모의 대표 성분\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· ( ㉠ ) — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)",
+      "choices": [
+        "triterpenoid",
+        "phenanthrene(morphinan)계 alkaloid",
+        "steroidal alkaloid",
+        "sesquiterpenoid",
+        "tropane alkaloid"
+      ],
+      "answer": "phenanthrene(morphinan)계 alkaloid",
+      "explanation": "정답: phenanthrene(morphinan)계 alkaloid\n\n오답 출처:\n· steroidal alkaloid → 여로, 절패모의 성분 계열\n· tropane alkaloid → 스코폴리아근, 벨라돈나근, 다투라엽의 성분 계열\n· triterpenoid → 모근, 삼릉의 성분 계열\n· sesquiterpenoid → 백출, 창출의 성분 계열\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    },
+    {
+      "id": 27,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: ( ㉠ )\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)",
+      "choices": [
+        "백합과 Liliaceae",
+        "국화과 Compositae",
+        "미나리아재비과 Ranunculaceae",
+        "방기과(새모래덩굴과) Menispermaceae",
+        "벼과 Gramineae"
+      ],
+      "answer": "방기과(새모래덩굴과) Menispermaceae",
+      "explanation": "정답: 방기과(새모래덩굴과) Menispermaceae\n\n오답 출처:\n· 벼과 Gramineae → 모근의 과명\n· 미나리아재비과 Ranunculaceae → 승마의 과명\n· 백합과 Liliaceae → 맥문동, 백합, 여로, 절패모, 지모의 과명\n· 국화과 Compositae → 백출, 창출의 과명\n\n[카드 요약]\n📇 방기 · Sinomeni Caulis et Rhizoma\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n과: 방기과(새모래덩굴과) Menispermaceae\n성분:\n· phenanthrene(morphinan)계 alkaloid — sinomenine, disinomenine, isosinomenine\n· aporphine계 alkaloid — magnoflorine, tuduranine\n· 염소 함유 alkaloid — acutumine\n응용: 부종·관절수종·복수에 이뇨, 관절통·류머티즘 소염진통\n확인시험: ① Dragendorff 시액 → 황적색 침전 ② Mayer 시액 → 회갈색 침전(alkaloid)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+    }
+  ]
+}
