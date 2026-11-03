@@ -47,6 +47,9 @@
     "biochem/final-struct.json",
     "biochem/final-concept-ch8-9.json",
     "biochem/final-concept-ch10-11.json",
-    "biochem/final-concept-ch12.json"
+    "biochem/final-concept-ch12.json",
+    "biochem/final-select.json",
+    "biochem/final-blanks-1.json",
+    "biochem/final-blanks-2.json"
   ]
 }
