@@ -1,0 +1,701 @@
+{
+  "deckId": "biochem-final-struct",
+  "subject": "생화학",
+  "title": "② 구조·이름 (뉴클레오타이드·지방산·막지질)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:Nc1ncnc2[nH]cnc12]]",
+      "choices": [
+        "아데닌(A)",
+        "티민(T)",
+        "사이토신(C)",
+        "유라실(U)"
+      ],
+      "answer": "아데닌(A)",
+      "explanation": "정답: 아데닌(A) — 퓨린, 6-아미노\n\n오답 구조 비교:\n• 티민(T) — 피리미딘, 5-메틸(DNA)\n[[smi:Cc1c[nH]c(=O)[nH]c1=O]]\n• 사이토신(C) — 피리미딘, 4-아미노\n[[smi:Nc1cc[nH]c(=O)n1]]\n• 유라실(U) — 피리미딘(RNA), C 탈아미노화 산물\n[[smi:O=c1cc[nH]c(=O)[nH]1]]"
+    },
+    {
+      "id": 2,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]",
+      "choices": [
+        "구아닌(G)",
+        "유라실(U)",
+        "아데닌(A)",
+        "하이포잔틴"
+      ],
+      "answer": "구아닌(G)",
+      "explanation": "정답: 구아닌(G) — 퓨린, 2-아미노-6-옥소\n\n오답 구조 비교:\n• 유라실(U) — 피리미딘(RNA), C 탈아미노화 산물\n[[smi:O=c1cc[nH]c(=O)[nH]1]]\n• 아데닌(A) — 퓨린, 6-아미노\n[[smi:Nc1ncnc2[nH]cnc12]]\n• 하이포잔틴 — A의 탈아미노화 산물\n[[smi:O=c1[nH]cnc2[nH]cnc12]]"
+    },
+    {
+      "id": 3,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:Nc1cc[nH]c(=O)n1]]",
+      "choices": [
+        "사이토신(C)",
+        "구아닌(G)",
+        "유라실(U)",
+        "티민(T)"
+      ],
+      "answer": "사이토신(C)",
+      "explanation": "정답: 사이토신(C) — 피리미딘, 4-아미노\n\n오답 구조 비교:\n• 구아닌(G) — 퓨린, 2-아미노-6-옥소\n[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]\n• 유라실(U) — 피리미딘(RNA), C 탈아미노화 산물\n[[smi:O=c1cc[nH]c(=O)[nH]1]]\n• 티민(T) — 피리미딘, 5-메틸(DNA)\n[[smi:Cc1c[nH]c(=O)[nH]c1=O]]"
+    },
+    {
+      "id": 4,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:Cc1c[nH]c(=O)[nH]c1=O]]",
+      "choices": [
+        "티민(T)",
+        "아데닌(A)",
+        "구아닌(G)",
+        "사이토신(C)"
+      ],
+      "answer": "티민(T)",
+      "explanation": "정답: 티민(T) — 피리미딘, 5-메틸(DNA)\n\n오답 구조 비교:\n• 아데닌(A) — 퓨린, 6-아미노\n[[smi:Nc1ncnc2[nH]cnc12]]\n• 구아닌(G) — 퓨린, 2-아미노-6-옥소\n[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]\n• 사이토신(C) — 피리미딘, 4-아미노\n[[smi:Nc1cc[nH]c(=O)n1]]"
+    },
+    {
+      "id": 5,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:O=c1cc[nH]c(=O)[nH]1]]",
+      "choices": [
+        "유라실(U)",
+        "아데닌(A)",
+        "구아닌(G)",
+        "사이토신(C)"
+      ],
+      "answer": "유라실(U)",
+      "explanation": "정답: 유라실(U) — 피리미딘(RNA), C 탈아미노화 산물\n\n오답 구조 비교:\n• 아데닌(A) — 퓨린, 6-아미노\n[[smi:Nc1ncnc2[nH]cnc12]]\n• 구아닌(G) — 퓨린, 2-아미노-6-옥소\n[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]\n• 사이토신(C) — 피리미딘, 4-아미노\n[[smi:Nc1cc[nH]c(=O)n1]]"
+    },
+    {
+      "id": 6,
+      "question": "[구조→이름 · 염기] 다음 구조의 이름은?\n[[smi:O=c1[nH]cnc2[nH]cnc12]]",
+      "choices": [
+        "하이포잔틴",
+        "티민(T)",
+        "사이토신(C)",
+        "구아닌(G)"
+      ],
+      "answer": "하이포잔틴",
+      "explanation": "정답: 하이포잔틴 — A의 탈아미노화 산물\n\n오답 구조 비교:\n• 티민(T) — 피리미딘, 5-메틸(DNA)\n[[smi:Cc1c[nH]c(=O)[nH]c1=O]]\n• 사이토신(C) — 피리미딘, 4-아미노\n[[smi:Nc1cc[nH]c(=O)n1]]\n• 구아닌(G) — 퓨린, 2-아미노-6-옥소\n[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]"
+    },
+    {
+      "id": 7,
+      "question": "[이름→구조 · 염기] 아데닌(A)의 구조는?",
+      "choices": [
+        "[[smi:Nc1ncnc2[nH]cnc12]]",
+        "[[smi:O=c1[nH]cnc2[nH]cnc12]]",
+        "[[smi:Nc1nc2[nH]cnc2c(=O)[nH]1]]",
+        "[[smi:Nc1cc[nH]c(=O)n1]]"
+      ],
+      "answer": "[[smi:Nc1ncnc2[nH]cnc12]]",
+      "explanation": "정답: 아데닌(A) — 퓨린, 6-아미노\n\n오답: 하이포잔틴(A의 탈아미노화 산물) · 구아닌(G)(퓨린, 2-아미노-6-옥소) · 사이토신(C)(피리미딘, 4-아미노)"
+    },
+    {
+      "id": 8,
+      "question": "[이름→구조 · 염기] 사이토신(C)의 구조는?",
+      "choices": [
+        "[[smi:Nc1cc[nH]c(=O)n1]]",
+        "[[smi:O=c1cc[nH]c(=O)[nH]1]]",
+        "[[smi:Cc1c[nH]c(=O)[nH]c1=O]]",
+        "[[smi:Nc1ncnc2[nH]cnc12]]"
+      ],
+      "answer": "[[smi:Nc1cc[nH]c(=O)n1]]",
+      "explanation": "정답: 사이토신(C) — 피리미딘, 4-아미노\n\n오답: 유라실(U)(피리미딘(RNA), C 탈아미노화 산물) · 티민(T)(피리미딘, 5-메틸(DNA)) · 아데닌(A)(퓨린, 6-아미노)"
+    },
+    {
+      "id": 9,
+      "question": "[이름→구조 · 염기] 유라실(U)의 구조는?",
+      "choices": [
+        "[[smi:O=c1cc[nH]c(=O)[nH]1]]",
+        "[[smi:Nc1cc[nH]c(=O)n1]]",
+        "[[smi:O=c1[nH]cnc2[nH]cnc12]]",
+        "[[smi:Cc1c[nH]c(=O)[nH]c1=O]]"
+      ],
+      "answer": "[[smi:O=c1cc[nH]c(=O)[nH]1]]",
+      "explanation": "정답: 유라실(U) — 피리미딘(RNA), C 탈아미노화 산물\n\n오답: 사이토신(C)(피리미딘, 4-아미노) · 하이포잔틴(A의 탈아미노화 산물) · 티민(T)(피리미딘, 5-메틸(DNA))"
+    },
+    {
+      "id": 10,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]",
+      "choices": [
+        "아데노신",
+        "cAMP(3′,5′-고리형 AMP)",
+        "2′-디옥시아데노신",
+        "dCMP(디옥시사이티딜산)"
+      ],
+      "answer": "아데노신",
+      "explanation": "정답: 아데노신 — 리보스, 인산 없음\n\n오답 구조 비교:\n• cAMP(3′,5′-고리형 AMP) — 2차 전달자\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]\n• 2′-디옥시아데노신 — 2′-H, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1]]\n• dCMP(디옥시사이티딜산) — 족보 full name 문제\n[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]"
+    },
+    {
+      "id": 11,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1]]",
+      "choices": [
+        "2′-디옥시아데노신",
+        "아데노신",
+        "AMP(아데닐산)",
+        "UMP(유리딜산)"
+      ],
+      "answer": "2′-디옥시아데노신",
+      "explanation": "정답: 2′-디옥시아데노신 — 2′-H, 인산 없음\n\n오답 구조 비교:\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• AMP(아데닐산) — 리보스 5′-인산\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]\n• UMP(유리딜산) — 리보스, RNA\n[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]"
+    },
+    {
+      "id": 12,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]",
+      "choices": [
+        "AMP(아데닐산)",
+        "아데노신",
+        "dTMP(디옥시티미딜산)",
+        "cAMP(3′,5′-고리형 AMP)"
+      ],
+      "answer": "AMP(아데닐산)",
+      "explanation": "정답: AMP(아데닐산) — 리보스 5′-인산\n\n오답 구조 비교:\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• dTMP(디옥시티미딜산) — 티민은 DNA에만\n[[smi:Cc1cn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)[nH]c1=O]]\n• cAMP(3′,5′-고리형 AMP) — 2차 전달자\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]"
+    },
+    {
+      "id": 13,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1]]",
+      "choices": [
+        "dAMP(디옥시아데닐산)",
+        "아데노신",
+        "AMP(아데닐산)",
+        "cAMP(3′,5′-고리형 AMP)"
+      ],
+      "answer": "dAMP(디옥시아데닐산)",
+      "explanation": "정답: dAMP(디옥시아데닐산) — 2′-디옥시 5′-인산 — 족보 구조 그리기\n\n오답 구조 비교:\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• AMP(아데닐산) — 리보스 5′-인산\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]\n• cAMP(3′,5′-고리형 AMP) — 2차 전달자\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]"
+    },
+    {
+      "id": 14,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]",
+      "choices": [
+        "dCMP(디옥시사이티딜산)",
+        "아데노신",
+        "UMP(유리딜산)",
+        "2′-디옥시아데노신"
+      ],
+      "answer": "dCMP(디옥시사이티딜산)",
+      "explanation": "정답: dCMP(디옥시사이티딜산) — 족보 full name 문제\n\n오답 구조 비교:\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• UMP(유리딜산) — 리보스, RNA\n[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]\n• 2′-디옥시아데노신 — 2′-H, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1]]"
+    },
+    {
+      "id": 15,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Cc1cn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)[nH]c1=O]]",
+      "choices": [
+        "dTMP(디옥시티미딜산)",
+        "AMP(아데닐산)",
+        "아데노신",
+        "2′-디옥시아데노신"
+      ],
+      "answer": "dTMP(디옥시티미딜산)",
+      "explanation": "정답: dTMP(디옥시티미딜산) — 티민은 DNA에만\n\n오답 구조 비교:\n• AMP(아데닐산) — 리보스 5′-인산\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• 2′-디옥시아데노신 — 2′-H, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1]]"
+    },
+    {
+      "id": 16,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+      "choices": [
+        "UMP(유리딜산)",
+        "아데노신",
+        "dAMP(디옥시아데닐산)",
+        "dCMP(디옥시사이티딜산)"
+      ],
+      "answer": "UMP(유리딜산)",
+      "explanation": "정답: UMP(유리딜산) — 리보스, RNA\n\n오답 구조 비교:\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• dAMP(디옥시아데닐산) — 2′-디옥시 5′-인산 — 족보 구조 그리기\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1]]\n• dCMP(디옥시사이티딜산) — 족보 full name 문제\n[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]"
+    },
+    {
+      "id": 17,
+      "question": "[구조→이름 · 뉴클레오사이드·타이드] 다음 구조의 이름은?\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]",
+      "choices": [
+        "cAMP(3′,5′-고리형 AMP)",
+        "UMP(유리딜산)",
+        "아데노신",
+        "2′-디옥시아데노신"
+      ],
+      "answer": "cAMP(3′,5′-고리형 AMP)",
+      "explanation": "정답: cAMP(3′,5′-고리형 AMP) — 2차 전달자\n\n오답 구조 비교:\n• UMP(유리딜산) — 리보스, RNA\n[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]\n• 아데노신 — 리보스, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]\n• 2′-디옥시아데노신 — 2′-H, 인산 없음\n[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1]]"
+    },
+    {
+      "id": 18,
+      "question": "[이름→구조 · 뉴클레오사이드·타이드] 아데노신의 구조는?",
+      "choices": [
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]",
+        "[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]"
+      ],
+      "answer": "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]",
+      "explanation": "정답: 아데노신 — 리보스, 인산 없음\n\n오답: UMP(유리딜산)(리보스, RNA) · cAMP(3′,5′-고리형 AMP)(2차 전달자) · AMP(아데닐산)(리보스 5′-인산)"
+    },
+    {
+      "id": 19,
+      "question": "[이름→구조 · 뉴클레오사이드·타이드] AMP(아데닐산)의 구조는?",
+      "choices": [
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]",
+        "[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+        "[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1]]"
+      ],
+      "answer": "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O]]",
+      "explanation": "정답: AMP(아데닐산) — 리보스 5′-인산\n\n오답: UMP(유리딜산)(리보스, RNA) · dCMP(디옥시사이티딜산)(족보 full name 문제) · dAMP(디옥시아데닐산)(2′-디옥시 5′-인산 — 족보 구조 그리기)"
+    },
+    {
+      "id": 20,
+      "question": "[이름→구조 · 뉴클레오사이드·타이드] dCMP(디옥시사이티딜산)의 구조는?",
+      "choices": [
+        "[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]",
+        "[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O]]"
+      ],
+      "answer": "[[smi:Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)n1]]",
+      "explanation": "정답: dCMP(디옥시사이티딜산) — 족보 full name 문제\n\n오답: UMP(유리딜산)(리보스, RNA) · dAMP(디옥시아데닐산)(2′-디옥시 5′-인산 — 족보 구조 그리기) · cAMP(3′,5′-고리형 AMP)(2차 전달자)"
+    },
+    {
+      "id": 21,
+      "question": "[이름→구조 · 뉴클레오사이드·타이드] UMP(유리딜산)의 구조는?",
+      "choices": [
+        "[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+        "[[smi:Cc1cn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)[nH]c1=O]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1]]",
+        "[[smi:Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O]]"
+      ],
+      "answer": "[[smi:O=c1ccn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1]]",
+      "explanation": "정답: UMP(유리딜산) — 리보스, RNA\n\n오답: dTMP(디옥시티미딜산)(티민은 DNA에만) · dAMP(디옥시아데닐산)(2′-디옥시 5′-인산 — 족보 구조 그리기) · 아데노신(리보스, 인산 없음)"
+    },
+    {
+      "id": 22,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCCCCCCCCCCCCC(=O)O]]",
+      "choices": [
+        "팔미트산",
+        "엘라이드산(트랜스)",
+        "EPA",
+        "α-리놀렌산"
+      ],
+      "answer": "팔미트산",
+      "explanation": "정답: 팔미트산 — 16:0\n\n오답 구조 비교:\n• 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]\n• EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• α-리놀렌산 — 18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산\n[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 23,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]",
+      "choices": [
+        "스테아르산",
+        "엘라이드산(트랜스)",
+        "올레산",
+        "EPA"
+      ],
+      "answer": "스테아르산",
+      "explanation": "정답: 스테아르산 — 18:0\n\n오답 구조 비교:\n• 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]\n• 올레산 — 18:1(Δ⁹) ω-9, cis\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]\n• EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]"
+    },
+    {
+      "id": 24,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "팔미톨레산",
+        "EPA",
+        "엘라이드산(트랜스)",
+        "아라키돈산"
+      ],
+      "answer": "팔미톨레산",
+      "explanation": "정답: 팔미톨레산 — 16:1(Δ⁹) ω-7\n\n오답 구조 비교:\n• EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]\n• 아라키돈산 — 20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6 — 족보 4회\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]"
+    },
+    {
+      "id": 25,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "올레산",
+        "DHA",
+        "리놀레산",
+        "스테아르산"
+      ],
+      "answer": "올레산",
+      "explanation": "정답: 올레산 — 18:1(Δ⁹) ω-9, cis\n\n오답 구조 비교:\n• DHA — 22:6 ω-3, 뇌·망막\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]\n• 리놀레산 — 18:2(Δ⁹,¹²) ω-6, 필수 지방산\n[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]\n• 스테아르산 — 18:0\n[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 26,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]",
+      "choices": [
+        "엘라이드산(트랜스)",
+        "α-리놀렌산",
+        "아라키돈산",
+        "스테아르산"
+      ],
+      "answer": "엘라이드산(트랜스)",
+      "explanation": "정답: 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n\n오답 구조 비교:\n• α-리놀렌산 — 18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산\n[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]\n• 아라키돈산 — 20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6 — 족보 4회\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• 스테아르산 — 18:0\n[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 27,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "리놀레산",
+        "엘라이드산(트랜스)",
+        "아라키돈산",
+        "올레산"
+      ],
+      "answer": "리놀레산",
+      "explanation": "정답: 리놀레산 — 18:2(Δ⁹,¹²) ω-6, 필수 지방산\n\n오답 구조 비교:\n• 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]\n• 아라키돈산 — 20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6 — 족보 4회\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• 올레산 — 18:1(Δ⁹) ω-9, cis\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 28,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "α-리놀렌산",
+        "팔미트산",
+        "리놀레산",
+        "EPA"
+      ],
+      "answer": "α-리놀렌산",
+      "explanation": "정답: α-리놀렌산 — 18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산\n\n오답 구조 비교:\n• 팔미트산 — 16:0\n[[smi:CCCCCCCCCCCCCCCC(=O)O]]\n• 리놀레산 — 18:2(Δ⁹,¹²) ω-6, 필수 지방산\n[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]\n• EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]"
+    },
+    {
+      "id": 29,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+      "choices": [
+        "아라키돈산",
+        "올레산",
+        "EPA",
+        "팔미톨레산"
+      ],
+      "answer": "아라키돈산",
+      "explanation": "정답: 아라키돈산 — 20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6 — 족보 4회\n\n오답 구조 비교:\n• 올레산 — 18:1(Δ⁹) ω-9, cis\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]\n• EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• 팔미톨레산 — 16:1(Δ⁹) ω-7\n[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 30,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+      "choices": [
+        "EPA",
+        "팔미톨레산",
+        "올레산",
+        "DHA"
+      ],
+      "answer": "EPA",
+      "explanation": "정답: EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n\n오답 구조 비교:\n• 팔미톨레산 — 16:1(Δ⁹) ω-7\n[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]\n• 올레산 — 18:1(Δ⁹) ω-9, cis\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]\n• DHA — 22:6 ω-3, 뇌·망막\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]"
+    },
+    {
+      "id": 31,
+      "question": "[구조→이름 · 지방산] 다음 구조의 이름은?\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]",
+      "choices": [
+        "DHA",
+        "팔미톨레산",
+        "엘라이드산(트랜스)",
+        "리놀레산"
+      ],
+      "answer": "DHA",
+      "explanation": "정답: DHA — 22:6 ω-3, 뇌·망막\n\n오답 구조 비교:\n• 팔미톨레산 — 16:1(Δ⁹) ω-7\n[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]\n• 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]\n• 리놀레산 — 18:2(Δ⁹,¹²) ω-6, 필수 지방산\n[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]"
+    },
+    {
+      "id": 32,
+      "question": "[이름→구조 · 지방산] 팔미트산의 구조는?",
+      "choices": [
+        "[[smi:CCCCCCCCCCCCCCCC(=O)O]]",
+        "[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]",
+        "[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCCCCCCCCCCCCCCC(=O)O]]",
+      "explanation": "정답: 팔미트산 — 16:0\n\n오답: 팔미톨레산(16:1(Δ⁹) ω-7) · 스테아르산(18:0) · 리놀레산(18:2(Δ⁹,¹²) ω-6, 필수 지방산)"
+    },
+    {
+      "id": 33,
+      "question": "[이름→구조 · 지방산] 팔미톨레산의 구조는?",
+      "choices": [
+        "[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+      "explanation": "정답: 팔미톨레산 — 16:1(Δ⁹) ω-7\n\n오답: 리놀레산(18:2(Δ⁹,¹²) ω-6, 필수 지방산) · α-리놀렌산(18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산) · DHA(22:6 ω-3, 뇌·망막)"
+    },
+    {
+      "id": 34,
+      "question": "[이름→구조 · 지방산] 엘라이드산(트랜스)의 구조는?",
+      "choices": [
+        "[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]",
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]",
+        "[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]"
+      ],
+      "answer": "[[smi:CCCCCCCC/C=C/CCCCCCCC(=O)O]]",
+      "explanation": "정답: 엘라이드산(트랜스) — 18:1(trans-Δ⁹) 트랜스 지방\n\n오답: DHA(22:6 ω-3, 뇌·망막) · 팔미톨레산(16:1(Δ⁹) ω-7) · α-리놀렌산(18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산)"
+    },
+    {
+      "id": 35,
+      "question": "[이름→구조 · 지방산] α-리놀렌산의 구조는?",
+      "choices": [
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]",
+        "[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O]]"
+      ],
+      "answer": "[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+      "explanation": "정답: α-리놀렌산 — 18:3(Δ⁹,¹²,¹⁵) ω-3, 필수 지방산\n\n오답: 스테아르산(18:0) · 리놀레산(18:2(Δ⁹,¹²) ω-6, 필수 지방산) · DHA(22:6 ω-3, 뇌·망막)"
+    },
+    {
+      "id": 36,
+      "question": "[이름→구조 · 지방산] EPA의 구조는?",
+      "choices": [
+        "[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+        "[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]",
+        "[[smi:CCCCCCCCCCCCCCCCCC(=O)O]]"
+      ],
+      "answer": "[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+      "explanation": "정답: EPA — 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3\n\n오답: 팔미톨레산(16:1(Δ⁹) ω-7) · 올레산(18:1(Δ⁹) ω-9, cis) · 스테아르산(18:0)"
+    },
+    {
+      "id": 37,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]",
+      "choices": [
+        "포스파티딜콜린",
+        "포스파티딜글리세롤",
+        "다이아실글리세롤(DAG)",
+        "포스파티딜세린"
+      ],
+      "answer": "포스파티딜콜린",
+      "explanation": "정답: 포스파티딜콜린 — 머리: 콜린(N⁺(CH₃)₃)\n\n오답 구조 비교:\n• 포스파티딜글리세롤 — 머리: 글리세롤 — 카디올리핀 전구체\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC(O)CO)OC(=O)CCCCC]]\n• 다이아실글리세롤(DAG) — 인산 없음 — Gq 2차 전달자\n[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]\n• 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]"
+    },
+    {
+      "id": 38,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCC]]",
+      "choices": [
+        "포스파티딜에탄올아민",
+        "포스파티드산",
+        "포스파티딜세린",
+        "포스파티딜글리세롤"
+      ],
+      "answer": "포스파티딜에탄올아민",
+      "explanation": "정답: 포스파티딜에탄올아민 — 머리: 에탄올아민(NH₃⁺)\n\n오답 구조 비교:\n• 포스파티드산 — 머리 없음(인산만)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]\n• 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]\n• 포스파티딜글리세롤 — 머리: 글리세롤 — 카디올리핀 전구체\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC(O)CO)OC(=O)CCCCC]]"
+    },
+    {
+      "id": 39,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]",
+      "choices": [
+        "포스파티딜세린",
+        "포스파티드산",
+        "포스파티딜콜린",
+        "포스파티딜에탄올아민"
+      ],
+      "answer": "포스파티딜세린",
+      "explanation": "정답: 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n\n오답 구조 비교:\n• 포스파티드산 — 머리 없음(인산만)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]\n• 포스파티딜콜린 — 머리: 콜린(N⁺(CH₃)₃)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]\n• 포스파티딜에탄올아민 — 머리: 에탄올아민(NH₃⁺)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCC]]"
+    },
+    {
+      "id": 40,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC(O)CO)OC(=O)CCCCC]]",
+      "choices": [
+        "포스파티딜글리세롤",
+        "포스파티딜세린",
+        "포스파티딜에탄올아민",
+        "다이아실글리세롤(DAG)"
+      ],
+      "answer": "포스파티딜글리세롤",
+      "explanation": "정답: 포스파티딜글리세롤 — 머리: 글리세롤 — 카디올리핀 전구체\n\n오답 구조 비교:\n• 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]\n• 포스파티딜에탄올아민 — 머리: 에탄올아민(NH₃⁺)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCC]]\n• 다이아실글리세롤(DAG) — 인산 없음 — Gq 2차 전달자\n[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]"
+    },
+    {
+      "id": 41,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]",
+      "choices": [
+        "포스파티드산",
+        "포스파티딜세린",
+        "포스파티딜글리세롤",
+        "다이아실글리세롤(DAG)"
+      ],
+      "answer": "포스파티드산",
+      "explanation": "정답: 포스파티드산 — 머리 없음(인산만)\n\n오답 구조 비교:\n• 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]\n• 포스파티딜글리세롤 — 머리: 글리세롤 — 카디올리핀 전구체\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC(O)CO)OC(=O)CCCCC]]\n• 다이아실글리세롤(DAG) — 인산 없음 — Gq 2차 전달자\n[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]"
+    },
+    {
+      "id": 42,
+      "question": "[구조→이름 · 막지질] 다음 구조의 이름은? (그림의 지방산 사슬은 짧게 줄여 그림)\n[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]",
+      "choices": [
+        "다이아실글리세롤(DAG)",
+        "포스파티딜세린",
+        "포스파티딜콜린",
+        "포스파티딜에탄올아민"
+      ],
+      "answer": "다이아실글리세롤(DAG)",
+      "explanation": "정답: 다이아실글리세롤(DAG) — 인산 없음 — Gq 2차 전달자\n\n오답 구조 비교:\n• 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]\n• 포스파티딜콜린 — 머리: 콜린(N⁺(CH₃)₃)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]\n• 포스파티딜에탄올아민 — 머리: 에탄올아민(NH₃⁺)\n[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCC]]"
+    },
+    {
+      "id": 43,
+      "question": "[이름→구조 · 막지질] 포스파티딜콜린의 구조는? (그림의 지방산 사슬은 짧게 줄여 그림)",
+      "choices": [
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC(O)CO)OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]"
+      ],
+      "answer": "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]",
+      "explanation": "정답: 포스파티딜콜린 — 머리: 콜린(N⁺(CH₃)₃)\n\n오답: 포스파티딜글리세롤(머리: 글리세롤 — 카디올리핀 전구체) · 포스파티딜세린(머리: 세린(아미노산) — 순전하 음) · 포스파티드산(머리 없음(인산만))"
+    },
+    {
+      "id": 44,
+      "question": "[이름→구조 · 막지질] 포스파티딜세린의 구조는? (그림의 지방산 사슬은 짧게 줄여 그림)",
+      "choices": [
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCC]]"
+      ],
+      "answer": "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]",
+      "explanation": "정답: 포스파티딜세린 — 머리: 세린(아미노산) — 순전하 음\n\n오답: 포스파티드산(머리 없음(인산만)) · 다이아실글리세롤(DAG)(인산 없음 — Gq 2차 전달자) · 포스파티딜에탄올아민(머리: 에탄올아민(NH₃⁺))"
+    },
+    {
+      "id": 45,
+      "question": "[이름→구조 · 막지질] 포스파티드산의 구조는? (그림의 지방산 사슬은 짧게 줄여 그림)",
+      "choices": [
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@@H](CO)OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCC]]",
+        "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCC]]"
+      ],
+      "answer": "[[smi:CCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCC]]",
+      "explanation": "정답: 포스파티드산 — 머리 없음(인산만)\n\n오답: 다이아실글리세롤(DAG)(인산 없음 — Gq 2차 전달자) · 포스파티딜세린(머리: 세린(아미노산) — 순전하 음) · 포스파티딜콜린(머리: 콜린(N⁺(CH₃)₃))"
+    },
+    {
+      "id": 46,
+      "question": "[구조→이름 · 스핑고지질·스테롤] 다음 구조의 이름은?\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]",
+      "choices": [
+        "스핑고신",
+        "세라마이드",
+        "스핑고미엘린",
+        "콜레스테롤"
+      ],
+      "answer": "스핑고신",
+      "explanation": "정답: 스핑고신 — C18 아미노 알코올, trans 이중결합\n\n오답 구조 비교:\n• 세라마이드 — 스핑고신 + 지방산(아마이드)\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]\n• 스핑고미엘린 — 세라마이드 + 포스포콜린\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]\n• 콜레스테롤 — 4고리 스테로이드 + C3-OH\n[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]"
+    },
+    {
+      "id": 47,
+      "question": "[구조→이름 · 스핑고지질·스테롤] 다음 구조의 이름은?\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]",
+      "choices": [
+        "세라마이드",
+        "스핑고신",
+        "콜레스테롤",
+        "스핑고미엘린"
+      ],
+      "answer": "세라마이드",
+      "explanation": "정답: 세라마이드 — 스핑고신 + 지방산(아마이드)\n\n오답 구조 비교:\n• 스핑고신 — C18 아미노 알코올, trans 이중결합\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]\n• 콜레스테롤 — 4고리 스테로이드 + C3-OH\n[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]\n• 스핑고미엘린 — 세라마이드 + 포스포콜린\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]"
+    },
+    {
+      "id": 48,
+      "question": "[구조→이름 · 스핑고지질·스테롤] 다음 구조의 이름은?\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]",
+      "choices": [
+        "스핑고미엘린",
+        "콜레스테롤",
+        "세라마이드",
+        "스핑고신"
+      ],
+      "answer": "스핑고미엘린",
+      "explanation": "정답: 스핑고미엘린 — 세라마이드 + 포스포콜린\n\n오답 구조 비교:\n• 콜레스테롤 — 4고리 스테로이드 + C3-OH\n[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]\n• 세라마이드 — 스핑고신 + 지방산(아마이드)\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]\n• 스핑고신 — C18 아미노 알코올, trans 이중결합\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]"
+    },
+    {
+      "id": 49,
+      "question": "[구조→이름 · 스핑고지질·스테롤] 다음 구조의 이름은?\n[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]",
+      "choices": [
+        "콜레스테롤",
+        "스핑고미엘린",
+        "스핑고신",
+        "세라마이드"
+      ],
+      "answer": "콜레스테롤",
+      "explanation": "정답: 콜레스테롤 — 4고리 스테로이드 + C3-OH\n\n오답 구조 비교:\n• 스핑고미엘린 — 세라마이드 + 포스포콜린\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]\n• 스핑고신 — C18 아미노 알코올, trans 이중결합\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]\n• 세라마이드 — 스핑고신 + 지방산(아마이드)\n[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]"
+    },
+    {
+      "id": 50,
+      "question": "[이름→구조 · 스핑고지질·스테롤] 스핑고신의 구조는?",
+      "choices": [
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]",
+        "[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]",
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]",
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]"
+      ],
+      "answer": "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]",
+      "explanation": "정답: 스핑고신 — C18 아미노 알코올, trans 이중결합\n\n오답: 콜레스테롤(4고리 스테로이드 + C3-OH) · 세라마이드(스핑고신 + 지방산(아마이드)) · 스핑고미엘린(세라마이드 + 포스포콜린)"
+    },
+    {
+      "id": 51,
+      "question": "[이름→구조 · 스핑고지질·스테롤] 스핑고미엘린의 구조는?",
+      "choices": [
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]",
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(=O)CCCCCCCCCCCCCCC]]",
+        "[[smi:CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C]]",
+        "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO]]"
+      ],
+      "answer": "[[smi:CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCC]]",
+      "explanation": "정답: 스핑고미엘린 — 세라마이드 + 포스포콜린\n\n오답: 세라마이드(스핑고신 + 지방산(아마이드)) · 콜레스테롤(4고리 스테로이드 + C3-OH) · 스핑고신(C18 아미노 알코올, trans 이중결합)"
+    },
+    {
+      "id": 52,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+      "choices": [
+        "20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6",
+        "20:4(Δ⁶,⁹,¹²,¹⁵) ω-5",
+        "20:4(Δ⁵,⁸,¹¹,¹⁴) ω-3",
+        "18:4(Δ⁶,⁹,¹²,¹⁵) ω-3"
+      ],
+      "answer": "20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6",
+      "explanation": "정답: 20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6 (아라키돈산)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 53,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "18:2(Δ⁹,¹²) ω-6",
+        "18:2(Δ⁶,⁹) ω-9",
+        "18:2(Δ⁹,¹²) ω-3",
+        "18:2(Δ¹⁰,¹³) ω-5"
+      ],
+      "answer": "18:2(Δ⁹,¹²) ω-6",
+      "explanation": "정답: 18:2(Δ⁹,¹²) ω-6 (리놀레산)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 54,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "18:3(Δ⁹,¹²,¹⁵) ω-3",
+        "18:3(Δ⁶,⁹,¹²) ω-6",
+        "18:3(Δ⁹,¹²,¹⁵) ω-6",
+        "18:3(Δ³,⁶,⁹) ω-9"
+      ],
+      "answer": "18:3(Δ⁹,¹²,¹⁵) ω-3",
+      "explanation": "정답: 18:3(Δ⁹,¹²,¹⁵) ω-3 (α-리놀렌산)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 55,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CCCCCCCC/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "18:1(cis-Δ⁹) ω-9",
+        "18:1(trans-Δ⁹) ω-9",
+        "18:1(cis-Δ⁹) ω-7",
+        "16:1(cis-Δ⁹) ω-7"
+      ],
+      "answer": "18:1(cis-Δ⁹) ω-9",
+      "explanation": "정답: 18:1(cis-Δ⁹) ω-9 (올레산)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 56,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]",
+      "choices": [
+        "20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3",
+        "20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-6",
+        "20:4(Δ⁵,⁸,¹¹,¹⁴) ω-6",
+        "22:6(Δ⁴,⁷,¹⁰,¹³,¹⁶,¹⁹) ω-3"
+      ],
+      "answer": "20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3",
+      "explanation": "정답: 20:5(Δ⁵,⁸,¹¹,¹⁴,¹⁷) ω-3 (EPA)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 57,
+      "question": "[지방산 표기] 다음 지방산의 표기로 옳은 것은?\n[[smi:CCCCCC/C=C\\CCCCCCCC(=O)O]]",
+      "choices": [
+        "16:1(cis-Δ⁹) ω-7",
+        "16:1(cis-Δ⁷) ω-9",
+        "18:1(cis-Δ⁹) ω-9",
+        "16:0"
+      ],
+      "answer": "16:1(cis-Δ⁹) ω-7",
+      "explanation": "정답: 16:1(cis-Δ⁹) ω-7 (팔미톨레산)\n• 탄소 수 : 이중결합 수 → 카복실 탄소 = C1로 이중결합의 첫 탄소 번호를 Δ로\n• ω-n = 메틸 말단 탄소(ω)에서 세어 첫 이중결합 위치(= 전체 탄소 수 − 마지막 Δ 번호)\n• 천연 불포화 지방산: cis, 3탄소 간격(메틸렌 차단형)\n• 함정: Δ는 카복실 쪽, ω는 메틸 쪽에서 센다 — 둘을 바꾸지 말 것"
+    },
+    {
+      "id": 58,
+      "question": "[지방산 표기 · 족보 서술형] 20:4(ω-6) 지방산의 일반명은?",
+      "answer": [
+        "아라키돈산",
+        "arachidonic acid",
+        "아라키돈산(arachidonic acid)"
+      ],
+      "explanation": "정답: 아라키돈산 = cis,cis,cis,cis-Δ⁵,⁸,¹¹,¹⁴-에이코사테트라엔산\n[[smi:CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)O]]\n• ω-6: 20 − 14 = 6 · 에이코사노이드(PG·TX·LT) 전구체"
+    }
+  ]
+}
