@@ -1,0 +1,196 @@
+{
+  "deckId": "analchem-final-spectra-2",
+  "subject": "분석화학",
+  "title": "④ 스펙트럼 해석 (IR 작용기·IR→구조·¹H NMR 신호·갈라짐·종합) 2/2",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CC(=O)C]]",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "1",
+      "explanation": "정답: 1개 — 6H 단일선(s)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 2,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CCC(=O)CC]]",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "10"
+      ],
+      "answer": "2",
+      "explanation": "정답: 2개 — 6H 삼중선(t) · 4H 사중선(q)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 3,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CCBr]]",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "정답: 2개 — 3H 삼중선(t) · 2H 사중선(q)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 4,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CC(C)Cl]]",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "7"
+      ],
+      "answer": "2",
+      "explanation": "정답: 2개 — 6H 이중선(d) · 1H 칠중선(septet)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 5,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CCCC(=O)OC(C)C]]",
+      "choices": [
+        "5",
+        "6",
+        "4",
+        "7",
+        "14"
+      ],
+      "answer": "5",
+      "explanation": "정답: 5개 — 6H 이중선(d) · 3H 삼중선(t) · 2H 육중선 · 2H 삼중선(t) · 1H 칠중선(septet)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 6,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CC(C)(C)O]]",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "10"
+      ],
+      "answer": "2",
+      "explanation": "정답: 2개 — 9H 단일선(s) · 1H 단일선(s) (OH, 교환)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 7,
+      "question": "[¹H NMR] 다음 화합물의 ¹H NMR 신호(화학적으로 다른 수소)의 개수는?\n[[smi:CCC#N]]",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "정답: 2개 — 3H 삼중선(t) · 2H 사중선(q)\n오답: 등가 수소를 따로 셈 · 전체 수소 수와 혼동"
+    },
+    {
+      "id": 8,
+      "question": "[¹H NMR] 다음 화합물의 C–H 신호(적분·갈라짐)로 옳은 것은?\n[[smi:CCOC(C)=O]]",
+      "choices": [
+        "3H 삼중선(t), 3H 단일선(s), 2H 사중선(q)",
+        "3H 이중선(d), 3H 단일선(s), 2H 삼중선(t)",
+        "3H 사중선(q), 3H 사중선(q), 2H 삼중선(t)",
+        "3H 단일선(s), 3H 단일선(s), 2H 단일선(s)"
+      ],
+      "answer": "3H 삼중선(t), 3H 단일선(s), 2H 사중선(q)",
+      "explanation": "정답: 3H 삼중선(t), 3H 단일선(s), 2H 사중선(q)\nn+1 규칙: 이웃 탄소의 수소 n개 → n+1개로 갈라짐(자기 탄소의 수소 수가 아님)"
+    },
+    {
+      "id": 9,
+      "question": "[¹H NMR] 다음 화합물의 C–H 신호(적분·갈라짐)로 옳은 것은?\n[[smi:CCBr]]",
+      "choices": [
+        "3H 삼중선(t), 2H 사중선(q)",
+        "3H 이중선(d), 2H 삼중선(t)",
+        "3H 사중선(q), 2H 삼중선(t)",
+        "3H 단일선(s), 2H 단일선(s)"
+      ],
+      "answer": "3H 삼중선(t), 2H 사중선(q)",
+      "explanation": "정답: 3H 삼중선(t), 2H 사중선(q)\nn+1 규칙: 이웃 탄소의 수소 n개 → n+1개로 갈라짐(자기 탄소의 수소 수가 아님)"
+    },
+    {
+      "id": 10,
+      "question": "[¹H NMR] 다음 화합물의 C–H 신호(적분·갈라짐)로 옳은 것은?\n[[smi:CC(C)O]]",
+      "choices": [
+        "6H 이중선(d), 1H 칠중선(septet)",
+        "6H 단일선(s), 1H 육중선",
+        "6H 칠중선(septet), 1H 이중선(d)",
+        "6H 단일선(s), 1H 단일선(s)"
+      ],
+      "answer": "6H 이중선(d), 1H 칠중선(septet)",
+      "explanation": "정답: 6H 이중선(d), 1H 칠중선(septet)\nn+1 규칙: 이웃 탄소의 수소 n개 → n+1개로 갈라짐(자기 탄소의 수소 수가 아님)"
+    },
+    {
+      "id": 11,
+      "question": "[¹H NMR] 다음 화합물의 C–H 신호(적분·갈라짐)로 옳은 것은?\n[[smi:CCC(=O)CC]]",
+      "choices": [
+        "6H 삼중선(t), 4H 사중선(q)",
+        "6H 이중선(d), 4H 삼중선(t)",
+        "6H 칠중선(septet), 4H 오중선",
+        "6H 단일선(s), 4H 단일선(s)"
+      ],
+      "answer": "6H 삼중선(t), 4H 사중선(q)",
+      "explanation": "정답: 6H 삼중선(t), 4H 사중선(q)\nn+1 규칙: 이웃 탄소의 수소 n개 → n+1개로 갈라짐(자기 탄소의 수소 수가 아님)"
+    },
+    {
+      "id": 12,
+      "question": "[¹H NMR] 다음 화합물의 C–H 신호(적분·갈라짐)로 옳은 것은?\n[[smi:CCCC(=O)OC(C)C]]",
+      "choices": [
+        "6H 이중선(d), 3H 삼중선(t), 2H 육중선, 2H 삼중선(t), 1H 칠중선(septet)",
+        "6H 단일선(s), 3H 이중선(d), 2H 오중선, 2H 이중선(d), 1H 육중선",
+        "6H 칠중선(septet), 3H 사중선(q), 2H 삼중선(t), 2H 삼중선(t), 1H 이중선(d)",
+        "6H 단일선(s), 3H 단일선(s), 2H 단일선(s), 2H 단일선(s), 1H 단일선(s)"
+      ],
+      "answer": "6H 이중선(d), 3H 삼중선(t), 2H 육중선, 2H 삼중선(t), 1H 칠중선(septet)",
+      "explanation": "정답: 6H 이중선(d), 3H 삼중선(t), 2H 육중선, 2H 삼중선(t), 1H 칠중선(septet)\nn+1 규칙: 이웃 탄소의 수소 n개 → n+1개로 갈라짐(자기 탄소의 수소 수가 아님)"
+    },
+    {
+      "id": 13,
+      "question": "[종합] MS 분자 이온 m/z 88, IR 1740(강함)·1240 cm⁻¹, O–H 없음, ¹H NMR δ 4.1(2H, q) · 2.0(3H, s) · 1.25(3H, t) — 구조는?",
+      "choices": [
+        "[[smi:CCOC(C)=O]]",
+        "[[smi:CCCC(=O)O]]",
+        "[[smi:COC(=O)CC]]",
+        "[[smi:CC(C)C(=O)O]]",
+        "[[smi:CCOCC=O]]"
+      ],
+      "answer": "[[smi:CCOC(C)=O]]",
+      "explanation": "에틸 아세테이트(C₄H₈O₂, 88): CH₃CO 2.0 s(3H) · OCH₂ 4.1 q(2H) · CH₃ 1.25 t(3H). 메틸 프로파노에이트는 OCH₃ 3.7 s + CH₂ 2.3 q.\n⚠ 강의자료가 없어 표준 기기분석 지식(대한약전 일반시험법·기기분석 교과서 기준)으로 판단했어요."
+    },
+    {
+      "id": 14,
+      "question": "[종합] MS m/z 58, IR 1715 cm⁻¹, ¹H NMR δ 2.1(6H, s) 하나뿐 — 구조는?",
+      "choices": [
+        "[[smi:CC(C)=O]]",
+        "[[smi:CCC=O]]",
+        "[[smi:C=CCO]]",
+        "[[smi:CCOC]]",
+        "[[smi:C1CCO1]]"
+      ],
+      "answer": "[[smi:CC(C)=O]]",
+      "explanation": "아세톤: 두 CH₃가 등가 → 단일선 하나, C=O 1715.\n⚠ 강의자료가 없어 표준 기기분석 지식(대한약전 일반시험법·기기분석 교과서 기준)으로 판단했어요."
+    },
+    {
+      "id": 15,
+      "question": "[종합] MS m/z 74, IR 3350(넓음)·1050 cm⁻¹, ¹H NMR δ 1.25(9H, s) · 1.9(1H, s, 교환) — 구조는?",
+      "choices": [
+        "[[smi:CC(C)(C)O]]",
+        "[[smi:CCCCO]]",
+        "[[smi:CCOCC]]",
+        "[[smi:CC(C)CO]]",
+        "[[smi:CCC(C)O]]"
+      ],
+      "answer": "[[smi:CC(C)(C)O]]",
+      "explanation": "tert-뷰탄올: 등가 CH₃ 9H 단일선 + OH.\n⚠ 강의자료가 없어 표준 기기분석 지식(대한약전 일반시험법·기기분석 교과서 기준)으로 판단했어요."
+    }
+  ]
+}

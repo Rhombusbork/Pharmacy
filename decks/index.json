@@ -121,6 +121,18 @@
     "pharmacognosy/final-w14-card-name.json",
     "pharmacognosy/final-w14-card-blank-1.json",
     "pharmacognosy/final-w14-card-blank-2.json",
-    "pharmacognosy/final-w14-card-short.json"
+    "pharmacognosy/final-w14-card-short.json",
+    "analchem/final-ex-2025-2.json",
+    "analchem/final-ex-2024-2.json",
+    "analchem/final-terms-a-1.json",
+    "analchem/final-terms-a-2.json",
+    "analchem/final-terms-b-1.json",
+    "analchem/final-terms-b-2.json",
+    "analchem/final-concept-1.json",
+    "analchem/final-concept-2.json",
+    "analchem/final-calc.json",
+    "analchem/final-spectra-1.json",
+    "analchem/final-spectra-2.json",
+    "analchem/final-compare-essay.json"
   ]
 }
