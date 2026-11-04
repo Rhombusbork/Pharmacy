@@ -1,0 +1,279 @@
+{
+  "deckId": "pharmacognosy-final-vary-1",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 1: 부자·aconitine·법제·대극",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] 부자에 함유된 aconitine 계열 알칼로이드의 진통 작용이 강한 순서로 옳은 것은?",
+      "choices": [
+        "mesaconitine > aconitine > hypaconitine",
+        "aconitine > mesaconitine > hypaconitine",
+        "mesaconitine > hypaconitine > aconitine",
+        "hypaconitine > mesaconitine > aconitine",
+        "aconitine > hypaconitine > mesaconitine"
+      ],
+      "answer": "mesaconitine > aconitine > hypaconitine",
+      "explanation": "진통: mesaconitine(메사) > aconitine(아코) > hypaconitine(하이포).\n오답은 \"aconitine이 이름 대표라 가장 강하다\"(1번 오답)나 순서를 뒤집은 것.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "부자의 aconitine계 알칼로이드 중 진통 작용이 가장 강한 것은?",
+      "choices": [
+        "mesaconitine",
+        "aconitine",
+        "hypaconitine",
+        "jesaconitine",
+        "higenamine"
+      ],
+      "answer": "mesaconitine",
+      "explanation": "진통 1위 = mesaconitine. higenamine은 진통이 아니라 강심 성분(benzylisoquinoline).\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "부자의 진통 순서(mesaconitine > aconitine > hypaconitine)에서 가장 약한 것은?",
+      "choices": [
+        "hypaconitine",
+        "mesaconitine",
+        "aconitine"
+      ],
+      "answer": "hypaconitine",
+      "explanation": "\"메 > 아 > 하이포\" — 하이포(hypo, 아래)가 가장 약하다고 외운다.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "부자에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "진통 작용은 mesaconitine이 aconitine보다 강하다",
+        "진통 작용은 aconitine이 가장 강하다",
+        "hypaconitine이 mesaconitine보다 진통 작용이 강하다",
+        "higenamine은 aconitine계 diterpene alkaloid이다",
+        "법제하면 aconitine이 mesaconitine으로 바뀌어 독성이 줄어든다"
+      ],
+      "answer": "진통 작용은 mesaconitine이 aconitine보다 강하다",
+      "explanation": "② ③ 순서 뒤집기, ④ higenamine은 benzylisoquinoline(diterpene 아님), ⑤ 법제 산물은 benzoylaconine → aconine.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "[족보 원형] 부자에 함유된 aconitine alkaloid를 가열·감압 처리할 때 생성되는 저독성 물질은?",
+      "choices": [
+        "aconine",
+        "aconitine",
+        "mesaconitine",
+        "higenamine",
+        "synephrine"
+      ],
+      "answer": "aconine",
+      "explanation": "aconitine(에스터 2개) → 가수분해 → benzoylaconine → aconine(독성 1/2000~1/4000).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "부자 법제 과정에서 aconitine이 aconine이 되기 전 거치는 중간 산물은?",
+      "choices": [
+        "benzoylaconine",
+        "mesaconitine",
+        "hypaconitine",
+        "higenamine",
+        "atisine"
+      ],
+      "answer": "benzoylaconine",
+      "explanation": "aconitine → (acetyl 떨어짐) benzoylaconine → (benzoyl 떨어짐) aconine. mesaconitine·hypaconitine은 같은 계열의 다른 성분이지 법제 산물이 아니다.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 7,
+      "question": "부자를 법제(가열)하면 aconitine이 가수분해되어 생기는 저독성 물질의 이름은? (주관식)",
+      "answer": [
+        "aconine",
+        "아코닌"
+      ],
+      "explanation": "정답: aconine. 가공부자는 가압·가열로 benzoylaconine까지 만든 것.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 8,
+      "question": "aconine의 독성은 aconitine과 비교해 대략 어느 정도인가?",
+      "choices": [
+        "aconitine의 1/2000~1/4000",
+        "aconitine의 1/2",
+        "aconitine의 1/20",
+        "aconitine과 같다",
+        "aconitine의 2배"
+      ],
+      "answer": "aconitine의 1/2000~1/4000",
+      "explanation": "법제하면 독성이 수천 분의 1로 줄어든다(수치 바꾸기 함정).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 9,
+      "question": "[족보 원형] 부자의 성분 중 강심 효과를 가지는 benzylisoquinoline alkaloid는?",
+      "choices": [
+        "higenamine",
+        "acetylshikonin",
+        "podophyllotoxin",
+        "alliin",
+        "baicalein"
+      ],
+      "answer": "higenamine",
+      "explanation": "부자 강심 = higenamine(β 작용약 유사)·coryneine. 오답은 각각 자근·백두옹(lignan)·대산·황금 성분.\n★★★ 족보 6회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "부자의 강심 성분 higenamine의 계열은?",
+      "choices": [
+        "benzylisoquinoline alkaloid",
+        "diterpene alkaloid",
+        "tropane alkaloid",
+        "indole alkaloid",
+        "quinolizidine alkaloid"
+      ],
+      "answer": "benzylisoquinoline alkaloid",
+      "explanation": "부자의 독성·진통 성분(aconitine계)은 diterpene alkaloid지만 강심 성분 higenamine은 benzylisoquinoline이다 — 둘을 섞는 것이 함정.\n★★★ 족보 6회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "강심 성분 higenamine을 함유하여 \"강심·진통·강장\"에 쓰는 생약은?",
+      "choices": [
+        "부자",
+        "감초",
+        "대황",
+        "황금",
+        "인삼"
+      ],
+      "answer": "부자",
+      "explanation": "higenamine → 부자(초오·세신·오약에도 소량).\n★★★ 족보 6회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "부자의 성분 중 강심 효과를 갖는 성분을 적으시오. (주관식)",
+      "answer": [
+        "higenamine",
+        "히게나민"
+      ],
+      "explanation": "정답: higenamine(+ coryneine).\n★★★ 족보 6회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "다음 중 교재에 나오는 부자의 약리 작용이 아닌 것은?",
+      "choices": [
+        "사하(anthraquinone)",
+        "강심(higenamine)",
+        "진통(mesaconitine)",
+        "항염증(ignavine)",
+        "혈당강하(aconitan A)"
+      ],
+      "answer": "사하(anthraquinone)",
+      "explanation": "사하·anthraquinone은 대황 계열.\n⚠ 족보 2024-1 원형(항염/진통/해열/이뇨 중 아닌 것)은 답이 복원되지 않아 교재 약리 목록으로 바꿨어요.\n★★★ 족보 6회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "[족보 원형] 부자와 오두(천오)에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "한방에서 부자는 찬 기운으로 인한 통증·저림에, 오두는 양기 보충에 사용한다",
+        "부자는 자근(곁뿌리), 오두는 모근(원뿌리)을 사용한다",
+        "부자는 소금으로 장시간 법제하고, 오두는 감초·검은콩과 함께 끓여 법제한다",
+        "부자·천오·초오 모두 Mayer 시약으로 확인할 수 있다",
+        "aconitine 중독의 사망 원인은 심한 부정맥이다"
+      ],
+      "answer": "한방에서 부자는 찬 기운으로 인한 통증·저림에, 오두는 양기 보충에 사용한다",
+      "explanation": "거꾸로: 부자 = 양기 보충, 오두 = 찬 기운으로 인한 통증·저림.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 15,
+      "question": "부자와 오두(천오)에 대한 설명으로 틀린 것은? (변형)",
+      "choices": [
+        "부자는 모근(원뿌리), 오두는 자근(곁뿌리)을 사용한다",
+        "한방에서 부자는 양기 보충에, 오두는 찬 기운으로 인한 통증·저림에 사용한다",
+        "부자는 소금으로 장시간 법제하고, 오두는 감초·검은콩과 함께 끓여 법제한다",
+        "부자·천오·초오 모두 Mayer 시약으로 확인할 수 있다",
+        "aconitine 중독의 사망 원인은 심한 부정맥이다"
+      ],
+      "answer": "부자는 모근(원뿌리), 오두는 자근(곁뿌리)을 사용한다",
+      "explanation": "부자(附子) = 어미뿌리에 \"붙은 자식\" = 자근. 오두(烏頭) = 모근.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "부자와 오두(천오)에 대한 설명으로 틀린 것은? (변형 2)",
+      "choices": [
+        "aconitine 중독의 사망 원인은 호흡중추 마비이다",
+        "한방에서 부자는 양기 보충에, 오두는 찬 기운으로 인한 통증·저림에 사용한다",
+        "부자는 자근, 오두는 모근을 사용한다",
+        "오두는 감초와 검은콩으로 5시간 이상 끓여 법제한 뒤 사용한다",
+        "부자·천오·초오 모두 Mayer 시약으로 확인할 수 있다"
+      ],
+      "answer": "aconitine 중독의 사망 원인은 호흡중추 마비이다",
+      "explanation": "aconitine 중독: 혀끝 마비 → 부정맥(A-V node) → 24시간 내 사망. 호흡 마비가 아니다.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "aconitine 중독의 주된 사망 원인은?",
+      "choices": [
+        "심한 부정맥",
+        "호흡중추 마비",
+        "급성 간부전",
+        "급성 신부전",
+        "저혈당 쇼크"
+      ],
+      "answer": "심한 부정맥",
+      "explanation": "부정맥 작용 순서도 따로 있다: beiwutine > mesaconitine > aconitine > hypaconitine.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 18,
+      "question": "[족보 원형] 오두(천오)의 기원식물은?",
+      "choices": [
+        "Aconitum carmichaeli",
+        "Aconitum kusnezoffii",
+        "Aconitum ciliare",
+        "Aconitum koreanum",
+        "Quisqualis indica"
+      ],
+      "answer": "Aconitum carmichaeli",
+      "explanation": "천오·부자 = A. carmichaeli(모근·자근). 초오 = A. kusnezoffii·A. ciliare. A. koreanum = 백부자.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 19,
+      "question": "반드시 법제하여 사용해야 하는 생약을 모두 고르시오.\nㄱ. 부자\nㄴ. 천오\nㄷ. 절패모\nㄹ. 감초",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "법제 필수: 부자·천오·초오·절패모(석회). 감초는 오히려 다른 독성 약을 완화하는 약.\n★★ 족보 2회 출제(2021-2, 2025-2)"
+    },
+    {
+      "id": 20,
+      "question": "[족보 원형] 임부 금기이며 감초와 함께 사용하면 독성이 강해지는 생약은?",
+      "choices": [
+        "대극",
+        "데리스근",
+        "단삼",
+        "부자",
+        "백두옹"
+      ],
+      "answer": "대극",
+      "explanation": "대극(대극과): 이뇨·준하약, 감초와 함께 쓰면 독성↑. 부자는 반대로 감초와 달이면 독성↓.\n★★★ 족보 3회 출제(2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 21,
+      "question": "교재에서 감초·생강·검은콩 등과 함께 달이면 독성이 줄어든다고 한 생약은?",
+      "choices": [
+        "부자",
+        "대극",
+        "고삼",
+        "대황",
+        "괄루근"
+      ],
+      "answer": "부자",
+      "explanation": "부자 ↔ 대극: 감초와의 관계가 정반대(부자 독성↓ / 대극 독성↑).\n★★★ 족보 3회 출제(2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 22,
+      "question": "임부 금기이며 감초와 함께 쓰면 독성이 강해지는 생약을 적으시오. (주관식)",
+      "answer": [
+        "대극",
+        "大戟"
+      ],
+      "explanation": "정답: 대극(Euphorbiae Pekinensis Radix, 대극과). 십조탕의 구성 생약.\n★★★ 족보 3회 출제(2022-2, 2023-2, 2024-1)"
+    }
+  ]
+}

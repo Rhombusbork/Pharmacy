@@ -1,0 +1,288 @@
+{
+  "deckId": "pharmacognosy-final-vary-8",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 8: 가공·독성·비교 (지황·홍삼·대황·생강·반하)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] 지황에는 많으나 건지황과 숙지황에는 상대적으로 적은 성분은?",
+      "choices": [
+        "stachyose",
+        "manninotriose",
+        "5-HMF",
+        "sennoside A"
+      ],
+      "answer": "stachyose",
+      "explanation": "찌고 말리면 stachyose(4당)가 분해 → manninotriose(3당)↑, 5-HMF 생성.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "[족보 원형] 숙지황의 지표 성분은?",
+      "choices": [
+        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
+        "stachyose",
+        "catalpol",
+        "acteoside",
+        "paeoniflorin"
+      ],
+      "answer": "5-hydroxymethyl-2-furaldehyde(5-HMF)",
+      "explanation": "쪄서 생기는 furan 알데하이드.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "숙지황의 지표성분 5-HMF의 정식 이름을 적으시오. (주관식)",
+      "answer": [
+        "5-hydroxymethyl-2-furaldehyde",
+        "5-hydroxymethylfurfural",
+        "5-hydroxymethyl-2-furfural"
+      ],
+      "explanation": "정답: 5-hydroxymethyl-2-furaldehyde.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "숙지황이 생지황보다 더 많이 함유하는 것을 모두 고르시오.\nㄱ. manninotriose\nㄴ. 5-HMF\nㄷ. stachyose\nㄹ. catalpol",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "숙지황: manninotriose·5-HMF↑ / stachyose·catalpol·iridoid 배당체↓.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "숙지황을 만드는 방법은?",
+      "choices": [
+        "지황을 술 등과 함께 쪄서 말리기를 반복한다",
+        "석회수에 담갔다가 햇빛에 말린다",
+        "소금물에 담가 햇볕에 말리기를 반복한다",
+        "식초로 볶는다",
+        "생강·백반으로 법제한다"
+      ],
+      "answer": "지황을 술 등과 함께 쪄서 말리기를 반복한다",
+      "explanation": "오답은 반하(석회수)·부자(소금)·삼릉(식초)·반하(생강·백반)의 법제.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "[족보 원형] 인삼을 쪄서 홍삼으로 만들 때 생기는 홍삼 특유의 성분은?",
+      "choices": [
+        "ginsenoside Rh₂·Rg₃",
+        "malonyl-ginsenoside",
+        "ginsenoside Rb₁",
+        "ginsenoside Rg₁",
+        "ginsenoside Ro"
+      ],
+      "answer": "ginsenoside Rh₂·Rg₃",
+      "explanation": "malonyl-ginsenoside는 반대로 수삼·건삼 특유(찌면 사라짐). Rb₁·Rg₁은 인삼·홍삼 공통 지표.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    },
+    {
+      "id": 7,
+      "question": "인삼을 쪄서 홍삼으로 만들 때 생기는 특유 성분 하나를 적으시오. (주관식)",
+      "answer": [
+        "ginsenoside Rg3",
+        "Rg3",
+        "ginsenoside Rh2",
+        "Rh2",
+        "20(S)-Rg3"
+      ],
+      "explanation": "정답: ginsenoside Rh₂, Rg₃ (20(R)-Rg₂, Rs₁ 등).\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    },
+    {
+      "id": 8,
+      "question": "수삼·건삼에 특유하며 홍삼 제조 과정에서 변환되어 줄어드는 성분은?",
+      "choices": [
+        "malonyl-ginsenoside",
+        "ginsenoside Rh₂",
+        "ginsenoside Rg₃",
+        "ginsenoside Rg₁",
+        "panaxytriol"
+      ],
+      "answer": "malonyl-ginsenoside",
+      "explanation": "홍삼 특유 ↔ 수삼 특유 방향 바꾸기 함정.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    },
+    {
+      "id": 9,
+      "question": "[족보 원형] 신선한 대황에서 복통을 유발하는 성분은?",
+      "choices": [
+        "유리형 anthrone(rhein anthrone)",
+        "catechin",
+        "sennoside A",
+        "rhatannin",
+        "chrysophanol"
+      ],
+      "answer": "유리형 anthrone(rhein anthrone)",
+      "explanation": "sennoside(배당체)는 대장까지 가서 사하 작용 / 유리형 anthrone이 생약에 있으면 복통·구토 → 1년 이상 지난 것을 쓴다.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "[족보 원형] 채취 후 1년 이상 경과한 것을 사용해야 하는 생약은?",
+      "choices": [
+        "대황",
+        "반하",
+        "대산",
+        "방기",
+        "맥문동"
+      ],
+      "answer": "대황",
+      "explanation": "신선한 대황의 유리형 anthrone이 산화되어 줄어들도록.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "대황 sennoside의 사하 기전으로 옳은 것은?",
+      "choices": [
+        "흡수되지 않고 대장으로 가서 장내세균이 rhein anthrone으로 분해한다",
+        "소장에서 흡수되어 혈액을 통해 장 신경을 자극한다",
+        "위에서 산에 의해 rhein으로 분해된다",
+        "배당체 형태 그대로 장 연동을 촉진한다",
+        "간에서 대사되어 담즙으로 배출된다"
+      ],
+      "answer": "흡수되지 않고 대장으로 가서 장내세균이 rhein anthrone으로 분해한다",
+      "explanation": "배당체형은 대장까지 가기 위해 필수.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "[족보 원형] 다음 중 임부에게 금지되지 않은 생약은?",
+      "choices": [
+        "백출",
+        "부자",
+        "대황",
+        "우슬",
+        "괄루근"
+      ],
+      "answer": "백출",
+      "explanation": "백출은 안태(태아 안정) 효능.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "[족보 원형] 생강과 건강의 설명으로 옳지 않은 것은?",
+      "choices": [
+        "건강이 생강보다 땀 배출로 인한 발한 효과가 더 크다",
+        "생강의 건조 과정에서 shogaol의 양이 증가한다",
+        "담즙 분비 증가, 구토 억제 효과를 가지며 멀미·수술 후·임산부의 구토에 효과적이다",
+        "항암 효능을 가진다",
+        "진정, 진통, 일과성 혈압강하 및 위운동 억제 작용이 있다"
+      ],
+      "answer": "건강이 생강보다 땀 배출로 인한 발한 효과가 더 크다",
+      "explanation": "발한은 말리지 않은 생강이 더 강하다.\n★★ 족보 2회 출제(2023-2, 2024-1)"
+    },
+    {
+      "id": 14,
+      "question": "생강과 건강의 설명으로 옳지 않은 것은? (변형)",
+      "choices": [
+        "생강의 건조 과정에서 shogaol의 양이 감소한다",
+        "생강이 건강보다 발한 효과가 더 크다",
+        "담즙 분비 증가, 구토 억제 효과가 있다",
+        "6-gingerol은 항암 효능이 있다",
+        "진정, 진통, 일과성 혈압강하 작용이 있다"
+      ],
+      "answer": "생강의 건조 과정에서 shogaol의 양이 감소한다",
+      "explanation": "건조(가열) → gingerol 탈수 → shogaol 증가.\n★★ 족보 2회 출제(2023-2, 2024-1)"
+    },
+    {
+      "id": 15,
+      "question": "[족보 원형] 건강의 6-gingerol·6-shogaol의 작용이 아닌 것은?",
+      "choices": [
+        "위운동 촉진",
+        "진정",
+        "진통",
+        "일과성 혈압강하",
+        "위운동 억제"
+      ],
+      "answer": "위운동 촉진",
+      "explanation": "교재: 위운동 \"억제\" — 반의어 함정.\n★★ 족보 2회 출제(2023-2, 2024-1)"
+    },
+    {
+      "id": 16,
+      "question": "[족보 원형] 석회수에 담갔다가 햇빛에 말려 법제하는 생약으로 옳은 것은?",
+      "choices": [
+        "반하",
+        "부자",
+        "감초",
+        "황련",
+        "천궁"
+      ],
+      "answer": "반하",
+      "explanation": "반하: 석회수(법반하)·생강·백반(강반하). 절패모도 석회 법제.\n★ 족보 1회 출제(2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "[족보 원형] 독성이 있어서 반드시 생강으로 법제한 후 사용해야 하는 생약은?",
+      "choices": [
+        "반하",
+        "대산",
+        "방기",
+        "대황",
+        "맥문동"
+      ],
+      "answer": "반하",
+      "explanation": "법제하지 않은 반하는 오히려 구토를 일으킨다.\n★ 족보 1회 출제(2025-2)"
+    },
+    {
+      "id": 18,
+      "question": "법제하지 않은 반하의 작용은?",
+      "choices": [
+        "구토를 일으킨다(최토)",
+        "구토를 억제한다",
+        "설사를 멈춘다",
+        "땀을 멈춘다",
+        "혈압을 높인다"
+      ],
+      "answer": "구토를 일으킨다(최토)",
+      "explanation": "법제 반하 = 진토 / 생반하 = 최토.\n★ 족보 1회 출제(2025-2)"
+    },
+    {
+      "id": 19,
+      "question": "[족보 원형] 과량 복용 시 경련 발작을 일으키며, 질식과 피로로 사망할 수 있는 생약은?",
+      "choices": [
+        "호미카",
+        "카라발두",
+        "스트로판투스",
+        "콜히쿰자",
+        "육두구"
+      ],
+      "answer": "호미카",
+      "explanation": "strychnine → 척수 반사 흥분 → 후궁반장.\n★ 족보 1회 출제(2025-2)"
+    },
+    {
+      "id": 20,
+      "question": "호미카 strychnine의 작용은?",
+      "choices": [
+        "척수의 반사 흥분성 항진",
+        "척수 반사 억제",
+        "AChE 억제",
+        "tubulin 결합",
+        "Na⁺/K⁺-ATPase 억제"
+      ],
+      "answer": "척수의 반사 흥분성 항진",
+      "explanation": "AChE 억제 = 카라발두, tubulin = 콜히쿰자, Na⁺/K⁺-ATPase = 스트로판투스(ouabain).\n★ 족보 1회 출제(2025-2)"
+    },
+    {
+      "id": 21,
+      "question": "[족보 원형] 다음 중 신장독성 성분을 갖는 물질은?",
+      "choices": [
+        "aristolochic acid",
+        "glycyrrhizin",
+        "aconine",
+        "trichosanthin",
+        "rotenone"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "세신(지상부).\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 22,
+      "question": "홍삼·인삼에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "인삼의 saponin은 oleanane형이 대부분이다",
+        "ginsenoside Rg₁·Rb₁이 지표성분이다",
+        "Rb군은 중추 억제, Rg군은 중추 흥분 작용을 한다",
+        "홍삼은 인삼을 쪄서 만든다",
+        "홍삼에는 ginsenoside Rh₂·Rg₃가 특유하게 들어 있다"
+      ],
+      "answer": "인삼의 saponin은 oleanane형이 대부분이다",
+      "explanation": "인삼 = dammarane형(Ro만 oleanane).\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    }
+  ]
+}

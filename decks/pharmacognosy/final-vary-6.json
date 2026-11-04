@@ -1,0 +1,391 @@
+{
+  "deckId": "pharmacognosy-final-vary-6",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 6: 라틴·한자·산지·약전 지표 함량",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] 견우자(Pharbitidis Semen)의 한자명은?",
+      "choices": [
+        "牽牛子",
+        "牛膝",
+        "決明子",
+        "菟絲子",
+        "牛蒡子"
+      ],
+      "answer": "牽牛子",
+      "explanation": "牽牛子 = 소를 끌고 가 바꿀 만큼 귀한 씨. 牛膝 = 우슬.\n★★ 족보 2회 출제(2020-2, 2022-2)"
+    },
+    {
+      "id": 2,
+      "question": "[족보 원형] Psoraleae Semen의 한자명은?",
+      "choices": [
+        "補骨脂",
+        "骨碎補",
+        "地骨皮",
+        "白芷",
+        "決明子"
+      ],
+      "answer": "補骨脂",
+      "explanation": "보골지 = 뼈(骨)를 보(補)하는 기름(脂).\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "'갈화'의 라틴 생약명을 적으시오. (주관식)",
+      "answer": [
+        "Puerariae Flos",
+        "Pueraria flos",
+        "Puerariae flos"
+      ],
+      "explanation": "갈근 = Puerariae Radix(뿌리), 갈화 = Puerariae Flos(꽃).\n★★★ 족보 5회 출제(2020-2, 2021-2, 2023-1, 2024-1, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "[족보 원형] 대산의 라틴 생약명은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Allii Bulbus",
+      "explanation": "Bulbus = 비늘줄기(마늘).\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "[족보 원형] 대황의 라틴 생약명은?",
+      "choices": [
+        "Rhei Radix et Rhizoma",
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Rhei Radix et Rhizoma",
+      "explanation": "대황 = 뿌리 및 뿌리줄기.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "[족보 원형] 구릿대의 뿌리로 약용하는 것은?",
+      "choices": [
+        "백지",
+        "강활",
+        "독활",
+        "당귀",
+        "방풍"
+      ],
+      "answer": "백지",
+      "explanation": "백지 = 구릿대 Angelica dahurica(미나리과)."
+    },
+    {
+      "id": 7,
+      "question": "[족보 원형] 개연꽃 및 동속식물의 뿌리줄기를 쓰는 생약은?",
+      "choices": [
+        "천골",
+        "연자육",
+        "택사",
+        "향부자",
+        "노근"
+      ],
+      "answer": "천골",
+      "explanation": "천골(수련과 Nuphar). 연자육은 같은 수련과지만 \"연꽃\"의 씨 — 이름 함정.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 8,
+      "question": "[족보 원형] 소아 키 성장과 노인 강장(보중익기탕)에 주로 쓰이며 급만성 신염에도 쓰는 생약의 라틴 생약명은?",
+      "choices": [
+        "Astragali Radix",
+        "Ginseng Radix",
+        "Codonopsis Pilosulae Radix",
+        "Glycyrrhizae Radix et Rhizoma",
+        "Achyranthis Radix"
+      ],
+      "answer": "Astragali Radix",
+      "explanation": "황기 — 강장·강심·이뇨·지한.\n★★★ 족보 3회 출제(2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 9,
+      "question": "[족보 원형] 강장약으로 비위허약에 의한 식욕부진·설사·사지무력·피로에 쓰이는 생약은?",
+      "choices": [
+        "당삼",
+        "작약",
+        "황기",
+        "구기자",
+        "산수유"
+      ],
+      "answer": "당삼",
+      "explanation": "당삼(만삼, 초롱꽃과 Codonopsis).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "[족보 원형] 토근의 주요 산지는?",
+      "choices": [
+        "브라질",
+        "러시아",
+        "일본",
+        "중국",
+        "유럽"
+      ],
+      "answer": "브라질",
+      "explanation": "리오토근 = 브라질 Matto Grosso.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "[족보 원형] 원산지가 말레이반도·수마트라·보르네오·대만에 해당하는 생약은?",
+      "choices": [
+        "데리스근",
+        "인도사목",
+        "토근",
+        "세네가",
+        "칼룸바"
+      ],
+      "answer": "데리스근",
+      "explanation": "rotenone 살충제 원료.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "[족보 원형] 북미가 원산지인 거담 생약은?",
+      "choices": [
+        "세네가",
+        "인도사목",
+        "토근",
+        "칼룸바",
+        "데리스근"
+      ],
+      "answer": "세네가",
+      "explanation": "세네가 snake root(북미 원주민 약). 히드라스티스근도 북미산이지만 지혈약.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "[족보 원형] 원산지가 인도(주산지)·버마·파키스탄·스리랑카인 생약은?",
+      "choices": [
+        "인도사목",
+        "데리스근",
+        "토근",
+        "칼룸바",
+        "세네가"
+      ],
+      "answer": "인도사목",
+      "explanation": "이름에 산지가 들어 있다.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "[족보 원형] 원산지가 동부 아프리카 모잠비크 지방·마다가스카르 섬인 생약은?",
+      "choices": [
+        "칼룸바",
+        "토근",
+        "인도사목",
+        "세네가",
+        "데리스근"
+      ],
+      "answer": "칼룸바",
+      "explanation": "칼룸바(방기과).\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 15,
+      "question": "[족보 원형] 3대 거담 생약은 세네가, 원지, ( )이다.",
+      "choices": [
+        "길경",
+        "감초",
+        "맥문동",
+        "절패모",
+        "행인"
+      ],
+      "answer": "길경",
+      "explanation": "세 가지 모두 triterpenoid saponin 거담약.\n★★★ 족보 5회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "3대 거담 생약 중 세네가·원지가 아닌 나머지 하나를 적으시오. (주관식)",
+      "answer": [
+        "길경",
+        "桔梗",
+        "도라지"
+      ],
+      "explanation": "정답: 길경.\n★★★ 족보 5회 출제(2020-2, 2021-2, 2022-2, 2023-1, 2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "[족보 원형] 스테로이드 호르몬 합성 원료(diosgenin)를 포함하는 생약은?",
+      "choices": [
+        "산약",
+        "지모",
+        "맥문동",
+        "길경",
+        "감초"
+      ],
+      "answer": "산약",
+      "explanation": "지모 aglycone = sarsasapogenin(diosgenin 아님)."
+    },
+    {
+      "id": 18,
+      "question": "[족보 원형] 대한약전 지표성분: puerarin 2.0% 이상 및 daidzin 0.3% 이상",
+      "choices": [
+        "갈근",
+        "갈화",
+        "감초",
+        "황기",
+        "고삼"
+      ],
+      "answer": "갈근",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 19,
+      "question": "[족보 원형] 대한약전 지표성분: oxymatrine 및 matrine 합 1.0% 이상",
+      "choices": [
+        "고삼",
+        "갈근",
+        "데리스근",
+        "황기",
+        "감초"
+      ],
+      "answer": "고삼",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 20,
+      "question": "[족보 원형] 대한약전 지표성분: salvianolic acid 4.1% 이상",
+      "choices": [
+        "단삼",
+        "당귀",
+        "독활",
+        "백지",
+        "시호"
+      ],
+      "answer": "단삼",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 21,
+      "question": "[족보 원형] 대한약전 지표성분: nodakenin, decursin 및 decursinol angelate 합 6.0% 이상",
+      "choices": [
+        "당귀",
+        "일당귀",
+        "백지",
+        "강활",
+        "전호"
+      ],
+      "answer": "당귀",
+      "explanation": "일당귀는 phthalide라 decursin이 없다.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 22,
+      "question": "[족보 원형] 대한약전 지표성분: kaurenoic acid 및 continentalic acid 합 0.4% 이상",
+      "choices": [
+        "독활",
+        "강활",
+        "백지",
+        "방풍",
+        "단삼"
+      ],
+      "answer": "독활",
+      "explanation": "독활(두릅나무과) diterpenoid.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 23,
+      "question": "[족보 원형] 대한약전 지표성분: oxypeucedanin, imperatorin 및 isoimperatorin 합 0.7% 이상",
+      "choices": [
+        "백지",
+        "강활",
+        "당귀",
+        "방풍",
+        "시호"
+      ],
+      "answer": "백지",
+      "explanation": "백지 = furanocoumarin.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 24,
+      "question": "[족보 원형] 대한약전 지표성분: 총 alkaloid(aconitine으로서) 0.5% 이상",
+      "choices": [
+        "부자",
+        "인도사목",
+        "토근",
+        "스코폴리아근",
+        "절패모"
+      ],
+      "answer": "부자",
+      "explanation": "천오·초오도 같은 기준.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 25,
+      "question": "[족보 원형] 대한약전 지표성분: saikosaponin a 0.3% 이상",
+      "choices": [
+        "시호",
+        "길경",
+        "원지",
+        "세네가",
+        "인삼"
+      ],
+      "answer": "시호",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 26,
+      "question": "[족보 원형] 대한약전 지표성분: 총 alkaloid(reserpine으로서) 0.8% 이상",
+      "choices": [
+        "인도사목",
+        "부자",
+        "토근",
+        "스코폴리아근",
+        "현호색"
+      ],
+      "answer": "인도사목",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 27,
+      "question": "[족보 원형] ginsenoside Rg₁ 0.10% 이상, ginsenoside Rb₁ 0.20% 이상을 지표로 하는 생약을 모두 고르시오.\nㄱ. 인삼\nㄴ. 홍삼\nㄷ. 삼칠\nㄹ. 당삼",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "삼칠은 dammarane saponin이 있지만 이 기준이 아니다.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 28,
+      "question": "[족보 원형] 대한약전 지표성분: albiflorin 및 paeoniflorin 합 2.3% 이상",
+      "choices": [
+        "작약",
+        "목단피",
+        "당귀",
+        "천궁",
+        "감초"
+      ],
+      "answer": "작약",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 29,
+      "question": "[족보 원형] 대한약전 지표성분: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상, emodin·physcion 합 0.10% 이상",
+      "choices": [
+        "하수오",
+        "대황",
+        "결명자",
+        "천초근",
+        "지황"
+      ],
+      "answer": "하수오",
+      "explanation": "stilbene glucoside → 하수오. emodin만 보고 대황을 고르는 함정.\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    },
+    {
+      "id": 30,
+      "question": "[족보 원형] 대한약전 지표성분: baicalin, baicalein 및 wogonin 합 10.0% 이상",
+      "choices": [
+        "황금",
+        "황련",
+        "시호",
+        "단삼",
+        "갈근"
+      ],
+      "answer": "황금",
+      "explanation": "약전 지표 함량 → 생약 (주관식 단골)\n★★★ 족보 3회 출제(2022-2, 2023-1, 2024-1)"
+    }
+  ]
+}

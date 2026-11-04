@@ -1,0 +1,267 @@
+{
+  "deckId": "pharmacognosy-final-vary-9",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 9: 확인시험·지표·[73-81]형 보기",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] 스코폴리아근의 확인시험 방법은?",
+      "choices": [
+        "Vitali 반응",
+        "Liebermann-Burchard 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Vitali 반응",
+      "explanation": "발연질산 → 적자색~자색: tropane(tropic acid) 검출.\n★★★ 족보 3회 출제(2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "[족보 원형] 산약의 확인시험법으로 옳은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "steroidal saponin(dioscin).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "[족보 원형] Polygoni Multiflori Radix(하수오)의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Bornträger 반응",
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Bornträger 반응",
+      "explanation": "가루 + NH₄OH → 붉은색: anthraquinone(emodin 등).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "[족보 원형] 지모의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "steroidal saponin(timosaponin) — 기포 시험도 함께.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "[족보 원형] Ipecacuanhae Radix et Rhizoma(토근)의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Snelling 반응",
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응"
+      ],
+      "answer": "Snelling 반응",
+      "explanation": "HCl 여액 증발 + 표백분 → 적색(emetine).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "[족보 원형] 대황의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Bornträger 반응",
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Bornträger 반응",
+      "explanation": "10% KOH → 적색(anthraquinone).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 7,
+      "question": "[족보 원형] 독활의 확인시험법을 고르시오.",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "접계면 적색, 위층 황적색(diterpenoid·triterpenoid).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 8,
+      "question": "[족보 원형] 맥문동의 확인시험으로 가장 알맞은 것은?",
+      "choices": [
+        "흔들면 거품이 생기는 기포 시험(saponin)",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "흔들면 거품이 생기는 기포 시험(saponin)",
+      "explanation": "실습 표: saponin(원지·맥문동) = 물 + 흔들기 → froth reaction.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 9,
+      "question": "[족보 원형] 다음 중 Bornträger 반응으로 확인이 가능한 것은?",
+      "choices": [
+        "대황",
+        "감초",
+        "스코폴리아근",
+        "황련",
+        "지모"
+      ],
+      "answer": "대황",
+      "explanation": "anthraquinone 생약: 대황·하수오·결명자·센나.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "[족보 원형] 고삼의 확인반응에 이용되는 시약은?",
+      "choices": [
+        "Dragendorff 시액(등황색 침전)",
+        "Liebermann-Burchard 시약",
+        "FeCl₃ 시액",
+        "KOH 시액",
+        "vanillin·HCl"
+      ],
+      "answer": "Dragendorff 시액(등황색 침전)",
+      "explanation": "matrine 등 alkaloid → Dragendorff.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "[족보 원형] alkaloid 정색반응(Dragendorff·Mayer)으로 확인하는 생약을 모두 고르시오.\nㄱ. 방기\nㄴ. 현호색\nㄷ. 황백\nㄹ. 대황",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "대황 = Bornträger(anthraquinone).\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "각 반응과 검출하는 성분 계열의 연결이 옳지 않은 것은?",
+      "choices": [
+        "Bornträger 반응 – tropane alkaloid",
+        "Liebermann-Burchard 반응 – steroid·triterpenoid",
+        "Vitali 반응 – tropane alkaloid",
+        "FeCl₃ 정색반응 – phenol·tannin",
+        "Dragendorff 시액 – alkaloid"
+      ],
+      "answer": "Bornträger 반응 – tropane alkaloid",
+      "explanation": "Bornträger = anthraquinone.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "[족보 원형] 황금처럼 flavonoid를 확인하는 정색반응(Shinoda 반응)에 염산과 함께 쓰는 금속은?",
+      "choices": [
+        "Mg",
+        "Zn",
+        "Fe",
+        "Cu",
+        "K"
+      ],
+      "answer": "Mg",
+      "explanation": "실습 표: flavonoid – 황금 – (Mg), 염산.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "행인을 물과 함께 빻을 때 나는 냄새의 원인은?",
+      "choices": [
+        "benzaldehyde",
+        "allyl isothiocyanate",
+        "allicin",
+        "methyl salicylate",
+        "eugenol"
+      ],
+      "answer": "benzaldehyde",
+      "explanation": "amygdalin → (emulsin) → benzaldehyde + HCN. methyl salicylate = 세네가 냄새.\n★ 족보 1회 출제(2024-1)"
+    },
+    {
+      "id": 15,
+      "question": "[족보 원형] 건조하여 정량했을 때 mangiferin 0.7% 이상을 함유하는 생약은?",
+      "choices": [
+        "지모",
+        "맥문동",
+        "천문동",
+        "산약",
+        "황정"
+      ],
+      "answer": "지모",
+      "explanation": "mangiferin = xanthone C-glycoside. 지모 혈당강하 = anemaran A.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "[족보 원형] 지모의 혈당강하 성분은?",
+      "choices": [
+        "anemaran A",
+        "cinnamaldehyde",
+        "saikosaponin",
+        "berberine",
+        "sinomenine"
+      ],
+      "answer": "anemaran A",
+      "explanation": "anemaran A~D(glycan) + mangiferin.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "[족보 원형] 다음 중 건조 시 emetine을 2% 이상 함유하는 생약은?",
+      "choices": [
+        "토근",
+        "인도사목",
+        "현호색",
+        "황련",
+        "스코폴리아근"
+      ],
+      "answer": "토근",
+      "explanation": "emetine + cephaeline 2.0% 이상.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 18,
+      "question": "[족보 원형] 지표성분이 paeoniflorin인 생약은?",
+      "choices": [
+        "작약",
+        "목단피",
+        "당귀",
+        "천궁",
+        "감초"
+      ],
+      "answer": "작약",
+      "explanation": "albiflorin + paeoniflorin 2.3%."
+    },
+    {
+      "id": 19,
+      "question": "[족보 원형] Steroidal saponin을 함유하고 진해·거담 효과를 갖는 생약은?",
+      "choices": [
+        "맥문동",
+        "대산",
+        "방기",
+        "대황",
+        "반하"
+      ],
+      "answer": "맥문동",
+      "explanation": "ophiopogonin(steroidal saponin) + homoisoflavonoid."
+    },
+    {
+      "id": 20,
+      "question": "[족보 원형] 부종·관절수종에 대해 소염 진통약으로 사용되는 생약은?",
+      "choices": [
+        "방기",
+        "대산",
+        "반하",
+        "대황",
+        "맥문동"
+      ],
+      "answer": "방기",
+      "explanation": "sinomenine → 항과민·항염증(관절염)."
+    }
+  ]
+}

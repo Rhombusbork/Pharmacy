@@ -1,0 +1,380 @@
+{
+  "deckId": "pharmacognosy-final-vary-2",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 2: 성분 → 생약 ① (향부자·패모·protoberberine·인도사목·대산·개자)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] sesquiterpenoid 성분인 cyperene 또는 α-cyperone을 함유하는 생약은?",
+      "choices": [
+        "향부자",
+        "방풍",
+        "해방풍",
+        "현호색",
+        "히드라스티스근"
+      ],
+      "answer": "향부자",
+      "explanation": "향부자(사초과) 정유의 주성분 = cyperene. 오답은 chromone(방풍)·polyacetylene(해방풍)·isoquinoline(현호색·히드라스티스근).\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "향부자(Cyperi Rhizoma) 정유의 주성분은?",
+      "choices": [
+        "cyperene",
+        "atractylon",
+        "β-eudesmol",
+        "costunolide",
+        "zingiberene"
+      ],
+      "answer": "cyperene",
+      "explanation": "오답은 모두 다른 생약의 sesquiterpene: 백출·창출·목향·건강.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "향부자의 cyperene·α-cyperone의 계열은?",
+      "choices": [
+        "sesquiterpenoid",
+        "monoterpenoid",
+        "diterpenoid",
+        "triterpenoid",
+        "phenylpropanoid"
+      ],
+      "answer": "sesquiterpenoid",
+      "explanation": "족보 문장 자체에 \"sesquiterpenoid 성분인 cyperene\"이라고 나온다.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "Cyperi Rhizoma의 약리 작용이 아닌 것은?",
+      "choices": [
+        "자궁 수축 촉진",
+        "자궁 수축 억제·진통",
+        "위액·타액 분비 촉진(위·복통 경감)",
+        "항염증(α-cyperone)",
+        "항말라리아"
+      ],
+      "answer": "자궁 수축 촉진",
+      "explanation": "향부자는 자궁근을 이완(수축 억제)시켜 월경통에 쓴다 — 반의어 함정.\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "Cyperi Rhizoma의 한글 생약명을 적으시오. (주관식)",
+      "answer": [
+        "향부자",
+        "香附子"
+      ],
+      "explanation": "정답: 향부자(사초과 Cyperus rotundus의 뿌리줄기).\n★★★ 족보 5회 출제(2020-2, 2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "[족보 원형] peimine 또는 peiminoside를 성분으로 가지는 생약은?",
+      "choices": [
+        "절패모",
+        "위령선",
+        "자근",
+        "승마",
+        "지황"
+      ],
+      "answer": "절패모",
+      "explanation": "패모(貝母) → peimine. 절패모 = 중국패모 Fritillaria thunbergii의 비늘줄기(백합과).\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 7,
+      "question": "절패모의 peimine(= verticine)의 계열은?",
+      "choices": [
+        "steroidal alkaloid",
+        "isoquinoline alkaloid",
+        "tropane alkaloid",
+        "diterpene alkaloid",
+        "indole alkaloid"
+      ],
+      "answer": "steroidal alkaloid",
+      "explanation": "백합과의 steroidal alkaloid: 패모(peimine), 여로(jervine·protoveratrine).\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 8,
+      "question": "절패모를 석회에 담갔다가 햇빛에 말리면 생겨 독성은 줄고 혈압강하 작용은 커지는 물질은?",
+      "choices": [
+        "peimine N-oxide",
+        "peiminine",
+        "verticinone",
+        "aconine",
+        "5-HMF"
+      ],
+      "answer": "peimine N-oxide",
+      "explanation": "법제 → N-oxide. aconine(부자)·5-HMF(숙지황)는 다른 생약의 가공 산물.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 9,
+      "question": "같은 백합과 steroidal alkaloid 생약 중, jervine·protoveratrine을 함유하고 혈압강하·살충제로 쓰는 것은?",
+      "choices": [
+        "여로",
+        "절패모",
+        "지모",
+        "맥문동",
+        "천문동"
+      ],
+      "answer": "여로",
+      "explanation": "여로 ↔ 절패모: 둘 다 백합과 steroidal alkaloid. 여로 = 혈압강하·살충, 패모 = 진해.\n★★★ 족보 4회 출제(2020-2, 2022-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 10,
+      "question": "[족보 원형] 다음 중 protoberberine alkaloid를 함유하고 있는 생약을 모두 고르시오.\nㄱ. Hydrastidis Rhizoma\nㄴ. Glehniae Radix\nㄷ. Coptidis Rhizoma\nㄹ. Brassicae Semen",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ",
+        "ㄱ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "Hydrastidis(히드라스티스근: berberine)·Coptidis(황련). Glehniae = 해방풍(polyacetylene), Brassicae = 개자(sinigrin).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "protoberberine alkaloid를 함유하는 생약은?",
+      "choices": [
+        "황련",
+        "해방풍",
+        "개자",
+        "천마",
+        "향부자"
+      ],
+      "answer": "황련",
+      "explanation": "berberine·palmatine·coptisine = protoberberine → 황련·황백·히드라스티스근·칼룸바.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "[족보 원형] 황련의 성분을 모두 고르시오.\nㄱ. berberine\nㄴ. palmatine\nㄷ. coptisine\nㄹ. sinomenine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "sinomenine은 방기(phenanthrene/morphinan계 alkaloid).\n★★ 족보 2회 출제(2024-1, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "[족보 원형] 황련 성분 중 berberine의 약리 작용이 아닌 것은?",
+      "choices": [
+        "항말라리아 작용",
+        "항균 작용",
+        "정장지사 작용",
+        "중추신경 억제 작용",
+        "항염증 작용"
+      ],
+      "answer": "항말라리아 작용",
+      "explanation": "항말라리아는 향부자(α-cyperone)의 작용. berberine: 항균·항콜레라독소·혈압강하·해열·담즙분비·콜레스테롤 저하.\n★★ 족보 2회 출제(2024-1, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "황련의 과명은?",
+      "choices": [
+        "미나리아재비과 Ranunculaceae",
+        "매자나무과 Berberidaceae",
+        "운향과 Rutaceae",
+        "양귀비과 Papaveraceae",
+        "방기과 Menispermaceae"
+      ],
+      "answer": "미나리아재비과 Ranunculaceae",
+      "explanation": "berberine을 가진 다른 생약의 과가 오답: 매자나무(Berberis), 황백(운향과), 현호색(양귀비과), 칼룸바(방기과).\n★★ 족보 2회 출제(2024-1, 2025-2)"
+    },
+    {
+      "id": 15,
+      "question": "palmatine·jateorrhizine(protoberberine)을 함유하며, 동아프리카 모잠비크·마다가스카르에서 나는 고미건위약은?",
+      "choices": [
+        "칼룸바",
+        "황련",
+        "히드라스티스근",
+        "토근",
+        "인도사목"
+      ],
+      "answer": "칼룸바",
+      "explanation": "칼룸바(방기과) = 동아프리카 + protoberberine + 고미건위·정장지사.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "[족보 원형] 히드라스티스근의 효능으로 옳은 것은?",
+      "choices": [
+        "자궁 지혈",
+        "진통",
+        "부교감신경 흥분",
+        "발한 해열",
+        "간 해독"
+      ],
+      "answer": "자궁 지혈",
+      "explanation": "hydrastine(→ 산화 hydrastinine) → 혈관수축·지혈 → 자궁출혈·월경과다.\n★ 족보 1회 출제(2024-1)"
+    },
+    {
+      "id": 17,
+      "question": "히드라스티스근의 hydrastine이 산화되어 생기며 혈관수축 작용이 더 강한 물질은?",
+      "choices": [
+        "hydrastinine",
+        "canadine",
+        "berberine",
+        "palmatine",
+        "hydrastine N-oxide"
+      ],
+      "answer": "hydrastinine",
+      "explanation": "이름이 비슷한 hydrastine → hydrastinine(-ine 하나 더).\n★ 족보 1회 출제(2024-1)"
+    },
+    {
+      "id": 18,
+      "question": "[족보 원형] 현호색의 성분으로 옳은 것을 모두 고르시오.\nㄱ. corydaline\nㄴ. tetrahydropalmatine\nㄷ. dehydrocorydaline\nㄹ. protopine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "모두 현호색(양귀비과)의 isoquinoline alkaloid. 진통은 아편의 1/100."
+    },
+    {
+      "id": 19,
+      "question": "현호색 가루의 진통 효과는 대략 어느 정도인가?",
+      "choices": [
+        "아편의 1/100",
+        "아편과 같다",
+        "아편의 10배",
+        "아편의 1/2",
+        "진통 작용은 없다"
+      ],
+      "answer": "아편의 1/100",
+      "explanation": "현호색 = 진통·진정, ACTH 분비 촉진, 항궤양."
+    },
+    {
+      "id": 20,
+      "question": "[족보 원형] 인도사목(Rauwolfiae Radix)에 포함된 indole alkaloid로, 혈압강하 효과를 나타내는 것은?",
+      "choices": [
+        "reserpine",
+        "vinblastine",
+        "ergotamine",
+        "yohimbine",
+        "higenamine"
+      ],
+      "answer": "reserpine",
+      "explanation": "reserpine: 말초 catecholamine 고갈 → 지속적 혈압강하 + 중추 serotonin 고갈 → 진정.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 21,
+      "question": "[족보 원형] 인도사목에 함유된 β-carboline ester alkaloid를 모두 고르시오.\nㄱ. pilocarpine\nㄴ. rescinnamine\nㄷ. shikonin\nㄹ. reserpine",
+      "choices": [
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄴ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "reserpine·rescinnamine(·deserpidine) = trimethoxybenzoyl/cinnamoyl ester. pilocarpine = imidazole(필로카르푸스), shikonin = 자근.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 22,
+      "question": "reserpine의 혈압강하 기전은?",
+      "choices": [
+        "말초 신경 말단의 catecholamine 고갈",
+        "α 수용체 차단",
+        "Na⁺ 채널 차단",
+        "β 수용체 차단",
+        "ACE 억제"
+      ],
+      "answer": "말초 신경 말단의 catecholamine 고갈",
+      "explanation": "α 차단은 ajmalicine, Na⁺ 채널(항부정맥)은 ajmaline — 같은 인도사목의 다른 성분.\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 23,
+      "question": "대산(마늘)의 자극성 강한 냄새를 직접 내는 성분은?",
+      "choices": [
+        "allicin",
+        "alliin",
+        "zingiberene",
+        "gingerol",
+        "S-allylcysteine"
+      ],
+      "answer": "allicin",
+      "explanation": "alliin(냄새 없음) → 세포가 부서지면 alliinase → allicin(자극성 냄새).\n⚠ 족보 원형은 \"모두 고르시오\"(allicin·alliin·zingiberene·gingerol). 냄새 원인은 allicin, alliin은 그 전구체로 함께 고르게 하는 출제일 수 있어요.\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 24,
+      "question": "[족보 원형] 마늘의 alliin은 ( )로부터 유래하며, 효소 alliinase에 의해 allicin으로 바뀐다. ( )에 들어갈 아미노산은?",
+      "choices": [
+        "cysteine",
+        "methionine",
+        "tryptophan",
+        "tyrosine",
+        "lysine"
+      ],
+      "answer": "cysteine",
+      "explanation": "alliin = S-allyl-L-cysteine sulfoxide → cysteine 유래.\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 25,
+      "question": "황 화합물(sulfur-containing compound)을 가진 생약이 아닌 것은?",
+      "choices": [
+        "감초",
+        "대산",
+        "개자",
+        "내복자",
+        "총백"
+      ],
+      "answer": "감초",
+      "explanation": "마늘·파(allicin), 겨자·무(glucosinolate → isothiocyanate). 감초는 triterpene saponin.\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 26,
+      "question": "[족보 원형] allyl isothiocyanate와 연관된 물질을 모두 고르시오.\nㄱ. myrosinase\nㄴ. sinigrin\nㄷ. H₂O\nㄹ. cyanidin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "sinigrin + H₂O → (myrosinase) → allyl isothiocyanate(겨자 매운맛). cyanidin은 안토시아니딘.\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 27,
+      "question": "개자의 라틴 생약명으로 옳은 것은?",
+      "choices": [
+        "Brassicae Semen",
+        "Raphani Semen",
+        "Lepidii seu Descurainiae Semen",
+        "Cassiae Semen",
+        "Plantaginis Semen"
+      ],
+      "answer": "Brassicae Semen",
+      "explanation": "오답: 내복자(무)·정력자(다닥냉이) — 같은 십자화과 씨, 결명자, 차전자.\n(족보 원형 \"개자의 중간체로 옳은 것\"은 보기가 모두 라틴명이라 라틴명 문제로 복원)\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 28,
+      "question": "개자의 sinigrin을 allyl isothiocyanate로 분해하는 효소는?",
+      "choices": [
+        "myrosinase",
+        "emulsin",
+        "alliinase",
+        "tyrosinase",
+        "lipase"
+      ],
+      "answer": "myrosinase",
+      "explanation": "emulsin = 행인(amygdalin 분해), alliinase = 마늘.\n★★★ 족보 3회 출제(2022-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 29,
+      "question": "[족보 원형] 청산배당체인 ( )는 가수분해되어 HCN을 유리하는 배당체이며 행인·고편도 등의 성분이다.",
+      "choices": [
+        "amygdalin",
+        "linamarin",
+        "sinigrin",
+        "glycyrrhizin",
+        "gastrodin"
+      ],
+      "answer": "amygdalin",
+      "explanation": "linamarin도 청산배당체지만 아마인의 성분 — 생약 바꿔치기 함정.\n★ 족보 1회 출제(2024-1)"
+    }
+  ]
+}

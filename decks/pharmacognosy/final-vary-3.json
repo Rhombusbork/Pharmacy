@@ -1,0 +1,390 @@
+{
+  "deckId": "pharmacognosy-final-vary-3",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 3: 성분 → 생약 ② (괄루근·세신·감초·파두·육두구·대풍자·자근)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] 괄루근에는 임부 금기인 성분이 들어 있다. 해당 물질은?",
+      "choices": [
+        "trichosanthin",
+        "decursin",
+        "cucurbitacin",
+        "trichosan A",
+        "karasurin B"
+      ],
+      "answer": "trichosanthin",
+      "explanation": "trichosanthin(단백질) → 태반 융모 직접 작용 → 유산. trichosan = 혈당강하 glycan, cucurbitacin = triterpene.\n★★★ 족보 4회 출제(2021-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "유산을 유발하는 단백질 trichosanthin을 함유하는 생약은?",
+      "choices": [
+        "괄루근",
+        "괄루인",
+        "원지",
+        "감초",
+        "위령선"
+      ],
+      "answer": "괄루근",
+      "explanation": "같은 하늘타리라도 뿌리(괄루근)에 trichosanthin — 씨(괄루인)와 혼동 주의.\n★★★ 족보 4회 출제(2021-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "괄루근의 혈당강하 성분은?",
+      "choices": [
+        "trichosan A~E(glycan)",
+        "trichosanthin",
+        "cucurbitacin",
+        "karasurin",
+        "citrulline"
+      ],
+      "answer": "trichosan A~E(glycan)",
+      "explanation": "이름이 비슷한 trichosan(혈당강하) ↔ trichosanthin(유산) 구별이 핵심.\n★★★ 족보 4회 출제(2021-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "괄루근의 알코올 추출물은 임부에게 금기지만 전제(달인 것)는 무방한 이유는?",
+      "choices": [
+        "trichosanthin이 단백질이라 가열하면 변성되기 때문",
+        "trichosanthin이 물에 녹지 않아 전제에 들어가지 않기 때문",
+        "가열하면 trichosanthin이 cucurbitacin으로 바뀌기 때문",
+        "전제에는 전분만 남기 때문",
+        "trichosanthin이 가열하면 휘발하기 때문"
+      ],
+      "answer": "trichosanthin이 단백질이라 가열하면 변성되기 때문",
+      "explanation": "\"물에 녹지 않아 전제에 없다\"는 견우자(pharbitin) 논리 — 사례 바꿔치기 함정.\n★★★ 족보 4회 출제(2021-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "유산을 유발하는 단백질이 있어 임산부에게 금기인 생약명을 적으시오. (주관식)",
+      "answer": [
+        "괄루근",
+        "栝樓根",
+        "천화분"
+      ],
+      "explanation": "정답: 괄루근(독성 성분 trichosanthin).\n★★★ 족보 4회 출제(2021-2, 2022-2, 2023-2, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "[족보 원형] Asari Radix et Rhizoma(세신)에서 신장독성을 일으키는 성분은?",
+      "choices": [
+        "aristolochic acid",
+        "methyleugenol",
+        "safrole",
+        "asarinin",
+        "higenamine"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "aristolochic acid(지상부에 많음) → 신장독성·발암. methyleugenol은 정유 주성분.\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 7,
+      "question": "[족보 원형] 지상부(잎)가 10% 이상 섞이지 않게 주의해야 하는 생약은?",
+      "choices": [
+        "세신",
+        "시호",
+        "위령선",
+        "백두옹",
+        "백미"
+      ],
+      "answer": "세신",
+      "explanation": "지상부의 aristolochic acid 때문 → 뿌리 및 뿌리줄기만 사용.\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 8,
+      "question": "세신의 과명은?",
+      "choices": [
+        "쥐방울덩굴과 Aristolochiaceae",
+        "미나리아재비과 Ranunculaceae",
+        "백합과 Liliaceae",
+        "천남성과 Araceae",
+        "마디풀과 Polygonaceae"
+      ],
+      "answer": "쥐방울덩굴과 Aristolochiaceae",
+      "explanation": "과명(Aristolochia)과 독성 성분(aristolochic acid)이 같은 뿌리 — 함께 외운다.\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 9,
+      "question": "aristolochic acid의 대표 독성은?",
+      "choices": [
+        "신장독성(발암성)",
+        "간독성",
+        "심장독성(부정맥)",
+        "경련(척수 흥분)",
+        "최기형성"
+      ],
+      "answer": "신장독성(발암성)",
+      "explanation": "경련 = 호미카, 부정맥 = 부자, 최기형성 = 데리스근·여로.\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "Asari Radix et Rhizoma의 약용 부위는?",
+      "choices": [
+        "뿌리 및 뿌리줄기",
+        "전초",
+        "잎",
+        "덩이줄기",
+        "열매"
+      ],
+      "answer": "뿌리 및 뿌리줄기",
+      "explanation": "라틴명 \"Radix et Rhizoma\" = 뿌리 및 뿌리줄기. 전초를 쓰지 않는 이유가 신장독성.\n★★★ 족보 5회 출제(2021-2, 2022-2, 2023-1, 2023-2, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "[족보 원형] 감초의 성분으로, 감미를 나타내고 부신피질호르몬 유사작용을 하며 과량 복용 시 가성 알도스테론증을 초래할 수 있는 물질은?",
+      "choices": [
+        "glycyrrhizin",
+        "liquiritin",
+        "isoliquiritigenin",
+        "glabridin",
+        "formononetin"
+      ],
+      "answer": "glycyrrhizin",
+      "explanation": "오답은 모두 감초의 flavonoid(flavanone·chalcone·isoflavan·isoflavone).\n★★★ 족보 4회 출제(2020-2, 2021-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "감초 과량 복용으로 생기는 가성 알도스테론증의 증상이 아닌 것은?",
+      "choices": [
+        "저혈압",
+        "부종",
+        "저칼륨혈증",
+        "고혈압",
+        "근수축 이상"
+      ],
+      "answer": "저혈압",
+      "explanation": "알도스테론 과다 = Na⁺·물 저류(부종·고혈압) + K⁺ 손실.\n★★★ 족보 4회 출제(2020-2, 2021-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "glycyrrhizin을 가수분해하면 생기는 것은?",
+      "choices": [
+        "glycyrrhetic acid + glucuronic acid 2분자",
+        "glycyrrhetic acid + glucose 2분자",
+        "oleanolic acid + glucuronic acid 2분자",
+        "liquiritigenin + glucose",
+        "glycyrrhetic acid + rhamnose"
+      ],
+      "answer": "glycyrrhetic acid + glucuronic acid 2분자",
+      "explanation": "당 부분이 glucose가 아니라 glucuronic acid인 것이 포인트.\n★★★ 족보 4회 출제(2020-2, 2021-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "glycyrrhizin의 계열은?",
+      "choices": [
+        "triterpene glycoside(oleanane형)",
+        "steroidal saponin",
+        "flavanone glycoside",
+        "dammarane형 saponin",
+        "cycloartane형 saponin"
+      ],
+      "answer": "triterpene glycoside(oleanane형)",
+      "explanation": "saponin이지만 기포성·용혈성이 매우 약하다. dammarane = 인삼, cycloartane = 황기·승마.\n★★★ 족보 4회 출제(2020-2, 2021-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 15,
+      "question": "감초의 성분 중 단맛을 내는 성분을 적으시오. (주관식)",
+      "answer": [
+        "glycyrrhizin",
+        "글리시리진",
+        "glycyrrhizic acid"
+      ],
+      "explanation": "정답: glycyrrhizin.\n★★★ 족보 4회 출제(2020-2, 2021-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "[족보 원형] 파두의 발암성 성분은?",
+      "choices": [
+        "phorbol ester",
+        "aconitine",
+        "rotenone",
+        "colchicine",
+        "myristicin"
+      ],
+      "answer": "phorbol ester",
+      "explanation": "tigliane계 phorbol ester(TPA) = 강력한 발암 촉진. crotin(단백)은 용혈.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "파두(Crotonis Semen)의 과명은?",
+      "choices": [
+        "대극과 Euphorbiaceae",
+        "메꽃과 Convolvulaceae",
+        "콩과 Leguminosae",
+        "장미과 Rosaceae",
+        "백합과 Liliaceae"
+      ],
+      "answer": "대극과 Euphorbiaceae",
+      "explanation": "대극과 = 대극·파두(둘 다 강한 사하·독성). 메꽃과 = 견우자.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 18,
+      "question": "파두와 배합 금기인 생약은?",
+      "choices": [
+        "견우자",
+        "감초",
+        "대극",
+        "행인",
+        "도인"
+      ],
+      "answer": "견우자",
+      "explanation": "두 준하제(파두·견우자)를 함께 쓰지 않는다.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 19,
+      "question": "[족보 원형] 육두구에 함유된, 약한 환각 작용을 나타내는 성분은?",
+      "choices": [
+        "myristicin",
+        "eugenol",
+        "safrole",
+        "dihydroguaiaretic acid",
+        "malabaricone"
+      ],
+      "answer": "myristicin",
+      "explanation": "myristicin(·isoelemicin) → 체내에서 MMDA 같은 amine으로 대사 → 환각. eugenol = 구풍·건위.\n★★ 족보 2회 출제(2020-2, 2025-2)"
+    },
+    {
+      "id": 20,
+      "question": "myristicin의 계열은?",
+      "choices": [
+        "phenylpropene",
+        "lignan",
+        "sesquiterpene",
+        "indole alkaloid",
+        "coumarin"
+      ],
+      "answer": "phenylpropene",
+      "explanation": "육두구 = phenylpropene(myristicin, isoelemicin, safrole).\n★★ 족보 2회 출제(2020-2, 2025-2)"
+    },
+    {
+      "id": 21,
+      "question": "[족보 원형] 데리스근의 살충 성분은?",
+      "choices": [
+        "rotenone",
+        "matrine",
+        "veratramine",
+        "arecoline",
+        "stemonine"
+      ],
+      "answer": "rotenone",
+      "explanation": "오답도 모두 \"살충·구충\" 성분: 고삼·여로·빈랑자·백부근 — 생약별로 구별.\n★★★ 족보 3회 출제(2023-1, 2024-1, 2025-2)"
+    },
+    {
+      "id": 22,
+      "question": "rotenone의 살충 기전은?",
+      "choices": [
+        "미토콘드리아 NADH dehydrogenase(호흡) 저해",
+        "acetylcholinesterase 억제",
+        "Na⁺ 채널 개방",
+        "GABA 수용체 차단",
+        "tubulin 결합"
+      ],
+      "answer": "미토콘드리아 NADH dehydrogenase(호흡) 저해",
+      "explanation": "tubulin 결합 = colchicine(콜히쿰자).\n★★★ 족보 3회 출제(2023-1, 2024-1, 2025-2)"
+    },
+    {
+      "id": 23,
+      "question": "[족보 원형] 대풍자가 가지고 있는 성분을 모두 고르시오.\nㄱ. hydnocarpin\nㄴ. chaulmoogric acid\nㄷ. gorlic acid\nㄹ. myristicin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "대풍자유 = cyclopentenyl 지방산(hydnocarpic·chaulmoogric·gorlic acid) + flavolignan hydnocarpin. myristicin = 육두구.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 24,
+      "question": "[족보 원형] 대풍자의 지표성분이 아닌 것은?",
+      "choices": [
+        "palmitic acid",
+        "hydnocarpic acid",
+        "chaulmoogric acid",
+        "gorlic acid"
+      ],
+      "answer": "palmitic acid",
+      "explanation": "대풍자유의 특징 = 고리(cyclopentenyl)가 있는 지방산. palmitic acid는 흔한 포화지방산.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 25,
+      "question": "[족보 원형] 한센병 치료제로 사용되는 생약은?",
+      "choices": [
+        "대풍자",
+        "비자",
+        "빈랑자",
+        "백자인",
+        "보골지"
+      ],
+      "answer": "대풍자",
+      "explanation": "대풍자(이나무과) — 나균 억제.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 26,
+      "question": "[족보 원형] 의이인의 항암 활성 성분은?",
+      "choices": [
+        "coixenolide",
+        "Coix",
+        "amygdalin",
+        "ouabain",
+        "coixan"
+      ],
+      "answer": "coixenolide",
+      "explanation": "coixan = 혈당강하 다당류. ouabain = 스트로판투스, amygdalin = 행인.\n★★ 족보 2회 출제(2022-2, 2025-2)"
+    },
+    {
+      "id": 27,
+      "question": "[족보 원형] 자근에서 항진균 작용과 육아 형성 촉진 작용이 있는 성분은?",
+      "choices": [
+        "shikonin·acetylshikonin",
+        "lithospermic acid",
+        "rosmarinic acid",
+        "lithosperman",
+        "tanshinone"
+      ],
+      "answer": "shikonin·acetylshikonin",
+      "explanation": "naphthoquinone 색소(shikonin계) → 자운고(화상·습진). tanshinone = 단삼.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 28,
+      "question": "shikonin의 계열은?",
+      "choices": [
+        "naphthoquinone",
+        "anthraquinone",
+        "diterpene quinone",
+        "flavonoid",
+        "coumarin"
+      ],
+      "answer": "naphthoquinone",
+      "explanation": "anthraquinone = 대황·하수오, diterpene quinone = 단삼 tanshinone.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 29,
+      "question": "[족보 원형] 삼칠의 활혈 성분인 dammarane계 성분은?",
+      "choices": [
+        "notoginsenoside",
+        "cimifugin",
+        "baicalin",
+        "onjisaponin",
+        "dencichine"
+      ],
+      "answer": "notoginsenoside",
+      "explanation": "noto-ginseng → notoginsenoside R₁. cimifugin = 승마, baicalin = 황금, onjisaponin = 원지.\n★★ 족보 2회 출제(2022-2, 2023-2)"
+    },
+    {
+      "id": 30,
+      "question": "[족보 원형] 백두옹의 함유 성분으로, 암세포주에 세포독성이 있고 혈관신생을 억제하는 물질은?",
+      "choices": [
+        "deoxypodophyllotoxin",
+        "ranunculin",
+        "limonin",
+        "anemonin",
+        "pulsatillic acid"
+      ],
+      "answer": "deoxypodophyllotoxin",
+      "explanation": "deoxypodophyllotoxin = lignan. anemonin은 심장독.\n★ 족보 1회 출제(2023-2)"
+    }
+  ]
+}

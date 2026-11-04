@@ -1,0 +1,384 @@
+{
+  "deckId": "pharmacognosy-final-vary-4",
+  "subject": "생약학",
+  "title": "★ 족보 빈출 변형 4: 성분 계열 (천마·승마·방풍·phthalide·청산배당체 등)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[족보 원형] Gastrodiae Rhizoma(천마)의 성분인 gastrodin의 계열은?",
+      "choices": [
+        "phenol glycoside(페놀 배당체)",
+        "chromone",
+        "flavonoid glycoside",
+        "cyanogenic glycoside",
+        "iridoid glycoside"
+      ],
+      "answer": "phenol glycoside(페놀 배당체)",
+      "explanation": "gastrodin = 4-hydroxybenzyl alcohol의 glucoside → 단순 페놀 배당체.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 2,
+      "question": "phenol 배당체 gastrodin을 함유하며 두통·현기증·경련에 쓰는 진정·진경약은?",
+      "choices": [
+        "천마",
+        "택사",
+        "길경",
+        "행인",
+        "세네가"
+      ],
+      "answer": "천마",
+      "explanation": "천마(난초과) — 덩이줄기를 쪄서 말림.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 3,
+      "question": "천마의 과명은?",
+      "choices": [
+        "난초과 Orchidaceae",
+        "백합과 Liliaceae",
+        "천남성과 Araceae",
+        "생강과 Zingiberaceae",
+        "택사과 Alismataceae"
+      ],
+      "answer": "난초과 Orchidaceae",
+      "explanation": "근경류 중 유일한 난초과.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 4,
+      "question": "[족보 원형] 승마에 함유된 visnagin·cimifugin·visamminol의 성분 계열은?",
+      "choices": [
+        "chromone",
+        "coumarin",
+        "flavone",
+        "xanthone",
+        "protoberberine alkaloid"
+      ],
+      "answer": "chromone",
+      "explanation": "승마·방풍 = chromone(벤조-γ-파이론). coumarin(벤조-α-파이론)과 혼동 주의.\n★★★ 족보 4회 출제(2021-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 5,
+      "question": "[족보 원형] 승마가 속하는 과명은?",
+      "choices": [
+        "Ranunculaceae",
+        "Cupressaceae",
+        "Thymelaeaceae",
+        "Dioscoreaceae",
+        "Solanaceae"
+      ],
+      "answer": "Ranunculaceae",
+      "explanation": "승마 = 미나리아재비과(Cimicifuga).\n★★★ 족보 4회 출제(2021-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 6,
+      "question": "cycloartane계 triterpenoid를 함유하고 갱년기 증상에 쓰는 생약은?",
+      "choices": [
+        "승마",
+        "황기",
+        "인삼",
+        "감초",
+        "시호"
+      ],
+      "answer": "승마",
+      "explanation": "황기도 cycloartane(astragaloside)이지만 강장·지한약 — 사례 바꿔치기 함정.\n★★★ 족보 4회 출제(2021-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 7,
+      "question": "[족보 원형] 승마의 기원식물은?",
+      "choices": [
+        "Cimicifuga heracleifolia",
+        "Hyoscyamus niger",
+        "Saposhnikovia divaricata",
+        "Alisma orientale",
+        "Asarum sieboldii"
+      ],
+      "answer": "Cimicifuga heracleifolia",
+      "explanation": "승마(C. heracleifolia)·촛대승마(C. simplex)·눈빛승마(C. dahurica)·황새승마(C. foetida).\n★★★ 족보 4회 출제(2021-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 8,
+      "question": "[족보 원형] 방풍에 함유된 chromone계 성분을 모두 고르시오.\nㄱ. hamaudol\nㄴ. ledebouriellol\nㄷ. cimifugin\nㄹ. 5-O-methylvisamminol",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "모두 방풍의 chromone. cimifugin은 승마와 방풍 모두에 있다.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 9,
+      "question": "[족보 원형] 해방풍에 함유된 polyacetylene계 성분은?",
+      "choices": [
+        "falcarindiol",
+        "hamaudol",
+        "cimifugin",
+        "psoralen",
+        "ligustilide"
+      ],
+      "answer": "falcarindiol",
+      "explanation": "방풍 = chromone(hamaudol·cimifugin) / 해방풍(갯방풍) = polyacetylene(falcarindiol). 이름이 비슷해도 성분이 다르다.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 10,
+      "question": "방풍(Saposhnikoviae Radix)의 대표 성분 계열은?",
+      "choices": [
+        "chromone",
+        "polyacetylene",
+        "phthalide",
+        "pyranocoumarin",
+        "naphthoquinone"
+      ],
+      "answer": "chromone",
+      "explanation": "polyacetylene = 해방풍, phthalide = 천궁·일당귀, pyranocoumarin = 참당귀.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 11,
+      "question": "[족보 원형] 일당귀·중국당귀에는 함유되어 있고 참당귀에는 함유되어 있지 않은 성분 계열은?",
+      "choices": [
+        "phthalide",
+        "pyranocoumarin",
+        "furanocoumarin",
+        "polyacetylene",
+        "chromone"
+      ],
+      "answer": "phthalide",
+      "explanation": "참당귀 = decursin(pyranocoumarin) / 일당귀·중국당귀 = ligustilide(phthalide).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 12,
+      "question": "[족보 원형] 일당귀·중국당귀에 있고 참당귀에는 없는 성분은?",
+      "choices": [
+        "ligustilide",
+        "decursin",
+        "decursinol angelate",
+        "nodakenin",
+        "umbelliferone"
+      ],
+      "answer": "ligustilide",
+      "explanation": "decursin·decursinol angelate·nodakenin = 참당귀 지표(6.0%).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 13,
+      "question": "[족보 원형] phthalide 계열인 것을 모두 고르시오.\nㄱ. decursin\nㄴ. cnidilide\nㄷ. psoralen\nㄹ. ligustilide",
+      "choices": [
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄴ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "cnidilide(천궁)·ligustilide(천궁·일당귀). decursin = pyranocoumarin, psoralen = furanocoumarin.\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 14,
+      "question": "참당귀의 기원식물 학명은?",
+      "choices": [
+        "Angelica gigas",
+        "Angelica acutiloba",
+        "Angelica sinensis",
+        "Angelica dahurica",
+        "Angelica decursiva"
+      ],
+      "answer": "Angelica gigas",
+      "explanation": "acutiloba = 일당귀, sinensis = 중국당귀, dahurica = 백지(구릿대), decursiva = 바디나물(전호).\n★★★ 족보 3회 출제(2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 15,
+      "question": "[족보 원형] 아마인(Lini Semen)의 성분인 linamarin의 화학적 계열은?",
+      "choices": [
+        "cyanogenic glycoside(청산배당체)",
+        "flavonoid",
+        "iridoid",
+        "lignan",
+        "tannin"
+      ],
+      "answer": "cyanogenic glycoside(청산배당체)",
+      "explanation": "가수분해 → HCN. 행인 amygdalin과 같은 계열.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 16,
+      "question": "독성 청산배당체 linamarin을 함유하는 생약은?",
+      "choices": [
+        "아마인",
+        "행인",
+        "도인",
+        "개자",
+        "차전자"
+      ],
+      "answer": "아마인",
+      "explanation": "행인·도인 = amygdalin(같은 청산배당체지만 다른 성분).\n★★★ 족보 3회 출제(2020-2, 2022-2, 2025-2)"
+    },
+    {
+      "id": 17,
+      "question": "[족보 원형] 단삼의 성분 tanshinone의 계열은?",
+      "choices": [
+        "diterpene",
+        "monoterpene",
+        "sesquiterpene",
+        "triterpene",
+        "coumarin"
+      ],
+      "answer": "diterpene",
+      "explanation": "tanshinone = abietane형 diterpene quinone. 단삼 지표는 salvianolic acid(페놀산) 4.1%.\n★★ 족보 2회 출제(2023-2, 2025-2)"
+    },
+    {
+      "id": 18,
+      "question": "[족보 원형] 고삼의 matrine의 성분 계열은?",
+      "choices": [
+        "quinolizidine alkaloid",
+        "indole alkaloid",
+        "isoquinoline alkaloid",
+        "tropane alkaloid",
+        "pyridine alkaloid"
+      ],
+      "answer": "quinolizidine alkaloid",
+      "explanation": "콩과(고삼) = quinolizidine(matrine·cytisine). pyridine = 빈랑자 arecoline.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 19,
+      "question": "[족보 원형] oxymatrine을 함유한 생약은?",
+      "choices": [
+        "고삼",
+        "갈근",
+        "감초",
+        "데리스근",
+        "황기"
+      ],
+      "answer": "고삼",
+      "explanation": "오답도 모두 콩과 — 과로는 구별되지 않아 성분으로 외워야 한다.\n★★★ 족보 4회 출제(2022-2, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 20,
+      "question": "[족보 원형] 토근의 emetine과 cephaeline의 성분 계열은?",
+      "choices": [
+        "isoquinoline alkaloid",
+        "indole alkaloid",
+        "tropane alkaloid",
+        "purine alkaloid",
+        "steroidal alkaloid"
+      ],
+      "answer": "isoquinoline alkaloid",
+      "explanation": "monoterpenoid-isoquinoline alkaloid. 최토(cephaeline)·거담·항아메바(emetine).\n★★★ 족보 5회 출제(2022-2, 2023-1, 2023-2, 2024-1, 2025-2)"
+    },
+    {
+      "id": 21,
+      "question": "[족보 원형] 산조인의 성분인 sanjoinine A의 성분군은?",
+      "choices": [
+        "cyclopeptide alkaloid",
+        "flavonoid",
+        "lignan",
+        "triterpene",
+        "dammarane saponin"
+      ],
+      "answer": "cyclopeptide alkaloid",
+      "explanation": "산조인에는 dammarane saponin(jujuboside)도 있지만 sanjoinine은 cyclopeptide alkaloid.\n★★ 족보 2회 출제(2022-2, 2025-2)"
+    },
+    {
+      "id": 22,
+      "question": "[족보 원형] 지유에서 sanguiin H-6의 성분 계열은?",
+      "choices": [
+        "tannin(ellagitannin)",
+        "triterpenoid saponin",
+        "flavonoid",
+        "iridoid",
+        "anthraquinone"
+      ],
+      "answer": "tannin(ellagitannin)",
+      "explanation": "지유는 ziyuglycoside(triterpenoid)도 있지만 sanguiin = tannin → 수렴·지혈."
+    },
+    {
+      "id": 23,
+      "question": "[족보 원형] 강황의 지표성분은?",
+      "choices": [
+        "curcumin",
+        "ar-turmerone",
+        "zingiberene",
+        "6-gingerol",
+        "curzerenone"
+      ],
+      "answer": "curcumin",
+      "explanation": "turmerone = 강황·울금 정유, gingerol = 건강, curzerenone = 아출.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 24,
+      "question": "[족보 원형] 강황의 지표성분 curcumin 구조(방향족 고리 + C7 사슬 + 방향족 고리)가 해당하는 계열은?",
+      "choices": [
+        "diarylheptanoid(curcuminoid)",
+        "flavonoid",
+        "stilbene",
+        "phenylpropanoid(C6–C3)",
+        "sesquiterpene"
+      ],
+      "answer": "diarylheptanoid(curcuminoid)",
+      "explanation": "C6–C7–C6 = diarylheptanoid. flavonoid는 C6–C3–C6, stilbene은 C6–C2–C6.\n★★★ 족보 3회 출제(2021-2, 2023-2, 2024-1)"
+    },
+    {
+      "id": 25,
+      "question": "[족보 원형] 갈근의 isoflavonoid 성분을 모두 고르시오.\nㄱ. daidzein\nㄴ. genistein\nㄷ. formononetin\nㄹ. glycyrrhizin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "glycyrrhizin = 감초 triterpene saponin. 갈근 지표 = puerarin 2.0%.\n★★ 족보 2회 출제(2023-2, 2024-1)"
+    },
+    {
+      "id": 26,
+      "question": "인삼·삼칠의 ginsenoside가 속하는 saponin 골격은?",
+      "choices": [
+        "dammarane",
+        "oleanane",
+        "cycloartane",
+        "spirostanol",
+        "lupane"
+      ],
+      "answer": "dammarane",
+      "explanation": "예외: ginsenoside Ro만 oleanane형.\n★★ 족보 2회 출제(2022-2, 2023-2)"
+    },
+    {
+      "id": 27,
+      "question": "다음 중 protopanaxatriol(PPT)계 ginsenoside는?",
+      "choices": [
+        "ginsenoside Rg₁",
+        "ginsenoside Rb₁",
+        "ginsenoside Rb₂",
+        "ginsenoside Rc",
+        "ginsenoside Ro"
+      ],
+      "answer": "ginsenoside Rg₁",
+      "explanation": "PPD = Rb₁·Rb₂·Rc·Rd(Rb군, 중추 억제) / PPT = Re·Rf·Rg₁(Rg군, 중추 흥분) / Ro = oleanane.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    },
+    {
+      "id": 28,
+      "question": "인삼 ginsenoside의 중추신경 작용으로 옳은 것은?",
+      "choices": [
+        "Rb군은 중추 억제, Rg군은 중추 흥분",
+        "Rb군은 중추 흥분, Rg군은 중추 억제",
+        "Rb군·Rg군 모두 중추 흥분",
+        "Rb군·Rg군 모두 중추 억제",
+        "중추 작용은 없다"
+      ],
+      "answer": "Rb군은 중추 억제, Rg군은 중추 흥분",
+      "explanation": "\"Rg = go(흥분)\"로 외운다.\n★★★ 족보 3회 출제(2020-2, 2022-2, 2023-1)"
+    },
+    {
+      "id": 29,
+      "question": "[족보 원형] 세네가의 물 추출액은 자외선 흡수 스펙트럼 317 nm 부근에서 흡수 극대를 나타낸다. 그 원인 구조는?",
+      "choices": [
+        "p-methoxycinnamic acid",
+        "gentianine",
+        "platycodin D",
+        "nigakilactone D",
+        "catalpol"
+      ],
+      "answer": "p-methoxycinnamic acid",
+      "explanation": "cinnamic acid의 공액계 → 317 nm. 세네가의 aromatic acid(ferulic·sinapic·p-methoxycinnamic acid).\n★★★ 족보 3회 출제(2022-2, 2023-2, 2024-1)"
+    }
+  ]
+}
