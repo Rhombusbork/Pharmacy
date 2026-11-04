@@ -1,0 +1,248 @@
+{
+  "deckId": "pharmacognosy-final-ex-2020-2",
+  "subject": "생약학",
+  "title": "족보 원본 2020-2 기말 (1·2번 표·보기 복원 불충분)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[3번] 백출의 기원식물은 무엇인지 보기에서 고르시오.\nㄱ. Atractylodes macrocephala\nㄴ. Atractylodes lancea\nㄷ. Atractylodes japonica\nㄹ. Atractylodes chinensis",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[4번] 이 구조의 IUPAC명을 쓰시오.\n[[smi:OCc1ccc(C=O)o1]] (주관식)",
+      "answer": [
+        "5-hydroxymethyl-2-furaldehyde",
+        "5-hydroxymethylfurfural",
+        "5-(hydroxymethyl)furan-2-carbaldehyde"
+      ],
+      "explanation": "숙지황 지표 5-HMF.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[5번] 아마인의 성분 중 하나인 linamarin의 계열은?",
+      "choices": [
+        "cyanogenic glycoside",
+        "cardiac glycoside",
+        "iridoid glycoside",
+        "phenol glycoside",
+        "flavonoid glycoside"
+      ],
+      "answer": "cyanogenic glycoside",
+      "explanation": "\n⚠ 보기 재구성(원문은 답만).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[6번] 부자의 성분 중 강심 효과를 가지는 성분은? (주관식)",
+      "answer": [
+        "higenamine",
+        "히게나민"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[7번] 육두구의 성분 중 환각 작용을 나타내는 물질은? (주관식)",
+      "answer": [
+        "myristicin",
+        "미리스티신"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[8번] 삼릉의 효능은 무엇인가?",
+      "choices": [
+        "통경·구어혈",
+        "강정·강장",
+        "해열·진통",
+        "진해·거담",
+        "소염·이뇨"
+      ],
+      "answer": "통경·구어혈",
+      "explanation": "\n⚠ 보기 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[9번] 감초의 성분 중 감미·부신피질호르몬 유사 작용을 갖고 과량 복용 시 부종·고혈압·알도스테론증을 초래하는 물질은? (주관식)",
+      "answer": [
+        "glycyrrhizin",
+        "글리시리진"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[10번] 약전에 수재된 황정의 기원식물은? (18번도 같은 문항)\nㄱ. Polygonatum sibiricum\nㄴ. Polygonatum falcatum\nㄷ. Polygonatum kingianum\nㄹ. Polygonatum odoratum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[11번] 카라발두가 어떤 치료에 사용되는지 보기에서 고르시오.\nㄱ. 초기 녹내장\nㄴ. 근무력증\nㄷ. 뇌졸중\nㄹ. 수술 후 장마비",
+      "choices": [
+        "ㄱ, ㄴ, ㄹ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄴ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[11번] 천마의 gastrodin의 계열은?",
+      "choices": [
+        "chromone",
+        "alkaloid",
+        "flavonoid glycoside",
+        "phenol glycoside",
+        "anthraquinone glycoside"
+      ],
+      "answer": "phenol glycoside",
+      "explanation": "\n⚠ 번호 없이 복원된 문항.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[12번] Pharbitidis Semen의 한자는? (주관식)",
+      "answer": [
+        "牽牛子",
+        "견우자"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[13번] Sesquiterpenoid 성분인 cyperene 또는 α-cyperone을 함유하는 생약은?",
+      "choices": [
+        "방풍",
+        "향부자",
+        "해방풍",
+        "현호색",
+        "히드라스티스근"
+      ],
+      "answer": "향부자",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[14번] 갈화의 라틴 생약명을 적으시오. (주관식)",
+      "answer": [
+        "Puerariae Flos",
+        "Pueraria flos",
+        "Puerariae flos"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[15번] 보골지의 생리활성을 적으시오. (주관식)",
+      "answer": [
+        "멜라닌 생성 촉진",
+        "멜라닌생성촉진",
+        "멜라닌 생성",
+        "백반증 치료"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[16번] 대풍자의 지표성분이 아닌 것은?",
+      "choices": [
+        "hydnocarpic acid",
+        "chaulmoogric acid",
+        "gorlic acid",
+        "palmitic acid"
+      ],
+      "answer": "palmitic acid",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[17번] 3대 거담 생약 3가지는?\nㄱ. 세네가\nㄴ. 원지\nㄷ. 길경\nㄹ. 반하",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n⚠ 원형은 주관식.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[19번] 금문계에 속하는 4가지 식물의 학명을 고르시오.\nㄱ. Rheum palmatum\nㄴ. Rheum tanguticum\nㄷ. Rheum officinale\nㄹ. Rheum coreanum\nㅁ. Rheum rhaponticum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "R. rhaponticum = 토대황계.\n⚠ 원형은 주관식.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[20번] 파두의 성분 중 독성(발암) 물질을 고르시오.",
+      "choices": [
+        "ricinoleic acid",
+        "sesamin",
+        "phorbol ester",
+        "crotin"
+      ],
+      "answer": "phorbol ester",
+      "explanation": "phorbol ester(발암·준하). crotin도 독성 단백(용혈)이라 \"독성\"만 물으면 함께 정답일 수 있음.\n⚠ 원문 \"독성물질\" — 발암 독성 기준으로 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[21번] peimine, peiminoside 성분을 가진 생약을 고르시오.",
+      "choices": [
+        "절패모",
+        "위령선",
+        "자근",
+        "승마",
+        "지황"
+      ],
+      "answer": "절패모",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[22번] 인삼을 쪄서 홍삼으로 만들었을 때 홍삼에서 나오는 물질을 쓰시오. (주관식)",
+      "answer": [
+        "ginsenoside Rg3",
+        "Rg3",
+        "ginsenoside Rh2",
+        "Rh2"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[23번] Psoraleae Semen의 한자는? (주관식)",
+      "answer": [
+        "補骨脂",
+        "보골지"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

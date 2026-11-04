@@ -1,0 +1,304 @@
+{
+  "deckId": "pharmacognosy-final-ex-2024-1-1",
+  "subject": "생약학",
+  "title": "족보 원본 2024-1 기말 ① (1~28번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[1번] [1~3 한 지문] 마늘의 성분인 alliin은 ( )로부터 유래하며, 효소 alliinase에 의해 allicin으로 변해 마늘 특유의 향을 만들어 낸다. ( )에 알맞은 것은?",
+      "choices": [
+        "cysteine",
+        "methionine",
+        "tryptophan",
+        "tyrosine",
+        "lysine"
+      ],
+      "answer": "cysteine",
+      "explanation": "alliin = S-allyl-L-cysteine sulfoxide.\n⚠ 보기가 복원되지 않아 아미노산 보기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[2번] [1~3 한 지문] 청산배당체인 ( )는 가수분해되어 HCN을 유리하는 배당체이며 행인, 고편도 등의 성분이다.",
+      "choices": [
+        "amygdalin",
+        "linamarin",
+        "sinigrin",
+        "glycyrrhizin",
+        "gastrodin"
+      ],
+      "answer": "amygdalin",
+      "explanation": "linamarin은 아마인.\n⚠ 보기 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[3번] [1~3 한 지문] 개자(겨자)의 라틴 생약명은?",
+      "choices": [
+        "Brassicae Semen",
+        "Raphani Semen",
+        "Lepidii seu Descurainiae Semen",
+        "Cassiae Semen",
+        "Plantaginis Semen"
+      ],
+      "answer": "Brassicae Semen",
+      "explanation": "\n⚠ 원문 \"개자의 중간체를 찾으시오(보기 제시됨)\" — 보기 미복원, 2025-2 같은 문항(라틴명 보기)으로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[4번] 고삼의 효능으로 맞는 것은?\nㄱ. 해열작용\nㄴ. 진해작용\nㄷ. 고미건위작용\nㄹ. 거담작용",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "고삼: 고미건위·소염지사, 한방 해열·이뇨·구충. 진해·거담은 아니다.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[5번] 물고기의 가시가 목에 걸렸을 때 쓰는 생약은?",
+      "choices": [
+        "원지",
+        "감초",
+        "위령선",
+        "복령",
+        "괄루근"
+      ],
+      "answer": "위령선",
+      "explanation": "위령선.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[6번] Aconitine 계열 물질의 진통 작용 효과가 강한 순서대로 나타낸 것은?\nㄱ. mesaconitine  ㄴ. aconitine  ㄷ. hypaconitine",
+      "choices": [
+        "ㄱ → ㄴ → ㄷ",
+        "ㄴ → ㄱ → ㄷ",
+        "ㄱ → ㄷ → ㄴ",
+        "ㄷ → ㄱ → ㄴ",
+        "ㄴ → ㄷ → ㄱ"
+      ],
+      "answer": "ㄱ → ㄴ → ㄷ",
+      "explanation": "메 > 아 > 하이포.\n⚠ 순서 보기 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[7번] 세네가의 물 추출액의 자외선 흡수 스펙트럼은 317 nm 부근에서 흡수 극대를 나타낸다. 그 원인 구조는?",
+      "choices": [
+        "p-methoxycinnamic acid",
+        "gentianine",
+        "platycodin D",
+        "nigakilactone D",
+        "catalpol"
+      ],
+      "answer": "p-methoxycinnamic acid",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[8번] 부자의 효능으로 알맞지 않은 것은?",
+      "choices": [
+        "항염",
+        "진통",
+        "해열",
+        "이뇨"
+      ],
+      "answer": "해열",
+      "explanation": "교재 부자 약리: 강심·진통·항염증·혈당강하. 부자는 몸을 덥히는 약(진무탕 등에서 이뇨·부종에 배합).\n⚠ 교재에 해열·이뇨 모두 직접 나오지 않아 확실하지 않아요(이뇨일 가능성도 있음).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[9번] 시호의 약리활성으로 알맞은 것을 모두 고르시오. (40번도 같은 문항)\nㄱ. 해열\nㄴ. 진정, 진통\nㄷ. 항염증, 항궤양작용\nㄹ. 간세포 보호작용",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "saikosaponin: 해열·진통·중추억제, 간보호, 항염증(a·d), 항궤양(bupleuran).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[11번] 갈근의 isoflavonoid 성분으로 알맞은 것은?\nㄱ. daidzein\nㄴ. genistein\nㄷ. formononetin\nㄹ. glycyrrhizin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "glycyrrhizin = 감초.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[13번] 다음 중 protoberberine alkaloid를 함유하고 있는 생약은? (45번도 같은 문항)\nㄱ. Hydrastidis Rhizoma\nㄴ. Glehniae Radix\nㄷ. Coptidis Rhizoma\nㄹ. Brassicae Semen",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[17번] 부자에 함유된 aconitine alkaloid를 가열·감압 처리할 때 생성되는 저독성 물질은?",
+      "choices": [
+        "aconitine",
+        "mesaconitine",
+        "higenamine",
+        "synephrine",
+        "aconine"
+      ],
+      "answer": "aconine",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[18번] 천궁의 효능은? (41번도 같은 문항)\nㄱ. 진경\nㄴ. 진정\nㄷ. 혈압강하\nㄹ. 혈류개선",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "phthalide → 진경·진정, 혈관확장·혈압강하, 보혈·구어혈.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[19번] 강장약으로 비위허약·설사 등에 사용되는 생약은?",
+      "choices": [
+        "당삼",
+        "당귀",
+        "천궁",
+        "백출"
+      ],
+      "answer": "당삼",
+      "explanation": "당삼(만삼).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[20번] 당귀의 적응증은?",
+      "choices": [
+        "협심증",
+        "구어혈",
+        "구충제",
+        "자양강장",
+        "진정"
+      ],
+      "answer": "구어혈",
+      "explanation": "당귀: 보혈강장·구어혈·진정·진통.\n⚠ 교재 응용에 구어혈·자양(보혈)강장·진정이 모두 있어 한 개만 고르기 애매해요. 가장 대표인 구어혈로 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[21번] 건강의 6-gingerol의 생리활성은?\nㄱ. 해열\nㄴ. 진통\nㄷ. 소염\nㄹ. 위운동 억제",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "6-gingerol·6-shogaol: 진정·진통·해열·일과성 혈압강하·위운동 억제, 항염(6-shogaol).\n⚠ 교재 약리 목록에 해열·소염이 직접 나오는지 확인 못 함(진통·위운동 억제는 확실).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[22번] 생강과 건강의 설명으로 옳지 않은 것은?",
+      "choices": [
+        "생강의 건조 과정에서 shogaol의 양이 증가한다",
+        "건강이 생강보다 땀 배출로 인한 발한 효과가 더 크다",
+        "담즙 분비 증가, 구토 억제 효과를 가지며 멀미, 수술 후나 임산부의 구토에 효과적이다",
+        "항암 효능을 가진다",
+        "진정, 진통, 일과성 혈압강하 및 위운동 억제 작용이 있다"
+      ],
+      "answer": "건강이 생강보다 땀 배출로 인한 발한 효과가 더 크다",
+      "explanation": "발한: 생강 > 건강.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[23번] sesquiterpenoid 성분인 cyperene 또는 α-cyperone을 함유하는 생약은?",
+      "choices": [
+        "방풍",
+        "해방풍",
+        "향부자",
+        "현호색",
+        "히드라스티스근"
+      ],
+      "answer": "향부자",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[24번] 다음 중 baicalin, baicalein을 함유하고 있는 생약의 기원식물은?",
+      "choices": [
+        "Scutellaria baicalensis",
+        "Phlomis umbrosa",
+        "Aucklandia lappa",
+        "Gypsophila oldhamiana",
+        "Paeonia lactiflora"
+      ],
+      "answer": "Scutellaria baicalensis",
+      "explanation": "황금(속썩은풀). 오답 = 한속단·목향·은시호·작약.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[25번] 다음 중 peimine, peiminoside를 성분으로 가지는 것은?",
+      "choices": [
+        "절패모",
+        "위령선",
+        "자근",
+        "승마",
+        "지황"
+      ],
+      "answer": "절패모",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[26번] 승마가 속하는 과명은?",
+      "choices": [
+        "Cupressaceae",
+        "Ranunculaceae",
+        "Thymelaeaceae",
+        "Dioscoreaceae",
+        "Solanaceae"
+      ],
+      "answer": "Ranunculaceae",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[27번] 삼릉의 효능은?",
+      "choices": [
+        "강정, 강장",
+        "해열, 진통",
+        "진해, 거담",
+        "통경, 구어혈",
+        "소염, 이뇨"
+      ],
+      "answer": "통경, 구어혈",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[28번] 히드라스티스근의 효능으로 맞는 것은?\nㄱ. 혈관수축작용\nㄴ. 자궁지혈작용\nㄷ. 항미생물작용\nㄹ. 고미건위작용",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "hydrastine(혈관수축·지혈) + berberine(항미생물) → 자궁출혈 지혈제·살균성 고미건위제.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "deckId": "pharmacognosy-final-ex-2023-2-1",
+  "subject": "생약학",
+  "title": "족보 원본 2023-2 기말 ① (1~22번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[1번] 부교감신경을 차단하여 평활근 진경제로 사용하는 것은?\nㄱ. Scopoliae Rhizoma\nㄴ. Sophorae Flos\nㄷ. 데리스근\nㄹ. Daturae Folium",
+      "choices": [
+        "ㄱ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄱ"
+      ],
+      "answer": "ㄱ, ㄹ",
+      "explanation": "스코폴리아근·다투라엽 = 가지과 tropane. 괴화(Sophorae Flos)·데리스근은 아님.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[2번] 창출의 기원식물은?\nㄱ. 삽주\nㄴ. 당백출\nㄷ. 모창출\nㄹ. 북창출",
+      "choices": [
+        "ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄹ",
+        "ㄷ"
+      ],
+      "answer": "ㄷ, ㄹ",
+      "explanation": "삽주·당백출 = 백출.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[3번] 원지의 주된 효능은?\nㄱ. 거담\nㄴ. 항염증\nㄷ. 진정\nㄹ. 진해",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[4번] 다음 중 산약의 기원으로 알맞은 것은?\nㄱ. Dioscorea batatas\nㄴ. Dioscorea tokoro\nㄷ. Dioscorea japonica\nㄹ. Dioscorea nipponica",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "마·참마.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[5번] 전호의 학명은?\nㄱ. Angelica acutiloba\nㄴ. Angelica decursiva\nㄷ. Angelica koreana\nㄹ. Peucedanum praeruptorum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "바디나물·백화전호. acutiloba = 일당귀, koreana = 강활 계열 이름.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[6번] 금문대황에 속하지 않는 것은?\nㄱ. Rheum palmatum\nㄴ. Rheum coreanum\nㄷ. Rheum officinale\nㄹ. Rheum rhaponticum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[7번] 인도사목에 함유된 β-carboline ester alkaloid는?\nㄱ. pilocarpine\nㄴ. rescinnamine\nㄷ. shikonin\nㄹ. reserpine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[8번] 천남성의 적응증은?\nㄱ. 각기\nㄴ. 중풍\nㄷ. 갑상선종\nㄹ. 소아경기",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[9번] 임부 금기이며 감초와 만나면 독성이 강해지는 생약은?",
+      "choices": [
+        "데리스근",
+        "단삼",
+        "부자",
+        "백두옹",
+        "대극"
+      ],
+      "answer": "대극",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[10번] 덩이뿌리·덩이줄기처럼 \"덩이\"를 약용 부위로 쓰는 것은?\nㄱ. 강황\nㄴ. 생강\nㄷ. 아출\nㄹ. 울금",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "울금 = 덩이뿌리. 강황·생강·아출 = 뿌리줄기.\n⚠ 원문은 \"덩이줄기를 약용부위로 쓰는 것\" — 교재상 울금은 덩이뿌리라 표현을 넓혀 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[11번] 스코폴리아근의 확인시험 반응명은?",
+      "choices": [
+        "Vitali 반응",
+        "Grache 반응",
+        "Schoutelene 반응",
+        "Baudouin 반응",
+        "Bornträger 반응"
+      ],
+      "answer": "Vitali 반응",
+      "explanation": "tropane → Vitali.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[12번] 임부 또는 월경량이 많은 가임기 여성에게 금기인 생약은?",
+      "choices": [
+        "갈근",
+        "천화분",
+        "삼릉",
+        "울금",
+        "백출"
+      ],
+      "answer": "삼릉",
+      "explanation": "삼릉(통경·구어혈).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[13번] 토근의 원산지는?",
+      "choices": [
+        "일본",
+        "중국",
+        "브라질",
+        "러시아",
+        "유럽"
+      ],
+      "answer": "브라질",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[14번] 천마의 gastrodin 성분은 어떤 계열인가?",
+      "choices": [
+        "chromone",
+        "alkaloid",
+        "flavonoid glycoside",
+        "phenol glycoside",
+        "anthraquinone glycoside"
+      ],
+      "answer": "phenol glycoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[15번] 강황의 지표성분은?\nㄱ. yakuchinone\nㄴ. turmerone\nㄷ. 6-gingerol\nㄹ. curcumin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[16번] 다음 중 삼칠의 활혈 성분인 dammarane계 성분은?",
+      "choices": [
+        "cimifugin",
+        "baicalin",
+        "notoginsenoside",
+        "onjisaponin",
+        "dencichine"
+      ],
+      "answer": "notoginsenoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[17번] 강황의 효능으로 가장 알맞은 것은?\nㄱ. 혈소판 응집 억제작용\nㄴ. 간세포 보호작용\nㄷ. 이담작용\nㄹ. 소염작용",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "curcumin: 이담(담즙 분비)·간보호·항염증·항혈소판.\n⚠ 강황 카드는 울금 카드로 대신 확인(같은 Curcuma longa).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[18번] 신장독성을 일으키는 발암 성분은?",
+      "choices": [
+        "aristolochic acid",
+        "higenamine",
+        "sesamin"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "세신.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[19번] 일당귀나 중국당귀에는 함유되어 있고 참당귀에는 함유되어 있지 않은 성분 계열은?",
+      "choices": [
+        "alkaloid",
+        "flavonoid",
+        "coumarin",
+        "phthalide",
+        "lignan"
+      ],
+      "answer": "phthalide",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[20번] 부자의 성분 중 강심 효과를 가지는 성분은?",
+      "choices": [
+        "acetylshikonin",
+        "podophyllotoxin",
+        "higenamine",
+        "baicalin"
+      ],
+      "answer": "higenamine",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[21번] 천궁의 효능은?\nㄱ. 혈류개선\nㄴ. 진경\nㄷ. 진정\nㄹ. 혈압강하",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[22번] 승마에 함유된 visnagin, visamminol의 성분 계열은?",
+      "choices": [
+        "benzylisoquinoline alk.",
+        "phenanthrene alk.",
+        "protoberberine alk.",
+        "β-carboline alk.",
+        "chromone"
+      ],
+      "answer": "chromone",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

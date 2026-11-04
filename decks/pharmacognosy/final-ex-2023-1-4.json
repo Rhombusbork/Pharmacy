@@ -1,0 +1,166 @@
+{
+  "deckId": "pharmacognosy-final-ex-2023-1-4",
+  "subject": "생약학",
+  "title": "족보 원본 2023-1 기말 ④ 구조식·객관식·총론 (11·13번 복원 실패)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[4-15번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:CC(C)=CCC(O)C1=CC(=O)c2c(O)ccc(O)c2C1=O]]",
+      "choices": [
+        "자근",
+        "단삼",
+        "대황",
+        "하수오",
+        "지유"
+      ],
+      "answer": "자근",
+      "explanation": "shikonin(naphthoquinone).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[4-10번] 구조식 성분 astragaloside(cycloartane형 saponin)를 함유한 생약은?",
+      "choices": [
+        "황기",
+        "감초",
+        "인삼",
+        "시호",
+        "길경"
+      ],
+      "answer": "황기",
+      "explanation": "\n⚠ 구조식 그림 미복원 — 성분 이름으로 제시.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[4-12번] 구조식 성분 acteoside(phenylethanoid)를 대표로 함유한, 꿀풀과의 생약은?",
+      "choices": [
+        "한속단",
+        "속단",
+        "단삼",
+        "황금",
+        "현삼"
+      ],
+      "answer": "한속단",
+      "explanation": "\n⚠ 구조식 그림 미복원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[4-14번] 구조식 성분 tenuifolin(onjisaponin의 prosapogenin)을 함유한 생약은?",
+      "choices": [
+        "원지",
+        "세네가",
+        "길경",
+        "감초",
+        "시호"
+      ],
+      "answer": "원지",
+      "explanation": "\n⚠ 구조식 그림 미복원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[6번] 전초에 신장독성을 유발할 수 있는 발암성 물질이 있어 사용에 주의해야 하는 생약명을 적으시오. (주관식)",
+      "answer": [
+        "세신"
+      ],
+      "explanation": "유발 성분 = aristolochic acid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[6번] 6번 이어서 — 세신의 신장독성 유발 성분을 적으시오. (주관식)",
+      "answer": [
+        "aristolochic acid",
+        "아리스톨로크산",
+        "aristolochic"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[7번] aconitine 계열 물질의 진통 작용 효과를 강한 것부터 나열한 것은?\nㄱ. aconitine  ㄴ. hypaconitine  ㄷ. mesaconitine",
+      "choices": [
+        "ㄱ-ㄷ-ㄴ",
+        "ㄴ-ㄱ-ㄷ",
+        "ㄴ-ㄷ-ㄱ",
+        "ㄷ-ㄴ-ㄱ",
+        "ㄷ-ㄱ-ㄴ"
+      ],
+      "answer": "ㄷ-ㄱ-ㄴ",
+      "explanation": "메(ㄷ) > 아(ㄱ) > 하이포(ㄴ).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[8번] 3대 거담 생약을 모두 고르시오.\nㄱ. 세네가\nㄴ. 원지\nㄷ. 길경\nㄹ. 감초",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n⚠ 원형은 주관식.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[9번] 인삼을 쪄서 홍삼으로 만들 때 생기는 특징적인 성분을 하나 적으시오. (주관식)",
+      "answer": [
+        "ginsenoside Rg3",
+        "Rg3",
+        "ginsenoside Rh2",
+        "Rh2"
+      ],
+      "explanation": "Rh₂·Rg₃·20(R)-Rg₂ 등.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[10번] 갈증을 없애 주고 주독을 풀어 주며 칡의 꽃봉오리에 해당하는 생약인 갈화의 라틴 생약명을 적으시오. (주관식)",
+      "answer": [
+        "Puerariae Flos",
+        "Pueraria flos",
+        "Puerariae flos"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[12번] 부자의 성분 중 강심 효과를 가지는 benzylisoquinoline alkaloid는?",
+      "choices": [
+        "acetylshikonin",
+        "podophyllotoxin",
+        "higenamine",
+        "alliin",
+        "baicalein"
+      ],
+      "answer": "higenamine",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[14번] [총론] True alkaloid는 식물체에서 유래한 (①)을 띠는 질소 함유 이성환 화합물이고, 아미노기를 함유하고 있어 (②), Dragendorff 시약으로 검출할 수 있다. ①에 들어갈 말은? (주관식)",
+      "answer": [
+        "염기성",
+        "알칼리성"
+      ],
+      "explanation": "② = Mayer 시약.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[14번] [총론] 위 문장의 ②, Dragendorff 시약과 함께 alkaloid 검출에 쓰는 시약은? (주관식)",
+      "answer": [
+        "Mayer",
+        "Mayer 시약",
+        "Mayer시약",
+        "마이어"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[15번] [총론] tryptophan에서 유래한 tryptamine과 geraniol에서 유래한 secologanin이 결합하여 생긴 (    )은 corynanthe·iboga·aspidosperma type으로 접히며 vinca alkaloid, quinoline alkaloid의 전구체이다. (주관식)",
+      "answer": [
+        "strictosidine",
+        "스트릭토시딘"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

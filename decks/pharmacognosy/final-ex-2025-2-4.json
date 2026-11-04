@@ -1,0 +1,318 @@
+{
+  "deckId": "pharmacognosy-final-ex-2025-2-4",
+  "subject": "생약학",
+  "title": "족보 원본 2025-2 기말 ④ (73~97번, 88번 복원 실패)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[73번] [73-81 공통 보기] 부종, 관절수종에 대해 소염 진통약으로 사용되는 생약은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Sinomeni Caulis et Rhizoma",
+      "explanation": "방기(sinomenine).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[74번] [73-81 공통 보기] 천남성과 생약으로 옳은 것은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Pinelliae Tuber",
+      "explanation": "반하.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[75번] [73-81 공통 보기] 대산의 라틴 생약명은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Allii Bulbus",
+      "explanation": "Allii Bulbus.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[76번] [73-81 공통 보기] 진정, 진토, 거담제로 쓰이는 생약은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Pinelliae Tuber",
+      "explanation": "반하.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[77번] [73-81 공통 보기] 채취 후 1년 이상 경과한 생약을 사용해야 하는 것은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Rhei Radix et Rhizoma",
+      "explanation": "대황(유리형 anthrone 감소).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[78번] [73-81 공통 보기] steroidal saponin을 함유하고 진해·거담 효과를 갖는 생약은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Liriopis seu Ophiopogonis Tuber",
+      "explanation": "맥문동(ophiopogonin).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[79번] [73-81 공통 보기] 독성이 있어서 반드시 생강 법제 후 사용해야 하는 생약은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Pinelliae Tuber",
+      "explanation": "반하.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[80번] [73-81 공통 보기] 백합과인 것을 모두 고르시오.\nㄱ. Allii Bulbus\nㄴ. Pinelliae Tuber\nㄷ. Sinomeni Caulis et Rhizoma\nㄹ. Liriopis seu Ophiopogonis Tuber",
+      "choices": [
+        "ㄱ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        "ㄱ"
+      ],
+      "answer": "ㄱ, ㄹ",
+      "explanation": "대산·맥문동 = 백합과. 반하 = 천남성과, 방기 = 방기과.\n⚠ 원형은 하나 고르기인데 교재 기준 백합과가 둘(대산·맥문동)이라 모두 고르기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[81번] [73-81 공통 보기] 대황의 라틴 생약명은?",
+      "choices": [
+        "Allii Bulbus",
+        "Pinelliae Tuber",
+        "Sinomeni Caulis et Rhizoma",
+        "Rhei Radix et Rhizoma",
+        "Liriopis seu Ophiopogonis Tuber"
+      ],
+      "answer": "Rhei Radix et Rhizoma",
+      "explanation": "Rhei Radix et Rhizoma.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[82번] 과량 복용 시 경련 발작을 일으키며 질식과 피로로 사망할 수 있는 생약은?",
+      "choices": [
+        "Aconiti Radix",
+        "Strychni Semen",
+        "Ephedrae Herba",
+        "Rhei Radix et Rhizoma",
+        "Pinelliae Tuber"
+      ],
+      "answer": "Strychni Semen",
+      "explanation": "호미카 strychnine.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[83번] 데리스근의 살충 성분은?",
+      "choices": [
+        "roemerine",
+        "rotenone",
+        "nuciferine",
+        "evomonoside",
+        "scopolamine"
+      ],
+      "answer": "rotenone",
+      "explanation": "rotenone. roemerine·nuciferine = 연자육, evomonoside = 정력자.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[84번] 아마인의 독성 성분인 linamarin은 어느 계열의 성분인가?",
+      "choices": [
+        "Triterpenoid Saponin",
+        "Cardiac Glycosides",
+        "Cyanogenic Glycosides",
+        "Anthraquinone Derivatives",
+        "Alkaloid"
+      ],
+      "answer": "Cyanogenic Glycosides",
+      "explanation": "청산배당체.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[85번] 급만성 신염에 활용되며, 소아의 키 성장과 노인의 강장 목적으로 쓰이고, 보중익기탕의 주요 구성 생약인 것은?",
+      "choices": [
+        "Scrophulariae Radix",
+        "Scutellariae Radix",
+        "Polygalae Radix",
+        "Morindae Radix",
+        "Astragali Radix"
+      ],
+      "answer": "Astragali Radix",
+      "explanation": "황기.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[86번] 금문대황에 속하지 않는 것은?\nㄱ. Rheum palmatum\nㄴ. Rheum coreanum\nㄷ. Rheum officinale\nㄹ. Rheum rhaponticum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "R. rhaponticum = 토대황계.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[87번] 다음 성상에 해당하는 생약은?\n바깥면은 황갈색 또는 진한 노란색이고 질은 단단하면서 절단하기 쉽다. 자른 면은 노란색이고 중심부는 적갈색이다. 햇수가 오래된 것은 뿌리의 가운데가 썩어 있거나 비어 있고 어두운 갈색 또는 적갈색을 나타낸다. 냄새가 거의 없고 맛은 약간 쓰다.",
+      "choices": [
+        "Scutellariae Radix",
+        "Coptidis Rhizoma",
+        "Phellodendri Cortex",
+        "Astragali Radix",
+        "Sophorae Radix"
+      ],
+      "answer": "Scutellariae Radix",
+      "explanation": "황금 — 오래되어 속이 빈 것 = 고금(枯芩). \"뿌리의 가운데가 썩음\"이 단서.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[89번] 다음 중 틀린 것은?",
+      "choices": [
+        "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+        "부자는 자근을 사용하고 오두는 모근을 사용한다",
+        "부자는 소금으로 장시간 법제한 뒤 몇 가지 법제 과정이 더 있고, 오두는 감초와 검은콩과 함께 5시간 이상 끓인다",
+        "부자, 천오, 초오 모두 Mayer 시약으로 확인 가능하다",
+        "aconitine 중독의 사망 원인은 심한 부정맥 때문이다"
+      ],
+      "answer": "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+      "explanation": "부자 = 양기 보충 / 오두 = 찬 기운 통증·저림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[90번] [90-91] 생약 X에서 분리되는 성분 Y: 콩과 식물에서 분리되는 트리테르펜 사포닌 배당체로 설탕보다 수십 배 강한 단맛을 내며, 강력한 항염증·항알레르기 작용을 나타낸다. 가수분해되면 비당체가 생긴다. 물질 Y는?",
+      "choices": [
+        "Catalpol",
+        "Glycyrrhizin",
+        "Reserpine",
+        "Stevioside",
+        "Liquiritin"
+      ],
+      "answer": "Glycyrrhizin",
+      "explanation": "감초 glycyrrhizin. stevioside도 감미 배당체지만 diterpene(국화과 스테비아).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[91번] [90-91] 물질 Y가 가수분해되었을 때 생성되는 비당체(aglycone)는?",
+      "choices": [
+        "Oleanolic acid",
+        "Ursolic acid",
+        "Glycyrrhetinic acid",
+        "Hederagenin",
+        "Diosgenin"
+      ],
+      "answer": "Glycyrrhetinic acid",
+      "explanation": "glycyrrhetic acid + glucuronic acid 2분자.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[92번] Campanulaceae에 속하는 생약으로 거담 효과가 있으며 inulin이 함유된 것은?",
+      "choices": [
+        "길경",
+        "천마",
+        "행인",
+        "택사",
+        "세네가"
+      ],
+      "answer": "길경",
+      "explanation": "길경(도라지).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[93번] 세균성 설사에 대한 지사약으로, berberine을 함유하는 근경류 생약의 기원식물은?",
+      "choices": [
+        "Bupleurum falcatum",
+        "Curcuma longa",
+        "Sophora japonica",
+        "Coptis japonica",
+        "Rehmannia glutinosa"
+      ],
+      "answer": "Coptis japonica",
+      "explanation": "황련.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[94번] 주성분이 triterpene계 saponin이며 자극성 거담약과 진해약으로 사용되는 생약의 기원식물은?",
+      "choices": [
+        "Angelica dahurica",
+        "Polygala tenuifolia",
+        "Pinellia ternata",
+        "Gentiana lutea",
+        "Rheum palmatum"
+      ],
+      "answer": "Polygala tenuifolia",
+      "explanation": "원지(onjisaponin) — 자극성 거담약(stimulant expectorant).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[95번] 스테로이드 호르몬의 합성 원료인 화합물을 포함하는 생약은?",
+      "choices": [
+        "Angelicae Dahuricae Radix",
+        "Coptidis Rhizoma",
+        "Dioscoreae Rhizoma",
+        "Paeoniae Radix"
+      ],
+      "answer": "Dioscoreae Rhizoma",
+      "explanation": "산약 dioscin → diosgenin.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[96번] [96-97 공통 보기] 다음 구조식(iridoid 배당체)을 포함한 생약은?\n[[smi:OCC1OC(OC2OC=CC3(O)C(O)CC(C)(O)C23)C(O)C(O)C1O]]",
+      "choices": [
+        "빈랑자",
+        "천마",
+        "현삼",
+        "차전자",
+        "지황"
+      ],
+      "answer": "현삼",
+      "explanation": "cyclopentane 고리에 OH가 2개 붙은 harpagide형 iridoid → 현삼(harpagide·harpagoside). 지황 catalpol은 epoxide가 있다.\n⚠ 족보 구조식(R₁·R₂ 치환)을 harpagide로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 24,
+      "question": "[97번] [96-97 공통 보기] 다음 구조식을 포함한 생약은?\n[[smi:CN1CCC=C(C1)C(=O)OC]]",
+      "choices": [
+        "빈랑자",
+        "천마",
+        "현삼",
+        "차전자",
+        "지황"
+      ],
+      "answer": "빈랑자",
+      "explanation": "tetrahydropyridine-3-carboxylate = arecoline(pyridine alkaloid) → 빈랑자.\n⚠ 족보 구조식(R₁·R₂ 치환)을 arecoline으로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

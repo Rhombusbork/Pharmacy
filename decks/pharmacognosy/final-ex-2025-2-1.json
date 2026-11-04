@@ -1,0 +1,311 @@
+{
+  "deckId": "pharmacognosy-final-ex-2025-2-1",
+  "subject": "생약학",
+  "title": "족보 원본 2025-2 기말 ① (1~24번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[1번] 황 화합물(sulfur containing compound)을 가진 생약이 아닌 것은?",
+      "choices": [
+        "Brassicae Semen",
+        "Pharbitidis Semen",
+        "Lepidii seu Descurainiae Semen",
+        "Wasabiae Radix",
+        "Raphani Semen"
+      ],
+      "answer": "Pharbitidis Semen",
+      "explanation": "견우자(Pharbitidis) = 수지배당체 pharbitin. 개자·정력자·고추냉이·내복자 = 십자화과 glucosinolate(황 함유).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[2번] 단삼의 적응증은?",
+      "choices": [
+        "습진",
+        "피부진균증",
+        "진해거담",
+        "협심증",
+        "구충제"
+      ],
+      "answer": "협심증",
+      "explanation": "tanshinone·cryptotanshinone → 관상동맥 확장 → 협심증.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[3번] [3-5 공통 보기] 지표성분이 paeoniflorin인 생약은?",
+      "choices": [
+        "Anemarrhenae Rhizoma",
+        "Paeoniae Radix",
+        "Scopoliae Rhizoma"
+      ],
+      "answer": "Paeoniae Radix",
+      "explanation": "작약(Paeoniae Radix): albiflorin + paeoniflorin 2.3% 이상.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[4번] [3-5 공통 보기] 건조하여 정량했을 때 mangiferin 0.7% 이상을 함유하는 생약은?",
+      "choices": [
+        "Anemarrhenae Rhizoma",
+        "Paeoniae Radix",
+        "Scopoliae Rhizoma"
+      ],
+      "answer": "Anemarrhenae Rhizoma",
+      "explanation": "지모(Anemarrhenae Rhizoma): mangiferin(xanthone C-glycoside).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[5번] [3-5 공통 보기] 총 알칼로이드(hyoscyamine, scopolamine) 0.3% 이상을 함유하는 생약은?",
+      "choices": [
+        "Anemarrhenae Rhizoma",
+        "Paeoniae Radix",
+        "Scopoliae Rhizoma"
+      ],
+      "answer": "Scopoliae Rhizoma",
+      "explanation": "스코폴리아근(Scopoliae Rhizoma) — 가지과 tropane alkaloid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[6번] 황련 성분 중에서 berberine의 약리작용이 아닌 것은?",
+      "choices": [
+        "항균작용",
+        "항말라리아작용",
+        "정장지사작용",
+        "중추신경 억제작용",
+        "항염증작용"
+      ],
+      "answer": "항말라리아작용",
+      "explanation": "항말라리아는 향부자(α-cyperone)의 작용.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[7번] 다음 중 건조 시 emetine을 2% 이상 함유하는 생약은?",
+      "choices": [
+        "Ipecacuanhae Radix",
+        "Strychni Semen",
+        "Cinchonae Cortex",
+        "Belladonnae Folium",
+        "Digitalis Folium"
+      ],
+      "answer": "Ipecacuanhae Radix",
+      "explanation": "토근: emetine + cephaeline 2.0% 이상.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[8번] 지황에는 많으나 건지황과 숙지황에는 상대적으로 적은 성분은?",
+      "choices": [
+        "stachyose",
+        "raffinose",
+        "sucrose",
+        "5-HMF"
+      ],
+      "answer": "stachyose",
+      "explanation": "찌고 말리면 stachyose가 분해된다(5-HMF는 오히려 숙지황에 생김).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[9번] 신선한 대황에서 복통을 유발하는 성분은?",
+      "choices": [
+        "catechin",
+        "sennoside A",
+        "rhein anthrone",
+        "rhaponticin",
+        "chrysophanol"
+      ],
+      "answer": "rhein anthrone",
+      "explanation": "유리형 anthrone → 복통·구토 → 채취 후 1년 이상 지난 대황 사용. sennoside A는 사하 성분(배당체).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[10번] 일당귀와 중국당귀에는 포함되어 있고 참당귀에는 포함되어 있지 않은 성분은?",
+      "choices": [
+        "phthalide",
+        "alkaloid",
+        "coumarin",
+        "flavonoid",
+        "lignan"
+      ],
+      "answer": "phthalide",
+      "explanation": "일당귀·중국당귀 = ligustilide(phthalide) / 참당귀 = decursin(coumarin).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[11번] 약전에 수재된 황정의 기원식물은?\nㄱ. Polygonatum sibiricum\nㄴ. Polygonatum falcatum\nㄷ. Polygonatum kingianum\nㄹ. Polygonatum odoratum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "P. odoratum(둥굴레)은 옥죽의 기원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[12번] 다음 중 진해거담약으로 쓰는 생약을 모두 고르시오.\nㄱ. 절패모\nㄴ. 은시호\nㄷ. 아출\nㄹ. 황련",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "절패모(peimine 진해)·은시호(진해·거담·해열). 아출 = 건위·구어혈, 황련 = 지사·고미건위.\n⚠ 족보 원형은 \"진해거담약으로 쓸 수 없는 생약\"(절패모·은시호·아출·울금·황련 중 하나)인데 쓸 수 없는 것이 셋이라 \"쓰는 것 모두 고르기\"로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[13번] 천초근의 과명으로 옳은 것은?",
+      "choices": [
+        "Ranunculaceae",
+        "Rutaceae",
+        "Rubiaceae",
+        "Polygonaceae",
+        "Polygalaceae"
+      ],
+      "answer": "Rubiaceae",
+      "explanation": "천초근 = 꼭두서니 Rubia → Rubiaceae. Rutaceae(운향과)와 철자 혼동 주의.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[14번] 길초근의 효능은?",
+      "choices": [
+        "살충제",
+        "진정제",
+        "고미건위제",
+        "방향성 건위제",
+        "보혈제"
+      ],
+      "answer": "진정제",
+      "explanation": "kessylglycol diacetate·valerenic acid → 진정·항불안.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[15번] 부자의 성분 중 강심 효과를 가지는 benzylisoquinoline alkaloid는?",
+      "choices": [
+        "acetylshikonin",
+        "podophyllotoxin",
+        "higenamine",
+        "alliin",
+        "baicalein"
+      ],
+      "answer": "higenamine",
+      "explanation": "higenamine(β 작용약 유사).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[16번] 다음 중 protoberberine alkaloid를 함유하고 있는 생약은?\nㄱ. Hydrastidis Rhizoma\nㄴ. Glehniae Radix\nㄷ. Coptidis Rhizoma\nㄹ. Brassicae Semen",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "히드라스티스근·황련(berberine).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[17번] Ordeal bean으로 불리는 생약의 기원은?",
+      "choices": [
+        "Coffeae Semen",
+        "Plantaginis Semen",
+        "Coicis Semen",
+        "Physostigmatis Semen",
+        "Myristicae Semen"
+      ],
+      "answer": "Physostigmatis Semen",
+      "explanation": "카라발두(Physostigma venenosum).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[18번] 황련의 성분을 고르시오.\nㄱ. berberine\nㄴ. palmatine\nㄷ. coptisine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "모두 protoberberine alkaloid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[19번] 부인과 질환에 사용할 수 없는 생약은?",
+      "choices": [
+        "현호색",
+        "천궁",
+        "당귀",
+        "향부자",
+        "위령선"
+      ],
+      "answer": "위령선",
+      "explanation": "위령선 = 거풍습·진통(물고기 가시).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[20번] Pharbitidis Semen의 한자명은?",
+      "choices": [
+        "萊菔子",
+        "牽牛子",
+        "郁李仁",
+        "麥門冬",
+        "五味子"
+      ],
+      "answer": "牽牛子",
+      "explanation": "萊菔子 = 내복자, 郁李仁 = 욱리인.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[21번] 부자에 함유된 aconitine 계열 알칼로이드의 진통 작용이 강한 순서로 옳은 것은?",
+      "choices": [
+        "mesaconitine → aconitine → hypaconitine",
+        "aconitine → mesaconitine → hypaconitine",
+        "mesaconitine → hypaconitine → aconitine",
+        "hypaconitine → mesaconitine → aconitine",
+        "aconitine → hypaconitine → mesaconitine"
+      ],
+      "answer": "mesaconitine → aconitine → hypaconitine",
+      "explanation": "메 > 아 > 하이포.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[22번] 건강의 설명으로 옳지 않은 것은?",
+      "choices": [
+        "생강의 건조 과정에서 shogaol의 양이 증가한다",
+        "건강이 생강보다 발한 효과가 더 크다",
+        "담즙 분비 증가, 구토 억제 효과를 가지며 멀미, 수술 후나 임산부의 구토에 효과적이다",
+        "항암 효능을 가진다",
+        "진정, 진통, 일과성 혈압강하 및 위운동 억제 작용이 있다"
+      ],
+      "answer": "건강이 생강보다 발한 효과가 더 크다",
+      "explanation": "발한은 생강 > 건강.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[23번] 인도사목(Rauwolfiae Radix)에 포함된 화합물로, 혈압강하 효과를 나타내는 indole 알칼로이드 성분은?",
+      "choices": [
+        "Reserpine",
+        "Atropine",
+        "Morphine",
+        "Caffeine",
+        "Ephedrine"
+      ],
+      "answer": "Reserpine",
+      "explanation": "reserpine → catecholamine 고갈.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 24,
+      "question": "[24번] 카라발두의 적응증으로 옳은 것은?\nㄱ. 초기 녹내장\nㄴ. 근무력증\nㄷ. 수술 후의 장마비\nㄹ. 뇌졸중",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "physostigmine(AChE 억제).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

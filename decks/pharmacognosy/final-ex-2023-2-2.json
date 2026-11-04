@@ -1,0 +1,292 @@
+{
+  "deckId": "pharmacognosy-final-ex-2023-2-2",
+  "subject": "생약학",
+  "title": "족보 원본 2023-2 기말 ② (23~44번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[23번] 백출의 효능은?\nㄱ. 강압\nㄴ. 안태\nㄷ. 지혈\nㄹ. 방향성 건위",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[24번] 우슬의 지표성분은?\nㄱ. inokosterone\nㄴ. valerianone\nㄷ. ecdysterone",
+      "choices": [
+        "ㄱ, ㄷ",
+        "ㄷ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ",
+        "ㄴ, ㄷ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "ecdysteroid 2종. valerianone = 길초근.\n⚠ 원형은 하나 고르기인데 정답이 둘이라 모두 고르기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[25번] 건강의 6-gingerol의 생리활성은?\nㄱ. 진통\nㄴ. 소염\nㄷ. 해열\nㄹ. 위운동 억제",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n⚠ 해열·소염은 교재 목록에서 직접 확인 못 함.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[26번] 다음 중 Bornträger 반응으로 확인이 가능한 것은?\nㄱ. Achyranthis Radix\nㄴ. Scutellariae Radix\nㄷ. Astragali Radix\nㄹ. Polygoni Multiflori Radix",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "하수오(anthraquinone).\n⚠ 원문 ㄴ·ㄷ(창이자·사인)은 다른 Radix 보기로 바뀌었다는 메모가 있어 근류 보기로 채움.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[27번] 하수오에 함유된 성분은?\nㄱ. physcion\nㄴ. emetine\nㄷ. lecithin\nㄹ. astragaloside",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "anthraquinone(physcion·emodin) + lecithin(3.7%).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[28번] emetine과 cephaeline의 성분 계열은?",
+      "choices": [
+        "Tropane alk.",
+        "Piperidine alk.",
+        "Pyrrolidine alk.",
+        "Indole alk.",
+        "Isoquinoline alk."
+      ],
+      "answer": "Isoquinoline alk.",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[29번] sesquiterpenoid 성분인 cyperene 또는 α-cyperone을 함유하는 생약은?",
+      "choices": [
+        "향부자",
+        "택사",
+        "천궁",
+        "백합",
+        "산약"
+      ],
+      "answer": "향부자",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[30번] peimine 또는 peiminoside를 함유하는 생약은?",
+      "choices": [
+        "절패모",
+        "위령선",
+        "자근",
+        "승마",
+        "지황"
+      ],
+      "answer": "절패모",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[31번] 용담의 약리 활성으로 가장 적절한 것은?\nㄱ. 건위\nㄴ. 해열\nㄷ. 항염증\nㄹ. 항부정맥",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[32번] 승마의 과명은?",
+      "choices": [
+        "Cupressaceae",
+        "Ranunculaceae",
+        "Thymelaeaceae",
+        "Dioscoreaceae",
+        "Solanaceae"
+      ],
+      "answer": "Ranunculaceae",
+      "explanation": "\n⚠ 보기가 1개만 복원되어 2024-1 같은 문항 보기로 채움.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[33번] 지모의 혈당강하 성분은?",
+      "choices": [
+        "cinnamaldehyde",
+        "saikosaponin",
+        "anemaran A",
+        "berberine",
+        "sinomenine"
+      ],
+      "answer": "anemaran A",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[34번] 개연꽃 등 동속식물의 뿌리줄기를 사용하는 생약명은?",
+      "choices": [
+        "Nupharis Rhizoma",
+        "Clematidis Radix",
+        "Asparagi Tuber",
+        "Gastrodiae Rhizoma",
+        "Arisaematis Rhizoma"
+      ],
+      "answer": "Nupharis Rhizoma",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[35번] 토근의 용도는?\nㄱ. 거담\nㄴ. 아메바성 이질 치료제\nㄷ. 최토제\nㄹ. 혈압 강하",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "emetine(거담·항아메바), cephaeline(최토).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[36번] 괄루근은 임부에는 금기이다. 그 원인 성분은?",
+      "choices": [
+        "trichosanthin",
+        "decursin",
+        "cucurbitacin I",
+        "trichosan A"
+      ],
+      "answer": "trichosanthin",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[37번] 갈근의 isoflavonoid 성분으로 가장 알맞은 것은?\nㄱ. daidzein\nㄴ. genistein\nㄷ. formononetin\nㄹ. glycyrrhizin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[38번] 단삼의 성분 tanshinone의 계열은?",
+      "choices": [
+        "monoterpene",
+        "diterpene",
+        "sesquiterpene",
+        "triterpene",
+        "coumarin"
+      ],
+      "answer": "diterpene",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[39번] 백두옹의 함유 성분으로 암세포주에 세포독성이 있으며 혈관신생을 억제하는 물질은?",
+      "choices": [
+        "ranunculin",
+        "limonin",
+        "anemonin",
+        "deoxypodophyllotoxin",
+        "pulsatillic acid"
+      ],
+      "answer": "deoxypodophyllotoxin",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[40번] 지황에는 많으나 건지황과 숙지황에는 상대적으로 적은 성분은?",
+      "choices": [
+        "stachyose",
+        "5-hydroxymethyl-2-furaldehyde",
+        "catalpol",
+        "manninotriose",
+        "sucrose"
+      ],
+      "answer": "stachyose",
+      "explanation": "\n⚠ catalpol도 숙지황에서 줄어들지만 교재·족보의 대표 답은 stachyose.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[41번] 현삼에 들어 있으며 뇌신경 보호 작용이 있는 성분은?",
+      "choices": [
+        "buergeriside A₁",
+        "lecithin",
+        "aescin",
+        "silymarin",
+        "icariin"
+      ],
+      "answer": "buergeriside A₁",
+      "explanation": "buergeriside·harpagoside·p-methoxycinnamic acid → 기억력 개선.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[42번] 승마의 기원식물은?",
+      "choices": [
+        "Hyoscyamus niger",
+        "Lithospermum erythrorhizon",
+        "Gentiana scabra",
+        "Sanguisorba officinalis",
+        "Cimicifuga heracleifolia"
+      ],
+      "answer": "Cimicifuga heracleifolia",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[43번] aconitine 계열 물질의 진통 작용 효과를 순서대로 나열한 것은?",
+      "choices": [
+        "mesaconitine > aconitine > hypaconitine",
+        "aconitine > mesaconitine > hypaconitine",
+        "mesaconitine > hypaconitine > aconitine",
+        "hypaconitine > mesaconitine > aconitine",
+        "aconitine > hypaconitine > mesaconitine"
+      ],
+      "answer": "mesaconitine > aconitine > hypaconitine",
+      "explanation": "\n⚠ 보기 재구성(원문에는 답만 적혀 있음).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[44번] 시호의 약리는?\nㄱ. 해열\nㄴ. 진정·진통\nㄷ. 항염증·항궤양\nㄹ. 간세포 보호",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "deckId": "pharmacognosy-final-ex-2023-2-3",
+  "subject": "생약학",
+  "title": "족보 원본 2023-2 기말 ③ (45~60번·실습)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[45번] 다음 보기 중 틀린 것은?",
+      "choices": [
+        "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+        "부자는 자근을 사용하고 오두는 모근을 사용한다",
+        "부자는 소금으로 장시간 법제한 뒤 몇 가지 법제 과정이 더 있고 오두는 감초와 검은콩과 함께 5시간 이상 끓인다",
+        "부자, 천오, 초오 모두 Mayer 시약으로 확인 가능하다",
+        "aconitine 중독의 사망 원인은 심한 부정맥 때문이다"
+      ],
+      "answer": "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[46번] 자근에서 항진균 작용과 육아 형성 촉진 작용이 있는 것은?",
+      "choices": [
+        "shikonin",
+        "lithospermic acid",
+        "lithosperman A",
+        "emodin",
+        "ligustilide"
+      ],
+      "answer": "shikonin",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[47번] 세네가의 물 추출액의 자외선 흡수 스펙트럼은 317 nm 부근에서 흡수 극대를 나타낸다. 그 원인 구조는?",
+      "choices": [
+        "p-methoxycinnamic acid",
+        "gentianine",
+        "platycodin D",
+        "nigakilactone D",
+        "catalpol"
+      ],
+      "answer": "p-methoxycinnamic acid",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[48번] 전초에 신장독성을 유발할 수 있는 발암성 물질이 있어 사용에 주의를 요하는 생약은?",
+      "choices": [
+        "Scutellariae Radix",
+        "Achyranthis Radix",
+        "Bupleuri Radix",
+        "Asari Radix et Rhizoma",
+        "Gentianae Scabrae Radix"
+      ],
+      "answer": "Asari Radix et Rhizoma",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[49번] 고삼의 효능으로 맞는 것은?",
+      "choices": [
+        "해열작용",
+        "진해거담",
+        "강심제"
+      ],
+      "answer": "해열작용",
+      "explanation": "\n⚠ 보기 3개만 복원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[50번] 속단의 기원식물은?",
+      "choices": [
+        "Bupleurum falcatum",
+        "Lindera strychnifolia",
+        "Gentiana macrophylla",
+        "Dipsacus asperoides",
+        "Phragmites communis"
+      ],
+      "answer": "Dipsacus asperoides",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[51번] 물고기 가시가 목에 걸렸을 때 쓰는 생약은?",
+      "choices": [
+        "괄루근",
+        "하고초",
+        "위령선",
+        "은시호",
+        "인도사목"
+      ],
+      "answer": "위령선",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[52번] matrine의 성분 계열은?",
+      "choices": [
+        "quinolizidine alk.",
+        "benzylisoquinoline alk.",
+        "phenanthrene alk.",
+        "indole alk.",
+        "imidazole alk."
+      ],
+      "answer": "quinolizidine alk.",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[53번] 소아(키 성장)와 노인(보중익기탕)의 재료로 쓰이는 생약은?",
+      "choices": [
+        "Astragali Radix",
+        "Scutellariae Radix",
+        "Scrophulariae Radix"
+      ],
+      "answer": "Astragali Radix",
+      "explanation": "\n⚠ 보기 3개만 복원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[54번] 방풍의 chromone계 성분으로 알맞은 것은?\nㄱ. hamaudol\nㄴ. ledebouriellol\nㄷ. cimifugin\nㄹ. 5-O-methylvisamminol",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[55번] 인삼에 함유된 20(S)-protopanaxatriol계 성분과 가장 가까운 것은?\nㄱ. ginsenoside Rg₁\nㄴ. 중추 억제\nㄷ. 피로 회복\nㄹ. C3-OH에 당이 붙음",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "PPT계(Rg₁·Re): 중추 \"흥분\", 자양강장(피로 회복). 당은 C3이 아니라 C6(·C20)에 붙는다(C3-OH 당 = PPD계).\n⚠ 피로 회복을 Rg군 작용으로 본 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[56번] 부자에 함유된 aconitine alkaloid를 가열·감압 처리할 때 생성되는 저독성의 물질은?",
+      "choices": [
+        "aconitine",
+        "mesaconitine",
+        "higenamine",
+        "synephrine",
+        "aconine"
+      ],
+      "answer": "aconine",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[57번] 고삼의 확인반응에 이용되는 시약은?",
+      "choices": [
+        "Liebermann-Burchard 시액",
+        "Carr-Price 시액",
+        "SbCl₃ 시액",
+        "Dragendorff 시액",
+        "FeCl₃ 시액"
+      ],
+      "answer": "Dragendorff 시액",
+      "explanation": "matrine → 등황색 침전.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[58번] 강장약에 속하며 피로 회복·허약·설사에 효과 있는 것은?",
+      "choices": [
+        "당삼",
+        "당귀",
+        "산약",
+        "백출",
+        "반하"
+      ],
+      "answer": "당삼",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[59번] 당귀의 적응증은?",
+      "choices": [
+        "협심증",
+        "구어혈",
+        "구충제",
+        "자양강장",
+        "진경"
+      ],
+      "answer": "구어혈",
+      "explanation": "\n⚠ 자양강장·진경도 교재 응용과 겹쳐 애매 — 대표 효능 구어혈로 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[60번] 다음 중 protoberberine alkaloid를 함유하고 있는 생약은?\nㄱ. Hydrastidis Rhizoma\nㄴ. Coptidis Rhizoma\nㄷ. Glehniae Radix\nㄹ. Brassicae Semen",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "\n⚠ 원형은 하나 고르기인데 정답이 둘이라 모두 고르기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[실습1-1번] 정색반응: lignan(참기름) + 염산·sucrose → 붉은색. 이 반응의 이름은? (주관식)",
+      "answer": [
+        "Baudouin 반응",
+        "Baudouin",
+        "바우두인 반응"
+      ],
+      "explanation": "참기름의 sesamolin → Baudouin 반응.\n⚠ 실습 문항. 표 빈칸 복원.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[실습1-2번] 정색반응 표: 대황 + 10% KOH → Bornträger 반응. 확인하는 성분 계열은?",
+      "choices": [
+        "anthraquinone",
+        "alkaloid",
+        "saponin",
+        "flavonoid",
+        "lignan"
+      ],
+      "answer": "anthraquinone",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[실습1-4번] 정색반응 표: alkaloid(방기·황백·현호색)를 확인할 때 쓰는 시약은?",
+      "choices": [
+        "Dragendorff 시약",
+        "Mg + 염산",
+        "10% KOH",
+        "염산 + sucrose",
+        "물 + 흔들기"
+      ],
+      "answer": "Dragendorff 시약",
+      "explanation": "Mayer 시약도 가능.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[실습1-6번] 정색반응 표: flavonoid(황금) 확인에 염산과 함께 쓰는 것은?",
+      "choices": [
+        "Mg",
+        "Zn",
+        "KOH",
+        "sucrose",
+        "FeCl₃"
+      ],
+      "answer": "Mg",
+      "explanation": "Mg + HCl(Shinoda 반응).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[실습2번] DPPH assay: 보라색 DPPH radical이 항산화 물질과 반응하면 옅은 (  )으로 변하고, (  ) nm에서 흡광도를 측정한다.",
+      "choices": [
+        "노란색 – 517",
+        "파란색 – 517",
+        "노란색 – 280",
+        "빨간색 – 595",
+        "무색 – 260"
+      ],
+      "answer": "노란색 – 517",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

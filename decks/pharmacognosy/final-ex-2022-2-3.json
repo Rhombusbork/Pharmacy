@@ -1,0 +1,275 @@
+{
+  "deckId": "pharmacognosy-final-ex-2022-2-3",
+  "subject": "생약학",
+  "title": "족보 원본 2022-2 기말 ③ 객관식 20~37번·주관식 (36번 복원 실패)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[20번] peimine 또는 peiminoside를 함유하는 생약은?",
+      "choices": [
+        "절패모",
+        "위령선",
+        "자근",
+        "승마",
+        "지황"
+      ],
+      "answer": "절패모",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[21번] 다음 중 사물탕의 조성은?",
+      "choices": [
+        "인삼, 백출, 천궁, 감초",
+        "당귀, 작약, 생강, 감초",
+        "천궁, 숙지황, 행인, 감초",
+        "황기, 인삼, 백출, 감초",
+        "당귀, 천궁, 숙지황, 작약"
+      ],
+      "answer": "당귀, 천궁, 숙지황, 작약",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[22번] 다음 중 파두의 발암 성분은?",
+      "choices": [
+        "ricinoleic acid",
+        "crotin",
+        "pinoresinol",
+        "sesamin",
+        "phorbol ester"
+      ],
+      "answer": "phorbol ester",
+      "explanation": "crotin은 용혈성 독성 단백(발암 아님). ricinoleic acid = 피마자유.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[23번] 삼릉의 효능은?",
+      "choices": [
+        "강정, 강장",
+        "해열, 진통",
+        "진해, 거담",
+        "통경, 구어혈",
+        "소염, 이뇨"
+      ],
+      "answer": "통경, 구어혈",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[24번] Psoraleae Semen의 한자명은?",
+      "choices": [
+        "補骨脂",
+        "骨碎補",
+        "地骨皮",
+        "白芷",
+        "決明子"
+      ],
+      "answer": "補骨脂",
+      "explanation": "\n⚠ 보기 한자 미복원 — 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[25번] 괄루근은 임부 금기이다. 그 원인 성분은?",
+      "choices": [
+        "trichosan A",
+        "trichosanthin",
+        "cucurbitacin",
+        "citrulline",
+        "karasurin B"
+      ],
+      "answer": "trichosanthin",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[26번] allyl isothiocyanate와 연관된 물질을 모두 고르시오.\nㄱ. myrosinase\nㄴ. sinigrin\nㄷ. H₂O\nㄹ. cyanidin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[27번] 다음 성분 중 지황에는 함유되어 있으나 숙지황에는 (거의) 함유되지 않은 물질은?",
+      "choices": [
+        "stachyose",
+        "manninotriose"
+      ],
+      "answer": "stachyose",
+      "explanation": "manninotriose는 반대로 숙지황에 많다.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[28번] aconitine 계열 물질의 진통 작용 효과를 순서대로 나열한 것은?",
+      "choices": [
+        "mesaconitine > aconitine > hypaconitine",
+        "aconitine > mesaconitine > hypaconitine",
+        "mesaconitine > hypaconitine > aconitine",
+        "hypaconitine > mesaconitine > aconitine",
+        "aconitine > hypaconitine > mesaconitine"
+      ],
+      "answer": "mesaconitine > aconitine > hypaconitine",
+      "explanation": "\n⚠ 보기 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[29번] 다음 중 삼칠의 활혈 성분인 dammarane계 물질은?",
+      "choices": [
+        "cimifugin",
+        "baicalin",
+        "notoginsenoside",
+        "onjisaponin",
+        "dencichine"
+      ],
+      "answer": "notoginsenoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[30번] 세네가는 자외선 흡수 스펙트럼 317 nm 부근에서 흡수 극대가 나타난다. 이것의 원인이 되는 성분은?",
+      "choices": [
+        "p-methoxycinnamic acid",
+        "methyl salicylate",
+        "senegin",
+        "senegose",
+        "raffinose"
+      ],
+      "answer": "p-methoxycinnamic acid",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[31번] 전초에 신장독성을 유발할 수 있는 발암성 물질이 있어 사용에 주의해야 하는 것은?",
+      "choices": [
+        "Gentianae Scabrae Radix et Rhizoma",
+        "Asari Radix et Rhizoma",
+        "Achyranthis Radix",
+        "Polygalae Radix",
+        "Clematidis Radix et Rhizoma"
+      ],
+      "answer": "Asari Radix et Rhizoma",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[32번] 속단의 기원식물 학명은?",
+      "choices": [
+        "Dipsacus asperoides",
+        "Phlomis umbrosa",
+        "Curcuma longa",
+        "Achyranthes japonica"
+      ],
+      "answer": "Dipsacus asperoides",
+      "explanation": "Phlomis umbrosa = 한속단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[33번] 골연화 작용이 있어 물고기 가시가 걸렸을 때 사용할 수 있는 생약은?",
+      "choices": [
+        "괄루근",
+        "하고초",
+        "위령선",
+        "은시호",
+        "인도사목"
+      ],
+      "answer": "위령선",
+      "explanation": "\n⚠ 보기 미복원 — 2023-2 같은 문항 보기로 채움.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[34번] 약전에 수재된 황정의 기원식물명으로 알맞은 것은?\nㄱ. Polygonatum sibiricum\nㄴ. Polygonatum falcatum\nㄷ. Polygonatum kingianum\nㄹ. Polygonatum odoratum",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[35번] 소아 키 성장과 노인 강장약으로 주로 사용되는 생약의 라틴 생약명은?",
+      "choices": [
+        "Scrophulariae Radix",
+        "Astragali Radix",
+        "Achyranthis Radix",
+        "Clematidis Radix et Rhizoma",
+        "Scutellariae Radix"
+      ],
+      "answer": "Astragali Radix",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[37번] 대산의 자극성 강한 냄새의 원인 성분을 모두 고르시오.\nㄱ. allicin\nㄴ. alliin\nㄷ. zingiberene\nㄹ. gingerol",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "\n⚠ ㄷ·ㄹ 미복원(2025-2 보기로 채움). allicin만 답일 수도 있음.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[주5번] 다음 성분(5-HMF)의 이름을 풀어 적으시오.\n[[smi:OCc1ccc(C=O)o1]] (주관식)",
+      "answer": [
+        "5-hydroxymethyl-2-furaldehyde",
+        "5-hydroxymethylfurfural"
+      ],
+      "explanation": "숙지황 지표.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[주6번] 인삼을 쪄서 홍삼으로 만들 때 홍삼에서 나오는 물질을 하나 적으시오. (주관식)",
+      "answer": [
+        "ginsenoside Rg3",
+        "Rg3",
+        "ginsenoside Rh2",
+        "Rh2"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[주7번] 3대 거담 생약은?\nㄱ. 세네가\nㄴ. 원지\nㄷ. 길경\nㄹ. 맥문동",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n⚠ 원형은 주관식.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[주8번] 감초의 주요 성분으로 부종, 저칼륨혈증, 고혈압 등 알도스테론증을 유발하는 성분은? (주관식)",
+      "answer": [
+        "glycyrrhizin",
+        "글리시리진"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[주9번] 부자에서 강심 작용을 하는 성분은? (주관식)",
+      "answer": [
+        "higenamine",
+        "히게나민"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

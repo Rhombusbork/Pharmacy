@@ -1,0 +1,218 @@
+{
+  "deckId": "pharmacognosy-final-ex-2023-1-3",
+  "subject": "생약학",
+  "title": "족보 원본 2023-1 기말 ③ 지표 11~15·산지·구조식",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[2-11번] 대한약전 지표성분: ginsenoside Rg₁ 0.10% 이상, ginsenoside Rb₁ 0.20% 이상(2개) — 생약명을 적으시오. (주관식)",
+      "answer": [
+        "인삼",
+        "홍삼"
+      ],
+      "explanation": "→ 인삼, 홍삼\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[2-12번] 대한약전 지표성분: albiflorin 및 paeoniflorin 합 2.3% 이상 — 생약명을 적으시오. (주관식)",
+      "answer": [
+        "작약"
+      ],
+      "explanation": "→ 작약\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[2-13번] 대한약전 지표성분: alkaloid(emetine, cephaeline) 2.0% 이상 — 생약명을 적으시오. (주관식)",
+      "answer": [
+        "토근"
+      ],
+      "explanation": "→ 토근\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[2-14번] 대한약전 지표성분: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상, emodin·physcion 합 0.10% 이상 — 생약명을 적으시오. (주관식)",
+      "answer": [
+        "하수오"
+      ],
+      "explanation": "→ 하수오\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[2-15번] 대한약전 지표성분: baicalin, baicalein, wogonin 합 10.0% 이상 — 생약명을 적으시오. (주관식)",
+      "answer": [
+        "황금"
+      ],
+      "explanation": "→ 황금\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[3-1번] 원산지가 말레이반도, 수마트라, 보르네오, 대만인 생약은? (주관식)",
+      "answer": [
+        "데리스근"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[3-2번] 원산지가 북미인 생약은? (주관식)",
+      "answer": [
+        "세네가"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[3-3번] 원산지가 인도(주산지), 버마, 파키스탄, 스리랑카, 태국인 생약은? (주관식)",
+      "answer": [
+        "인도사목"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[3-4번] 원산지가 동부 아프리카의 모잠비크 지방, 마다가스카르 섬인 생약은? (주관식)",
+      "answer": [
+        "칼룸바"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[3-5번] 원산지가 브라질인 생약은? (주관식)",
+      "answer": [
+        "토근"
+      ],
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[4-1번] 구조식 성분 sanguiin H-6(ellagitannin)을 함유한 생약은?",
+      "choices": [
+        "지유",
+        "작약",
+        "단삼",
+        "현삼",
+        "황금"
+      ],
+      "answer": "지유",
+      "explanation": "\n⚠ 구조식 그림 미복원 — 성분 이름으로 제시.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[4-2번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:COc1cc2c(cc1OC)C1C(=O)c3ccc4OC(C(C)=C)Cc4c3OC1CO2]]",
+      "choices": [
+        "데리스근",
+        "고삼",
+        "갈근",
+        "황기",
+        "감초"
+      ],
+      "answer": "데리스근",
+      "explanation": "rotenone.\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[4-4번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:OCC1OC(OC2OC=CC3C(O)C4(CO)OC4C23)C(O)C(O)C1O]]",
+      "choices": [
+        "지황",
+        "현삼",
+        "용담",
+        "단삼",
+        "세네가"
+      ],
+      "answer": "지황",
+      "explanation": "catalpol(epoxide 있는 iridoid).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[4-5번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:OCc1ccc(C=O)o1]]",
+      "choices": [
+        "숙지황",
+        "지황",
+        "현삼",
+        "작약",
+        "감초"
+      ],
+      "answer": "숙지황",
+      "explanation": "5-HMF(찔 때 생김).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[4-6번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:OCC1OC(OC2OC=CC3(O)C(O)CC(C)(O)C23)C(O)C(O)C1O]]",
+      "choices": [
+        "현삼",
+        "지황",
+        "용담",
+        "단삼",
+        "세네가"
+      ],
+      "answer": "현삼",
+      "explanation": "harpagide(epoxide 없는 iridoid).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[4-7번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C]]",
+      "choices": [
+        "단삼",
+        "자근",
+        "현삼",
+        "황금",
+        "백지"
+      ],
+      "answer": "단삼",
+      "explanation": "tanshinone IIA(diterpene quinone).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[4-8번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:COC(=O)c1ccccc1O]]",
+      "choices": [
+        "세네가",
+        "원지",
+        "길경",
+        "감초",
+        "인삼"
+      ],
+      "answer": "세네가",
+      "explanation": "methyl salicylate(세네가 특유 냄새). 원래 그림은 senegin 등이었을 수 있음.\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[4-10번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:COC(=O)C1C(OC)C(OC(=O)c2cc(OC)c(OC)c(OC)c2)CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC12]]",
+      "choices": [
+        "인도사목",
+        "부자",
+        "토근",
+        "고삼",
+        "세네가"
+      ],
+      "answer": "인도사목",
+      "explanation": "reserpine(indole alkaloid).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[4-11번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:CC(C)=CCOc1c2occc2cc2ccc(=O)oc12]]",
+      "choices": [
+        "백지",
+        "당귀",
+        "시호",
+        "길경",
+        "감초"
+      ],
+      "answer": "백지",
+      "explanation": "imperatorin(furanocoumarin).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[4-13번] 다음 구조식의 성분을 함유한 생약은?\n[[smi:CC(C)(O)CCC(O)C(C)(O)C1CCC2(O)C3=CC(=O)C4CC(O)C(O)CC4(C)C3CCC12C]]",
+      "choices": [
+        "우슬",
+        "인삼",
+        "황기",
+        "감초",
+        "지황"
+      ],
+      "answer": "우슬",
+      "explanation": "ecdysterone(곤충 탈피호르몬형 steroid).\n⚠ 구조식 그림은 복원되지 않아 대표 성분 구조로 다시 그림.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

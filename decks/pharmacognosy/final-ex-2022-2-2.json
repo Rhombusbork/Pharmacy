@@ -1,0 +1,251 @@
+{
+  "deckId": "pharmacognosy-final-ex-2022-2-2",
+  "subject": "생약학",
+  "title": "족보 원본 2022-2 기말 ② 객관식 1~19번",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[1번] 창출의 기원식물 학명으로 알맞은 것은?\nㄱ. Atractylodes lancea\nㄴ. Atractylodes chinensis\nㄷ. Atractylodes japonica\nㄹ. Atractylodes macrocephala",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "\n⚠ 원형은 하나 고르기 — 정답이 둘이라 모두 고르기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[2번] 다음 중 대황의 기원식물로 옳지 않은 것은?",
+      "choices": [
+        "Rheum palmatum",
+        "Rheum coreanum",
+        "Rheum tanguticum",
+        "Rheum officinale",
+        "Rheum ternata"
+      ],
+      "answer": "Rheum ternata",
+      "explanation": "\"ternata\"는 반하(Pinellia ternata)의 종명 — 대황 기원 아님.\n⚠ R. coreanum(장군풀)도 약전 기원은 아니지만 금문계라 보기 의도상 ternata로 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[3번] Ordeal bean으로 불리는 생약의 기원식물명은?",
+      "choices": [
+        "Coffea arabica",
+        "Plantago asiatica",
+        "Coix lacryma-jobi var. mayuen",
+        "Physostigma venenosum",
+        "Myristica fragrans"
+      ],
+      "answer": "Physostigma venenosum",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[4번] 감초와 사용하면 독성이 더 세지는 생약은?",
+      "choices": [
+        "Euphorbiae Pekinensis Radix",
+        "Scutellariae Radix",
+        "Stemonae Radix",
+        "Morindae Radix",
+        "Rehmanniae Radix"
+      ],
+      "answer": "Euphorbiae Pekinensis Radix",
+      "explanation": "대극.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[5번] 천마의 gastrodin 성분은 어떤 계열인가?",
+      "choices": [
+        "chromone",
+        "alkaloid",
+        "flavonoid glycoside",
+        "phenol glycoside",
+        "anthraquinone glycoside"
+      ],
+      "answer": "phenol glycoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[6번] 다음 보기 중 틀린 것은?",
+      "choices": [
+        "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+        "부자는 자근을 사용하고, 오두는 모근을 사용한다",
+        "부자는 소금으로 장시간 법제한 뒤 몇 가지 법제 과정이 더 있고 오두는 감초와 검은콩과 함께 5시간 이상 끓인다",
+        "부자, 천오, 초오 모두 Mayer 시약으로 확인 가능하다",
+        "aconitine 중독의 사망 원인은 심한 부정맥 때문이다"
+      ],
+      "answer": "한방에서 부자는 찬 기운으로 인한 통증이나 저림에 사용하고 오두는 양기 보충에 사용한다",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[7번] 다음 중 신장 독성 성분을 갖는 물질은?",
+      "choices": [
+        "aristolochic acid",
+        "methyl salicylate",
+        "ecdysterone",
+        "reserpine"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[8번] 일당귀나 중국당귀에는 함유되어 있고 참당귀에는 함유되어 있지 않은 성분 계열은?",
+      "choices": [
+        "alkaloid",
+        "flavonoid",
+        "coumarin",
+        "phthalide",
+        "lignan"
+      ],
+      "answer": "phthalide",
+      "explanation": "\n⚠ 보기 일부 미복원 — 2023-2 같은 문항 보기로 채움.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[9번] 부자의 성분 중 강심 효과를 가지는 benzylisoquinoline alkaloid는?",
+      "choices": [
+        "acetylshikonin",
+        "podophyllotoxin",
+        "higenamine",
+        "alliin",
+        "baicalein"
+      ],
+      "answer": "higenamine",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[10번] 견우자의 한자명은?",
+      "choices": [
+        "牽牛子",
+        "牛膝",
+        "萊菔子",
+        "菟絲子",
+        "決明子"
+      ],
+      "answer": "牽牛子",
+      "explanation": "\n⚠ 보기 한자 미복원 — 비슷한 종자류 한자로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[11번] 카라발두의 적응증으로 옳은 것을 모두 고르시오.\nㄱ. 초기 녹내장 치료\nㄴ. 근무력증\nㄷ. 수술 후의 장마비\nㄹ. 뇌졸중",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[12번] 의이인의 항암 활성 성분은?",
+      "choices": [
+        "Coix",
+        "Coixenolide",
+        "Amygdalin",
+        "Ouabain"
+      ],
+      "answer": "Coixenolide",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[13번] 커피두의 소속 과명은?",
+      "choices": [
+        "Plantaginaceae",
+        "Rubiaceae",
+        "Cruciferae",
+        "Leguminosae",
+        "Gramineae"
+      ],
+      "answer": "Rubiaceae",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[14번] 아마인의 성분인 linamarin의 성분 계열은?",
+      "choices": [
+        "flavonoid",
+        "iridoid",
+        "cyanogenic glycoside",
+        "lignan",
+        "tannin"
+      ],
+      "answer": "cyanogenic glycoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[15번] 산조인이 속한 과명은?",
+      "choices": [
+        "Apocynaceae",
+        "Rhamnaceae",
+        "Linaceae",
+        "Palmae"
+      ],
+      "answer": "Rhamnaceae",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[16번] 대풍자가 가지고 있는 성분인 것은?\nㄱ. hydnocarpin  ㄴ. chaulmoogric acid  ㄷ. gorlic acid  ㄹ. myristicin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄴ, ㄷ",
+        "ㄹ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[17번] 보골지의 생리활성으로 옳은 것은?",
+      "choices": [
+        "진해거담",
+        "부교감신경 흥분작용",
+        "멜라닌 생성 촉진",
+        "신미성 건위제",
+        "항말라리아 작용"
+      ],
+      "answer": "멜라닌 생성 촉진",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[18번] Sesquiterpenoid(cyperene, α-cyperone)를 함유하는 생약은?",
+      "choices": [
+        "목향",
+        "향부자",
+        "히드라스티스근",
+        "현호색",
+        "방기"
+      ],
+      "answer": "향부자",
+      "explanation": "목향도 sesquiterpene(costunolide)이지만 cyperene은 향부자.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[19번] oxymatrine을 함유한 생약은?",
+      "choices": [
+        "Trichosanthis Radix",
+        "Sophorae Radix",
+        "Angelicae Gigantis Radix",
+        "Tuba Radix",
+        "Saposhnikoviae Radix"
+      ],
+      "answer": "Sophorae Radix",
+      "explanation": "고삼.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

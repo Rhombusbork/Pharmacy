@@ -1,0 +1,302 @@
+{
+  "deckId": "pharmacognosy-final-ex-2024-1-2",
+  "subject": "생약학",
+  "title": "족보 원본 2024-1 기말 ② (29~64번·주7~8)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[29번] 천오의 기원식물은?",
+      "choices": [
+        "Aconitum kusnezoffii",
+        "Aconitum carmichaeli",
+        "Aconitum ciliare",
+        "Aconitum koreanum",
+        "Quisqualis indica"
+      ],
+      "answer": "Aconitum carmichaeli",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[30번] 백합의 용도는?",
+      "choices": [
+        "방향성 건위",
+        "신미성 건위",
+        "진해, 거담, 진정",
+        "조혈",
+        "활혈"
+      ],
+      "answer": "진해, 거담, 진정",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[31번] 인도사목에 함유된 β-carboline ester alkaloid는?\nㄱ. pilocarpine\nㄴ. rescinnamine\nㄷ. shikonin\nㄹ. reserpine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[35번] 원지의 주된 효능은?\nㄱ. 거담작용\nㄴ. 진해\nㄷ. 소염\nㄹ. 진정",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[37번] 황련 성분 중에서 berberine의 약리작용이 아닌 것은?",
+      "choices": [
+        "항균작용",
+        "항말라리아작용",
+        "정장지사작용",
+        "중추신경 억제작용",
+        "항염증작용"
+      ],
+      "answer": "항말라리아작용",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[42번] 방풍에 함유된 chromone계 성분으로 알맞은 것은? (16번은 같은 보기의 단일 선택형)\nㄱ. cimifugin\nㄴ. ledebouriellol\nㄷ. 5-O-methylvisamminol\nㄹ. hamaudol",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "네 가지 모두 방풍의 chromone.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[43번] 백출의 효능은?",
+      "choices": [
+        "안태",
+        "강장",
+        "방향성 고미건위",
+        "혈당강하",
+        "혈압상승"
+      ],
+      "answer": "안태",
+      "explanation": "백출: 방향성 건위·이뇨·지한·진정·혈당강하·안태.\n⚠ 안태·혈당강하 둘 다 교재에 있어요. 백출의 특징적인 효능인 안태로 판단(혈압상승만 확실히 틀림).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[44번] 우슬의 지표성분은?\nㄱ. inokosterone\nㄴ. liquiritin\nㄷ. ecdysterone\nㄹ. valerianone",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄷ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[46번] 일당귀, 중국당귀에는 존재하지만 참당귀에 존재하지 않는 것은?",
+      "choices": [
+        "polyacetylene",
+        "phthalide",
+        "coumarin",
+        "정유",
+        "다당류"
+      ],
+      "answer": "phthalide",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[47번] 일당귀나 중국당귀에는 함유되어 있고 참당귀에는 함유되어 있지 않은 성분 계열은?",
+      "choices": [
+        "alkaloid",
+        "flavonoid",
+        "coumarin",
+        "phthalide",
+        "lignan"
+      ],
+      "answer": "phthalide",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[48번] 우슬의 과명은?",
+      "choices": [
+        "Amaranthaceae",
+        "Boraginaceae",
+        "Rubiaceae",
+        "Polygonaceae",
+        "Compositae"
+      ],
+      "answer": "Amaranthaceae",
+      "explanation": "비름과.\n⚠ 복원된 1번 보기가 식물 학명(Achyranthes japonica)이라 과명 Amaranthaceae로 바꿈.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[49번] 천마의 gastrodin 성분의 계열은?",
+      "choices": [
+        "chromone",
+        "phenol glycoside",
+        "flavonoid glycoside",
+        "alkaloid",
+        "anthraquinone glycoside"
+      ],
+      "answer": "phenol glycoside",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[50번] 강황의 지표성분으로 가장 알맞은 것은?\nㄱ. yakuchinone\nㄴ. turmerone\nㄷ. 6-gingerol\nㄹ. curcumin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄹ",
+      "explanation": "yakuchinone = 익지인, 6-gingerol = 건강.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[51번] 임부 금기이며 감초와 함께 사용하면 독성이 강해지는 생약은?",
+      "choices": [
+        "데리스근",
+        "단삼",
+        "부자",
+        "백두옹",
+        "대극"
+      ],
+      "answer": "대극",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[52번] 창출의 기원식물은?\nㄱ. 삽주\nㄴ. 모창출\nㄷ. 당백출\nㄹ. 북창출",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[53번] 택사의 기원식물은?",
+      "choices": [
+        "Arisaema amurense",
+        "Alisma orientale",
+        "Aralia cordata",
+        "Asarum heterotropoides",
+        "Arctium lappa"
+      ],
+      "answer": "Alisma orientale",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[54번] 히드라스티스근의 효능으로 옳은 것은?",
+      "choices": [
+        "자궁지혈",
+        "진통",
+        "부교감신경흥분",
+        "발한해열",
+        "간해독"
+      ],
+      "answer": "자궁지혈",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[55번] 지모의 혈당강하 성분은?",
+      "choices": [
+        "cinnamaldehyde",
+        "saikosaponin",
+        "anemaran A",
+        "berberine",
+        "sinomenine"
+      ],
+      "answer": "anemaran A",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[59번] 창출의 용도는?",
+      "choices": [
+        "살충제",
+        "진통제",
+        "혈관수축제",
+        "방향성 건위제",
+        "보혈제"
+      ],
+      "answer": "방향성 건위제",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[61번] 개연꽃 및 동속식물의 뿌리줄기를 쓰는 생약은?",
+      "choices": [
+        "Nupharis Rhizoma",
+        "Asparagi Tuber",
+        "Gastrodiae Rhizoma",
+        "Arisaematis Rhizoma",
+        "Alismatis Rhizoma"
+      ],
+      "answer": "Nupharis Rhizoma",
+      "explanation": "\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[64번] 칼룸바의 효능은?",
+      "choices": [
+        "구충",
+        "소염",
+        "건위",
+        "해열",
+        "혈압강하"
+      ],
+      "answer": "건위",
+      "explanation": "고미건위·정장지사.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[주7번] 방기 sinomenine과 황련 berberine의 골격을 순서대로 바르게 짝지은 것은?",
+      "choices": [
+        "morphinane – protoberberine",
+        "protoberberine – morphinane",
+        "aporphine – protoberberine",
+        "morphinane – benzylisoquinoline",
+        "tropane – protoberberine"
+      ],
+      "answer": "morphinane – protoberberine",
+      "explanation": "sinomenine = morphinan(phenanthrene)계, berberine = protoberberine계.\n⚠ 원문은 구조식 빈칸(morphinane, protoberberine) 채우기 — 글자 문항으로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[주8번] tryptamine과 secologanin이 결합하여 생기는, monoterpene indole alkaloid의 공통 전구체는? (주관식)",
+      "answer": [
+        "strictosidine",
+        "스트릭토시딘"
+      ],
+      "explanation": "tryptamine + secologanin → (strictosidine synthase) → strictosidine.\n⚠ 원문은 구조식 빈칸. 총론(생합성) 문항.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

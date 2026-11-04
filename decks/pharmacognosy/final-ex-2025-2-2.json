@@ -1,0 +1,317 @@
+{
+  "deckId": "pharmacognosy-final-ex-2025-2-2",
+  "subject": "생약학",
+  "title": "족보 원본 2025-2 기말 ② (25~48번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[25번] 부자에 함유된 독성 물질을 법제하면 생성되는 저독성의 물질은?",
+      "choices": [
+        "aconitine",
+        "mesaconitine",
+        "higenamine",
+        "synephrine",
+        "aconine"
+      ],
+      "answer": "aconine",
+      "explanation": "aconitine → benzoylaconine → aconine.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[26번] 토근의 주요 산지는?",
+      "choices": [
+        "러시아",
+        "일본",
+        "중국",
+        "유럽",
+        "브라질"
+      ],
+      "answer": "브라질",
+      "explanation": "리오토근 = 브라질.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[27번] 파두의 발암성 성분으로 옳은 것은?",
+      "choices": [
+        "Crocin",
+        "Phorbol ester",
+        "Emodin",
+        "Sennoside A",
+        "Berberine"
+      ],
+      "answer": "Phorbol ester",
+      "explanation": "tigliane phorbol ester(TPA).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[28번] 승마에 함유된 visnagin, cimifugin, visamminol의 성분 계열은?",
+      "choices": [
+        "benzylisoquinoline alk.",
+        "chromone",
+        "phenanthrene alk.",
+        "protoberberine alk.",
+        "β-carboline alk."
+      ],
+      "answer": "chromone",
+      "explanation": "승마·방풍 = chromone.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[29번] Gastrodiae Rhizoma의 성분인 gastrodin의 성분 계열은?",
+      "choices": [
+        "Saponin",
+        "Tannin",
+        "Lignan",
+        "Phenolic Glycoside",
+        "Alkaloid"
+      ],
+      "answer": "Phenolic Glycoside",
+      "explanation": "천마 gastrodin = 페놀 배당체.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[30번] 숙지황의 지표 성분은?",
+      "choices": [
+        "mannitol",
+        "rehmannioside A, D",
+        "catalpol",
+        "stachyose",
+        "5-hydroxymethyl-2-furaldehyde"
+      ],
+      "answer": "5-hydroxymethyl-2-furaldehyde",
+      "explanation": "5-HMF 0.1% 이상.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[31번] 의이인의 항암 활성 성분은?",
+      "choices": [
+        "Coix",
+        "Coixenolide",
+        "Amygdalin",
+        "Ouabain"
+      ],
+      "answer": "Coixenolide",
+      "explanation": "coixenolide.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[32번] 현호색의 성분으로 옳은 것을 모두 고르시오.\nㄱ. corydaline\nㄴ. tetrahydropalmatine\nㄷ. dehydrocorydaline\nㄹ. protopine",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ, ㄹ",
+      "explanation": "모두 현호색 isoquinoline alkaloid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[33번] 육두구에는 우려할 정도는 아니지만 약한 환각 작용이 있다. 그 성분은?",
+      "choices": [
+        "myristicin",
+        "eugenol",
+        "isoeugenol",
+        "linalool",
+        "borneol"
+      ],
+      "answer": "myristicin",
+      "explanation": "myristicin(·isoelemicin) → MMDA류로 대사.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[34번] Cyperi Rhizoma의 약리작용이 아닌 것은?",
+      "choices": [
+        "자궁수축 억제작용",
+        "항염증작용",
+        "교감신경 억제작용",
+        "항말라리아작용",
+        "위통 및 복통 경감작용"
+      ],
+      "answer": "교감신경 억제작용",
+      "explanation": "향부자 약리: 자궁수축 억제·위통/복통 경감·항염증·항말라리아.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[35번] 아마인(Lini Semen)의 성분인 linamarin의 화학적 계열로 옳은 것은?",
+      "choices": [
+        "시아노배당체(청산배당체)",
+        "안트라퀴논 배당체",
+        "이리도이드 배당체",
+        "플라보노이드",
+        "스테로이드 사포닌"
+      ],
+      "answer": "시아노배당체(청산배당체)",
+      "explanation": "가수분해 → HCN.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[36번] Tropane alkaloid를 함유하고 있으며 부교감신경 차단 작용이 있어 평활근 경련에 진경제로 쓰이는 생약이 아닌 것은?",
+      "choices": [
+        "Daturae Folium",
+        "Belladonnae Radix",
+        "Scopoliae Folium",
+        "Hyoscyami Folium",
+        "Physostigmatis Semen"
+      ],
+      "answer": "Physostigmatis Semen",
+      "explanation": "카라발두 physostigmine = 부교감 \"흥분\".\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[37번] 지유에서 sanguiin H-6의 성분 계열은?",
+      "choices": [
+        "tannin",
+        "alkaloid",
+        "triterpene",
+        "lignan",
+        "coumarin"
+      ],
+      "answer": "tannin",
+      "explanation": "ellagitannin → 수렴·지혈.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[38번] 개연꽃 및 동속식물의 뿌리줄기를 쓰는 생약은?",
+      "choices": [
+        "Nupharis Rhizoma",
+        "Asparagi Tuber",
+        "Gastrodiae Rhizoma",
+        "Arisaematis Rhizoma",
+        "Alismatis Rhizoma"
+      ],
+      "answer": "Nupharis Rhizoma",
+      "explanation": "천골(수련과 Nuphar japonicum).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[39번] 다음 중 산조인이 속한 식물의 과로 옳은 것은?",
+      "choices": [
+        "Rhamnaceae",
+        "Rosaceae",
+        "Leguminosae",
+        "Ranunculaceae",
+        "Cucurbitaceae"
+      ],
+      "answer": "Rhamnaceae",
+      "explanation": "갈매나무과(멧대추나무).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[40번] 매독에 쓰는 생약은?",
+      "choices": [
+        "토복령",
+        "지황",
+        "울금",
+        "위령선"
+      ],
+      "answer": "토복령",
+      "explanation": "토복령(청미래덩굴) — 해독·이뇨, 매독·수은 중독.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[41번] 대풍자가 가지고 있는 성분은?\nㄱ. hydnocarpic acid\nㄴ. chaulmoogric acid\nㄷ. gorlic acid\nㄹ. myristicin",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ, ㄷ",
+      "explanation": "cyclopentenyl 지방산 3종. myristicin = 육두구.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[42번] [42-43 공통 보기] 백출의 기원식물로 옳은 것은?",
+      "choices": [
+        "Pinellia ternata",
+        "Allium sativum",
+        "Scutellaria baicalensis",
+        "Atractylodes japonica",
+        "Veratrum nigrum"
+      ],
+      "answer": "Atractylodes japonica",
+      "explanation": "백출 = 삽주 A. japonica·백출 A. macrocephala.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[43번] 창출의 기원식물 2개를 고르시오.\nㄱ. Atractylodes lancea\nㄴ. Atractylodes chinensis\nㄷ. Atractylodes japonica\nㄹ. Atractylodes macrocephala",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "모창출 A. lancea·북창출 A. chinensis.\n⚠ 복원된 공통 보기(반하·마늘·황금·삽주·여로)에는 창출 기원이 없어 학명 보기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[44번] Sesquiterpenoid 성분인 cyperene 또는 α-cyperone을 함유하는 생약은?",
+      "choices": [
+        "방풍",
+        "해방풍",
+        "향부자",
+        "현호색",
+        "히드라스티스근"
+      ],
+      "answer": "향부자",
+      "explanation": "향부자.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[45번] 보골지의 생리활성으로 옳은 것은?",
+      "choices": [
+        "진해거담",
+        "부교감신경 흥분작용",
+        "멜라닌 생성 촉진",
+        "신미성 건위제",
+        "항말라리아 작용"
+      ],
+      "answer": "멜라닌 생성 촉진",
+      "explanation": "psoralen → 백반증.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[46번] 자근에서 항진균 효과와 육아 형성 촉진 효과가 있는 성분은?",
+      "choices": [
+        "shikonin",
+        "lithospermic acid",
+        "lithosperman A",
+        "emodin",
+        "ligustilide"
+      ],
+      "answer": "shikonin",
+      "explanation": "shikonin·acetylshikonin(naphthoquinone).\n⚠ 2025-2 원형은 문장이 잘려 복원됨 — 2023-2 같은 문항의 보기로 재구성.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[47번] Asari Radix et Rhizoma에서 신장독성을 일으키는 성분은?",
+      "choices": [
+        "aristolochic acid",
+        "higenamine",
+        "shikonin",
+        "aconitine",
+        "trichosanthin"
+      ],
+      "answer": "aristolochic acid",
+      "explanation": "세신 지상부의 aristolochic acid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 24,
+      "question": "[48번] 구충·살충 효능이 없는 것을 고르시오.",
+      "choices": [
+        "대풍자",
+        "비자",
+        "빈랑자",
+        "여로",
+        "백자인"
+      ],
+      "answer": "백자인",
+      "explanation": "백자인 = 진정·완하.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}

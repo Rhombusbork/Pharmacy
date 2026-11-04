@@ -1,0 +1,319 @@
+{
+  "deckId": "pharmacognosy-final-ex-2025-2-3",
+  "subject": "생약학",
+  "title": "족보 원본 2025-2 기말 ③ (49~72번)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[49번] 산조인의 성분인 sanjoinine A의 성분군은?",
+      "choices": [
+        "Flavonoid",
+        "Lignan",
+        "Triterpene",
+        "Cyclopeptide alkaloid",
+        "청산배당체"
+      ],
+      "answer": "Cyclopeptide alkaloid",
+      "explanation": "sanjoinine = cyclopeptide alkaloid.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 2,
+      "question": "[50번] 천남성의 적응증을 고르시오.\nㄱ. 갑상선종\nㄴ. 소아경기\nㄷ. 각기\nㄹ. 중풍",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "천남성 = 진경·거담·제습 → 중풍·반신불수·소아경기.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 3,
+      "question": "[51번] 갈화해성탕의 효능은?",
+      "choices": [
+        "숙취 해소",
+        "발한 해열",
+        "소염 진통",
+        "항암",
+        "강장"
+      ],
+      "answer": "숙취 해소",
+      "explanation": "갈화 = 주독 풀기.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 4,
+      "question": "[52번] 강장약으로 식욕부진, 설사, 사지무력, 피로에 쓰이는 생약은?",
+      "choices": [
+        "작약",
+        "황기",
+        "구기자",
+        "당삼",
+        "산수유"
+      ],
+      "answer": "당삼",
+      "explanation": "당삼(만삼).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 5,
+      "question": "[53번] 개자의 라틴 생약명으로 옳은 것은?",
+      "choices": [
+        "Brassicae Semen",
+        "Raphani Semen",
+        "Lepidii seu Descurainiae Semen",
+        "Cassiae Semen",
+        "Plantaginis Semen"
+      ],
+      "answer": "Brassicae Semen",
+      "explanation": "내복자·정력자 = 같은 십자화과 씨.\n⚠ 족보 원문 \"개자의 중간체로 옳은 것은?\" — 보기가 모두 라틴명이라 라틴명 문항으로 판단.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 6,
+      "question": "[54번] 대산의 자극성 강한 냄새의 원인 성분을 모두 고르시오.\nㄱ. allicin\nㄴ. alliin\nㄷ. zingiberene\nㄹ. gingerol",
+      "choices": [
+        "ㄱ, ㄴ",
+        "ㄴ",
+        "ㄱ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ"
+      ],
+      "answer": "ㄱ, ㄴ",
+      "explanation": "alliin(냄새 없는 전구체) → alliinase → allicin(냄새). zingiberene·gingerol = 생강.\n⚠ \"모두 고르시오\"라 냄새 성분(allicin)과 그 원인 물질(alliin)을 함께 고르는 것으로 판단. allicin만 답일 수도 있어요.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 7,
+      "question": "[55번] 감초의 성분으로, 감미를 나타내고 부신피질호르몬 유사작용을 하며 과량 복용 시 부종·고혈압·가성 알도스테론증을 초래할 수 있는 물질은?",
+      "choices": [
+        "Glycyrrhizin",
+        "Liquiritin",
+        "Isoliquiritigenin",
+        "Glabridin",
+        "Formononetin"
+      ],
+      "answer": "Glycyrrhizin",
+      "explanation": "glycyrrhizin.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 8,
+      "question": "[56번] phthalide 계열인 것은?\nㄱ. decursin\nㄴ. cnidilide\nㄷ. psoralen\nㄹ. ligustilide",
+      "choices": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄹ",
+        "ㄱ, ㄴ, ㄷ, ㄹ"
+      ],
+      "answer": "ㄴ, ㄹ",
+      "explanation": "cnidilide·ligustilide. decursin = pyranocoumarin, psoralen = furanocoumarin.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 9,
+      "question": "[57번] 석회수에 담갔다가 햇빛에 말려 법제하는 생약으로 옳은 것은?",
+      "choices": [
+        "부자",
+        "반하",
+        "감초",
+        "황련",
+        "천궁"
+      ],
+      "answer": "반하",
+      "explanation": "반하(법반하).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 10,
+      "question": "[58번] [58-65 공통 보기] 스코폴리아의 확인시험 방법은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Vitali 반응",
+      "explanation": "tropane(tropic acid) → Vitali.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 11,
+      "question": "[59번] [58-65 공통 보기] 산약의 확인시험법으로 옳은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "steroidal saponin → LB.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 12,
+      "question": "[60번] [58-65 공통 보기] Polygoni Multiflori Radix의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Bornträger 반응",
+      "explanation": "하수오 anthraquinone → Bornträger.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 13,
+      "question": "[61번] [58-65 공통 보기] 지모의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "timosaponin → LB(+기포).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 14,
+      "question": "[62번] [58-65 공통 보기] Ipecacuanhae Radix et Rhizoma의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Snelling 반응",
+      "explanation": "토근 → 표백분 적색(Snelling).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 15,
+      "question": "[63번] [58-65 공통 보기] 대황의 확인시험법으로 알맞은 것은?",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Bornträger 반응",
+      "explanation": "10% KOH → 적색.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 16,
+      "question": "[64번] [58-65 공통 보기] 맥문동의 확인시험을 고르시오.",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "ophiopogonin(steroidal saponin) → LB.\n⚠ 보기 중에는 LB가 가장 알맞음(교재 실습 표에서는 saponin 기포 시험).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 17,
+      "question": "[65번] [58-65 공통 보기] 독활의 확인시험법을 고르시오.",
+      "choices": [
+        "Liebermann-Burchard 반응",
+        "Vitali 반응",
+        "Bornträger 반응",
+        "FeCl₃ 정색반응",
+        "Snelling 반응"
+      ],
+      "answer": "Liebermann-Burchard 반응",
+      "explanation": "접계면 적색, 위층 황적색.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 18,
+      "question": "[66번] 한센병 치료제로 사용되는 생약은?",
+      "choices": [
+        "Dolichos Semen",
+        "Pharbitidis Semen",
+        "Hydnocarpi Semen",
+        "Strychni Semen",
+        "Cuscutae Semen"
+      ],
+      "answer": "Hydnocarpi Semen",
+      "explanation": "대풍자.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 19,
+      "question": "[67번] 다음 중 임부에게 금지되지 않은 생약은?",
+      "choices": [
+        "Aconiti Lateralis Radix Preparata",
+        "Rhei Radix et Rhizoma",
+        "Carthami Flos",
+        "Achyranthis Radix",
+        "Glycyrrhizae Radix et Rhizoma"
+      ],
+      "answer": "Glycyrrhizae Radix et Rhizoma",
+      "explanation": "임부 금기: 부자·대황·홍화·우슬.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 20,
+      "question": "[68번] 괄루근에는 임부 금기인 성분이 들어 있다. 해당 물질은?",
+      "choices": [
+        "trichosanthin",
+        "decursin",
+        "cucurbitacin",
+        "trichosan A",
+        "karasurin B"
+      ],
+      "answer": "trichosanthin",
+      "explanation": "trichosanthin(단백질).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 21,
+      "question": "[69번] 물고기 가시가 목에 걸렸을 때 쓰는 생약은?",
+      "choices": [
+        "원지",
+        "감초",
+        "위령선",
+        "복령",
+        "괄루근"
+      ],
+      "answer": "위령선",
+      "explanation": "위령선(골연화).\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 22,
+      "question": "[70번] 해방풍에 함유된 polyacetylene계 성분은?",
+      "choices": [
+        "falcarindiol",
+        "berberine",
+        "corydaline",
+        "cyperene",
+        "visamminol"
+      ],
+      "answer": "falcarindiol",
+      "explanation": "falcarindiol.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 23,
+      "question": "[71번] 구릿대의 뿌리로 약용하는 것은?",
+      "choices": [
+        "Angelicae Dahuricae Radix",
+        "Angelicae Gigantis Radix",
+        "Ligustici Rhizoma",
+        "Bupleuri Radix",
+        "Cnidii Rhizoma"
+      ],
+      "answer": "Angelicae Dahuricae Radix",
+      "explanation": "백지.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    },
+    {
+      "id": 24,
+      "question": "[72번] 살충·구충제로 쓸 수 없는 것은?",
+      "choices": [
+        "여로",
+        "고삼",
+        "데리스근",
+        "백부근",
+        "방풍"
+      ],
+      "answer": "방풍",
+      "explanation": "방풍 = 발한·해열·진통.\n(족보에 정답이 없어 교재·요약집 기준으로 판단한 정답)"
+    }
+  ]
+}
