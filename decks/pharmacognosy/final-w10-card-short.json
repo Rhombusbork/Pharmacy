@@ -1,0 +1,313 @@
+{
+  "deckId": "pharmacognosy-final-w10-card-short-g",
+  "subject": "생약학",
+  "title": "10주 카드 ③ 역방향·주관식: 성분·지표·산지 → 생약 (백지~홍삼)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "약전에서 'oxypeucedanin + imperatorin + isoimperatorin 합 0.7% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "백지"
+      ],
+      "explanation": "백지 (Angelicae Dahuricae Radix) — 산형과(미나리과) Umbelliferae\n대표 성분: furanocoumarin — oxypeucedanin, imperatorin, phellopterin, byakangelicin, byakangelicol, bergapten, psoralen, xanthotoxin\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+    },
+    {
+      "id": 2,
+      "question": "다음 성분을 함유하는 생약은?\nditerpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine",
+      "choices": [
+        "세신",
+        "부자",
+        "오약",
+        "위령선",
+        "진교"
+      ],
+      "answer": "부자",
+      "explanation": "부자 (Aconiti Lateralis Radix Preparata) — 미나리아재비과 Ranunculaceae\n오답: 위령선(-), 오약(sesquiterpenoid), 진교(secoiridoid glycoside), 세신(정유(2~3%))\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 3,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% (천오·초오 기준과 같음)'을(를) 지표 기준으로 하는 생약은? (하나만 쓰면 됨)",
+      "answer": [
+        "부자",
+        "천오",
+        "초오"
+      ],
+      "explanation": "부자 (Aconiti Lateralis Radix Preparata) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid(약 0.5%) — aconitine계(맹독성): aconitine, hypaconitine, mesaconitine, jesaconitine / atisine계(저독성): atisine, kobusine, ignavine\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+    },
+    {
+      "id": 4,
+      "question": "다음 성분을 함유하는 생약은?\nditerpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine",
+      "choices": [
+        "천오",
+        "오약",
+        "위령선",
+        "진교",
+        "세신"
+      ],
+      "answer": "천오",
+      "explanation": "천오 (Aconiti Tuber) — 미나리아재비과 Ranunculaceae\n오답: 위령선(-), 오약(sesquiterpenoid), 세신(정유(2~3%)), 진교(secoiridoid glycoside)\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 5,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% 이상'을(를) 지표 기준으로 하는 생약은? (하나만 쓰면 됨)",
+      "answer": [
+        "천오",
+        "부자",
+        "초오"
+      ],
+      "explanation": "천오 (Aconiti Tuber) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid(aconitine계) — aconitine, hypaconitine, mesaconitine\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+    },
+    {
+      "id": 6,
+      "question": "약전에서 '총 alkaloid(aconitine으로서) 0.5% 이상'을(를) 지표 기준으로 하는 생약은? (하나만 쓰면 됨)",
+      "answer": [
+        "초오",
+        "부자",
+        "천오"
+      ],
+      "explanation": "초오 (Aconiti Ciliare Tuber) — 미나리아재비과 Ranunculaceae\n대표 성분: diterpene alkaloid — aconitine, hypaconitine, mesaconitine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 7,
+      "question": "다음 성분을 함유하는 생약은?\ndammarane saponin(약 5%) — notoginsenoside R₁, ginsenoside Rb₁, Rg₁",
+      "choices": [
+        "위령선",
+        "세신",
+        "시호",
+        "한속단",
+        "삼칠"
+      ],
+      "answer": "삼칠",
+      "explanation": "삼칠 (Notoginseng Radix et Rhizoma) — 두릅나무과 Araliaceae\n오답: 세신(정유(2~3%)), 위령선(-), 시호(triterpenoid saponin(oleanane)), 한속단(phenylethanoid)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 8,
+      "question": "산지가 '중국(운남·광서·사천·호북)'인 생약은?",
+      "answer": [
+        "삼칠"
+      ],
+      "explanation": "삼칠 (Notoginseng Radix et Rhizoma) — 두릅나무과 Araliaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 삼칠 → 지혈"
+    },
+    {
+      "id": 9,
+      "question": "다음 성분을 함유하는 생약은?\ntriterpenoid saponin(6~10%) — senegin I~IV",
+      "choices": [
+        "시호",
+        "세네가",
+        "속단",
+        "은시호",
+        "원지"
+      ],
+      "answer": "세네가",
+      "explanation": "세네가 (Senegae Radix) — 원지과 Polygalaceae\n오답: 원지(triterpenoid saponin(4%)), 은시호(cyclopeptide), 시호(triterpenoid saponin(oleanane)), 속단(iridoid)\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 10,
+      "question": "산지가 '북미'인 생약은?",
+      "answer": [
+        "세네가"
+      ],
+      "explanation": "세네가 (Senegae Radix) — 원지과 Polygalaceae\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+    },
+    {
+      "id": 11,
+      "question": "다음 성분을 함유하는 생약은?\n정유(2~3%) — methyleugenol(50%), asarylketone, safrole",
+      "choices": [
+        "용담",
+        "진교",
+        "부자",
+        "시호",
+        "세신"
+      ],
+      "answer": "세신",
+      "explanation": "세신 (Asari Radix et Rhizoma) — 쥐방울덩굴과 Aristolochiaceae\n오답: 진교(secoiridoid glycoside), 시호(triterpenoid saponin(oleanane)), 용담(secoiridoid glycoside(쓴맛)), 부자(diterpene alkaloid(약 0.5%))\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 12,
+      "question": "산지가 '우리나라 전역, 중국, 일본'인 생약은?",
+      "answer": [
+        "세신"
+      ],
+      "explanation": "세신 (Asari Radix et Rhizoma) — 쥐방울덩굴과 Aristolochiaceae\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+    },
+    {
+      "id": 13,
+      "question": "다음 성분을 함유하는 생약은?\niridoid — sweroside, loganin, dipsacus A",
+      "choices": [
+        "한속단",
+        "부자",
+        "속단",
+        "우슬",
+        "세네가"
+      ],
+      "answer": "속단",
+      "explanation": "속단 (Dipsaci Radix) — 산토끼꽃과 Dipsacaceae\n오답: 한속단(phenylethanoid), 세네가(triterpenoid saponin(6~10%)), 우슬(ecdysteroid(곤충 탈피호르몬)), 부자(diterpene alkaloid(약 0.5%))\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 14,
+      "question": "라틴 생약명이 Dipsaci Radix인 생약의 한글 이름은?",
+      "answer": [
+        "속단",
+        "續斷"
+      ],
+      "explanation": "Dipsaci Radix = 속단(續斷)\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못) — 산토끼꽃과 Dipsacaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+    },
+    {
+      "id": 15,
+      "question": "다음 성분을 함유하는 생약은?\ntriterpenoid saponin(oleanane) — saikosaponin a, b, c",
+      "choices": [
+        "은시호",
+        "인삼",
+        "진교",
+        "시호",
+        "백지"
+      ],
+      "answer": "시호",
+      "explanation": "시호 (Bupleuri Radix) — 산형과(미나리과) Umbelliferae\n오답: 은시호(cyclopeptide), 진교(secoiridoid glycoside), 백지(furanocoumarin), 인삼(dammarane계 saponin)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+    },
+    {
+      "id": 16,
+      "question": "약전에서 'saikosaponin a 0.3% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "시호"
+      ],
+      "explanation": "시호 (Bupleuri Radix) — 산형과(미나리과) Umbelliferae\n대표 성분: triterpenoid saponin(oleanane) — saikosaponin a, b, c, d, e, f, g\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+    },
+    {
+      "id": 17,
+      "question": "다음 성분을 함유하는 생약은?\necdysteroid(곤충 탈피호르몬) — inokosterone, ecdysterone(20-hydroxyecdysone), ponasteroside A",
+      "choices": [
+        "은시호",
+        "용담",
+        "속단",
+        "우슬",
+        "세네가"
+      ],
+      "answer": "우슬",
+      "explanation": "우슬 (Achyranthis Radix) — 비름과 Amaranthaceae\n오답: 은시호(cyclopeptide), 속단(iridoid), 세네가(triterpenoid saponin(6~10%)), 용담(secoiridoid glycoside(쓴맛))\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 18,
+      "question": "라틴 생약명이 Achyranthis Radix인 생약의 한글 이름은?",
+      "answer": [
+        "우슬",
+        "牛膝"
+      ],
+      "explanation": "Achyranthis Radix = 우슬(牛膝)\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리 — 비름과 Amaranthaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+    },
+    {
+      "id": 19,
+      "question": "다음 성분을 함유하는 생약은?\n황색 색소(diarylheptanoid) — curcumin I·II·III",
+      "choices": [
+        "울금",
+        "오약",
+        "겐티아나근",
+        "용담",
+        "인삼"
+      ],
+      "answer": "울금",
+      "explanation": "울금 (Curcumae Radix) — 생강과 Zingiberaceae\n오답: 용담(secoiridoid glycoside(쓴맛)), 겐티아나근(secoiridoid glycoside(고미배당체)), 오약(sesquiterpenoid), 인삼(dammarane계 saponin)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 20,
+      "question": "라틴 생약명이 Curcumae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "울금",
+        "鬱金"
+      ],
+      "explanation": "Curcumae Radix = 울금(鬱金)\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림) — 생강과 Zingiberaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+    },
+    {
+      "id": 21,
+      "question": "다음 성분을 함유하는 생약은?\ntriterpenoid saponin(4%) — onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin), tenuigenin A·B",
+      "choices": [
+        "원지",
+        "은시호",
+        "겐티아나근",
+        "시호",
+        "세네가"
+      ],
+      "answer": "원지",
+      "explanation": "원지 (Polygalae Radix) — 원지과 Polygalaceae\n오답: 세네가(triterpenoid saponin(6~10%)), 은시호(cyclopeptide), 겐티아나근(secoiridoid glycoside(고미배당체)), 시호(triterpenoid saponin(oleanane))\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 22,
+      "question": "라틴 생약명이 Polygalae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "원지",
+        "遠志"
+      ],
+      "explanation": "Polygalae Radix = 원지(遠志)\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica) — 원지과 Polygalaceae\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+    },
+    {
+      "id": 23,
+      "question": "라틴 생약명이 Clematidis Radix et Rhizoma인 생약의 한글 이름은?",
+      "answer": [
+        "위령선",
+        "威靈仙"
+      ],
+      "explanation": "Clematidis Radix et Rhizoma = 위령선(威靈仙)\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기 — 미나리아재비과 Ranunculaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+    },
+    {
+      "id": 24,
+      "question": "라틴 생약명이 Stellariae seu Gypsophilae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "은시호",
+        "銀柴胡"
+      ],
+      "explanation": "Stellariae seu Gypsophilae Radix = 은시호(銀柴胡)\n기원: 대나물 Gypsophila oldhamiana 또는 은시호 Stellaria dichotoma var. lanceolata의 뿌리 — 석죽과 Caryophyllaceae\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 25,
+      "question": "다음 성분을 함유하는 생약은?\nindole alkaloid(0.8~1.3%) — reserpine, deserpidine, rescinnamine",
+      "choices": [
+        "천오",
+        "오약",
+        "인도사목",
+        "세신",
+        "진교"
+      ],
+      "answer": "인도사목",
+      "explanation": "인도사목 (Rauwolfiae Radix) — 협죽도과 Apocynaceae\n오답: 진교(secoiridoid glycoside), 세신(정유(2~3%)), 오약(sesquiterpenoid), 천오(diterpene alkaloid(aconitine계))\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 26,
+      "question": "약전에서 '총 alkaloid(reserpine으로서) 0.8% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "인도사목"
+      ],
+      "explanation": "인도사목 (Rauwolfiae Radix) — 협죽도과 Apocynaceae\n대표 성분: indole alkaloid(0.8~1.3%) — reserpine, deserpidine, rescinnamine, ajmaline, ajmalicine, serpentine\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+    },
+    {
+      "id": 27,
+      "question": "다음 성분을 함유하는 생약은?\ndammarane계 saponin — protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂",
+      "choices": [
+        "원지",
+        "속단",
+        "한속단",
+        "인삼",
+        "시호"
+      ],
+      "answer": "인삼",
+      "explanation": "인삼 (Ginseng Radix) — 두릅나무과(오갈피나무과) Araliaceae\n오답: 시호(triterpenoid saponin(oleanane)), 원지(triterpenoid saponin(4%)), 한속단(phenylethanoid), 속단(iridoid)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+    },
+    {
+      "id": 28,
+      "question": "약전에서 'ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상'을(를) 지표 기준으로 하는 생약은? (하나만 쓰면 됨)",
+      "answer": [
+        "인삼",
+        "홍삼"
+      ],
+      "explanation": "인삼 (Ginseng Radix) — 두릅나무과(오갈피나무과) Araliaceae\n대표 성분: dammarane계 saponin — protopanaxadiol(PPD): ginsenoside Ra, Rb₁, Rb₂, Rc, Rd / protopanaxatriol(PPT): Re, Rf, Rg₁, Rg₂, Rh₁ (PPD : PPT = 3 : 1)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+    },
+    {
+      "id": 29,
+      "question": "약전에서 'ginsenoside Rg₁ 0.10% 이상 + Rb₁ 0.20% 이상(인삼과 같음)'을(를) 지표 기준으로 하는 생약은? (하나만 쓰면 됨)",
+      "answer": [
+        "홍삼",
+        "인삼"
+      ],
+      "explanation": "홍삼 (Ginseng Radix Rubra) — 두릅나무과(오갈피나무과) Araliaceae\n대표 성분: 홍삼 특유 ginsenoside(찌는 과정에서 생성) — ginsenoside Rh₂, 20(R)-Rg₂, 20(S)-Rg₃, 20(R)-Rh₁, Rs₁, Rs₂\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
+    }
+  ]
+}

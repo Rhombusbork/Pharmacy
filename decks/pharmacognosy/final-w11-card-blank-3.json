@@ -1,306 +1,332 @@
 {
-  "deckId": "pharmacognosy-final-w11-card-blank-3",
+  "deckId": "pharmacognosy-final-w11-card-blank-3-g",
   "subject": "생약학",
-  "title": "11주 카드 ② 칸 가린 카드 3/5 (자근~총백)",
+  "title": "11주 카드 ② 칸 가린 카드 3/3 (자근~총백)",
   "questions": [
     {
       "id": 1,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: ( ㉠ )\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n성분:\n· flavonoid(flavone) — ( ㉠ )\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
       "choices": [
-        "수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용",
-        "거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·○○산(Dover's powder) 원료",
-        "고미건위·정장지사약 — 소화불량, 설사",
-        "청열해독 — 복부수종, 손발·얼굴 부종",
-        "발한·건위·진토 — ○○사심탕"
+        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
+        "asparagine(약 0.1%), 단백질(약 5%)",
+        "baicalin, baicalein, wogonin",
+        "shikonin, acetylshikonin, isobutylshikonin",
+        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)"
       ],
-      "answer": "고미건위·정장지사약 — 소화불량, 설사",
-      "explanation": "정답: 고미건위·정장지사약 — 소화불량, 설사\n\n오답 출처:\n· 발한·건위·진토 — ○○사심탕 → 생강의 응용(효능·적응증)\n· 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용 → 지유의 응용(효능·적응증)\n· 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·○○산(Dover's powder) 원료 → 토근의 응용(효능·적응증)\n· 청열해독 — 복부수종, 손발·얼굴 부종 → 현삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "answer": "baicalin, baicalein, wogonin",
+      "explanation": "정답: baicalin, baicalein, wogonin\n\n오답 출처:\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n· asparagine(약 0.1%), 단백질(약 5%) → 노근의 대표 성분\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     },
     {
       "id": 2,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n산지: ( ㉠ )\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· ( ㉠ ) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
       "choices": [
-        "일본",
-        "인도",
-        "브라질",
-        "동아프리카 모잠비크, 마다가스카르",
-        "말레이반도, 수마트라, 보르네오, 대만"
+        "furan 알데하이드(찔 때 생성)",
+        "flavonoid(flavone)",
+        "황함유 화합물",
+        "coumarin(pyranocoumarin, khellactone형)",
+        "naphthoquinone 색소"
       ],
-      "answer": "동아프리카 모잠비크, 마다가스카르",
-      "explanation": "정답: 동아프리카 모잠비크, 마다가스카르\n\n오답 출처:\n· 일본 → 이 범위 밖의 오답\n· 브라질 → 이 범위 밖의 오답\n· 말레이반도, 수마트라, 보르네오, 대만 → 이 범위 밖의 오답\n· 인도 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "answer": "flavonoid(flavone)",
+      "explanation": "정답: flavonoid(flavone)\n\n오답 출처:\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n· naphthoquinone 색소 → 자근의 성분 계열\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     },
     {
       "id": 3,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): ( ㉠ )\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: ( ㉠ )\n산지: 한국, 중국, 일본\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
       "choices": [
-        "baicalin + baicalein + wogonin 합 10.0% 이상",
-        "총 alkaloid(emetine + cephaeline) 2.0% 이상",
-        "6-gingerol 0.4% 이상",
-        "albiflorin + paeoniflorin 2.3% 이상",
-        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상"
+        "미나리아재비과 Ranunculaceae",
+        "산형과(미나리과) Umbelliferae",
+        "현삼과 Scrophulariaceae",
+        "백합과 Liliaceae",
+        "꿀풀과 Labiatae"
       ],
-      "answer": "총 alkaloid(emetine + cephaeline) 2.0% 이상",
-      "explanation": "정답: 총 alkaloid(emetine + cephaeline) 2.0% 이상\n\n오답 출처:\n· baicalin + baicalein + wogonin 합 10.0% 이상 → 황금의 약전 지표성분·함량\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n· albiflorin + paeoniflorin 2.3% 이상 → 작약의 약전 지표성분·함량\n· 6-gingerol 0.4% 이상 → 건강의 약전 지표성분·함량\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "꿀풀과 Labiatae",
+      "explanation": "정답: 꿀풀과 Labiatae\n\n오답 출처:\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n· 백합과 Liliaceae → 대산, 총백의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 산형과(미나리과) Umbelliferae → 전호의 과명\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     },
     {
       "id": 4,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n성분:\n· isoquinoline alkaloid(2~3%) — ( ㉠ )\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 황금 · ( ㉠ )\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
       "choices": [
-        "emetine, cephaeline, emetamine",
-        "morindolide, monotropein, asperuloside",
-        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)",
-        "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
-        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside"
+        "Rehmanniae Radix Preparata",
+        "Rubiae Radix",
+        "Peucedani Radix",
+        "Lithospermi Radix",
+        "Scutellariae Radix"
       ],
-      "answer": "emetine, cephaeline, emetamine",
-      "explanation": "정답: emetine, cephaeline, emetamine\n\n오답 출처:\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside → 하수오의 대표 성분\n· 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone → 건강의 대표 성분\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "Scutellariae Radix",
+      "explanation": "정답: Scutellariae Radix\n\n오답 출처:\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Rubiae Radix → 천초근의 라틴 생약명\n· Lithospermi Radix → 자근의 라틴 생약명\n· Peucedani Radix → 전호의 라틴 생약명\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     },
     {
       "id": 5,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· ( ㉠ ) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: ( ㉠ )",
       "choices": [
-        "iridoid",
-        "coumarin(pyranocoumarin, khellactone형)",
-        "신미 성분(0.8%)",
-        "stilbene glycoside",
-        "isoquinoline alkaloid(2~3%)"
+        "발한·해열 — 감기 초기",
+        "해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비",
+        "해열·거담·진해·진통약 — 감기로 인한 기침, 천식, 두통",
+        "보혈·강장·해열·지갈·완하 처방",
+        "소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염"
       ],
-      "answer": "isoquinoline alkaloid(2~3%)",
-      "explanation": "정답: isoquinoline alkaloid(2~3%)\n\n오답 출처:\n· stilbene glycoside → 하수오의 성분 계열\n· 신미 성분(0.8%) → 건강의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
+      "explanation": "정답: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n\n오답 출처:\n· 발한·해열 — 감기 초기 → 총백의 응용(효능·적응증)\n· 해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비 → 노근의 응용(효능·적응증)\n· 보혈·강장·해열·지갈·완하 처방 → 숙지황의 응용(효능·적응증)\n· 해열·거담·진해·진통약 — 감기로 인한 기침, 천식, 두통 → 전호의 응용(효능·적응증)\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     },
     {
       "id": 6,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — ( ㉠ )\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
       "choices": [
-        "생강과 Zingiberaceae",
-        "산형과(미나리과) Umbelliferae",
-        "방기과 Menispermaceae",
-        "꼭두서니과 Rubiaceae",
-        "운향과 Rutaceae"
+        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside",
+        "formononetin, calycosin, astraisoflavan",
+        "asparagine(약 0.1%), 단백질(약 5%)",
+        "morindolide, monotropein, asperuloside",
+        "alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide"
       ],
-      "answer": "꼭두서니과 Rubiaceae",
-      "explanation": "정답: 꼭두서니과 Rubiaceae\n\n오답 출처:\n· 산형과(미나리과) Umbelliferae → 전호의 과명\n· 방기과 Menispermaceae → 칼룸바의 과명\n· 운향과 Rutaceae → 이 범위 밖의 오답\n· 생강과 Zingiberaceae → 건강, 생강의 과명\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "formononetin, calycosin, astraisoflavan",
+      "explanation": "정답: formononetin, calycosin, astraisoflavan\n\n오답 출처:\n· alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide → 대산의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· asparagine(약 0.1%), 단백질(약 5%) → 노근의 대표 성분\n· 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside → 하수오의 대표 성분\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 7,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 토근 · ( ㉠ )\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· ( ㉠ ) — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
       "choices": [
-        "Morindae Radix",
-        "Zingiberis Rhizoma",
-        "Ipecacuanhae Radix et Rhizoma",
-        "Rubiae Radix",
-        "Peucedani Radix"
+        "furan 알데하이드(찔 때 생성)",
+        "stilbene glycoside",
+        "isoflavonoid",
+        "anthraquinone",
+        "아미노산·단백질"
       ],
-      "answer": "Ipecacuanhae Radix et Rhizoma",
-      "explanation": "정답: Ipecacuanhae Radix et Rhizoma\n\n오답 출처:\n· Zingiberis Rhizoma → 건강의 라틴 생약명\n· Morindae Radix → 파극천의 라틴 생약명\n· Rubiae Radix → 천초근의 라틴 생약명\n· Peucedani Radix → 전호의 라틴 생약명\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "isoflavonoid",
+      "explanation": "정답: isoflavonoid\n\n오답 출처:\n· anthraquinone → 천초근의 성분 계열\n· stilbene glycoside → 하수오의 성분 계열\n· 아미노산·단백질 → 노근의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 8,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: ( ㉠ )\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: ( ㉠ )\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
       "choices": [
-        "일본",
-        "브라질",
-        "인도",
-        "중국, 인도",
-        "브라질(Matto Grosso 주, Rio 토근)"
+        "현삼과 Scrophulariaceae",
+        "벼과 Gramineae",
+        "꼭두서니과 Rubiaceae",
+        "콩과 Leguminosae",
+        "미나리아재비과 Ranunculaceae"
       ],
-      "answer": "브라질(Matto Grosso 주, Rio 토근)",
-      "explanation": "정답: 브라질(Matto Grosso 주, Rio 토근)\n\n오답 출처:\n· 브라질 → 이 범위 밖의 오답\n· 일본 → 이 범위 밖의 오답\n· 중국, 인도 → 이 범위 밖의 오답\n· 인도 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+      "answer": "콩과 Leguminosae",
+      "explanation": "정답: 콩과 Leguminosae\n\n오답 출처:\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 벼과 Gramineae → 노근의 과명\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 9,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — ( ㉠ )\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 황기 · ( ㉠ )\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
       "choices": [
-        "alizarin, purpurin, pseudopurpurin",
-        "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
-        "morindolide, monotropein, asperuloside",
-        "catalpol, aucubin, rehmannioside A~D",
-        "emetine, cephaeline, emetamine"
+        "Astragali Radix",
+        "Rubiae Radix",
+        "Rehmanniae Radix Preparata",
+        "Morindae Radix",
+        "Allii Bulbus"
       ],
-      "answer": "morindolide, monotropein, asperuloside",
-      "explanation": "정답: morindolide, monotropein, asperuloside\n\n오답 출처:\n· catalpol, aucubin, rehmannioside A~D → 지황의 대표 성분\n· alizarin, purpurin, pseudopurpurin → 천초근의 대표 성분\n· emetine, cephaeline, emetamine → 토근의 대표 성분\n· harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide → 현삼의 대표 성분\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "Astragali Radix",
+      "explanation": "정답: Astragali Radix\n\n오답 출처:\n· Morindae Radix → 파극천의 라틴 생약명\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Allii Bulbus → 대산의 라틴 생약명\n· Rubiae Radix → 천초근의 라틴 생약명\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 10,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· ( ㉠ ) — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: ( ㉠ )",
       "choices": [
-        "tannin(ellagitannin·gallotannin)",
-        "iridoid",
-        "isoquinoline alkaloid(2~3%)",
-        "furan 알데하이드(찔 때 생성)",
-        "stilbene glycoside"
+        "해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비",
+        "강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
+        "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
+        "보혈·강장·해열·지갈·완하 처방",
+        "보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
       ],
-      "answer": "iridoid",
-      "explanation": "정답: iridoid\n\n오답 출처:\n· tannin(ellagitannin·gallotannin) → 지유의 성분 계열\n· isoquinoline alkaloid(2~3%) → 토근의 성분 계열\n· stilbene glycoside → 하수오의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
+      "explanation": "정답: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n\n오답 출처:\n· 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료 → 천초근의 응용(효능·적응증)\n· 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증 → 파극천의 응용(효능·적응증)\n· 해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비 → 노근의 응용(효능·적응증)\n· 보혈·강장·해열·지갈·완하 처방 → 숙지황의 응용(효능·적응증)\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 11,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: ( ㉠ )\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 황기 · (라틴명 숨김)\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
       "choices": [
-        "현삼과 Scrophulariaceae",
-        "콩과 Leguminosae",
-        "장미과 Rosaceae",
-        "꼭두서니과 Rubiaceae",
-        "꿀풀과 Labiatae"
+        "Polygonum multiflorum",
+        "Allium sativum",
+        "Phragmites communis",
+        "Rubia akane",
+        "Astragalus membranaceus"
       ],
-      "answer": "꼭두서니과 Rubiaceae",
-      "explanation": "정답: 꼭두서니과 Rubiaceae\n\n오답 출처:\n· 콩과 Leguminosae → 황기의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n· 꿀풀과 Labiatae → 황금의 과명\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "Astragalus membranaceus",
+      "explanation": "정답: Astragalus membranaceus\n\n오답 출처:\n· Phragmites communis → 노근의 기원식물 학명\n· Allium sativum → 대산의 기원식물 학명\n· Polygonum multiflorum → 하수오의 기원식물 학명\n· Rubia akane → 천초근의 기원식물 학명\n\n[카드 요약]\n📇 황기 · Astragali Radix\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리\n과: 콩과 Leguminosae\n성분:\n· isoflavonoid — formononetin, calycosin, astraisoflavan, astrapterocarpan\n· triterpene saponin — astragaloside I~IV(cycloartane형), soyasaponin I(oleanane형)\n· 기타 — canavanine, GABA\n응용: 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
     },
     {
       "id": 12,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 파극천 · ( ㉠ )\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): ( ㉠ )\n응용: 방향성(신미) 건위약, 교미약, 향신료\n주의: 담석 환자 신중 투여, 빈 속에 다량 → 위장관 자극",
       "choices": [
-        "Morindae Radix",
-        "Scrophulariae Radix",
-        "Rehmanniae Radix Preparata",
-        "Ipecacuanhae Radix et Rhizoma",
-        "Polygoni Multiflori Radix"
+        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상",
+        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
+        "6-gingerol 0.4% 이상",
+        "총 alkaloid(emetine + cephaeline) 2.0% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상"
       ],
-      "answer": "Morindae Radix",
-      "explanation": "정답: Morindae Radix\n\n오답 출처:\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Polygoni Multiflori Radix → 하수오의 라틴 생약명\n· Ipecacuanhae Radix et Rhizoma → 토근의 라틴 생약명\n· Scrophulariae Radix → 현삼의 라틴 생약명\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "6-gingerol 0.4% 이상",
+      "explanation": "정답: 6-gingerol 0.4% 이상\n\n오답 출처:\n· 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상 → 하수오의 약전 지표성분·함량\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n· 총 alkaloid(emetine + cephaeline) 2.0% 이상 → 토근의 약전 지표성분·함량\n\n[카드 요약]\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
     },
     {
       "id": 13,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: ( ㉠ )",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분(0.8%) — ( ㉠ )\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n주의: 담석 환자 신중 투여, 빈 속에 다량 → 위장관 자극",
       "choices": [
-        "(생○○) 청열·양혈. 건○○·숙○○의 원료",
-        "사하·보혈·강정·강장약",
-        "보혈·강장·해열·지갈·완하 처방",
-        "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-        "보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+        "paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin",
+        "emetine, cephaeline, emetamine",
+        "6-gingerol(6-shogaol은 거의 없음)",
+        "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
+        "asparagine(약 0.1%), 단백질(약 5%)"
       ],
-      "answer": "보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
-      "explanation": "정답: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증\n\n오답 출처:\n· 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료 → 천초근의 응용(효능·적응증)\n· 사하·보혈·강정·강장약 → 하수오의 응용(효능·적응증)\n· (생○○) 청열·양혈. 건○○·숙○○의 원료 → 지황의 응용(효능·적응증)\n· 보혈·강장·해열·지갈·완하 처방 → 숙지황의 응용(효능·적응증)\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
+      "explanation": "정답: 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone\n\n오답 출처:\n· 6-gingerol(6-shogaol은 거의 없음) → 생강의 대표 성분\n· asparagine(약 0.1%), 단백질(약 5%) → 노근의 대표 성분\n· emetine, cephaeline, emetamine → 토근의 대표 성분\n· paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin → 작약의 대표 성분\n\n[카드 요약]\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
     },
     {
       "id": 14,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: ( ㉠ )\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· ( ㉠ ) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n주의: 담석 환자 신중 투여, 빈 속에 다량 → 위장관 자극",
       "choices": [
-        "북아메리카",
-        "중국 광동·광서·사천·복건",
-        "브라질",
-        "인도",
-        "중국, 인도"
+        "황함유 화합물",
+        "신미 성분(0.8%)",
+        "monoterpene glycoside(benzoate)",
+        "isoquinoline alkaloid(2~3%)",
+        "신미 성분"
       ],
-      "answer": "중국 광동·광서·사천·복건",
-      "explanation": "정답: 중국 광동·광서·사천·복건\n\n오답 출처:\n· 브라질 → 이 범위 밖의 오답\n· 중국, 인도 → 이 범위 밖의 오답\n· 인도 → 이 범위 밖의 오답\n· 북아메리카 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증"
+      "answer": "신미 성분(0.8%)",
+      "explanation": "정답: 신미 성분(0.8%)\n\n오답 출처:\n· 신미 성분 → 생강의 성분 계열\n· monoterpene glycoside(benzoate) → 작약의 성분 계열\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· isoquinoline alkaloid(2~3%) → 토근의 성분 계열\n\n[카드 요약]\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
     },
     {
       "id": 15,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): ( ㉠ )\n응용: 사하·보혈·강정·강장약",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: ( ㉠ )\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n주의: 담석 환자 신중 투여, 빈 속에 다량 → 위장관 자극",
       "choices": [
-        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
-        "baicalin + baicalein + wogonin 합 10.0% 이상",
-        "6-gingerol 0.4% 이상",
-        "puerarin 2.0% 이상, daidzin 0.3% 이상",
-        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상"
+        "생강과 Zingiberaceae",
+        "백합과 Liliaceae",
+        "꼭두서니과 Rubiaceae",
+        "방기과 Menispermaceae",
+        "작약과 Paeoniaceae"
       ],
-      "answer": "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
-      "explanation": "정답: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n\n오답 출처:\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n· 6-gingerol 0.4% 이상 → 건강의 약전 지표성분·함량\n· baicalin + baicalein + wogonin 합 10.0% 이상 → 황금의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "생강과 Zingiberaceae",
+      "explanation": "정답: 생강과 Zingiberaceae\n\n오답 출처:\n· 작약과 Paeoniaceae → 작약의 과명\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n· 백합과 Liliaceae → 대산, 총백의 과명\n· 방기과 Menispermaceae → 칼룸바의 과명\n\n[카드 요약]\n📇 건강 · Zingiberis Rhizoma\n기원: 생강 Zingiber officinale의 뿌리줄기를 말린 것(주피를 벗겨 쪄서 건조)\n과: 생강과 Zingiberaceae\n지표(약전): 6-gingerol 0.4% 이상\n성분:\n· 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n· 정유(3%) — zingiberene, camphene, α-pinene, cineol, bisabolene\n응용: 방향성(신미) 건위약, 교미약, 향신료\n확인시험: TLC + 2,4-dinitrophenylhydrazine → 다갈색 반점(6-gingerol)\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
     },
     {
       "id": 16,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n성분:\n· stilbene glycoside — ( ㉠ )\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — ( ㉠ )\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕",
       "choices": [
+        "paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin",
         "baicalin, baicalein, wogonin",
-        "morindolide, monotropein, asperuloside",
-        "alizarin, purpurin, pseudopurpurin",
-        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
-        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside"
+        "allicin 계열(대산과 같은 황화합물 계열)",
+        "6-gingerol(6-shogaol은 거의 없음)",
+        "palmatine, jateorrhizine, columbamine"
       ],
-      "answer": "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside",
-      "explanation": "정답: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n\n오답 출처:\n· alizarin, purpurin, pseudopurpurin → 천초근의 대표 성분\n· baicalin, baicalein, wogonin → 황금의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "6-gingerol(6-shogaol은 거의 없음)",
+      "explanation": "정답: 6-gingerol(6-shogaol은 거의 없음)\n\n오답 출처:\n· allicin 계열(대산과 같은 황화합물 계열) → 총백의 대표 성분\n· baicalin, baicalein, wogonin → 황금의 대표 성분\n· palmatine, jateorrhizine, columbamine → 칼룸바의 대표 성분\n· paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin → 작약의 대표 성분\n\n[카드 요약]\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
     },
     {
       "id": 17,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· ( ㉠ ) — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· ( ㉠ ) — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕",
       "choices": [
-        "anthraquinone",
-        "iridoid",
+        "alkaloid(protoberberine, 2~3%)",
+        "stilbene glycoside",
         "황함유 화합물",
-        "isoflavonoid",
-        "stilbene glycoside"
+        "신미 성분",
+        "신미 성분(0.8%)"
       ],
-      "answer": "stilbene glycoside",
-      "explanation": "정답: stilbene glycoside\n\n오답 출처:\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· isoflavonoid → 황기의 성분 계열\n· anthraquinone → 천초근의 성분 계열\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "신미 성분",
+      "explanation": "정답: 신미 성분\n\n오답 출처:\n· alkaloid(protoberberine, 2~3%) → 칼룸바의 성분 계열\n· stilbene glycoside → 하수오의 성분 계열\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· 신미 성분(0.8%) → 건강의 성분 계열\n\n[카드 요약]\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
     },
     {
       "id": 18,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: ( ㉠ )\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: ( ㉠ )\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕",
       "choices": [
-        "원지과 Polygalaceae",
-        "꿀풀과 Labiatae",
         "백합과 Liliaceae",
+        "작약과 Paeoniaceae",
+        "꿀풀과 Labiatae",
         "마디풀과 Polygonaceae",
-        "꼭두서니과 Rubiaceae"
+        "생강과 Zingiberaceae"
       ],
-      "answer": "마디풀과 Polygonaceae",
-      "explanation": "정답: 마디풀과 Polygonaceae\n\n오답 출처:\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n· 백합과 Liliaceae → 대산, 총백의 과명\n· 원지과 Polygalaceae → 이 범위 밖의 오답\n· 꿀풀과 Labiatae → 황금의 과명\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "생강과 Zingiberaceae",
+      "explanation": "정답: 생강과 Zingiberaceae\n\n오답 출처:\n· 백합과 Liliaceae → 대산, 총백의 과명\n· 꿀풀과 Labiatae → 황금의 과명\n· 작약과 Paeoniaceae → 작약의 과명\n· 마디풀과 Polygonaceae → 하수오의 과명\n\n[카드 요약]\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
     },
     {
       "id": 19,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 하수오 · ( ㉠ )\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 생강 · ( ㉠ )\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕",
       "choices": [
         "Allii Fistulosi Bulbus",
-        "Rehmanniae Radix Preparata",
-        "Astragali Radix",
-        "Polygoni Multiflori Radix",
-        "Rubiae Radix"
+        "Calumbae Radix",
+        "Zingiberis Rhizoma Recens",
+        "Paeoniae Radix",
+        "Scutellariae Radix"
       ],
-      "answer": "Polygoni Multiflori Radix",
-      "explanation": "정답: Polygoni Multiflori Radix\n\n오답 출처:\n· Rubiae Radix → 천초근의 라틴 생약명\n· Astragali Radix → 황기의 라틴 생약명\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Allii Fistulosi Bulbus → 총백의 라틴 생약명\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "Zingiberis Rhizoma Recens",
+      "explanation": "정답: Zingiberis Rhizoma Recens\n\n오답 출처:\n· Paeoniae Radix → 작약의 라틴 생약명\n· Allii Fistulosi Bulbus → 총백의 라틴 생약명\n· Scutellariae Radix → 황금의 라틴 생약명\n· Calumbae Radix → 칼룸바의 라틴 생약명\n\n[카드 요약]\n📇 생강 · Zingiberis Rhizoma Recens\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기\n과: 생강과 Zingiberaceae\n성분:\n· 신미 성분 — 6-gingerol(6-shogaol은 거의 없음)\n· 정유 — zingiberene\n응용: 발한·건위·진토 — 생강사심탕\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
     },
     {
       "id": 20,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: ( ㉠ )\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 노근 · Phragmitis Rhizoma\n기원: 갈대 Phragmites communis의 뿌리줄기\n과: 벼과 Gramineae\n성분:\n· 아미노산·단백질 — ( ㉠ )\n응용: 해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비",
       "choices": [
-        "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-        "발한·해열 — 감기 초기",
-        "강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
-        "소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
-        "사하·보혈·강정·강장약"
+        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)",
+        "asparagine(약 0.1%), 단백질(약 5%)",
+        "baicalin, baicalein, wogonin",
+        "alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide",
+        "5-hydroxymethyl-2-furaldehyde(5-HMF)"
       ],
-      "answer": "사하·보혈·강정·강장약",
-      "explanation": "정답: 사하·보혈·강정·강장약\n\n오답 출처:\n· 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염 → 황기의 응용(효능·적응증)\n· 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염 → 황금의 응용(효능·적응증)\n· 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료 → 천초근의 응용(효능·적응증)\n· 발한·해열 — 감기 초기 → 총백의 응용(효능·적응증)\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+      "answer": "asparagine(약 0.1%), 단백질(약 5%)",
+      "explanation": "정답: asparagine(약 0.1%), 단백질(약 5%)\n\n오답 출처:\n· baicalin, baicalein, wogonin → 황금의 대표 성분\n· alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide → 대산의 대표 성분\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n\n[카드 요약]\n📇 노근 · Phragmitis Rhizoma\n기원: 갈대 Phragmites communis의 뿌리줄기\n과: 벼과 Gramineae\n성분:\n· 아미노산·단백질 — asparagine(약 0.1%), 단백질(약 5%)\n응용: 해열·지갈·이뇨약 — 소변불리, 소갈, 구역, 딸꾹질, 변비\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 21,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — ( ㉠ )\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n산지: 서부 아시아 또는 중국 원산(한국·중국·일본 재배)\n성분:\n· 황함유 화합물 — ( ㉠ )\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n주의: 생마늘 과량 → 위 손상. 눈병·치아·인후 질환, 유행병 후 금기",
       "choices": [
-        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
-        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)",
-        "morindolide, monotropein, asperuloside",
-        "shikonin, acetylshikonin, isobutylshikonin",
-        "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide"
+        "formononetin, calycosin, astraisoflavan",
+        "allicin 계열(대산과 같은 황화합물 계열)",
+        "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
+        "6-gingerol(6-shogaol은 거의 없음)",
+        "alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide"
       ],
-      "answer": "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
-      "explanation": "정답: harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n\n오답 출처:\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside"
+      "answer": "alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide",
+      "explanation": "정답: alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n\n오답 출처:\n· 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone → 건강의 대표 성분\n· allicin 계열(대산과 같은 황화합물 계열) → 총백의 대표 성분\n· 6-gingerol(6-shogaol은 거의 없음) → 생강의 대표 성분\n· formononetin, calycosin, astraisoflavan → 황기의 대표 성분\n\n[카드 요약]\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
     },
     {
       "id": 22,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· ( ㉠ ) — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n산지: 서부 아시아 또는 중국 원산(한국·중국·일본 재배)\n성분:\n· ( ㉠ ) — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n주의: 생마늘 과량 → 위 손상. 눈병·치아·인후 질환, 유행병 후 금기",
       "choices": [
-        "furan 알데하이드(찔 때 생성)",
-        "naphthoquinone 색소",
+        "신미 성분(0.8%)",
+        "황함유 화합물",
         "alkaloid(protoberberine, 2~3%)",
-        "coumarin(pyranocoumarin, khellactone형)",
-        "iridoid"
+        "furan 알데하이드(찔 때 생성)",
+        "isoflavonoid"
       ],
-      "answer": "iridoid",
-      "explanation": "정답: iridoid\n\n오답 출처:\n· naphthoquinone 색소 → 자근의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n· alkaloid(protoberberine, 2~3%) → 칼룸바의 성분 계열\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside"
+      "answer": "황함유 화합물",
+      "explanation": "정답: 황함유 화합물\n\n오답 출처:\n· 신미 성분(0.8%) → 건강의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n· isoflavonoid → 황기의 성분 계열\n· alkaloid(protoberberine, 2~3%) → 칼룸바의 성분 계열\n\n[카드 요약]\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
     },
     {
       "id": 23,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: ( ㉠ )\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: ( ㉠ )\n산지: 서부 아시아 또는 중국 원산(한국·중국·일본 재배)\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n주의: 생마늘 과량 → 위 손상. 눈병·치아·인후 질환, 유행병 후 금기",
       "choices": [
-        "장미과 Rosaceae",
-        "지치과 Boraginaceae",
+        "콩과 Leguminosae",
         "현삼과 Scrophulariaceae",
-        "미나리아재비과 Ranunculaceae",
-        "꼭두서니과 Rubiaceae"
+        "벼과 Gramineae",
+        "백합과 Liliaceae",
+        "미나리아재비과 Ranunculaceae"
       ],
-      "answer": "현삼과 Scrophulariaceae",
-      "explanation": "정답: 현삼과 Scrophulariaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 지치과 Boraginaceae → 자근의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside"
+      "answer": "백합과 Liliaceae",
+      "explanation": "정답: 백합과 Liliaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 콩과 Leguminosae → 황기의 과명\n· 벼과 Gramineae → 노근의 과명\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n\n[카드 요약]\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 대산 · ( ㉠ )\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n산지: 서부 아시아 또는 중국 원산(한국·중국·일본 재배)\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n주의: 생마늘 과량 → 위 손상. 눈병·치아·인후 질환, 유행병 후 금기",
+      "choices": [
+        "Phragmitis Rhizoma",
+        "Calumbae Radix",
+        "Allii Bulbus",
+        "Zingiberis Rhizoma",
+        "Zingiberis Rhizoma Recens"
+      ],
+      "answer": "Allii Bulbus",
+      "explanation": "정답: Allii Bulbus\n\n오답 출처:\n· Calumbae Radix → 칼룸바의 라틴 생약명\n· Zingiberis Rhizoma Recens → 생강의 라틴 생약명\n· Zingiberis Rhizoma → 건강의 라틴 생약명\n· Phragmitis Rhizoma → 노근의 라틴 생약명\n\n[카드 요약]\n📇 대산 · Allii Bulbus\n기원: 마늘 Allium sativum의 비늘줄기\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide\n· 기타 황화합물 — S-allylcysteine, S-allylmercapto-L-cysteine\n· 단백질·saponin — allivin, voghieroside\n· 다당류 — scorodose(전분은 없음)\n응용: 건위·발한·이뇨·정장·살균·구충약, 향신료\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 총백 · Allii Fistulosi Bulbus\n기원: 파 Allium fistulosum의 비늘줄기(흰 밑동)\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — ( ㉠ )\n응용: 발한·해열 — 감기 초기",
+      "choices": [
+        "6-gingerol(6-shogaol은 거의 없음)",
+        "allicin 계열(대산과 같은 황화합물 계열)",
+        "asparagine(약 0.1%), 단백질(약 5%)",
+        "baicalin, baicalein, wogonin",
+        "alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide"
+      ],
+      "answer": "allicin 계열(대산과 같은 황화합물 계열)",
+      "explanation": "정답: allicin 계열(대산과 같은 황화합물 계열)\n\n오답 출처:\n· 6-gingerol(6-shogaol은 거의 없음) → 생강의 대표 성분\n· baicalin, baicalein, wogonin → 황금의 대표 성분\n· alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide → 대산의 대표 성분\n· asparagine(약 0.1%), 단백질(약 5%) → 노근의 대표 성분\n\n[카드 요약]\n📇 총백 · Allii Fistulosi Bulbus\n기원: 파 Allium fistulosum의 비늘줄기(흰 밑동)\n과: 백합과 Liliaceae\n성분:\n· 황함유 화합물 — allicin 계열(대산과 같은 황화합물 계열)\n응용: 발한·해열 — 감기 초기\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     }
   ]
 }

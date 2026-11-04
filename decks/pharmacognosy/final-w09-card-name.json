@@ -1,5 +1,5 @@
 {
-  "deckId": "pharmacognosy-final-w09-card-name",
+  "deckId": "pharmacognosy-final-w09-card-name-g",
   "subject": "생약학",
   "title": "9주 카드 ① 이름 가린 카드 (갈근~백부근)",
   "questions": [
@@ -14,7 +14,7 @@
         "고삼"
       ],
       "answer": "갈근",
-      "explanation": "정답: 갈근 (Puerariae Radix, 葛根)\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
+      "explanation": "정답: 갈근 (Puerariae Radix, 葛根)\n기원: 칡 Pueraria lobata의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: puerarin 2.0% → 갈근(지표) / 갈근 성분 계열 = isoflavonoid"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "갈화"
       ],
       "answer": "갈화",
-      "explanation": "정답: 갈화 (Puerariae Flos, 葛花)\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
+      "explanation": "정답: 갈화 (Puerariae Flos, 葛花)\n기원: 칡 Pueraria lobata의 꽃봉오리 또는 막 피기 시작한 꽃\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 갈화 라틴명 Puerariae Flos / 갈화해성탕 → 숙취"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "고삼"
       ],
       "answer": "감초",
-      "explanation": "정답: 감초 (Glycyrrhizae Radix et Rhizoma, 甘草)\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
+      "explanation": "정답: 감초 (Glycyrrhizae Radix et Rhizoma, 甘草)\n기원: 감초 Glycyrrhiza uralensis, 광과감초 G. glabra, 창과감초 G. inflata의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: glycyrrhizin 2.5% → 감초 / 감초 + 독성 생약 → 독성 감소(조화) / glycyrrhizin → 알도스테론증"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
         "갈근"
       ],
       "answer": "강활",
-      "explanation": "정답: 강활 (Osterici seu Notopterygii Radix et Rhizoma, 羌活)\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin"
+      "explanation": "정답: 강활 (Osterici seu Notopterygii Radix et Rhizoma, 羌活)\n기원: 강활 Ostericum koreanum, 중국강활 Notopterygium incisum, 관엽강활 N. forbesii의 뿌리줄기 및 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)"
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
         "괄루근"
       ],
       "answer": "고삼",
-      "explanation": "정답: 고삼 (Sophorae Radix, 苦蔘)\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 대극 — 대극과, diterpenoid: ingol, euphpekinensin\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
+      "explanation": "정답: 고삼 (Sophorae Radix, 苦蔘)\n기원: 고삼 Sophora flavescens의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 대극 — 대극과, diterpenoid: ingol, euphpekinensin\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: oxymatrine + matrine → 고삼(지표) / 구충·살충 생약 / matrine 계열 = quinolizidine 알칼로이드"
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
         "길경"
       ],
       "answer": "괄루근",
-      "explanation": "정답: 괄루근 (Trichosanthis Radix, 栝樓根)\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
+      "explanation": "정답: 괄루근 (Trichosanthis Radix, 栝樓根)\n기원: 하늘타리 Trichosanthes kirilowii 또는 쌍변괄루 T. rosthornii의 뿌리(피부 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: trichosanthin → 괄루근 → 임부 금기"
     },
     {
       "id": 7,
@@ -92,7 +92,7 @@
         "길경"
       ],
       "answer": "길경",
-      "explanation": "정답: 길경 (Platycodi Radix, 桔梗)\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
+      "explanation": "정답: 길경 (Platycodi Radix, 桔梗)\n기원: 도라지 Platycodon grandiflorum의 뿌리(그대로 또는 주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 3대 거담 생약(길경·원지·세네가) / LB 반응 → 길경"
     },
     {
       "id": 8,
@@ -105,7 +105,7 @@
         "길초근"
       ],
       "answer": "길초근",
-      "explanation": "정답: 길초근 (Valerianae Radix et Rhizoma, 吉草根)\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 백부근 — 백부과, alkaloid(Stemona alkaloid): stemonine, stemonidine\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
+      "explanation": "정답: 길초근 (Valerianae Radix et Rhizoma, 吉草根)\n기원: 쥐오줌풀 Valeriana fauriei 또는 동속 근연식물의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 백부근 — 백부과, alkaloid(Stemona alkaloid): stemonine, stemonidine\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 진정 → 길초근 / valepotriate → 발레리아나근"
     },
     {
       "id": 9,
@@ -118,7 +118,7 @@
         "당삼"
       ],
       "answer": "단삼",
-      "explanation": "정답: 단삼 (Salviae Miltiorrhizae Radix, 丹蔘)\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 대극 — 대극과, diterpenoid: ingol, euphpekinensin\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
+      "explanation": "정답: 단삼 (Salviae Miltiorrhizae Radix, 丹蔘)\n기원: 단삼 Salvia miltiorrhiza의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 대극 — 대극과, diterpenoid: ingol, euphpekinensin\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: salvianolic acid 4.1% → 단삼 / tanshinone = diterpenoid → 단삼 / 단삼 → 협심증(관상동맥 확장)"
     },
     {
       "id": 10,
@@ -131,7 +131,7 @@
         "당귀"
       ],
       "answer": "당귀",
-      "explanation": "정답: 당귀 (Angelicae Gigantis Radix, 當歸)\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
+      "explanation": "정답: 당귀 (Angelicae Gigantis Radix, 當歸)\n기원: 참당귀 Angelica gigas의 뿌리 (중국: 당귀 A. sinensis, 일본: 일당귀 A. acutiloba)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: nodakenin·decursin 6.0% → 당귀 / 참당귀 decursin vs 일당귀·중국당귀 phthalide / 사물탕 구성 생약"
     },
     {
       "id": 11,
@@ -144,7 +144,7 @@
         "방풍"
       ],
       "answer": "일당귀",
-      "explanation": "정답: 일당귀 (Japonicae Angelicae Radix, 日當歸)\n기원: 일본당귀 Angelica acutiloba의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)"
+      "explanation": "정답: 일당귀 (Japonicae Angelicae Radix, 日當歸)\n기원: 일본당귀 Angelica acutiloba의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
     },
     {
       "id": 12,
@@ -157,7 +157,7 @@
         "당삼"
       ],
       "answer": "당삼",
-      "explanation": "정답: 당삼 (Codonopsis Pilosulae Radix, 黨蔘)\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine"
+      "explanation": "정답: 당삼 (Codonopsis Pilosulae Radix, 黨蔘)\n기원: 만삼 Codonopsis pilosula, 소화당삼 C. pilosula var. modesta, 천당삼 C. tangshen의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)"
     },
     {
       "id": 13,
@@ -170,7 +170,7 @@
         "고삼"
       ],
       "answer": "대극",
-      "explanation": "정답: 대극 (Euphorbiae Pekinensis Radix, 大戟)\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 백미 — 박주가리과, steroid glycoside(C21 pregnane): atratoside A~D, cynatratoside\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
+      "explanation": "정답: 대극 (Euphorbiae Pekinensis Radix, 大戟)\n기원: 대극 Euphorbia pekinensis의 뿌리 (중국: 경대극. 홍대극은 꼭두서니과 Knoxia valerianoides)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 독활 — 두릅나무과, diterpenoid(kaurane·pimarane): kaurenoic acid, continentalic acid(pimaradienoic acid)\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 백미 — 박주가리과, steroid glycoside(C21 pregnane): atratoside A~D, cynatratoside\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 감초와 함께 쓰면 독성↑ → 대극"
     },
     {
       "id": 14,
@@ -183,7 +183,7 @@
         "데리스근"
       ],
       "answer": "데리스근",
-      "explanation": "정답: 데리스근 (Tuba Radix)\n기원: 데리스 Derris elliptica의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
+      "explanation": "정답: 데리스근 (Tuba Radix)\n기원: 데리스 Derris elliptica의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 갈화 — 콩과, isoflavonoid: tectorigenin, tectoridin\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: rotenone → 데리스근 → 살충 / 산지: 말레이·수마트라"
     },
     {
       "id": 15,
@@ -196,7 +196,7 @@
         "갈근"
       ],
       "answer": "독활",
-      "explanation": "정답: 독활 (Araliae Continentalis Radix, 獨活)\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n★ 족보: kaurenoic acid 0.4% → 독활"
+      "explanation": "정답: 독활 (Araliae Continentalis Radix, 獨活)\n기원: 독활 Aralia continentalis의 뿌리 (일본: A. cordata의 뿌리줄기)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길경 — 초롱꽃과(도라지과), triterpenoid saponin(약 2%): platycodin A·C·D·D₂·D₃ (aglycone = platycodigenin), polygalacin D\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: kaurenoic acid 0.4% → 독활"
     },
     {
       "id": 16,
@@ -209,7 +209,7 @@
         "백두옹"
       ],
       "answer": "목향",
-      "explanation": "정답: 목향 (Aucklandiae Radix, 木香)\n기원: 목향 Aucklandia lappa의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 백두옹 — 미나리아재비과, lignan: deoxypodophyllotoxin\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine"
+      "explanation": "정답: 목향 (Aucklandiae Radix, 木香)\n기원: 목향 Aucklandia lappa의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 백두옹 — 미나리아재비과, lignan: deoxypodophyllotoxin\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)"
     },
     {
       "id": 17,
@@ -222,7 +222,7 @@
         "강활"
       ],
       "answer": "방풍",
-      "explanation": "정답: 방풍 (Saposhnikoviae Radix, 防風)\n기원: 방풍 Saposhnikovia divaricata(= Ledebouriella seseloides)의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n★ 족보: 방풍 성분 = chromone / 방풍 ↔ 해방풍(갯방풍) 구별"
+      "explanation": "정답: 방풍 (Saposhnikoviae Radix, 防風)\n기원: 방풍 Saposhnikovia divaricata(= Ledebouriella seseloides)의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 강활 — 산형과(미나리과), coumarin(furanocoumarin): nodakenin(2%), notopterol\n· 일당귀 — 산형과(미나리과), phthalide: ligustilide, butylidenephthalide\n· 당귀 — 산형과(미나리과), pyranocoumarin: decursin, decursinol\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 방풍 성분 = chromone / 방풍 ↔ 해방풍(갯방풍) 구별"
     },
     {
       "id": 18,
@@ -235,7 +235,7 @@
         "백두옹"
       ],
       "answer": "백두옹",
-      "explanation": "정답: 백두옹 (Pulsatillae Radix, 白頭翁)\n기원: 할미꽃 Pulsatilla koreana 또는 백두옹 P. chinensis의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 목향 — 국화과, sesquiterpenoid(sesquiterpene lactone, 1~2.5%): costunolide, dehydrocostuslactone\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 백부근 — 백부과, alkaloid(Stemona alkaloid): stemonine, stemonidine"
+      "explanation": "정답: 백두옹 (Pulsatillae Radix, 白頭翁)\n기원: 할미꽃 Pulsatilla koreana 또는 백두옹 P. chinensis의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 목향 — 국화과, sesquiterpenoid(sesquiterpene lactone, 1~2.5%): costunolide, dehydrocostuslactone\n· 감초 — 콩과, triterpene glycoside(oleanane): glycyrrhizin(감미 성분, 3~7%) → 가수분해: glycyrrhetic acid + glucuronic acid 2분자\n· 데리스근 — 콩과, homoisoflavonoid(rotenoid): rotenone, tephrosin\n· 백부근 — 백부과, alkaloid(Stemona alkaloid): stemonine, stemonidine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
     },
     {
       "id": 19,
@@ -248,7 +248,7 @@
         "갈근"
       ],
       "answer": "백미",
-      "explanation": "정답: 백미 (Cynanchi Atrati Radix et Rhizoma, 白薇)\n기원: 백미꽃 Cynanchum atratum 또는 만생백미 C. versicolor의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin"
+      "explanation": "정답: 백미 (Cynanchi Atrati Radix et Rhizoma, 白薇)\n기원: 백미꽃 Cynanchum atratum 또는 만생백미 C. versicolor의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 방풍 — 산형과(미나리과), chromone: hamaudol, ledebouriellol\n· 괄루근 — 박과, 단백질: trichosanthin(234 아미노산), karasurin\n· 갈근 — 콩과, isoflavonoid: puerarin, daidzin\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)"
     },
     {
       "id": 20,
@@ -261,7 +261,7 @@
         "단삼"
       ],
       "answer": "백부근",
-      "explanation": "정답: 백부근 (Stemonae Radix, 百部根)\n기원: 만생백부 Stemona japonica, 직립백부 S. sessilifolia, 대엽백부 S. tuberosa의 덩이뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n★ 족보: 구충·살충 생약 → 백부근 / 진해 → 백부근"
+      "explanation": "정답: 백부근 (Stemonae Radix, 百部根)\n기원: 만생백부 Stemona japonica, 직립백부 S. sessilifolia, 대엽백부 S. tuberosa의 덩이뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고삼 — 콩과, alkaloid(quinolizidine, 1~2%): matrine, oxymatrine\n· 길초근 — 마타리과, 정유(kesso oil, 1~8%)\n· 당삼 — 초롱꽃과, sesquiterpenoid: 8β-hydroxyasterolid\n· 단삼 — 꿀풀과, diterpenoid(abietane, quinone): tanshinone I·IIA·IV, cryptotanshinone\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)\n★ 족보: 구충·살충 생약 → 백부근 / 진해 → 백부근"
     }
   ]
 }

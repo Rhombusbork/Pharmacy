@@ -1,166 +1,10 @@
 {
-  "deckId": "pharmacognosy-final-w11-card-blank-2",
+  "deckId": "pharmacognosy-final-w11-card-blank-2-g",
   "subject": "생약학",
-  "title": "11주 카드 ② 칸 가린 카드 2/5 (자근~총백)",
+  "title": "11주 카드 ② 칸 가린 카드 2/3 (자근~총백)",
   "questions": [
     {
       "id": 1,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 지유 · (라틴명 숨김)\n과: 장미과 Rosaceae\n성분:\n· tannin(ellagitannin·gallotannin) — sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid, catechin\n· triterpenoid — ziyuglycoside I·II, ursolic acid, sanguisoside A\n응용: 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용\n확인시험: ① 물 여액 + FeCl₃ → 어두운 보라색 ② 흔들면 지속성 거품 ③ TLC + 1% FeCl₃ → 청자색 반점",
-      "choices": [
-        "Jateorhiza columba",
-        "Scrophularia buergeriana",
-        "Lithospermum erythrorhizon",
-        "Peucedanum praeruptorum",
-        "Sanguisorba officinalis"
-      ],
-      "answer": "Sanguisorba officinalis",
-      "explanation": "정답: Sanguisorba officinalis\n\n오답 출처:\n· Scrophularia buergeriana → 현삼의 기원식물 학명\n· Peucedanum praeruptorum → 전호의 기원식물 학명\n· Jateorhiza columba → 칼룸바의 기원식물 학명\n· Lithospermum erythrorhizon → 자근의 기원식물 학명\n\n[카드 요약]\n📇 지유 · Sanguisorbae Radix\n기원: 오이풀 Sanguisorba officinalis 또는 장엽지유 S. officinalis var. longifolia의 뿌리\n과: 장미과 Rosaceae\n성분:\n· tannin(ellagitannin·gallotannin) — sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid, catechin\n· triterpenoid — ziyuglycoside I·II, ursolic acid, sanguisoside A\n응용: 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용\n확인시험: ① 물 여액 + FeCl₃ → 어두운 보라색 ② 흔들면 지속성 거품 ③ TLC + 1% FeCl₃ → 청자색 반점\n★ 족보: sanguiin H6 = tannin → 지유"
-    },
-    {
-      "id": 2,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — ( ㉠ )\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료",
-      "choices": [
-        "morindolide, monotropein, asperuloside",
-        "catalpol, aucubin, rehmannioside A~D",
-        "shikonin, acetylshikonin, isobutylshikonin",
-        "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
-        "sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid"
-      ],
-      "answer": "catalpol, aucubin, rehmannioside A~D",
-      "explanation": "정답: catalpol, aucubin, rehmannioside A~D\n\n오답 출처:\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n· harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide → 현삼의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid → 지유의 대표 성분\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 3,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· ( ㉠ ) — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료",
-      "choices": [
-        "coumarin(pyranocoumarin, khellactone형)",
-        "iridoid",
-        "tannin(ellagitannin·gallotannin)",
-        "furan 알데하이드(찔 때 생성)",
-        "alkaloid(protoberberine, 2~3%)"
-      ],
-      "answer": "iridoid",
-      "explanation": "정답: iridoid\n\n오답 출처:\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n· tannin(ellagitannin·gallotannin) → 지유의 성분 계열\n· alkaloid(protoberberine, 2~3%) → 칼룸바의 성분 계열\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 4,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: ( ㉠ )\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료",
-      "choices": [
-        "꼭두서니과 Rubiaceae",
-        "현삼과 Scrophulariaceae",
-        "지치과 Boraginaceae",
-        "방기과 Menispermaceae",
-        "장미과 Rosaceae"
-      ],
-      "answer": "현삼과 Scrophulariaceae",
-      "explanation": "정답: 현삼과 Scrophulariaceae\n\n오답 출처:\n· 지치과 Boraginaceae → 자근의 과명\n· 방기과 Menispermaceae → 칼룸바의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 5,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 지황 · ( ㉠ )\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료",
-      "choices": [
-        "Scrophulariae Radix",
-        "Rehmanniae Radix",
-        "Morindae Radix",
-        "Rehmanniae Radix Preparata",
-        "Calumbae Radix"
-      ],
-      "answer": "Rehmanniae Radix",
-      "explanation": "정답: Rehmanniae Radix\n\n오답 출처:\n· Scrophulariae Radix → 현삼의 라틴 생약명\n· Morindae Radix → 파극천의 라틴 생약명\n· Calumbae Radix → 칼룸바의 라틴 생약명\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 6,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: ( ㉠ )",
-      "choices": [
-        "고미건위·정장지사약 — 소화불량, 설사",
-        "보혈·강장·해열·지갈·완하 처방",
-        "수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용",
-        "소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품",
-        "(생○○) 청열·양혈. 건○○·숙○○의 원료"
-      ],
-      "answer": "(생○○) 청열·양혈. 건○○·숙○○의 원료",
-      "explanation": "정답: (생○○) 청열·양혈. 건○○·숙○○의 원료\n\n오답 출처:\n· 소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품 → 자근의 응용(효능·적응증)\n· 고미건위·정장지사약 — 소화불량, 설사 → 칼룸바의 응용(효능·적응증)\n· 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용 → 지유의 응용(효능·적응증)\n· 보혈·강장·해열·지갈·완하 처방 → 숙지황의 응용(효능·적응증)\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 7,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 지황 · (라틴명 숨김)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료",
-      "choices": [
-        "Morinda officinalis",
-        "Lithospermum erythrorhizon",
-        "Rehmannia glutinosa",
-        "Peucedanum praeruptorum",
-        "Sanguisorba officinalis"
-      ],
-      "answer": "Rehmannia glutinosa",
-      "explanation": "정답: Rehmannia glutinosa\n\n오답 출처:\n· Peucedanum praeruptorum → 전호의 기원식물 학명\n· Lithospermum erythrorhizon → 자근의 기원식물 학명\n· Sanguisorba officinalis → 지유의 기원식물 학명\n· Morinda officinalis → 파극천의 기원식물 학명\n\n[카드 요약]\n📇 지황 · Rehmanniae Radix\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것)\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — catalpol, aucubin, rehmannioside A~D, leonuride, melittoside\n· 당류 — stachyose(생지황에 가장 많음), raffinose, sucrose, manninotriose\n· caffeoyl glycoside — acteoside\n· 기타 — mannitol, norcarotenoid\n응용: (생지황) 청열·양혈. 건지황·숙지황의 원료\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
-    },
-    {
-      "id": 8,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): ( ㉠ )\n응용: 보혈·강장·해열·지갈·완하 처방\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
-      "choices": [
-        "puerarin 2.0% 이상, daidzin 0.3% 이상",
-        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
-        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상",
-        "albiflorin + paeoniflorin 2.3% 이상",
-        "총 alkaloid(emetine + cephaeline) 2.0% 이상"
-      ],
-      "answer": "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상",
-      "explanation": "정답: 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n\n오답 출처:\n· albiflorin + paeoniflorin 2.3% 이상 → 작약의 약전 지표성분·함량\n· 총 alkaloid(emetine + cephaeline) 2.0% 이상 → 토근의 약전 지표성분·함량\n· 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상 → 하수오의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
-    },
-    {
-      "id": 9,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n성분:\n· furan 알데하이드(찔 때 생성) — ( ㉠ )\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
-      "choices": [
-        "catalpol, aucubin, rehmannioside A~D",
-        "allicin 계열(대산과 같은 황화합물 계열)",
-        "morindolide, monotropein, asperuloside",
-        "shikonin, acetylshikonin, isobutylshikonin",
-        "5-hydroxymethyl-2-furaldehyde(5-HMF)"
-      ],
-      "answer": "5-hydroxymethyl-2-furaldehyde(5-HMF)",
-      "explanation": "정답: 5-hydroxymethyl-2-furaldehyde(5-HMF)\n\n오답 출처:\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· allicin 계열(대산과 같은 황화합물 계열) → 총백의 대표 성분\n· catalpol, aucubin, rehmannioside A~D → 지황의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
-    },
-    {
-      "id": 10,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· ( ㉠ ) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
-      "choices": [
-        "황함유 화합물",
-        "아미노산·단백질",
-        "furan 알데하이드(찔 때 생성)",
-        "stilbene glycoside",
-        "naphthoquinone 색소"
-      ],
-      "answer": "furan 알데하이드(찔 때 생성)",
-      "explanation": "정답: furan 알데하이드(찔 때 생성)\n\n오답 출처:\n· naphthoquinone 색소 → 자근의 성분 계열\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· stilbene glycoside → 하수오의 성분 계열\n· 아미노산·단백질 → 노근의 성분 계열\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
-    },
-    {
-      "id": 11,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: ( ㉠ )\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
-      "choices": [
-        "꼭두서니과 Rubiaceae",
-        "벼과 Gramineae",
-        "마디풀과 Polygonaceae",
-        "현삼과 Scrophulariaceae",
-        "미나리아재비과 Ranunculaceae"
-      ],
-      "answer": "현삼과 Scrophulariaceae",
-      "explanation": "정답: 현삼과 Scrophulariaceae\n\n오답 출처:\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n· 벼과 Gramineae → 노근의 과명\n· 마디풀과 Polygonaceae → 하수오의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
-    },
-    {
-      "id": 12,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 숙지황 · ( ㉠ )\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
-      "choices": [
-        "Rehmanniae Radix Preparata",
-        "Rehmanniae Radix",
-        "Polygoni Multiflori Radix",
-        "Morindae Radix",
-        "Scrophulariae Radix"
-      ],
-      "answer": "Rehmanniae Radix Preparata",
-      "explanation": "정답: Rehmanniae Radix Preparata\n\n오답 출처:\n· Morindae Radix → 파극천의 라틴 생약명\n· Scrophulariae Radix → 현삼의 라틴 생약명\n· Polygoni Multiflori Radix → 하수오의 라틴 생약명\n· Rehmanniae Radix → 지황의 라틴 생약명\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
-    },
-    {
-      "id": 13,
       "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: ( ㉠ )\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n주의: 비허로 식사량이 적거나 복부 팽만·변이 묽은 사람 금기",
       "choices": [
         "(생○○) 청열·양혈. 건○○·숙○○의 원료",
@@ -170,10 +14,10 @@
         "소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품"
       ],
       "answer": "보혈·강장·해열·지갈·완하 처방",
-      "explanation": "정답: 보혈·강장·해열·지갈·완하 처방\n\n오답 출처:\n· 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증 → 파극천의 응용(효능·적응증)\n· (생○○) 청열·양혈. 건○○·숙○○의 원료 → 지황의 응용(효능·적응증)\n· 소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품 → 자근의 응용(효능·적응증)\n· 청열해독 — 복부수종, 손발·얼굴 부종 → 현삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+      "explanation": "정답: 보혈·강장·해열·지갈·완하 처방\n\n오답 출처:\n· 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증 → 파극천의 응용(효능·적응증)\n· (생○○) 청열·양혈. 건○○·숙○○의 원료 → 지황의 응용(효능·적응증)\n· 소염·해열·해독약 — 종양, 습진, 화상. 조직배양으로 shikonin 생산 → 화장품 → 자근의 응용(효능·적응증)\n· 청열해독 — 복부수종, 손발·얼굴 부종 → 현삼의 응용(효능·적응증)\n\n[카드 요약]\n📇 숙지황 · Rehmanniae Radix Preparata\n기원: 지황 Rehmannia glutinosa의 뿌리를 술 등과 함께 쪄서 말리기를 반복한 것(포제가공)\n과: 현삼과 Scrophulariaceae\n지표(약전): 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상\n성분:\n· furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n· iridoid(생지황보다 적음) — catalpol\n· 당류 — manninotriose(많음), stachyose(적음)\n응용: 보혈·강장·해열·지갈·완하 처방\n확인시험: 물 여액 + Fehling 시액 가열 → 적자~적갈색 침전(환원당)\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
     },
     {
-      "id": 14,
+      "id": 2,
       "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — ( ㉠ )\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
       "choices": [
         "shikonin, acetylshikonin, isobutylshikonin",
@@ -183,23 +27,10 @@
         "morindolide, monotropein, asperuloside"
       ],
       "answer": "alizarin, purpurin, pseudopurpurin",
-      "explanation": "정답: alizarin, purpurin, pseudopurpurin\n\n오답 출처:\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n· sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid → 지유의 대표 성분\n· formononetin, calycosin, astraisoflavan → 황기의 대표 성분\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
+      "explanation": "정답: alizarin, purpurin, pseudopurpurin\n\n오답 출처:\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n· sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid → 지유의 대표 성분\n· formononetin, calycosin, astraisoflavan → 황기의 대표 성분\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
     },
     {
-      "id": 15,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· ( ㉠ ) — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-      "choices": [
-        "isoquinoline alkaloid(2~3%)",
-        "iridoid",
-        "anthraquinone",
-        "naphthoquinone 색소",
-        "stilbene glycoside"
-      ],
-      "answer": "anthraquinone",
-      "explanation": "정답: anthraquinone\n\n오답 출처:\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· isoquinoline alkaloid(2~3%) → 토근의 성분 계열\n· stilbene glycoside → 하수오의 성분 계열\n· naphthoquinone 색소 → 자근의 성분 계열\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
-    },
-    {
-      "id": 16,
+      "id": 3,
       "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: ( ㉠ )\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
       "choices": [
         "지치과 Boraginaceae",
@@ -209,49 +40,10 @@
         "마디풀과 Polygonaceae"
       ],
       "answer": "꼭두서니과 Rubiaceae",
-      "explanation": "정답: 꼭두서니과 Rubiaceae\n\n오답 출처:\n· 운향과 Rutaceae → 이 범위 밖의 오답\n· 산형과(미나리과) Umbelliferae → 전호의 과명\n· 지치과 Boraginaceae → 자근의 과명\n· 마디풀과 Polygonaceae → 하수오의 과명\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
+      "explanation": "정답: 꼭두서니과 Rubiaceae\n\n오답 출처:\n· 운향과 Rutaceae → 이 범위 밖의 오답\n· 산형과(미나리과) Umbelliferae → 전호의 과명\n· 지치과 Boraginaceae → 자근의 과명\n· 마디풀과 Polygonaceae → 하수오의 과명\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
     },
     {
-      "id": 17,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 천초근 · ( ㉠ )\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-      "choices": [
-        "Sanguisorbae Radix",
-        "Astragali Radix",
-        "Rubiae Radix",
-        "Lithospermi Radix",
-        "Ipecacuanhae Radix et Rhizoma"
-      ],
-      "answer": "Rubiae Radix",
-      "explanation": "정답: Rubiae Radix\n\n오답 출처:\n· Lithospermi Radix → 자근의 라틴 생약명\n· Sanguisorbae Radix → 지유의 라틴 생약명\n· Astragali Radix → 황기의 라틴 생약명\n· Ipecacuanhae Radix et Rhizoma → 토근의 라틴 생약명\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
-    },
-    {
-      "id": 18,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: ( ㉠ )",
-      "choices": [
-        "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-        "보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
-        "강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
-        "수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용",
-        "거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·○○산(Dover's powder) 원료"
-      ],
-      "answer": "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-      "explanation": "정답: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n\n오답 출처:\n· 수렴·지혈약 — 대변출혈, 월경과다, 하혈, 객혈, 치질, 외상출혈, 화상, 습진. 지혈에는 초탄(炒炭)하여 사용 → 지유의 응용(효능·적응증)\n· 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염 → 황기의 응용(효능·적응증)\n· 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증 → 파극천의 응용(효능·적응증)\n· 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·○○산(Dover's powder) 원료 → 토근의 응용(효능·적응증)\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
-    },
-    {
-      "id": 19,
-      "question": "다음 카드의 ( ㉠ )에 들어갈 기원식물 학명은?\n\n📇 천초근 · (라틴명 숨김)\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
-      "choices": [
-        "Polygonum multiflorum",
-        "Cephaelis ipecacuanha",
-        "Rubia akane",
-        "Sanguisorba officinalis",
-        "Morinda officinalis"
-      ],
-      "answer": "Rubia akane",
-      "explanation": "정답: Rubia akane\n\n오답 출처:\n· Sanguisorba officinalis → 지유의 기원식물 학명\n· Polygonum multiflorum → 하수오의 기원식물 학명\n· Cephaelis ipecacuanha → 토근의 기원식물 학명\n· Morinda officinalis → 파극천의 기원식물 학명\n\n[카드 요약]\n📇 천초근 · Rubiae Radix\n기원: 꼭두서니 Rubia akane 또는 동속 근연식물(R. cordifolia var. mungista)의 뿌리\n과: 꼭두서니과 Rubiaceae\n성분:\n· anthraquinone — alizarin, purpurin, pseudopurpurin, munjistin, rubiadin\n· naphthoquinone·naphthohydroquinone — mollugin, furomollugin, dehydro-α-lapachol\n· cyclic hexapeptide — RA-I~V, VII, RA-700\n· triterpene — rubifolic acid\n응용: 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료\n★ 족보: 천초근 과명 = 꼭두서니과 Rubiaceae"
-    },
-    {
-      "id": 20,
+      "id": 4,
       "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· alkaloid(protoberberine, 2~3%) — ( ㉠ )\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사",
       "choices": [
         "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
@@ -261,10 +53,10 @@
         "sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid"
       ],
       "answer": "palmatine, jateorrhizine, columbamine",
-      "explanation": "정답: palmatine, jateorrhizine, columbamine\n\n오답 출처:\n· sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid → 지유의 대표 성분\n· 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone → 건강의 대표 성분\n· alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide → 대산의 대표 성분\n· emetine, cephaeline, emetamine → 토근의 대표 성분\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "explanation": "정답: palmatine, jateorrhizine, columbamine\n\n오답 출처:\n· sanguiin H-1~H-11(sanguiin H-6 = dimeric ellagitannin), pedunculagin, gallic acid → 지유의 대표 성분\n· 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone → 건강의 대표 성분\n· alliin → (alliinase, 세포 파괴 시) → allicin(자극성 냄새) → diallyl disulfide → 대산의 대표 성분\n· emetine, cephaeline, emetamine → 토근의 대표 성분\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
     },
     {
-      "id": 21,
+      "id": 5,
       "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· ( ㉠ ) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
       "choices": [
         "alkaloid(protoberberine, 2~3%)",
@@ -274,10 +66,10 @@
         "황함유 화합물"
       ],
       "answer": "alkaloid(protoberberine, 2~3%)",
-      "explanation": "정답: alkaloid(protoberberine, 2~3%)\n\n오답 출처:\n· 신미 성분(0.8%) → 건강의 성분 계열\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· 신미 성분 → 생강의 성분 계열\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "explanation": "정답: alkaloid(protoberberine, 2~3%)\n\n오답 출처:\n· 신미 성분(0.8%) → 건강의 성분 계열\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· 신미 성분 → 생강의 성분 계열\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
     },
     {
-      "id": 22,
+      "id": 6,
       "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: ( ㉠ )\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
       "choices": [
         "현삼과 Scrophulariaceae",
@@ -287,10 +79,10 @@
         "미나리아재비과 Ranunculaceae"
       ],
       "answer": "방기과 Menispermaceae",
-      "explanation": "정답: 방기과 Menispermaceae\n\n오답 출처:\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 백합과 Liliaceae → 대산, 총백의 과명\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "explanation": "정답: 방기과 Menispermaceae\n\n오답 출처:\n· 현삼과 Scrophulariaceae → 지황, 숙지황, 현삼의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 백합과 Liliaceae → 대산, 총백의 과명\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
     },
     {
-      "id": 23,
+      "id": 7,
       "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 칼룸바 · ( ㉠ )\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n산지: 동아프리카 모잠비크, 마다가스카르\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색",
       "choices": [
         "Ipecacuanhae Radix et Rhizoma",
@@ -300,7 +92,267 @@
         "Allii Bulbus"
       ],
       "answer": "Calumbae Radix",
-      "explanation": "정답: Calumbae Radix\n\n오답 출처:\n· Ipecacuanhae Radix et Rhizoma → 토근의 라틴 생약명\n· Sanguisorbae Radix → 지유의 라틴 생약명\n· Scrophulariae Radix → 현삼의 라틴 생약명\n· Allii Bulbus → 대산의 라틴 생약명\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+      "explanation": "정답: Calumbae Radix\n\n오답 출처:\n· Ipecacuanhae Radix et Rhizoma → 토근의 라틴 생약명\n· Sanguisorbae Radix → 지유의 라틴 생약명\n· Scrophulariae Radix → 현삼의 라틴 생약명\n· Allii Bulbus → 대산의 라틴 생약명\n\n[카드 요약]\n📇 칼룸바 · Calumbae Radix\n기원: 칼룸바나무 Jateorhiza columba의 뿌리를 가로로 자른 것\n과: 방기과 Menispermaceae\n성분:\n· alkaloid(protoberberine, 2~3%) — palmatine, jateorrhizine, columbamine\n· furanoditerpene — columbin, isocolumbin, jateorin\n응용: 고미건위·정장지사약 — 소화불량, 설사\n확인시험: 물 여액 + H₂SO₄ + 염소 시액 → 접계면 담적색~적색\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+    },
+    {
+      "id": 8,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): ( ㉠ )\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료",
+      "choices": [
+        "baicalin + baicalein + wogonin 합 10.0% 이상",
+        "총 alkaloid(emetine + cephaeline) 2.0% 이상",
+        "6-gingerol 0.4% 이상",
+        "albiflorin + paeoniflorin 2.3% 이상",
+        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상"
+      ],
+      "answer": "총 alkaloid(emetine + cephaeline) 2.0% 이상",
+      "explanation": "정답: 총 alkaloid(emetine + cephaeline) 2.0% 이상\n\n오답 출처:\n· baicalin + baicalein + wogonin 합 10.0% 이상 → 황금의 약전 지표성분·함량\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n· albiflorin + paeoniflorin 2.3% 이상 → 작약의 약전 지표성분·함량\n· 6-gingerol 0.4% 이상 → 건강의 약전 지표성분·함량\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 9,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n성분:\n· isoquinoline alkaloid(2~3%) — ( ㉠ )\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료",
+      "choices": [
+        "emetine, cephaeline, emetamine",
+        "morindolide, monotropein, asperuloside",
+        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)",
+        "6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone",
+        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside"
+      ],
+      "answer": "emetine, cephaeline, emetamine",
+      "explanation": "정답: emetine, cephaeline, emetamine\n\n오답 출처:\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside → 하수오의 대표 성분\n· 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone → 건강의 대표 성분\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 10,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· ( ㉠ ) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "choices": [
+        "iridoid",
+        "coumarin(pyranocoumarin, khellactone형)",
+        "신미 성분(0.8%)",
+        "stilbene glycoside",
+        "isoquinoline alkaloid(2~3%)"
+      ],
+      "answer": "isoquinoline alkaloid(2~3%)",
+      "explanation": "정답: isoquinoline alkaloid(2~3%)\n\n오답 출처:\n· stilbene glycoside → 하수오의 성분 계열\n· 신미 성분(0.8%) → 건강의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 11,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: ( ㉠ )\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "choices": [
+        "생강과 Zingiberaceae",
+        "산형과(미나리과) Umbelliferae",
+        "방기과 Menispermaceae",
+        "꼭두서니과 Rubiaceae",
+        "운향과 Rutaceae"
+      ],
+      "answer": "꼭두서니과 Rubiaceae",
+      "explanation": "정답: 꼭두서니과 Rubiaceae\n\n오답 출처:\n· 산형과(미나리과) Umbelliferae → 전호의 과명\n· 방기과 Menispermaceae → 칼룸바의 과명\n· 운향과 Rutaceae → 이 범위 밖의 오답\n· 생강과 Zingiberaceae → 건강, 생강의 과명\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 12,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 토근 · ( ㉠ )\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: 브라질(Matto Grosso 주, Rio 토근)\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "choices": [
+        "Morindae Radix",
+        "Zingiberis Rhizoma",
+        "Ipecacuanhae Radix et Rhizoma",
+        "Rubiae Radix",
+        "Peucedani Radix"
+      ],
+      "answer": "Ipecacuanhae Radix et Rhizoma",
+      "explanation": "정답: Ipecacuanhae Radix et Rhizoma\n\n오답 출처:\n· Zingiberis Rhizoma → 건강의 라틴 생약명\n· Morindae Radix → 파극천의 라틴 생약명\n· Rubiae Radix → 천초근의 라틴 생약명\n· Peucedani Radix → 전호의 라틴 생약명\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 13,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 산지는?\n\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n산지: ( ㉠ )\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)",
+      "choices": [
+        "일본",
+        "브라질",
+        "인도",
+        "중국, 인도",
+        "브라질(Matto Grosso 주, Rio 토근)"
+      ],
+      "answer": "브라질(Matto Grosso 주, Rio 토근)",
+      "explanation": "정답: 브라질(Matto Grosso 주, Rio 토근)\n\n오답 출처:\n· 브라질 → 이 범위 밖의 오답\n· 일본 → 이 범위 밖의 오답\n· 중국, 인도 → 이 범위 밖의 오답\n· 인도 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 토근 · Ipecacuanhae Radix et Rhizoma\n기원: 리오토근 Cephaelis ipecacuanha 또는 카르타게나토근 C. acuminata의 뿌리 및 뿌리줄기\n과: 꼭두서니과 Rubiaceae\n지표(약전): 총 alkaloid(emetine + cephaeline) 2.0% 이상\n성분:\n· isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n· monoterpenoid-isoquinoline glycoside — ipecoside, alangiside\n응용: 거담제, 최토제, 아메바성 이질 치료제, emetine 원료, 아편·토근산(Dover's powder) 원료\n확인시험: HCl 여액 증발 + 표백분 → 주변 적색(Snelling 반응)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 14,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n산지: 중국 광동·광서·사천·복건\n성분:\n· iridoid — ( ㉠ )\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+      "choices": [
+        "alizarin, purpurin, pseudopurpurin",
+        "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
+        "morindolide, monotropein, asperuloside",
+        "catalpol, aucubin, rehmannioside A~D",
+        "emetine, cephaeline, emetamine"
+      ],
+      "answer": "morindolide, monotropein, asperuloside",
+      "explanation": "정답: morindolide, monotropein, asperuloside\n\n오답 출처:\n· catalpol, aucubin, rehmannioside A~D → 지황의 대표 성분\n· alizarin, purpurin, pseudopurpurin → 천초근의 대표 성분\n· emetine, cephaeline, emetamine → 토근의 대표 성분\n· harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide → 현삼의 대표 성분\n\n[카드 요약]\n📇 파극천 · Morindae Radix\n기원: 파극천 Morinda officinalis의 뿌리(수염뿌리 제거, 납작하게 눌러 말림)\n과: 꼭두서니과 Rubiaceae\n성분:\n· iridoid — morindolide, monotropein, asperuloside\n· anthraquinone — tectoquinone, alizarin 1-methyl ether\n· oligosaccharide — nystose, MW-97, inulin형 hexasaccharide\n응용: 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 15,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): ( ㉠ )\n응용: 사하·보혈·강정·강장약",
+      "choices": [
+        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
+        "baicalin + baicalein + wogonin 합 10.0% 이상",
+        "6-gingerol 0.4% 이상",
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상"
+      ],
+      "answer": "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상",
+      "explanation": "정답: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n\n오답 출처:\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n· 6-gingerol 0.4% 이상 → 건강의 약전 지표성분·함량\n· baicalin + baicalein + wogonin 합 10.0% 이상 → 황금의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 16,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n성분:\n· stilbene glycoside — ( ㉠ )\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약",
+      "choices": [
+        "baicalin, baicalein, wogonin",
+        "morindolide, monotropein, asperuloside",
+        "alizarin, purpurin, pseudopurpurin",
+        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
+        "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside"
+      ],
+      "answer": "2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside",
+      "explanation": "정답: 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n\n오답 출처:\n· alizarin, purpurin, pseudopurpurin → 천초근의 대표 성분\n· baicalin, baicalein, wogonin → 황금의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 17,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· ( ㉠ ) — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "choices": [
+        "anthraquinone",
+        "iridoid",
+        "황함유 화합물",
+        "isoflavonoid",
+        "stilbene glycoside"
+      ],
+      "answer": "stilbene glycoside",
+      "explanation": "정답: stilbene glycoside\n\n오답 출처:\n· 황함유 화합물 → 대산, 총백의 성분 계열\n· iridoid → 지황, 파극천, 현삼의 성분 계열\n· isoflavonoid → 황기의 성분 계열\n· anthraquinone → 천초근의 성분 계열\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 18,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: ( ㉠ )\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "choices": [
+        "원지과 Polygalaceae",
+        "꿀풀과 Labiatae",
+        "백합과 Liliaceae",
+        "마디풀과 Polygonaceae",
+        "꼭두서니과 Rubiaceae"
+      ],
+      "answer": "마디풀과 Polygonaceae",
+      "explanation": "정답: 마디풀과 Polygonaceae\n\n오답 출처:\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n· 백합과 Liliaceae → 대산, 총백의 과명\n· 원지과 Polygalaceae → 이 범위 밖의 오답\n· 꿀풀과 Labiatae → 황금의 과명\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 19,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 하수오 · ( ㉠ )\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "choices": [
+        "Allii Fistulosi Bulbus",
+        "Rehmanniae Radix Preparata",
+        "Astragali Radix",
+        "Polygoni Multiflori Radix",
+        "Rubiae Radix"
+      ],
+      "answer": "Polygoni Multiflori Radix",
+      "explanation": "정답: Polygoni Multiflori Radix\n\n오답 출처:\n· Rubiae Radix → 천초근의 라틴 생약명\n· Astragali Radix → 황기의 라틴 생약명\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Allii Fistulosi Bulbus → 총백의 라틴 생약명\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 20,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n산지: 중국\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: ( ㉠ )\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside",
+      "choices": [
+        "양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료",
+        "발한·해열 — 감기 초기",
+        "강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염",
+        "소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
+        "사하·보혈·강정·강장약"
+      ],
+      "answer": "사하·보혈·강정·강장약",
+      "explanation": "정답: 사하·보혈·강정·강장약\n\n오답 출처:\n· 강장·강심·이뇨·지한약 — 허약체질, 영양불량, 땀 기능 부전(도한·자한), 급만성 신염 → 황기의 응용(효능·적응증)\n· 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염 → 황금의 응용(효능·적응증)\n· 양혈·정혈·지혈·통경약 — 토혈, 변혈, 뇨혈, 월경불순, 관절비통. 염료 → 천초근의 응용(효능·적응증)\n· 발한·해열 — 감기 초기 → 총백의 응용(효능·적응증)\n\n[카드 요약]\n📇 하수오 · Polygoni Multiflori Radix\n기원: 하수오 Polygonum multiflorum의 덩이뿌리\n과: 마디풀과 Polygonaceae\n지표(약전): 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상\n성분:\n· stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n· anthraquinone — chrysophanol, emodin, rhein, physcion\n· phthalide — 6,7-dihydroxyligustilide\n· 기타 — lecithin(3.7%)\n응용: 사하·보혈·강정·강장약\n확인시험: ① 가루 + NH₄OH → 진한 붉은색(anthraquinone, Bornträger 반응) ② 물 여액 + FeCl₃ → 보라~파란색 ③ TLC: stilbene glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 21,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 대표 성분은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — ( ㉠ )\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종",
+      "choices": [
+        "5-hydroxymethyl-2-furaldehyde(5-HMF)",
+        "praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물)",
+        "morindolide, monotropein, asperuloside",
+        "shikonin, acetylshikonin, isobutylshikonin",
+        "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide"
+      ],
+      "answer": "harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
+      "explanation": "정답: harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n\n오답 출처:\n· praeruptorin A·B·C·E, qianhucoumarin D (백화전호) / decursin, nodakenin (바디나물) → 전호의 대표 성분\n· shikonin, acetylshikonin, isobutylshikonin → 자근의 대표 성분\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) → 숙지황의 대표 성분\n· morindolide, monotropein, asperuloside → 파극천의 대표 성분\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 22,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 성분 계열은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· ( ㉠ ) — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "choices": [
+        "furan 알데하이드(찔 때 생성)",
+        "naphthoquinone 색소",
+        "alkaloid(protoberberine, 2~3%)",
+        "coumarin(pyranocoumarin, khellactone형)",
+        "iridoid"
+      ],
+      "answer": "iridoid",
+      "explanation": "정답: iridoid\n\n오답 출처:\n· naphthoquinone 색소 → 자근의 성분 계열\n· furan 알데하이드(찔 때 생성) → 숙지황의 성분 계열\n· coumarin(pyranocoumarin, khellactone형) → 전호의 성분 계열\n· alkaloid(protoberberine, 2~3%) → 칼룸바의 성분 계열\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 23,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 과명은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: ( ㉠ )\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "choices": [
+        "장미과 Rosaceae",
+        "지치과 Boraginaceae",
+        "현삼과 Scrophulariaceae",
+        "미나리아재비과 Ranunculaceae",
+        "꼭두서니과 Rubiaceae"
+      ],
+      "answer": "현삼과 Scrophulariaceae",
+      "explanation": "정답: 현삼과 Scrophulariaceae\n\n오답 출처:\n· 미나리아재비과 Ranunculaceae → 이 범위 밖의 오답\n· 지치과 Boraginaceae → 자근의 과명\n· 장미과 Rosaceae → 지유의 과명\n· 꼭두서니과 Rubiaceae → 천초근, 토근, 파극천의 과명\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 24,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 라틴 생약명은?\n\n📇 현삼 · ( ㉠ )\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "choices": [
+        "Calumbae Radix",
+        "Peucedani Radix",
+        "Scrophulariae Radix",
+        "Morindae Radix",
+        "Rehmanniae Radix Preparata"
+      ],
+      "answer": "Scrophulariae Radix",
+      "explanation": "정답: Scrophulariae Radix\n\n오답 출처:\n· Peucedani Radix → 전호의 라틴 생약명\n· Morindae Radix → 파극천의 라틴 생약명\n· Rehmanniae Radix Preparata → 숙지황의 라틴 생약명\n· Calumbae Radix → 칼룸바의 라틴 생약명\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 25,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 응용(효능·적응증)은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: ( ㉠ )\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside",
+      "choices": [
+        "(생○○) 청열·양혈. 건○○·숙○○의 원료",
+        "고미건위·정장지사약 — 소화불량, 설사",
+        "보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증",
+        "보혈·강장·해열·지갈·완하 처방",
+        "청열해독 — 복부수종, 손발·얼굴 부종"
+      ],
+      "answer": "청열해독 — 복부수종, 손발·얼굴 부종",
+      "explanation": "정답: 청열해독 — 복부수종, 손발·얼굴 부종\n\n오답 출처:\n· 보신·강장약 — 임포텐스, 부인 한랭 불임증, 류머티스, 각기 통증 → 파극천의 응용(효능·적응증)\n· 고미건위·정장지사약 — 소화불량, 설사 → 칼룸바의 응용(효능·적응증)\n· 보혈·강장·해열·지갈·완하 처방 → 숙지황의 응용(효능·적응증)\n· (생○○) 청열·양혈. 건○○·숙○○의 원료 → 지황의 응용(효능·적응증)\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 26,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 확인시험은?\n\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ( ㉠ )",
+      "choices": [
+        "염산을 넣으면 보라색",
+        "Vitali 반응(발연 질산 + KOH → 자색)",
+        "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+        "Mayer 시액 → 백색 침전",
+        "자외선을 쪼이면 강한 형광"
+      ],
+      "answer": "Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)",
+      "explanation": "정답: Liebermann-Burchard 반응(접계면 적색 + 위층 녹색 계열)\n\n오답 출처:\n· Mayer 시액 → 백색 침전 → 이 범위 밖의 오답\n· 염산을 넣으면 보라색 → 지유의 확인시험\n· 자외선을 쪼이면 강한 형광 → 전호의 확인시험\n· Vitali 반응(발연 질산 + KOH → 자색) → 이 범위 밖의 오답\n\n[카드 요약]\n📇 현삼 · Scrophulariae Radix\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리\n과: 현삼과 Scrophulariaceae\n성분:\n· iridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide\n· phenylpropanoid — p-methoxycinnamic acid, buergeriside A₁·B₁·C₁\n응용: 청열해독 — 복부수종, 손발·얼굴 부종\n확인시험: ① Fehling 시액 → 붉은 침전 ② Liebermann-Burchard → 접계면 적갈색 ③ TLC: E-harpagoside\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 27,
+      "question": "다음 카드의 ( ㉠ )에 들어갈 약전 지표성분·함량은?\n\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n산지: 한국, 중국, 일본\n지표(약전): ( ㉠ )\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염",
+      "choices": [
+        "puerarin 2.0% 이상, daidzin 0.3% 이상",
+        "baicalin + baicalein + wogonin 합 10.0% 이상",
+        "총 alkaloid(emetine + cephaeline) 2.0% 이상",
+        "5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상",
+        "albiflorin + paeoniflorin 2.3% 이상"
+      ],
+      "answer": "baicalin + baicalein + wogonin 합 10.0% 이상",
+      "explanation": "정답: baicalin + baicalein + wogonin 합 10.0% 이상\n\n오답 출처:\n· albiflorin + paeoniflorin 2.3% 이상 → 작약의 약전 지표성분·함량\n· 총 alkaloid(emetine + cephaeline) 2.0% 이상 → 토근의 약전 지표성분·함량\n· puerarin 2.0% 이상, daidzin 0.3% 이상 → 이 범위 밖의 오답\n· 5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상 → 숙지황의 약전 지표성분·함량\n\n[카드 요약]\n📇 황금 · Scutellariae Radix\n기원: 속썩은풀 Scutellaria baicalensis의 뿌리(그대로 또는 주피 제거)\n과: 꿀풀과 Labiatae\n지표(약전): baicalin + baicalein + wogonin 합 10.0% 이상\n성분:\n· flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n· diterpenoid — scutebaicalin\n응용: 소염·해열약 — 염증·출혈·발열성 질병, 습열성 황달, 두통, 결막염, 태동불안, 호흡기 감염, 위염, 장염\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
     }
   ]
 }

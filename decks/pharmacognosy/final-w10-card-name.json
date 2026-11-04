@@ -1,5 +1,5 @@
 {
-  "deckId": "pharmacognosy-final-w10-card-name",
+  "deckId": "pharmacognosy-final-w10-card-name-g",
   "subject": "생약학",
   "title": "10주 카드 ① 이름 가린 카드 (백지~홍삼)",
   "questions": [
@@ -14,7 +14,7 @@
         "세신"
       ],
       "answer": "백지",
-      "explanation": "정답: 백지 (Angelicae Dahuricae Radix, 白芷)\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
+      "explanation": "정답: 백지 (Angelicae Dahuricae Radix, 白芷)\n기원: 구릿대 Angelica dahurica 또는 항백지 A. dahurica var. formosana의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: oxypeucedanin·imperatorin 0.7% → 백지 / 구릿대 = 백지 / furanocoumarin → 광감작(백반증)"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "천오"
       ],
       "answer": "부자",
-      "explanation": "정답: 부자 (Aconiti Lateralis Radix Preparata, 附子)\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
+      "explanation": "정답: 부자 (Aconiti Lateralis Radix Preparata, 附子)\n기원: 오두 Aconitum carmichaeli의 자근(子根, 곁뿌리)을 법제한 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 진통 순서 mesaconitine > aconitine > hypaconitine / 강심 성분 higenamine / 법제 → aconine(저독성) / 법제 필수: 부자·천오·초오 / 임부 금기 → 부자"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "부자"
       ],
       "answer": "천오",
-      "explanation": "정답: 천오 (Aconiti Tuber, 川烏)\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
+      "explanation": "정답: 천오 (Aconiti Tuber, 川烏)\n기원: 오두 Aconitum carmichaeli의 모근(母根, 원뿌리)의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 부자 = 자근, 천오 = 모근 / 오두는 감초·검은콩으로 법제"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
         "천오"
       ],
       "answer": "초오",
-      "explanation": "정답: 초오 (Aconiti Ciliare Tuber, 草烏)\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone"
+      "explanation": "정답: 초오 (Aconiti Ciliare Tuber, 草烏)\n기원: 이삭바꽃 Aconitum kusnezoffii, 놋젓가락나물 A. ciliare, 세잎돌쩌귀 A. triphyllum의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 위령선 — 미나리아재비과\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
         "세신"
       ],
       "answer": "삼칠",
-      "explanation": "정답: 삼칠 (Notoginseng Radix et Rhizoma, 三七)\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 위령선 — 미나리아재비과\n★ 족보: 삼칠 → 지혈"
+      "explanation": "정답: 삼칠 (Notoginseng Radix et Rhizoma, 三七)\n기원: 삼칠 Panax notoginseng의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 위령선 — 미나리아재비과\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 삼칠 → 지혈"
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
         "은시호"
       ],
       "answer": "세네가",
-      "explanation": "정답: 세네가 (Senegae Radix)\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
+      "explanation": "정답: 세네가 (Senegae Radix)\n기원: 세네가 Polygala senega 또는 넓은잎 세네가 P. senega var. latifolia의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 세네가 317 nm 흡수 / 3대 거담 생약(세네가·원지·길경) / 산지: 북미"
     },
     {
       "id": 7,
@@ -92,7 +92,7 @@
         "진교"
       ],
       "answer": "세신",
-      "explanation": "정답: 세신 (Asari Radix et Rhizoma, 細辛)\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
+      "explanation": "정답: 세신 (Asari Radix et Rhizoma, 細辛)\n기원: 민족도리풀 Asarum heterotropoides var. mandshuricum 또는 서울족도리풀 A. sieboldii var. seoulense의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 세신 지상부 10% 이상 금지 + aristolochic acid(신장독성)"
     },
     {
       "id": 8,
@@ -105,7 +105,7 @@
         "속단"
       ],
       "answer": "속단",
-      "explanation": "정답: 속단 (Dipsaci Radix, 續斷)\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 한속단 — 꿀풀과, phenylethanoid: verbascoside(= acteoside), isoacteoside\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 우슬 — 비름과, ecdysteroid(곤충 탈피호르몬): inokosterone, ecdysterone(20-hydroxyecdysone)\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
+      "explanation": "정답: 속단 (Dipsaci Radix, 續斷)\n기원: 천속단 Dipsacus asperoides의 뿌리 (꿀풀과 Phlomis umbrosa는 한속단 — 속단으로 유통되면 잘못)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 한속단 — 꿀풀과, phenylethanoid: verbascoside(= acteoside), isoacteoside\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 우슬 — 비름과, ecdysteroid(곤충 탈피호르몬): inokosterone, ecdysterone(20-hydroxyecdysone)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 속단 기원 학명 Dipsacus asperoides / 속단 과명 산토끼꽃과 Dipsacaceae"
     },
     {
       "id": 9,
@@ -118,7 +118,7 @@
         "한속단"
       ],
       "answer": "한속단",
-      "explanation": "정답: 한속단 (Phlomidis Radix, 韓續斷)\n기원: 한속단 Phlomis umbrosa의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b"
+      "explanation": "정답: 한속단 (Phlomidis Radix, 韓續斷)\n기원: 한속단 Phlomis umbrosa의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)"
     },
     {
       "id": 10,
@@ -131,7 +131,7 @@
         "은시호"
       ],
       "answer": "시호",
-      "explanation": "정답: 시호 (Bupleuri Radix, 柴胡)\n기원: 시호 Bupleurum falcatum 또는 그 변종의 뿌리 (중국: 북시호 B. chinense, 협엽시호 B. scorzonerifolium)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 백지 — 산형과(미나리과), furanocoumarin: oxypeucedanin, imperatorin\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
+      "explanation": "정답: 시호 (Bupleuri Radix, 柴胡)\n기원: 시호 Bupleurum falcatum 또는 그 변종의 뿌리 (중국: 북시호 B. chinense, 협엽시호 B. scorzonerifolium)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 백지 — 산형과(미나리과), furanocoumarin: oxypeucedanin, imperatorin\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: saikosaponin a 0.3% → 시호 / 시호 약리 = 간세포 보호"
     },
     {
       "id": 11,
@@ -144,7 +144,7 @@
         "천오"
       ],
       "answer": "오약",
-      "explanation": "정답: 오약 (Linderae Radix, 烏藥)\n기원: 오약 Lindera strychnifolia의 뿌리 (중국: L. aggregata)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone"
+      "explanation": "정답: 오약 (Linderae Radix, 烏藥)\n기원: 오약 Lindera strychnifolia의 뿌리 (중국: L. aggregata)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)"
     },
     {
       "id": 12,
@@ -157,7 +157,7 @@
         "용담"
       ],
       "answer": "용담",
-      "explanation": "정답: 용담 (Gentianae Scabrae Radix et Rhizoma, 龍膽)\n기원: 용담 Gentiana scabra, 과남풀 G. triflora, 조엽용담 G. manshurica의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n★ 족보: 용담·겐티아나근 = 고미건위약(secoiridoid)"
+      "explanation": "정답: 용담 (Gentianae Scabrae Radix et Rhizoma, 龍膽)\n기원: 용담 Gentiana scabra, 과남풀 G. triflora, 조엽용담 G. manshurica의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 용담·겐티아나근 = 고미건위약(secoiridoid)"
     },
     {
       "id": 13,
@@ -170,7 +170,7 @@
         "겐티아나근"
       ],
       "answer": "겐티아나근",
-      "explanation": "정답: 겐티아나근 (Gentianae Luteae Radix et Rhizoma)\n기원: 겐티아나 Gentiana lutea의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin"
+      "explanation": "정답: 겐티아나근 (Gentianae Luteae Radix et Rhizoma)\n기원: 겐티아나 Gentiana lutea의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 14,
@@ -183,7 +183,7 @@
         "용담"
       ],
       "answer": "진교",
-      "explanation": "정답: 진교 (Gentianae Macrophyllae Radix, 秦艽)\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b"
+      "explanation": "정답: 진교 (Gentianae Macrophyllae Radix, 秦艽)\n기원: 큰잎용담 Gentiana macrophylla, 마화진교 G. straminea, 조경진교 G. crassicaulis, 소진교 G. dahurica의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 15,
@@ -196,7 +196,7 @@
         "속단"
       ],
       "answer": "우슬",
-      "explanation": "정답: 우슬 (Achyranthis Radix, 牛膝)\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
+      "explanation": "정답: 우슬 (Achyranthis Radix, 牛膝)\n기원: 쇠무릎 Achyranthes japonica 또는 우슬 A. bidentata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 속단 — 산토끼꽃과, iridoid: sweroside, loganin\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 우슬 과명 = 비름과 / 우슬 지표성분 = ecdysterone(ecdysteroid) / 임부 금기 → 우슬"
     },
     {
       "id": 16,
@@ -209,7 +209,7 @@
         "용담"
       ],
       "answer": "울금",
-      "explanation": "정답: 울금 (Curcumae Radix, 鬱金)\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
+      "explanation": "정답: 울금 (Curcumae Radix, 鬱金)\n기원: 온울금 Curcuma wenyujin, 강황 C. longa, 광서아출 C. kwangsiensis, 봉아출 C. phaeocaulis의 덩이뿌리(쪄서 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 용담 — 용담과, secoiridoid glycoside(쓴맛): gentiopicroside(= gentiopicrin, 7~10%)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 강황 지표성분 curcumin = diarylheptanoid / 울금(덩이뿌리) vs 강황(뿌리줄기)"
     },
     {
       "id": 17,
@@ -222,7 +222,7 @@
         "겐티아나근"
       ],
       "answer": "원지",
-      "explanation": "정답: 원지 (Polygalae Radix, 遠志)\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
+      "explanation": "정답: 원지 (Polygalae Radix, 遠志)\n기원: 원지 Polygala tenuifolia의 뿌리 (중국: 난엽원지 P. sibirica)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 은시호 — 석죽과, cyclopeptide: dichotomin A~I, gypsophin\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 3대 거담 생약(세네가·원지·길경)"
     },
     {
       "id": 18,
@@ -235,7 +235,7 @@
         "초오"
       ],
       "answer": "위령선",
-      "explanation": "정답: 위령선 (Clematidis Radix et Rhizoma, 威靈仙)\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
+      "explanation": "정답: 위령선 (Clematidis Radix et Rhizoma, 威靈仙)\n기원: 으아리 Clematis mandshurica, 가는잎사위질빵 C. hexapetala, 위령선 C. chinensis의 뿌리 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 부자 — 미나리아재비과, diterpene alkaloid(약 0.5%): aconitine계(맹독성): aconitine, hypaconitine\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n· 초오 — 미나리아재비과, diterpene alkaloid: aconitine, hypaconitine\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 목구멍에 걸린 물고기 가시 → 위령선"
     },
     {
       "id": 19,
@@ -248,7 +248,7 @@
         "원지"
       ],
       "answer": "은시호",
-      "explanation": "정답: 은시호 (Stellariae seu Gypsophilae Radix, 銀柴胡)\n기원: 대나물 Gypsophila oldhamiana 또는 은시호 Stellaria dichotoma var. lanceolata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside"
+      "explanation": "정답: 은시호 (Stellariae seu Gypsophilae Radix, 銀柴胡)\n기원: 대나물 Gypsophila oldhamiana 또는 은시호 Stellaria dichotoma var. lanceolata의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 세네가 — 원지과, triterpenoid saponin(6~10%): senegin I~IV\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
     },
     {
       "id": 20,
@@ -261,7 +261,7 @@
         "진교"
       ],
       "answer": "인도사목",
-      "explanation": "정답: 인도사목 (Rauwolfiae Radix, 印度蛇木)\n기원: 인도사목 Rauvolfia serpentina의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
+      "explanation": "정답: 인도사목 (Rauwolfiae Radix, 印度蛇木)\n기원: 인도사목 Rauvolfia serpentina의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 진교 — 용담과, secoiridoid glycoside: gentiopicroside, sweroside\n· 세신 — 쥐방울덩굴과, 정유(2~3%): methyleugenol(50%), asarylketone\n· 오약 — 녹나무과, sesquiterpenoid: linderenol, linderene\n· 천오 — 미나리아재비과, diterpene alkaloid(aconitine계): aconitine, hypaconitine\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: reserpine 0.8% → 인도사목 / 산지: 인도"
     },
     {
       "id": 21,
@@ -274,7 +274,7 @@
         "시호"
       ],
       "answer": "인삼",
-      "explanation": "정답: 인삼 (Ginseng Radix, 人蔘)\n기원: 인삼 Panax ginseng의 뿌리(그대로 또는 가는 뿌리와 코르크층 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
+      "explanation": "정답: 인삼 (Ginseng Radix, 人蔘)\n기원: 인삼 Panax ginseng의 뿌리(그대로 또는 가는 뿌리와 코르크층 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 홍삼 — 두릅나무과(오갈피나무과), 홍삼 특유 ginsenoside(찌는 과정에서 생성): ginsenoside Rh₂, 20(R)-Rg₂\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 원지 — 원지과, triterpenoid saponin(4%): onjisaponin A~G, tenuifolin(senegic acid의 prosapogenin)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: ginsenoside Rg₁·Rb₁ → 인삼·홍삼 지표 / 인삼 = dammarane계 saponin"
     },
     {
       "id": 22,
@@ -287,7 +287,7 @@
         "인삼"
       ],
       "answer": "홍삼",
-      "explanation": "정답: 홍삼 (Ginseng Radix Rubra, 紅蔘)\n기원: 인삼 Panax ginseng의 뿌리를 찐 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
+      "explanation": "정답: 홍삼 (Ginseng Radix Rubra, 紅蔘)\n기원: 인삼 Panax ginseng의 뿌리를 찐 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 인삼 — 두릅나무과(오갈피나무과), dammarane계 saponin: protopanaxadiol(PPD): ginsenoside Ra, Rb₁\n· 삼칠 — 두릅나무과, dammarane saponin(약 5%): notoginsenoside R₁, ginsenoside Rb₁\n· 시호 — 산형과(미나리과), triterpenoid saponin(oleanane): saikosaponin a, b\n· 겐티아나근 — 용담과, secoiridoid glycoside(고미배당체): gentiopicrin(약 2%), sweroside\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 홍삼 특유 성분 Rh₂·Rg₃(찔 때 생성) / malonyl-ginsenoside → 수삼·건삼 특유"
     }
   ]
 }

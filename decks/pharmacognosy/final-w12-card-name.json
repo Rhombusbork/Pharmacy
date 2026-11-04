@@ -1,5 +1,5 @@
 {
-  "deckId": "pharmacognosy-final-w12-card-name",
+  "deckId": "pharmacognosy-final-w12-card-name-g",
   "subject": "생약학",
   "title": "12주 카드 ① 이름 가린 카드 (대황~천남성)",
   "questions": [
@@ -14,7 +14,7 @@
         "석창포"
       ],
       "answer": "대황",
-      "explanation": "정답: 대황 (Rhei Radix et Rhizoma, 大黃)\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
+      "explanation": "정답: 대황 (Rhei Radix et Rhizoma, 大黃)\n기원: 장엽대황 Rheum palmatum, 탕구트대황 R. tanguticum, 약용대황 R. officinale의 뿌리 및 뿌리줄기(주피 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 신선한 대황 복통 성분 = (유리형) anthrone / 금문대황 아닌 것 = R. rhaponticum / 대황 라틴명 Rhei Radix et Rhizoma / Bornträger → 대황 / 임부 금기 → 대황"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "백합"
       ],
       "answer": "맥문동",
-      "explanation": "정답: 맥문동 (Liriopis seu Ophiopogonis Tuber, 麥門冬)\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
+      "explanation": "정답: 맥문동 (Liriopis seu Ophiopogonis Tuber, 麥門冬)\n기원: 맥문동 Liriope platyphylla 또는 소엽맥문동 Ophiopogon japonicus 뿌리의 팽대부\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 맥문동 확인시험 = saponin(기포·LB) / 맥문동 라틴명 Liriopis seu Ophiopogonis Tuber"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "지모"
       ],
       "answer": "모근",
-      "explanation": "정답: 모근 (Imperatae Rhizoma, 茅根)\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 승마 — 미나리아재비과, cycloartane계 triterpenoid: cimigenol, cimicifugoside\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin"
+      "explanation": "정답: 모근 (Imperatae Rhizoma, 茅根)\n기원: 띠 Imperata cylindrica var. koenigii의 가는 뿌리 및 뿌리줄기(비늘잎 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 승마 — 미나리아재비과, cycloartane계 triterpenoid: cimigenol, cimicifugoside\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
         "석창포"
       ],
       "answer": "반하",
-      "explanation": "정답: 반하 (Pinelliae Tuber, 半夏)\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천남성 — 천남성과, 기타: saponin, diacylglycerylgalactoside\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
+      "explanation": "정답: 반하 (Pinelliae Tuber, 半夏)\n기원: 반하(끼무릇) Pinellia ternata의 덩이줄기(주피를 완전히 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천남성 — 천남성과, 기타: saponin, diacylglycerylgalactoside\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 반하 = 진정·진토·거담 / 석회수 법제 → 반하 / 반하 과명 = 천남성과 / 생강과 함께 사용"
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
         "다투라엽"
       ],
       "answer": "방기",
-      "explanation": "정답: 방기 (Sinomeni Caulis et Rhizoma, 防己)\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
+      "explanation": "정답: 방기 (Sinomeni Caulis et Rhizoma, 防己)\n기원: 방기(댕댕이덩굴 아님) Sinomenium acutum의 덩굴성 줄기 및 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: alkaloid 정색반응(Dragendorff·Mayer) → 방기"
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
         "석창포"
       ],
       "answer": "백출",
-      "explanation": "정답: 백출 (Atractylodis Rhizoma Alba, 白朮)\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
+      "explanation": "정답: 백출 (Atractylodis Rhizoma Alba, 白朮)\n기원: 삽주 Atractylodes japonica 또는 백출 A. macrocephala의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 백출 기원 = Atractylodes japonica(삽주)·A. macrocephala / 백출 효능 = 안태(임신 유지) / vanillin·HCl 홍색 → 백출 / 없음 → 창출"
     },
     {
       "id": 7,
@@ -92,7 +92,7 @@
         "창출"
       ],
       "answer": "창출",
-      "explanation": "정답: 창출 (Atractylodis Rhizoma, 蒼朮)\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
+      "explanation": "정답: 창출 (Atractylodis Rhizoma, 蒼朮)\n기원: 모창출 Atractylodes lancea 또는 북창출 A. chinensis의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 아출 — 생강과, 정유(1~5%) sesquiterpenoid: curzerenone, ar-turmerone\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 창출 기원 2개 = 모창출 A. lancea · 북창출 A. chinensis"
     },
     {
       "id": 8,
@@ -105,7 +105,7 @@
         "여로"
       ],
       "answer": "백합",
-      "explanation": "정답: 백합 (Lilii Bulbus, 百合)\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n★ 족보: 백합 용도 = 진해·거담·진정"
+      "explanation": "정답: 백합 (Lilii Bulbus, 百合)\n기원: 참나리 Lilium lancifolium, 백합 L. brownii var. viridulum, 큰솔나리 L. pumilum의 비늘줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 백합 용도 = 진해·거담·진정"
     },
     {
       "id": 9,
@@ -118,7 +118,7 @@
         "산약"
       ],
       "answer": "산약",
-      "explanation": "정답: 산약 (Dioscoreae Rhizoma, 山藥)\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
+      "explanation": "정답: 산약 (Dioscoreae Rhizoma, 山藥)\n기원: 마 Dioscorea batatas 또는 참마 D. japonica의 주피를 제거한 뿌리줄기(담근체)를 그대로 또는 쪄서 말린 것\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 산약 기원 = Dioscorea batatas · D. japonica / 산약 확인시험 = Liebermann-Burchard"
     },
     {
       "id": 10,
@@ -131,7 +131,7 @@
         "방기"
       ],
       "answer": "삼릉",
-      "explanation": "정답: 삼릉 (Sparganii Rhizoma, 三稜)\n기원: 흑삼릉 Sparganium stoloniferum의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 승마 — 미나리아재비과, cycloartane계 triterpenoid: cimigenol, cimicifugoside\n· 천궁 — 산형과(미나리과), phthalide(정유): ligustilide, butylidenephthalide\n· 모근 — 벼과, triterpenoid: cylindrin, arundoin\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n★ 족보: 삼릉 효능 = 통경·구어혈"
+      "explanation": "정답: 삼릉 (Sparganii Rhizoma, 三稜)\n기원: 흑삼릉 Sparganium stoloniferum의 덩이줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 승마 — 미나리아재비과, cycloartane계 triterpenoid: cimigenol, cimicifugoside\n· 천궁 — 산형과(미나리과), phthalide(정유): ligustilide, butylidenephthalide\n· 모근 — 벼과, triterpenoid: cylindrin, arundoin\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n📊 족보 등급 S (7개 연도에 정답·주제로 출제)\n★ 족보: 삼릉 효능 = 통경·구어혈"
     },
     {
       "id": 11,
@@ -144,7 +144,7 @@
         "석창포"
       ],
       "answer": "석창포",
-      "explanation": "정답: 석창포 (Acori Graminei Rhizoma, 石菖蒲)\n기원: 석창포 Acorus gramineus의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 반하 — 천남성과, phenol: homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 천남성 — 천남성과, 기타: saponin, diacylglycerylgalactoside\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III"
+      "explanation": "정답: 석창포 (Acori Graminei Rhizoma, 石菖蒲)\n기원: 석창포 Acorus gramineus의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 반하 — 천남성과, phenol: homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 천남성 — 천남성과, 기타: saponin, diacylglycerylgalactoside\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 12,
@@ -157,7 +157,7 @@
         "다투라엽"
       ],
       "answer": "스코폴리아근",
-      "explanation": "정답: 스코폴리아근 (Scopoliae Rhizoma)\n기원: 미치광이풀 Scopolia japonica 또는 S. carniolica의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n★ 족보: Vitali 반응 → 스코폴리아근 / hyoscyamine·scopolamine → 스코폴리아근 / 가지과 3개 = 스코폴리아근·벨라돈나근·히요스엽"
+      "explanation": "정답: 스코폴리아근 (Scopoliae Rhizoma)\n기원: 미치광이풀 Scopolia japonica 또는 S. carniolica의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: Vitali 반응 → 스코폴리아근 / hyoscyamine·scopolamine → 스코폴리아근 / 가지과 3개 = 스코폴리아근·벨라돈나근·히요스엽"
     },
     {
       "id": 13,
@@ -170,7 +170,7 @@
         "여로"
       ],
       "answer": "벨라돈나근",
-      "explanation": "정답: 벨라돈나근 (Belladonnae Radix)\n기원: 벨라돈나 Atropa belladonna의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine"
+      "explanation": "정답: 벨라돈나근 (Belladonnae Radix)\n기원: 벨라돈나 Atropa belladonna의 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 다투라엽 — 가지과, tropane alkaloid: (−)-hyoscyamine, atropine\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
     },
     {
       "id": 14,
@@ -183,7 +183,7 @@
         "스코폴리아근"
       ],
       "answer": "다투라엽",
-      "explanation": "정답: 다투라엽 (Daturae Folium)\n기원: 독말풀 Datura stramonium, 흰독말풀 D. metel의 꽃 필 때의 잎\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)"
+      "explanation": "정답: 다투라엽 (Daturae Folium)\n기원: 독말풀 Datura stramonium, 흰독말풀 D. metel의 꽃 필 때의 잎\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 벨라돈나근 — 가지과, tropane alkaloid: (−)-hyoscyamine, (−)-scopolamine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)"
     },
     {
       "id": 15,
@@ -196,7 +196,7 @@
         "삼릉"
       ],
       "answer": "승마",
-      "explanation": "정답: 승마 (Cimicifugae Rhizoma, 升麻)\n기원: 승마 Cimicifuga heracleifolia, 촛대승마 C. simplex, 눈빛승마 C. dahurica, 황새승마 C. foetida의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 모근 — 벼과, triterpenoid: cylindrin, arundoin\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n★ 족보: 승마 과명 = 미나리아재비과 Ranunculaceae / visnagin·cimifugin·visamminol = chromone → 승마 / cycloartane 갱년기 생약 → 승마"
+      "explanation": "정답: 승마 (Cimicifugae Rhizoma, 升麻)\n기원: 승마 Cimicifuga heracleifolia, 촛대승마 C. simplex, 눈빛승마 C. dahurica, 황새승마 C. foetida의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 모근 — 벼과, triterpenoid: cylindrin, arundoin\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 승마 과명 = 미나리아재비과 Ranunculaceae / visnagin·cimifugin·visamminol = chromone → 승마 / cycloartane 갱년기 생약 → 승마"
     },
     {
       "id": 16,
@@ -209,7 +209,7 @@
         "창출"
       ],
       "answer": "아출",
-      "explanation": "정답: 아출 (Curcumae Rhizoma, 莪朮)\n기원: 봉아출 Curcuma phaeocaulis, 광서아출 C. kwangsiensis, 온울금 C. wenyujin의 뿌리줄기(그대로 또는 쪄서 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n★ 족보: 생강과 생약: 강황·생강·아출·울금"
+      "explanation": "정답: 아출 (Curcumae Rhizoma, 莪朮)\n기원: 봉아출 Curcuma phaeocaulis, 광서아출 C. kwangsiensis, 온울금 C. wenyujin의 뿌리줄기(그대로 또는 쪄서 말림)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 생강과 생약: 강황·생강·아출·울금"
     },
     {
       "id": 17,
@@ -222,7 +222,7 @@
         "여로"
       ],
       "answer": "여로",
-      "explanation": "정답: 여로 (Veratri Rhizoma, 藜蘆)\n기원: 참여로 Veratrum nigrum var. ussuriense 또는 박새 V. oxysepalum의 뿌리줄기와 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n★ 족보: 살충·구충 생약 → 여로 / 백합과 → 지모·여로"
+      "explanation": "정답: 여로 (Veratri Rhizoma, 藜蘆)\n기원: 참여로 Veratrum nigrum var. ussuriense 또는 박새 V. oxysepalum의 뿌리줄기와 뿌리\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)\n★ 족보: 살충·구충 생약 → 여로 / 백합과 → 지모·여로"
     },
     {
       "id": 18,
@@ -235,7 +235,7 @@
         "지모"
       ],
       "answer": "절패모",
-      "explanation": "정답: 절패모 (Fritillariae Thunbergii Bulbus, 浙貝母)\n기원: 중국패모 Fritillaria thunbergii의 비늘줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n★ 족보: peimine·peiminoside → 절패모 / 법제 필수: 부자·천오·초오·절패모"
+      "explanation": "정답: 절패모 (Fritillariae Thunbergii Bulbus, 浙貝母)\n기원: 중국패모 Fritillaria thunbergii의 비늘줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 지모 — 백합과, steroidal saponin: timosaponin A-I~A-IV(aglycone sarsasapogenin)\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: peimine·peiminoside → 절패모 / 법제 필수: 부자·천오·초오·절패모"
     },
     {
       "id": 19,
@@ -248,7 +248,7 @@
         "지모"
       ],
       "answer": "지모",
-      "explanation": "정답: 지모 (Anemarrhenae Rhizoma, 知母)\n기원: 지모 Anemarrhena asphodeloides의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n★ 족보: mangiferin 0.7% → 지모 / 지모 혈당강하 성분 = anemaran A / 지모 확인시험 = LB·기포"
+      "explanation": "정답: 지모 (Anemarrhenae Rhizoma, 知母)\n기원: 지모 Anemarrhena asphodeloides의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 맥문동 — 백합과, steroidal saponin: ophiopogonin A·B·D\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n· 여로 — 백합과, steroidal alkaloid: jervine, veratramine\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: mangiferin 0.7% → 지모 / 지모 혈당강하 성분 = anemaran A / 지모 확인시험 = LB·기포"
     },
     {
       "id": 20,
@@ -261,7 +261,7 @@
         "스코폴리아근"
       ],
       "answer": "천골",
-      "explanation": "정답: 천골 (Nupharis Rhizoma, 川骨)\n기원: 개연꽃 Nuphar japonicum의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine"
+      "explanation": "정답: 천골 (Nupharis Rhizoma, 川骨)\n기원: 개연꽃 Nuphar japonicum의 뿌리줄기\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 창출 — 국화과, sesquiterpenoid: β-eudesmol, hinesol\n· 백출 — 국화과, sesquiterpenoid: atractylon, atractylenolide I~III\n· 방기 — 방기과(새모래덩굴과), phenanthrene(morphinan)계 alkaloid: sinomenine, disinomenine\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)"
     },
     {
       "id": 21,
@@ -274,7 +274,7 @@
         "삼릉"
       ],
       "answer": "천궁",
-      "explanation": "정답: 천궁 (Cnidii Rhizoma, 川芎)\n기원: 천궁 Cnidium officinale 또는 중국천궁 Ligusticum chuanxiong의 뿌리줄기(그대로 또는 끓는 물에 데침)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n★ 족보: 천궁 효능 = 진경·진정·혈압강하·혈류개선 / phthalide(cnidilide·ligustilide) → 천궁 / 사물탕 구성 생약"
+      "explanation": "정답: 천궁 (Cnidii Rhizoma, 川芎)\n기원: 천궁 Cnidium officinale 또는 중국천궁 Ligusticum chuanxiong의 뿌리줄기(그대로 또는 끓는 물에 데침)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 삼릉 — 흑삼릉과, triterpenoid: betulinic acid, betulin\n· 스코폴리아근 — 가지과, tropane alkaloid: (−)-hyoscyamine(→ 라세미화 = atropine), scopolamine\n· 천골 — 수련과, quinolizidine alkaloid: nupharidine, deoxynupharidine\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 천궁 효능 = 진경·진정·혈압강하·혈류개선 / phthalide(cnidilide·ligustilide) → 천궁 / 사물탕 구성 생약"
     },
     {
       "id": 22,
@@ -287,7 +287,7 @@
         "천남성"
       ],
       "answer": "천남성",
-      "explanation": "정답: 천남성 (Arisaematis Rhizoma, 天南星)\n기원: 둥근잎천남성 Arisaema amurense, 천남성 A. erubescens, 두루미천남성 A. heterophyllum의 덩이줄기(주피 완전 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 반하 — 천남성과, phenol: homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n★ 족보: 천남성 적응증 = 중풍·소아경기(각기·갑상선종 아님) / 천남성과: 반하·천남성·석창포"
+      "explanation": "정답: 천남성 (Arisaematis Rhizoma, 天南星)\n기원: 둥근잎천남성 Arisaema amurense, 천남성 A. erubescens, 두루미천남성 A. heterophyllum의 덩이줄기(주피 완전 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 반하 — 천남성과, phenol: homogentisic acid(및 배당체), 3,4-dihydroxybenzaldehyde(및 diglucoside)\n· 석창포 — 천남성과, 정유(0.5~0.9%, phenylpropanoid): β-asarone(주성분), α-asarone\n· 백합 — 백합과, glycerol glycoside: lilioside A~C\n· 절패모 — 백합과, steroidal alkaloid: verticine(= peimine), verticinone(= peiminine)\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 천남성 적응증 = 중풍·소아경기(각기·갑상선종 아님) / 천남성과: 반하·천남성·석창포"
     }
   ]
 }

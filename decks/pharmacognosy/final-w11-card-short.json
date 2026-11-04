@@ -1,0 +1,229 @@
+{
+  "deckId": "pharmacognosy-final-w11-card-short-g",
+  "subject": "생약학",
+  "title": "11주 카드 ③ 역방향·주관식: 성분·지표·산지 → 생약 (자근~총백)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "다음 성분을 함유하는 생약은?\nnaphthoquinone 색소 — shikonin, acetylshikonin, isobutylshikonin",
+      "choices": [
+        "황금",
+        "전호",
+        "자근",
+        "작약",
+        "천초근"
+      ],
+      "answer": "자근",
+      "explanation": "자근 (Lithospermi Radix) — 지치과 Boraginaceae\n오답: 천초근(anthraquinone), 작약(monoterpene glycoside(benzoate)), 황금(flavonoid(flavone)), 전호(coumarin(pyranocoumarin, khellactone형))\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: shikonin = naphthoquinone → 자근"
+    },
+    {
+      "id": 2,
+      "question": "라틴 생약명이 Lithospermi Radix인 생약의 한글 이름은?",
+      "answer": [
+        "자근",
+        "紫根"
+      ],
+      "explanation": "Lithospermi Radix = 자근(紫根)\n기원: 지치 Lithospermum erythrorhizon, 신강자초 Arnebia euchroma, 내몽자초 A. guttata의 뿌리 (Macrotomia euchroma 뿌리 = 연자근) — 지치과 Boraginaceae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: shikonin = naphthoquinone → 자근"
+    },
+    {
+      "id": 3,
+      "question": "약전에서 'albiflorin + paeoniflorin 2.3% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "작약"
+      ],
+      "explanation": "작약 (Paeoniae Radix) — 작약과 Paeoniaceae\n대표 성분: monoterpene glycoside(benzoate) — paeoniflorin, oxypaeoniflorin, benzoylpaeoniflorin, albiflorin\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: paeoniflorin → 작약(지표) / 사물탕 구성 생약"
+    },
+    {
+      "id": 4,
+      "question": "라틴 생약명이 Sanguisorbae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "지유",
+        "地楡"
+      ],
+      "explanation": "Sanguisorbae Radix = 지유(地楡)\n기원: 오이풀 Sanguisorba officinalis 또는 장엽지유 S. officinalis var. longifolia의 뿌리 — 장미과 Rosaceae\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: sanguiin H6 = tannin → 지유"
+    },
+    {
+      "id": 5,
+      "question": "다음 성분을 함유하는 생약은?\niridoid — catalpol, aucubin, rehmannioside A~D",
+      "choices": [
+        "칼룸바",
+        "파극천",
+        "자근",
+        "현삼",
+        "지황"
+      ],
+      "answer": "지황",
+      "explanation": "지황 (Rehmanniae Radix) — 현삼과 Scrophulariaceae\n오답: 현삼(iridoid), 파극천(iridoid), 자근(naphthoquinone 색소), 칼룸바(alkaloid(protoberberine, 2~3%))\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
+    },
+    {
+      "id": 6,
+      "question": "라틴 생약명이 Rehmanniae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "지황",
+        "地黃"
+      ],
+      "explanation": "Rehmanniae Radix = 지황(地黃)\n기원: 지황 Rehmannia glutinosa의 뿌리 (생지황 = 신선한 것, 건지황 = 말린 것) — 현삼과 Scrophulariaceae\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)\n★ 족보: 지황에 많고 건지황·숙지황에 적은 성분 = stachyose / catalpol = iridoid → 지황"
+    },
+    {
+      "id": 7,
+      "question": "다음 성분을 함유하는 생약은?\nfuran 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)",
+      "choices": [
+        "파극천",
+        "현삼",
+        "하수오",
+        "지황",
+        "숙지황"
+      ],
+      "answer": "숙지황",
+      "explanation": "숙지황 (Rehmanniae Radix Preparata) — 현삼과 Scrophulariaceae\n오답: 지황(iridoid), 현삼(iridoid), 파극천(iridoid), 하수오(stilbene glycoside)\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+    },
+    {
+      "id": 8,
+      "question": "약전에서 '5-hydroxymethyl-2-furaldehyde(5-HMF) 0.1% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "숙지황"
+      ],
+      "explanation": "숙지황 (Rehmanniae Radix Preparata) — 현삼과 Scrophulariaceae\n대표 성분: furan 알데하이드(찔 때 생성) — 5-hydroxymethyl-2-furaldehyde(5-HMF)\n📊 족보 등급 S (6개 연도에 정답·주제로 출제)\n★ 족보: 숙지황 지표 = 5-HMF / 사물탕 = 당귀·천궁·숙지황·작약"
+    },
+    {
+      "id": 9,
+      "question": "산지가 '동아프리카 모잠비크, 마다가스카르'인 생약은?",
+      "answer": [
+        "칼룸바"
+      ],
+      "explanation": "칼룸바 (Calumbae Radix) — 방기과 Menispermaceae\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: protoberberine alkaloid 함유 생약(칼룸바·황련·황백 등)"
+    },
+    {
+      "id": 10,
+      "question": "다음 성분을 함유하는 생약은?\nisoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine",
+      "choices": [
+        "전호",
+        "천초근",
+        "칼룸바",
+        "파극천",
+        "토근"
+      ],
+      "answer": "토근",
+      "explanation": "토근 (Ipecacuanhae Radix et Rhizoma) — 꼭두서니과 Rubiaceae\n오답: 파극천(iridoid), 천초근(anthraquinone), 칼룸바(alkaloid(protoberberine, 2~3%)), 전호(coumarin(pyranocoumarin, khellactone형))\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 11,
+      "question": "약전에서 '총 alkaloid(emetine + cephaeline) 2.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "토근"
+      ],
+      "explanation": "토근 (Ipecacuanhae Radix et Rhizoma) — 꼭두서니과 Rubiaceae\n대표 성분: isoquinoline alkaloid(2~3%) — emetine, cephaeline, emetamine, psychotrine, protoemetine\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: emetine 2.0% → 토근 / 산지: 브라질 / Snelling 반응 → 토근"
+    },
+    {
+      "id": 12,
+      "question": "다음 성분을 함유하는 생약은?\nstilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside",
+      "choices": [
+        "황기",
+        "천초근",
+        "숙지황",
+        "하수오",
+        "파극천"
+      ],
+      "answer": "하수오",
+      "explanation": "하수오 (Polygoni Multiflori Radix) — 마디풀과 Polygonaceae\n오답: 파극천(iridoid), 숙지황(furan 알데하이드(찔 때 생성)), 천초근(anthraquinone), 황기(isoflavonoid)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 13,
+      "question": "약전에서 '2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside 0.75% 이상 + emodin·physcion 합 0.10% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "하수오"
+      ],
+      "explanation": "하수오 (Polygoni Multiflori Radix) — 마디풀과 Polygonaceae\n대표 성분: stilbene glycoside — 2,3,5,4′-tetrahydroxystilbene-2-O-β-D-glucoside\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: stilbene glucoside → 하수오(지표) / Bornträger 반응 → 하수오·대황(anthraquinone)"
+    },
+    {
+      "id": 14,
+      "question": "다음 성분을 함유하는 생약은?\niridoid — harpagide, harpagoside, 8-O-(p-methoxycinnamoyl)harpagide",
+      "choices": [
+        "파극천",
+        "전호",
+        "현삼",
+        "숙지황",
+        "지황"
+      ],
+      "answer": "현삼",
+      "explanation": "현삼 (Scrophulariae Radix) — 현삼과 Scrophulariaceae\n오답: 지황(iridoid), 숙지황(furan 알데하이드(찔 때 생성)), 파극천(iridoid), 전호(coumarin(pyranocoumarin, khellactone형))\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 15,
+      "question": "라틴 생약명이 Scrophulariae Radix인 생약의 한글 이름은?",
+      "answer": [
+        "현삼",
+        "玄蔘"
+      ],
+      "explanation": "Scrophulariae Radix = 현삼(玄蔘)\n기원: 현삼 Scrophularia buergeriana 또는 중국현삼 S. ningpoensis의 뿌리 — 현삼과 Scrophulariaceae\n📊 족보 등급 S (5개 연도에 정답·주제로 출제)"
+    },
+    {
+      "id": 16,
+      "question": "다음 성분을 함유하는 생약은?\nflavonoid(flavone) — baicalin, baicalein, wogonin",
+      "choices": [
+        "전호",
+        "자근",
+        "숙지황",
+        "황금",
+        "노근"
+      ],
+      "answer": "황금",
+      "explanation": "황금 (Scutellariae Radix) — 꿀풀과 Labiatae\n오답: 자근(naphthoquinone 색소), 전호(coumarin(pyranocoumarin, khellactone형)), 노근(아미노산·단백질), 숙지황(furan 알데하이드(찔 때 생성))\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 17,
+      "question": "약전에서 'baicalin + baicalein + wogonin 합 10.0% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "황금"
+      ],
+      "explanation": "황금 (Scutellariae Radix) — 꿀풀과 Labiatae\n대표 성분: flavonoid(flavone) — baicalin, baicalein, wogonin, oroxylin A, skullcapflavone I·II, chrysin\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: baicalin·baicalein → 황금 / baicalin 10% → 황금(지표)"
+    },
+    {
+      "id": 18,
+      "question": "다음 성분을 함유하는 생약은?\nisoflavonoid — formononetin, calycosin, astraisoflavan",
+      "choices": [
+        "파극천",
+        "하수오",
+        "황기",
+        "노근",
+        "천초근"
+      ],
+      "answer": "황기",
+      "explanation": "황기 (Astragali Radix) — 콩과 Leguminosae\n오답: 천초근(anthraquinone), 파극천(iridoid), 하수오(stilbene glycoside), 노근(아미노산·단백질)\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
+    },
+    {
+      "id": 19,
+      "question": "라틴 생약명이 Astragali Radix인 생약의 한글 이름은?",
+      "answer": [
+        "황기",
+        "黃芪"
+      ],
+      "explanation": "Astragali Radix = 황기(黃芪)\n기원: 황기 Astragalus membranaceus 또는 몽골황기 A. membranaceus var. mongholicus의 뿌리 — 콩과 Leguminosae\n📊 족보 등급 S (4개 연도에 정답·주제로 출제)\n★ 족보: 황기 = 지한(땀을 멈춤) / astragaloside = cycloartane형"
+    },
+    {
+      "id": 20,
+      "question": "약전에서 '6-gingerol 0.4% 이상'을(를) 지표 기준으로 하는 생약은?",
+      "answer": [
+        "건강"
+      ],
+      "explanation": "건강 (Zingiberis Rhizoma) — 생강과 Zingiberaceae\n대표 성분: 신미 성분(0.8%) — 6-gingerol, 6-shogaol(건조 과정에서 증가), zingerone, dehydrogingerdione\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 생강 건조 → shogaol 증가 / 발한: 생강 > 건강 / 6-gingerol 0.4% → 건강"
+    },
+    {
+      "id": 21,
+      "question": "라틴 생약명이 Zingiberis Rhizoma Recens인 생약의 한글 이름은?",
+      "answer": [
+        "생강",
+        "生薑"
+      ],
+      "explanation": "Zingiberis Rhizoma Recens = 생강(生薑)\n기원: 생강 Zingiber officinale의 신선한 뿌리줄기 — 생강과 Zingiberaceae\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 생강 vs 건강: gingerol vs shogaol"
+    },
+    {
+      "id": 22,
+      "question": "산지가 '서부 아시아 또는 중국 원산(한국·중국·일본 재배)'인 생약은?",
+      "answer": [
+        "대산"
+      ],
+      "explanation": "대산 (Allii Bulbus) — 백합과 Liliaceae\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 대산 = Allii Bulbus / 자극성 냄새 = allicin(alliin에서 alliinase로 생성)"
+    }
+  ]
+}

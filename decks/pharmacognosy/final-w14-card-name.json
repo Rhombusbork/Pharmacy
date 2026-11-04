@@ -1,5 +1,5 @@
 {
-  "deckId": "pharmacognosy-final-w14-card-name",
+  "deckId": "pharmacognosy-final-w14-card-name-g",
   "subject": "생약학",
   "title": "14주 카드 ① 이름 가린 카드 (빈랑자~호미카)",
   "questions": [
@@ -14,7 +14,7 @@
         "산조인"
       ],
       "answer": "빈랑자",
-      "explanation": "정답: 빈랑자 (Arecae Semen, 檳榔子)\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
+      "explanation": "정답: 빈랑자 (Arecae Semen, 檳榔子)\n기원: 빈랑나무 Areca catechu의 잘 익은 씨(열매를 삶아 열매껍질을 벗긴 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 구충·살충 생약 → 빈랑자 / arecoline = pyridine alkaloid"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
         "연자육"
       ],
       "answer": "산조인",
-      "explanation": "정답: 산조인 (Zizyphi Semen, 酸棗仁)\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 토사자 — 메꽃과, flavonoid: hyperoside, quercetin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 도인 — 장미과, 청산배당체: amygdalin\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
+      "explanation": "정답: 산조인 (Zizyphi Semen, 酸棗仁)\n기원: 산조(멧대추나무) Zizyphus jujuba var. spinosa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 토사자 — 메꽃과, flavonoid: hyperoside, quercetin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 도인 — 장미과, 청산배당체: amygdalin\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 산조인 과명 = 갈매나무과 Rhamnaceae / sanjoinine = cyclopeptide alkaloid / 산조인 saponin = dammarane(jujuboside)"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "의이인"
       ],
       "answer": "스트로판투스",
-      "explanation": "정답: 스트로판투스 (Strophanthi Semen)\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n★ 족보: ouabain → 스트로판투스"
+      "explanation": "정답: 스트로판투스 (Strophanthi Semen)\n기원: Strophanthus kombe 또는 동속식물의 잘 익은 씨(모관 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: ouabain → 스트로판투스"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
         "도인"
       ],
       "answer": "아마인",
-      "explanation": "정답: 아마인 (Lini Semen, 亞麻仁)\n기원: 아마 Linum usitatissimum의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 육두구 — 육두구과, phenylpropene: myristicin, trans-isoelemicin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 스트로판투스 — 협죽도과, 강심배당체(cardiac glycoside, cardenolide): G-strophanthin(= ouabain), K-strophanthoside\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
+      "explanation": "정답: 아마인 (Lini Semen, 亞麻仁)\n기원: 아마 Linum usitatissimum의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 육두구 — 육두구과, phenylpropene: myristicin, trans-isoelemicin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 스트로판투스 — 협죽도과, 강심배당체(cardiac glycoside, cardenolide): G-strophanthin(= ouabain), K-strophanthoside\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: linamarin = 청산배당체(cyanogenic glycoside) → 아마인"
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
         "커피두"
       ],
       "answer": "연자육",
-      "explanation": "정답: 연자육 (Nelumbinis Semen, 蓮子肉)\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 커피두 — 꼭두서니과, purine alkaloid: caffeine, theobromine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+      "explanation": "정답: 연자육 (Nelumbinis Semen, 蓮子肉)\n기원: 연꽃 Nelumbo nucifera의 성숙 과실(석련자)에서 얻은 종자(연심 제거한 것)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 커피두 — 꼭두서니과, purine alkaloid: caffeine, theobromine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
         "호미카"
       ],
       "answer": "육두구",
-      "explanation": "정답: 육두구 (Myristicae Semen, 肉荳蔲)\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 아마인 — 아마과, 청산배당체(cyanogenic glycoside): linamarin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n★ 족보: 육두구 환각 성분 = myristicin"
+      "explanation": "정답: 육두구 (Myristicae Semen, 肉荳蔲)\n기원: 육두구 Myristica fragrans의 잘 익은 씨(가종피·씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 아마인 — 아마과, 청산배당체(cyanogenic glycoside): linamarin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 육두구 환각 성분 = myristicin"
     },
     {
       "id": 7,
@@ -92,7 +92,7 @@
         "의이인"
       ],
       "answer": "의이인",
-      "explanation": "정답: 의이인 (Coicis Semen, 薏苡仁)\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 파두 — 대극과, tigliane phorbol ester(croton resin): phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n★ 족보: 의이인 항암 성분 = coixenolide"
+      "explanation": "정답: 의이인 (Coicis Semen, 薏苡仁)\n기원: 율무 Coix lacryma-jobi var. mayuen의 잘 익은 씨(씨껍질 제거)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 파두 — 대극과, tigliane phorbol ester(croton resin): phorbol ester A1~A4·B1~B7, 13-O-acetylphorbol-20-linolate\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n📊 족보 등급 A (2개 연도에 정답·주제로 출제)\n★ 족보: 의이인 항암 성분 = coixenolide"
     },
     {
       "id": 8,
@@ -105,7 +105,7 @@
         "차전자"
       ],
       "answer": "정력자",
-      "explanation": "정답: 정력자 (Lepidii seu Descurainiae Semen, 葶藶子)\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+      "explanation": "정답: 정력자 (Lepidii seu Descurainiae Semen, 葶藶子)\n기원: 다닥냉이 Lepidium apetalum 또는 재쑥 Descurainia sophia의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 9,
@@ -118,7 +118,7 @@
         "정력자"
       ],
       "answer": "차전자",
-      "explanation": "정답: 차전자 (Plantaginis Semen, 車前子)\n기원: 질경이 Plantago asiatica 또는 털질경이 P. depressa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin"
+      "explanation": "정답: 차전자 (Plantaginis Semen, 車前子)\n기원: 질경이 Plantago asiatica 또는 털질경이 P. depressa의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 10,
@@ -131,7 +131,7 @@
         "산조인"
       ],
       "answer": "카라발두",
-      "explanation": "정답: 카라발두 (Physostigmatis Semen)\n기원: 카라발콩 Physostigma venenosum의 성숙 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n★ 족보: 카라발두 적응증 = 초기 녹내장·근무력증·수술 후 장마비 (뇌졸중 아님) / ordeal bean = 카라발두 = Physostigma venenosum"
+      "explanation": "정답: 카라발두 (Physostigmatis Semen)\n기원: 카라발콩 Physostigma venenosum의 성숙 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 카라발두 적응증 = 초기 녹내장·근무력증·수술 후 장마비 (뇌졸중 아님) / ordeal bean = 카라발두 = Physostigma venenosum"
     },
     {
       "id": 11,
@@ -144,7 +144,7 @@
         "빈랑자"
       ],
       "answer": "커피두",
-      "explanation": "정답: 커피두 (Coffeae Semen)\n기원: 커피나무 Coffea arabica, C. liberica, C. canephora의 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n★ 족보: 커피두 과명 = 꼭두서니과 Rubiaceae"
+      "explanation": "정답: 커피두 (Coffeae Semen)\n기원: 커피나무 Coffea arabica, C. liberica, C. canephora의 종자\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 연자육 — 수련과, alkaloid(benzylisoquinoline·aporphine): armepavine, N-methylcoclaurine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: 커피두 과명 = 꼭두서니과 Rubiaceae"
     },
     {
       "id": 12,
@@ -157,7 +157,7 @@
         "빈랑자"
       ],
       "answer": "콜히쿰자",
-      "explanation": "정답: 콜히쿰자 (Colchici Semen)\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine"
+      "explanation": "정답: 콜히쿰자 (Colchici Semen)\n기원: 콜히쿰 Colchicum autumnale의 성숙한 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 호미카 — 마전과, indole alkaloid: strychnine, brucine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 13,
@@ -170,7 +170,7 @@
         "토사자"
       ],
       "answer": "토사자",
-      "explanation": "정답: 토사자 (Cuscutae Semen, 菟絲子)\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)"
+      "explanation": "정답: 토사자 (Cuscutae Semen, 菟絲子)\n기원: 갯실새삼 Cuscuta chinensis의 잘 익은 씨 (중국: 실새삼 C. australis)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)"
     },
     {
       "id": 14,
@@ -183,7 +183,7 @@
         "욱리인"
       ],
       "answer": "파두",
-      "explanation": "정답: 파두 (Crotonis Semen, 巴豆)\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
+      "explanation": "정답: 파두 (Crotonis Semen, 巴豆)\n기원: 파두 Croton tiglium의 씨(종피를 벗겨 사용)\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 의이인 — 벼과, 지방산 ester: coixenolide(항암)\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 파두 발암·독성 성분 = phorbol ester"
     },
     {
       "id": 15,
@@ -196,7 +196,7 @@
         "고편도"
       ],
       "answer": "행인",
-      "explanation": "정답: 행인 (Armeniacae Semen, 杏仁)\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
+      "explanation": "정답: 행인 (Armeniacae Semen, 杏仁)\n기원: 살구나무 Prunus armeniaca var. ansu, 개살구나무 P. mandshurica var. glabra, 시베리아살구 P. sibirica, 아르메니아살구 P. armeniaca의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 도인 — 장미과, 청산배당체: amygdalin\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: amygdalin = 청산배당체 → 행인·고편도"
     },
     {
       "id": 16,
@@ -209,7 +209,7 @@
         "도인"
       ],
       "answer": "고편도",
-      "explanation": "정답: 고편도 (Amygdali Semen Amara, 苦扁桃)\n기원: Prunus amygdalus var. amara의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n★ 족보: amygdalin → 행인·고편도"
+      "explanation": "정답: 고편도 (Amygdali Semen Amara, 苦扁桃)\n기원: Prunus amygdalus var. amara의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 정력자 — 십자화과, 강심배당체: helveticoside, evomonoside\n📊 족보 등급 B (1개 연도에 정답·주제로 출제)\n★ 족보: amygdalin → 행인·고편도"
     },
     {
       "id": 17,
@@ -222,7 +222,7 @@
         "고편도"
       ],
       "answer": "도인",
-      "explanation": "정답: 도인 (Persicae Semen, 桃仁)\n기원: 복숭아 Prunus persica 또는 산복사 P. davidiana의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁"
+      "explanation": "정답: 도인 (Persicae Semen, 桃仁)\n기원: 복숭아 Prunus persica 또는 산복사 P. davidiana의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 욱리인 — 장미과, flavonoid: prunuside(= multiflorin A), multiflorin B\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 18,
@@ -235,7 +235,7 @@
         "도인"
       ],
       "answer": "욱리인",
-      "explanation": "정답: 욱리인 (Pruni Japonicae Semen, 郁李仁)\n기원: 이스라지 Prunus japonica 또는 앵두나무 P. humilis의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁"
+      "explanation": "정답: 욱리인 (Pruni Japonicae Semen, 郁李仁)\n기원: 이스라지 Prunus japonica 또는 앵두나무 P. humilis의 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 행인 — 장미과, 청산배당체(cyanogenic glycoside): amygdalin, prunasin\n· 도인 — 장미과, 청산배당체: amygdalin\n· 고편도 — 장미과, 청산배당체: amygdalin 2.5~4%\n· 산조인 — 갈매나무과, cyclopeptide alkaloid: sanjoinine A(= frangufoline), sanjoinine B·D·F·G₁\n📊 족보 등급 C (0개 연도에 정답·주제로 출제)"
     },
     {
       "id": 19,
@@ -248,7 +248,7 @@
         "차전자"
       ],
       "answer": "호미카",
-      "explanation": "정답: 호미카 (Strychni Semen)\n기원: 마전자나무 Strychnos nux-vomica의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n★ 족보: 과량 → 경련 발작·질식 사망 → 호미카"
+      "explanation": "정답: 호미카 (Strychni Semen)\n기원: 마전자나무 Strychnos nux-vomica의 잘 익은 씨\n\n오답(같은 과·같은 성분 계열·비슷한 효능으로 고른 이웃):\n· 카라발두 — 콩과, indole alkaloid: physostigmine(= eserine), norphysostigmine\n· 빈랑자 — 야자과, pyridine alkaloid: arecoline, arecaidine\n· 콜히쿰자 — 백합과, alkaloid(tropolone): colchicine, colchicoside\n· 차전자 — 질경이과, mucilage: plantasan, plantago-mucilage A\n📊 족보 등급 A (3개 연도에 정답·주제로 출제)\n★ 족보: 과량 → 경련 발작·질식 사망 → 호미카"
     }
   ]
 }
