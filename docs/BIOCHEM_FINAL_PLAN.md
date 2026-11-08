@@ -269,3 +269,4 @@
 
 ### 진행
 - [x] 9-1 Ch8 축① `axis-next-ch8` 70문항 · 족보 외 생화학 24덱 목록 숨김(2026-11-08)
+- [x] 9-2 Ch12 축① `axis-next-ch12` 21사슬 104문항(2026-11-08). 공통 생성기 `../.tools/bio/axis_next_lib.py`, `axis_next_ch12.py`

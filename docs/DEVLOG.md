@@ -646,3 +646,9 @@ SMILES로 표현할 수 없는 전자 이동(굽은) 화살표, 반응 메커니
 - 숨김: `decks/index.json`에서 족보(`final-ex-*`)가 아닌 생화학 24덱을 빼고 `decks/index-hidden.json`에 목록 보관. 파일과 기록(deckId 기준)은 그대로라 다시 넣으면 이어짐. 다른 과목은 바꾸지 않음.
 - 결정: 기말 범위(Ch7~12)에는 NADH·ATP를 따지는 대사 경로가 거의 없어, 장마다 "에너지·전달자 축"(Ch11 수송체 에너지원, Ch12 2차 전달자 등)으로 바꾸기로 계획(`docs/BIOCHEM_FINAL_PLAN.md` 9절).
 - 확인: 스크립트에서 모든 문항이 선지 4개 서로 다름·정답 포함인지 검사함.
+
+## 생화학 Ch12 "다음 단계" 덱 (2026-11-08)
+
+- 사용자 의견: "Ras → Raf → MEK → MAPK처럼 순서를 알아야 하는 게 많다" → Ch12를 바로 만듦.
+- `decks/biochem/axis-next-ch12.json`(deckId `biochem-axis-next-ch12`, 21사슬 104문항): G 단백질 스위치, Gs·Gi·Gq(IP₃·DAG 가지), 탈감작, 콜레라·백일해 독소, 시각, 인슐린(GLUT4·글리코젠), MAPK, NO–cGMP, 핵 수용체, 세포주기, 팔보시클립, p53, apoptosis 2가지.
+- 생성 공통 부분을 `../.tools/bio/axis_next_lib.py`로 뺌(다른 장도 사슬 목록만 쓰면 됨). 모든 문항 선지 4개 서로 다름·정답 포함 검사.
