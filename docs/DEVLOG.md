@@ -652,3 +652,9 @@ SMILES로 표현할 수 없는 전자 이동(굽은) 화살표, 반응 메커니
 - 사용자 의견: "Ras → Raf → MEK → MAPK처럼 순서를 알아야 하는 게 많다" → Ch12를 바로 만듦.
 - `decks/biochem/axis-next-ch12.json`(deckId `biochem-axis-next-ch12`, 21사슬 104문항): G 단백질 스위치, Gs·Gi·Gq(IP₃·DAG 가지), 탈감작, 콜레라·백일해 독소, 시각, 인슐린(GLUT4·글리코젠), MAPK, NO–cGMP, 핵 수용체, 세포주기, 팔보시클립, p53, apoptosis 2가지.
 - 생성 공통 부분을 `../.tools/bio/axis_next_lib.py`로 뺌(다른 장도 사슬 목록만 쓰면 됨). 모든 문항 선지 4개 서로 다름·정답 포함 검사.
+
+## 생화학 "다음 단계" 덱 목록에서 제외 (2026-11-09)
+
+- 사용자 의견: 다음 단계 퀴즈를 빼고, 그 전의 단원별 여러 퀴즈 구성으로 되돌려 달라.
+- `decks/index.json`에서 `axis-next-ch8`·`axis-next-ch12`를 빼고, 숨겼던 24덱을 원래 자리에 복원. 두 덱은 `decks/index-hidden.json`으로 옮김.
+- 결정: git 이력을 되돌리지 않고 목록만 바꿈(그 뒤의 커밋 유지, 덱 파일과 풀이 기록도 유지).

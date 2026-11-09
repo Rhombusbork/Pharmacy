@@ -1,29 +1,7 @@
 {
   "설명": "앱 목록에서 잠시 숨긴 덱(파일은 그대로). 다시 보이게 하려면 이 경로를 decks/index.json에 옮기면 된다. 기록은 deckId에 붙어 있어 그대로 이어진다.",
   "decks": [
-    "biochem/final-terms-ch7-1.json",
-    "biochem/final-terms-ch7-2.json",
-    "biochem/final-terms-ch8.json",
-    "biochem/final-terms-ch9.json",
-    "biochem/final-terms-ch10.json",
-    "biochem/final-terms-ch11.json",
-    "biochem/final-terms-ch12.json",
-    "biochem/final-struct.json",
-    "biochem/final-struct-ch7.json",
-    "biochem/final-concept-ch7.json",
-    "biochem/final-concept2-ch8.json",
-    "biochem/final-concept2-ch9.json",
-    "biochem/final-concept2-ch10.json",
-    "biochem/final-concept2-ch11.json",
-    "biochem/final-concept2-ch12.json",
-    "biochem/final-select.json",
-    "biochem/final-apply-ch7-1.json",
-    "biochem/final-blanks-1.json",
-    "biochem/final-blanks-2.json",
-    "biochem/mech-long-ch7.json",
-    "biochem/final-essay-kw.json",
-    "biochem/final-predict.json",
-    "biochem/final-compare.json",
-    "biochem/final-apply-ch7-2.json"
+    "biochem/axis-next-ch8.json",
+    "biochem/axis-next-ch12.json"
   ]
 }
