@@ -5,7 +5,7 @@
 > 실제 적용 예: `ORGCHEM_FINAL_PLAN.md`(반응 과목), `BIOCHEM_FINAL_PLAN.md`(개념·서술 과목), `PHARMACOGNOSY_FINAL_PLAN.md`(암기 과목).
 
 ## 0. 시작 전 확인
-1. `ls -lt ../study_system/materials/<과목>/` — 자료는 2026-11-09부터 이 폴더에 있다. 계획서 등 옛 문서의 `materials/...` 경로도 `../study_system/materials/...`로 읽는다. 사용자가 말없이 새 자료(PPT·족보·문제집)를 넣었을 수 있다. **가장 먼저** 확인한다.
+1. `ls -lt ~/study_system/materials/<과목>/` — 자료는 2026-11-09부터 이 폴더에 있다. 계획서 등 옛 문서의 `materials/...` 경로도 `~/study_system/materials/...`로 읽는다. 사용자가 말없이 새 자료(PPT·족보·문제집)를 넣었을 수 있다. **가장 먼저** 확인한다.
 2. 작업 브랜치 확인(학기·시험별 브랜치, 예: `2026-2-final`). main에는 앱 코드만 둔다.
 3. 이미 계획서(`docs/<과목>_FINAL_PLAN.md` 등)가 있으면 "진행 상황"부터 읽고 이어서 한다.
 
